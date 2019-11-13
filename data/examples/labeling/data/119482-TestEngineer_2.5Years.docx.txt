@@ -1,0 +1,81 @@
+Sarath Chaitanya Gurujala gsarat.chaitanya@gmail.com 
+Mobile: +91-9700627897 Career Objective 
+To enhance my skills & abilities for professional & personal growth by working for an esteemed Organization and making right utilization of the opportunities provided in the platform. 
+Professional Experience 
+Working as Test Engineer in Infosys Technologies since Feb 2014. 2.5+ years of experience in Manual Testing at Functional, Integration, System, Regression, Database, Security Testing and 1.5+ years of experience in Selenium Automation Testing. 
+Testing and bug-fixing on accessibility issues as a member of an agile team. 
+Hands on experience in technologies SQL. 
+Experienced in writing Test Cases, Test Package, Test Summary Reports, Test Status Reports. 
+Experienced in using tools like MTM. 
+Experienced in generating the automation test scripts using Selenium. 
+Technical Skills 
+Proficient in Manual Testing, Web Testing, Security testing, Automation testing, and Accessibility testing. 
+Proficient in Test Management Tool. 
+Trained in Automation Testing tools Selenium, Coded UI, Appium. 
+Good Knowledge in Assistive technologies like WAI-ARIA, NVDA, JAWS, Voice Over. 
+Having knowledge on SQL, Fiddler tool and Browser stack (Cross browser testing). 
+Having Knowledge on WCAG Guidelines and Section 508 standards. 
+Achievements 
+Won the Best Debutant Award in FY16. 
+Awarded with Certificate of Excellence for outstanding performance and lasting contribution on Accessibility. 
+Project Details 
+Project Name Microsoft Staffing (External Global Careers) 5 Applications 
+Role Test Engineer 
+Client Microsoft 
+Domain Manufacturing 
+Technology ASP.NET, C#, MS SQL 2008/2012,Azure 
+Description Enhancing, Maintaining and production support for Microsoft Staffing Applications. 
+Responsibilities Enhancing, Maintenance of External Global Careers portal which contains 5 applications developed on different technologies. 
+Analyzing the Functional Specification document which we have received from Microsoft Business. 
+Obtaining requirement clarifications by having discussions with the development team or by attending calls with the Client. 
+Preparation of Test Plan in TFS. 
+Preparing Test Cases in Microsoft Test Manager. 
+Writing Test cases for all the Functionalities in the system. 
+Executing the Test case documents in MTM. 
+Log the Defects in the TFS. 
+Track the defects and maintain the status in TFS. 
+Write the C# code to automate the test cases using Selenium. 
+Automation Plan to execute the test cases. 
+Support to the UAT testing and Prod testing. 
+Tested and fixed the complete web applications for compliance with the U.S. Government Section 508 as well as performing browser compatibility. 
+Project Name Microsoft Staffing (Internal Global Careers) 
+SharePoint Application 
+Role Test Engineer 
+Client Microsoft 
+Domain Manufacturing 
+Technology SharePoint 2013/2010, WCF Services, SQL 2008. 
+Description Maintaining and production support for Microsoft Staffing Applications. 
+Responsibilities Analyzing the Functional Specification document which we have received from Microsoft Business. 
+Obtain requirement clarifications by having discussions with the development team or by attending calls with the Client. 
+Preparation of Test Plan in TFS. 
+Preparing Test Cases in Microsoft Test Manager. 
+Writing Test cases for all the Functionalities in the system. 
+Executing the Test case documents in MTM. 
+Log the Defects in the TFS. 
+Track the defects and maintain the status in TFS. 
+Write the C# code to automate the test cases using Coded UI Test tool. 
+Automation Plan to execute the test cases. 
+Support to the UAT testing and Pre-Prod testing, Prod testing. 
+Project Name Microsoft Staffing (External Global Careers) 
+Mobile Application 
+Role Test Engineer 
+Client Microsoft 
+Domain Manufacturing 
+Technology Web API, ASP.NET MVC, C#, MS SQL 2008/2012 and Entity Framework 
+Description Maintaining and production support for Microsoft Staffing Applications. 
+Responsibilities Maintaining Microsoft External Careers site. (www.m.careers.microsoft.com) Analyzing the Functional Specification document which we have received from Microsoft Business. 
+Obtain requirement clarifications by having discussions with the development team or by attending calls with the Client. 
+Preparation of Test Plan in TFS. 
+Preparing Test Cases in Microsoft Test Manager. 
+Writing Test cases for all the Functionalities in the system. 
+Executing the Test case documents in MTM. 
+Log the Defects in the TFS. 
+Track the defects and maintain the status in TFS. 
+Support to the UAT testing and Pre-Prod testing. 
+Testing is done using fiddler. 
+Education 
+B.TECH in ECE With aggregate of 70% from SKTRMCE in the year 2013, Kurnool. 
+Personal Details 
+Date of Birth: 17 March 1992 
+Work Location: Hyderabad. 
+(G Sarath Chaitanya) 

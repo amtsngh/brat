@@ -1,0 +1,126 @@
+NAVNEET PRAKASH 
+" MCA with 1.6 yrs experience in Software Development using Java/J2EE Technologies. " navneet.prakash06@gmail.com 
+8826929203 
+Current Designation: Java Developer 
+Current Company: TagMyCollege 
+Current Location: Delhi 
+Pref. Location: Delhi, Delhi / NCR, Gurgaon 
+Functional Area: IT Software - Application Programming / Maintenance 
+Role: Software Developer 
+Industry: IT-Software/Software Services 
+Key Skills: Java, J2Ee, Servlets, JSP, Spring, Hibernate, MySQL 
+Total Experience: 1 Year(s) 6 Month(s) 
+Annual Salary: Rs 3.25 Lakhs 
+Expected CTC: Not Mentioned 
+Highest Degree: MCA 
+Notice period: 15 Days or less Work Experience TagMyCollege (Current Employer) 
+Java Developer | Dec 2016 
+Notice Period : 15 Days or less 
+Quantum Coders Ltd. 
+Software Developer | Mar 2014 To Apr 2015 Software Developer 
+IE Guild Technologies 
+Software Engineer | Oct 2011 To Mar 2014 Software engineer. 
+Education 
+Post Graduates ( Correspondence/Distance Learning ) 
+MCA (Computers) 
+Amity University | in 2016 
+Undergraduates ( Full Time ) 
+B.Sc (Computers) Kuvempu University, Karnataka | in 2010 Certifications 
+GNIIT Software Engineering - 3 yrs Diploma 
+IT Skills 
+No IT Skills added Language Known 
+Language Proficiency Read Write Speak 
+English Proficient 
+Hindi Proficient 
+Projects 
+No Projects Added 
+Other Details 
+Personal Detail 
+Date of Birth: 01 Jul 1989 
+Gender: Male 
+Marital Status: Single/unmarried 
+Address: 
+Delhi 110017 
+Home Town: New Delhi 
+Desired Job Details 
+Job Type: Permanent 
+Employment Status: Full Time 
+Work Authorization 
+US Work Status: Need H1 Visa 
+Countries: India 
+Affirmative Action 
+Category: General 
+Physically Challenged: No 
+Attached Resume 
+NAVNEET PRAKASH navneet.prakash06@gmail.com +91-8826929203 
+Career Objective 
+To become a successful professional in a highly competitive technological world where performance is rewarded with new challenging responsibilities and to serve a reputed growth oriented industry in the field of Design, Development and Maintenance. 
+Professional Summary 
+Total 3.6+ yrs of experience in software development using different Technologies. 
+Having 1.6 yrs experience in developing Web Applications using technologies Java / J2EE, Spring and Hibernate. 
+Hands on experience in Core Java, JDBC, Servlets, JSP, JavaScript, JQuery, Ajax and Hibernate. 
+Hands on experience in Spring Frameworks. 
+Implemented MVC, Singleton design pattern in web architecture. 
+Involved in complete life cycle of project. 
+Knowledge of Web Services. 
+Good Team player and also have ability to work independently. 
+Adaptive to learn new technologies. 
+Easily mingle with any environment and hardworking nature. 
+Professional Experience 
+Working as Java Developer in TagMyCollege, Gurgaon from Dec 2016 to till date. 
+Worked as Software Developer in Quantum Coders Ltd, New Delhi from Mar 2014 to Apr 2015. 
+Worked as Software Developer in IE Guild Ltd, New Delhi from Oct 2011 to Mar 2014. 
+Technical Skills 
+Languages: C/C++, Java 
+Java Technologies: Servlet, JSP 
+Framework: Spring 
+ORM TOOL: Hibernate 
+Database: MySql 
+Web Technologies: JavaScript, Jquery, AJAX 
+Web/App Servers: Apache, Tomcat 
+IDE: Eclipse, NetBeans 
+Tools: ANT 
+Operating System: Linux, Windows Family 
+Project Summary 1. Online e-Auction 
+Language: Java 1.8 Framework: Spring & Hibernate Database: Mysql 
+Web Server: GlassFish App Server: Tomcat 8.0 IDE: NetBeans 
+Role: Team member 
+Overview: 
+The purpose of the E-Trade platform is to make convenient and easy-to-use online system where a buyer and seller can trade their goods and services. 
+The seller can list his commodities on the platform to find prospective buyers. 
+The platform will also have reverse bidding option where a buyer can list his requirements and seller can bid on those requirements. 
+The system will also have an admin which can manage and oversee all the auctions, handle user management and allotment of the commodities. 
+2. Automatic Link Embedder System 
+Language: Java 1.7 Framework: Spring Mvc Database: Mysql 
+Web Server: Apache 2.2 App Server: Tomcat 7.0 IDE: Eclipse 
+Role: Team member 
+Overview: 
+On link embedder client can write content and submit. 
+Insert the links and set the Priority of External and Internal links. 
+Insert the selected links to make then match keywords links. 
+After submission of content, the Engine generates the link which matches the keywords. 
+3. ERMS(Employee Recruitment Management System) 
+Language: Java 1.7 Framework: Spring Mvc Database: Mysql 
+Web Server: Apache 2.2 AppServer: Tomcat 7.0 IDE: Eclipse 
+Role: Team member 
+Overview: 
+This project aims to fill the gap between management and development team regarding hiring of new candidate. 
+Talent Acquistion team call the desired candidates mentioned by Project manager on this ERMS and also schedule their interview. 
+Using this system, Store all the information of selected candidates. 
+4. Attendance Management System(AMS) 
+Language: Java 1.6 Technologies: Servlet, Jsp Database: Mysql IDE: Eclipse Role: Team member 
+Overview: 
+Goal of this module is to maintaining employees check-in and check-out details. 
+Tracking the employees attendance daily, weekly and monthly on dashboard. 
+Reviewing the employees performance. 
+5. Developed: 30+ E-Learning sites in Jquery, HTML, CSS. 
+Educational Qualification 
+Master of Computer Applications(MCA) from Amity University in 2016 with 70%. 
+GNIIT (Software Engineering 3yr Diploma) from NIIT in 2011 with 70% . 
+B.Sc Information Technology from Kuvempu University in 2010 with 67%. 
+Personal Details 
+Father's Name: Sh. B.N Singh 
+Date of Birth: 01 July 1989 
+Languages Known: English & Hindi. 
+Marital Status: Single 
+Permanent Address : C/o- Pramila Singh, Bhagwanpur Chowk, Bajrangpuram Road no-3, Muzaffarpur, Bihar. 

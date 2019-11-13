@@ -1,0 +1,68 @@
+ RESUME 
+Pooja Rajendra Gadge 
+Contact no: 09789566282 
+E-mail: poojargadge@gmail.com 
+OBJECTIVE 
+Seeking for a job where I can learn and contribute to the development of new technologies and work with a team of bright and committed people. 
+EDUCATIONAL QUALIFICATIONS 
+WORK EXPERIENCE 
+General Motors Technical Center India Pvt. Ltd. 
+Project Details: 1. 
+Title: SDCA (Serial Data Component Analysis) Tool. 
+Designation: Project Intern Trainee (August 29th 2016 May 26th 2017). 
+Responsibility: Designing and Development of Front End (5 modules), Worked on SharePoint. 
+Technology used: C# and Share Point. 
+2. 
+Title: ES&I Travel and Budget Management Tool. 
+Designation: Project Intern Trainee (August 29th 2016 May 26th 2017). 
+Responsibility: Designing and Development of Front End, Worked on SharePoint. 
+Technology used: C# and Share Point. 
+Sr. 
+No 
+Name of Examination 
+Board / University 
+Name of Institution Year of Passing 
+CGPA/ 
+Percentage (%) 1 M.Tech 
+VIT University VIT University, Vellore 2017 7.78 
+2 B.E RTM Nagpur University KDKCE, Nagpur 2014 62.37 
+3 H.S.S.C. MSBSHSE Mohota Science College, Nagpur 2010 57.67 
+4 S.S.C MSBSHSE South Point School, Nagpur 2008 84.76 MASTER THESIS PROJECT 
+Title: Perfection of QoS over Migration from Virtual Machine to Physical Machine. 
+Description: Data Migration from virtual to physical machine using ANT colony algorithm that diminishes energy consumption and maintains QoS. 
+Technology used: C# OTHER ACADEMICS PROJECTS 
+A project on 
+Auction based Inducement Structure for Mobile Network Offloading developed in Core JAVA. 
+A project on Speech Recognition using NLP developed using Python and CMUPocketSphinx. 
+A project on A Location Based Scheduler and Notification Tool developed in Core JAVA. 
+A project on Security with Multiphase Authentication developed in Core JAVA. 
+A project on 
+A Calendar using Vedic Mathematics developed in C#. 
+TECHNICAL SKILLS 
+Area of Interest: Algorithm, Data Structures. 
+Languages: C#, SharePoint Development, C, C++, CORE JAVA. 
+Web Technologies: RDF, OWL. 
+Tools: Visual studio. 
+CO-CURRICULUM ACTIVITIES 
+Attended workshop on 
+Internet of Things conducted by IIT Bhubaneshwar and BlueBanyan Softech 
+Pvt. Ltd. 
+PUBLICATIONS 
+Online Virtual App with Onion Routing published in IJERA (paper Id: 2248-9622, page no.: 32-37) presented at the International Conference on Industrial Automation and Computing (ICIAC-2014) PERSONAL TRAITS 
+Self-motivated, ambitious, reliable, with a good basic education. 
+Ability to rapidly build relationship and set up trust. 
+Confident and Determined. 
+Ability to cope up with different situations. 
+A quick learner having a good eye on details and complete work with perfection. 
+Sincere and dedicated to the job assigned. 
+PERSONAL INFORMATION 
+1. Date of birth : 24th May 1992 2. Age 
+: 24 3. Sex 
+: 
+Female 4. Marital Status : 
+Single 5. Nationality : Indian 6. Languages Known 
+: English, Hindi, and Marathi. 7. Hobbies : Listening music, watching cartoons, playing computer games, badminton, chess. 
+Declaration: I hereby declare that all of the above information is true and best of my knowledge. 
+Place: 
+Bangalore Signature 
+(Pooja Rajendra Gadge) 

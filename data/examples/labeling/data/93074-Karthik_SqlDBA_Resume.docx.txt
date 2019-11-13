@@ -1,0 +1,84 @@
+ GUNDAM KARTHIK Email: karthikgundam95@gmail.com 
+Cell: +91- 8297650845 Professional Summary 
+Around 4 years of SQL Server Database Administration experience in production support environment. 
+Work experience in 24x7 Production support for SQL Server 2005/2008/2008R2/2012/2014 
+Experience in Installation and Configuration in different versions like SQL Server 2005 and 2008 and 2008R2 and 2012. 
+Resolving the Disk space issues and finding the root cause and permanent fixes. 
+Verifying and resolving the SQL Server Blocking issues and Finding and fixing the root cause Creating and Administering the SQL Server Databases like data and log file placements and managing the growth parameters and database options. 
+Experience in applying the service packs and cumulative packs for servers. 
+Protecting the databases by taking different kinds of Backups such as Full, Differential, and Transactional log backups. 
+Experience in database migration from SQL Server 2000 to 2005 and SQL Server 2005 to SQL Server 2008 and SQL Server 2008 to SQL Server 2012. 
+Good experience with implementing High Availability of database servers using Replication, Log Shipping and Database Mirroring. 
+Hands on experience implementing Always on solutions for High Availability and Disaster Recovery. 
+Experience in implementing SQL Server security and Object permissions like maintaining creation of users, configuring permissions and assigning roles to users. 
+Establishing weekly maintenance plans such as Integrity check, Rebuilding indexes, Update statistics and monthly maintenance plans such as clean up history etc. to run the databases efficiently. 
+Performing the Cluster installation and adding the nodes in the respective servers in SQL Server 2000,2005,2008R2 
+Performing the Failover and Failback operations in the cluster environment and adding the new Disks and troubleshooting activities. 
+Experience in using Performance Monitor, SQL Profiler and optimizing the queries, tracing long running queries and deadlocks. 
+Perform Server level tuning, performance monitoring, Index Tuning, Query Tuning. 
+Expert in data transformation services like SSIS, DTS, BCP and Bulk Insert 
+Working knowledge in analysis services SSAS, reporting services SSRS 
+Closing the tickets with in the SLA time and Monitoring the SLA. Ability to effectively multitask, meet deadlines, quickly adapt to different project environments and ability to work with different team sizes across geographical locations. 
+Proven record of task achievement, multi-tasking, excellent communication, and analytical skills. 
+Proficient in understanding functional and technical aspect of applications. 
+Ability to work well in high-pressure situations at Client side and develop solutions for various customer needs. 
+TECHNICAL SKILL SET SQL Server Versions MS SQL Server 2014,2012, 2008, 2008 R2, 2005 
+Tools Service now, Remedy, SQL Safe, HP Service Manager 
+OS Servers WINDOWS Server 2003, 2008 and 2012 
+Databases MS SQL Server 
+ETL/Reporting tools SSIS, SSRS EDUCATIONAL DETAILS 
+Completed Bachelor of Technology B.TECH (E.C.E) from J N T U, Anantapur in 2012. 
+EMPLOYMENT DETAILS 
+Currently working with Accenture, Pune as a Database Administrator since April 2014 to present Previously worked as a SQL Database Admin with SONATA, Bangalore from Aug 2012 to Mar 2014. 
+PROJECT SUMMARY 
+Client : Key Insurance, USA 
+Platform : Windows 2003, 2008 and 2012. 
+SQL Servers : SQL Server 2005, 2008 R2, 2012 and 2014 
+Duration : April 2014 to present 
+Role : SQL DBA 
+Tools Used : MS SQL Server 2014, 2012, 2008R2, 2008, 2005 and 
+MS Windows Server 2008, 2005 Remedy, Tivoli and SSMS. 
+Key person insurance, also commonly called key man insurance and key man insurance, is an important form of business insurance. There is no legal definition for "key person insurance". In general, it can be described as an insurance policy taken out by a business to compensate that business for financial losses that would arise from the death or extended incapacity of an important member of the business. 
+Roles & Responsibilities: 
+Daily checking the assigned tickets and resolve the tickets depends on the priority levels. 
+Experience in database migration from SQL Server 2000 to 2005 and SQL Server 2005 to SQL Server 2012. 
+Daily checking the issues like backup failures, failed logins and resolve the issues. 
+Monitoring the temp db full and transactional log full issues. 
+Changing the recovery models whenever necessary. 
+Database installation and administration of MS SQL Server 2008, 2012. 
+Implementation and maintaining of Replication. 
+Implementation and maintaining Always on Protecting the databases by taking different kinds of Backups such as Full, Differential, and Transactional log backups. 
+Performance tuning of the database. 
+Resolves database performance issues, database capacity issues and other data issues related to database. 
+Maintain database consistency check using DBCC commands. 
+Performing the Cluster installation and adding the nodes in the respective servers in SQL Server 2000,2005, 2008R2,2012 
+Performing the Failover and Failback operations in the cluster environment and adding the new Disks and troubleshooting activities. 
+Experience in using Performance Monitor, SQL Profiler and optimizing the queries, tracing long running queries and deadlocks. 
+Perform Server level tuning, performance monitoring, Index Tuning, Query Tuning. 
+Repetitive issues analysis and proposals for permanent resolutions. 
+Project #2 
+Client : Trinity Health, USA. 
+Platform : Windows 2003 and 2008 
+SQL Server : 2000, 2005 and 2008 R2 
+Duration : Aug 2012 to Mar 2014 
+Role : SQL DBA 
+Tools Used : MS SQL Server 2008R2, 2008, 2005 and 
+MS Windows Server 2008, 2005 Remedy, Tivoli and SSMS. 
+Trinity Health is a national, not-for-profit Catholic health system operating 86 hospitals in 21 states, along with several long-term care facilities, senior living communities, and home health and hospice agencies. Based in Livonia, Michigan, [4] Trinity Health employs more than 120,000 people including 3,900 physicians. 
+Roles & Responsibilities: 
+Installation and configuration of MS SQL Server 2005, 2008, 2008R2. 
+Migrating databases from SQL Server 2000 to 2005 and SQL Server 2005 to 2008. 
+Resolving Tickets which include creating and maintaining databases, monitoring Disk Space, database integrity, identifying missing Indexes, handling blocking Configuring and troubleshooting high availability scenarios like Log Shipping. 
+Implemented Database Mirroring with High Availability Mode in SQL 2008 
+Maintained & Monitored Alert/Schedule to make smooth replication process. 
+Ensure and maintain sound backup and recovery policies and procedures. 
+Database performance monitoring and tuning when required as per application and business requirements. 
+Backup and restoring the databases from production to test environment. 
+Resolving blocking processes related issues. 
+Executing the scripts in production environment. 
+Updating Service packs and Security patches for the Servers. 
+Monitoring of server performance. 
+Creating and reviewing Security features for all the servers. 
+Configuring and monitoring the Database Mirroring and Log Shipping. Trouble shooting blocking, space issues. 
+Ensuring Data consistency in the database through DBCC commands. 
+Karthik... 

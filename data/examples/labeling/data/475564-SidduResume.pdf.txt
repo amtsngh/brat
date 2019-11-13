@@ -1,0 +1,135 @@
+ Java Developer 
+Contact-No-+91-9036131769 
+Siddappa Walake 
+Tardeo Mumbai Mumbai, Maharashtra 400034 : +91 9036131769 E-mail:admiralciddu@gmail.com 
+JOB OBJECTIVE 
+Seeking to continue my professionalism, where my dedication, expertise and talent will definitely bring the organization a sharper edge within the industry. Aspire for a challenging role in IT 
+Industry as Software Developer to contribute to the company's growth, in turn ensuring personal growth. 
+PROFILE SUMMARY 
+Efficient software professional with 1 year 4 months of experience in software development using Java and java technologies and 
+angular Js. 
+Having good knowledge of Development of Net banking system modules, Implementation, Data Migration and Manual Testing. 
+Have good knowledge of government projects like Direct Benefit Transfer Portal, Administrative Content management system, Disaster management system etc. 
+Good knowledge of Object Oriented Programming concepts. 
+Good knowledge in latest java features like Streams, lambda expressions, default and static method interfaces , functional interfaces, Proficiency in Core Java, Advanced java, Log4J , JSON, 
+Angular Js, Ajax , javaScript and frameworks like spring MVC , Struts, Spring Boot and Hibernate. 
+Good knowledge in 
+Concurrent- package (Multithreading). 
+Have good knowledge on SQL , joins, procedures, functions, triggers , cursors etc. . 
+Exposure to Java and J2EE Design patterns like Singleton, Factory, Front-Controller, DAO and etc. 
+Proficiency in developing API s using REST,SOAP and Spring Boot web services and test using Postman tool Proficiency in using JW Token as well Session based authentication. 
+Good knowledge of using caching servers like Redis. 
+Experience in Oracle, MSSQL, MySQL Database and developer tool to access database. 
+Good analytical skills and Problem solving ability. 
+Java Developer 
+Contact-No-+91-9036131769 TECHNICAL SKILL SET 
+Programming Language: Java, Angular Js. 
+Java Technologies : JDBC , Servlet ,Multithreading, JSP, Web Services like SOAP, REST, Spring Boot. 
+Framework Software 
+: Hibernate, Spring MVC, Spring Boot. 
+Database Software : Oracle, MSSQL, MySql. 
+Web Technologies : Angular JS, JavaScript, AJAX, HTML. 
+Build Tools 
+: Maven 
+Servers 
+: Tomcat, Glassfish, JBOSS, IBM Web Sphere, Redis. 
+IDE s 
+: Eclipse, Net Beans, STS. 
+Tools 
+: SVN, Git, Redmine , Postman ,SOAP UI, ,WinSCP, FileZilla, Putty. 
+Operating System : Windows, Unix 
+PROFESSINAL EXPERIENCE 
+Period Employer Location Designation 
+Feb 2017 
+Till date Reigns Infotech Mumbai Software Developer 
+Aug 2016 
+Feb 2017 Riflexions consulting 
+Pvt. Ltd. Bangalore Implementation 
+Analyst 
+Dec 2015 Aug 2016 Riflexions consulting 
+Pvt. Ltd. Bangalore Software Engineer 
+Reigns Infotech Pvt Ltd. Mainly works on government projects. Developing govt. online exam portals which is being used by many firms like IBPS,SSC,CSC as well as some private institutes. , Govt. administrative applications and Direct Benefit transfer portal. These projects help Indian citizens to claim the benefit directly into their accounts. 
+Head office Film center ,Tardeo, Mumbai central, Mumbai 
+(India) . 
+Riflexions consulting 
+Pvt. Ltd. Help financial institutions increase their efficiency as well as reducing risk when handling information, developing business processes and implementing IT- systems. This will add value to our customers, increase transparency and enable the end customer to interact more securely and efficiently with vital institutions in society. 
+Head office 3rd Phase JP Nager, Bangalore (India) . 
+Java Developer 
+Contact-No-+91-9036131769 PROJECT PROFILE 
+1.Project Title: 
+Domain: 
+Client 
+Environment: 
+Team Size: 
+Role: 
+Duration: 
+Description: 
+Direct Benefit Transfer (DBT) 
+Government. 
+Government Of Maharashtra. 
+Java, Restful and SOAP, Postman and SOAP UI, JW Token, Hibernate, Spring 
+Boot (In few Web API s), Angular Js, Multithreading, ,Eclipse IDE, MySql, Git, Apache Tomcat , JBoss , FileZilla, Putty. 
+15 
+Involved in preparations of designs and preparing the technical document 
+Module level Current System Study (CSS). 
+Responsible for development of API s, Web services, modules and Batches. 
+Sanity testing , Bug fixing and Peer review. 
+Deployment on UAT and SIT server and Production . 
+FEB 2017 to Till Date 
+This application implements various govt. schemes like Pension, Scholarships, Subsidies etc and allows various type of users to claim their benefit directly into their account which is linked with Adhar. 
+2.Project Title: 
+Domain: 
+Client 
+Environment: 
+Team Size: 
+Role: 
+Duration: 
+Description: 
+Net Banking 
+Banking. 
+Union Bank of India 
+Java ,servlets, JDBC ,Multithreading, JSP ,Eclipse IDE, NetBeans, Microsoft 
+SQL, Oracle, SVN, Web Service, JavaScript, AJAX, Apache Tomcat ,Glassfish, IBM Web Sphere, WinSCP, Putty. 
+12 
+Responsible for complete coding/development of modules and Batches. 
+Sanity testing and Peer review 
+Involved in preparations of designs and preparing the technical document Module level Data Migration 
+Deployment on UAT and SIT server and Production . 
+Aug 2016 to Feb 2017 
+IPO And ASBA Modules in Net banking helps users to do Share marketing activities through online. The batches then captures data and shares with 
+NSE , BSE and later uploads the responses into Net banking database. 
+Java Developer 
+Contact-No-+91-9036131769 
+3.Project Title: 
+Domain: 
+Client 
+Environment: 
+Team Size: 
+Role: 
+Duration: 
+Description: 
+Net Banking 
+Banking. 
+Karnataka Bank 
+Java ,servlets, JDBC ,Multithreading, JSP, REST,SOAP ,Eclipse IDE ,IBM Web 
+Sphere ,Microsoft SQL,SVN 
+8 Responsible for complete coding/development of modules and Batches. 
+Data preparation and Development of Module as well as Batch. 
+User authorization, Transaction upload and payment upload Testing, log monitoring and report gathering Deployment on UAT and SIT server and Production . 
+Dec 2015 to Aug 2016 Online user creation enables existing customer to create Net banking account and do banking activities through online. 
+Forgot password module enables user to reset his account password in secured way. 
+The Batch application downloads or uploads data . Trade finance upload helps the customers to go through the transactions they did previously. 
+EDUCATIONAL QUALIFICATIONS 
+Bachelor in Electronics and Communication Engineering from VTU, Belgaum. 
+Attended Java courses in Bangalore. 
+PERSONAL DETAILS 
+Father s Name : Mr. Yallappa Walake 
+Date of Birth : 12th-MAY-1993 
+Permanent Address : Kerur, Chikkodi, Belgaum, Bangalore, Karnataka, India. Pin- 
+591213. 
+Marital Status : Single 
+Interest & Activity : Programming, surfing news, Coordinating event, Hanging out with friends. 
+Language Known : English, Hindi, Kannada, Telugu, Marathi. 
+Siddappa Walake 
+Java Developer 
+Contact-No-+91-9036131769 

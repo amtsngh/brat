@@ -1,0 +1,113 @@
+Ravindra Kushwaha 
+Mobile No.:+91 - 9766771108 
+E-mail: ravindrakushwaha52@gmail.com (mailto:amrutapatil0007@gmail.com) PROFESSIONAL SUMMARY 
+Experience of working in telecom domain for 6 years Experience of working in client location(UK) for 10 months Experience of working with client face to face and attending daily client calls. 
+Experience of working in BSS with the knowledge of end to end telecom billing process Experience of working in OSS with the knowledge Network Automation & Security Experience of working in Scripting language UNIX, Perl, Mojolicious Framework, RPL, DCL. Experience of working in technology(SQL, Oracle, PlSql, Unix, OPEN VMS) Experience of working in tool like JIRA , REMEDY BMC,BUGZILLA,QC,TOAD,CODEBLOCK,ECLIPSE 
+Experience of working in monitoring tool like Nagios, NetCool, RRDtool Experience of working in source code management tool like GITHUB , CVS ,SVN 
+Experience of working in a project with Agile Methodology CERTIFICATION 
+Oracle Certified Associate 
+I. 1Z0-051 Oracle Database 11g : SQL Fundamentals 
+II. 
+1Z0-052 Oracle Database 11g : Administration 1 WORK EXPERIENCE 
+Organization: 
+Tech Mahindra Ltd. Pune 
+Project (October 2015 
+Till Date) 
+Client : BroadNet Norway 
+Project 
+: DNT_Broadnet_Sunrise 
+Platform : Ubuntu 
+Key Skills : 
+Perl, Mojolicious Framework, MySQL Database, UNIX, SNMP 
+Team Size : 20 Description : 
+BroadNet is Norways leading supplier of fiber-based data communication to enterprises and operators Market leader in Internet over fiber, IP VPN and Ethernet Supplying around 25 % of all data traffic in the commercial/industrial market. Contact each network device (routers, switches, cpe) through SNMP to retrieve the information and maintains network inventory. 
+Roles and responsibilities as Application Designer/Developer: 
+Capturing project requirement from customer Worked as a development and support team member Developing code based on requirement provided on Jira tool Conducting unit testing and installing the program into Non Production environment 
+Maintaining the code repository 
+Deploying the code changes in the production environment. 
+Performing Post release checks. 
+Intimating the stake holders about the delivery. 
+Project (April 2012 September 2015) 
+Client : Dixons Carphone Warehouse UK 
+Project : 
+Cellcom Billing System - CBS 
+Description 
+: CBS is billing and rating system. CBS is linked to a variety of external systems, including The Carphone Warehouse, the network providers, BACS (for processing Direct Debit payments), BMS (for processing Credit Card payments), Equifax (for credit checking) and Formation (for bill and letter production).Primary business function performed by CBS are : 
+o Automated connection of services to the cellular networks o Subscriber management o Call Data connection o Rating o Billing o Designation : Sr. Software Engineer 
+Environment : Oracle 10g, Open VMS 
+Team Size : 30 Key Skills : Perl, UNIX, SQL, RPL, DCL 
+I) 
+Roles and responsibilities as Application Developer : 
+Worked as a development and support team member Preparation of HLE based on NID raised by client Establishing DDD based on HLD 
+Developing code based on detail design document Conducting unit testing and installing the program into Non Production environment 
+Maintaining the code repository Documenting release notes and User Guide 
+II) 
+Roles and responsibilities as Onsite Coordinator (10 months ): 
+Onsite Co-ordination with Customer for development and support activities. 
+Requirement Gathering and Design support. 
+Co-ordinate and support Offshore Development team for all work packages. 
+Work closely with Onsite Designer, QA and Support to action all issues and customer queries. 
+Ensure deliverables are matching the quality standards and as per timelines. 
+Resolved the critical issue which saved hundred thousand pounds of customers. Received appreciation mail from Client , SDU Head , IDU Head and from Onsite Delivery manager. 
+III) 
+Roles and responsibilities as Release Manager : 
+Review of release form and release script. 
+Attending CAB meeting with business and third parties to represent the changes to be deployed in production environment. 
+Deploying the code changes in the production environment. 
+Performing Post release checks. 
+Intimating the stake holders about the delivery. 
+Received Appreciation from Onsite Delivery Manager for the excellent work on this area. 
+IV) Roles and responsibilities as a Database Administrator: 
+Monitoring Alerts for disk space, archive destination, Listener, Instance availability. 
+Creating and monitoring the tablespaces, allocating tablespaces to users. Creation of users, managing user privileges Granted and Revoked privileges and roles to the users on different objects depending on their work requirement and provided the necessary security to the database. 
+Project (Feb 2010 
+Mar 2012) 
+Client : O2 Telefonica UK. 
+Project : TEDS Industrialization 
+Domain: Telecom (Prepay) 
+Platform : Unix 
+Key Skills : C, PHP, Perl, PlSql 
+Application : Teds Application 
+Team size : 28 
+Description : 
+Teds Industrialization is responsible for following functionality Migration of jobs from different schedulers (TED Scheduler, Load Manager and Cron) to standard Cronology scheduler. 
+Migration of all jobs from Oracle 8i to Oracle 10g. 
+Implementing Self Repair Functionality. 
+Performance improvement of jobs while migrating from oracle 8i to 10g. 
+Documentation of all jobs for service management and business continuity. 
+Roles and responsibilities as Application Developer 
+As part of Development team, involved in migration of jobs to Cronology scheduler and database migration from 8i to 10g. 
+Development of code for self-repair functionality, performance improvement of jobs and job migration. 
+Developing code based on detail design document Conducting unit testing and installing the program into Non Production environment 
+Maintaining the code repository Keeping track of project activities like weekly project deliveries, assigning and maintaining status for jobs on daily basis. 
+Documenting release notes and User Guide. 
+Reviewing the work done by the other team mates. 
+TECHNICAL SKILLS 
+Skills Tools 
+Languages Perl, SQL, UNIX Shell Programming, DCL, RPL DBMS 
+Oracle, MS Access Operating Systems Windows XP, Linux, Open VMS ,Ubuntu 
+Tools Bugzilla, Toad 
+Domain Telecom, Billing,OSS,BSS CRM Tool Remedy 
+REWARDS ACE Award (2015) Tech Mahindra Yearly Award for consistent excellence 
+Pat On the back (2013) Valuable Team Player (2011) Academic Details 
+Qualification Board/University Year Percentage 
+B Tech EXTC Mohan Malaviya Engineering College Uttar Pradesh Technical University 2009 69.3 HSC(XII) UP Board 2004 77.2 SSC(X) UP Board 2002 
+72.3 
+PERSONAL DETAILS 
+Name : 
+Ravindra Kushwaha 
+Current Address : B-11 , Priyamvada Apartment, Near Sharada Centre 
+Erandvane Pune - 411004 
+Date of Birth 
+: 05th Feb 1987. 
+Sex : 
+Male. 
+Marital Status : 
+Single. 
+Language : English, Hindi , Punjabi & Marathi 
+Passport : 
+Yes [H4504359] 
+Date: 
+Place: 
+Pune. 
+(Ravindra Kushwaha) 

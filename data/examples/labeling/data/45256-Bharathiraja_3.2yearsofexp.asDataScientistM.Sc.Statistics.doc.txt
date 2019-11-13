@@ -1,0 +1,80 @@
+OBJECTIVE
+ 
+Seeking the challenging position as data scientist where my proficiency skills will be fully utilized to obtain the efficiency and effectiveness for the organization growth 
+SUMMARY 3.2 years of experience in Research and Analytics consultant with the clients across global Good hands on experience in developing Data Science and Data Mining projects 
+An enthusiastic candidature in M.Sc., Statistics & B.Sc., Mathematics from Loyola College 
+Sound knowledge of coding in SAS, R, R Shiny, Python, SQL, Spark, Hive, and SPSS 
+Have depth experienced in Big Data Research using Machine Learning Algorithms, Applied Linear and Logistics Regression, Multivariate Analysis (PCA, FA, and CA), Predictive Analytics, Markov Chain Simulation, Time Series analysis-ARIMA, ANOVA, Testing of Hypothesis, Bio-Statistics, and Process Control (Six-Sigma) 
+Remarkable ability to identify, extract, analyze and disseminate statistical analysis 
+PROFESSIONAL ACCOMPLISHMENTS 
+Current Organization: Hexaware Technologies, Chennai 
+Designation: Data Scientist - Analytics & Solutions 
+Responsibility 
+As part of Analytics CoE team, Competency building and Developing analytics based solutions for the operational problems Product Development 
+Predictive research analytics using Big Data environment 
+Tools: R Programming, Python, Hive, and Spark 
+Duration: August 2015 to till date Deloitte Consulting US-BEN Pvt Ltd, Bengalore 
+Designation: Research Analyst 
+Project: ConvergeHEALTH by Deloitte (Applied Analytics in Life Science and Health Care) ConvergeHEALTH by Deloitte is the largest provider of Life Sciences and Health Care (LSHC)consulting in the U.S., based on $150-200 million revenue. 
+The project consulting for developing statistical model which helps clients to improve their clinical, operational performance, product development, and financial growth Responsibilities 
+As part of consulting R&D organizations, day-to-day activities on Data Science & Analytics, and Simulation models Developing data model, and Predictive research to provide the business solutions 
+Clients: Intermountain Healthcare(IMH), Truven Healthcare, Moffitt Cancer Center, and NNEACC-USA 
+Tools: R Programming, Revolution-R, R Shiny, Python, SPSS, Linux, and SQL Server 2008 
+Parent Company: Innominds Software, Bengalore 
+Duration: August 2014 to April 2015 Royal Bank of Scotland (RBS) Business Services Pvt Ltd, Chennai 
+Designation: Analyst Retail and Wealth Operations 
+Responsibilities 
+Digitalizing the retail customers data, handling the credit risk to avoid the retail grievances 
+Tools: SAS e-Miner, and MS-Access 
+Duration: April 2013 to August 2014 
+INTERN: SECRO, Chennai 
+Responsibility: Interpreting the quality and process control using Six-Sigma 
+Duration: January 2013 to April 2013 
+PROFESSIONAL PROJECTS 
+1) Oncology Miner based Comparative Effectiveness Study Composed of Two Types of Drugs 
+Objective: The study is composed of two cohorts consisting of patients who exposed to the existing and new drugs that are being compared 
+Methodology: Logistics Regression, Propensity Score Matching, Hot-Deck Imputation, and MICR 
+Tools: R-Programming, MySql Server 
+Clients: Intermountain Healthcare (IMH), U.S.A 
+2) Accessing the Utility of the Breast Cancer Recurrence Data to Build Predictive Models 
+Objectives: Analyze the breast cancer data, and determine the two types of breast cancer tumors allow to build predictive models 
+Methodology: Decision Tree Analysis 
+Tools: SPSS, R-Programming, and SQL Server 2012 
+Clients: Moffitt Cancer Center (M2Gen), U.S.A 
+3) Predicting Diagonal Status of Individual Cases in Care Unit 
+Objective: Diagonals of the state transition probability of the patients who discharged from care unit 
+Methodology: Markov Chain Manto Carlo simulation method 
+Clients: Truven Healthcare, U.S.A 
+Tools: R-Programming 4) Predicting the Temporal Behavior of Daily Patient Volume in Post -Anesthesia Care Units (PACUs) 
+Objective: Data Visualization and Normalization have been done for the inconsistency patient data 
+Methodology: Normal and Gamma Distribution, Empirical Histogram 
+Tools: R-Programming 5) ETL Informatica Job Failure Forecast 
+Objective: Built model to forecast job failure event rate in Informatica environment 
+Methodology: Time series - ARIMA, and Bayesian Network 
+Clients: UNISYS 
+Tools: R-Programming 
+ACADEMIC QUALIFICATION 
+Masters in Statistics ~ 68%, 
+Loyola College, Chennai-34, 2011-2013 Bachelors in Mathematics ~ 70%, Loyola College, Chennai-34, 2008-2011 ACADEMIC PROJECTS 
+Final year project based on "A Global Level Multivariate Study Focusing on Health Matrices in Developed and Developing Countries" Objectives 
+To observe the health index based on health indicators To compare the broad dimensions of health between developed and developing countries 
+Methodology: Factor Analysis, Applied Linear and Logistics Regression Analysis 
+Tools used: SAS/BASE, SAS/STAT, and R 
+CHALLENGES 
+Have created the primary R-packages for Optimization model Built Shiny dashboard on R Shiny 
+STATISTICAL/TECHNICAL TOOLS 
+R: R Server, R Shiny, R Commander, and VIMGUI SAS: SAS e-Miner, and SAS modeler 
+Programming: R, Python, Linux, GIT, and SPSS Statistics 
+Big Data: RHadoop, RImpala, Hadoop (Beginner), Hive, and Spark 
+Reporting Tools: MySql (Beginner), Tableau, QlickView, and Minitab 
+PERSONAL PROFILE 
+Date of birth : 15-MAY-1991 
+Nationality : Indian 
+Marital status : Single 
+Permanent Address : 2/23, School 1st Street, E.C.R Main, Palavakkam, Chennai-41 
+DECLARATION 
+I hereby declare that above furnished details are true and genuine. 
+Date: 
+(BHARATHI RAJA A) 
+Email: bharathiraja160@gmail.com 
+Phone: 95511 63129 \ 99415 24852 BHARATHI RAJA A 

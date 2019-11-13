@@ -1,0 +1,41 @@
+ No.78 V.O.C Street, Krishnapuram, Desurpattai, Gingee 604202 AGASTHIYAA V 
+8754 070 563 
+agasthiyaa.v@gmail.com 
+EMPLOYMENT QA Engineer 
+Photon Interactive Pvt Ltd 
+Oct 2014 
+Till Now 
+TECHNICAL KNOWLEDGE 
+Objective C, Xcode and Cocoa Touch 
+Good Knowledge in implementing JSON service Implemented UITableView with Custom Cell 
+Good Knowledge in implementing UISearchController. 
+Currently working on Facebook integration using FB SDK 
+Currently working on Map Integration using Map Kit 
+EDUCATION 
+Thiruvannamalai SKP Engineering College Aug 2009 
+May 2013 BE Computer Science and Engineering 81 % Gingee 
+St.Michael s Higher Secondary School 
+March 2009 Higher Secondary Education 
+12 TH STD 78% 
+Gingee 
+St.Michael s Higher Secondary School April 2007 Secondary Education 
+10 
+TH STD 82.6 % 
+PROJECTS 
+1.Loreal Paris Internationalization 
+The objective of this project is to migrate the existing features of LOP USA to sitecore and to allow seamless Data Management in Sitecore with capabilities of authoring & publishing of content without extensive knowledge of programming. This will be accomplished by leveraging the reusable components built as a part of Sitecore. Component creation and localization across the Pan American sites. 
+2. Good Sam and Camping World Website Revamp 
+The objective of this project is to revamp Good Sam Enterprises and Camping World websites with a refreshed UI and implement the underlying CMS and eCommerce platform that will allow users to shop camping world products seamlessly while also providing them avenues to contribute to the loyalty / membership programs. 
+PERSONAL INFORMATION 
+Name : Agasthiyaa.V 
+Father s Name 
+: Mr.M.Venkatachalam 
+Gender : Female 
+Languages Known 
+: 
+English, Tamil 
+Nationality : 
+Indian 
+DECLARATIONS 
+I hereby declare that all details that I have mentioned above are up to my Knowledge and given honestly. 
+Yours sincerely, Agasthiyaa V 

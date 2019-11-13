@@ -1,0 +1,46 @@
+ RAMESH CHANDRA 
+ANDROID DEVELOPER 
+Phone: 91-8088804185 E-mail: rcpourwal@gmail.com Objective 
+I wish to highly rewarding my career where I can use my skills and knowledge to help the company and my coworkers be successful. 
+Education 
+B.E. IN ELECTRONICS AND ELECTRICAL ENGINNERING 
+(2015) MBM Engineering College Jodhpur Rajasthan with 67.75%. 
+D.E. IN ELECTRONICS ENGINNERING 
+(2012) Government Polytechnic College Barmer Rajasthan with 75.38%. 
+Experience 
+ANDROID DEVELOPER (JANUARY 2016 PRESENT) 
+LETMEFIND E SERVICES PVT LTD BANGALORE 
+Responsibilities 
+Design and build advance application for Android platform. 
+Collaborate with cross- functional teams to define, design and ship new features. 
+Unit-test code for robustness, including edge cases, usability and general reliability. 
+Work on bug fixing and improving application performance. 
+Continuously discover, evaluate and implement new technologies to maximize development efficiency. 
+Requirements 
+UI development with Activities, Fragments and binded data in a dyanimic list view. 
+Used AsyncTask to avoid ANRs in the activity. 
+Used custom view and themes. 
+Designed and implemented the Data Model with SQLite. 
+Developed the application s view with the proper controllers. 
+Debugging using Android Studio and DDMS tool. 
+Technical Skills 
+Programming Languages : Java, Json, Android 
+Database Languages: MySql, SQLite 
+Operating System: 
+Window 8, Ubuntu 16 
+Tools: 
+Android Studio 2.2 , Eclipse Mars, NetBeans 8.0, DipTrace Other: OOPs Concept, Multithreading, Microcontroller, Pcb Design 
+Projects 
+Automatic Railway Gate Controlling Using Microcontroller 
+This project was developed in Diptrace and C language. It is a hardware based project which can be used to control the railway gate without presence of man using the microcontroller and sensor unit as well as object detect in path using ultrasonic sensor. 
+AC Operated LED Lamp 
+This project was developed in Diptrace. It is a hardware based project which can be operated on 230V of an AC supply without using of rectifier circuit. 
+Radar Technology 
+This project was developed in Diptrace and C language. It is a hardware based project which can be used to detect the object and find the position of object using back scatter echo signal. 
+Internship Attend Internship program conduct by ISRO Jodhpur. 
+Attend Internship program conduct by GLPL Barmer. 
+Attend Internship program conduct by Apollo Tyres Ltd Baroda. 
+Award Retained Scholarship from Cairn Energy Pty Ltd Delhi. 
+Declaration 
+I hereby declare that particulars given here are true and complete to the best of my knowledge and belief. 
+Bangalore Ramesh Chandra 

@@ -1,0 +1,119 @@
+Corinne McGonagle 617-244-4301 
+Quincy, MA 02171 crmnew@yahoo.com (mailto:crmnew@yahoo.com) PROFILE: 
+Extensive experience in financial services industry, including Business Analysis and QA testing to support technology and business needs. 
+Concentration in Business Analysis, Requirements, QA and UAT testing, Software Development Life Cycle, quality assurance, business process, data, investment banking, capital markets, derivatives, reconciliation, corporate actions, audit packages, mortgage backed securities, and reporting. 
+Solid asset management and front office, middle office, and back office background. 
+Proven strengths in business analysis, business systems analysis, defect life cycle, requirements analysis, test case development, quality assurance, accounting analysis, issue resolution and collaboration with cross-functional teams. 
+Motivated by a fast-paced environment and teamwork. 
+EXPERIENCE: 
+INSYS Group, Inc., Boston, MA 02/16-07/16 Business Systems Analyst (Consultant at UnitedHealth Group) 
+Translated business requirements into scrum team deliverables, user stories, and acceptance criteria for Big Data project in a data management technology group, scalable agile environment. 
+Documented use cases for end to end flow through Big Data platform, identified open issues, and gathered information from business and technical subject matter experts. 
+Documented functional specifications, source to target mappings, metafiles, and business rules. 
+Acted as liaison between business, developers, QA, and project management groups. 
+Collaborated with QA team to ensure testing efforts aligned with acceptance criteria. Performed requirements analysis to acquire and process data files through Big Data platform with related downstream flows so data can used for business needs. 
+Participated in solution discussions as needed with developers, solution architect, product owners, and SMEs to facilitate communication and gather requirements to support development. 
+Performed ongoing analysis and planning for scrum sprints, supported scrum master and team tasks, and identified dependencies with other scrum teams. 
+Atrius Health, Newton, MA 10/15-02/16 Business Analyst 
+Developed expertise on data warehouse source and target systems functionality and data flows. 
+Performed source to target testing with SQL queries to support UAT testing for ETL rewrite project. 
+Performed gap analysis, reviewed data dictionary, and documented business rules catalog for new payer source file to support claims database and finance department. 
+Performed analysis and related tasks for data management program. 
+Company downsizing/internal restructuring. 
+Santander, Boston, MA 
+08/15-10/15 Business Analyst 
+Participated in business process mapping sessions with Six Sigma process engineer to design issue management process, documented process flows and documented standard operating procedures. 
+Contributed to Data Management data mart Business Requirements Documentation, reviewed data dictionary with data model, created high level test scope, created report object matrix, and participated in analysis and review sessions to support Project Management Team. 
+Supported maintenance of Data Quality Defect and Issues Log for data quality deficiencies across all source systems (CCAR edit checks, broken processes, code, data issues), aggregated updates from internal departments into master spreadsheet, and tracked remediation status updates for data management control model. 
+Performed analysis and provided documentation for Issue Management Requirements proposal for an automated tracking tool. 
+Performed data mapping for data warehouse using templates and requirements documents to support Metadata Team. 
+Liberty Mutual Insurance, Boston, MA 01/15-08/15 
+Business Systems Analyst Responsible for planning, monitoring, and coordination of modifications affecting the Enterprise Services application suite (claims, billing, batch jobs, data flows through integrated systems, databases), requirements analysis, QA planning, execution, and support for moderate to complex initiatives. 
+Communicated with Business, IT team, and QA team to successfully manage the testing effort within a defined Release for JIRA tickets to understand impact to applications and database tables to determine testing scope. 
+Developed and executed detailed test scripts from project specific requirements using Excel, Hyperion, SQL, HP ALM, and executed automation scripts. 
+Conducted analysis and updated process documents for Defect Management Plan and Requirements Management Plan. 
+Initiated JIRA tickets for assigned applications, gathered and documented requirements for change requests and escalated production support tickets, communicating with Business Units, IT, and QA, and following JIRA workflow through to completion. 
+Conducted root cause problem solving analysis for department LEAN initiative, conducted interviews, gathered requirements and documented use cases, standard operating procedures, and checklists, and presented analysis to department management. 
+Participated in process improvement efforts and small projects. 
+Acadian Asset Management, Boston, MA 06/14-01/15 Business Systems Analyst 
+Conducted analysis, requirements gathering and documentation (business requirements, report specifications, use cases, test cases, procedures, business capability template, and ad hoc project release documentation) for 5 report migration efforts simultaneously for report automation project. 
+Conducted business and requirements analysis for data and reporting needs, understanding current and future state to support data needs. Wrote test plans (hundreds of test cases), performed testing of client reports in Varden eReportal application and validated results with internal applications, eReportal data libraries, SQL stored procedures, and external vendor files. 
+Understood and documented business processes, elevated problems, and identified opportunities in the context of reporting requirements, specifications, and data sourcing for various investment strategy reports, crystal reports, broker commission reports, and custom performance summary reports. 
+Conducted business and systems requirements analysis and collaborated with technical resources for complex data sourcing, metadata attributes, data mart inventory analysis, report data maps, and documented exception reporting procedures. 
+Performed preliminary analysis of DataMart inventory results to identify available data required for future report automation efforts, data sourcing, and to determine the scope of data mart inventory project. 
+Created spreadsheet to track defects and automated defect workflow utilizing QA Complete bug tracker for 5 different report migration efforts, coordinated defect workflow with business users and developers, routed defects, coordinated defect resolution, and logged/monitored production tickets for report implementations. 
+Collaborated with developer and internal parties to determine FX rate logic for broker commission reports, performed testing against trade order management system and multiple databases, and coordinated defect resolution until reports were successfully implemented into production. Coordinated JAD sessions for requirements documentation, project status meetings with business users and technical team, updated project plan tasks, documented meeting minutes, and performed other tasks and analysis to support the development team, business users, and project manager for the client reporting enhancement project. 
+Mercer, Norwood, MA 10/13-01/14 Reporting Analyst 
+Responsible for creating reports for defined benefits populations using Cognos and SQL. 
+Validated Cognos report results against multiple Reporting Mapping Requirements and Process Flows documents, SQL queries, and against front end of the Benecalc participant record system. 
+Performed data analysis, modified SQL queries, logged defects, researched participant records in Benecalc system for defined benefits populations, and worked with Cognos developer to analyze complex queries to resolve broken Cognos reports. 
+Created report processing matrix to track internal/external report deliverables, documented manual process for specific broken Cognos reports, and created issues log to track defects. 
+RBS Citizens Financial Group, Inc., Medford, MA 03/13-10/13 Operations Analyst 
+Responsible for collecting, reviewing, responding, and analyzing data to ensure compliance with department policies, procedures, and regulatory and risk requirements in RBS Citizens Business Services/Risk Operations/Debt Management, Mortgage and Fraud Operations Unit. 
+Performed routine, analytical review of customer data and documentation for fraud and risk activities to monitor patterns, trends, and velocity. 
+Applied various methods and system applications (Mainframe, TSYS, Card risk management systems) including direct contact with internal and external parties, to confirm fraud, identify funds at risk, and elevate alerts to fraud analytics team. 
+Federal Home Loan Bank of Boston, Boston, MA 
+09/12-12/12 Fixed Income Analyst 
+Maintained all MBS (mortgage backed securities) and CMO (collateralized mortgage obligations) investment accounting activity for the MBS fixed income portfolio via the banks automated subsidiary ledger, The Portfolio Genius (TPG), and extracted Bloomberg data for factors, floating rates, and projected cash flows. 
+Prepared all related general ledger journal entries, executed SQL queries to upload payment files to accounting system, and researched variances via Freddie Mac, Fannie Mae, and Trustees. 
+Responsible for recording all cash settlement activity at Citibank and Federal Reserve Bank accounts for MBS transactions and for calculating/reconciling collateral payments from counterparties. 
+Performed analysis for daily, monthly, and quarterly reconciliations to ensure accuracy of fixed income portfolio and TPG accounting system, and prepared documentation for audit department. 
+Fidelity Investments, Boston, MA 
+09/11-09/12 Business Analyst/Quality Assurance Analyst (Consultant with Veritude) 
+Supported the QA and UAT testing within project scope for new development project (Fidelity ActionsXChange ActioNResponse system for notification/response processing for voluntary corporate actions). 
+Performed business analysis and developed test cases for event change management, standing instructions, portfolio manager functional workflow, user interface design changes, cross browser testing, code reviews, regression, and client specific requirements. 
+Performed test execution, identified missed code logic and requirements, logged defects via Quality Center, participated in SDLC (waterfall/agile/scrum) with the project team, maintained metrics spreadsheet for project manager and produced estimates for test efforts. 
+Conducted 4 hour WebEx meeting with offshore development team to explain cross functional end to end workflow so defects could be resolved and worked closely with development team. 
+Participated in project meetings with internal parties for business requirements, system design document reviews, defect triage sessions, code reviews, test case reviews, enhancements to existing functionality, and to develop new functionality. 
+Wolters Kluwer Financial Services, Waltham, MA 11/10-08/11 Corporate Actions Analyst 
+Performed UAT testing and updated Gainskeeper software for security master file and corporate actions database with security data attributes and market/sector exchange data for clients. 
+Created and documented procedures, recommended ways to improve workflow and process improvements that established accountability and created a paperless audit trail, and cross trained team members on foreign corporate actions. 
+Created process for identifying foreign corporate actions via report extraction from third party vendors (Exchange Data International, DTC, Bloomberg, and Telekurs), and communicated with vendors to confirm corporate action details. 
+Analyzed, researched, and processed corporate actions, reviewed taxability, updated market value, reconciled actions with client, tested macros, and analyzed system functionality. 
+Performed business analysis and analyzed reports for programmers, provided feedback with documentation, and elevated system bugs and limitations. 
+Blue Cross Blue Shield of Massachusetts, Inc., Quincy, MA 05/10-11/10 Member Service Representative 
+Consistently provided exceptional customer service to external and internal customers in call center. 
+Advised, investigated, and resolved member inquiries. 
+State Street Bank & Trust, Boston, MA 01/05-04/10 
+Senior Associate/ Audit Coordinator (State Street Corporation 5/08-4/10) 
+Prepared 80 mutual fund audit packages each month for audit firms and client. 
+Completed testing, compiled documentation, contacted internal and external parties, and resolved discrepancies on quarterly, semi-annual, and annual audit funds. 
+Reviewed, monitored and updated log to track funds and exceptions completed by India. 
+Questioned and verified accuracy of cost, gain/loss, interest and dividend income, receivables, open trades and FX activity, prices, FX rates, closing entries for all basis levels, capital gains and dividend distributions, market value, total net assets, cap stock activity, broker summaries, expenses, swaps, options, futures, government breakdowns, etc. Participated in additional training (via State Street, PricewaterhouseCoopers) for fixed income, futures, Accounting Principles, Audit Guide, amortization, complex and derivative securities, SWAPS, and business writing. 
+Corporate Action Specialist (State Street Corporation 3/07-5/08) 
+Processed all corporate actions timely and accurately to MCH for SSGA Foreign. 
+Monitored all corporate actions for additional information, taxability, payment, and settlement. 
+Completed CART spreadsheets for all applicable actions to ensure reasonability. 
+Analyzed impact to NAV, cost, taxability, and market value for all corporate actions. 
+Senior Trust Accountant (Investors Bank & Trust 1/07-3/07) 
+Responsible for principal valuations, reconciliations, and accrual maintenance of common funds, endowments, master trusts, employee benefit accounts, ERISA, and Public Employee Retirement Association (PERA) accounts. 
+Prepared and ensured timely delivery of monthly, quarterly, and annual reports, client statements and financials for internal and external use for ERISA, NON-ERISA, and PERA accounts. 
+Corporate Actions Specialist (State Street Corporation 8/06-1/07) Processed all corporate actions timely and accurately to MCH 
+Completed CART (reasonability tests) spreadsheets for all applicable actions Senior Specialist (State Street Corporation 10/05-8/06) 
+Acted as a liaison between State Street operations, administration, and audit firms. 
+Responsible for entire audit process of mutual funds including preparation of monthly proofs/packages for clients, external audit firms, and internal departments. Questioned and verified accuracy of cost, gain/loss, interest and dividend income, receivables, open trades and FX activity, capital gains and dividend distributions, market value, capstock activity, broker summaries, expenses, futures, etc. Researched and resolved all discrepancies to ensure that all reports tie to trial balance and excel proofs, that proper documentation is provided, and that deadlines have been met. 
+Responsible for resolving inquiries and performing ad hoc requests for clients, external audit firms, and internal departments in a timely and highly professional manner. 
+Global Custody Operations Rep 2 (Investors Bank & Trust 4/05-10/05) Processed trade and wire transfer instructions, income payment exceptions, identified, corrected and communicated problems to appropriate departments and brokers in accordance with Banks policies and procedures to prevent any risk to the bank or client. 
+Tracked and reconciled daily activities between IBT and DTC. 
+Communicated with all desks of settlements team to balance daily volume of cash/securities settlement activity. 
+Trust Accountant (Investors Bank & Trust 1/05-4/05) (Contract) 
+QC accuracy of monthly, quarterly, and annual statements. 
+Reviewed NAV, cost reconciliations, cash transactions, income accruals, free delivers/receipts, balance sheet, trial balance, etc. 
+Prepared annual statements for accounts (erisa, non-erisa, and PERA) for clients and processed all transactions necessary to ensure accuracy. 
+FleetBoston Financial/Bank of America, Boston, MA 03/00-12/04 Operations Analyst, Columbia Management Group Analyzed 70 mutual funds for accuracy with custodian cash balances daily and contacted internal and external parties at all levels and across companies to resolve issues and exceptions. 
+Worked with consultant to create macro to identify position breaks and eliminated aged exceptions backlog. 
+Extensive work with trading room, investment managers, operations, and external fund accountant for mortgage backed securities, corporate actions, and trade issues. 
+Identified system bug in external fund accountants system that incorrectly combined original face for certain securities during fund conversions and reported bug to external fund accountant for correction so position breaks could be resolved. 
+Identified internal system bug that duplicated money market instruments on funds and elevated bug to IT department for correction so incorrect repo and cash sweep amounts could be deleted. 
+Reconciled non-custody accounts via custodian websites, client systems, and statements. 
+Brown Brothers Harriman & Co., Boston, MA 09/99-03/00 Client Account Manager 
+Serviced nine investment portfolios with focus on global custody, cash availability for client, reconciled foreign cash and securities positions, executed foreign exchanges. 
+Chase Global Funds Services Co., Boston, MA 05/98-09/99 Fund Accountant 
+Calculated NAV for six for mutual funds (Domestic, International, and Emerging Market), researched prices on Bloomberg and Reuters, prepared weekly and monthly reconciliations, booked trades, cap stock, corporate actions, futures, and expenses. 
+Colonial Investors Service Center, Boston, MA 03/97-02/98 Group Plan Service Representative 
+Allocated money for Qualified Retirement Plans (401K, SEP, IRA, Profit Sharing Plans, Money Purchase Pension Plans), exercised teamwork, resolved account adjustments, and maintained existing accounts. 
+EDUCATION: 
+B.A. 1996 
+Dickinson College, Carlisle, PA/University of Toulouse, Toulouse, France. 
+SKILLS: 
+Quality Center (HP ALM), Microsoft Word, Excel, Microsoft Outlook, PowerPoint, MS Project, Snagit, Bloomberg, DTC, SEI, MCH, EDI, Telekurs, Gainskeeper, Capital Changes, Sharepoint, Lawson, TPG (The Portfolio Genius), TOMS, SQL, LVTS (Longview), Cognos, Avaya, TSYS, QA Complete, Varden eReportal, JIRA, Hyperion (Brio), Remedy, SQL Toad, SQL Server, Rally. 2 

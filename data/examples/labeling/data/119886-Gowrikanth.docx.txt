@@ -1,0 +1,116 @@
+ Gowrikanth Viswanadha 
+Viswanadha.Gowrikanth@Hotmail.com 
+Mobile: +91 9886908878 Objective 
+To secure an appropriate position, this will provide growth & opportunities with effective Utilization of my skills and experiences to learn more in a professional atmosphere. 
+Introduction& Professional Summary 
+Overall 7.10 years of IT experience in Analysis, Design, Development, Implementation and Testing of Web based applications using Microsoft Technologies and PHP. 
+Having 4 years of experience in Microsoft Technologies in building the web based applications using C#.Net, VB.NET, ASP.NET, ADO.NET and SQL Server. 
+Worked extensively with Data Adapter, Dataset, Data reader as a part of ADO.NET to access and update database. 
+Experience in using SQL Server Management Studio in writing SQL Queries, Stored procedures and Triggers. 
+Good Hands on in application development using ASP.NET Web forms using C# and VB.Net as code behind language Having 2 years of experience in developing web applications using PHP and Drupal. 
+Having 1.10 years of work experience in handling the support operations. 
+Possess advanced knowledge and understanding of web-based Projects and templates along with knowledge about the latest cutting-edge technologies. 
+Effective in working independently and collaboratively in teams. 
+Enthusiastic and Quick to learn new applications and tools and willing to take individual responsibilities. 
+Strong ability to learn and adapt new skills and makes efforts to do the work at hand and manage time effectively Technical Skills 
+Languages C#.NET, VB.Net 
+Internet Technologies 
+ASP.NET 3.5,ASP.NET 2.0, ASP.NET 1.1,PHP 
+Environment Visual Studio 2013,Visual Studio 2005, Visual Studio 2003 Databases SQL Server 2005,2008,Oracle 
+Markup Languages HTML, XML 
+Platforms . NET Framework 3.5,.NET Framework 2.0, .NET Framework 1.1 
+Tools/Packages ADO.Net, ADO, MS-Office, Reporting Services 2008 
+Operating Systems Windows 9x, Windows 2000, Windows XP, Unix 
+Scripting Java Script, JQuery Work Experience 
+Worked as a front end developer with ICX4, London [September 2015 June 2016] 
+Worked with Next Edge Solutions a subsidiary of Mashreq Bank, Dubai [Jan 2014 July 2015] 
+Worked as Associate with Cognizant Technology Solutions [Jan 2010 
+Jan 2014]. 
+Worked as a Programmer with Ernst & Young Pvt. Ltd [July 2008 
+Jan 2010]. Education 
+B.Tech (CSE) from VITAM College of Engineering which was affiliated to JNTU, Andhra Pradesh. 
+Project Profiles 
+Organization: Intelligent Data Connections 
+Project Name 
+BusinessDNA 
+Client HSBC, Deutsche Banks 
+Duration Sept 2015 
+June 2016 Environment 
+ASP.Net 3.5, C#,ADO.Net,LINQ, Sql Server 2008,Solr 
+Description: 
+BusinessDNA is an end to end service that can extract, clean, enrich, cross reference information from all the key business platforms and information sources used by a firm (both internal and external) and then inform the firm about that data in a real world context. 
+Once the data is extracted from client, the same will be cleaned and compared with external MDM's and the formatted data will be shown in the front end. And the front end is having different roles like processor, supervisor and admin where responsibilities are defined based on these roles. Once all the records are processed by the processor (will compare the data with MDM's) and authorized by the supervisor, the same extract will be given to the client Where the data in a real world context. 
+Responsibilities: 
+Providing support for the BusinessDNA portal in case of any issues or tickets raised. 
+Involved in monthly meetings with client when they visit the office premises regarding the outstanding issues and enhancements to the tool. 
+Organization: 
+Next Edge solutions Project Name BIS Portal, UPA Portal 
+Client 
+Mashreq Bank 
+Duration Feb 2014 
+July 2015 Environment 
+ASP.Net 3.5, VB.Net, SQL Server 2008,SSRS 
+Description: 
+BIS portal and UPA portal are highly used portals by the Mashreq customers and employees of the company.BIS portal comprises of different modules like User administration, Timesheet management, Library Management, History Information Management, Transportation Management and different set of reports for different regions like Doha, Qatar, Bahrain, Egypt, and Bangladesh. 
+UPA portal is web based portal where user raises request if he/she want access to any application/system. 
+Based on the category selected the workflow is designed in such a way who will take care of next level I.e. based on the category selected the request will go to users manager for approval or directly move to the UPA team who will take care of providing access to the applications. 
+Responsibilities: 
+Handled enhancement requests for above two portals and involved in developing the new modules like Timesheet Management, Transport Management. 
+Handling the enhancement discussions with the user/business. 
+Involved in coordinating with onsite team (Dubai) regarding the tasks and status reports 
+Organization: Cognizant Technology Solutions 
+Project Name Central Expertise. Com and SFF 
+Client Johnson & Johnson 
+Duration July 2011 
+Dec 2013 Environment PHP, Drupal 6.3, MYSQL, Java, Hibernate, Oracle 10g 
+Description: 
+ClinicalExpertise.com is the 24/7 online surgical educational website developed by Ethicon, Inc. The ClinicalExpertise.com website is designed to provide healthcare professionals the flexibility to: Access online education, complete educational continuums based on their preference, Register for newsletters and product updates, Receive information on special programs, Request account information changes etc. The healthcare professionals can login to the site and register independently for accessing the online education. Same kind of registration can be done from a different site named SFF, from which a sales representative can nominate a healthcare professional. Once nomination is completed professional will receive mail, remaining steps can be completed by healthcare professional from Clinical Expertise.Com. And also professionals can attend live events conducted by other surgeons. Based on the education selected healthcare professionals have to pay the amount. 
+Responsibilities: 
+Providing support for the two sites ClinicalExpertise.Com and SFF, in case of any issues. 
+Handling the enhancement discussions with the business. 
+Involved in coordinating with onsite and sending of status reports. 
+Organization: Cognizant Technology Solutions 
+Project Name UEC MEMR Migration Steady State 
+Client 
+All scripts 
+Duration Jan 2010 
+Mar 2011 Environment HL7,C#,Framework 2.0, SQL Server 2008, Informix 
+Description: 
+As per the new ARRA (American Recovery and Reinvestment Act) in US most of the Clinic and hospitals are moving towards EHR system from the legacy EMR system for incentive. We are migrating from Misys Tiger to Allscripts Pro-EHR. Misys Tiger and All scripts Pro EHR are basically HIS (Hospital Information System) which deals with Patients Provider and the appointments. The data in the base database Informix was to be migrated to SQL Server 2008. For some of the clients, the operating system was AIX. 
+The migration comprises of two phases namely: Data migration and Interface migration. The data migration phase involves the transfer and conversion of data from (M) EMR server (Misys Electronic Medical Record) which uses Informix database to Pro-EHR server (Professional-Electronic Health Record) which uses the SQL server database. 
+The interface migration involves the configuration and the replacement of the previously existing Misys interface layer that is compatible with the (M) EMR server with an interface layer compatible with the Pro-EHR to ensure a smooth interaction and flow of data among the Practice management systems, Pro-EHR server and Laboratory information systems. 
+Responsibilities: 
+Active involvement in knowledge and requirement gathering for the project. 
+Performs migration of Data from the Misys system to ProEHR and provides support on Go live issues. 
+Collecting necessary details for Interface migration. 
+Creation of Process Documents like Checklist, Understanding Documents. 
+Involved in coordinating with onsite, allocating tasks and sending of status reports. 
+Mentors the new joiners in the team, providing understanding of the functional and technical aspects of the project. 
+Organization: Ernst & Young 
+Project Name 
+Transport Tracking System 
+Client Ernst & Young UK Global Finance Team 
+Duration July 2008 
+Nov 2009 Environment 
+ASP.Net 2.0, C#.Net, SQL Server 2005, IIS 6.0, VS 2005, SSRS 
+Description: 
+Transport Tracking System is designed for tracking and providing transport based on the request raised by the professionals. Once the user raises a ticket, request will go to his/her respective supervisor, upon the confirmation from the supervisor, ticket will move on to the transport desk bin. The transport desk will schedule the transport based on the type and time requested for, and the requestor will get intimated through a mail regarding the same. 
+The transport tracking system also contains various reports with the help of which, the transport desk charges the cost on all the service lines for the service provided. Scheduling alternate cabs in case of emergency. Auditing for the proper utilization of the transport system. 
+Responsibilities: 
+Written stored procedures, triggers using SQL in SQL SERVER 2005. 
+Used ADO.Net Transaction to interact with SQL Server. 
+Extensively used Grid Views with sorting and paging Implemented Template Columns for Grid Views. 
+Developed User Documents for the users. 
+Provided Production support. 
+Worked on Java Script for client side validation. 
+Done unit testing. 
+Organization: Ernst & Young 
+Project Name 
+ALIGN 
+Client Ernst & Young AABS Team 
+Duration Jan 2008 June 2008 
+Environment Java, Apache 
+Description: ALIGN is a prebuilt tool which helps in creating the pages dynamically as per the requirement. All the enhancements or additions to the pages can be handled through the settings provided by the tool. 
+Responsibilities: 
+Created pages as per requirement using this tool for different departments Providing access to the new users. 
+Giving access to the different applications based on the request. 

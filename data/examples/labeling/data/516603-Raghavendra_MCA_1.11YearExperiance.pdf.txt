@@ -1,0 +1,102 @@
+RAGHAVENDRA R 
+Email: raghavendra.1503@gmail.com 
+Mobile: +91 9738231545 
+CAREER OBJECTIVE 
+- Seeking a position to utilize my skills and abilities that offers professionals growth while being resourceful, innovative and flexible. - To learn and contribute ideas to an esteemed organization with an unrestrained vertical growth, ensuring credible performance that leads the reputation on to a high pedestal. 
+SUMMARY: - 2 year s experience in creating interactive software applications. - Proficient experience work with ASP.NET, C#, HTML5, CSS3, JavaScript, Angular JS, JQuery, Ajax. 
+WORK EXPERIENCE: 
+- Green Wheel Ride Private Limited (Current): October 2016 to till date. 
+- APlus Intellisoft Solutions Private Limited : June 2015 to August 2016 TECHNICAL SKILLS 
+Programming Languages 
+C#, ASP.NET IDE Visual Studio, Webstrom 
+Software known MS Office Packages 
+Web Concepts HTML5, CSS3, JAVASCRIPT, JQuery, Ajax, AngularJS 
+Database MySQL Platforms Windows 7/8, Ubuntu 
+Version Controls Git 
+EDUCATION DETAILS 
+Degree Institute Board/University Year Percentage/Aggregate 
+MCA KVG College of Engineering. 
+VTU, Belgaum 2014 71.21 BSc NIE Science College, Mysore. 
+Mysore University 2011 64.24% II PUC Shree Cauvery PU 
+College, Mysore. 
+Dept. of Pre- University 
+Education, Karnataka 2008 46.06% SSLC Maharshi High 
+School, Mysore. 
+Karnataka board 2006 67.84% PROJECTS DETAILS : 1 
+Project Name : 
+TrinTrin. 
+Team Size : 04 
+Duration : 
+From past 7 months. 
+IDE : Webstrom. 
+Front End : Angular JS. 
+Back End : 
+Node JS, MongoDB 
+TrinTrin is the Public Bike Share (PBS) of Mysore, where bicycles are used by local residents as well as visitors on rent basis. User can borrow cycle from any docking station across the city and returning the barrowed bicycle after a ride to any docking station as suits the convenience of the rider. Project involves in developing two android applications, one for the administrator and one for the user. In user level application user can check their ride details, payment details, in admin level application admin can register the user by taking details and photos of the user and can check out the cycle from the fleet. 
+Responsibilities 
+Prototype design. 
+Collecting requirement from client. 
+Project planning and reviewing. 
+Development 
+PROJECTS DETAILS : 2 
+Project Name : 
+Letzselfie. 
+Team Size : 04 
+Duration : 1.3 Years. 
+IDE : Visual Studio. 
+Front End : 
+ASP.NET. 
+Database : 
+MySQL 
+Letzselfie is a web based application, the main objective of the project is to share the photos of the user, uploading pictures, audio, and video. Letzselfie is a social networking website. Website is useful for social network, where people can create their profile, pages according their feelings and much more awesome features like. Uploading images, videos, status and location as a post. Search friends through unique code. Users can give Titles, Rate to the post and can stick friends to the post. Also can Likes, comments, voice comments and share the post. User can also create pages for the business, company, artist etc. 
+Responsibilities 
+Prototype design. 
+Collecting requirement from client. 
+Project planning and reviewing. 
+UX designing and interacting with UI designer. 
+Database analysis and Design. 
+Development. 
+Moved into the maintenance after the development. 
+PROJECTS DETAILS : 3 
+Project Name : RE3 Command Fitness. 
+Team Size : 04 
+Duration : 3 months 
+IDE : Visual Studio. 
+Front End : 
+ASP.NET. 
+Database : 
+MySQL 
+RE3 Command Fitness project developed for the purpose of the gym, where each and every clients enters into the gym have to enter or certain attributed are collected by the gym trainer. On the basis of that attributes next measure are taken care for the clients to reduce or gain their weights and heights. 
+Responsibilities 
+Collecting requirement from client. 
+Project planning and reviewing. 
+UX designing and interacting with UI designer. 
+Database analysis and Design. 
+Development. 
+Moved into the maintenance after the development. 
+Academic Project 
+Project Name : 
+Performance Prediction of a Student. 
+Team Size : 01 
+Duration : 6 months. 
+IDE : Visual Studio. 
+Front End : 
+ASP.NET. 
+Database : 
+MS SQL. 
+Performance Prediction of a Student project deals with improving the performance of the students in their academics using data mining technique. This prediction is based on student behavior and background like his/her family education, income, food habits, other activities etc. By taking these behavior as a consideration we are going to calculate the average percentage of the student performance. So that for their upcoming academics it will help for both students and teachers to predict the performance. 
+Personal Details: 
+DOB : 15-03-1990 Father Name : Ranganathan L 
+Mother Name : 
+Shreevalli A 
+Address: #341,6th Main, H-block, Ramakrishna nagara, Mysore-570022. 
+Language of Proficiency: Kannada, English, Hindi. 
+Strengths: Hard worker, Dedicative, Quick Learner, Team Player, Punctual. 
+Hobbies: Reading Books, Playing Badminton, Playing carom. 
+Notice Period: 1 month Reason for Change: 
+Looking for more challenging project and better career. 
+Total Relevant IT Experience: 
+1 Year 11 months 
+Permanent /Contractual: Permanent 
+Date: 21-05-2017 
+Place: Mysuru RAGHAVENDRA R 

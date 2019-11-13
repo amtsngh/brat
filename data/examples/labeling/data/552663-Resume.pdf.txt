@@ -1,0 +1,56 @@
+POOJA S.SHALWADI ADDRESS: D/O Suresh Shalwadi, 
+Email : poojashalwadi@gmail.com 
+H.NO-103, Tajnagar, Unkal Mobile: 9739619216 Hubli-580031. 
+CAREER OBJECTIVE: 
+To work in an esteemed organization, where I can show my talent as an individual and also in professional group by applying my knowledge for the betterment of the company. 
+EDUCATIONAL QUALIFICATIONS: 
+EXAMINATION BOARD/UNIVERSITY INSTITUTION YEAR OF PASSING PERCENTAGE/ 
+CGPA 
+BE (Computer 
+Science and Engineering) Autonomous 
+SDMCET, Dhavalagiri, Dharwad 2017 8.60 PUC 
+State Board 
+P.C Jabin. 
+Science college, Hubli 2013 82% SSLC 
+State Board 
+J.K school, 
+Hubli 2011 
+86.88% 
+TECHNICAL SKILLS: 
+Operating Systems : Windows XP/7/8.1,Linux, Fedora 
+Languages : Basic C, Java, Data Structure, SQL, PHP, JavaScript 
+Scripting Languages : HTML, XML 
+Tools : ERwin, Edraw 
+Framework : OpenGL with GLUT PROJECT DETAILS: 
+1. Project Name : Students Information Management System 
+Technology : Java 
+Back End : Oracle 11G 
+Description : My project work is to create a database on student information where all the Personal details of student and their internal marks scored in registered subject of that particular semester are accumulated. 
+2. Project Name : Leave Application Management System 
+Technology : PHP, HTML, AJAX 
+Back End : MYSQL 
+Description : To create an online based leave application management system for the faculties of all the departments of our college, where this system is used to automate the workflow of leave application and their approvals by HOD and Principal. 
+3. Project Title : Network Fraud Detection Using Machine Learning Technique 
+Technology : Weka Tool 
+Description : This project is aimed at detecting frauds in the network using K-mean Clustering algorithm and weka tool for any dataset. 
+ACHIEVEMENTS: 
+I have won second prize national level Techno-Cultural fest in master mind 
+I have won first prize in leprosy quiz competition 
+I have won first prize in hockey match 
+CO-CURRICULAR ACTIVITIES: 
+Participated in two days workshop on Cisco Networking organized by TechKriti IIT Khanpur and Azure Skynet 
+Participated in Automata Competition 
+Participated in ten hour workshop on Python Fundamentals 
+EXTRA-CURRICULAR ACTIVITIES: 
+I have won third prize in Science and Exhibition 
+Participated in Young Saver Talent Test 
+I was the member in a campaign called C.M.C.A (Children Movement for Civic Awareness) 
+COMPETENCIES: 
+Quick learner and cooperative in team 
+Dedicated towards the work Ability to manage the time and work under risky situation 
+HOBBIES AND INTEREST : 
+Craft making Listening to music Watching technical related shows and technical quiz competitions Interested in cooking 
+DECLARATION: 
+I hereby declare that all the information furnished above is true to my knowledge. 
+Place: Dharwad 
+Date: 

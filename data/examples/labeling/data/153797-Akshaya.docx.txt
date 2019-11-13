@@ -1,0 +1,43 @@
+ RESUME AKSHAYA 
+Vanajakshi Nilaya 
+Email:acharya.akshaya04@gmail.com 
+Kambalakatta, Kodavoor Post 
+Contact no: 8970436611(M) Pincode-576106. 
+CAREER OBJECTIVE To become associated with a company where I can utilize my skills and gain further experience while enhancing the companys productivity and reputation. 
+ACADEMIC QUALIFICATIONS EXAM / DEGREE YEAR SEM NAME OF INSTITUTE UNIVERSITY / BOARD PERCENTAGE 
+B.E. Computer Science 2016 
+VIII Shri Madhwa Vadiraja Institute of Technology and Management,Bantakal V.T.U 
+77.06 2015 
+VII 71.56 2015 VI 
+74.22 
+2014 
+V 
+70.11 
+2014 
+IV 
+75.77 2013 III 
+80.66 
+2013 II 82.19 2012 I 87.35 
+Aggregate: 77.10 
+12th Board 2012 -- Poorna Prajna P.U College,Udupi. 
+P.U. Board 89.33 10th Board 2010 -- Government Composite High School,Volakadu.Udupi Karnataka Board 93.44 PROJECT DETAILS 
+Project Title An Effective Network Monitoring Tool For Distributed Networks. 
+Platform Microsoft Visual Studio 2010, .NET Framework 
+Description 
+Many computers are connected to form a network. Client system must register in Admin system with valid Username, Password and Mac address. Client system can then login through username and password and can download files from connected Systems. Admin system maintains a database which contains every client details such as Username, Password, Mac addresses and also Downloads details. 
+ADDITIONAL SKILLS Languages C, C++ 
+Database MY-SQL 
+Operating Systems Windows 2007,XP 
+Web Designing HTML Development Methodolgy 
+Object Oriented Programming 
+Awareness Networking 
+PERSONAL SKILLS 
+Good 
+problem solving abilities. 
+Quick Learner 
+Hardworking Willingness to learn EXTRA CURRICULAR Participated in workshop on Image Processing by TechTalks Systems Participated in workshop on Robovision by Technophilia PERSONAL PROFILE Nationality 
+: Indian Date of Birth : 04-03-1995 ADDITIONAL SKILLS 
+Listening to music, Playing carom, Cooking DECLARATION 
+I hereby declare that the above information furnished by me is true and correct to the best of my knowledge and belief. 
+Place: Udupi 
+Date: __/__/__ 

@@ -1,0 +1,65 @@
+ Akshay Palankar 
+TECHNICAL SKILLS 
+Good understanding of modern microcontroller architectures. 
+Good understanding of Peripherals in microcontrollers. 
+Good understanding of communication protocols like SPI, UART, I2C . 
+Good understanding of C programming and embedded C concepts. 
+Hands on experience with the various embedded development tools like Kiel uvision 4 and Code Composer studio. 
+Good understanding of various microcontroller and microprocessor like 8051, PIC16F877A, MSP430 and ARM7TDMI. 
+Hands on experience in Microcontroller interfacing and troubleshooting with RFID,LCD,RTC,GPS and GSM modules 
+Experience of testing of embedded systems. 
+WORK EXPERIENCE 
+Total work Experience: 2.3 years NXTGen solutions 
+From Dec 2013 to March 2016 
+I worked as an embedded developer. During the course of time I have worked with different kinds of controllers and have developed various projects assigned by them. 
+My role was to involve into coding using embedded C with8051, PIC16F877A, MSP430 and ARM7TDMI. 
+Design and documentation of the project. 
+I have worked on battery management project which has got STM32L151 ARM processor. My part in the project was into basic regression testing of the project. 
+The test was intended to manage the charge and discharge of 1 or 2 
+Li-Fe(A123)batteries in a mobile clinical workstation, where it supplies a nominal 12 VDC to the computer, display, and associated electronics. 
+Charge/discharge testing Li-Fe 1 or 2 batteries. 
+Failure Mode testing Temperatre sensor,Voltage limits,Current limits based on VTP . 
+Writing TDC to document test case failures in above procedure. 
+PROJECT WORK 
+1.Title of the Project : 
+Distributed embedded system for industrial process monitor and control Description: 
+The project involves developing a host based distributed embedded system for industrial process monitoring and control. 
+Software Tools: 
+Keil uV4, Flash magic. 
+Hardware: LPC 2378 on MCB2300 Keil board 
+My role in the project was configuring the SPI, UART, LCD and developing the code for the communication protocols. 
+2.Title of the Project : 
+Ultra low power infrared based non invasive measurement of blood oxygen and heart beat: 
+Description: 
+The task at hand for this project is to design and implement a transducer and the corresponding hardware for the measurement of Red and Infrared PPGs. The project was done using MSP430 Launchpad. 
+Software Tools: Code Composer studio v5 
+Hardware: TI 
+MSP430 launchpad. 
+Role : Configuring UART ,ADC and developing the code for the same. 
+PROFESSIONAL COURSES 
+I Completed Professional Development program, in Embedded Software Design, from Sandeepani School of Embedded System Design. 
+EDUCATION 
+Name of course 
+/degree University/Board Specialization 
+Year Pass Out Aggregate in % MS Manipal University Embedded systems 2013 
+CGPA 8.68/10 
+B.Tech Visweshwaraiah Technological University. 
+ECE 2011 
+68.8 
+12th 
+Karnataka Board PCMB 2007 
+79 10th 
+Karnataka Board 2005 94.45 . 
+PERSONAL DETAILS 
+Fathers Name Chandrahas Palankar 
+D.O.B 
+30th July,1989. 
+Current Address Shri Chamundi, No.6, MIG,2nd Stage,K.H.B Colony, 
+Basaveshwara nagar,Bangalore-560079 
+Email ID 
+akshaycpalankar@gmail.com 
+Contact No +91-8147329427 
+DECLARATION 
+I do here by declare that all the above statements are true to the best of my knowledge and belief. 
+Place- 
+Bangalore Signature of the Candidate Date- 

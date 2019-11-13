@@ -1,0 +1,107 @@
+ DEEPAK BALASAHEB NAGANE 
+Mobile : 9870241255 deepak.nagane@gmail.com, 
+deepak_b_nagane@yahoo.co.in 
+SUMMARY 
+Established Professional 
+Software Engineer having nearly 8 years of experience in implementing high performance, scalable desktop software and web applications. Great efficiency with application design, development, architecture, maintenance and testing. Solid experience with and understanding of AWS. 
+Vast experience in configuration and development of diverse business applications including IVR and 
+CRM and ERP system. Expertise in using various software tools, languages and methodologies with special expertise in PHP. 
+Successfully handled Pre, Post and Convocation operations for University of Mysore (6th oldest university in India ). 
+WORK EXPERIENCE: Total 8 Years 
+September 2014 Till Date at Carrot Technologies PVT. LTD . (IEM) , Mulund 
+August 2012 September 2014 at 
+Pinnacle Tele Services PVT. LTD .,Andheri 
+April 2011 August 2012 at IL & FS Education , Andheri May 2008 to March 2011 at Dynamic Web Tech ., Sanpada-Navi Mumbai 
+TRAINING / CERTIFICATIONS . Diploma in Field Engineering(DFE) from CMS Institute, Thane SUN JAVA PROGRAMMING using UML Standards from NIIT Institute, Thane. 
+EDUCATION 
+Master of Computer Application (M.C.A), 04/2008 B.Sc (Computer Science), 05/2005 PROFESSIONAL SUMMARY OS Platforms 
+: Windows 9x / XP,Ubuntu 9.0. CentOS 6/7 
+Programming Languages : 
+Flex 3.0, PHP 5x 
+DBMS 
+: MySQL 5x 
+Web Technologies : 
+Java Script, Dream Weaver MX. CSS, AJAX, JQuery 
+W3C Technologies : XML,SOAP,WSDL 
+Reporting Tool 
+: JasperReport 3.7, Crystal Report 8.0., FusionChart CMS : Joomla 1.5.15.,Wordpress Subversion System : 
+TortoiseSVN 1.6.10., VSS 
+Customized Framework : 
+Zend Framework, CodeIgniter Telephony Platform : 
+Asterisk 1.6/1.8,AGI, VXML,KConference 
+Engineering Tool : Eclipse 3.4, Zend Studio 9.0, Bugzilla 
+Cloud computing : AWS (EC2, S3) 
+Page 1 of 4 WORK EXPERIENCE 
+Sr. Software Engineer Carrot Technologies PVT. LTD. ,(IEM) 
+Mulund 
+Duration : September 2014 Till Date 
+Designation : Team Leader 
+Team Size : 12 
+Environment : PHP, MySQL, CodeIgniter,Jquery,EC2, S3 
+Description : 
+Carrot Technologies Pvt. Ltd. (IEM) are passionate about providing client with the best-in-class and most reliable IT products and services. Started operations in 2012. Carrot Tech. are a team of energetic, enthusiastic and experienced professionals who endeavor to provide their clients with nothing but the best in web solutions along with Pre and Post examination activity for well known Institutions and Universities across India. 
+Responsibilities: 
+Successfully handle all Pre and Post examination with technical and operation working of University of Mysore (6th oldest university in India ). 
+Successfully handle Convocation Program for University of Mysore. 
+Managing ERP system of Sandip University and Sandip Foundation with all functional and technical aspects. 
+Implement changes in the University s policies connected to assessment, examinations and degree rules. 
+Enforcing all company approved policies and procedures. 
+Responsible for overseeing the day-to-day operations of the team, distributing the workload evenly amongst staff and making sure motivation and performance levels are maintained. 
+Interacting with clients to gather requirements, support and manage multiple mission critical client infrastructures and application deployment on AWS. 
+Sr. Software Engineer Pinnacle Tele Services PVT. LTD .,Andheri 
+Duration : August 2012 September 2014 
+Designation : Sr. Software Engineer 
+Team Size : 5 
+Environment : Asterisk 1.6,VXML,CentOS-5.6,PHP,MYSQL,Zend Framework,AGI Scripting 
+Description : 
+Pinnacle Teleservices Pvt. Ltd. is a leading Cellular IT solutions company established in 2003 and awarded as ISO 9001 : 2008 and ISO / IEC 27001 : 2005 Certified Company, traveled a long path with an unbelievable velocity. Pinnacle has emerged as a fast growing online Bulk SMS service provider and Value Added services like 5digit Short code services , IVR Dialers , Outbound & Inbound call solutions , cellular Events and promotions etc. 
+Responsibilities: 
+Successfully completed more than 40+ campaigns,innovative engagement tools for client like P&G,ITC etc. for brand such as Tide, Ariel, Ponds, Ambipur, Ashirwad, Pampers. 
+Vast experience in configuration and development of diverse business applications including IVR and CRM Successfully implemented custom Dial plan, IVR application ,Wrote AGI scripting. 
+Page 2 of 4 Excellent communication, management and problem solving skills Created multi lingual IVR applications for call centre and 24/7 help lines. 
+Generated department specific reports on a monthly basis. 
+Coordinated with quality assurance team to ensure quality product development Software Engineer IL & FS Education, 
+Andheri 
+Duration : April 11 August 2012 
+Designation : Software Engineer 
+Team Size : 4 
+Environment : Asterisk 1.6,VXML,CentOS 5.6, JDK 1.6, PHP, MYSQL,Zend Framework1.10 
+Description : 
+IL&FS Education is the social infrastructure initiative of IL&FS India. Established in 1997, company promote Education, Employability, and Empowerment. They are experts in the fields of education, skill development, industrial cluster development, health initiatives, e-governance and financial inclusion. 
+Responsibilities: 
+Single handedly implemented Call Flow. 
+Successfully implemented custom Dial plan, IVR application ,Wrote AGI scripting Client Coordination and Interaction. 
+Involved in building MIS reports. 
+Software Engineer Dynamic Web Technologies, 
+Navi Mumbai 
+Duration : May 2008 to March 2011. 
+Designation : Software Engineer 
+Team Size : 5 
+Environment : PHP, MYSQL, Zend Framework 1.10,JDK 1.6 , Flex 3.0 
+Description : 
+Dynamic Web Technologies (DWT) is an ISO 9001:2000 certified company specialist Research, Business Process Management & Analytical Company based out of India and UK, providing end to end business process related services to its clients across the globe. They provide Consistent high quality patent services in the field of electronic, telecommunications, mechanical, pharmaceutical, biotechnology, life sciences, food etc . Responsibilities: 
+Code, test and troubleshoot programs utilizing the appropriate hardware, database, and programming technology. 
+Test and develop programming modifications. 
+Producing detailed specifications and writing the programme codes. 
+Testing the product in controlled, real situations before going live. 
+Client Coordination and Interaction. 
+Page 3 of 4 Software Developer Orange Business Services Ltd., Mahape. 
+PROJECT NAME (IP PBX System Using VoIP), Client Location (Mahape) 
+Duration : June 2007 to March 2008. 
+Designation : Software Developer 
+Team Size : 5 
+Environment : PHP , MYSQL, Asterisk 1.6,X-lite, CentOS. 
+Description : This Project dealt with the creation of a private telephone exchange system with design and implementation of IP PBX with its Web Management Console/ Monitoring System / Billing System for Orange Business Services. 
+Responsibilities: 
+Develop and demonstrate prototype software and participate in both operational analysis and software development. 
+Contribute to technical team activities(design modeling),prototyping, coding, testing and documentation in full life cycle of product. 
+ACHIEVEMENTS 
+Participations & Awards: 
+Active Participant in Project Exhibition and sport activities in Manthan -2006(Navi Mumbai) PERSONAL DETAILS 
+Nationality : Indian 
+Date of Birth : 
+1st Dec. 1981 
+Languages known : English, Hindi, Marathi Gender : Male 
+Marital Status : Single 
+Passport No. : G8146988 
+Page 4 of 4 

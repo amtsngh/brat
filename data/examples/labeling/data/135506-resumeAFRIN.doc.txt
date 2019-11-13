@@ -1,0 +1,45 @@
+Curriculum Vitae 
+AFRIN SAYED 
+#857, 7th Cross, 11th Main, M.Tech (CNE) ITI Layout, Hosapalya Road, Bommanahalli - 560068. 
++91 9035982811 sayedafrin21@gmail.com 
+Objective 
+I have been very keen to work for an organization which has great work culture and which offers challenging and cutting edge works in which I could maximize my contribution. 
+Education: 
+Year, Course, Percentage, Institution. 2015, M.TECH (CNE), 69.33%(upto 3rd sem), VTU PG Center Belagavi. 
+2013, B.E (ISE), 
+58.23%, STJIT Ranebennur. 2009, Class 12, 53.5%, PC Jabin Hubli. 2007, Class 10, 82.08%, Convent High School Hubli. 
+Technical Skills: 
+Programming Languages C,C++,TCL,Java. 
+Operating Systems UBuntu & Windows. 
+Soft Skills Communication Skills & Presentation Skills. 
+Academics: 
+Project title (BE) : TIMESHEET MANAGEMENT 
+Role : Software Engineer 
+Language : JAVA 
+Platform : Windows 7, Eclipse 
+This project work is to develop an application where the worker logs in and logs out and the timing excel sheet is prepared to know the number of hours the worker has worked. This application can be used in small companies which cannot afford for swap cards etc. 
+Project title (M.Tech) : ROUTING IN Ad-hoc Network Using Shift Of Origin 
+Role : Software Engineer 
+Language : TCL 
+Platform : NS2, LINUX 
+This project is to provide efficient routing and route maintenance. 
+PRESENTED 
+TECHNICAL 
+SEMINARS ON 
+Clustering in M-Tech (1st SEM) Visual Cryptographic Steganography In Images in M-Tech (2nd SEM) 
+Strengths: 
+* Motivating self and team towards the responsibility. 
+* Self-confident, willing to learn quickly, good communication skills, Hardworking. 
+* Ability to deal with people diplomatically, team facilitator. 
+PAPER PUBLISHED: 
+Steganography on RSA algorithm and Hash-LSB Technique published at VTU,National Conference Kalaburagi ISBN:978-81-921740-4-4. 
+Personal details: 
+Date of Birth : 15/01/1991 Fathers name : Sayed Mahaboob 
+Mothers name : Sayed Saira Banu 
+Languages Known : English, Kannada, Hindi, Telugu 
+Sex : Female 
+Marital Status : Married 
+Nationality : Indian 
+I hereby declare that the information furnished above is true to the best of my knowledge. 
+Date: 
+14-10-16 Place: Bengaluru (AFRIN SAYED) 

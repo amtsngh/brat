@@ -1,0 +1,65 @@
+FALGUNI
+B. THAKOR CAREER OBJECTIVE 
+To use my knowledge and competence for the mutual growth and development of both the Organization as well as the individual by working in a result oriented Organization. 
+WORK EXPERIENCE 
+1) Brain InfoTech 
+Designation: - 
+Jr. Software Developer 
+Duration: - April 2016 to September 2016 
+Key Responsibilities: 
+- Design, develop and implement new functionalities in software or modifications to existing software - Troubleshoot and identify bugs in existing software 2) Infinity Business Solution Designation: - Software Developer (Trainee) Duration: - October 2015 to March 2016. 
+Key Responsibilities: 
+- Develop website in Codeigniter framework 
+- Contribute in all phases of the development lifecycle 
+EDUCATIONAL QUALIFICATION ADDRESS: 
+Aditi s Paying Guest For Girls, 25 B, Budhwar Peth, ABC Chowk, Pune -411002 Email Address: 
+fthakor15@gmail.com 
+Contact Number: 
++91-8866262868 
+Exam Institute University 
+Month/Year of Passing 
+Percent/CGPA M.TECH. 
+(IT). 
+U.V. Patel College Of Engineering 
+Ganpat 
+Uni. June-2015 67.00% B.E.(ICT) 
+Madhuben & Bhanubhai 
+Patel Women Institute 
+Of Engineering For Studies And Research in Computer 
+And Communication Technology.(MBICT) - New V. V. Nagar 
+G.T.U 
+Dec - 2013 
+71.70% 12th Bai Ava Bai High School, Valsad GHSEB April - 2009 61.00% 10th Bai Ava Bai High School, Valsad GHSEB April - 2007 80.92% TECHNICAL EXPERTISE ACADAMIC PROJECTS 
+Project Title Platform Used Description 
+Frequent Pattern Mining in Data stream (Dissertation). 
+JAVA Finding user interesting frequent pattern from high speed data stream using vertical format with sliding window technique. 
+VPN Utility C#.NET Sharing files securely using Steganography and Cryptography 
+Online Examination system PHP It makes easier to take examination as well as providing results instantly online. 
+Online Customer Complaint/Feedback system for Water Purifier 
+Manufacturer Company 
+PHP Customer can complaint online and give feedback of product. 
+WORKSHOP/SEMINAR ATTAINDED 2013:- Attended Surface Computing Workshop conducted by I3indya Technologies in association with 
+TECHKRITI 2013, IIT Kanpur Held at MBICT 
+2012:-Attended IT seminar in technical festival Techfluenza-2012 Held at MBICT, New V.V.Nagar 
+PERSONAL INFORMATION 
+Name : Thakor Falguni Bharatsinh 
+Father s Name : Thakor Bharatsinh P. 
+Mother s Name : Thakor Tarunaben B. 
+Date of Birth 
+: 15th oct 1991 
+Nationality : Indian 
+Relationship Status : Single 
+Languages known : English, Hindi & Gujarati 
+Hobbies 
+:Drawing, mehndi making, listening slow songs 
+Permanent Address : 11/A, Tirupati Society, Nanakwada, Valsad-396001 
+DECLARATION 
+I hereby declare that the information stated above is true to the best of my knowledge. 
+DATE: 
+PLACE: FALGUNI. B. THAKOR 
+Operating Systems Linux, Windows 
+Programming Languages Known C, C++, PHP, Basics of JAVA and C#, VB.NET 
+Database Skills MySQL Software Skills Net Beans, Dreamweaver, MS visual Studio, Notepad++ 
+Web Designing MySQL, jQuery, JavaScript, HTML, CSS, XML, Ajax 
+PHP Framework Codeigniter 
+Area Of Interest Data Mining, Web Application Development, Cryptography and Network Security 

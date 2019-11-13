@@ -1,0 +1,153 @@
+ CHANDRA SHEKHAR RAO KORLAM 
+Prince2 ,CSM,ITIL V3,Lean Six Sigma Green Belt 
+Email: kcsrao@yahoo.com , kcsrao@rediffmail.com 
+Mobile: +91-98865 63069 , +91-98866 92355 Profile 
+Proactive and result oriented Senior Service delivery manager offering over 19+ years of experience in IT industry with over 3+ years on SFDC ,Enterprise - Cloud Assessment & Migration 9+ years focused on project management. Comprehensive knowledge of wide array of software development tools ,Apps Transition and techniques, combined with outstanding service delivery, managerial and problem solving skills. 
+Snap Shot 
+Playing as a Role of Senior Program Manger ,Sr.Transition Manager ,Portfolio Manager SFDC ,Enterprise Cloud Lead. 
+Build and lead new Cloud Service Brokers team to architect and implement new public/hybrid/private cloud platforms. Cloud migration and Assessment projects roadmap. Cloud assessment knowledge on Microsoft Azure and AWS service providers 
+Architect and deploy Symantec public/private cloud platforms (IaaS, PaaS & SaaS) across Amazon Web Services, Terremark, HP Cloud Services, MS Azure , AWS,Salesforce 
+Developed new Cloud Management product features for SFDC 
+Implement new Cloud Management Platforms from Cloud Switch, CloudStack, OpenStack, RightScale, and VMware vCloud Automation Suite (vCloud Director, vCloud Connector, vCenter Operations Manager). 
+Migrate IaaS, PaaS and SaaS instances between public and private clouds - Java, J2EE, .NET, Ruby, LAMP, Apache, RDBMS, Oracle, SQL, MySQL, Unix/Linux, NAS/SAN, LAN/WAN VPN, Security, IDS, Firewalls and Encryption 
+Lead data center transformations projects to migrate client/server applications and platforms to cloud environments. 
+Develop cloud reference architectures, governance policies, security models, and best practices. 
+Hands on experience of handling projects and delivering services to the Fortune 100 global blue-chip clients. 
+Excellent track record of service proliferation, design, Apps Transition management and control to realize business value with optimized cost. Experience of implementing the best preventive and perfective maintenance tools and techniques of IT services. 
+Experience of multivendor service transition of global applications. 
+Experience of managing the Project Management Office and Sharepoint 
+Experience of SLA management and service reviews with clients and managing the Audit and Certification compliance for the portfolio I manage. 
+Program Manager for multiple projects on targeted business objectives. 
+Guided successful completion of multiple projects according to scope and within schedule 
+Successfully implemented LEAN for my portfolio to boost contribution margin Summary of Expertise 
+Onsite work experience in U.S, UK,France and CSM,ITIL and Prince2 Certified professional Work experience in Agile Project Management methodologies. 
+Outstanding Leadership and Project Management abilities. 
+Experience in Managing the Teams across the Vendors. 
+Excellent ability to handle multiple tasks under tight deadlines. 
+Strong, effective decision-making, organizational and time management skills. 
+Strong in Managing the Triple Constraints Scope, Time and Cost. 
+Strong in Risk identification and mitigation planning. 
+Excellent People and communication skills (written and Oral). 
+Proficient in MS Office Tools (Word, Excel, Power Point), Visio and MS Project. 
+Strong in developing Project Plans and Work Breakdown Structure (WBS). 
+Manage Issues, meeting minutes and resulting action items to ensure they are resolved in a timely fashion by responsible assignees and escalating as necessary. 
+Plans and Manages work deliverables, project expectations, risks and changes for large, complex, global projects. 
+Skill Set 
+Service Delivery: 
+IT Service Delivery Manager, accountable for the end-to-end delivery of programs and projects to meet customer needs. Wide spread experience in handling Application Management and Application Development project portfolios. Implemented industry benchmarked ITIL processes in the projects and monitored for their success. Ensured the successful delivery of projects and services from time, cost and quality perspective, to meet and exceed customer expectations. Successful in handling the clients with stringent and comprehensive SLAs. 
+Project Management: An efficient, dynamic, result oriented project manager strong in identifying project requirements, milestone criteria, task dependencies and create schedules to manage multiple projects effectively. Highly self motivated and drive results with ability to organize, manage, and control several strategic projects from inception to execution. Strong in Interpersonal, analytical, and problem-solving skills to work with people at all levels to help drive results. Status reporting, monitoring project progress and communicating project information through formal reports and presentations. 
+People Management: As the leader, I motivate, inspire, and encourage team members to perform and exceed in their respective roles. As the Mainframes CoE lead I help building core competencies within the project/company through trainings and certification drives. Inducted many freshers and made them productive/billable to enhance contribution margin for the projects. Adopted the philosophy of having the right people, with the right skills and tools, in the right quantity at the right time. 
+Technology Experience Software Oracle, PeopleSoft, SAP -MDM,SAP-Basis,Java,C,C++,MS-CRM,DB2, IMS DB, IMS DC, COBOL, CICS, JCL,AS/400,Informatica,BO, SQL, .Net,ASP, Microsoft Visio, Microsoft Power Point, Microsoft Excel, Microsoft Word .Sharepoint 
+Hardware Windows XP Professional, IBM OS 390, IBM Compatible PC Windows, IBM WebSphere. 
+Tools File Aid, Expeditor, Jobtrac, JCON, WCM, Changeman, Infoman, Jobscan, Project Workbench, Team Work Bench, Microsoft Project Plan, PLANIT. 
+Professional Experience 
+Experience Company Current Position 
+September 2005 
+Till Date Capgemini Senior Service Delivery Manager 
+Feb 2004 
+Sep 2005 Scandent Corp Project Leader 
+Oct 2002 
+Jan 2004 TIMKEN Team Leader 
+May 2000 
+Oct 2002 Wipro Technologies 
+Module Lead / Project Leader 
+Experience Profile 
+Key Projects 
+Project: Coke Cola ( Retail & Supply chain) 
+The Coca Cola Companys Global IT (GIT) division is continuing to identify and execute initiatives that will create enterprise value via increased revenue and/or decreased costs. It is estimated that GIT manages a portfolio of 1,400+ technology applications across 20+ service areas. Identify applications that are in use, assess their suitability for hosting in the cloud and migrate them to the new cloud environment, releasing the resources used by them on-premise. 
+Role Description: Team Size : 30Coke Cloud Assessment and MigrationAnalyzing the application and providing cloud feasibility based on CCA methodology.Maintenance of Standards Documentation, iSoW project creation Process, Ad-hoc reporting requirementsResponsible for preparing and presenting to customer WSR reportsResponsible for forecasting and Invoicing. Manage the Project needs/Project Objectives, limitations/constraints and change control.Creation of detailed plans for cost, resources, quality, risk and issues as a part of day to day activity. 
+Managing the risks and issues of operations with efficient BCP and seamless coordination with ITICS, HR and IFM. 
+Project: Southern Water - UK 
+Duration: Sep 2012 to June 2013 
+Role: Cloud Migration Manager 
+Project: Southern Water - UK 
+The Southern Water UK Company is continuing to identify and execute initiatives that will create enterprise value via increased revenue and/or decreased costs.As part of this initiative we have received portfolio of 300 applications having 50 enterprise and 250 Non-core applications are to be analyzed for the suitability for Cloud . 
+Role Description: Team Size : 9 
+Analyzing the application and providing cloud feasibility based on CCA methodology.Maintenance of Standards Documentation, iSoW project creation Process, Ad-hoc reporting requirementsResponsible for preparing and presenting to customer WSR reportsResponsible for forecasting and Invoicing. Manage the Project needs/Project Objectives, limitations/constraints and change control.Creation of detailed plans for cost, resources, quality, risk and issues as a part of day to day activity. 
+Managing the risks and issues of operations with efficient BCP and seamless coordination with ITICS, HR and IFM. 
+Project: Centrica Duration: Feb, 2011 
+Till Aug 2012 
+Role: Service Delivery Manager QA Services 
+Customer name: Centrica ( Power & Utility) 
+SAP R/3 ECC 5.0 implementation to Centrica power plants in UK. Centrica is leading supplier of energy and related services in UK markets. Centrica Energy consists of upstream gas production, electricity generation and renewable asset operations, wholesale and certain industrial gas sales Modules implemented where FICO, MM, PM, PS, SRM & BW, Implemented by Capgemini in 2007.Ensure that the Capgemini global teams work together in a seamless manner to deliver the SAP QA Support services to Centrica, while adhering to defined SLAs and KPIs. The team should be relentless in its pursuit of continual improvement of the delivery and value addition to Centrica, all this to increase customer delight and ensure that Capgemini remains the vendor of choice for Centrica in a competitive market environment 
+Role Description: Team Size : 60Code Review and carry out related activities for development in SAP Code review activities for Service recovery, Planned build and project objects.Performance Monitoring,Conflict Checking,Development & Maintenance of SAP QA ToolsMaintenance of Standards Documentation,CTS project creation Process, Ad-hoc reporting requirementsResponsible for preparing and presenting to customer WSR ,MSR reportsResponsible for forecasting and Invoicing. Manage the Project needs/Project Objectives, limitations/constraints and change control.Creation of detailed plans for cost, resources, quality, risk and issues as a part of day to day activity. 
+Managing the risks and issues of operations with efficient BCP and seamless coordination with ITICS, HR and IFM. 
+Project: Alcatel - LucentTeam Size : 120 Duration: May, 2007 
+Till date 
+Role: Sr. Service Delivery Manager 
+Customer name: Alcatel Lucent ( Telecom & Billing) 
+Alcatel - Lucent Technologies is a leading designer and supplier of systems, services, and software that drive next-generation communications networks Alcatel Lucent engagement provides application management of around 55+ applications. The technology involved in supporting those application ranges from Mainframe, AS/400,Client/Server, Java/J2EE, Unix shell scripts, Peoplesoft,.Net,ASP etc. I am responsible for managing service delivery which includes the Application maintenance and enhancement. 
+Role Description: Team Size : 120Delivery Manager responsible for the delivery and operations of my set of Apps Portfolio. 
+Ensure that all the SLAs (around 88) are met to avoid financial implications. Foresee any risks and mitigate them. 
+Align the service delivery to client mandated ITIL processes and procedures and adhere to the established practice. 
+Successfully transitioned many development projects to the sustain environment. 
+Successfully delivered many fixed price projects as part of the enhancement work for the client with many appreciations for the quality delivery of the IT solutions. 
+Manage the Project needs/Project Objectives, limitations/constraints and change control.Responsible for status reporting cadence of operations for North America portfolio for ALCreation of detailed plans for cost, resources, quality, risk and issues as a part of day to day activity. 
+Managing the risks and issues of operations with efficient BCP and seamless coordination with ITICS, HR and IFM. 
+Manage the OLAs with multiple vendors of the client and chair the follow-up and escalation meetings 
+Single point of contact for many Process Improvement Activities and all Internal / External Audits. 
+Project: Schneider ElectricTeam Size : 45 Duration: Sep 2005 
+May 2007 
+Role: 
+Service Delivery Manager 
+Customer name: Schneider Electric ( Energy & Supply Chain) 
+Schneider Electric is a leader in the global market for automation and control technology and an international manufacturer of electrical equipment through the brands Square D and Telemecanique.The application management of around 75+ applications. The technology involved in supporting those application ranges from Mainframe, SAP,Client/Server, Java/J2EE, Unix shell scripts, etc. I am responsible for managing service delivery which includes the Application maintenance and enhancement. 
+Role Description: Team Size : 45Delivery Manager responsible for the delivery and operations of my set of Apps Portfolio. 
+Ensure that all the SLAs (around 88) are met to avoid financial implications. Foresee any risks and mitigate them. 
+Align the service delivery to client mandated ITIL processes and procedures and adhere to the established practice. 
+Successfully transitioned many development projects to the sustain environment. 
+Successfully delivered many fixed price projects as part of the enhancement work for the client with many appreciations for the quality delivery of the IT solutions. 
+Manage the Project needs/Project Objectives, limitations/constraints and change control.Responsible for status reporting cadence of operations for North America portfolio for ALCreation of detailed plans for cost, resources, quality, risk and issues as a part of day to day activity. 
+Managing the risks and issues of operations with efficient BCP and seamless coordination with ITICS, HR and IFM. 
+Manage the OLAs with multiple vendors of the client and chair the follow-up and escalation meetings 
+Single point of contact for many Process Improvement Activities and all Internal / External Audits. 
+List of the other projects Handled : 
+Title Role Client Location Duration 
+Scancent Corp Project Leader Liberty Mutual Insurance Indianapolis, USA 
+Feb 2004 
+Sep 2005 TIMKEN Technical Lead/ Module Leader TIMKEN Canton, USA / 
+Miami USA Oct 2002 
+Jan 2004 Wipro Technologies 
+Module Leader / Team Member Putnum Investments Bangalore India 
+May 2000 
+Oct 
+2002 Infosys Pune through IBJ Computers Developer AETNA Healthcare Pine India July 1999 to Apr 2000 Deldot Syatems Developer Maintannance Projects Bangalore June 1996 to Aug 1999 Personnel Details 
+NAME CHANDRA SHEKHAR RAO KORLAM 
+Designation Service Delivery Manager 
+Mobile +91-98866 92355 
+Residence Bangalore 
+Nationality Indian 
+Martial Status Married 
+Gender 
+Male 
+Email : kcsrao@yahoo.com 
+Passport Details 
+Number F8513434 
+Issue Date 07/06/2006 
+Expiration Date 06/06/2016 
+Country India 
+Certifications CSMCertified. 
+PRINCE 2 Certified. 
+ITIL V3 Certified. 
+Lean Six Sigma Green Belt. 
+Capgemini certified Service Delivery Manager, Engagement Manager Certified. 
+Educational Summary 
+B.E, Karnataka University, Dharwad. 
+PGDCA 
+Post Graduate Diploma in Computer Applications. 
+Clients Handled 
+COKE 
+Southern Water 
+Alcatel Lucent 
+Schneider Electric 
+Liberty Mutual Insurance 
+TIMKEN 
+Putnum Investments 
+ICICI Bank 
+AETNA US Health care Domain Expertise 
+Manufacturing 
+Retail & Supply chain 
+FMCG 
+Insurance. 
+Telecom. 
+Banking and Finance. 1 

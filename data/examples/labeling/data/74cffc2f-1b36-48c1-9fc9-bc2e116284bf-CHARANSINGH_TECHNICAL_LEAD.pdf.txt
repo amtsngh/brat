@@ -1,0 +1,191 @@
+CHARAN SINGH 
+Email: charan.aim@gmail.com Contact No. +91-96-202-76543/ 7795-101-750 
+LinkedIn: linkedin.com/in/iamcharansingh 
+Place: Bangalore, Karnataka 
+References Will be available upon request 1 | P a g e 
+PROFILE: 
+Offering a well-integrated Business perspective, specializing in design, development, and delivery of cost- effective, high-performance solutions. Ability to integrate out-of-the-box thinking and problem-solving analysis to improve processes, systems and methodologies. 
+RANGE OF EXPERIENCE: 
+Charan has around 8.8 years of persistent experience as ERP Consultant which includes: 
+2.8 Years in Oracle Fusion Cloud HCM (Hybrid Agile Model) 1 Year as AML Surveillance Analyst(Anti-money laundering (AML) and Economic crime control) 4 Years in PeopleSoft (SDLC like Waterfall, Spiral, Sun Model, etc...) 11 months as Web Analyst + Travel Advisor. 
+He has received the internal/external training on Oracle Fusion, SOA 12c, PeopleSoft and Workday. 
+He is an Oracle Certified Specialist 
+Oracle Global Human resource Cloud 2016 Certified 
+Implementation Specialist . 
+STRENGTHS 
+Ability to look from business perspective apart from (typical) process/code-level perspective. 
+Showing own point of view; Trying to be objective in the whole thing. 
+Use learning from different situation, different systems, different issues, different architectures, different technologies, different environments. 
+Time management and strategy 
+Adhering to quality process, fast learner and energetic co-worker with ability to remain self- motivated. 
+PROFESSIONAL SYNOPSIS 
+Business & Global Acumen: 
+Health Care Industry: Multiple Projects 
+Risk Consulting (Anti-Money Laundering): 1 Project 
+Oil, Gas, Power utility Services Industry: 2 Projects 
+Retail Services Industry: 2 Project 
+Financial Services Industry: 2 Projects 
+Telecom Industry: 1 Project 
+Public Sector Industry(Banks): 4 Projects 
+CHARAN SINGH 
+Email: charan.aim@gmail.com Contact No. +91-96-202-76543/ 7795-101-750 
+LinkedIn: linkedin.com/in/iamcharansingh 
+Place: Bangalore, Karnataka 
+References Will be available upon request 2 | P a g e 
+Functional Understanding: 
+He possess implementation and upgrade expertise in FSCM & HCM modules. 
+He specializes in implementation of Oracle Fusion Release 10, 11, 12, 13 covering areas like Global Payroll, Core HR, and Benefits, worked on integrations, analytics, and extensions. 
+On PeopleSoft Domain as FSCM/HCM 9.2/9.1/9.0, covering areas like analyzing, requirement gathering, developing and implementation with complete life cycle experience. His expertise in Absence Management includes configuring, developing custom pages, working on major enhancements. 
+He holds the industry knowledge on Core HR, implementation of E- performance, Absence Management with knowledge of implementing Leave Forecasting. 
+Also worked on Global Payroll, Accounts Payable and other Modules. 
+He has also been a module owner for the implementation of a NEW PENSHION SCHEME-(for one of the largest Banks) the module is also known as DCPS- Defined Contributory Pension Scheme in India. 
+Skillsets: Cloud: 
+Integrations: 
+HCM Extracts + created custom DBI. 
+Web Services to Load Value Sets 
+HDL to load User-Defined Tables 
+REST services to import and export Employee Data 
+Fast Formulas to use Value Sets and User Defined Tables in Extracts. 
+Analysis of PeopleSoft Application Engine/SQR Programs and translating them to Fusion Extracts. 
+Finding Mappings for PeopleSoft Fields to Cloud HCM Fields. 
+Worked on Fusion Dashboard, Fusion Sandbox. 
+Worked on Fusion BI Securities. 
+Migration of Extracts and Reports. 
+Reporting: 
+BI/OTBI (eText, rtf templates) 
+PeopleSoft: 
+People tools 8.49, 8.51 Application Designer. 
+Component Interface. 
+People Code. 
+Application Engine. 
+Excel to CI. 
+SQL. 
+Integration broker 
+Approval Workflow Engine 
+Reporting: 
+SQR. 
+Crystal Report s. 
+XML Publisher. 
+CHARAN SINGH 
+Email: charan.aim@gmail.com Contact No. +91-96-202-76543/ 7795-101-750 
+LinkedIn: linkedin.com/in/iamcharansingh 
+Place: Bangalore, Karnataka 
+References Will be available upon request 3 | P a g e 
+PSQUERY. 
+Databases: 
+Oracle 9i, Oracle 10g, MySQL, Oracle XE, DB2. 
+Other Programming Languages and Tools: 
+C, Java, PHP, HTML5, DHTML, Ajax, CSS, Flash, SQL, XML 
+Adobe Photoshop CS4, Dreamweaver. 
+WORK EXPOSURE: 
+Feb 2014-Present PricewaterhouseCoopers Service Delivery 
+Center (Bangalore) Pvt Ltd 
+Technical Lead 
+Oracle Fusion: 
+HCM (Health Care Industry) Rel. 9, 10, 11, 12, 13 Collaborating with Business users, product owner and scrum masters to understand the business requirements. 
+Organizing Daily Standup, weekly grievance call, Sprint Review Meeting, Retrospective Meeting and Backlog Refinement Meeting. 
+Preparing and presenting data for Internal Audit Report, Internal Risks and Business Review meetings. 
+Interact with scrum masters to estimate work efforts, capacity planning and come up with story breakdown. 
+Providing training, demos, POC to client and internal employees in US and China. 
+Working knowledge on HCM Extracts and Fast Formula. 
+Worked extensively on PeopleSoft to Fusion Payroll data mapping. 
+Working knowledge on HCM security. 
+Worked on Web services, SOAP UI, Rest Services, to interact with applications on PAAS. 
+Worked on several OBI/OTBI Reports with output files as (.txt, .dat, .csv). 
+Worked on Dashboards, Sandbox. 
+Proposed the Strategy for Vendor Engagement. 
+Risk Consulting (Anti-Money Laundering): 
+Handled a team of 35 Resources and co-provided AML Compliance Training especially on identification and reporting of suspicious transactions. 
+Investigate and assess alerts for potential money laundering risks in the Bank. 
+Ensure timely, efficient reporting of suspicious transactions to AML Compliance Officer. 
+Maintain a current understanding of money laundering and terrorist financing issues, including policies, procedures, regulations, industry best practice, criminal typologies and developing trends. 
+Assist in the development of in-person AML/Economic Sanctions Compliance Training for new employees PeopleSoft: 
+FSCM: (Health Care Industry/Oil, Gas, Power utility Services Industry) 
+Worked extensively on Inbound and outbound interfaces. 
+Worked extensively on Rewriting SQR program into Application Engine. 
+Few IB interface between Third-party-system (SAP) and PeopleSoft for Payment Remittance. 
+Designed an interface as per WELLS FARGO Bank for Vendor Payments, which is similar to delivered Financial Gateway. 
+CHARAN SINGH 
+Email: charan.aim@gmail.com Contact No. +91-96-202-76543/ 7795-101-750 
+LinkedIn: linkedin.com/in/iamcharansingh 
+Place: Bangalore, Karnataka 
+References Will be available upon request 4 | P a g e Customized the Payment Check Process . 
+Development of reports using BI Publisher and nVision. 
+Worked on Voucher creation and Check Printing process. 
+HCM (Retail Services Industry/Health Care Industry): 
+Worked extensively on AWE(approval workflow engine) 
+Worked on Dashboard and Created more than 100 related contents for creating a new Manager 
+Dashboard for providing access to Proxies. 
+APR'2013-JAN'2014 Deloitte Consulting India Private Limited CONSULTANT PeopleSoft: 
+HCM (Health Care Industry): 9.2 & FSCM (Financial Services Industry): 9.1, White Paper on PeopleSoft Interaction Hub, PaaS, Cloud Security. 
+Develops reusable unit/integration testing tools. 
+Perform analysis to identify business needs proactively, interact with internal stakeholders to understand business value of tools and to develop these tools with good quality and timeliness. 
+I being the point of contact from off-shore took responsibility for taking the requirements from the onsite team and convert it to technical designs. 
+I was involved in Data conversion strategy to convert the HCM data from Legacy to PeopleSoft System. 
+Prepared project metrics and responsible for tracking the defects. 
+Training documentation development for AP, PO and GL module. 
+Support transition of knowledge and responsibility 
+To ensure functional business requirements and process issues are resolved using comprehensive enterprise applications solutions. 
+Work with client teams to identify and solve functional area issues, design solutions, develop conceptual models, translate functional area requirements into technical requirements. 
+MAY'2010-MAR'2013 Mphasis Ltd PeopleSoft Delv Software Engineer HCM(Public Sector Industry): 
+Function as a point of Contact for teams (New Implementation, Customization and Support). 
+Participate in architecture design to determine and develop multiple approaches to implement a feasible solution. Translated several complex business requirements into functional and technical designs. 
+Participate in Monthly Client review meetings with Project Manager, providing proactive advice and feedback throughout the development lifecycle for prevention and early correction of quality problem. 
+Very Proficient in Application Designer, strong hands on experience with Application Package, People 
+Code, Application Engine, Integration Broker, SQR, Query, nVision, BI Publisher, Crystal and SQL. 
+Functional Expertise in PeopleSoft modules, especially with Absence Management, E-Learning, eProcurement, Global Payroll, Core HR, Performance Management. 
+Worked in Implementation of E-Performance Module . 
+Fixing the Post Go Live Issue of Global Payroll and Absence Management and various other modules like e-performance, SPF, Pension, Promotion, and Gratuity etc. 
+Re: customized the Absence Management at Manager Self-Service and Employee Self-Service to handle further Change Request s. Responsible for pro-active monitoring/tuning of the database. CHARAN SINGH 
+Email: charan.aim@gmail.com Contact No. +91-96-202-76543/ 7795-101-750 
+LinkedIn: linkedin.com/in/iamcharansingh 
+Place: Bangalore, Karnataka 
+References Will be available upon request 5 | P a g e Handy Experience in giving training and demo to End-Users for respective module/Reports. 
+Document lessons learned, help maintain knowledge database Train team members and increases development capabilities of support team. 
+My contribution to the project was duly rewarded by my organization with four consecutive 5 rating points, which as per project policy stands for an extraordinary performance. 
+JUL'2009-MAY'2010 Facet-Technologies Bhopal WEB ANALYST/TRAVEL ADVISOR 
+Opportunities: 
+CMS (WordPress, Drupal & Joomla), SaaS Web App Development. 
+Ecommerce application development using Magento an open-source e-commerce platform. 
+Worked on PHP, AJAX, Yahoo YUI, Twitter Bootstrap, Amazon AWS and HTML5 / CSS3. 
+Implemented numerous domestic & international payment gateways including 2Checkout, Google 
+Wallet, Authorize.net, CCAvenue, PayPal etc. 
+Provided Internship/Technical Training on C, C++, Dos, FoxPro for Engineering Students. 
+Proposal Preparation & Presentation to the clients to acquire exhibitions & events. 
+Development & deployment of the online strategy to support Lead Generation and deals like complimentary breakfast, spa credits, and upgrades at hotels. 
+As a travel advisor handled both domestic and inbound tourist guiding them to make decisions (where to go & when) on significant life journeys and travel moments. 
+Organizing Early Morning & Night Tours like Bicycle/Bike Road Trips, College/School Picnics, Adventure sports and Camps. 
+EDUCATION & QUALIFICATION 
+Bachelor of engineering Computer Science and Engineering from Technocrats Institute of Technology affiliated to Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV) with 70%. 
+Senior Secondary Examination from ST.XAVIERS SCHOOL Bhopal (2004-2005). 
+Higher Secondary Examination from ST.XAVIERS SCHOOL Bhopal (2002-2003). 
+Major Training Courses/Workshops/Presentations Attended: 
+Year Subject Location Organized By 2017 Oracle Integration Cloud Service Bangalore PwC SDC 
+2016 Oracle Business Intelligence and Data Visualization Cloud Service 
+Implementation 
+Bangalore PwC SDC 
+2016 Oracle Global Human resource Cloud 2016 Certified 
+Implementation Specialist 
+Bangalore PwC SDC 
+2015 SOA 12C Oracle Bangalore PwC SDC 
+2015 Fusion HCM Training Bangalore PwC SDC 
+2013 Information technology Infrastructure Library (ITIL) v3 Certified. 
+(Deloitte internal). 
+Bangalore Deloitte 2013 Workday HCM Training Bangalore Deloitte 
+2010 PeopleSoft PIA 9.1 Training Mangalore Mphasis 
+2008 Industrial Training in SDLC from CRISP Bhopal CRISP PERSONAL INFORMATION 
+Date of Birth: 04th-FEB-1987. 
+Gender: Male. CHARAN SINGH 
+Email: charan.aim@gmail.com Contact No. +91-96-202-76543/ 7795-101-750 
+LinkedIn: linkedin.com/in/iamcharansingh 
+Place: Bangalore, Karnataka 
+References Will be available upon request 6 | P a g e 
+Nationality: Indian. 
+Marital Status: Single. 
+Valid Passport and PAN: Will be furnished when asked for. 
+Hobbies: Watching Movies/advertisements, Video Games. 
+Interest: Cricket, Swimming, Cycling, Cooking. 
+Current Location: HSR LAYOUT, Bangalore-560102. 
+Email: charan.aim@gmail.com 
+SUMMARY: 
+My objectives are just synonymous to the Chinese proverb which says "Dig the well before you are thirsty" 

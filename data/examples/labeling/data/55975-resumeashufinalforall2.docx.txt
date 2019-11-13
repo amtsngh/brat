@@ -1,0 +1,46 @@
+Ashutosh Panchal Home address: 31 Vasant Vilas R.no13, 
+DR.D.D Sathe Marg, Girguam,Mumbai-04. 
+Telephone: 9821283102 Email:ashutoshpanchal05@gmail.com Date of Birth: 05/09/1993 
+Objectives: 
+To enjoy what comes my way and to make the best of it all and to learn new things. 
+To work in your organisation as a team and to interact with new people. 
+Education Qualification: 
+Pursuing B.E from Vidyalankar Institute of Technology in Information Technology course, affiliated to the University of Mumbai. 
+Detailed Semester results: Qualification University College Passing Year sem Percentage 
+Degree Information Technology 
+Mumbai University Vidyalankar Institute of Technology 2014 
+3 6.75 2014 4 6.93 2015 5 
+7.69 2015 6 7.28 2016 7 7.63 Diploma in Information Technology Autonomous K.J.Somaiya 
+polytechnic 2013 73.06% SSC Maharashtra State Board 
+ST.Xaviers high School 2010 58.55% 
+Technical skills: java application development. 
+Diploma Project Details: 
+Project name: Laplace face recognition 
+Here human face is transformed in grey scale image where different area of face are considered such as nose, eyes, mouth etc is considered and based on it a unique pattern is generated , Every person has a unique facial pattern which helps to identify that particular person. 
+Application in Real Life: 
+Use as a biometric authentication on various system and device Password recovery Most advance usage keeping track on a person. 
+Degree Project Details: 
+Project Name: Under Vehicle Robot 
+When we visit shopping malls or theatres, we park our car into parking zone before entering into the parking section. Security officers check the car whether there is any suspicious thing beneath the chassis of the car .By using mirror mounted stick, they cannot exactly determine things under the vehicle due to lack of light intensity under the vehicle. 
+Our idea is to create a under vehicle robot send the images of the car to the security system through which the security guard would inform the owner of the car and may not allow to park the car in the parking system. 
+Features: 
+The robot will be controlled by security guard. 
+The images will be directly sent to computer. 
+The UI of the software will be user friendly. 
+Application in Real Life: 
+Highly used in military applications. 
+Humans cannot reach easily. 
+Highly sensitive area such as airport. 
+Co-Curricular: 
+Attended seminar by Ankit Fadia on Ethical Hacking. 
+Attended seminar by Sachin Dedhia on Ethical Hacking. 
+OTHER WORK EXPERIENCE 
+Worked part time as an diamond assortment Personal Information: Date of Birth : 05 September 1993. 
+Languages known: Hindi, English, Gujarati, Marathi. 
+ACTIVITIES/INTERESTS 
+I enjoy playing cricket. 
+Reading novels 
+I enjoy visiting new places. 
+(ASHUTOSH PANCHAL) 
+Date: 
+Place: Mumbai. 

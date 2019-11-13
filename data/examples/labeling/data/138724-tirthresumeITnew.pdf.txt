@@ -1,0 +1,60 @@
+TIRTH MASTER 
+Embedded Software Developer 
+PERSONAL PROFILE: 
+DOB: 21-Nov-1992 
+Address: 17, Sanjay soc.,B/H Sargam shopping center, Near old Umra Jakatna,Surat,Gujarat 
+Mobile: +918866647810 Email:tirth.21@gmail.com 
+CAREER OBJECTIVE 
+To be with an organization where I get adequate opportunities and challenges so that I can build my skills and knowledge for the benefit of the organization while achieving career growth. 
+SKILLS 
+Programming Language: C, C++, Embedded C, 8051 assembly language, Linux system programming, TCP/IP Socket programming. 
+Tools: Code Block, Keil uVision, Proteus 
+Operating Systems: Windows, Linux 
+Other: Proficient in Communication Skills. 
+EDUCATION 
+Exam/Degree YOP Name of Institute University/Board Percentage 
+B.E. Electrical 2014 SNPIT and RC,Umrakh GTU,Gandhinagar 7.31 CGPA XII 2010 R.S.M.P Experimental High school GSHSEB 63.00% X 2008 Lokbharti Vidhyalaya, Surat GSHSEB 83.08% 
+PROFESSIONAL TRAINING 
+Institute: Vector India Institute 
+Course: Embedded Systems 
+Duration: Jan-2016 to July 2016 
+Major Topics: 
+1) C Programming 
+Knowledge of Basics, Operators, Control statements, Loops, Arrays, Strings, Functions, Pointers, Structures, Unions, DMA, Files handling and Command line arguments 
+Created Real time programs: i) Students Records menu based programme which includes adding, removing, searching, modifying, synchronizing records (both statically and dynamically) and saving the database in files. 
+2) C++ Programming 
+OOP concept, fundamentals of C++, Classes and Objects, Constructor and Destructor, Function and Operator Overloading, Inheritance, Virtual functions and Polymorphism, Templates, Exceptional Handling and C++ Files I/O 
+Created Real time programs: i) Students Records menu based programme using classes, inheritance, templates, exceptional handling and C++ file handlings ii) Bank Application and Mall Application: Synchronised and operated mutually by using concepts of Classes and Objects, Inheritance, Friend functions and File handling with database management concepts. 
+iii) Calculators and Form fill up based applications using Exceptional Handling. 
+3) Linux System Programming 
+Basics concepts of OS, Linux kernel, Shell, Process management, Signal handling, File management, IPCs, Multi-threading and Multi process programming and synchronization, Memory management Created Real time programs: i) Chat messenger: Inter process communication using PIPE , FIFO , Message Queue. 
+ii) Parent and Child applications: which uses signal handling and IPC s concepts. 
+4) TCP/IP and UDP Socket Programming 
+Network, Protocols, LAN, WAN, Server, Client, Network adapter, IP address, Repeater, HUB, Switch and Router TCP/IP and OSI model, layer wise protocols, IP datagram, TCP and UDP segment format, DHCP, DNS, Socket programming. 
+Created Real time programs: i) School and University applications: Applications created based on C and 
+C++ of Students database connects to University Server by socket programming on TCP/IP protocol. 
+ii) Mall and Bank applications: Applications created based on C and C++ of Mall database connect to Bank Server with essential security for payment of bill by socket programming on TCP/IP protocol. 
+iii) 
+Messaging application using UDP and TCP/IP. 5) 8051 Microcontroller programming in Assembly/Embedded C 
+Introduction to microcontrollers, architecture, 8051 microcontrollers, coding in assembly language, embedded C, timers, interrupts and service routine, interfacing with external peripherals, protocols like SPI, I2C, UART,CAN and introduction to RTOS. 
+Projects are created as follows. 
+ACADEMIC PROJECTS 
+Final Year Project 
+Project Title: The Speed Control of DC Shunt Motor using Four Quadrant Chopper 
+Platform: Microcontroller 8051-Phlips 89C51RD2 
+Description: Operation of motor in all four quadrants (forward, reverse, forward braking and reverse braking) is done with the help of Microcontroller 8051 and Four Quadrant chopper. 
+DC shunt motor is used because of its simplicity, ease of application, reliability and favourable cost. 
+The main advantage of DC Shunt motor is Constant speed irrespective to the load. In Four 
+Quadrant Chopper, Four Power MOSFETs are used to provide fast switching which reduce the braking losses so speed control can be achieved easily and efficiently. 
+Role: Team Representative, Microcontroller 8051 programmer. 
+Professional Training Project 
+Project Title: Effortless monitoring and controlling the device Platform: Microcontroller 8051-AT89S52 
+Description: It is based on the UART serial communication of 8051 Microcontroller. Universal mode of UART (mode 1) is used to connect the Xbee module serially. Xbee is used for Wireless communication and data transfer between transmitter 8051 to receiver 8051. 
+At the transmitting end, 1)The status of device 2)Turning ON/OFF command 3)Setting for specific time to turning it ON/OFF can be done. 
+WORK EXPERIENCE 
+Impact Systems 
+2014-2015 Customer Service Engineer Computer assembling Hardware ,Software and Peripheral installation and maintenance Networking (LAN,WAN,WLAN) Broadband installation and maintenance for BSNL 
+Installation and maintenance of CCTV Camera system 
+DECLARATION 
+I hereby declare that above information is correct to the best of my knowledge and belief. 
+Tirth Master 

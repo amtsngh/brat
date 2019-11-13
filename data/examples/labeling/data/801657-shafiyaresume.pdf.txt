@@ -1,0 +1,42 @@
+CURRICULUM VITAE 
+Shafiya Tarannum 
+Mobile: +91-8105862508 Mysore Road,Bangalore. 
+E-id: shafiya.tarannum@gmail.com 
+CAREER OBJECTIVE 
+To work in a challenging environment demanding all my skills and efforts to explore and adapt myself in different fields and realize my potential where I get the opportunity for continuous learning. 
+EDUCATIONAL BACKGROUND 
+M.Tech in Information Technology from National Institute of Engineering, Mysore. 
+Passed with CGPA 9.16 in 2016. 
+B.E. in Computer Science from Maharaja Institute of Technology, Mysore, passed with 70.1% in 2014. 
+P.U.C from B.G.S Science PU College, passed with 75.16% in 2010. 
+S.S.L.C from Jnana Bharathi high school, passed with 82.40% in 2008. 
+TECHNICAL SKILL 
+Programming Languages: C, C++, HTML, Java. 
+Development Tools, Methodologies & Environments: 
+Net Beans, Microsoft Visual 
+Studio. 
+Operating System: Windows, Linux, UNIX. 
+PROJECTS 
+Improving security of internet services using continuous user identity verification Multimodal Continuous biometric authentication is a method for continuously verifying the physical presence of logged in user. In this method a very short period of timeout is provided for each session and periodically request the user to input his/her credentials. The biometric traits such as fingerprint, face are used for user identification. This method guarantees better performance, security and usability. 
+Double Imposing 
+Double imposing is a method for providing security and used to prevent data from falling into wrong hands by using digital steganography along with encryption. The digital steganography technique used here embeds the data into digital image file (called as the cover image) of .jpg , .png and .bmp formats. In order to provide additional security to the data, RGB color spaces values of another image (called as the Key image) are used as the key for the encryption. Along with all the security, the data is compressed to facilitate the user to embed large of data onto the digital file. 
+Simulation of text editor 
+The scope of this project is limited to the implementation of a basic text editor. Only the basic functions available in the text editor are implemented like changing the text color, background colour, font, font size, etc. This project gives us an overview as how the text editor manipulates the text according to the user requirement. When the user opens the file for modifications the previously modified settings are set to default settings specified in the program. 
+PAPER PUBLICATION 
+Published a technical paper 
+A survey on Improving security of internet services using continuous user identity verification IJIRSET, in July 2016. 
+ACHIEVEMENTS & PARTICIPATION 
+Completed 2 months internship in Rackminds technologies solutions Pvt.Ltd. 
+Participated in Microsoft Ed-vantage Yappon India s Largest Youth Hackathon Program. 
+Participated in career Prime-long cycle campus recruitment training workshop held at 
+MIT 
+Mysore. 
+Attended workshop on internet of things at NIE ,Mysore. 
+Secured Merit Awards for achievements in curriculum. 
+Actively involved in college festivals. 
+PERSONAL DETAILS 
+DOB: 10/08/1992 
+Languages known: English, Hindi, Kannada and Urdu. 
+I hereby declare that the Information furnished above is true to the best of my knowledge. 
+Place: Bangalore 
+Date: (Shafiya Taranum) 

@@ -1,0 +1,98 @@
+ Shamanth.H.M 
+S/O Manjappa.H.V 
+MIG-160 NANDANA, D - Block, 2nd Stage 
+KHB Colony,Vinobanagar. 
+Shi va mo g ga-577204. 
+Mob : 
+7760011415 shammu hm@gmail.com 
+CAREER OBJECTIVE: 
+I am Shamanth.H.M worked as a Software Engineer at IONIDEA Shivamogga have good communication, presentation skills, and customer reception skills. 
+CAREER SUMMARY: 
+Company Designation Duration 
+Success Scribe Software Php Developer 
+1year 
+BMS Pvt Ltd.., 
+Php Developer 6months 
+Ionidea Software Engineer 3months 
+Strong communication and interpersonal skills with the ability of grasping new technical concepts quickly and implementing them in an effective manner. 
+Developed various academic projects using technologies such as Php, JavaScript, MySql and HTML5, Css3, JSP. Planning, design and implementation of complete web sites. 
+Provide full lifecycle support to clients from initial client interaction and requirements analysis through design,coding, testing, debugging, implementation and integration. 
+Provide ongoing application support and troubleshooting. 
+Very much interested in learning new things with the ability to work under any situation for professional development. 
+Strong commitment and dedication towards accomplishing deliverables on time and on budget with customer satisfaction. 
+EDUCATIONAL QUALIFICATION: 
+Class School / College Name Name of the Board / University Year of Passing 
+SSLC Jawaharlal Nehru English School, Bhadravathi. 
+Karnataka Secondary board 2004 
+PUC Sir M Visvesvaraya Science College, Bhadravathi. 
+Pre University Board 2007 BCA 
+Sahyadri Science College, 
+Shivamogga Kuvempu University 2010 TECHNICAL SKILLS: 
+Languages : 
+Php, Codeigniter,Css3, HTML5,Jquery,JSP. 
+Databases : MySQL, MS-Access. 
+Platform 
+: MS Windows XP/2007. 
+WEB APPLICATIONS: 
+G Tracker 
+Project Title : 
+G Tracker 
+Environment : Windows XP 
+Web Browser 
+: InternetExplorer/Mozilla,Firefox/Google chrome. 
+Database : EasyPHP-DevServer. 
+Technology/Framework: Adobe Dreamweaver CS6, Php, Css, Jquery, HTML. 
+Description: 
+G Tracker (Goat - Tracker) is to help a track when a goat should come into heat based on the last heat date. The goat then it will calculate the earliest date to draw blood to check for pregnancy. If the goat is pregnant it will calculate the approximate due date. 
+Responsibilities: 
+We have designed a tool called theGoat Inventory Tracker. It deals with all the management aspects, so you can do what you love most;breeding goats. 
+The Goat Inventory Tracker shows you each of yourgoatsacross all of yourpaddocks, and asks you if you would like to include it. If you do, it takes thegoatand places it ina pending crate. 
+Online Billing Master 
+Project Title : 
+Online Billing Master 
+Environment : Windows XP 
+Web Browser 
+: InternetExplorer/Mozilla,Firefox/Google chrome. 
+Database : EasyPHP-DevServer. 
+Technology/Framework: Adobe Dreamweaver CS6, Php, Css, Jquery, HTML. 
+Description: 
+Online Billing Master is an application to automate the process of ordering and billing of a Departmental store this web based. The Power Billing System Project Report basically deals with the billing system. Since its a web application the problems of single tier could be solved using this. 
+Responsibilities: 
+User will log on to the application and the login will be based on the role of the user. The user will directly take into My open requests, where the user can view the details of the request and can also view the status at which the request is. 
+The access to the system will be based on the roles. 
+Bsnl Postpaid Services 
+Project Title : 
+Bsnl Post Paid Services 
+Environment : Windows XP 
+Web Browser 
+: InternetExplorer/Mozilla,Firefox/Google chrome. 
+Database : Mysql 
+Technology/Framework: NetBeans IDE 8.1, Php, Css, Jquery, HTML, Bootstrap. 
+Description: 
+Bsnl Post Paid Services is an web application. To provide all type of BSNL recharges to postpaid customers. And Sending the bulk messages to the retailers about postpaid plans. 
+Responsibilities: 
+This application is used to collect the all information about retailers and to them in one group they can solve their problems. 
+Here we can send the bulk message for any functions. 
+PERSONAL SKILLS: Ability to work in a team. 
+Leadership qualities. 
+Eager to learn new things. 
+An innate desire to face tougher and newer challenges. 
+Handling criticism well and learning from it. 
+PERSONAL PROFILE: 
+Name : Shamanth.H.M 
+Fathers name : Manjappa.H.V 
+Mothers name : Suma.H 
+Postal Address 
+: 
+S/O Manjappa.H.V 
+MIG-160 NANDANA, D - Block, 2nd Stage KHB Colony,Vinobanagar. 
+Shivamogga -577204. 
+Mob: 7760011415 Email Id 
+: shammuhm@gmail.com 
+Date of Birth : 05-07-1987 
+Sex : Male 
+DECLARATION: 
+I hereby declare that the above information is true and best of my knowledge. 
+Date: Place: Bangalore. 
+Yours Faithfully 
+[Shamanth.H.M] 

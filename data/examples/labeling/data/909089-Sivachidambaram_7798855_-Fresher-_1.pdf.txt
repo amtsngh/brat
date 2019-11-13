@@ -1,0 +1,57 @@
+ SIVACHIDAMBARAM. E.S 
+Mail Id 
+: siva.chidabaram@gmail.com No.364, Sivajothi Nagar, 
+Contact Number: +91
+8015723986 Chidambaram. 
+CAREER OBJECTIVE 
+A position as a System Administrator in a process oriented environment offering challenge, responsibility, and advancement opportunities while utilizing my technical, organizational skills and ability to communicate technical knowledge to peers and support personnel. 
+EDUCATION QUALIFICATIONS 
+S.NO 
+INSTITUTION 
+EXAM/DEGREE YEAR OF PASSING PERCENTAGE 
+1. 
+Sri Ramakrishna vidyalaya hr. sec school 
+SSLC 
+2009 
+88.2 
+2. 
+SRV Matriculation 
+hr. sec. school 
+HSC 
+2011 86.67 3. 
+Meenakshi College of Engineering 
+B.E. CSE 
+2015 63 . Red-Hat Enterprise Linux V7 
+Red-Hat Certified Engineer (Cer.No: 160-250-379) 
+INTERNATIONAL CERTIFICATION 
+As a Performer Responsibility on Linux System Admin: 
+Managing Disk File Systems, Server Performance, User Administration, Users Creation and Granting file access permissions. 
+Creation of groups (UID/GID), adding User ID to a group as a primary or secondary group, removing User ID from a group and Password reset and Password unlock. 
+Daily monitoring server health likes top, CPU usage and Memory usage maintenance of Linux 
+Enterprise Servers. 
+Planning and expanding the server resources like RAM/File Systems Spaces on current service offerings. 
+Samba Server configuration. 
+NFS configuration. 
+Installing new packages and applications. 
+PERSONAL DETAILS 
+Name : E.S.Sivachidambaram 
+Father s Name 
+: P.Shanmugam 
+Gender : Male 
+Date of Birth : 28-05-1993 
+Age : 23 
+Nationality : 
+Indian 
+Languages Known : 
+Tamil and English Hobbies : 
+Watching Movies, Reading Books 
+PASSPORT DETAILS 
+Passport Number : P2510396 
+Date of Expiry : 07-08-2026 Place of Issue 
+: Chennai 
+TECHNICAL SKILL 
+I hereby declare that the above mentioned details are correct and true to the best of my knowledge. 
+Date: 
+Yours sincerely, 
+Place: 
+(E.S. Sivachidambaram) 

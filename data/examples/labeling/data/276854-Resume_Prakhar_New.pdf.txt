@@ -1,0 +1,79 @@
+Technologies & Skills 
+HTML & CSS 
+Sublime Text, Dreamweaver (Windows) 6 months Simple web panels to display mass data , input forms and creating templates in djago, Ajax calls and collecting data from forms and storing into database. 
+UI-UX 
+Photoshop, Balsamiq (Windows) 8 months Mobile applications (iOS and Android) Django-Python PyCharm, Sublime (Ubuntu) 8 months Creating database, models, templates, functions, APIs (GET and POST requests). 
+Android Dev. 
+Android Studio (Ubuntu, Windows) 2 years, 6 months 
+REST APIs, Volley, Picasso, Butterknife, Server calls, Push notifications, modern design patterns, Analytics, Map & location based services, 3rd party libraries. 
+Experience 2014 - 2015 Android Developer 
+Sigrid Education Pvt Ltd 
+July 2014 - March 2015 2015 - 2016 Android Developer 
+Aguai Solutions 
+April 2015- April 2016 2016 - Present 
+Full Stack Mobile Developer (Android) 
+YMS Mobitech Pvt Ltd 
+April 2016- Present 
+About me 
+B-tech in CSE 
+Punjab Technical University. 
+I am an android developer and always look to learn new technologies. 
+Want to work together, I d love to hear from you. 
+/users/5657705/prakhar-srivastava /shree_vastava /prakharshreevastava 1st January 1991 
+Noida, India +91 9008175815 srivastava.prakhar91@gmail.com 
+A N D R O I D 
+D E V E L O P E R 
+Prakhar Srivastava 
+Live Projects 
+Number Bazaar 
+Android Studio (Windows) Android Developer 
+Using this app you can buy VIP mobile numbers of any operator, recharge your mobile, check balance etc etc. 
+ROLE: Android code for Wallet and Order tracking. 
+(https://play.google.com/store/apps/details? id=com.numberbazaar.app) 
+Apps You Need 
+Android Studio (Windows) Android Developer 
+Using this security app you can record call, wipe phone, track the phone, switch off the phone remotely etc etc. 
+ROLE: Android code for safe browser and parental control. 
+(https://play.google.com/store/apps/details? id=in.appsyouneed.ultimatesecurity) 
+Medieazy Stores 
+Android Studio (Windows) Android Developer 
+This app was for store end users who process the orders received from medieazy users. 
+ROLE: Entire android code. 
+(https://play.google.com/store/apps/details? id=app.aguai.pharmeazymobile) Medieazy 
+Android Studio (Windows) Android Developer 
+Healthcare app using which ine could set his medication reminders, track his health vitals and order medicines from nearest pharmacies. The user could also manage his prescriptions. 
+ROLE: Entire android code. 
+(https://play.google.com/store/apps/details? id=app.aguai.medieazy) 
+Gift Your Organ 
+Android Studio (Windows) Android Developer 
+An app by which a user can officially pledge to donate his organs after death. 
+ROLE: 
+Entire android code, calling APIs. 
+(https://play.google.com/store/apps/details?id=com.gyo) Languages 
+English 
+Hindi 
+Punjabi 
+Internships 2 months training and certificaion as a digital evidence analyst from Data 64 cyber solutions, Pune. 3 months internship and certificate as an android developer from Sigrid Education pvt ltd, Noida 6 months institutional training in core Java from Ducat, Noida 
+Projects waiting to go live Deliciaso 
+Android Studio & Sublime Text(Ubuntu) 
+Full Stack Developer 
+This app is for bakeries. Using a backend panel, the admin can add new items to the db and the customers will see the items in the app. They can follow a complete order lifecycle from cart to checkout or add items to favorites,. Also a few more options are provided to engage the user. 
+ROLE: Entire android code, entire backend code and the UI-UX of the app. 
+https://www.behance.net/gallery/44702477/Deliciaso https://www.behance.net/gallery/44700823/ Cult-Connect 
+Cult Connect 
+Android Studio (Ubuntu) Android Developer 
+Using this location based app, one can live track their car, see past trips data, see the data related to fuel level, battery power, mileage etc, set geofences, set anti-theft alarms, location notifications etc. 
+ROLE: Entire android code. 
+https://www.behance.net/gallery/44702777/ Indian-Bare-Acts-Pack-(IBAP) IBAP 
+Android Studio & Sublime (Ubuntu) 
+Full Stack Developer 
+An app which is a replacement of books for lawyers. Using this app, the lawyers can highlight a text, add notes to text, bookmark any section etc etc 
+ROLE: 
+Entire android code, backend using Django, creating DB, APIs and UI,. HOBBIES 
+Drums 
+Piano 
+Basketball 
+Football 
+TV series Travelling 
+Reading books Guitar 
+Photography 

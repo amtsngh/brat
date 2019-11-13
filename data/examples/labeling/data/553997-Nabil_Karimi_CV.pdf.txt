@@ -1,0 +1,48 @@
+Kariminabil.maksudbhai@iiitb.org nabilkarimi92@gmail.com +91-9824766696 Ahmedabad, Gujarat. 
+Objective: 
+To associate myself with an organization that provides a challenging job and an opportunity to prove innovative skills and diligent work to contribute significantly in the success of the organization. 
+Key Skills: 
+Languages Known: C, Perl scripting, Shell scripting, Assembly, Embedded C. 
+Boards/Architectures: Arduino (Atmel), Raspberry Pi (ARM), P8 & P9 processors (POWER PC). 
+Tools: MATLAB, Exerciser tools (SpecCPU, HTX, Nova), FreeRTOS, Xilinx, PCB tools (Eagle, Protel). 
+Networking Protocols known: RS-232, OSI & TCP/IP, I2C, SPI. 
+Operating Systems: Windows, Linux, AIX, FreeRTOS. Knowledge of Computer Architecture, RTOS, Algorithms, Thread level scripting, CPU scheduling, 
+Core/Processor & System validation, Kernel & Boot loader. 
+Educational Qualification: 
+M.Tech in Embedded Systems with 3.2 CGPA from International Institute of Information 
+Technology, Bangalore. (2015 - 2017) B.E. in Electronics & Communication with 8.0 CGPA from GEC, Gandhinagar. (2010 2014) H.S.C with 78.40% from St. Xavier s, Ahmedabad. 
+(2010) S.S.C with 87.85% from St. Xavier s, Ahmedabad. (2008) 
+Professional Experience: 6 months Internship at IBM ISDL in Systems hardware Characterization team. 
+Role includes Validating and Testing the quality of the developed products. I have automated various flows which helps in system bringup and integration, systems performance, hardware test and quality. 
+1 month Summer Internship in Srishti ESDM. 
+I had developed a standalone IoT product to control and monitor water flow in industries and integrated it with an existing product. 
+1 year Project/Training at SAC, ISRO. 
+I had developed, simulated, implemented and tested a Frequency detection algorithm to detect main periodic component of a signal. 
+Subjects of Interest: 
+1) Real Time Operating Systems 2) Computer Architecture 3) Internet of Things 4) Inter-Device Communication 5) 
+Circuit Simulation 6) Processor/Arm Architecture NABIL KARIMI (M.Tech in Embedded Systems) 
+Projects: 
+1) RunN flow Automation script to detect Failing seed for cycle repro on different systems. 
+Automating the RunN Flow to track failing seed out of AVP workload by controlling system using telnet & SSH connections, Initial system bringup, error debugging and cycle repro. 
+Languages used: Perl and Shell scripting 
+Duration: 2 months (Apr- May 17). 2) Branch history Table (BHT) sequencer code automation & development Sequencing and controlling BHT stressor and HTX workloads on given threads per core, and parallelizing this across all the cores. 
+Languages Used: Perl and shell scripting. 
+Duration: 1 month (Mar 17). 
+3) Control and Monitoring of Water Flow in Industries 
+An IoT based Startup product, for controlling and monitoring of water distribution in industries. The system can be accessed remotely and all the data is stored in cloud. 
+Boards/Language Used: Arduino, C, Sensors, Actuators. 
+Duration: 4 Month (Mar-Jun 16) 4) Scheduling Jobs in Real Time Operating system Creating and Scheduling tasks based on priorities and sending data between tasks using queues. 
+Tools/ Language Used: FreeRTOS, C Duration: 2 Month (Feb-Mar 16) 5) FPGA based Efficient Frequency detection of a periodic signal. 
+To simulate, develop, implement and test a new frequency detection algorithm to detect main periodic component of a signal. The new Algorithm is used in Satellite tracking system. 
+Tools/ Languages Used: MATLAB, XILINX, VHDL. 
+Duration: 1 Year (May 13-May 14) 6) Propeller LED Design. 
+Name and Design display with the help of single LED strip. The design can be changed by Wi-Fi or SMS with Message Display system. 
+Tools/ Languages Used: 8051 Controller, C. 
+Duration: 4 Months (Jan 14-Apr 14) 
+Mini projects: Built a Security system using Raspberry Pi, ultrasonic sensor, camera, memory & Graphic display. 
+Developed a custom communication protocol for highly noisy environment using RS-232 & CRC. 
+Built a Self-Driven Quadcopter which can hover and move without a remote control using Arduino and sensors like Accelerometer, Gyroscope, Bluetooth. 
+Built & developed a DTMF based Tele remote Control to control any device with a phone call. 
+Activities: 
+A part of Placement committee and Sports event manager in IIITB. 
+Event manager of Robo Race, an event of TECHSKY-2012, GECG. 

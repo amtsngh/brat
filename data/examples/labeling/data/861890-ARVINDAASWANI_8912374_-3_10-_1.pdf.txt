@@ -1,0 +1,87 @@
+ ARVIND AASWANI arvindaswani01@gmail.com 
+(+91) 942-4803997 . 
+OBJECTIVES: 
+Seeking a challenging software development opportunity in a dynamic environment where innovation, education and sense of ownership are valued and encouraged. 
+SUMMARY OF QUALIFICATIONS: 
+Currently working on Diaspark info tech, three years of IT experience working with client like J&J and Dell developing enterprise level web based and windows based applications. 
+Good knowledge of java language and oops concepts. 
+I m well versed in java, spring, hibernate, distributed cache system like redis, rest web services and oracle, neo4j graph data base and AWS. 
+I have background in production support. 
+Excellent team player and possess leadership ability. 
+Backup & disaster recovery experience includes working with Arc Serve, Backup Exec. 
+SKILL SUMMARY: 
+Platform: Windows. 
+Languages: Java/J2EE (Concurrency, JSP, servlet, multithreading). 
+Networking: TCP/IP, HTML, XML, apache and tomcat. 
+Databases: Oracle, PL/SQL, JDBC and Neo4j. 
+Web Services: Rest services and AWS. 
+Frameworks: Hibernate 3.0.0, spring 3.0, spring quartz, log4j, and dom4j. 
+Cache DB: 
+Redis, elasticache. 
+Tools: Visualvm, Jmeter, Git, New Relic, Bamboo, Eclipse. 
+INTERNSHIP TRAINING: 
+Organization: Lara technologies Bangalore. 
+Duration: 9 months. 
+Key Deliverables: Studied and implemented projects in Java, J2EE. 
+PROJECT BACKGROUND: 
+PROJECT 1: Project Title 
+: Care4Today. 
+Framework 
+: Spring & Spring quartz job. 
+Front end 
+: Jsp, Servlet. 
+Back end 
+: MySQL. 
+Duration 
+: Feb-2013 to March-2015. 
+Project Description: Care4Today is a medication remainder application and client is J&J, in this application user can schedule over medication for him and for his family members also in the C4T user can track his family member s medication data also. 
+Role & Responsibility: 
+Working on this project as key resources, backbone of the project is scheduler job, working on this whole scheduler job and releases this job with no critical bug, and also worked on modules family medication, adherence reports, admin module and push notifications services. 
+Professional Achievements & Activities: 
+The back bone of this application is scheduler user can schedule medication, working on the scheduler module and learn lots of things on it like, spring quartz, GCM, APNS, REST services push notification services which are using for user medication remainder on device and coding standards. 
+PROJECT 2: 
+Project Title : HAVE|NEED. 
+Framework 
+: Spring. 
+Front end : angular js. 
+Back end : Neo4j. 
+Duration : 
+May-2015 to current. 
+Project Description: 
+HAVE|NEED is social platform where user can exchange products, like Barter system where client is Josh and Jason, In H|N user can get system generated recommendation based on user product. 
+Role & Responsibility: We are using new technologies in this project like Neo4j graph database, the key role of mine learn Neo4j and implement in over project and also train my colleagues, I have drawn some core and complex business logic for module User- 
+Recommendations, 
+Products search, ADD-HAVE,ADD-NEED and category search. 
+Professional Achievements & Activities: Best part for me in this product is successful implementation Neo4j (Neo4j is graph data base which is basically used for handle Big volume of data like, Big Data) and handle Neo4j concurrency issues, and other thing which I achieved, lots of client interaction. 
+EDUCATION QUALIFICATIONS: 
+Course University Year of Passing 
+Study Centre Marks (%) 
+MCA 
+R.G.P.V Jul 2012 SV.I.M., Indore 67 BCA Barkatulla June 2008 
+Sehore College, Sehore, 62 . 
+CERTIFICATIONS: 
+OSCJP Certification. 
+Neo4j Certified. 
+PROFESSIONAL STRENGTHS: 
+Ability to work well in team environment. 
+Quick learner and creative. 
+Goal oriented and ability to handle multiple tasks. 
+PERSONAL ACHIEVEMENTS: 
+Awards: 
+Best performer January 2015. 
+Employee of the month November 2014. 
+Crown of fortnight, April 2013. 
+HOBBY: Playing cricket and chess. 
+PERSONAL PROFILE: 
+Father s Name : T. D. Aaswani. 
+Date of birth 
+: 1stjanuary1986. 
+Gender 
+: Male. 
+Nationality 
+: Indian. Marital status 
+: Single. 
+Languages known 
+: English, Hindi. 
+I am promising and professional kind of person and believe hard work always succeeds & if given an opportunity to me, I can prove my worth to my organization. 
+PLACE: Indore Arvind Aaswani 

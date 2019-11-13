@@ -1,0 +1,77 @@
+UMA SANKAR GOVINDASWAMY 
+104, Fourth Street, Karpagam Avenue, R. A. Puram, Chennai - 600 028, India. 
+09444532025/09986865654, umasankarg@gmail.com 
+EDUCATION 
+2010 - 2011, Electrical Power MSc, Newcastle University, United Kingdom. Grade - 63.5%. Merit. 
+An intensive theoretical and practical Master programme, structured to provide an appreciation of real-life issues and problems in an area of industries. 
+Relevant Modules: Electrical Machines, Power Electronics, State Space Analysis, Power System, Electric 
+Drives, Design of Electrical Machines. 
+Independent study and assignments submission has developed my ability to plan and manage my time effectively. 
+I have demonstrated my capacity to work with a methodical and through approach for accurate results. 
+Technical knowledge gained on topics like: Power converters its design and control, Determination of filter technologies based on harmonic calculations, Characteristics of modern power electronic devices, driver circuits and protection, concepts of state space analysis- its solutions including state transition matrix, state space theory, phase and reference frame transformations, vector control of ac machines, indirect and direct vector control, stator current control schemes, standard and space vector PWM methods, digital speed control, integrator windup, design of modern electric drives with consideration of machine , magnetic and electric loadings, advanced control concepts, Salient pole Synchronous Machine -dq approach, Steady state models for ac commutator motors, Transient behaviour of machine, Transient behaviour of machine, Steady-state stability, Transient stability, Control of system voltage and frequency, Load Flow calculations etc. 
+Developing strong communication skills through participating in seminars and lecture group discussions. 
+Developed presentation skills while working on MSc Project. 
+2005 - 2009, Electrical and Electronics Engineering B. E., Anna University, India. Grade - 63%. First Class. 
+Relevant Coursework Electric Circuit Analysis, Electromagnetic Theory, Electrical Machines I & II, Electronic devices, Control Systems, Linear Integrated Circuits, Digital Signal Processing, Power Electronics, Microprocessor and Microcontroller, Power System Analysis, High Voltage Engineering, Power System 
+Transients, Protection and Switchgear, Transmission and distribution. 
+St. John s Senior Secondary School, Chennai, 2005, Central Board of Secondary Education. 
+Grade - 64.6 % PROJECTS AND COURSEWORK 
+Design of battery charger powered by a standalone source (Master s thesis), Aug 2011. 
+The project deals with the development of battery charger powered by a standalone source. Here an improved resonant converter has been used with MOSFETs as switches. The MOSFETs produce a square wave output which is fed to a resonant converter producing an oscillating voltage and current. This AC voltage is fed to a rectifier which produces an output DC voltage. The maximum output voltage is obtained at a frequency greater than resonant frequency with reduced switching losses. 
+Power Converter Topologies, May 2011. 
+This particular course work involved testing of three-phase diode bridge rectifier and a single phase full bridge inverter. The rectifier is tested to analyse the effect of filter capacitance on load current harmonics and output voltage ripple. Experiments were conducted on inverter with different switching techniques to observe their relative merits and demerits. Tests were also conducted to measure inverter switching losses at different switching frequencies and load current. The experimental results were validated with theoretically derived values. 
+Induction Motor Drive, May 2011. 
+A series of experiments were performed in order to study different characteristics of induction machine. By using no-load and blocked-rotor test results, induction machine parameters were obtained which give an equivalent circuit of the machines. Effect of rotor resistance on torque was obtained by using MATLAB. Then induction machine was used both in motoring and generating mode to study the torque speed characteristics, efficiency and power factor of the machine. A D.C machine was used as a load and prime mover in motoring and generating mode respectively. At the end induction machine was connected to an A.C drive to study the working of the machine under variable frequency. 
+Design of 3-phase inverter, Jan 2011. 
+The aim of this project was to gain practical experience with design, simulation, construction and testing of an electric drive system. The drive was tested on a star connected brushless dc motor using Hall Effect sensors to measure the speed using MOSFET as a switching device. The switching of the MOSFET was controlled by commands provided by the Programmable Interrupt Controller (PIC). 
+Optimal reactive power dispatch by Ant Colony Optimization algorithm (Bachelor s thesis), April 2009. 
+This project dealt with the minimization of network real power loss, by solving optimal reactive power dispatch. The project was a special case of optimal power flow with control variables such as generator voltage, Online Tap Changing transformers and shunt capacitor values while satisfying a given set of operating and physical constraints using Ant Colony Optimization technique. The results were analysed and compared with results with conventional technique of Linear Programming for different parameters including transmission loss and computational time. 
+WORKSHOP 
+Attended a workshop 
+IOT Unplugged conducted by IEDF on 25 26 July 2015. 
+Here we worked on number of projects based on TI - MSP-EXP430F5529LP MSP430F5529 USB 
+Launch Pad Evaluation Kit. Some of the projects worked on are mentioned below, 1. Blink LEDs 
+2. RX/TX on UART 
+3. Read a push button 4. Use external LED 
+5. Pull-up external LED 
+6. Pull-down external LED 
+7. LED on/off via UART 
+8. Analog input 9. Analog output 10. RGB LED 
+11. Stepper motor control 12. Servo motor control 
+WORK EXPERIENCE 
+Quality Feedback Engineer 
+Randstad India Private Limited 
+Factory: Kone Elevators 
+Feb 2016 
+To coordinate with installation team and resolve technical issues that may arise during elevator installation process. 
+To handle frontline feedbacks, process and place orders of materials using SAP directly from global suppliers/internal factory and deliver it to the frontline for timely completion of project. 
+To coordinate with engineering team and frontline engineers in case modifications are needed for the elevator installation. 
+Support Engineer Interview Master 
+Dec 2014 June 2015 Handled voice support 
+Non- voice technical support 
+Managed Operation & Maintenance of the system. 
+Planned, monitored and reported Technical System Support performance Managed the day to day workflow of tickets and phone calls. 
+Coordinate with internal staff members and third party consultants. 
+Testing User document preparation. 
+PUBLICATIONS 
+Karthik Ravindhra, Siva Subramanian Manohar and Uma Sankar Govindaswamy. 
+Long Term 
+Evolution Downlink Physical Layer Simulation in MATLAB and Simulink , International Journal of Future Computer and Communication, Vol. 1, No. 2 (Aug 2012) pp. 131-134, Karthik. R, Umasankar. G, Thirumurugan. K. Study of Optical Properties of Carbon Nanotube and Fabrication of Nano Fiber Optic for Optical Communication , Journal of Nano Research, Vol. 11 (2010) pp. 
+139-144. 
+ADDITIONAL SKILLS 
+Computer Proficiency 
+Simulation Software: MATLAB, PSpice and Energia 
+Business tools: SAP 
+Computer Language: C, C++, Java 
+Microsoft Office: Word, Excel and PowerPoint 
+Operating System: Windows 7, XP, UNIX and Linux. 
+Languages English Fluent 
+Tamil Native 
+ACHIEVEMENTS 
+A member of Steward and Safety Team in the London Olympics 2012 football event. 
+Received partial scholarship from Newcastle University during my Masters Programme. 
+Received scholarship from University of Texas, Kingsville for Masters Programme. 
+INTERESTS 
+Cricket 
+Movies 
+REFERENCE Available upon request 

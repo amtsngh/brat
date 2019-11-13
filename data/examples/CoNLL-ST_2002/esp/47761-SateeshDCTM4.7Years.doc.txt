@@ -1,0 +1,103 @@
+Curriculum Vitae 
+Sateeshkumar N 
+Phone: +91 9741310459 
+Email id: satishkumar190@gmail.com (mailto:satishkumar190@gmail.com) 
+Summary: 
+To be a member of any organization where growth, prospects are unlimited and individual is recognized by her/his work. 
+As a professional, I am creative and innovative, and looking ahead to work in a challenging environment in ITIL and strive for excellence. 
+Significant Strengths: 
+Having 4.7 years of extensive experience in maintaining Enterprise Content Management domain applications and J2EE applications. 
+Worked on 16*5 production environments. 
+Expertise in EMC Documentum, Documentum 6.x/7.x products. 
+Worked on Health Care domain applications like FirstDoc, eCTCXPress and ISI Publisher. 
+Hands on Experience in Documentum Methods creation & configuration, creating Permissions set, Job management, and Session Management. 
+Hands on using API Sever Methods for managing Documentum Content Server and in creating and maintaining Groups, Users, ACLs, Methods and Jobs 
+Expertise in Installation, Configuration and Administration of Documentum products including Content Server, Webtop, DA. 
+Involved in creating users, groups, roles and access control lists using Documentum Administrator. Ability to interact with users Documentum Support teams to resolve the issues. 
+Good communication, problem solving and technical skills. 
+Professional Experience: 
+I have been working currently as Professional1 Application Delivery for Computer Science Corporation Pvt Ltd, since June 2015 to till date. 
+I have worked as on Documentum Specialist for Computer Science Corporation Pvt Ltd, through SCORG International since Feb 2015 to June 2015. 
+I have worked as on Application Specialist for ABB Global Industries and Services Ltd, Bangalore since July 2011 to Oct 2014 
+Technical Skills: 
+Operating System : Windows 2003 and Windows 2008R2. 
+Technologies : Documentum. Documentum Administrator (DA) Manual Testing. 
+Documentum Suite : EMC Documentum Products, CSC FirstDoc, eCTDXpress and ISI Publisher. 
+Application Server : Apache Tomcat & Jboss Server 
+Scripting Lanuage : HTML. 
+Database : SQL Server and Oracle 11g 
+Professional Experience: 
+Project 1: 
+Organization : 
+Computer Science Corporation Ltd. 
+Client : BAXTER. 
+Duration : 
+Feb 2015 to till date 
+Technology 
+: Documentum ContentServer 6.5, CSC FirstDOC, Documentum Administrator(DA), DqMAN, DjMAN, xPlore 1.3. 
+Apache Tomcat 6.x, eCTDxPress/ISI Publisher, ALICE 
+Role : Documentum Specialist and Admin (Change Requests, 
+Incident Management, Work Orders) Ticketing Tool : 
+Remedy 
+Project Summary: 
+BaxEDGE (Baxter Electronic Documents for Global Environment) 
+BaxEDGE is a solution for managing global content for electronic/paper submission to FDA and EMEA etc. The application provides the complete solution from content creation to publishing submissions. 
+It contains a validated, secure, version-controlled, content-management system that includes full lifecycle document management. Maintaining BaxEDGE applications(BaxEDGE, ISIRSS) developed for Baxter India Pvt Ltd built on FirstDoc of CSC. 
+Creating and managing content/Document in DMS(FirstDOC) Approved contents are compiled and published through eCTD and CTD. 
+BaxEDGE comprised of Systems 
+Document Management System. 
+FirstDOC (Extended Documentum Webtop) eCTDXPress (Electronic Submission Tool) 
+ISIPublisher 
+(Paper Submission Tool) 
+Image Solution Manager (Administration Tool for ISI Submission) A4L (MS Word Plugin) 
+ALiCE (Product Labeling tool) 
+Responsibilities: 
+Involved in the creation and modification of Users, Groups and Roles in FirstDoc.. 
+Monitoring the FirstDOC application and analyzing the performance. Restarting the server if required. 
+Managing the workflows and Renditions, If required create a rendition manually and attached to the document. 
+Created the Change Control Documents, Metadata Maintenances procedures and Problem reports with the Efforts required and communicated the same to the clients. Delivered these requests well in time. 
+Troubleshooting all FirstDOC/Documentum related issues. 
+Making necessary Configuration changes to the environment like JOBs and Methods, Restarts of the applications whenever required. 
+Handling Daily calls with Clients, weekly calls with Business users and actively involved in Bi-weekly maintenances activities. 
+Provide 16*5 support to the application users. 
+Conducting knowledge sharing sessions on technical and Business Knowledge with the team members. 
+Project 2: 
+EDMS (Enterprise Content Management Sys) Support 
+Incident Management 
+Organization : ABB Global Industries Services Ltd. Client 
+: ABB Internal users 
+Duration : July 2011 to Oct 2014 
+Technology : Documentum ContentServer 6.7, WebTop,Windows 
+Documentum Administrator(DA), DQL, xPlore 1.3. 
+Apache Tomcat 6.x and 7.x. 
+Role : Support Analyst and Admin (Incident Management, 
+Service Requests) Project Summary 
+EDM is a web-based document management tool that allows for full Lifecycle and Metadata management of ABB documentation. Being web-based it has good collaborative features, including the ability to email web links to documents, create simple workflows for requesting action on documentation (update, review, etc.) and the ability to access documents from anywhere within the ABB network, including from home, via VPN. 
+Responsibilities: 
+All the basic operation from DA includes creating users profile and assigning of Groups. 
+Managing the application and resolving any problems related to this, raised by the client through the HPSM cases. 
+Monitoring the application and analyzing the performance. Restarting the server when required. 
+To track the memory bed, CPU utilization of WebTop servers periodically. 
+Monitoring Indexing Agent, Queue Count, re-indexing objects manually through scripts , in case its missed indexing. 
+Working on ECS (Enterprise Core Solutions) functionality, which enhances the ability of membership, permission of objects. 
+Tracking the Quick flow and Workflow (Customized), and troubleshoot in case of any Workflow failure. 
+Troubleshooting Various Documentum Functionality in case of a failure i.e Import, Export, Changing of Lifecycle, Check-in, check-out, Publishing, Clipboard operation ( Linking Unlinking ) Functionality, Interface and manual testing in time of major/minor release or deployment. 
+Supporting for Various Existing Doc bases. 
+Provided support for round the clock (24/7). 
+Professional Trainings 
+ITIL. 
+Manual Testing. 
+Education: 
+Course Institute Period 
+Specialization Percentage 
+M C A Visvesvaraya Technological University 2007 2010 Master of Computer Applications 66% BSc Andhra University 2004 2007 Maths, Physics and Chemistry 60% 12th Board of Intermediate edu 2002 
+2004 Maths, Physics and Chemistry 64% SSLC ZP High School 2001 2002 N.A 59.5% 
+Personal Profile: 
+Data of Birth 
+: 11/Aug/1987 
+Sex : Male 
+Marital Status : Married 
+Nationality : Indian 
+Communication Address : #608, Ground Floor, 1st Cross, Kaveri Layout, Marthahalli, Bangalore-560037 
+Declaration: 
+I hereby declare that the information given above is true to best of my knowledge. - Sateeshkumar N 

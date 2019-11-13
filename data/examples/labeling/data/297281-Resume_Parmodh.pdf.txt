@@ -1,0 +1,71 @@
+ Parmodh Chawla 
+Mobile: 7406013666 
+Email: Pramodh_passion@yahoo.co.in 
+Professional Summary iOS development professional with 3 years experience working on large scale applications. 
+Experienced working on universal projects supporting both iPhone & iPad and proficient in working with interface builder via Storyboards, XIB s and also doing things programmatically. 
+Fluid with the use of Xcode in regards to integrated version control and lots of experience utilizing all exception breakpoints, NSlogs. Master in Objective C & Swift 1,2 and 3; comfortable working with bridging headers for projects utilizing both languages in the same code base. Additionally have picked up on working with playgrounds, optimally using optionals, do try catch blocks, and similar. 
+Worked on all the major frameworks of iOS like CoreFoundation/Foundation, AVFoundation UIKit, CoreLocation, Mapkit,Firebase and others. 
+Frequently using SVN & GIT through the terminal along with several GUI s and such Experience with agile software development practices. 
+Knowledge of HTML5, CSS, JavaScript. 
+Worked extensively on consumption of web services, SOAP and REST, primarily REST though; 
+HTTP GET, POST used via NSURL Connection/Session. Comfortable parsing XML and JSON data formats. 
+Highly adaptable and always willing to pick up the latest and greatest emerging technology/tools. 
+Excellent communication, organizational skills, attention to detail and the ability to meet tight deadlines. 
+Strong commitment to organizational work ethics, value based decision-making and managerial skills. 
+Technical Skills 
+Languages: iOS Objective-C, Swift, C++, JavaScript, CSS 
+Markup Languages: HTML, XML, Plist 
+Databases: Sqlite ,Core data 
+Platforms: iOS, Windows, MAC OS X 
+Change Management: SVN, GIT, GitHub 
+Methodologies: Agile/Scrum Web Services: SOAP, RESTful, JSON 
+Project Details Project 1: 
+Set Top Box Health: 
+The Set top box health is an application developed for 6500 technicians of the company to troubleshoot the TV set top box issues. 
+Role: Team Leader at offshore and Developer 
+Languages: Swift 2, iOS 9, HTML, CSS, JavaScript 
+Project 2: 
+Where Is My Tech: 
+WMT is a browser application developed for the technicians and regional service provider to capture the Geo location at intervals for tracking. 
+Role: Team Member (Developer) 
+Languages: Objective C 
+Project 3: 
+Trouble Call App: 
+TCA is an application developed for the retailers and technician to assign work order just by sending push notification from the server. 
+Role: Team Member (Developer) 
+Languages: Objective C, Sqlite DB 
+Project 4: 
+Activation App: 
+An application developed for the sales team to activate the Set Top Box just by scanning barcodes. 
+Role: Team Member (Developer) 
+Languages: Swift, Objective C , Sqlite DB 
+Project 5: 
+MyDish App: 
+An application developed for the customers to pay their bills, order video on demand, Refer a friend, check appointment status and many more. 
+Role: Team Member (Developer) 
+Languages: Swift, Objective C , Sqlite DB 
+Key Responsibilities 
+Developing the iPhone and iPad applications as per the requirements. 
+Unit testing and integration testing. 
+Requirement gathering and Analysis. 
+Technical Design Documentation. 
+Implemented business objects and business logic of the system. 
+Customer Interaction for flawless and smooth development as per the requirement. 
+Leading the Offshore team. 
+Qualifications 
+M.C.A from DAV Institute of Engineering and Technology, Jalandhar in the year 2010-13 with an aggregate of 80.1%. 
+B.C.A from D.A.V College, Amritsar in the year 2007-10 with an aggregate of 66.38%. 
+Achievements 
+IBM DB2 9 Database And Application Fundamentals Certified. 
+IBM Rational application developer (RAD) Certified. 
+Published several White papers documents within the organization. 
+Certified by Wipro in iOS L1, HTML5, C++ and JavaScript. 
+Employers 
+Working in Wipro Technologies from March 2014 to till Date and current designation 
+Software 
+Engineer . 
+Personal Details 
+Date of Birth: 19/10/1989 
+Address: Greater Noida, UP 
+Marital Status: Married 
+Languages Known: English, Hindi and Punjabi. 

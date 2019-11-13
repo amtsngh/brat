@@ -1,0 +1,94 @@
+ Curriculum vitae Ganesh Kumar Patro 
+Email: ganesh.nist@gmail.com 
+Mobile: +91- 9004143697 
+Address: Room no - 2900, H-19, Maharastra Housing Board Society, Yerewada 
+Maharastra, Pune, 411006 
+Objective 
+I would like to work with a highly esteemed company which gives me a platform to use my knowledge and skills for mutual growth and benefit of myself and company. 
+Profile : (3 years of experience in mobile(iOS & Android) application developement). 
+1. Working with Cuelogic Technologies, from 
+16th Nov 2015 to present day. 
+2. Worked with NeoSoft Technologies, from 10th june 2014 to 
+13th Nov 2015 . ( 1.5 years in iOS application development ). 
+Academic Credentials 1. B. Tech in Computer science & engineering from NIST,Berhampur with CGPA of 8.4 / 10.0. in the year of 2014. 
+2. +2 in Science from Khallikote junior college, Berhampur with 
+74% 
+in the year of 2010. 
+3. Matriculation 10th ( HSE ) from Judhisthir high school , sihala with 81%. 
+Technical Skills 
+Programming Languages : Objective-C, Swift, JAVA, Xamarin 
+Application Platforms : iOS, Android 
+Operating Systems : Mac, Windows, Linux/Unix. (Red-Hat , CentOS, Ubuntu) 
+Databases : SQLite, Core Data Versioning Control : Git Experience in iOS: 
+Push Notification and Local Notification in iOS. 
+Apple Certificate, Provisioning profiles and Device Management, uploading apps Localization. 
+Facebook,Google Plus,Twitter Integration in Application. 
+Maps Integration in iOS application with google maps. 
+Managing Database with SQLite. 
+Writing Reusable Generic Codes . 
+Auto Layout and Auto Resizing. 
+Multi-Tasking and Multi-Threading architecture design and concepts. 
+Address book and Corelocation framework. 
+XMPP Protocol Implementation in chat application ( Jabber implementation ). 
+MQTT Protocol for sending messages to ios devices 
+Coding style following to Object-Oriented Concepts, MVC Architecture, Design Patterns. 
+Involved in all phases of project life cycles including analysis, design, development, testing, deployment, post-production support/maintenance, documentation. 
+Excellent logical, problem solving and debugging skill, fast and Self-learner, self-motivated and adaptable, ability to handle multiple tasks, a good team player. 
+Client handling and project management. 
+Worked on bug fixing and improving application performance. 
+WebRTC - OpenTok Video chat 
+Project Profile 1.) Quopn Wallet 
+Platform: iOS 
+AppStore URL: https://itunes.apple.com/in/app/quopn-wallet/id951906875?mt= 8 Team Size : 2 
+Description : Quopn Wallet is a cross-vendor discount system for FMCG goods in India. The system started out as a single city service in Mumbai, India after which it has expanded to multiple cities. FMCG retailers in India have generally come out with their own discounting system. E.g. Big Bazaar, Reliance Fresh, Godrej Home Fresh, etc all use their own proprietary single-vendor coupons for discounting.The features of the app includes, Quopn issuance and redemption, push notifications for new Quopns, user profile management and sending of invitations to other mobile numbers to use the Quopn app. 
+Role : UI Design in maximum screen, API Integration, Defined Coding Architecture with Object-Oriented Concepts. 
+2.) BeSafe (In House) Hindustan Unilever Pvt Ltd. 
+Platform: iOS 
+AppStore URL: NA Team Size : 1 
+Description : BeSafe is a mobile app made for Hindustan Unilever Limited that promotes the use of safe practices on their workshop floors. It is meant for use by their employees only and not available on any app store. 
+Role :UI Design in maximum screen, API Integration, Defined Coding Architecture with Object-Oriented Concepts. 
+3.) BuildBITS - BuildBITS Pvt. Ltd. 
+Platform: iOS 
+AppStoreURL: https://itunes.apple.com/au/app/buildbits/id575358515?mt=8 Team Size : 1 
+Description : buildBITS is the ecommerce type of App used to make the easiest way to buy and sell New, Used, Second hand, Recycled, Excess stock and general unwanted Building 
+Materials/ Products for FREE. BuildBits user can be of buyer or seller. User can search a product by choosing a category or some different searching criterias and can buy a product by adding into cart through payment gateway or by directly making contact with seller. Similarly a seller can sell product by taking pictures as well as adding information about a product into through application with fewer steps. 
+4.) RentCar 
+Platform: iOS Team Size : 1 
+Description : RentCar is the application through which user can book a car between two locations . User can enter source and destination location manually or by selecting a location in map. 
+5.) Come Join Me (SKUUDLE) 
+Platform: iOS Team Size : 3 
+Description : Come And Join Me is a iOS application through which an user can create an event at a particular location and invite nearby friends to join the event. This application is having an interesting feature of making a common chat room for group chat where all invited friends can share their message.Another major part of this application is user can invite friends for coffee date through a very user friendly UI by selecting active added friends in mapview. 
+Role :UI Design in maximum screen ( Drag and drop feature ), API Integration, Defined Coding Architecture with Object-Oriented Concepts, Implemented Jabber Client with Common Chat Room. 6.) SnapHelp 
+Platform: iOS Team Size : 2 
+Description : SnapHelp is an Enterprise iOS application which features gathering all customer problems and make them solved by the respective agent. The user can report an incident with respect to various problems related hardware and software by clicking image, recording video, editing clicked image, text, recording audio etc. After reporting the incident, the user can start chatting with the respected assigned agent about the same problem and will get solutions. The user can chat with the public who also faced the same problem and get some suggestions. 
+Role :UI Design in maximum screen, API Integration, Defined Coding Architecture with Object-Oriented Concepts. 
+7.) GiveMeMenus 
+Platform: iOS Team Size : 1 AppStore URL: https://itunes.apple.com/us/app/givememenus/id1053143275?mt=8 
+Description : Give Me Menus is an iOS application which is related the food menus and procedure of making various dishes. It holds well prepared daily new food menus and showcases smart way of making foods. It sends the notification to the user when a new dishes arrive with all relevant information.The users can submit their best-cooked home food recipe and also upload a photo of the dish 
+Role :UI Design in maximum screen, API Integration, Defined Coding Architecture with Object-Oriented Concepts. 
+8.) e-Guru 
+Platform: Android 
+Team 
+Size : 4 
+AppStore :- Enterprise App 
+Description : 
+e-Guru is an enterprise application by 
+TataMotors Ltd. It is specially made for sales team of Tata Motors dealers. By using this app a dealer can create opportunities related to all product lines available at TataMotors Ltd. Also dealer can update the different activities related to an opportunity by mobile app. 
+9.) Royal Swag 
+Platform: iOS Team Size : 1 AppStore URL: https://itunes.apple.com/in/app/royal-swag/id1157028464?mt=8 
+Description : The Royal Swag application serves as a force multiplier for the sales of Royal Stag brand of Pernod Ricard. The main aim of the app is to motivate the sales teams, enable review of sales team performance and foster better communication and availability of information. 
+Role :UI Design , API Integration, Defined Coding Architecture with Object-Oriented Concepts. 
+10.) TML Slaes Planner 
+Platform: iOS Team Size : 2 
+AppStore :- Enterprise App 
+Description : Sales Planner is an iOS application by which Dealers of TataMotors Ltd. can manage their sales activities. Dealers can create activities and can also to their subordinates. This applications has Maps screen where each activity can be monitored properly. Each activity event date gets synced with local device calender so that delaer can schedule their events accordingly. 
+Role :UI Design , API Integration, Defined Coding Architecture with Object-Oriented Concepts. 
+11.) WagaBond 
+Platform: iOS ( Swift ) Team Size : 1 
+Description : WagaBond is the iOS application through which users can search pets and buy. This application has 4 types of users i.e Visitors, Dog Seller, Dog Buyer and both. User can fill the adoption form where he can set the preferences of dog that he wants. There is a time line section where he can find latest trending posts about pets by different sellers. This application has chat feature by which user can directly chat with seller. 
+Role :UI Design , API Integration, Defined Coding Architecture with 
+Protocol Oriented Programming . 
+Personal Information Date of Birth : 04-April-1993 Father's Name : Mr. Rabinarayn Patro 
+Nationality : Indian Linguistic proficiency: English, Hindi, Odiya Permanent Address : Dhimbira Street, At/Po - Sihala, Dist - Ganjam, Odisha, 761008 
+Date: Ganesh Kumar Patro 
+Place: 

@@ -1,0 +1,110 @@
+ Rajan Prakash Marathe 
+E-mail: rajanmarathework@gmail.com 
+B.E. (Computer) (iOS Games & Apps Developer) 
+Mobile: 7507049588, 8149892749 
+LinkedIn: Rajan Marathe's Profile Address: Ambegaon, Pune. 
+Objective: 
+To work in a challenging, growth oriented position in Industry, where I can utilize and improve my analytical, interpersonal and leadership skills. 
+Profile Summary: 
+A dynamic professional with 3+ years of experience in Software Development (iOS). 
+Worked on iOS Game Development for 1 Year with 
+iT Gurus Softwares , iOS Application 
+Development for 1.5 years with Benchmark IT Solutions & 9 months with 
+Volga 
+InfoTech Pvt. Ltd . 
+Exposure to various applications including Designing, Scoping, Coding, Testing, Debugging, Documentation, and Implementation. 
+Ability to multi-task, work under tight deadlines and also work with minimal supervision. 
+Effective in working independently and collaboratively in team. 
+Technical Skills: Operating Systems: Windows, X-Platform Programming Languages: C, C++, Java, SQL, Objective C, Swift Concepts: OOPS, DS, DBMS, MDM (Apple) 
+Strengths: 
+Ability to learn quickly & take on new challenges. 
+Proactive team member who can mix & perform in a diverse team. 
+Effective leader, can plan, execute & track. 
+iOS Projects: 
+iT Gurus Softwares December 2013 to December 2014 
+Project 1: Hunter Kid 
+Role : Software Engineer 
+Environment : Objective C, COCOS 2D. 
+Team Size : 2 
+Description : It is Game application for iPhone. In this game player has to shoot birds, rabbits and squirrels. Time Based Game with infinite levels. This game is simple and addictive. 
+Link : https://itunes.apple.com/in/app/hunter-kid/id977652493?mt=8 
+Project 2: Kores 
+Role : Software Engineer 
+Environment : Objective C, COCOS 2D. 
+Team Size : 4 
+Description : Kores Coach is a free learn-to-write, drawing and painting application. It was designed specially for children who make their first writing, drawing and painting experiences. 
+Link : https://itunes.apple.com/us/app/kores-coach/id958633874?mt=8 
+Project 3: Brainvita 
+Role : Software Engineer 
+Environment : Objective C, COCOS 2D. 
+Team Size : 2 
+Description : In this game player has to jump a peg orthogonally over an adjacent peg into a hole two positions away and then to remove the jumped peg. 
+Link : https://itunes.apple.com/in/app/brainvita/id1024958998?mt=8 
+Project 4: Fruit Axe 
+Role : Software Engineer 
+Environment : Objective C, COCOS 2D. 
+Team Size : 2 
+Description : It is Game is like Fruit Ninja. In this game player has to cut various fruits. There are also some obstacles to confuse the player, which on cutting will reduce player s points. 
+Link : https://itunes.apple.com/in/app/fruit-axe/id1050543124?mt=8 
+Project 5: Rubik s Cube 
+Role : Software Engineer 
+Environment : Objective C, COCOS 3D. 
+Team Size : 2 
+Description : This game simulates Rubik s cube s Algorithms and mechanisms. This game gives proper 3D look and feel. It also provides solution/hints for new learners. 
+Benchmark IT Solutions March 2015 to August 2016 
+Project 6: 
+Body Techniques - Therapist 
+Role : Software Engineer III 
+Team Size : 10 
+Description : Body Techniques is a wellness center focusing on high quality treatment. 
+Body Techniques provides a highly structured health maintenance massage to relieve job related stress. Includes Push Notifications. 
+Link : https://itunes.apple.com/us/app/bttherapist/id1078885426?mt=8 
+Project 7: Pizza Impulse 
+Role : Software Engineer II 
+Team Size : 2 
+Description : This app deals with ordering speculation pizzas. This is a simple app that works on Push Notification, Google Matrix, and Authorize.net payment gateway integration. 
+Link : https://itunes.apple.com/by/app/pizza-impulse/id1050690567?mt=8 
+Project 8: 
+MemberCard 
+Role : Software Engineer II 
+Team Size : 2 
+Description : This app was for maintenance which offers Benefits and discounts exclusively to MemberCard-holding members of local public broadcasting stations and nonprofits. 
+Link : https://itunes.apple.com/us/app/membercard/id703849014?ls=1&mt=8 
+Project 9: 
+KCET MemberCard 
+Role : Software Engineer II 
+Team Size : 2 
+Description : This app was for maintenance which offers Benefits and discounts exclusively to KCET-holding members of local public broadcasting stations and nonprofits. 
+Link : https://itunes.apple.com/us/app/kcet-membercard/id1083672067?ls=1&mt=8 Volga InfoTech August 2016 to April 2017 
+Project 10: Merchant TasteM8 
+Role : Senior iOS Developer 
+Team Size : 2 
+Description : The Merchant TasteM8 app allows a merchant to register with TasteM8. 
+Additionally, it allows the merchant to create vouchers specifically directed to new customers vs. repeat customers. The merchant can also use the app to validate vouchers purchased by customers. After customers have purchased a voucher from TasteM8, they receive a voucher code. The merchants then use the Merchant TasteM8 app to validate the voucher. 
+Link : https://itunes.apple.com/us/app/merchant-tastem8/id1138890582?mt=8 
+Project 11: TasteM8 
+Role : Senior iOS Developer 
+Team Size : 2 
+Description : The TasteM8 app allows users to find local restaurants offering discounts in real time! Users can narrow their search of restaurants by distance, type of cuisine, rating, price range, favorites and more. Scroll through the live feed for discounts near you. 
+Link : https://itunes.apple.com/us/app/tastem8/id1123593772?mt=8 
+Project 12: 
+OmVed 
+Role : Senior iOS Developer 
+Team Size : 8 
+Description : This app is ongoing. This is an e-commerce application. We can order products using this app. This project is in Swift language. It includes Push Notifications, various payment gateway integrations. 
+Educational Background: 
+Exam Institution/University 
+Percentage & Year of Passing 
+B.E. 
+(Computer) UNIVERSITY OF PUNE 
+61.33% (2013) 
+H.S.C. MAHARASHTRA STATE BOARD 59.00% (2007) 
+S.S.C MAHARASHTRA STATE BOARD 72.80% (2004) 
+Personal Details: 
+Date of Birth : 22nd January 1989 
+Father s Name : Mr. Prakash Ramchandra Marathe 
+Marital Status : Single 
+Nationality : Indian 
+Interest : Mobile Games, Listing Songs 
+Date : Place: Pune. 
+Rajan P. Marathe. 

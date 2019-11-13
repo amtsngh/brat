@@ -1,0 +1,145 @@
+MD SHAHID AHMED 
+Mobile +91-9716148626 +91-9661255749 shaanahmed7860@gmail.com (mailto:shaanahmed7860@gmail.com) 
+My Blog: shahiddba.blogspot.com (http://shahiddba.blogspot.com/) KEY SKILLS: 
+Database Admin (Oracle, SQL) and OS (Windows 2003/2008 Server, Linux) 
+CAREER OBJECTIVE: 
+Searching an opportunity as an Oracle DBA/Developer to capitalize or effective use of my professional qualification and work experiences. 
+CAREER SUMMARY: 
+Certified Oracle DBA/Developer is having more than 12 years Experience in the filed of IT Software/DatawareHouse Specially 7 years experience of Managing Oracle database as well as Application Software and 3+2 Years Experience of designing custom applications using Oracle PL/SQL,Developer 6i/2k and Web Programming Language. 
+Technical Specialization: 
+Planning/Creating/Managing/Renovating/Upgrading DBServer 
+Monitoring DB Health/Performing Tuning/Managing users and securities. 
+Planning or Making strategy for Backup and Disaster Recovery 
+Experienced to Apply all type of Patches. 
+Installation and configuration knowledge of RAC database. 
+Developing or Customizing the Application (Expert in Oracle forms/Report). 
+Personal Qualities: 
+Exceptional Managing skills of database. 
+Remarkable logical/analytical skills and Honest commitment to the assigned task. 
+Good communication skills in writing and verbal both. 
+Able to handle the complex or conflict situation. 
+EDUCATION & CERTIFICATION: 
+Certified Oracle 10g DBA (OCA/OCP/SQL EXPERT) in 2010. 
+Master of Computer Application (MCA) in 2008. 
+Bachelor of Computer Application (BCA) in 2004. 
+Diploma Engg. In Computer Science (DECS)in 1999. 
+Passed 12th in Mathematics (B.I.E.C, Patna) in 1995. 
+Passed 10th from (B.S.E.B, Patna) in 1993. 
+SPECIAL TRAINING: 
+Six Month Special Training in Oracle11g/10g DBA Certification From Ducat, Noida 
+Six Month Diploma in E-Business Computing From C-DAC (Ministry of Electronics & Information Technology Govt. of India, New Delhi). 
+Six Month Special Training in Oracle 7.2 with Developer 2000 from II Technology, Delhi. 
+Six Month Training in Hardware&Networking from Jamia Community Polytechnic, Delhi. 
+One Year Diploma in Computer Application from NICE Computer, Delhi. 
+Two Month Project Training in Oracle 7.1, Devloper2000 from Oratech Software Solution, Gulbarga. 
+One Year Diploma in Web Technologies from Krishna Computer Centre, Gulbarga 
+IT SKILLS: 
+Database : Oracle 11g/10g, Oracle 9i/8i DBA, SQL Server 
+Languages : C/C++/JAVA/JSP/JDBC, Perl/VB.net/ASAP.net, HTML/XML 
+Operating System : Windows 2003/2008/NT/XP, Linux 4.5/5.4, Solaries 9 
+Application : PL/SQL, Developer 2000, Developer 6i. 
+Web Technologies : VB.NET, PHP, J Script, Photoshop, Flash, Corel 
+IT Hardware : Installaling OS & Different Applications, Trouble shooting & Managing 
+Network System, Configuring Network Devices. 
+EXPERIENCE SUMMARY: 
+No Organization Location Designation 
+From To Duration 
+1 AL-Sadhan Trading Co. Riyadh 
+Oracle DBA Programmar 23/07/11 15/02/16 4.7 yrs 2 
+Mayor International Ltd Delhi Oracle DBA 
+01/03/09 30/06/11 2.3 yrs 3 Planman Technologies 
+Delhi Developer 03/07/06 27/02/09 2.7 yrs 
+4 Angels Solution Pvt. Ltd. 
+Delhi Team Leader 01/10/03 28/02/06 2.4 yrs 
+EXPERIENCE DETAILS: 
+Location: Al-Sadhan Trading Co. Riyadh (KSA) 
+July 2011 to Feb 2016 
+Designation: Oracle DBA Programmar (IT Department) RESPONSIBILITIES as a DBA 
+Prepare DB server and Making strategy for backup and recovery as per the database level. 
+Experience to Renovates/Upgrade old DB server. 
+Experience to reorganized and sized DB objects to meet standards and improve performace. 
+Experience of database restore from old server to new server. 
+Directly Involved in Making disaster recovery plan. 
+Troubleshooting problem regarding the database, applications and development tools. 
+Able to Create/Configure/Convert or Migrate ASM instance as per the requirement. 
+Experience to apply Database different Patches. 
+Managing DB Tablespace/Datafiles in order to maintain normal operational work. 
+Monitoring Database Health Daily or Monthly basis and performing SQL tuning in order to provide smooth running of DB for end user. 
+Good working Experience on Toad, OEM and Other Backup reporting tools. 
+Able to handle different ORA-Errors as per the instance requirement. 
+Using Cloning or Duplicate database concept for testing the backup regularly. 
+Identifying specific user activities by maintaining proper DB security concept. 
+Performing upgrades of the database and software to new release levels 
+Involved in performance monitoring and tuning of the database. 
+Configuraing or Managing RMAN backup and making automated scripts for backup. Expertise in collecting and diagnosing the STATSPACK, AWR and ADDM reports. 
+Rebuilding of Indexes, if bulk load of data is inserted. 
+Enhancing end users understanding of database systems by conducting pre-implementation workshops, delivering group and individual training sessions and creating user-friendly training materials. RSPONSIBILITIES as a Developer 
+Maintaining Payroll Software (Times HRMS) implemented in Oracle and Developer 2000. 
+Preparing Bank File for Monthly and Partial Payment of Employees. 
+Maintaining Finance Management Software implemented in Oracle and Developer 6i Control migration of programs, database changes, reference database changes and menu changes through the development life cycle. 
+Customizing or adding new oracle forms and Reports as per the department needs. 
+User Accounts Management: Creating User Accounts, Providing proper rights to the users 
+Directly Involved in modifying oracle financial software to automate the account work in order to minimize the paper work. 
+Directly involved to modify Payroll software to pay salary through Bank Accounts/payroll card. 
+Developed many crystal reports using T-SQL, JDE Report Design. 
+Location: Mayor International Ltd. New Delhi 
+March 2009 to Jun 2011 (Project of National Informatic Center (NIC) under Ministry of Information Technology Govt. of India). 
+Designation: Oracle DBA (IT Software/DatawareHousing) RESPONSIBILITIES: 
+Installing Oracle software or Creating and Administrating database objects. 
+Installing Operating system (Windows, Linux, Sun Solaris). 
+Performing Daily/Weekly check list to know the health or status of DB. 
+Regularly viewing the Alert log file to analyze the ORA errors. 
+Used Export or Data pump utilities for the purpose of logical backup. Taking RMAN Backup Daily, weekly or Monthly basis. 
+Using Statspack and AWR tools to gather statistics or report. 
+Good knowledge of Data dictionary or Views to check different aspect of database. 
+Maintaining Tablespace/Datafiles size to accommodate normal DB operation. 
+Providing support for the smooth functioning of database to the developer 
+Location: Planman Technologies New Delhi - July 2006 to Feb 2009 
+Designation: Developer (IT Software Services) RESPONSIBILITIES: 
+Installing Oracle binaries or oracle database on Linux as well as Windows 2003 env. 
+Creating new oracle forms/Reports as per the project requirements. 
+Constructing or Modifying triggers, functions, stored procedures as per the requirement. 
+Responsible for the dealing with the problems, bug fixing and troubleshooting. 
+Taking end user system backup to secure their daily job work done. 
+Installing required software for end user and troubleshooting their system issues. 
+Security Features using Menu Roles and limiting the access of the end users All features of Reports Generation 
+Location: Angels Solution Pvt. Ltd. New Delhi - Oct. 2003 to Feb. 2006 Project of Central Secretarial Library under Ministry of Tourism Govt. of India 
+Designation: Team Leader (Dept. IT Support Services) RESPONSIBILITIES: 
+Maintaining Web server and Managing Network connection. 
+Preparing Metadata and uploading on to the Portal. 
+Maintenance of F. T. P server and transferring the data received. 
+Maintaining Daily Backup of site work. 
+Creating and Managing User ID and providing proper rights to the users. 
+PROJECT WORK: 
+1. CompuServe Inventory Management Order Processing System 
+Implemented in : Oracle 7.1 with developer 2000. 
+Area of Use : Transaction and management of goods in an industry. 2. CompuServe Hotel Management System 
+Implemented in : Oracle 8i with Developer 6. Area of Use : Rooms allowtment and Pay Role Management of Five Star Hotel. 
+3. Banking & Financial System 
+Implemented in : 
+Oracle 9i and VB.Net 
+Area of Use : Management of Finance and Day to Day Transaction System of a Bank. 
+PERSONAL PROFILE: 
+Name : 
+Md. Shahid Ahmed 
+Fathers Name : Mr Zahir Ahmed 
+Present Address : 
+S-4/8-B, Joga Bai, Jamia Nagar, Okhla, New Delhi - 110025 
+Permanent Address : Vill+Po. Balasath, Via- Raipur, Dist.- Sitamarhi, Bihar, Pin - 843326 Date of Birth 
+: 
+07th Nov. 1978. 
+Marital Status 
+: Married 
+Religion 
+: Islam 
+Languages Known 
+: English, Hindi, Urdu and Arabic (Reading) 
+Passport No. 
+: H6237669 
+Issue Date : 13/07/2009 
+Valid Up to 
+: 12/07/2019 
+Declaration: I hereby declare that all the above information is true to the best of my knowledge and belief. 
+Md. Shahid Ahmed 
+Place: New Delhi 
+Dated: 20/08/2015 

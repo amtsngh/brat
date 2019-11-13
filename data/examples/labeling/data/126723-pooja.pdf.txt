@@ -1,0 +1,42 @@
+Pooja Mansukhlal G 
+SRM University, Chennai 
+Meet , 78, Silver Avenue, B/h Parimal School, Kalawad Road, Rajkot, Gujarat- 360005 H +91-9714633446 B ghoniapooja@gmail.com Education 
+Program Institution %/CGPA Year of completion M.Tech. in CSE 
+B.Tech. in CSE XII 
+X 
+SRM University, Chennai 
+Charotar University, Changa 
+G.K. Dholakiya School, Rajkot 
+G.K. Dholakiya School, Rajkot 9.85 8.50 81.80 86.46 2016 2013 2009 2007 
+Key Projects 1. Semantic Integration of Heterogeneous Data Bases June 2015 - May 2016 M.Tech. Project SRM University { To integrate a collection of heterogeneous data sources based on to the semantic correspondences between every pair of the data sources on both the schema level and instance level correspondences. { To interconnect distributed located legacy databases using richer semantics. 
+{ Microsoft SQL Server R2, Microsoft Visual Studio are using to implement the project. 
+2. Common Reporting Platform January - May 2013 
+B.Tech. Project CHARUSAT { Common Reporting Platform is web application used to analyze information of different databases and generates reports from databases. 
+{ It can access different database at same time and providing significant supplementary. functionalities. 
+{ The application will allow admin to edit report to previously generated report anywhere anytime. { Application development in .NET with C++ language using Microsoft SQL Server 2008. 
+3. Content Management System November - December 2012 
+B.Tech. Project CHARUSAT { The Content Management System is system software, implemented as a Web application, for creating and managing HTML content. 
+{ It is used to manage and control a large, dynamic collection of Web material. 
+{ The CMS facilitates content creation, content control, editing, and many essential Web maintenance functions. 
+{ This Web application implemented in PHP with HTML, CSS and jQuery using MYSQL database. 
+Courses Interested { Database Management System { Data Structures { Operating Systems { Design and Analysis Algorithms 
+Skills 
+{ Languages : Proficient: C, C++; Beginner: Java, SQL. 
+{ Platforms : Linux, Windows. 
+{ Web Based Languages: HTML, CSS, JAVASCRIPT, PHP. 
+Work Experience 
+Software Intern February 2016 - May 2016 MAQ Software { Report generation by using sharepoint. 
+{ Worked on automated portfolio mapping. 
+1/2 Positions of Responsibility 
+Object Oriented Analysis and Design and SCILAB courses January 2015 - December 2015 Teaching Assistant SRM University { Guiding students in SCILAB course. 
+{ Preparing and evaluating assignments for Object Oriented Analysis and Design course. 
+Scholastic Achievements { Published a paper titled as A Novel Approach for Semantic Integration of Data using Ontology in Indian Journal of Science and Technology { Presented paper in International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT) conducted at DMI College of Engineering, Chennai { Qualified in GATE 2014. 
+{ Qualified in GATE 2015. 
+{ Successfully completed Introduction to Computer Science course from Harvard University through edX. { Successfully completed Querying with Transact SQL course from Harvard University through edX. Co - Curricular Activities { Industrial visit at We The Developers, Rajkot from 5th to 21st June, 2012 to learn PHP/MYSQL . 
+{ Intern at Skyward Techno Solutions Pvt. Ltd., Ahmadabad from 20th Dec to 20th April, 2013 on 
+.NET . 
+Objective 
+To work in an organization that encourages continuous learning and provides exposure to new ideas and innovations, thus enabling the professional and personal growth along with the organizational development. 
+Declaration 
+I here by declare that all the information given above is true to the best of my knowledge as on 09th September, 2016. 
+(Pooja Manshuklal G) 2/2 

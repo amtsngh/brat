@@ -1,0 +1,66 @@
+VIKRAM K. BATRA Email ID: vikrambatra08@gmail.com 
+Phone: +917204474386 Objective: To seek a chance for advancement, where my skills will be utilized and enhanced. 
+Professional Experience: 
+Have 4 years of experience in Swift 3.0 & Objective C and currently working as a Senior iOS Developer at TEKsystems Global Services, Bangalore. Summary: Salient developing app for the iPhone and iPad. 
+Profound ability to work in a fast-paced environment. 
+Proven ability to meet compressed deadlines. 
+Continuously discover, evaluate and implement new technologies to maximize development efficiency. 
+Well versed with Agile methodology. 
+Technical Skill Set: Language : Swift 3.0, Objective C Technologies : POP, MVVM, Jenkins IDE Database : Xcode 8.3.2 : RealmSwift, Core Data Tools : TFS, Jira, SVN, Git, VSTS Educational qualification: 
+Degree Pass out year College/University 
+Master Of Computer 2013 Vidyabharti College Application 
+(Amravati University) Bachelor of Computer 2010 Nagar Wachanalaya College Application (Amravati University ) H.S.C 2007 Z. P. High School (Maharashtra Board) S.S.C. 
+2005 Z. P. High School (Maharashtra Board) 
+Projects : 
+Vision Service Plan - level Description: 
+Level is a pair of glasses that doubles as an activity tracker. Level connects with Bluetooth and syncs data with app in every one minute to track the activity. To pair the level with the device we can either scan QR code or enter six digit code. 
+Responsibilities: 
+Using Swift 3.0 and POP language for development Designing and implementation of the application. 
+Followed Agile Methodology. 
+Disney Cruise Line Navigator Description: 
+Disney Cruise Line Navigator is the official cruise app from Disney runs on iPhone and iPad. Helps you to explore your ship with Deck Plans, entire cruise schedule, activities, shows, food menus etc. Can chat with your friends and family on the ship with our Onboard Chat feature. Works only on board on ship and connect to the ship s WiFi network. 
+Responsibilities: Using Swift 3.0 for development Followed Agile Methodology. 
+Meeting with client for the requirements of the product 
+ISS (Interface Security Systems) Description: 
+Interface Security Systems uses Hikevision cameras and manages a broad range of secure, IP-based security solutions for retail, commercial and small business customers as well as remote interactive video surveillance. ISS is an iOS app developed only for iPad for ISS managers to monitor the sites. Used Hikevision SDK and implemented functionalities to play Live / Playback videos in different modes along with play / pause, fastforward, video recording functionalities. 
+Responsibilities: 
+Used Swift 2.0 Followed Agile Methodology. 
+Writing Unit Tests Scripts. 
+Device Tracker Description: 
+Device Tracker is an internal application for TekSystems GS. This app helps us to track all the android and iOS devices. There can be multiple admins and different roles for users and admins. User will have to login to the app to use the Device. Used Parse for the backend integration. 
+Responsibilities: Used Swift 1.0 then migrated to Swift 3.0 Designing and implementation.. 
+Used custom UI elements 
+WGU 
+Description: WGU (Western Governours University) is an iOS app for the students of Western Governors University. 
+This app will provide all the study material online to the students. Students can login and swipe between Terms in the Degree Plan which will have list of Subjects. Students course of study will always be with them. Students will have Course Announcements, Tips, Assessment Details and Course Chatter. Will provide respective Mentor details if students will need. 
+Responsibilities: Used Objective C Designing and implementation of the mobile application. 
+Meeting with client for the requirements of the product. 
+Following Agile Methodology. 
+Bug fixing. 
+Writing Unit Tests Scripts. 
+Photo Exam 
+Description: Photo Exam is an internally developed iOS app for the staff of Mayo Clinic Hospital which runs on iPhone, iPad and other iOS devices. Photo Exam is a clinical tool to safely and securely photograph patients. Images are not stored in the devices. 
+Responsibilities: 
+Used Objective C R&D for the implementation of capture and save photo without losing its size, image ration and its clarity. 
+Developed custom UI components for enhanced UI look and feel. 
+Meeting with client, for the enhancement of the product. 
+Coding of various other functional activities, debugging and enhancing the stability and quality of the product. 
+G-Track 
+Description: G-Track is an iOS app to track the current location of the users and will be shown on the map with pins having profile photos. You will have to create Circle by selecting a gathering place from map and other information like time, circle title, list of friends you want to invite etc. Once the gathering time get expires the circle will be deleted automatically. 
+Responsibilities: 
+Used Objective C Developing a rich User Interface for the application. 
+Used Google Map API s Implemented custom User Interfaces. 
+Veritas Vocab app Description : 
+Veritas vocab is an iOS vocabulary game developed for a US based tutors for their students to improve their vocabulary. Since picturization is easy to remember so the basic idea is to provide pictures related to the word by providing description or its meaning instead. Responsibilities: Used Objective C Design and development. Worked on development of backend logic. TEKJobs & Aerotek Description : The Aerotek & TEKJobs mobile app gives job seekers a competitive edge by providing real-time access to job opportunities. Users can browse open position and immediately apply. Gain quick access and information such as interview tips and locate an Aerotek and TEK office. 
+Responsibilities: 
+Used Objective C Development and enhancing the stability and quality of the product. 
+Meeting with client, for the enhancement and updations. 
+Bug fixing. 
+Strengths : Fast learner, Hardworking, Positive attitude, Team worker. 
+Spoken Languages : English, Hindi, Marathi. 
+Personal Profile: Date of Birth : 26 July 1990 
+Father s Name : Kamalkishor Batra 
+Permanent Address : 
+Main Road, Karanji, 
+Tq. Pandharkawda, Dist. Yavatmal, Pin Code :445302 (M.H.) Date: (VIKRAM BATRA) 
+Place: Bangalore 

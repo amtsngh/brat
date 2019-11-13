@@ -1,0 +1,45 @@
+ Resume of Perumal Prabhu 1 of 2 PERUMAL PRABHU P 
+Room no 203,Thirumala Padmavathi Hostel,S.R.Nagar, Hyderabad. perumalprabhu92@gmail.com 
+Mobile:+91-9677748113 
+_____________________________________________________________________________________ 
+Objective : 
+To join a company that offers me a positive, challenging atmosphere and inspires me to deliver the best for the betterment of the business. 
+Summary : 
+An enthusiastic and highly motivated person. 
+Always willing to innovate new things which can increase the Business value. 
+Highly motivated and eager to learn new things. 
+Ability to work as individual as well as in the group. 
+Education : 
+B.E (Mechanical Engineering) with 66% from Anna University in the year 2014 
+Technical Skill Set : 
+Programming Languages : 
+Java, Objective C. 
+Java Technologies : JDBC, J2EE, JSP. 
+Web Technologies : HTML5, CSS3, JavaScript. 
+Framework : Spring, Hibernate, JQuery, Bootstrap. 
+Database 
+: Oracle (SQL, Pl/SQL). 
+Operating System 
+: Windows. 
+Servers : JBoss, Tomcat, Web Logic. 
+Resume of Perumal Prabhu 2 of 2 
+Professional Experience : 
+Techno Labs Software Solution, Hyderabad, 
+Jan 2017 to Jun 2017 
+Designation: Software Engineer 
+Technologies: JAVA, Hibernate, Spring, Web Services (SOAP and RESTful), HTML 4.01, CSS2, JavaScript, jQuery, Bootstrap 3, Ajax, Android, iOS and .NET 
+Omni Retailer Application (ORA): 
+ORA is a Retailer Application which is used for Retail Billing, Business Process Improvement with an end to end solutions for retail stores. ORA has both desktop and Mobile version (iOS and Android), the licensed users can download the application from App store or Play store and log into the system. 
+My Roles and Responsibilities: 
+Application Development Using Java Web Services: 
+Developed Denomination Flow using Hibernate, Spring and web Services. 
+Automated Stock Verification Module using scheduler. 
+iOS Development : 
+Worked on the creation of UI view for Stock Verification, Denomination, Procurement and Report module using Objective C. 
+Worked on the Restful web Services for getting the responses to UI views. 
+Personal Details : 
+Date of Birth 17th 
+Nov 1992 Father s name Palpandian P 
+Sex Male 
+Marital Status Single 
+Nationality Indian 

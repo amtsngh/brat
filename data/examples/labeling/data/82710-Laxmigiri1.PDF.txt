@@ -1,0 +1,182 @@
+LAXMINARAYAN GIRI 
+Big Data/Hadoop Consultant 
+E-Mail: laxmigiri19@outlook.com 
+Mobile: +91-9515736038 
+SUMMARY: 
+3.4+ years of IT experience in complete life cycle of software development using Object Oriented analysis and design using Big data Technologies / Hadoop ecosystem, SQL, Java, J2EE technologies. 
+Almost 3.4+ years of strong industry experience in Designing and Development, implementing and testing of various client/ server, web-based, distributed application. 
+Last 1.7+ years working on Big Data and Data Science building Advanced Customer Insight and Product Analytic Platforms using Big Data and Open Source Technologies. 
+Wide experience on Data Mining, Real time Analytics, Business Intelligence, Machine Learning and Web Development. 
+Leveraged strong Skills in developing applications involving Big Data technologies like Hadoop, Spark, Elastic Search, Map Reduce, Yarn, Flume, Hive, Pig, Kafka, Storm, Sqoop, HBase, Hortonworks, Cloudera, Mahout, Avro and Scala. 
+Skilled programming in Map-Reduce framework and Hadoop ecosystems. 
+Very good experience in designing and implementing MapReduce jobs to support distributed data processing and process large data sets utilizing the Hadoop cluster. 
+Experience in implementing Inverted Indexing algorithm using MapReduce. 
+Extensive experience in creating Hive tables, loading them with data and writing hive queries which will run internally in MapReduce way. 
+Hands on experience in migrating complex MapReduce programs into Apache Spark RDD transformations. 
+Experience in setting up standards and processes for Hadoop based application design and implementation. 
+Good Exposure on Apache Hadoop MapReduce programming, PIG Scripting and HDFS4. 
+Worked on developing ETL processes to load data from multiple data sources to HDFS using 
+FLUME and SQOOP, perform structural modifications using Map-Reduce, HIVE and analyse data using visualization/reporting tools. 
+Experience in writing Pig UDF s (Eval, Filter, Load and Store) and macros. 
+Experience in developing customized UDF s in java to extend Hive and Pig Latin functionality. 
+Exposure on usage of Apache Kafka develop data pipeline of logs as a stream of messages using producers and consumers. 
+Experience in integrating Apache Kafka with Apache Storm and created Storm data pipelines for real time processing. 
+Very good understanding on NOSQL databases like MongoDB, Cassandra and HBase. 
+Experience in coordinating Cluster services through Zookeeper. 
+Hands on experience in setting up Apache Hadoop, MapR and Hortonworks Clusters. 
+Good knowledge on Apache Hadoop Cluster planning which includes choosing the Hardware and operating systems to host an Apache Hadoop cluster. 
+Experience in Hadoop Distributions like Cloudera, Horton Works, MapR Windows Azure, and Impala. 
+Experience using integrated development environment like Eclipse, Net beans, JDeveloper, My 
+Eclipse. 
+Excellent understanding of relational databases as pertains to application development using several RDBMS including in Oracle 10g, MS SQL Server 2005/2008, and MySQL and strong database skills including SQL, Stored Procedure and PL/SQL. 
+Working knowledge on J2EE development with Spring, Struts, Hibernate Frameworks in various projects and expertise in Web Services (JAXB, SOAP, WSDL, Restful) development Experience in writing tests using Spec2, Scala Test, Selenium, TestNG and Junit. 
+Ability to work on diverse Application Servers like JBOSS, APACHE TOMCAT, WEBSPHERE. 
+Worked on different OS like UNIX/Linux, Windows XP, and Windows 
+A passion to learn new things (new Languages or new Implementations) have made me up to date with the latest trends and industry standard. 
+Proficient in adapting to the new Work Environment and Technologies. 
+Quick learner and self-motivated team player with excellent interpersonal skills. 
+Well focused and can meet the expected deadlines on target. 
+Good understanding of agile methodologies, Test Driven Development and continuous integration. 
+TECHNICAL SKILLS: 
+Languages: Java, SQL, PLSQL, XML, C++, HTML, XML, CSS, Java Script. 
+Java Technologies: Java, J2EE, JDBC, Servlets, JSP, JavaBeans Big Data Technology: HDFS, Map Reduce, Pig, Hive, Hbase, Zookeeper, MongoDB, Flume, Oozie, Sqoop, Avro, Kafka, Apache Spark, Ambari, Ganglia, Kerberos, Tivoli. 
+Frame Works: Struts, Hibernate and Spring. 
+Development Tools: Eclipse, My Eclipse, Tomcat, Web Logic. 
+ORM: Hibernate. 
+Databases: Oracle, MySql, Hbase, MongoDB, Cassandra. 
+Scripting languages: Java Script, Python, and Linux Shell Scripts. 
+Environments: UNIX, Red Hat Linux (Cent OS, Fedora, RHEL), Ubuntu, Windows 
+Methodologies: 
+Agile, waterfall. 
+Management Tool: 
+SVN, CVS. GitHub. 
+Cloud Technology: GCP, Azure, AWS. 
+Indexing Tool: Apache Solr, Lucene, Elastic Search 
+PROFESSIONAL EXPERIENCE: 
+PROJECT #1: 
+Title : Fraud Analysis (E-Discovery) 
+Client : PriceWaterHouseCoopers Pvt Ltd (PwC India) Team size 
+: 16 Members 
+Duration : Sept 15-Present 
+Role : Sr. Technical Analyst (Hadoop Developer/Administrator) 
+Responsibilities:- 
+Involved in Installing, Configuring Hadoop Eco System, and Cloudera Manager using CDH5.5 
+Distribution. 
+Responsible to manage data coming from different sources and involved in HDFS maintenance and loading of structured and unstructured data Imported data using Sqoop from Tera data using Tera data connector. 
+Integrated Quartz scheduler with Oozie work flows to get data from multiple data sources parallel using fork. 
+Processed Multiple Data sources input to same Reducer using Generic Writable and Multi Input format. 
+Created Data Pipeline of Map Reduce programs using Chained Mappers. 
+Exported the patterns analysed back to Teradata using Sqoop. 
+Visualize the HDFS data to customer using BI tool with the help of Hive ODBC Driver. 
+Familiarity with a NoSQL database such as Cassandra. 
+Implemented Optimized join base by joining different data sets to get top claims based on state using Map Reduce. 
+Worked big data processing of financial and server log data using Map Reduce. 
+Implemented complex map reduce programs to perform joins on the Map side using Distributed 
+Cache in Java. 
+Worked on implementing SPARK with SCALA Responsible for importing log files from various sources into HDFS using Flume Created customized BI tool for manager team that perform Query analytics using HiveQL. 
+Used Hive and Pig to generate BI reports. 
+Imported data using Sqoop to load data from MySQL to HDFS on regular basis Created Partitions, Buckets based on State to further process using Bucket based Hive joins. 
+Created Hive Generic UDF's to process business logic that varies based on policy. 
+Moved Relational Data base data using Sqoop into Hive Dynamic partition tables using staging tables. 
+Optimizing the Hive queries using Partitioning and Bucketing techniques, for controlling the data distribution 
+Worked on custom Pig Loaders and storage classes to work with variety of data formats such as 
+JSON and XML file formats Experienced with different kind of compression techniques like LZO, GZip, Snappy. 
+Used Oozie workflow engine to manage interdependent Hadoop jobs and to automate several types of Hadoop jobs such as Java map-reduce Hive, Pig, and Sqoop. 
+Developed Unit test cases using Junit, Easy Mock and MR Unit testing frameworks. 
+Experienced in Monitoring Cluster using Cloudera manager. 
+Environment: Hadoop, HDFS, HBase, Cassandra, Spark, MapReduce, Tera Data, Java, Hive, Pig, Sqoop, Flume, Oozie, Hue, SQL, ETL, Cloudera Manager, MySQL. 
+PROJECT #2: 
+Title : Work Scheduler and Management System. 
+Client : DigiTrix Technologies-ICP Solar Productions, Canada. 
+Team size 
+: 8 Members 
+Duration : Oct 14 Sept 15. 
+Role : Software Developer 
+Roles and Responsibilities: 
+Developed the application using Spring Framework that leverages classical Model View Layer (MVC) architecture UML diagrams like use cases, class diagrams, interaction diagrams, and activity diagrams were used Participated in requirement gathering and converting the requirements into technical specifications Extensively worked on User Interface for few modules using JSPs, JavaScript and Ajax Created Business Logic using Servlets, Session beans and deployed them on Web logic server. 
+Developed the XML Schema and Web services for the data maintenance and structures Implemented the Web Service client for the login authentication, credit reports and applicant information using Web Service. 
+Successfully integrated Hive tables and Cassandra DB collections and developed web service that queries Cassandra DB collection and gives required data to web UI. 
+Developed workflows using custom MapReduce, Pig, Hive and Sqoop. 
+Built reusable Hive UDF libraries for business requirements which enabled users to use these 
+UDF's in Hive Querying. 
+Developed a data pipeline and Storm to store data into HDFS. 
+Maintain Hadoop, Hadoop ecosystems, third party software, and database(s) with updates/upgrades, performance tuning and monitoring Extracted feeds form social media sites such as Facebook, Twitter using Python scripts. 
+Responsible in modification of API packages Managing and scheduling Jobs on a Hadoop cluster. 
+Installed and configured Hadoop MapReduce, HDFS, Developed multiple MapReduce jobs in java for data cleaning and pre-processing. 
+Created UDFs to calculate the pending payment for the given Residential or Small Business customer, and used in Pig and Hive Scripts. 
+Responsible to manage data coming from different sources. 
+Developed Shell and Python scripts to automate and provide Control flow to Pig scripts. 
+Got good experience with NOSQL database. 
+Experience in managing and reviewing Hadoop log files. 
+Used Hibernate ORM framework with spring framework for data persistence and transaction management. 
+Participated in development/implementation of Cloudera Hadoop environment. 
+Wrote test cases in Junit for unit testing of classes Involved in templates and screens in HTML and JavaScript Involved in integrating Web Services using WSDL and UDDI Built and deployed Java applications into multiple UNIX based environments and produced both unit and functional test results along with release notes Environment: Hadoop, HDFS, Pig, Cloudera, JDK 1.7, J2EE 1.5, spring, Map Reduce, Storm, JSP, Servlets 2.5, JBoss, HTML, XML, ANT 1.6, Python, JavaScript, Junit 3.8 PROJECT #3: 
+Client : DigiTrix Technologies-USAA (United Service Automobile Associate) Team size 
+: 8 Members 
+Duration 
+: Mar 14-Sept 15 (after Oct 14 Production Support) 
+Role : Software Developer 
+Description: 
+USAA (United Service Automobile Associate), a financial service company, has more than 150 products and services in diverse domains related to various financial services and related to various line of business of insurance services as well as on investments. The scope of present project is to convert existing VB based project in to the web based application using presentation services, a framework developed by USAA for developing GUI. The project provides the logged on member to save and complete the application while applying any claim against products. 
+Roles and Responsibilities: 
+Involved in collecting the business requirements for the project. 
+Implemented various business actions using Struts2. 
+Implemented custom interceptors using Struts2. 
+Designed and developed the presentation/UI layer with JSP, Java Script, HTML and AJAX 
+Created custom logger classes to integrate the USAA specific logging framework 
+Created Single Sign On Servlet to integrate USAA custom security registry into the tool Involved in production support and resolving production defects with SLAs. 
+Responsible for writing Servlets & JSPs. 
+Involved in thorough unit testing of the system. 
+Responsible for writing client-side Validations using Java Script. 
+Analysing the Code Change Request and implementing. 
+Acquiring the relevant data from extensive observing. 
+Involved in design and development of style sheets with CSS. 
+Coded different deployment descriptors using XML. 
+Implemented UNIX shell scripts to call stored procedures and invoke batch jobs. 
+Reviewing for post production issues and rectifying the same. 
+Checking the dependencies and other relative aspects with respect to the changes applied. 
+Writing code or programs to get desired results. 
+Environment: Java, Struts, JSP, Singleton, Oracle10g, Weblogic9.2. SQL, JUnit, Clearcase, Eclipse, J2EE, JDBC, AJAX, HTML, Java Script. 
+PROJECT #4: 
+Title : IBIS (Integrated Business Information Systems) Client 
+: DigiTrix Technologies-Mahindra & Mahindra 
+Team size 
+: 6 Members 
+Duration 
+: Sep 13 Mar 14 
+Role : Team Member 
+Description: 
+IBIS is a web based application. The main aim of the application is to upload the tractor details by the sales coordinator so that the uploaded data gets reflected at the area office( Mahindra & Mahindra).Depending upon the uploaded data the physical stock and the reports are generated. The upload data consists of Tractor Details, Loan Details, Installment Details, Vital -9 Reports, Exchange tractor Details. The reports consist of the physical stock, Tractor serial number wise report. 
+Roles and Responsibilities: 
+Involved in both Development & Production Support. 
+Resolved both production defects with SLAs. 
+Involved in maintenance CRs and resolving defects. 
+Involved in writing Servlets & JSPs. 
+Implemented Struts Frameworks & Configured. 
+Writing Action classes, Form Beans, DAO s, VO s, JSP s by using Struts frame work. 
+Involved in writing business logic by struts Data access objects. 
+Auto Generation of Values as soon as User entered into the Menu Form. 
+Alphabetic Search of Data. 
+Involved in to perform unit testing. 
+Environment: Java, Struts1.1, Servlet, JSP, JDBC, XML, Oracle 10g, Tomcat, Eclipse, Html, Java Script, CSS, and Windows. 
+PROJECT #5: 
+Title : Employee portal Client 
+: DigiTrix Technologies 
+Role 
+: Developer. Team size : 4 Members 
+Duration : Apr 13-Sep 13 
+Description: 
+This project is a separate portal for an employee in an organization. It is an intranet application; the complete employee profile will be available in the portal and includes modules like Leave management system, Timesheet management, salary and appraisal details, company forms, individual letters and documents management and interaction with higher authorities through mail, requesting forms. 
+Roles and Responsibilities: 
+To implement the modules Employee, Company, Department and Reports. 
+Development of the various modules like employee, company etc. 
+Use CSS and HTML to get client specific Look and feel of Web Application in JSP. 
+Designing of User Interface using JSP pages. 
+Involved in client side and server side development using Java, JSP, Servlets to incorporate the business logic for Member and Non-Member services. 
+Used JDBC for querying queries, Stored Procedures and Triggers for data validation for Application. 
+Involved in coding and implementation. 
+Integrating Of project and deployment. 
+Environment: 
+Java, JSP, Servlets, JDBC, Tomcat, Oracle 10g, My Eclipse, Html, Java Script, CSS, and Windows. 
+EDUCATION: 
+B-Tech in Electronics and Telecommunication Engineering, BPUT, India. 

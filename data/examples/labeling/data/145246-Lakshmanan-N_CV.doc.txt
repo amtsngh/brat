@@ -1,0 +1,105 @@
+ Curriculum Vitae 
+Lakshmanan .N 
+Lakshman.nammalwar@gmail.com (mailto:Lakshman.nammalwar@gmail.com) GSM: +919886688000 Location 
+Bangalore, India 
+Summary 
+Accomplished Program manager offering 13.9 years of demonstrated career primarily in IT & Telecommunications Domain. 
+Highly Energetic and Passionate professional with dedication and proven ability to develop, manage project schedules Depth experience on working with cross-functional and multi-cultural atmosphere to achieve on-time project and program completion Comprehensive experience in Project Management, Program Management, Transition and Transformation, Change management, project planning, budgeting, scoping and implementing cost controls, Risk management & Automation efficiency programs. 
+Academic Qualifications 
+Course Year of completion College University 
+MCA 2002 Jamal Mohamed College Bharathidasan University BSc. Comp Science 1999 
+Nallamuthu Gounder Mahalingam College Bharathiar University 
+Key Training & Certifications 
+PRINCE2 Practitioner 
+ITIL Foundation 
+Experienced PM Certification (Ericsson Internal) Change Management Training @ Sweden 
+Professional Experience 
+Overall 13.9 years of Experience in IT & Telecom Industry (Project & Program management, Operations and Organization Transition & Transformation) From May11 till Date 
+Program Manager (Global Transition & Transformation- People, process and tools setup) @ Ericsson India Global Services Private Limited 
+At present working as Program manager for Region North & Latin America offshoring program 
+Worked as Program Manager for Region Sub-Saharan Africa (includes countries like Nigeria, South Africa) & Region Mediterranean Europe managing Transition Project managers and overall transition programs to have Global services delivery establishment. 
+Worked as Transition & Transformation project manager Primarily for Western and central Europe region across telecom domain functions. Accountable for E2E transition and transformation activities and multiple transition programs from the Regions and GSC for Managed services delivery, Network roll out, Consulting and system integration deliveries and other services delivery 
+Managed multiple MS Transition projects with Budget up to $5M/project 
+E2E activities with Feasibility for remote delivery, scope alignment, recruitment, competency build up, Operational readiness of the team, Tools implementation, ensuring IT environment availability/readiness and Ways of working alignment (SLA, WLA alignment) wrt Delivery readiness. 
+Managed Automation efficiency projects leading to cost control and delivery efficiency 
+Risk and schedule management across streams with mitigation and contingency worked out and aligned with stakeholders. 
+Expert in Managed Services Transformation Programs. Execution of efficiency improvements through implementation of MS strategies, process, methods and tools. 
+Experienced in Application management transition and transformation programs. (Under IT Managed services or Staff augmentation models) 
+Ensuring the defined cost criteria and savings according to the approved business plan are achieved. 
+Drive the transition and transformation as per the governance model, calling for Steering Group meetings, track Business case, take corrective actions if needed, report progress and propose new activities. 
+Promote new ways of working and facilitate change by ensuring buy-in and support at all levels of the service. 
+Monitoring and controlling the Transformation project budgets, ensuring end to end cost control, in line with company directives and Global Transition and Transformation (GT&T) financial ways of working. Involvement in RFPs and Sales process to provide inputs from transition perspective. 
+Mentoring less experienced project managers. 
+Experience as Transition & Transformation PM in Multi-cultural atmosphere 
+Worked as a transition project manager with experience of leading multiple projects/program across several countries with diversified culture Germany, Belgium, UK, Ireland, Netherland, Lebanon, Croatia, and Romania. 
+From July 2010 till May 2011 E2E Test Manager (Client -AT&T Projects) @ IBM India Private Limited. 
+Handled projects as E2E test manager for manual testing on telecom systems (Service Assurance & Service Delivery). 
+Test & Project Management Project Initiation, Planning - Estimation (E2E Testing), Scheduling (MS Project), Monitor & Control, Risk Management, Stakeholder Management, Communication Management, Release Management, Resource Management 
+Responsible for all testing deliverables (at all phases) for the projects being handled 
+ST, SIT, End to End testing 
+Responsible for driving the testing to completion (right from ST phase till E2E) highlighting issues/risks to project management team at client side, overlooking the testing progress, ensuring the daily status report to all stakeholders of the project. Ensuring daily status reports and progress for ST, SIT from the corresponding test leads and TMs. 
+Responsible for ensuring defect management process and as well acting as first level escalation point for all applications (ST, SIT teams and E2E team) impacted in the project 
+Ensuring the Master test plan and High Level Test Strategy for the projects with assistance from the required test teams. 
+Responsible for conducting all client and internal calls related to testing progress and issues and owning the responsibility of decision making from testing perspective for the project. 
+Ensuring the sync up between all application teams (impacted by project) in schedule perspective, data dependencies perspective driving for a common optimized and as well integrated test schedule to achieve the project milestones. 
+From Aug 2007 till July 2010 Project Lead (Client Optus) @ Wipro Technologies Private Limited. 
+As a Project-Test Lead at CLIENT Location 
+Sydney 
+NSW for 1.5 Years 
+Assist Test Manager in preparing test estimation and test schedule 
+Upkeep of document management systems and test processes Identify and prepare regression suites for projects following multiple release patterns 
+Contribute towards review process 
+Scope, Test Execution Results, Test Cases 
+As a Project Lead on Manual Testing for Telecom systems (CRM/Billing) for projects being handled at the client side from Wipro end Providing Cost Estimates, Impact Assessment for a change request, Overlooking the project progress and maintaining the Risks and Issues associated with the project and highlighting to the Program as part of daily reporting. 
+Providing suggestions/Mitigations to the risks highlighted to the program from technical and managerial point of view Handling customer queries and resolving project related issues, Defect Management, Daily status reporting, WSR and MSR to the Program and Management 
+Preparation of Test Strategy, Test Plan for the projects along with Lean implementation to the projects 
+Working as Technical Lead for Team and as well as Mentor to New Joiners 
+Domain Knowledge on CRM Systems and Data warehousing along with testing knowledge Managing Ramp up of new joiners to the account across all projects. 
+Resource allocation for various projects 
+Assisting on Training arrangements and training management for all resources across the account at offshore From Aug 2005 till July 2007 
+MIS Lead/Executive (Client Bharti) @ IT Department -IBM India Private Limited 
+Worked as a Lead for MIS activities for Mumbai Circle with a three member Team. 
+MIS which includes various reporting on the following domains - Arbor/ Kenan, Datawarehouse, PACS & BI. 
+Handling Datawarehouse reporting, Day-to-Day operational and database activities 
+Providing Technical support on BI queries as per Business requirements. 
+Handling reports related to Arbor/Kenan Billing system. 
+Handing reports related to PACS which acts as an interface between User departments and IN system. 
+Managed Datawarehouse consolidation for West Hub-Bharti. (Lead the team from Mumbai being the center for West Hub) 
+Includes IT & Infrastructure (Hardware, Applications setup in data center) for DWH implementation in Hub 
+From April 2004 till Aug 2005 
+Executive @Idea Cellular Limited, Cochin 
+Worked in Prepaid Operations from IT/Networks perspective on Intelligent Networking technology. 
+Handling customer queries (via customer service/other internal teams) from prepaid IN system perspective and finding appropriate solutions for them. Offline SMS charging for the prepaid subscribers. 
+Plan Migration for prepaid subscribers, Barring and reconnecting of prepaid subscribers from network. 
+Prepaid activations, handling various applications that support IN system. 
+Various MIS reports generated as per request from user Departments. 
+Additional Experience 
+A most responsible role as a four member team for migrating IN Platform from LUCENT to NOKIA 
+TELECORDIA. 
+Scripts developed in various platforms to make the daily operations streamline as per Business requirements after migration. 
+Knowledge in Configuration of TARRIF in NOKIA-TELECORDIA IN Platform. 
+From February 2003- April 2004 
+System trainee @ Information Services Department Aircel Limited, Coimbatore. 
+Billing Operations, Rating the fetched CDRs from the Main Switch. 
+Generating daily Reconciliation report and sharing it with all MSCs of the network. 
+Maintaining Customer Care Support system acting as an interface between Customer care department and all other MSCs regarding requests made to switch from CC. 
+Network Traffic Control 
+Handling Network traffic usage and releasing the traffic blocks with thorough monitoring. 
+Online Updation Receipts system downloading receipts from all branch offices, receipts updated and uploaded to the appropriate Server. 
+Releasing Permanently Deactivated Sims as per request made by CC officers to their appropriate login ids 
+AWARDS & RECOGNITION 
+Spot Award/Certificate signed by CEO of Idea Cellular Ltd for developing a script in Unix as per business criticality. 
+BRAVO award from IBM-INDIA Private Ltd for handling MIS team of Mumbai Circle in a most efficient way. 
+BRAVO award from IBM-INDIA Private Ltd for handling Data warehousing consolidation project for western hub (5 Circles) Certificate of Excellence from Client Bharti CIO for West Hub DWH Consolidation Project 
+Two Feather in my Cap awards from Wipro Technologies on various projects. 
+Yes Rewards from Optus Client of Wipro Technologies 
+Recognized with Power award for leading successful transition of a managed services program as a PM. 
+Identified and recognized as a Key contributor in the transition team couple of times in last 5 years. 
+Personal Profile: 
+Name : Lakshmanan 
+Fathers Name : S. Nammalwar. 
+Date of Birth : 19th Oct, 1978. 
+Sex : Male 
+Nationality : Indian 
+Marital Status : Married 
+Permanent Address : Flat-216, Sri Tirumala Vintage, Basapura Road, Bangalore - 560100 

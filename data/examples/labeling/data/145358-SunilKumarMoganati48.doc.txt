@@ -1,0 +1,113 @@
+ RESUME SUNIL KUMAR MOGANATI 
+Design Engineer II (Hardware) 
+E-mail: moganatisunil448@gmail.com 
+Mobile: +91-9949215004. 
+Career Objective: 
+Seeking challenging and rewarding contracts in Embedded Hardware where I have enough scope for development of my technical intelligence and add value to the organization by being an integral part of a Research and Development team with complete perfection and professionalism. 
+Executive Summary: Hardware Design Engineer 
+A dynamic 4+ years of experience in Aerospace Design & Development in Reliable Technosystems India (P) Ltd., Hyderabad from June 2012 to till. 
+6 Months of experience in PVT Characterization and Endurance performance testing for Qualcomm 2.4GHz and 5 GHz Wi-Fi reference design boards in Qualcomm India Pvt Ltd from Oct2014 to Mar2015. Gained experience with various 16 and 32- bit processors and controllers such as ADSP SHARC, ACTEL SoC FPGA. 
+Technical Skills: 
+Experience in Analog & Mixed signal circuit designs. 
+Experience Hardware circuit design of ADC and DAC 
+Experience Protocols UART, RS-232, RS-422, RS485, I2C and SPI 
+Experience in Power Electronics, MOSFETs and LVDTs Strong knowledge on 3 phase BLDC motor controllers using FPGA, ADSP and SoC and solenoid valve controlling using PWM techniques. 
+Hands on schematic entry OrCAD and Cadence. - Schematic entry - Component sourcing, selection and BOM finalization - 
+Test documentation and Test reports preparation. - Interfacing Controller with sensors like motor hall sensor and current sensors. 
+Selection of power supply design like switching regulators and Linear Regulator. 
+Closely worked with PCB Layout team for 2/12 layer boards. 
+Exposed to Product evaluation & debug during field evaluation & integration. 
+Extensively worked on test Instrumentation for debug & Hardware bring up . 
+Having experience in using Oscilloscopes, Function Generators, Power Amplifiers, Multimeter. 
+Having experience in Environmental testing for BLDC Actuator Controllers like Vibration,EMI/EMC, Thermal cycling. 
+Technical Competencies : 
+Programming Languages : C (On GCC compiler, Turbo C) 
+OS Skills 
+: LINUX (UBUNTU11.04v),Windows 2007/XP 
+Tools 
+:Cadence 16.3, Libero Soc, Visual DSP++, CADSTAR. 
+Debugging Tool 
+: GDB (GNU Debugger), JTAG, STRACE, KDB 
+Kernel Development : 
+DEVICE DRIVERS, IPC MECHANISMS 
+Other : EMBEDDED SYSTEMS, LINUX SYSTEM PROGRAMMING 
+Professional Experience : 
+Project 1: Dual Channel Digital Actuator Controller (ASB) 
+Company: Reliable Techno Systems India (P) Ltd Client: 
+RCI, Hyderabad Role: Hardware Design Engineer Tools: 
+Orcad, Flash Pro, Libero SoC and Visual Dsp++, Cadstar Description: 
+The Digital Controller is having DSP processor with 16- channels ADC and 4-channels DAC. Input signal is giving to MIL-STD1553 or through ADC to interact with the main system. Since the Controller is going to place within the missile, all of the components were chosen as per MIL STDs. The OBC will control the position and velocity of the linear actuator with the main system command signal .The linear actuator is consist BLDC motor and LVDT. The PID technique used to control the position & velocity is analog PWM technique. 
+Roles & Responsibilities: 
+Hardware Design and Development of total project. 
+Schematic entry and components selection. 
+Net list checking BOM finalizing. 
+Understanding different types of components ADSP, FPGA, ADC, DAC, UART, MIL-STD 1553 and Flash. 
+Components placements guidelines and Isolations discussions with client. 
+Board level, System level Debugging, integrating and product delivery. 
+Project2: 
+Design &Implementation of Digital Controller for Quick Response Solenoid Valve. 
+Company: Reliable Techno Systems India (P) Ltd Client: 
+RCI, Hyderabad Role: Hardware Design Engineer Tools: 
+Orcad, Flash Pro, Libero SoC 
+Description: 
+The Controller is featured with Advanced Smart Fusion SoC which is having internal ADC, DAC, UART, FPGA, GPIOs. The Solenoid Valves are controlling by the PWM technique and this PWMs are Generated from FPGA. These Solenoid Valves ON and OFF condition is Done through 1553 Communication. 
+Roles & Responsibilities: 
+Schematic Design and Development. 
+Understanding different types of components Smart Fusion FPGA, Mini Ace-1553, Current Sensor and MOSFETs. 
+Testing The Board in Debug mode and Release mode. 
+Platform & board bring up & Lab debug, execution and data analysis. 
+Project3: 
+PVT Characterization and Endurance Performance Testing 
+Company: Mirafra Software Systems India (P) Ltd Client: 
+Qualcomm Ind (P) Ltd, Chennai Role: 
+Validation Engineer Tools: 
+Ix Chariot, Tera term Vt,Putty. 
+Description: 
+PVT stands for process, voltage and temperature validation of silicon. PVT validation tests silicon with different process variation at voltage and temperature extremes to stress the device in ways other testing does not. The intention of PVT is to run validation content to find logic bugs that may be introduced due to process, voltage and temperature variations. 
+Roles & Responsibilities: 
+PVT Characterization performance testing for Qualcomm 2.4GHz and 5GHz Wi-Fi reference design boards. 
+Testing of Wi-Fi Access Points under different temperature conditions-40c, 0c, 25c, and 80c. And also running interoperability test with different Wi-Fi clients. 
+Project4: 
+Design &Implementation of Digital Controller for BLDC Motors. 
+Company: Reliable Techno Systems India (P) Ltd Client: 
+RCI, Hyderabad Role: Hardware Design Engineer Tools: 
+Orcad, Flash Pro, Soft console and Cadstar Description: 
+The Controller is featured with high speed processor of 30ns instruction execution capability in combination of 16 channel ADC and 4 channel DAC provided with Mil std communication protocol 1553 to interact with the main system. Since the Controller is going to place within the missile, all of the components were chosen as per Mil STDs. The OBC will control the position and velocity of the linear actuator with the main system command signal (nothing but digital sine signal). The motor inside the linear actuator is of BLDC motor and the technique used to control the position & velocity is analog PWM technique Roles & Responsibilities: 
+Schematic Design and Development. 
+Understanding different types of components ACTEL FPGA, ADC, DAC, Current Sensor, Motor Control IC and MOSFETs. 
+Testing The Board in Debug mode and Release mode. 
+Platform & board bring up & Lab debug, execution and data analysis. 
+Project5: Designing and implementation of open loop controller 
+Company: Reliable Techno Systems India (P) Ltd Client: 
+RCI, Hyderabad Role: Hardware Design Engineer Tools: 
+Orcad, Flash Pro, Libero SoC and Cadstar 
+Description: 
+The Open Loop Controller mainly used to test different types of BLDC Motors and Display the speed and current consuming of the motor on LCD Display. The OPC is featured with Advanced ACTEL Smart Fusion FPGA which is having internal ADC, DAC, UART, GPIOs. The FPGA read the data from Current sensors and Hall sensor, and display the motor speed and current on the LCD Display. Here we also use BLDC motor control IC for Motor control. Roles & Responsibilities: 
+Schematic Design and Development. 
+Testing The Board in Debug mode and Release mode. 
+Testing the OPC with BLDC Motor. 
+Platform & board bring up & Lab debug, execution and data analysis. 
+Academic Credentials: 
+B.Tech (ECE) -- Eluru College Of Engineering and Technology (Affiliated 
+To JNTU-K) From 2012 batch. 
+Intermediate (MPC) -- APSWR Jr college, Machilipatnam (Board of Intermediate Andhra Pradesh). From 2008 batch. 
+SSC -- 
+ZPH School (State Board of Andhra Pradesh) 
+From 2006 batch. 
+Personal profile: 
+Fathers Name : Sri Babu Rao. 
+Date of Birth : 30th june 1990. 
+Gender : Male 
+Marital Status : Unmarried 
+Nationality : Indian 
+Languages Known : English, Telugu. 
+Hobbies : Listening to Music & Playing Games. 
+Strengths : Hardworking nature, Zeal of learning new things. 
+Permanent Address :SUNIL KUMAR MOGANATI 
+S/O Sri.Babu Rao 
+D.No:1-46, manuguluru, chintapadu Post mandavalli mandal krishna Dist-521333 
+Andhra Pradesh 
+Declaration: 
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 
+Date: (SUNIL KUMAR MOGANATI) 
+Place: 

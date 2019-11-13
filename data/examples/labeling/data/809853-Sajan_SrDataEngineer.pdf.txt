@@ -1,0 +1,45 @@
+:E-mail sajankedia@gmail.com :Phone 09663731077 :Address Bangalore, India 
+B.Tech & M.Tech in Computer Science & Engineering 
+July 2008 
+May 2013 CGBSE - 12th July 2007 April 2008 
+CGBSE - 10th July 2005 April 2006 Media IQ Digital (R&D) OCT 2014 Present 
+Sajan Kedia 
+Education 
+IIT (BHU) Varanasi 
+St. Xavier's School, Akaltara 
+Lions English School, Korba 
+Work experience 
+Sr. Data Science Engineer 1. Predict RTA - Building real time analytics pipeline to predict from Machine learning models in real time. 
+Implemented our own Impression server, which attaches a custom miq pixel to all the creatives. Requests are processed by preprocessing engine & sent to a kafka topic by kafka producer. Spark streaming API is used to read data in real time & apply prediction model on top of that. 
+Technology: Spark streaming, Kafka, Elastic Load Balancer(ELB), Auto-scaling, ECS, Docker, Monit, nginx, Vertx, java 2. Predict - Predict helps in finding pool of users for which probability of conversion is very high. This niche pool of users are targeted with higher bid price. Massive RTB data is used for training the model. Features used are at very granular level - site domain keywords, tags, postcodes. Features are grouped by K-Means Clustering and it's aggregated counts are used to train the model. 
+Technology: Spark MLlib, spark-sql , hive, Machine learning, Naive Bayes, Random forest, K-Means clustering, 3. Demographic Prediction - The project aims at predicting user s demographics like gender, age, salary range, education qualification. This is used for targeting a very niche audience segment for different strategies in Ad campaigns. Huge survey data used as training set. Machine learning classification models are used for predicting new user from impression (RTB) data. 
+Technology: machine learning, logistic regression, random forest, SVM, hive, scikit-learn 4. MIQ Audience - The idea behind this project is building specific set of audience pool for a specific advertiser category(ex. Travel, auto etc). Users are targeted based on keyword tuple present in URL during RTB. Huge log level data is crunched to generate keywords. Many NLP techniques applied to score keywords for different categories. 
+Technology: NLP, tf-idf, stemming, hive, aws, jenkin 5. Performance Index (PI) - Performance index is score/index of seller, domain, geo, tags etc based on their conversion performance from historical data. This is the key metrics which is used in almost all campaigns to get max ROI & conversions. To calculate PI, many metrics were taken into account like impressions, conversions, spends, post-click, post view etc. 
+Technology: Apache Mahout, K-Means clustering, EMR, hive, Hadoop, shell, Redshift 
+Sajan Kedia 1 IBM IRL (India Research Labs) July 2013 Oct 2014 IIT (BHU) Varanasi July 2008 May 2013 Research Engineer 
+Intelligence-Law Enforcement (ILE): Aim of this project is to build a framework for public safety, intelligence and investigation agencies to leverage external data sources (e.g. social media, police criminal database) by combining i2 and Big Data technologies. To filter data, SystemT text extractors are used which uses AQL(annotator query language). 
+High level profile of user & event are created using HIL IBM Biginsights platform. This is further ingested into IBM i2 tool for better visualization and finding connection between users & events. 
+Key Contributions: Implemented crawler for twitter & facebook. Getting top trending keywords & topic from social media. 
+Sentiment analysis. Topic detection. 
+Technology: java, NLP, IBM biginsights, IBM Infosphere streams, HIL, AQL, i2 notebook course projects 1. Task Scheduling software - Implementation of compile time task scheduling in heterogeneous system. 
+Implemented scheduling algorithm based on list scheduling and task duplication on a bounded number of heterogeneous machine. (Heterogeneous critical parent with fast duplicator algorithm). 
+2. Opinion Mining on Product Review 
+- Feature extraction and opinion mining on product reviews. Sentimental analysis on key features of a review for product like camera or phone. 
+3. Supply Chain Management - Implemented a web portal for Supply Chain Management. Created service for online ordering, billing, secure data transfer, modes of transportation. 
+4. Web Crawler - implemented a web crawler and extended it to search for requisite data on a website. Created service for search upto user specified depth in a website and save image files and documents. 
+Skills 
+Big Data: Hadoop, Spark, Spark-SQL, Spark streaming, Map reduce, Kafka 
+Languages: Python, java, sql, hive 
+Tools: Pycharm, eclipse, IBM Infosphere biginsights, streams, EMR, AWS, redshift, ELB, ECS 
+Data Science: Machine learning, NLP, Clustering, Spark MLlib, Random forest, Logistic regression, SVM, Apache 
+Mahout, Scikit-learn 
+Interests: Big data, Real time analytics, Machine learning, NLP, text mining Publication 
+Opinion Mining and Sentiment Analysis on product reviews: 
+Presented at International Congress on Innovative Trends in Information Technologies and Computing Sciences for Competitive World Order at JNU, New Delhi, India. 
+Published at International Journal of Information and Computation Technology 
+ISSN 0974-2239. 
+Achievements 1. Technical Accomplishment Award from Director, IBM Research for contribution in Intelligence-Law Enforcement project. 
+2. Secured rank-2954 in IIT-JEE 2008, being 1% of all the candidates who took the examinations and AIEEE -2008 rank-1907, being 0.2% of all the candidates who took the examination. 
+3. Awarded at Ribbit Application Development, Codefest 2010 for web based text messaging software using ribbit. 
+4. Bagged 3rd prize in Robosoccer event at Magnum-Opus. 
+Sajan Kedia 2 Sajan Kedia 3 

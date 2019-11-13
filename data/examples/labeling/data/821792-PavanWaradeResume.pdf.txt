@@ -1,0 +1,54 @@
+PAVAN WARADE 
+Curriculum Vitae 
+Room No-8A,Patkar Bhuwan 
+Bhagat Singh Road,Near Maitri Raghukul Tower 
+Dombiwali East,Mumbai,India 421201 
+H +91 989 055 9255 
+B pavanswarade@gmail.com Objective 
+I am seeking a competitive and challenging environment where I can serve the organization and establish an enjoyable career for myself. 
+Education 2017 current Master of Technology 
+Specialization Electronic Design Technology 
+University NIELIT,Aurangabad 
+CGPA 7.75 out of 10 2014 Bachelor of Engineering 
+Specialization Electronics & Telecommunication Engineering 
+College Rajarshi Shahu College of Engineering, Buldhana 
+University SGB Amravati University 
+Percentage 61.76 % 2009 Higher secondary Exam 
+Stream PCM (Physics Chemistry Mathematics) 
+Board State Board, Maharashtra 
+Percentage 72.33 % 2007 High School Exam 
+Board State Board, Maharashtra 
+Percentage 66% Projects 
+M.Tech Project,NIELIT,Aurangabad 
+Title Design and Implementation of Fault Identification of Underground Cables Using IOT 
+Supervisor Mr.K.Lakshman, Scientist"C", NIELIT,Aurangabad 
+Description In this project IoT Technology approach is used to find the Distance of Underground cable fault by using microcontroller AT mega 328 based Arduino Board and that distance is show on the specific server using ESP8266 Wi-Fi module. 
+B.E Project, Rajarshi Shahu College of Engineering, Buldhana. 
+Title GSM Based Home Automation and security System. 
+Supervisor Mr.P.S.Gawande, Head of Dept.ENTC 
+Description Designed an embedded system which consist of GSM modem, Micro-controller assembly. 
+This system designed to Control Home Appliances and Security System. 
+Co-Curricular Activities 1. President of Cultural and Technical Fest at R.S.C.E.,Buldhana (2012-2014) 2. Completed online Python Data Structure, Access web Data course. University of Michigan 3. Pursuing Big Data Internship Program by Unanth and Big data trunk For "Implement a Big 
+Data Solution to Recommendation Engine Using Machine Learning Techniques". 
+Achievements 1. Secured Distinction in M.Tech Course 2. Certificate for Python Data Structure by University of Michigan 
+Computer skills software packages 
+MATLAB,Opera, Microsoft Office Programming 
+Languages 
+C, Python 
+Data 
+Analytics 
+Tools 
+R Programming, Basic knowledge of SAS 
+Personal Information 
+Name Pavan Suresh Warade 
+Date of Birth 14th November, 1991 
+Contact No 9890559255 Email ID pavanswarade@gmail.com 
+Current 
+Address 
+Room No-8A,Patkar Bhuwan,Bhagat Singh Road,Near Maitri Raghukul Tower,Dombiwali 
+East,Mumbai,India 421201 Permanent 
+Address 
+c/o Suresh Narayan Warade, Plot No-05, Chaitanyawadi, Malkapur, Dist- 
+Buldhana,443001(M.S) 
+Declaraion 
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 

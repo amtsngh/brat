@@ -1,0 +1,102 @@
+ANINDYA MUKHERJEE 
+Hybrid Cloud Architect / Support Specialist 
+PROFILE 
+An experienced and results-oriented individual with more than 12 years of experience in IT industry Presently working on architecting and developing broker integration with IBM Cloud Brokerage Platform including VMware vRealize Automation 
+Conversant with software development life cycle (SDLC) that include: specifying and analyzing requirements, designing, coding, Unit testing, deployment and Release Management 
+Expertise in VMware vCenter/vRA/vROps products API Integration Development 
+In-depth expertise in developing technical architectures for various commercial applications across telecommunications domain Gained expertise in developing and architecting integration with Private Cloud like VMware vRealize Automation, Google Cloud and IBM Bluemix 
+Remarkable experience in production support and customer service to complex software applications 
+Proven technical skills in resolving production issues within the SLA s, resulting production improvement 
+Worked in Build Frameworks like Jenkins and Test Automation 
+Development Experience with XMLs and JavaScript frameworks like jQuery, NodeJS, Express etc. 
+Extensively worked with IaaS like vSphere( vCenter) and vROps. 
+Recognized for designing cloud deployment strategies that mitigate risk while meeting infrastructure, customer and budgetary needs Technically proficient in working with Oracle Web Logic, IBM Web Sphere, JBoss, Tomcat and Apache 
+Struts, Spring, Hibernate and Play Framework 
+Instrumental in managing project activities like Resourcing, Project Planning and Control, Effort 
+Estimation and Scoping, On-site-Offshore Co-ordination, and Production support to SLA's Experienced in working and understanding of all stages in the agile methodology, Scrum Master and Knowledge Transition process Resides Bangalore, India 
+Phone +91 - 9538542907 
+Email anindya.mukherjee7@gmail.com LinkedIn URL www.linkedin.com/in/anindya-mukherjee-09a8646 
+Skype Name anindya.mukherjee7 
+Nationality Indian 
+Date of Birth 14/07/1981 
+Education Master of Engineering from Jadavpur University, India - 2008 Bachelor of Engineering from University of Kalyani, India - 2004 Languages Fluent in English, Basic in French 
+MAJOR ACCOMPLISHMENTS 
+Ericsson ACE and Ericsson Falcon Awards for the year 2009 - 2010 Employee of the Month for the IDEA SMP project Nominated for ACE Falkon award for the last quarter for excellent work in IDEA SMP Projects 
+GLOBAL EXPOSURE: 
+KEY SKILLS 
+Product development Solution Architecture 
+Stakeholder Relations 
+Requirement Gathering & Analysis 
+Architecture Management Frameworks 
+Technical Documentation & Reporting 
+Production Application Support 
+PROFESSIONAL EXPERIENCE KEY RESULT AREAS 
+At IBM GTS Cloud Global, India 
+Managing the complex cloud computing development and operations team 
+Handling the team members as functional focal point and acts as a direct interface with client globally At HCL Technologies, India 
+Supervised the complexity of the project and decided the technology stack by evaluating on the industry proven factors 
+Collected and analyzed the project requirements as well as designed the system architecture Involved in suggesting business growth potentials for the potential clients, which resulted in designing innovative industry proven solutions At Infosys Ltd, India 
+Managed various projects and worked on various domains like Telecom and Media domain and Life 
+Sciences domains for the clients Assisted and worked with Technology Architect for designing the architecture and analysed for potential risk for the project Analyzed non-functional requirements such as concurrency, lower response time and network latency analysis Created automated deployment tool for the application in the UNIX system with minimal installation time and portability across the other environment 
+PROJECTS HANDLED 
+Employer Designation Duration 
+IBM GTS Cloud Global, India Hybrid Cloud Architect Mar 2016 
+Till Date 
+HCL Technologies, India Technical Manager/Architect Sep 2014 Mar 2016 Infosys Ltd, India Technology Lead Dec 2012 
+Sep 2014 Vodafone Germany, India Assistant Manager Jun 2011 
+Dec 2012 ERICSSON, India Senior Solution Integrator Jan 2008 May 2011 
+Tata Consultancy Services, India System Engineer Sep 2004 
+Dec 2007 
+Title#1: IBM Hybrid Cloud Technology Shared Services Apr 2016 Till Date 
+Role: Software Lead 
+Description: Used to provide a hybrid cloud industry grade solution to the end consumer as well as developed cloud orchestration infrastructure to help the industry to grow in cloud markets and promote containerization of the application as SAAS.PAAS platform 
+Contributions: Responsible for analyzing and designing new requirement Resolving complex issues in distributed production environment 
+Handling various activities related to development and integration with hybrid technologies 
+Environment: Docker Container, Jenkins, Java, Vmware vRealize Automation 
+Title#2: Schneider Electric Wise UP Application Nov 2015 
+Apr 2016 
+Role: Technical Manager 
+Description: The application powered by Schneider Electric to automate their e-Commerce system portfolio where user can visit, place order for the Schneider Product and Application intelligently find the nearest technician for installation 
+Contributions: Managed the use case specifications 
+Environment: AngularJS, NodeJS, MongoDB and NGINX, Unix, Express, MEAN Stack 
+Title#3: DirecTV Install Pass Integration with Google Now 
+Jan 2013 
+Sep 2014 
+Role: Technology Lead 
+Description: Worked with Google API and deployed the notification from the client to the end user 
+Contributions: 
+Responsibly executed the recurring tasks 
+Environment: Java, XML, JSP, Linux Shell, Active MQ (Rabbit MQ), Spring Integration, Couch DB (nosql database) & Play Framework; Build Tool: ANT/MAVEN 
+Title#4: Vodafone Live Implementation & Support 
+Jun 2011 Dec 2012 
+Role: Assistant Manager 
+Description: This is a mobile portal providing downloadable & browsable content to a huge set of devices & customers. The portal was currently supplying a consistent user-experience across 13 countries in Europe 
+Contributions: Handled the implementation of centrally hosted OpCo Portals 
+Communicated with various technical teams and OpCo with hosting center whenever required 
+Environment: Java, XML, JSP, HTML, CSS, Custom Tag Libraries, Sun Solaris 10, Apache Jetty, Apache (HTTPD) Web Server, Oracle, Servlet, JBoss, UNIX Scripting and Perl 
+Title#5: Idea SMP 
+Jan 2010 May 2010 
+Role: Senior Solution Integrator 
+Description: SMP (Social Media Portal) was implemented by Idea in their network to offer users the ability to link to their existing social networks and also enabling ICL to build its own social graph 
+Contributions: Received Employee of the Month 
+Award for IDEA SMP Project 
+Environment: SIG 4.1, Sun Solaris 10, BEA Web Logic, MySQL, SOAP and Web logic, Web services 
+Title#6: SDP, Ericsson MU INLK, India/ BSNL/ East Zone Jan 2008 Jan 2010 
+Role: Solution Integrator 
+TECHNICAL SKILLS LANGUAGE SKILLS: 
+Proficient in English 
+AVAILABILITY 
+Ready to relocate within 6 months 
+Do not possess a bond with current employer References are available upon request 
+Description: This application has been involved in the implementation of SDP platform for BSNL India for two zones North and East 
+Contributions: Supervised various activities related to: 
+o Deployment, integration & testing of MSDP 2.3 & SIG 4.0 East Zone o Validation and acceptance (UAT) for SDP SIG deployment assignment for East Zone by the customer (BSNL) o Hand-over of SDP to ELS/O&M team Analyzed product level bug and maintained bug list Accountable for integrating SDP SIG with SMSc, MMSc, WAP Gateway, MLP, etc. 
+Managed customer adaptation for MMSc integration; attended customer meeting and represented Ericsson SDP Engineer 
+Environment: Drutt MSDP 2.3, SIG 4.0, Sun Solaris 10, BEA Web Logic, Oracle RAC, JBOSS, Sun 
+Networker & Tape Library, EMC SAN, SOAP and Web Service 
+Messaging: Active-MQ, JMS, Play Framework 
+Database: Oracle, My SQL, NoSQL Databases ( Couch DB) 
+Programming Languages: SQL, XML, and HTML, JAVA/JEE , JavaScript 
+Telecom Enablers: SMSc/MMSc, WAP Gateway , Location Based Services, VAS 
+Cloud / DevOps Tools: Spark Java, Docker, Jenkins, Kubernetes, Maven 
+Operating Systems: Windows, DOS, UNIX, and Linux 

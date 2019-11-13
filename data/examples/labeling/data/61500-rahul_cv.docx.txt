@@ -1,0 +1,52 @@
+ Resume of Rahul Goel 
+RAHUL S. GOEL 
+Phone: (M)+91 9969-301-412 
+Mail: rahgoel123@gmail.com 
+Current Location: Mumbai, India : https://in.linkedin.com/in/rahulgoel2 Young, energetic and result oriented professional with 5 Years of experience in Windows infrastructure support using defined SLA metrics and by following technical escalation process. Handson in windows Servers administration, Microsoft Messaging Servers, Virtualization technologies, Server builds, decommissioning and maintaining windows based applications including desktop support. Persuasive communicator with exceptional relationship management skills with the ability to relate to people at any level of business and management; Adroit at analysing the organization requirements; highly ethical, trustworthy and discreet. 
+EDUCATION 
+Bachelors in Computers Applications, LN College of Technology and management, affiliated to Tilak Maharahstra University. 
+Diploma in Electronics Enggg from Maharashtra State Board 
+Secondary School (10th)from Mumbai Board. 
+TECHNICAL SKILLS 
+Microsoft Windows Servers Administration (2003 / 2008 / 2012) 
+Microsoft Exchange (Messaging and Collaboration 2003/2007/2010) 
+Active Directory Service (2003 / 2008 / 2012) 
+Virtualization Technologies (VMware ESX 5.0) 
+Citrix Xenapp 6.5 (Published Apps and Desktops) 
+Windows patch deployment (WSUS) Managed Services client support (US, UK) Configuration& Administration of DNS & DHCP server. 
+Data center operations (monitoring, vendor repairs, UPS, temperature, Rack mounting) 
+Antivirus Solutions (Symantec Endpoint Protection, Sophos) 
+Windows 7,8 and 10 deployment (WDS) 
+Ticketing Tools (Footprints / Service Desk) 
+Backup Technologies (Undelete 2009, Symantec Backup Executive 2010) PROFESSIONAL EXPERIENCE 
+Damac Properties (Dubai) - June 2015 to Nov 2015 IT Support Engineer 
+Provided 1st level support for IT related service request and problems from in house software to hardware, such as PCs, Laptops, Printers, IP Phones and Smart Phones etc. Diagnose, Prioritize and troubleshoot complex problems and provide complete solutions to ensure a high level of user satisfaction Provide IT support functions for all IT requirements (In House and remotely) using available tools and applications such as desktop Management, end-point security controls such as antivirus, device control, network access control, etc., client patch management and system hardening, board room audio/ visual support and blackberry client support and administration. 
+Maintain overall ownership of the users issue & service, ensuring that they receive resolution within a reasonable time frame. Installation of Desktop applications includes AutoCAD, REVIT, Primavera, Oracle 11g, Hirecraft, Skype, Live mail, Chrome, firefox, CISCO VPN, Adobe Creative Suite, Microsoft Office, SQL Server and Visual Studio. 
+Performed installation of Mac, Windows XP, Vista, 7, 8, 10, Server 2003, 2008 and 2012 on desktops, laptops and servers using Acronis media. 
+Installed Trend Micro Antivirus with DLP and Websense on users systems. 
+Helping home users in resolving CISCO VPN related issues. 
+Performed data center operations like cable pulling, rack mounting and fault finding. 
+Fixed network related issues in LAN/WAN environment. 
+SS&C Globeop Financial Services (Mumbai) - June 2010 to June 2015 Windows Support Engineer 
+Provided 1st and 2nd level incident management and case handling by successfully meeting the SLA and 95% resolution on in-scope products, services and processes for Globeop users and clients across India, US, UK, Singapore, Hongkong and Dublin in 24/7 environment. 
+Logged tickets in service desk software called Footprints and supporting users on issues like account creation and deletion, password resets, connectivity issues, browser related issues like java plugin, Activex plugin, proxy settings for web applications like Reuters Messenger, Lync 2010, Reuters Eikon, Citrix signon, Skype, Webex, Gotomeeting and Gotoassist. 
+Responsible for setup, configuration, testing, upgrades and deployment of desktop/notebook machines running Windows XP/Vista/7/8 in accordance with organizational policies and procedures. 
+Provide effective information to end users regarding the effective use of desktop systems, products and services to solve simple and routine IT problems and incidents. 
+Performed installation ofWindows2003, 2008 and 2012 on physical and virtual servers and configured DNS, DHCP, WDS, DFS, IIS, WSUS and Domain roles and services. Configured Active Directory and performed IMAC operations for users, security groups, DLs OUs and configuring roaming profile, account lockout and password reset operations. Configured domain controllers in Single Forest, Single Domain environment and deploying group policies. 
+Build Virtual servers by installing VMware 5 and accessing through Vsphere client. 
+Performed mailbox creation/deletion and mailbox movements on Exchange 2003 and 2010. 
+Build Citrix Xenapp 6.5 servers and created published applications and desktops. 
+Performed backup operations in Symantec Backup Executive 2010 and Undelete 2010. 
+Installing Symantec Endpoint protection on client machines and monitoring alerts. 
+Building Bloomberg systems with latest updates and installing applications like MS Office 2003, 2007, 2010 & 2013 and Symantec Antivirus. 
+Performed data center operations like cable pulling, rack mounting and fault finding. Troubleshooted network related issues in LAN/WAN environment and followup with vendors. 
+Helping in Disaster Recovery implementation and supporting users during BCP testing. 
+Training junior team members on new processes and helping them to resolve complex issues. 
+CERTIFICATIONS MCP ( Windows XP Installation and configuration ) 
+MCSA ( Windows Server 2008 Installation and Active Directory) 
+MCSA ( Windows 7 Deployment and Configuring) Information Technology Infrastructure Library (ITIL) v3 Foundation 2011 PERSONAL PARTICULARS 
+Age: 29 yrs 
+Nationality: Indian 
+Languages : English and Hindi 
+Passport No: J1687479 
+References: Available upon request 1 

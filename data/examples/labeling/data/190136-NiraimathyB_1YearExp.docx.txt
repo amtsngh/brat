@@ -1,0 +1,40 @@
+Niraimathy B 
+Email: niraimathy.b@gmail.com 
+Mobile: +91-9739264150 PROFILE SUMMARY 
+Currently working as a Junior Software Engineer in Nirvanabox for the last 1 year. 
+Experience in Android Mobile application developer. 
+Experience in implementing web service API, SESSION and SQLite database. 
+Experience in Android Studio. 
+Experience in integrating Google Maps API. 
+Good abstraction and problem solving capabilities. 
+Strong sense of teamwork, integrity, self-motivation and positive attitude. 
+SKILLS 
+Languages: Android JAVA 
+Database: SQLite 
+Front End Technologies: XML, JSON 
+IDE: Android Studio 
+OS: Windows 7/8.1/10 PROFESSIONAL EXPERIENCE 
+Project #1 
+Title: Nirvanabox App 
+Description: 
+Nirvanabox Application created for customer who can register based on the location pincode. Once customer register they can login and they can create a custom box or choose food boxes or nutritionist suggested boxes. Once customer selected the box they can checkout with COD(Cash On Delivery). And they can manage their account settings and previous orders details. This project deals with e-commerce website for selling both organic and fresh vegetable and fruits. It provides the user with a catalog of different products available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user. 
+Technologies Used: Java, XML, Json, Genymotion and Retrofit. 
+Project #2 
+Title: Logistic App 
+Description: Logistic application is created for Nirvanabox delivery boy. Delivery boy can access to the daily deliveries and select a order from the list. In case of there is any damage or issue with a product he can immediately refund the customer with cash back to their wallet. And customer can provide feedback about the products. After feedback customer has to provide their digital signature to complete the order. There is option to navigate to the location using google maps. In map delivery boy current location to delivery address path will be displayed and there will be an option for google map navigation for directions. 
+Technologies Used: 
+Java, XML, Json, Genymotion and Retrofit. 
+Project #3 
+Title: Nutrition Suggestion App 
+Description: Nutrition suggestion application is created for Nirvanabox nutritionist. Nutritionist can access to the enquiries lists. And nutritionist can select a enquiry and respond to the customer and see the previous customers messages also. 
+Technologies Used: 
+Java, XML, Json, Genymotion and Retrofit. 
+AWARDS 
+Received best discipline Awards 2 times in school. 
+Got an award for not taking leaves in college working days. 
+ACADEMIC PERFORMANCE 
+Pursued Bachelors of Engineering BE(Computer Science) from Ultra College Of Engineering And Technology For Women, affiliated to Anna University Chennai with 71.2% on 2015. 
+Pursued Higher Secondary Certification 
+HSC from Madurai Meenakshi Matriculation Hr.Sec School with 65.45% on 2011. 
+Pursued Secondary School Leaving Certificate SSLC from Madurai Meenakshi Matriculation Hr.Sec School with 63.26% on 2009. 
+Location: Bangalore 

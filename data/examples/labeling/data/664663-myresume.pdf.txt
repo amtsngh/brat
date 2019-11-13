@@ -1,0 +1,67 @@
+RESUME
+ 
+To pursue a challenging career that provides a competitive environment to prove my potential and to bring out the best in me for the benefit of the organization. 
+Academic Credentials: 
+Degree/Board Year Name of Institute Name of Percentage Remark 
+Course / SGPI Mumbai University 2017 Bharti Vidyapeeth s Institute of Management and Technology MCA 1) Sem1- 5.96 Pursuing 
+2)Sem2-6.15 3)Sem3- 7.29 4)Sem4-7.08 5)Sem5-6.12 
+6)Sem6- Pursuing BharatiVidyapeeth University 2014 BharatiVidyapeeth sInstitute of BCA 1)FyBCA - 54.77% Successful 
+Management and Entrepreneurship Development 
+2)SyBCA - 56.00% 
+3)TyBCA - 65.04% Maharashtra 2011 K.M.Agrawal college H.S.C. 50.33% Successful 
+Board Maharashtra 2009 A.H.H School S.S.C. 63.53% Successful 
+Board 
+Live Project: 
+Web Crawling 
+Admission System ADTA Class 
+Hopper E-Paper 
+Project Task System 
+Online Recruitment 
+SMS API Generator Livekt.in 
+M.C.A: 
+I.Mini Project 2nd Semester 
+Name of project: bvimsr.com /bvimit.co.in 
+Front End: Html5, CSS3, Bootstrap 
+Name: Mithun H Pradhan 
+Date Of Birth: 1st March 1993 Mobile Number 9702450035 
+Email ID 
+m193823@gmail.com 
+Objective: Project Undertaken: 
+Business Logic: 
+PHP 
+Back End: 
+MySQL II. Mini Project 4th Semester 
+Name of project: 
+WordSearch Game 
+Front End: Angular.js with bootstrap 
+Back End: 
+ReST API for client server communication and MongoDB to store data 
+III. Final Project 6th Semester 
+Name of project: 
+Media Automation Analysis 
+Front End: HTML5, CSS3, Bootstrap 
+Back End: MySQL 
+Business Logic: 
+PHP BCA: Final Year Pproject: 
+Online Examination System 
+Front end: JSP 
+Back end: 
+SQL 
+Technical Skills: 
+UI RESOURCES: HTML, CSS, Twitter Bootstrap, JAVASCRIPT, JQUERY, ANGULAR, JSON, XML, REST API, Open Sans, Glyphicons Pro 
+PROGRAMMING LANGUAGE: JAVA core, C, C++, PHP, C#, ASP.NET DATABASE: 
+Mongo DB, MySQL, SQL Server 
+OPERATING SYSTEM: Windows XP/7/8/10, Linux, Ubuntu, Amazon EC2 Ubuntu 
+Work Experience: 
+UI Frontend Developer, LIVEKT Technology( 2.5Months) 
+It is a startup firm established in March 2013. It is developing a platform which will allow its customer to build and to sell the data to their customers. I have worked on: o Angular.js o MYSQL o HTML5 
+o CSS3 
+o Bootstrap 
+o JSON 
+o XML 
+o JavaScript 
+o JQuery UX And UI Frontend Developer, Kanalytics (Present) 
+Declaration: 
+I hereby declare that the information furnished above is true to the best of my knowledge. 
+Date: / / 2017 Place: 
+KALYAN MITHUN PRADHAN 

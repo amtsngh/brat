@@ -1,0 +1,67 @@
+ Resume 
+Saikat Ghosh 
+Flat 306, Prime City Apartment Electronics City, Phase 1 Bangalore 560100 8095063684 saikatgosh@gmail.com Professional Summary: 
+DEC13 
+Till Date: - Tech Mahindra Limited, Bangalore Capacity Performance and Monitoring analyst 
+DEC12 
+Dec13:- :- iNautix, ABNY Mellon Company, Pune 
+Capacity planning and performance engineer 
+OCT11 
+Dec12:- Cybage Software, Pune 
+Application Engineer - IT infrastructure consultant 
+JUNE08 
+OCT11:- Mphasis, an HP company, Pune 
+Subject Matter Expert - Application Support 
+HIGHLIGHTS: 
+Capacity planning and Performance engineering ( using BMC suite, BMC Patrol, HP Open View, Akamai, HP load runner, HP Diagnostics) Site Reliability Engineering knowledge to find opportunities to improve customer experiences and drive down failed customer interactions Performance /Availability monitoring of web and mobile-web (using Keynote Technology &Dynatrace) Unix/Windows application support and DEV Ops Engineering ITILv3 trained having good exposure on IT Infrastructure modules and tools 
+EDUCATION QUALIFICATION: 
+B-Tech in Electronics and Communication from Bengal Institute of Technology and Management, West Bengal under W.B.U.T in 2007 with DGPA = 8.01/10. 
+Work Experience: Roles &Responsibilities at Tech Mahindra Limited. 
+Tech Mahindra Limited, Bangalore Capacity Performance and Availability Engineering team @Nestl is focused on using the latest technology and tools set to gauge the scalability and speed of Nestl websites. We engineer our websites for speed, optimal resource usage and user experience besides making them reliable and robust. 
+2 years 10 months (16th DEC13 
+Till Date) 
+Project Name Nestle 
+Organization Tech Mahindra Limited 
+Performance Tool Keynote, Cache point, Dynatrace 
+Role Played System Lead 
+Responsibilities Capacity, Performance & DevOps (Site Reliability Engineering ) 
+Working as an Analyst in the Nestl (Digital Services Unit) team which is responsible for managing all the digital web and mobile operations of Nestl which includes Corporate, Brand, ecommerce and Ad Campaign websites. 
+Forecasting the future requirements for resources to support IT services that underpin business activities Manage Capacity and Performance issues related for Linux, HPUX, Sun Solaris, Windows, and VMWare Servers. 
+Trend analysis, estimation, simulation, analytic modeling 
+Release Management (DevOps) - Infrastructure management - Microsoft Azure - Code management - Bitbucket - Code Build system - Teamcity / Jenkins - Code deployment - Octopus Monitoring & Availability Management: 
+Experience in Performance/Availability monitoring of web, mobile-web and native mobile applications Design and implement front end performance monitoring solutions across all e-commerce websites. Monitoring would range from client side statistics as well server side monitoring solutions 
+Scripting the test scenarios for synthetic monitoring using the Keynote script recorder or manually with JavaScript and DOM scripts 
+Analyzing the data from various tools like Keynote/New Relic for monitoring, Akamai which is the CDN, Imperva (WAF), Google Analytics and others 
+Creating, analyze and distributing Availability Management reports (Application Availability & Reliability) 
+Has expertise in implementing multiple methods to mitigate network based distributed denial of service attacks (DDoS). Have dealt with HTTP brute force, ICMP Flood, SYN Flood, Malformed HTTP header attack, DNS brute force attack Roles &Responsibilities at iNautix, ABNY Mellon Company 
+BNY Mellon Capacity planning and performance Management 
+1 year ( DEC12 DEC13 ) 
+Project Name Distributed System Engineering - TSG 
+Organization 
+iNautix, ABNY Mellon Company 
+Role Played Senior Software Engineer 
+Responsibilities 
+High level Performance tuning and Capacity planning using BMC suite and HP load runner technologies 
+Knowledge in Web Page Test or Other Website Performance & Availability Monitoring using Akamai content Management Work experience in Unix OS command line/Shell scripting (Sun Solaris, Red hat Linux, AIX ) environment 
+Database Exposure on SQL Writing and maintaining Chef cookbooks for Server Provisioning Doing Production Deployments Managing Monitoring solution (Nagios and NewRelic) 
+Roles &Responsibilities at Cybage Software: Cybage 
+Software Capacity consultant @Google/Double click 
+1 year 3 months ( Oct11 
+DEC12) 
+Project Name Google DART 
+Organization Cybage Softwares 
+Role Played Senior Software Engineer 
+Responsibilities 
+Production Operation Delivery for Google online advertising product suits Monitor/Investigate the performance/capacity issues on all Unix and Windows servers. 
+Monitor the threshold limits of the servers to ensure there would not be any performance issues. 
+Supporting the SA during the collection issue in AIX/Windows/Virtual servers to get it fixed. 
+Generate Red action list of servers, perform analysis and provide Recommendations on the same. 
+Implement/Involve in service improvement plan for capacity management by extensive observations. 
+Roles & Responsibilities at Mphasis, an HP Company: 
+Mphasis Specialized Senior Infrastructure 3 years 4 months ( JUNE08 OCT11 ) Project Name J2EE & FTP Operations - Client SYMANTEC 
+Organization Mphasis 
+Role Played Senior Software Engineer 
+Responsibilities 
+Our team was responsible for supporting more than 2000 servers, where all the Symantec web applications are deployed. Our team was looking after issues and projects related to performance and capacity of systems. Also we were doing benchmarking and providing solution for system capacity. 
+References available on request. 
+Please let me know if you require any further information 

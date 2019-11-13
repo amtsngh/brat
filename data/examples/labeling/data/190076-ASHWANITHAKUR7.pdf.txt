@@ -1,0 +1,69 @@
+ Ashwani Thakur 
+# 36/A, 4rth Cross, 24 main 
+HSR Layout, Sector 2, BANGALORE 
+Cell: +91-8130609985, 7829309645 
+Email: ashwani.thakur2014@vit.ac.in https://in.linkedin.com/in/ashwani-thakur-68398679 
+Objectives: 
+To work in a dynamic and reputed organization that can utilize the inherent talent of the incumbent to the maximum. I am looking for a challenging, diverse and dynamic project, with a good amount of work responsibility 
+Strengths: 
+Quick learner. 
+Flexible and Adaptable. 
+Ability to interact with people from versatile background. 
+Ability to handle pressure of multiple tasks with effective Time management. 
+Good listener. 
+Educational summary: 
+Higher secondary and senior secondary education from state board with 80%. 
+Bachelors of Engineering (B.E) in Electrical and Electronics Engineering (EEE) from Panjab university, Chandigarh with 63.10% (2009-2013) Master of Technology in Power Electronics and Drives from Vellore Institute of Technology, Chennai, Tamil Nadu with 7.4 CGPA (2014-2016) 
+Technical Skills: 
+Language: C, C++, PLC programming 
+Software: MATLAB, E-TAP, P-SPICE, PSIM. CCSTUDIO, ORCAD , Lab view 
+Specialization: 
+Power Electronics: AC-AC, AC-DC, DC-DC, DC-AC power supply and their working. 
+Semiconductor devices: Thyristors, Diodes, Mosfets, BJT, IGBT, GTO etc. 
+SMPS: Sepic converter, Cuk converter, Fly-back converters, ZVS and ZCS converters. 
+Control systems: Transfer functions, State space analysis, frequency domain design, optimal control, linear and non-linear systems etc. 
+Power Converters: Buck, Boost, Buck-Boost, Sepic, Cuk, 1- and 3- Inverters & Rectifiers. 
+Multi-level Inverters: Diode Clamp Inverter, Capacitor Fly-back Inverter and Cascaded H- bridge Inverter. 
+Ana log circuits: Operational Amplifiers, Filters, Temperature sensors, ADC, DAC,PLL etc. 
+Automation (PLC): PLC ladder programming, SCADA. 
+Digital Electronics: Combinational and sequential circuits, VHDL modelling 
+Electrical machines: PMSM, SRM, Stepper Motor, Universal motor etc. 
+Renewable energy systems: Solar systems, wind turbines, MPPT techniques and controllers. 
+Microcontrollers : 8085,8086, Arm processors 
+Internships: 
+NHPC CHAMERA -III, Himachal Pradesh 
+(June 2011) Carried internship in NHPC where exploring deep knowledge about hydro power plants, their construction and working. Gained knowledge about generators, transformers, turbines and 132 KV substation. Deep understanding of working of relays, circuit breakers, isolators, C.T & P.T, lightning arrestors, capacitor banks etc. 
+A.B TECHNOLOGIES,SEC-34 Chandigarh 
+(July 2012) Certification for PLC-SCADA from recognized institute about PLC programming and developing various ladder networks for different programs. 
+National Thermal Power Corporation, Koldam Himachal Pradesh 
+(Jan 2013 - June 2013) Six months of working experience in NTPC KOLDAM where explored deep and intense knowledge about Power house, 400 KV switchyard, dam site and diversion tunnels. Good experience and exposure about various electrical equipment s, their construction and working. 
+On hand experience of working in power house for 3 months as power house site was under development. Gained deep knowledge about turbines, their control mechanism and about 400 KV transmission and distribution systems. 
+SM CREATIVE ELECTRONICS LIMITED, Gurgaon 
+(Sept 2015 - April2016) 
+Working on Master s final year Project titled as Analysis and implementation of fixed input and variable output 100 Watt DC-DC CUK converter driven by different and new control tec hniques and comparison with ZETA converter on the basis of Efficiency, Inductor ripple cur rent, Output voltage gain and Stress across the switching device. The converters are being dri ven by fixed frequency and variable pulses width modulation circuits. Four Ana-log ICs has b een used to generate variable pulses to drive the MOSFET based DC-DC power supplies. ICs used are NE555 timer IC, Voltage control PWM ICs TL494CN, LTC6992 and resistance cont rol IC 74HC14P. PCB fabrication was learned and implemented successfully. 
+Projects Undertaken: 
+Generation of electricity using speed breakers : 
+(Final year B.E Project) Small working model was made which was capable of producing electricity using speed breakers. 
+Rack and pinion arrangement was installed under speed breakers, electricity produced can be stored in battery which can be used at later stages. 
+Bi-directional DC-DC converter: 
+(July 2014 - Dec 2014) 
+Simulation was performed in MATLAB 2013 about bi-directional DC-DC power converters. Power can flow too and fourth from source to load and vice-versa. This DC-DC power converters can be used in hybrid electric vehicles (HEV) where power needs to be flow in both direction for charging and discharging of battery systems. 
+DC-DC power supply: 
+(Sept 2016 - April 2016) Designed two different MOSFET based fixed input and variable output power converters in MATLAB 2013 and Hardware topologies for different converters (CUK &ZETA) was implemented. 
+Certificates and Honour: 
+Securing Merit certificate from Himachal Pradesh board of school education (HPBOSE) in higher and senior secondary education. 
+Certification for course of PROGRAMMABLE LOGIC CONTROLLER from A.B 
+TECHNOLOGIES. 
+Certificate of Participation in the Workshop of "PWM Implementation using FPGA for Power 
+Converters" organized by IEEE Power Electronics Society Student Chapter on 12th April 2015 at VIT Chennai. 
+Conference papers: 
+IEEE Transactions on Power electronics ANALOG CONTROL CIRCUITS FOR 
+SEPIC CONVERTER submitted on 30 June 2016 with ID TPEL-LETTER-2016- 
+06-0167 
+BI-DIRECTIONAL DC-DC CONVERTER : Paper has been presented in conference held in 
+VIT UNIVERSITY on the bi-directional dc-dc converters which is used in hybrid electric vehicles (HEV) where power can flow in both the directions .(i.e. from source to load and vice versa) in year 2014. 
+QUASI RESONANT DC-DC CONVERTER: Conference paper was presented in VIT UNIVERSITY on quasi resonant dc-dc converter in 2015. 
+Personal Details: 
+Name: Ashwani Thakur 
+Date of Birth: April 7th 1990. 
+Passport Details: H8642222 

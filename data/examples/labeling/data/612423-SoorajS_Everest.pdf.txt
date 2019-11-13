@@ -1,0 +1,95 @@
+SOORAJ.S
+ 
+Contact : +919538632930 , E-mail : soorajsudhasurendran@gmail.com 
+Embedded Hardware Design Engineer 
+Offering 4+ years of experience 
+OBJECTIVE : 
+To Pursue my professional carrer in an organization with a performance oriented environment for achievement of corporate goals and personal advancement. Being ambitious and hardworking, I am looking forward to challenging my potential and be worthy of management s trust and confidence. 
+CORE SKILLS AND ABILITIES: 
+Experience in Designing Complex Embedded Hardware Solutions : Four years of experience in complete product cycle of hardware design from Component 
+Selection, Circuit design ,Schematic capture ,BOM Scrubbing, High speed Board design, PCB production, Obsolescence Management and Component Engineering. Designed and developed products in various fields of electronics like Consumer, Medical and Industrial. 
+One year of experience in leading the operations of inhouse electronics manufacturing setup. 
+Conducted the production line work including Material Verification, Kitting,Pick and Place machine programming, assembly and flow soldering. 
+Experience in Documentation : 
+Successfully documented clear and precise Product Quality Checking documents, electrical schematics, case studies, process-work flows, test reports and procedures to the finest detail. 
+PROFESSIONAL 
+EXPERIENCE 
+OSTRICH 
+MOBILITY INSTRUMENTS 
+PVT 
+LTD ( June 2014 to Till Date). 
+Working in Ostrich Mobility Instruments Pvt Ltd as Senior Design Engineer, Hardware. Ostrich 
+Mobility is one of the leading Personal Mobility Equipment (PME) manufacturing company in India. Company entered in the field of Powered Wheelchairs back in 2003. 
+My responsibilities as a hardware design engineer include defining product requirements, circuit design, schematic capture, board bring up & debugging, Intergration testing and Component 
+Verification.My responsibilities as production lead includes purchase, store and stock. 
+ERKADI SYSTEMS : Electronics Engineer ( January 2013 to June 2014). 
+PRIMARY TECHNICAL SKILLS 
+Hardware Experience. 
+Microprocessors Development of AM180x and AM335x of TI ARM based boards. 
+Communication Protocols USB, I2C, RS232, SPI 
+Exposure to analogue circuit like ADC, audio and Power Management. 
+PCB Design and Fabrication, Automotive Electronics 
+System Design and Skills 
+Schematic design using cadence ORCAD. 
+PCB design verification using Cadence. 
+Electrical Testing of PCB. 
+Test jig design for products and simulation tools like PSPICE, LTSPICE 
+Ensuring integration, manufacturability, functionality and cost-effectiveness of products. 
+Power Supply design for system , board level and LVPS. 
+Soft Skills 
+Involved in design reviews. 
+Customer Schematic Reviews 
+Data Mapping. 
+Technical guidelines and instruction documentation. 
+Lead ISO certification documentation and represented the management during audits. 
+Purchase , stoke and Store management. 
+KEY PROJECTS INTIMATE FR1400 THERAPY BED PIC Microcontroller 
+Description: 
+Intimate FR1400 is the very first robotic system in india allowing a focused and intensive therapy for patients during acute and sub acute phases of illness and directly from their hospital beds.it was based on PIC microcontroller . The features of this are inbuilt cyclic motion and inbuilt movement of different parts. 
+Domain: 
+Medical Instrument , designed for highly safe , accurate and error free environment. 
+Role: 
+Involved in the following tasks as part of the project responsibility. 
+Involved in system understanding and requirement definition of the system and the processor board. 
+Involved in Microcontroller and Important component selection. 
+Designed the details of individual sub-systems and their electronic circuitry. 
+Complete Power Supply design for the board and system including input and output protection against transients. 
+Careful study of component datasheets, application notes and Circuit design. 
+Creation of component libraray, high level and low level schematic in cadence ORCAD. 
+Performed Component placementof design in the PCB Layout- Categorized power supply protection, PCB stack up definition and Power Plane definition. 
+Provided support to software and firmware engineering teams to test the PCB during systems integration compilation of extensive test reportsfor the tests conducted. 
+PWM DRIVER FOR DC MOTORS H Bridge 
+Description 
+Basic structure of PWM Driver was H-Bridge. It contains four Power Mosfets, which were being driven by PWM pulse through Microcontroller to their respective gates. H-Bridge works on 15 Khz Frequency. 
+Role 
+Involved in the following tasks as part of the project responsibility. design ,development and implementation of PCB. 
+design of Snubber Circuit, TVS,Shoot Through, Over Current Protection Circuit. 
+Involved in component selection and cost reduction activities. 
+Created and maintained clear and detailed design documentation- High & low level design document. 
+ACADEMIC PROJECTS: 
+EYE DETECTION AND TRACKING FOR DROWSY DRIVERS 
+Description 
+An efficient eye detection algorithm is employed to detect the eyes. The system uses a digital camera that points directly towards the driver s face and moniters the drivers eyes in orders to detect fatigue .This method is mainly used for detecting the drivers who are drunken and by this ,we can reduce the accidents that are occuring. 
+CUSTOMIZED BOARDS FOR DIFFERENT CUSTOMERS 
+Designed many Customer product boards based on AM180S, SPDT, DPDT Relays. The 
+Customers Include Crompton Greaves, Secure Meters, Mind Tree. 
+EDUCATIONAL 
+CREDENTIALS 
+B-Tech in Electronics and Communication Engineering Anna University.(74 %) 
+Post Graduate Diploma In Industrial Automation, with PLC, SCADA. 
+AISSCE (+2) 
+CBSE , 2007- 70% AISSE(10TH )- CBSE,2005- 79%. 
+PERSONAL DETAILS 
+Date of Birth 
+:15-May-1990 
+Gender : Male. 
+Martial Status :Single. 
+Nationality :Indian. 
+Religion :Hindu 
+Father s Name :K.Surendran Pillai. 
+Languages Known : English, Malayalam, Kannada, Hindi. 
+DECLARATION: 
+I hereby declare that the details furnished above are true up to my knowledge. 
+Place : Bangalore. 
+SOORAJ.S 
+Date: 01-01-2017 

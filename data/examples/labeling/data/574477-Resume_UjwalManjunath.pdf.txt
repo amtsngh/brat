@@ -1,0 +1,34 @@
+Ujwal Manjunath #82/41 15th main, 15th cross Padmanabhanagar, Bengaluru 560070 
+9686451028| muddu1990@gmail.com 
+EDUCATION Old Dominion University Norfolk, VA Master of Science: Computer Science, GPA 3.4 2011 
+2013 Coursework: Mobile Application Development, Computer Architecture, Algorithms, Visual Analytics, Web Programming, Systems Programming, Distributed Systems and Database Concepts. 
+Visvesvaraya Technological University Bangalore, India Bachelor of Engineering: Computer Science, GPA 3.3 2007 
+2011 Coursework: Operating Systems, Algorithms, Database, Unix Shell Programming, Data Structures and Object Oriented Programming Concepts. 
+EMPLOYMENT 
+Deloitte Digital Denver, CO Senior Software Engineer 2013 2017 
+Developed IOS applications for iPhone, iPad and Apple Watch. 
+Developed Web applications and algorithms. 
+Built Chatbots, TVOS apps, applications for Alexa and experimented new architectural design patterns (VIPER) to further professional development. 
+Old Dominion University Norfolk, VA Graduate Assistant 2011 2013 Developed and helped maintain a web portal for students to upload assignments, and check grades and other course related information 
+Lead weekly status meetings and supervised a team of 5 other engineers. 
+PROJECTS Liverpool/Fabrica de Francia Sales Application Denver, CO Senior IOS Engineer 2016 2017 
+Helped rewrite all the UI components/animations in the application. 
+Assisted in setting up the Appearance Manager which would generate different UI colors and assets based on which app was running. 
+Set up regular code reviews with a team of engineers working offshore and ensured code quality. 
+Worked with the in-house design team to build a seamless experience for the user. 
+Helped with migration of code from Swift 1.2 to 3.0. 
+Bed Bath & Beyond/BuyBuy Baby Mobile Application Denver, CO Senior IOS Engineer 2015 2016 
+Setup caching of catalog items using core data. Created a private child NSManagedObject Context to cache data asynchronously. 
+Designed the architecture of the entire application using MVVM, singleton, delegation and Observer design patterns. 
+Built a navigation manager which handles all the application routing. 
+Aided in integrating some IOS features such as touch ID and 3D touch. 
+Worked closely with an offshore team and ensured that the project was delivered on time. 
+Assisted in developing an Augmented Reality (AR) experience within the app using the Vuforia framework. 
+Integrated WKWebView and set up a WKScriptMessageHandler to receive messages from Javascript running on the webpage. 
+Created frameworks to ensure and improve code reusability between Bed Bath and Beyond and Buybuy Baby. 
+JCPenney Mobile Application Denver, CO IOS Engineer 2014 2015 Helped with setting up the service architecture of the application. 
+Developed UI components and animations using core animation framework. 
+Assisted in setting up the core data and network stack. 
+Integrated Google Analytics to gather application usage data and Crashlytics to report crashes in the application. 
+SKILLS Programming Languages Swift, Objective -C, C#, C, C++, Shell Scripting, Python, SQL, PHP, JavaScript and Java. Development Tools XCode, Android Studio, Visual Studio and Microsoft SQL Server. Design Patterns 
+Model View Controller (MVC), Model View ViewModel (MVVM), VIPER, Delegation pattern, Observer pattern and Singleton Pattern. 

@@ -1,0 +1,57 @@
+ ANUSHA HN 
+(+91) 9986089058 
+anushahn@gmail.com 
+Permanent Address: 
+#37, Nisarga, 5th main road, Shakambari Nagar Sarakki extn, J.P. Nagar 1st phase, Bangalore-560078 Objective 
+To pursue excellence in the field in which I work, contribute to the best of my skills, to work hard for the organization and to keenly look forward to meet challenges in a dynamic environment Summary 
+Hands on experience in managing IT Infrastructure Monitoring tools. 
+Working experience on ITM (both 5.x and 6.x), Tivoli Management Framework, Tivoli Enterprise Console, Tivoli Configuration Manager, Netcool and BMC Patrol and Guard Monitoring 
+Having good working knowledge on Windows server infrastructure as well as on 
+AIX 6.1 Basic Operations System Administrator Certified professional and also certified for Ibm Tivoli Composite Application Manager ITCAM for RRTv 7.2 Professional Experience 
+Technical Services Specialist 
+IBM India Pvt Ltd (12/2015-Present) 
+Client: The Co-operative Banks 
+Senior System Management Specialist 
+HCL Technologies-IOMC 
+(11/2013-11/2015) 
+Client: Lloyds Banking Group 
+Tivoli System Administrator 
+IBM India Pvt. Ltd (12/2010-10/2013) Client : Danske Bank, Bank of Ireland and over 120 customers across the globe for BMC Patrol and Tivoli Monitoring for Cloud Managed Service Delivery. 
+Environment: ITM 5.x, ITM 6.x, TEC V3.8, TMF V3.7, BMC 3.x and Guard Monitoring 
+Key Responsibilities 
+Installation, configuration, deletion and maintenance of endpoints/agents across different operating systems. 
+Expertise on installing and configuring the ITM 6.3. 
+Expertise on installing and configuring the ITM 5.x 
+An active team leader with Excellent communication and interpersonal skills Proficient Knowledge in installing Tivoli Products on Solaris , Linux and Windows,AIX Basic knowledge on OMNIBUS 7.x. 
+Basic knowledge on Probes (Ping, SNMP, EIF) 
+Maintaining and troubleshooting Tivoli environment. 
+Strong knowledge on ITM 5.x troubleshooting of endpoints which are offline Comfortable in working in all OS environments with expertise on MS Office skills Excellent troubleshooting knowledge using error logs 
+Comfortable and sound Tivoli 
+Administration skills 
+Excellent troubleshooting skills on any agents/endpoints across the environment Tools: 
+Maximo HP Open View 
+Siebel Educational Details 
+Bachelor of Engineering from Dayananda Sagar College of engineering 
+(Visvesvaraya Technological University) in 2010 with 67.32 %( First Class with Distinction). 
+Class 12 (Pre University Board) from Vijaya College in 2006 with 71.66% (First Class) S.S.L.C. from Saint Pauls English High School in 2004 with 85.28% (First class with Distinction) Skills/Abilities/Knowledge 
+Skill Name Skill Level Last Used/Experience 
+AIX 6.1 Expert 
+Currently used/5 years 
+Tivoli Monitoring 6.3.5 Expert 
+Currently used/5 years Tivoli Management Framework Expert 3 years 
+Tivoli Enterprise Console Expert 3 years 
+ITCAM Intermediate 3 years 
+Tivoli Monitoring 5.x Intermediate 3 years 
+Netcool Intermediate 1 year BMC Patrol Monitoring 3.x and 7.x Inter 1 year 
+Tools Document editing : MS-Office, Lotus Symphony 
+Monitoring tools : 
+ITM 5.x, 6.x, TEC , BMC Patrol 
+Ticketing tools : Maximo, Service center , Service Manager , Siebel Trainings Attended 
+Tivoli Suite (ITM5.x,TMF,TEC,TADDAM,NETCOOL/Omnibus) training at IBM Pvt Ltd, Chennai 
+(December 2010) ITIL training at IBM Pvt Ltd, Chennai (August 2011) Personal Details: 
+Name: Anusha HN 
+Fathers Name: Nagaraj H 
+Mothers Name: Shantha Date and Place of Birth: 10-Jan-1989, Bangalore, Karnataka 
+Nationality: Indian 
+Language Known: English, Hindi, Kannada, Tamil. 
+Date: Place: Anusha HN 

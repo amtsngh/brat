@@ -1,0 +1,58 @@
+1 
+Gokhale Mayur K. 40/2, New Arvindnagar society, B/h Samjuba Hospital, Bapunagar, Ahmadabad 380024 
+Email : gokhale.mayur89@gmail.com 
+Mobile : +91 9377714589 
+CAREER OBJECTIVE 
+Seeking a challenging position in the area of Software Testing in a Professional Organization, where my skills and my education background can add value to the growth of the organization and allow development of my skills to organization potential in the field of Testing. 
+SUMMARY QA tester with around 4 years of experience in full system development life cycle, including designing,developing and implementing test plans,test cases and test processes fueling swift corrective actions,significant cost savings and fault-free audits Possess communications skills and team oriented with proven leadership capabilities with proven ability to integrate out of the box thinking & problem solving analysis to improve processes, systems, and methodologies. 
+Hands-on technology professional accustomed to working in complex, project based environment. Multifaceted experience in QA software testing, software development and user-acceptance testing. 
+Backed by strong credentials including a computer science degree and Testing certification, agile methodologies and monitoring tools; and cross-platform skills in Windows and Macintosh. 
+Certificate of Automation and Manual software testing from ATS Infotech Pvt. Ltd. in pune Experience in testing web based applications and desktop applications Experience in techniques like Functional, ad-hoc, Sanity, Smoke, GUI, regression and system testing Experience in preparing Test cases using requirement documents 
+A thorough under standing of the software development process Extensive knowledge of the full software testing life-cycle Excellent team player, individual contributor and meeting with project deadlines 
+WORK EXPERIENCE 
+Currently working in Sooryen Technologies as Quality Analyst since Sep 2015 till date. 
+Projects : zteusa, Tatesbakeshop, Kahnlucas , Moovweb on moov checkout module, Sportsvenue and Saveday (Based on 401K plan) 2 
+Responsibilities: 
+1. Created performance test script for Kapitall and Tate s Bake Shop in Jmeter 
+Created performance test script for the different scenarios Analysed bottleneck to identify the performance load on the application 2. Automated ZTEUSA and TatesBakeshop website in selenium using testng framework and third party reporting APIs 
+Creating scenarios and test cases for the web applications Tested the functionalities in all browsers and bug reporting along with mapping and reporting Automated ZTE website in selenium using testng framework 
+I have 1.5 years of experience in StayinFront India Pvt Ltd, Gandhinagar, as Software Tester from April 2014 to Sep 2015. 
+Writing test script based on FRS in HPQC 
+Executing test scripts which are written in HPQC (10.0 and 11.0) and bug reporting Doing server setup and upgrade testing also 
+I have also worked on their website testing project. 
+I have one year experience as Software Tester in URL Software Pvt Ltd. 
+I was doing manual testing on their different client s websites. 
+Doing testing based on the clients requirements and FRS given by the clients and recording test report in Excel sheet. 
+I was also doing some database testing related to the web site. 
+Preparing test scenarios and test cases for testing and reporting bug to the developers. 
+TECHNICAL EXPOSURE 
+Testing Tools HPQC (10.0 & 11.0) Performance Testing Tools JMeter(3.0) 
+Bug Reporting Tools 
+Jira , BugZilla Programming Tools Selenium (IDE and Web Driver(3.0) ) 
+Database Tools MySQL 3 
+Operating Systems Windows 
+Editing Tool Eclipse 
+ACADEMIC CREDENTIALS 
+Course Board/University Institute Percentage 
+/CPI 
+Month & Year of Passing 
+S.S.C. GSEB The H. B. K. High 
+School - Ahmedabad 79.43% March 2004 
+H.S.C. GSHEB Axay High School Ahmedabad 53.20% March 2006 
+B.Sc. Gujarat University C. U. Shah Science 
+Collage,Ahmedabad 58.38% March 2009 M.C.A. GTU CPIMCA 7.3 CPI April 2013 
+CO CURRICULAR ACTIVITIES 
+Preparing dissertation on Google Web Toolkit . 
+Developed a mini Project on Airline Reservation System . 
+Prepared a presentation on Introduction of networking . 
+STRENGTH 
+Strong Interpersonal and Communication skills. 
+Strong commitment to quality. 
+Determination, dedication, and discipline. 
+Willing to learn and adapt to new opportunities and challenges. 
+4 
+PERSONAL INFORMATION 
+Date of Birth : 14th May 1989 
+Nationality : Indian 
+Marital Status : Single 
+Languages : English, Hindi, Gujarati 

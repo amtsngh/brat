@@ -1,0 +1,28 @@
+ Ankit Kathuria 
+ankitkathuria534@gmail.com | 8146521550 
+EDUCATIONAL QUALIFICATIONS Examination School/University Year of Passing CGPA 
+B.E CSE UIET,PU 2017 8.20 CBSE(12th) GMSSS, sector 16 Chandigarh 2013 90.2 CBSE(10th) GMHS sector 26,Chandigarh 2011 9.2 
+ACADEMIC ACHIEVEMENTS Represented UIET in ACM ICPC 2016 Regionals in Amritapuri , Kerela. 
+Worked as Problem setter/tester in UIET Campus Chapter Codechef. 
+Reached Codechef Snackdown 2016 s semi-finals. 
+Ranked 2nd in UIET, in ACM ICPC 2015. 
+TECHNICAL SKILLS Languages: C/C++(Proficient),,Python(Proficient), Java(Beginner) 
+Front end languages: HTML, CSS , Javascript and JQuery(Beginner). 
+Worked with git and familiar with version control system. 
+Knowledge of Data Structures, Algorithms, OOPS Design, Thread and Process Management. 
+Familiarity with Apache Thrift, Qt , PostgreSQL, Django , C++ STL and Boost Library. 
+Worked with MySQL, and UNIX / LINUX environment 
+EXPERIENCE Software developer, uTrade Solutions Pvt Ltd (Jan 2017 - Present) 
+Working on the design and implementation of front end modules in Qt and C/C++ for a desktop application that facilitates online automatic algo based trading. 
+Worked in Django/Python for a web app used by Enterprises and Financial Firms for manual online Trading. 
+Working on the API that connects the desktop app to remote database using remote procedure calls implemented as a thrift API service. 
+PROJECTS HANDWRITTEN DIGIT CALCULATOR 
+A calculator without a keypad that takes input from an image of the expression and calculate the result. 
+The project uses image processing and pattern recognition to identify the handwritten digits. 
+DATA STRUCTURES LIBRARY 
+A library that contains a template of all the data structures like graphs, heaps, Binary Search Trees etc. 
+and algorithms that are frequently used for efficiency, and those can be directly used by the developer. 
+MOVIE LIKENESS PREDICTOR AND RECOMMENDER 
+A python based web app that predicts the user rating of a movie, based on the user s Facebook profile and his previously rated movies. 
+TIMETABLE MANAGEMENT SYSTEM 
+A web platform where students and teacher can get their whole day schedule on their systems with notifications prior to class. 

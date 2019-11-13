@@ -1,0 +1,81 @@
+p Uday Raj Gupta 
+Email: udayrajguptaaa@gmail.com 
+Mobile: +91-9742695479 
+OBJECTIVES: 
+To associate myself with a growth oriented enterprise and strive to achieve the goals of the organization, contemplating sustained individual growth through diligent hard work and self improvement by imbibing virtues of the hiring instituted, in any demanding work/working conditions. 
+PROFESSIONAL SUMMARY: 
+2.9 years of work experience in MySQL as a DBA. 
+Excellent knowledge and solid experience in MySQL Architecture and Database 
+Design. 
+Excellent knowledge in creating new databases and users, Administrating security levels Privileges, setup schedule backups and failover alerts, Import and Export backups, crash recovery, using MySQL utilities and other monitoring scripts. 
+Good knowledge in database backup, Cold backup, hot backup, Incremental backup, Compression backup, Parallel backup and Scheduler backup. 
+Good expertise in Installing different versions of MySQL dedicate servers on Linux and Windows NT/2003/2000 and setting best configuration parameters based on application behavior. 
+Implemented MySQL Replication (Master-slave, Master-Master) and Monitoring 
+Replication,Server Administration, MySQL Enterprise monitoring, backup and recovery. 
+Excellent knowledge and hands on experience of Optimizing MySQL server settings on General Tuning, Tuning MySQL s I/O Behavior, Tuning MySQL Concurrency and Workload-Based Tuning. 
+Good knowledge in MySQL Table Partitioning(Partitioning by Range,List,Key, Hash). 
+Scheduling jobs for daily database backup , replication fail over alerts,mMaximum connections reach and slow queries. 
+Experience on Normalization, De-normalization, Database modeling and EER diagrams. 
+Good at relational Databases design using MySQL 5.1, 5.5,5.6 Excellent knowledge and solid experience in SQLYog, MySQL Workbench, MySQL Benchmark,MySQL Proxy and MySQL query browser. 
+Good at coding, debugging and writing Stored Procedures, Functions, Triggers and Views by maintaining the standards to meet organization requirements and customer expectations. 
+Good at troubleshooting for technical problems and understanding the system. 
+Excellent time management skills for handling multiple projects. 
+Active team player and a self-starter, capable of working independently. 
+Ability to define short, mid and long-term goals. 
+Intense desire to create new and innovative solutions. 
+Ability to work independently on large projects. 
+Expertise in Developing Database. 
+Good programming skills in shell scripting. 
+Experience in Linux & Solaris administration skills. 
+WORK EXPERIENCE: 
+A junior Database Administrator at ConnectM Solution Banglore from march 2014 to till date. 
+ACADEMIC PERFORMANCE: 
+MCA from LNCT Bhopal securing 76% BCA from DAVV Securing 60%. 
+TECHNICAL 
+SKILLS: 
+Database : MySQL(RDBMS),MongoDB(NoSQL) 
+Operating system : Windows (xp, vista, 7, 2000/3/8), Linux (RHEL, CentOS) 
+Languages 
+: C,Shell scripting Tools 
+: MySQL query browser, Sqlyog community,Workbench 
+PROJECT HANDLED: 
+Project Name REMOTE ASSET MANAGEMENT FOR TELECOM TOWERS 
+Client VIOM 
+Description Availability of Cellular and Wireless networks is heavily dependent on the uptime of equipment installed at Telecom Cell Sites. A large percentage of telecom sites are located in remote locations. Most of these are practically unmanned and ensuring uptime of These sites at minimized operating cost are a challenge that most network operators face every day. This solution enables continuous real-time monitoring and controlling of Tower equipment and Analytics using trending, predictive modelling, scheduling and forecasting techniques. The purpose of the remote monitoring is to pre-empt the occurrences of the network outages that may happen from time to time at remote sites and to have control over the site utility equipments and consumables. This solution also helps in improving the performance of the operation & maintenance team in reducing multiple costs involving the site management. 
+Roles & Responsibilities 
+Schedule daily backups and configured DB related alerts. 
+Creating Users And giving particular privileges Replication configuration And Monitoring 
+Write report quires, stored procedures, user defined functions and Triggers as per requirement. 
+Query optimization and server tuning. 
+Implemented DB level security 
+According to customer requirement preparing reports 
+Done database migration activity Project Name ENERGY MANAGMENT SOLUTION 
+Client AMDOCS 
+Description EMS is designed to help intelligently monitor and optimize the energy consumed by the various energy assets like lighting, HVAC and DG sets etc. through eBMS 
+(energy Building Management System) on the Cloud. 
+eBMS (asset monitoring & control): Energy assets like HVAC (split AC, VAV, AHU) and lights are monitored and controlled intelligently to save energy without compromising on comfort and health (information gathered using sensors like motion, opto, temperature, humidity, CO2 etc.). Also provides useful applications like meeting room availability , workspace management, security etc. 
+Roles & Responsibilities 
+Implemented compressed backups Schedule daily backups and configured DB related alerts Configured replication and replication failover alerts Write report quires, stored procedures, user defined functions and Triggers as per requirement. 
+Query optimization and server tuning. 
+Implemented DB level security 
+Interacting directly with customer and according to requirement doing changes in database. 
+PERSONAL STRENGTH: 
+Self-confident. 
+Willingness to learn Ability to work in a team and posses leadership qualities. 
+Ability to deal with people diplomatically. 
+PERSONAL DETAILS: 
+Father s Name : Mr. Bharat Gupta 
+Mother s Name 
+: Mrs. Maya Gupta 
+Date of Birth 
+: 14th Dec 1987 
+Sex 
+: Male 
+Nationality 
+: Indian 
+Religion : Hindu 
+Languages Known : English , Hindi 
+Thank You, 
+Date: 28-07-2016 
+Place: Bangalore 
+(Uday Raj Gupta) 

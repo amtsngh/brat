@@ -1,0 +1,81 @@
+ 
+Name: 
+Rishabh Shrivastava 
+Mobile: +91-8743090881 
+Email: rsrishabhsrivastava@gmail.com 
+Job Role: Quality Analyst 
+Objective: 
+To constantly devote towards enhancing the spectrum of knowledge and be an integral part of the organizations growth with technical and societal impact. 
+Experience: 
+1. Associate QA (Working in Sapient Consulting Pvt Ltd, Gurgaon on payroll of Magna InfoTech, Gurgaon ): October 2015 to till date. 
+2. Quality Analyst (Creative Web Logix, Noida): October 2012 to October 2015 date. 
+Professional Summary: 
+Engineering Professional having about 4+ years of testing experience. 
+Involvement in Software Test Life Cycle. Experience in Manual Testing (Test Case Design, Test execution and Collecting Test Data). 
+Expertise in Bug Tracking Process, Familiar with Bug Reporting and Tracking Using Bug Tracking Tools. 
+Experienced in Functional Testing, Regression Testing and Site Acceptance Testing. 
+Experienced in the usage of MS Office, specifically Word, Excel and Access. Knowledge on SQL to conduct database Testing. 
+Write the script for selenium automation testing using UTAS framework. 
+Experienced in creating requirement, test case and mapping and execute test case in Test Link. Experienced in client handling. 
+Experienced in Firefox developer tool bar, Chrome developer toolbar Testing Skill Sets: 
+Manual Testing: Level of Testing, Creation of Test cases, Test cases execution, Regression testing, Bug reporting, Bug Verification. 
+Testing Tools: Cooper, Bugzilla, Bug herd, Litmus, Mantis BT, Jira, Test Link, Selenium (Java) Data Base : SQL 
+Operating Systems : 
+Windows XP, Window 7, Mac 
+Browsers : IE 8 / 9 / 10/ 11, Mozilla Firefox, Google Chrome & Safari 
+Testing Methods: Manual Testing, Black box Testing, Integration Testing, and Regression Testing. 
+Test Link Mapping. 
+Automation: Creation of Automation script using selenium web driver (Keyword driven plateform) 
+Project Profile: 
+Project Title 1: - EON (http://www.eon.com/en.html (http://www.eon.com/en.html)) 
+Technologies: - Windows XP, Window 7, MAC, AEM 5.5 (Adobe Experience Manger) 
+Browsers :- Firefox, Chrome, Safari, Internet Explorer 
+Responsive : IPad, IPhone, Android 
+Automation : Creation of Automation Script using selenium web driver(Keyword driven platform) 
+Role: - 
+QA Associate 
+Project Description: 
+Eon is the German based project, Project was made on AEM 5.6 version on java technology. 
+EON UK (formerly Powergen) is an energy company in the United Kingdom and a subsidiary of E.ON, the worlds largest investor-owned power and gas company. 
+In the project there are two types of customer, "Private Customer" and "Business Customer". As per customer type consumption are differ when customer need a connection from the EON. 
+Eon has four types of subsidiaries like Intranet, Internet, Unipper and DE. 
+Responsibilities: 
+- Test case preparation using requirement documents. 
+- Perform Functional Testing. 
+- Perform Sanity, regression Testing ETC. - Perform GUI Testing and Usability Testing. - Filing and reporting bugs to the development team. 
+- Perform Author mode testing. 
+- Update the execution tracker. - Perform Internal demo & Client demo. 
+- Test Link Mapping. 
+- Defect tracking using in Jira. 
+- Creation of Automation Script using selenium web driver(Keyword driven platform) Project Title 2: - RBS (Royal Bank of Scotland) (http://personal.rbs.co.uk/) 
+Technologies: - Windows XP, Window 7, MAC, AEM 6.1 (Adobe Experience Manger) 
+Browsers :- Firefox, Chrome, Safari, Internet Explorer 
+Responsive : IPad, IPhone, Android 
+Automation : Write the script in excel-sheet for selenium automation testing using UTAS framework 
+Role: - 
+QA Associate 
+Project Description: 
+This is a AEM base project on 6.1 version, In this user can create their accounts for access the bank site, and can use their different bank tools like cashback plus calculator, credit card. Email tool etc., user can get reward also from bank side as per the expenses of user in different environment etc. There are two brands of bank RBS and NatWest. 
+Responsibilities: 
+- Test case preparation using requirement documents provided by development team. 
+- Perform Functional Testing. 
+- Perform Sanity, regression Testing ETC.. - Perform GUI Testing and Usability Testing. - Filing and reporting bugs to the development team. 
+- Perform Author mode testing. 
+- Update the execution tracker. 
+Education: 
+B.TECH in Information Technology from R.R.I.M.T. in 2012. 
+Intermediate from U.P. Board in 2008. 
+High School from U.P. Board in 2006. 
+PERSONAL INFORMATION: 
+Date of birth : 21 
+10 
+1991 
+Sex : 
+Male Nationality : Indian 
+Address : Mamura-Sec66, Noida, U.P. 
+Languages Spoken 
+: 
+Hindi, English 
+DECLARATION: 
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 
+Rishabh Shrivastava 

@@ -1,0 +1,59 @@
+SOHIL GUPTA 
+Contact Information 
+Phone: (M) +91 9845915725 
+Email: sohilgupta123@gmail.com 
+Objective 
+To garner as much as possible knowledge and turn it into substantial output as best of my calibre. 
+Experience 
+Member of Technical Staff @ Accrete Globus Technology from 2nd July 2014. 
+Job Role(s) 1. Managing the I.T. Infrastructure of the company, from production, staging, testing, and development nodes to deployment, up time management etc. 2. Designing simpler solutions to complex problems for business clients 3. Leading and Managing a small team (4) of developers efficiently to ensure a quality output and timely deliveries. 
+Certifications 
+Current Red Hat Certified System Administrator, Red Hat Certified Engineer, Red Hat Certified RH423, Red 
+Hat Certified RH429, on Red Hat Enterprise Linux 6, since 29th December 2013, Certificate No: - 120- 143-342. 
+Certified Microsoft Specialist Programming in HTML5/CSS3. 
+Current Certified Ethical Hacker, on CEHv7, since 7 January 2013, Certificate No: - ECC973506. 
+Achievements 
+Winner at Tehnika Naitus 11 a National Level Project Competition at Arya College of Engineering and 
+I.T. 
+Winner at Exergie 12 a National Level Technical Carnival at Arya College of Engineering and I.T. 
+Runner Up at Shradhanjali 13 a National Level Cultural Festival at Arya College of Engineering and I.T. 
+Educational Qualification 
+Milestone Board/University Percentage Year 10th (Matriculation) CBSE 62.3 2008 
+12th (Intermediate) CBSE 64.8 2010 B-Tech RTU 66.07 2014 Projects 1. Digital Signage: 
+Providing a platform to connect android T.V. to a centralized server and play advertisement videos, real-time tweets and cricket scores on them. 
+Role: Creating the web-app, mobile services to control the android boxes in PHP. 
+2. E-commerce: Building customized ecommerce websites for various industries like furniture, apparels etc. from scratch on core PHP. 
+Role: Creating the website for end user customer and web app for third party sellers 3. Process Automation: Providing customized business solutions in core PHP and Android for automating various business processes. 
+Role: a) Designing the product flow to cater to multiple clients, taking care of multiple constraints. 
+b) Taking responsibility of timely delivery by leading a team of developers to meet the requirements and deadlines. 
+c) Staying in touch with the customers to take care of the changing business models and providing them with the most feasible solutions accordingly d) Implementing complex processes to simplify the product and provide end customers with ease of accessibility. 
+Proficient Skills 
+Frontend HTML5, CSS3, JavaScript, jQuery UI, jQuery, Android, Twitter Bootstrap, Zurb Foundation 
+Middleware 
+Socket IO, Ajax, Notations XML, JSON 
+Backend PHP, Node JS 
+Database MySql Server Side 
+Varnish, Memcache, Memcached, Opcache, HHVM, Wkhtmltopdf etc. 
+Others C, C++, Java SE, JSP, Servlets, Action Script, Python, XMPP 
+Training and Internship 45 Days Summer Training at Add Value Software in JSP Servlets. 
+45 Days Summer Training at CMC Limited Delhi in Android. 
+45 Days Internship at AGT as PHP and Android developer intern. 
+Workshops and Seminars 
+Garuda Boot Camp on distributed and grid computing in PRL Ahmedabad. 
+Ethical hacking & Security in Arya College of Engineering and I.T. 
+Linux Workshop by Spoken Tutorials IIT Bombay at Arya College of Engineering and I.T. 
+PHP-MySQL Workshop by Spoken Tutorials IIT Bombay at Arya College of Engineering and I.T. 
+Co-Curricular Participation 
+Organized Workshops conducted by Spoken tutorials at the college. 
+Event Head at the college technical carnival 
+Exergie 12. 
+Assisted in Organizing Tehnika Naitus 12. 
+Organized inter college ethical hacking workshops. 
+Interests and Hobbies 
+Computer Gaming, Penetration Testing, Soccer, Social Networking, Testing new Technologies and Applications. 
+Personal Information 
+Father s Name: Sanjeev Gupta 
+D.O.B: 3rd February 1993 
+More Details 
+Linked In 
+Website 

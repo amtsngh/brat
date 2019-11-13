@@ -1,0 +1,62 @@
+Yogesh Shinde PMP 
+ypshinde@yahoo.co.uk / LinkedIn / Skype: ypshinde1980 / Mobile: +91-9890108569 
+Experience Summary 
+Senior Project Manager with 15 years of experience in Information Technology. Over 7 years of experience in driving complex telecom programs for companies like AT&T and British Telecom (1 million budget). 
+Expert in techno-commercial solution delivery across technology domains and vendor organizations through Agile (SCRUM) methodology as well as Waterfall SDLC. 
+Expert in defining processes, metrics, developing project teams. 
+Excellent communicator and people manager. 
+Valid USA B1 VISA 
+Professional Certifications 
+PMI Certified Project Management Professional (PMP) 
+QAI Certified Software Quality Analyst (CSQA, 2005 2008) 
+CA Endevor Change Manager 
+Serena ChangeMan ZMF implementation and Project Management 
+Skill Set 
+Technical: Agile (SCRUM) project management, Operating Systems 
+Mainframe (Z/OS, OS390) Programming & Scripting Languages COBOL, JCL, CICS, HTML, XML, ISPF Skeleton programming Tools 
+Serena-ChangeMan, CA-Endevor, ISPF, DB2I 
+Databases DB2, Oracle 
+Telecom Functional 
+Billing, AAA, PCRF, Online Charging, Service fulfillment, MSO, eTOM Experience Summary 
+Duration Organization Designation 
+28-Mar-16 till present Sterlite Technologies (Elitecore) Senior Project Manager 
+20-Oct-2008 till 10-Mar-2016 TechMahindra Project Manager 
+30-Nov-2004 till 17-Oct-2008 Capgemini Senior Consultant 
+27-Feb-2002 till 26-Nov-2004 Computer Sciences Corporation Software Engineer 
+06-Jul-2001 till 31-Jan-2002 
+Bitwise Solutions Programmer 
+08-Jan-2001 till 29-Jun-2001 Cognizant Technology Solutions Programmer Trainee 
+Sterlite Technologies (Elitecore) 
+March 2016 till Present CRESTEL Professional Services Group: Elitecore Technologies, is a part of Sterlite Technologies Limited. it is a global IT product company providing O/BSS alongside packet core with flexibility of modular and pre-integrated offerings. Adhering to TM Forum and 3GPP standard, Elitecore telecom offerings are compatible to large vendor ecosystem addressing to operators requirement of faster time-to-market and better TCO. As experienced IP solutions player, Elitecore products are highly responsive to next-generation services, fulfilling operator monetisation needs across the access networks. Elitecore has over 150+ network deployments for 52 service providers with presence across 40+ countries. In current profile I lead & direct project teams for product implementation in PCRF, AAA, Diameter, Radius, Online Charging and Billing areas. 
+As a Senior Project Manager I am responsible for Programme management (Lead & direct project teams to customize & implement Elitecores COTS) 
+Functional Design (Solution) reviews, HLD and LLD reviews & sign-off Team development Customer management Revenue management/ Business growth Tech Mahindra Limited October 2008 till March 2016 BTGS Delivery Hub (ANDES Transformation) - IP Connect Global is an intelligent IP VPN network service on the global MPLS platform. Andes Transformation is a multi-year programme to transform the existing architecture / applications/ solutions into new cost effective and more efficient solutions. Delivery Hub is setup in order to ensure timely delivery of BT business objectives (Agile development) within desired budget and quality. 
+As an E2E Delivery Manager - Led E2E delivery of complex business requirements by Defining delivery roadmap, providing leadership to OSS Design, Development and Testing teams, Product Launch & Operations Support groups. 
+Managed the stakeholder expectations, Liaised between business (BT Product/ Business) and vendor Organizations (Design, Development and Testing teams) Managed risks & issues and ensured timely reporting to internal and external stakeholders. 
+Ensured that the Cost, Quality and Schedule targets are met. Provided oversight to scoping activities based on business priorities and release schedules. 
+Aligned development activities based on sprint plan/ release plan 
+Executed sprint plan to ensure timely delivery (Agile Methodology SCRUM) 
+Tracked the schedule & efforts. And ensured that milestones such as CST drop dates, S&T, Demo dates are achieved Capgemini India Pvt. Ltd. December 2004 till October 2008 
+Global Frame work: The Global Framework provides comprehensive software and release configuration management for VisionPLUS, Gold Plus and the home grown sub-systems and enhancements that constitute the WHIRL Core system. 
+The Global Framework supports not only the development and enhancement of the WHIRL Core system; it provides tools to aid in WHIRL implementation for all HSBC SBUs that issue credit cards As a Project Leader 
+Led technical delivery team of VisionPLUS compliance/ releases Coordinated with business stakeholders to document business requirements Participated in Release & Deployment planning Supported deployment and post production support activities. 
+Defined software process & product metrics for CMMi assessment. Conducted quality audits. 
+Environment: 
+IBM Mainframe Z/OS, COBOL, VSAM and JCL, ChangeMan, Xpediter under VisionPLUS credit card services package 
+CSC India Pvt. Ltd. January 2002 till November 2004 Hogan Card & Merchant System (CAMS II): The CAMS II system from CSC supports virtually every form of card and electronic oriented transaction requirement and merchant acquirers, providing the functional and technical foundation necessary to help support the future of global payments. CAMS II can handle 100 million accounts and high volumes of card transactions. CAMS II provides all language options. The compliance functionality is isolated in order to minimize the impact of regulatory updates from network providers such as American Express, Euro pay, MasterCard and Visa. 
+The scope of project included the following: Customer Support and Enhancement to current system. 
+As a Developer 
+Analyzed business requirements, Created technical specifications (Computer System Design) Coded COBOL programs, VSAM, JCL 
+Carried our unit testing as well as system testing 
+Environment: IBM Mainframe Z/OS, COBOL, DB2, JCL, UMB CQS (reports), Control-M under Hogan technical platform Bitwise Solutions Pvt. Ltd. 
+July 2001 till January 2002 Cash Back Bonus (CBB): This was a development project for Discover Financial Services (DISCOVER card). Discover card is one of the largest Credit Card Companies in U.S. A. both as acquirer of credit card transactions as well as card issuer. It was a multi-Phase project. The Phase 1 completed in BITWISE Solutions was to re-engineer the rewards program offered to the DISCOVER credit card holders. 
+As a Developer Coded COBOL programs, VSAM, JCL 
+Carried our unit testing as well as system testing 
+Environment: IBM Mainframe Z/OS, COBOL, DB2, VSAM, JCL, and Endevor 
+Cognizant Technology Solutions India Pvt. Ltd. January 2001 till June 2001 
+Performance Compass (PC): FORUM is the largest provider of outsource training management services in U.S.A. helping large companies improve leadership, management and service excellence. Forums Performance compass, a web based 360-degree feedback and development-planning tool for career and self-development. The project was to re-architect PC in new system having EJB based application server to make the system flexible for any functional upgrades in future and maintenance easier. As a Developer Worked on Actuate Reports (Data Analysis), Javascript and HTML. 
+Carried our unit testing 
+Environment: Actuate Reports, IBM Webshpere (App. Server), IIS (Web Server), EJB and HTML 
+Academic Qualifications 
+MBS (Master in Business Studies) from University Of Pune in 2012 with first class Post graduate Diploma in Advanced Computing from CDAC in 2001 with Grade B+ (72%) 
+B.Sc. (Physics) from University Of Pune in 2000 with first class 
+Page 1 of 2 

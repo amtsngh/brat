@@ -1,0 +1,66 @@
+SHARANAGOUDA KONASIRASAGI 
+Email: Sharanu.mdl@gmail.com 
+Mobile: +91-9901166698 
+Objective 
+Seeking a position in a challenging and creative environment where I can effectively contribute towards the growth of the organization. 
+Educational profile Standard University/Board Institution Year Percentage 
+B.E (E&C ) 
+VTU Belgaum AIET Gulbarga 2015 68.43 Diploma DTE Bangalore 
+N.V Polytechnic Gulbarga 2011 65.48 
+S.S.L.C 
+Karnataka Secondary Board 
+Govt High School Mandewal 2007 82.08 Professional Summary 
+Core Java: 
+Strong Programming knowledge in Core Java. 
+Excellent knowledge in Object Oriented Programming Concepts (OOPS). 
+Very Good knowledge in Access Specifiers and Type Casting in Java. 
+Good knowledge in Exception Handling and Threads in Java. 
+Good knowledge in Collection Framework API. 
+J2EE: 
+Strong Programming knowledge in J2EE. 
+Excellent knowledge in Java Database Connectivity. 
+Very Good knowledge in Servlets. 
+Good knowledge in Java Server Pages (JSP). 
+Oracle SQL 10g: 
+Strong knowledge of constraints 
+Good knowledge DDL, DML. 
+Good knowledge on RDBMS concepts. 
+HTML 5: 
+1. 
+Basic knowledge of different tags. 
+Technical skills 
+Programming Language Core Java, J2EE 
+Databases Oracle SQL. 
+Web Server Apache-Tomcat. 
+IDE Eclipse 
+Web Technologies HTML5, CSS3, JavaScript. 
+Certifications 
+Core Java Course Completed in JSpiders, Bangalore. 
+J2EE Course Completed in JSpiders, Bangalore. 
+Project Details 
+TITLE: Skyline University 
+Used Technologies: Java, JDBC, Servlet, JSP, HTML, CSS, JavaScript, MySQL, SQL 
+Description: 
+This website is mainly developed for Students those who wants to do higher studies, they can register by providing their details and brows the full site and they can download books and software from the library section, they can check placed student details, Students can use the same username and password for next time to browse the website. 
+Administrator have a control over all the pages and he can Add, Delete and Update the placed student details. 
+Co-Curricular Activities Participated in State Level General Knowledge Competition. 
+Secured 1st 
+Rank in Karnataka Academy of Maths Examination. 
+Participated in workshop on Android Robotics conducted by IIT Jodhpur. 
+I had been a volunteer during college fests and also a team member for organizing events in college. 
+Competencies Fast learner, Adapts well to changes and pressures at workplace. 
+Positive Attitude and good team player. 
+Passion to learn new things and quick in grasping. 
+Personal Details Name 
+: Sharanagouda 
+Fathers Name : Mahantappa 
+Date of Birth : 06 mar 1991 
+Nationality : Indian 
+Languages : English, Hindi, Kannada 
+Present Address 
+: Shree Sai Manjunath PG above TVS Showroom Prakash Nagar, Dr. Rajkumar Road Rajajinagar 2nd Block, Bangalore-560021 
+Contact No 
+: +91-9901166698 Declaration 
+I hereby declare that the information given above is true and correct to the best of My knowledge and belief. 
+Place: Bangalore 
+Date: (Sharanagouda Konasirasagi) 

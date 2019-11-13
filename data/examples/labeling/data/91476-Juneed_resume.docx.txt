@@ -1,0 +1,70 @@
+JUNEED BABA 3rd Cross, Shivaramiah Layout +91 9419016155 
+babajuneed@gmail.com 
+IT Infrastructure Architect 
+with experience in start-ups as well as established operations leveraging expertise inorganization, computer networking, and problem solving to provide exceptional user support and assistance in resolving conflict. Experience includes managing sensitive materials and providing after-hours support for clients. Compellingly supply just in time catalysts for change through top. 
+WORK HISTORY 
+05. 2013 - present 
+CAPGEMINI INDIA LINUX ADMINISTRATOR RESPONSIBILITIES 
+Building and decommisioning of Unix/Linux servers. 
+Creating and working on a change, logging a case with Hardware and Software vendors. 
+Well equipped with LVM management. 
+Proficient with installation, configuration & administration of Linux Systems. 
+Troubleshooting Network issues, Disk usage issues, Patch management. 
+(OS & Kernel upgradation), Bonding, Multipathing, Managing User Accounts, ACL . 
+Configuration of Nagios, Chef, Yum Server, FTP, NFS, Telnet, SSH, DNS, Apache. 
+Management of Web server, Clusters. Automation development in Python. Creation and implementation of Bash/Shell scripts, Ruby. 
+Working of AAA protocols, openSSL, IPSEC 02.2012 
+04. 2014 Rooman technologies 
+Windows Administrator 
+Morning checks of systems/software. 
+Performing backups of data. 
+Working with Agile Development Methodology. 
+Applying operating system updates, and configuration changes. 
+Installing and configuring new hardware/software. 
+Adding/deleting/creating/modifying user account information, resetting passwords. 
+Answering technical queries. 
+Responsibility for security. 
+Responsibility for documenting the configuration of the system. 
+Troubleshooting any reported problems. 
+System performance tuning. 
+Keeping the network up and running. 
+Qualifications 
+Graduation: 
+Bachelor of Computer Application from Caset College of Science and Engineering 
+Technical Expertise : 
+Building and decommisioning of Unix/Linux servers. 
+Creating and working on a change, logging a case with Hardware and Software vendors. 
+Well equipped with Disk management such as LVM partitions, RAID etc. 
+Proficient with installation, configuration & administration of Linux Systems. 
+With skills as Troubleshooting Network issues, Disk usage issues, Patch management 
+OS & Kernel upgradation, Bonding, Multipathing, Managing User Accounts, ACL etc. 
+Knowledge of working with Puppet, Git, Devops and AWS Cloud services such as EC2, VPC, Well versed with configuration of Nagios, Yum Server, FTP, NFS, Telnet, SSH, DNS, Apache 
+Web server, working with clusters etc. 
+Creation and implementation of Bash/Shell, Python, Ruby scripts. 
+Routing and networking knowledge including TCP/IP, UDP, NAT. 
+C/C++ programming and debugging skills in embedded real-time systems. 
+knowledge of Linux development tools gdb, eclipse, buildroot etc. 
+Knowledge of Security Test Packages. 
+Technical tools Nagios, Esxi, Vmware, Host-Info, Orca, Cacti, Putty , Wiki, Virtual desktop, Tumbleweed. infrastructure (VDI). 
+Service Now, ITSM, BMC remedy. 
+Operating System : 
+Red Hat Linux, Cent OS,Win 8/7/vista/xp. 
+Certifications & trainings Red Hat Certified Engineer 
+Date: Jan 11, 2016 
+Current Until: Jan 11, 2019 
+Technologies : 
+Red Hat Enterprise Linux 7 Red Hat Certified System Administrator 
+Date: Dec 16, 2015 
+Current Until: Jan 11, 2019 
+Technologies : 
+Red Hat Enterprise Linux 7 CCNA Routing and Switching Training 
+MCITP Training 
+PERSONAL INFORMATION 
+Name 
+: Juneed Raj Baba 
+Date of Birth : 17/01/1990 Gender : 
+Male Nationality : 
+Indian 
+Address : 
+HBR layout, Bangalore 560043. 
+Juneed baba 2 

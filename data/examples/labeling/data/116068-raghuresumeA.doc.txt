@@ -1,0 +1,44 @@
+ RAGHU GODARI 
+Phone: +91-7795212026 Email: raghugodari@gmail.com Objective 
+To secure a challenging position and contribute to the organization's success using my technical, analytical and management skills and at the same time upgrade my knowledge for development of self and organization served. 
+Technical Skills 
+Languages Known : 
+Core Java 
+Web Technologies : Java(JDBC,Servlets,JSP) 
+Frameworks : Android 
+Tools and IDEs : Android Studio , Eclipse IDE 
+Database 
+: SQLite Operating Systems : Windows 98/2000/XP/7 
+Education B.Tech in Electronics and Communication Engineering from Ganapathy College of Engineering affiliated to JNTUH. 
+Intermediate from Board of Intermediate Education, Andhra Pradesh. 
+X standard from Central Board of Secondary Education, Andhra Pradesh. 
+Academic Project: 
+Project : Home Security Using GSM module with ARM7 processor 
+Domain : Embedded systems 
+Role : Coding and hardware designing, 
+Team Size : 4 
+Software Technologies : 
+kielmicrovission4,flashmagic, support : LPC2148 microcontrollers Description: The design of effective security alarm system that can monitor the house with different sensors using GSM modem. This GSM Modem can accept any GSM network operator SIM card and act just like a mobile phone with its own unique phone number. Advantage of using this modem will be that you can use its RS232 port to communicate and develop embedded applications. Applications like SMS Control, data transfer, remote control and logging can be developed easily. The modem can either be connected to PC serial port directly or to any microcontroller. 
+Roles and Responsibilities:- 
+Gathering requirements(components), Develop the hardware kit by using components, Dump the software and activate the kit. 
+Profile Summary 
+Knowledge of developing in Android Studio interactive application development. 
+Proficient with common Android framework APIs 
+Strong knowledge in Core Java concepts. 
+Flexibility and adaptability in regards with new technologies and environments willing to work as a key player in challenging and creative environment. 
+Good attitude towards teamwork and meeting project deadlines without compromising on the quality of the deliverables. 
+Team player with good analytical, technical, performance tuning and communication skills. 
+Achievements &Co-Curricular Activities: 
+School topper in SSC. 
+Participated in ROBOTICS workshop, Quiz Competitions at college level fests. 
+Event organizing in college fests. 
+Personal Details: 
+Name : Raghu Godari, 
+Father : Yakaiah Godari 
+Date of Birth : 09 June 1993 
+Languages Known : English, Hindi and Telugu 
+Permanent Address : #1-27, Jamalpuram, Parvathagiri, Warangal, T.S - 365. 
+Declaration: 
+I hereby declare that the information given by me is genuine. 
+Place: Thanks & Regards, 
+Date: raghu godari 

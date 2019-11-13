@@ -1,0 +1,77 @@
+Curriculum Vitae 
+Mehta Chintan Arvindbhai 
+Contact No: (M) +91
+9427202516 E-mail: chintan.a.mehta@gmail.com 
+Career Objective 
+Seeking a job in software Quality & Testing domain that will provides opportunities for cross functional learning and offers professional growth for my experience and skills. A Job that teaches something new everyday and helps in maintaining high work standards and maximizing efficiency. 
+Summary Master of Computer Application (M.C.A) with 9.5 years with about 6+ years in the software testing and QAE and 3 years in Functional Implementation. 
+Currently working with Kiwiqa Services Pvt. Ltd as a QA Lead. 
+Involved in different stages of Software Development Life Cycle (SDLC) of Mobile Apps QA, Mobile QA, E-Commerce, Web Based, Healthcare, E-Governance, Social Media Marketing domain. 
+Apart these, also hands on experience for Smart phone application for IOS 07 and Android. 
+Possessing excellent exposures to the entire software development life cycle and software testing life cycle. 
+Excellent skills in carrying out Regression, Functional, GUI, UAT, systems integration and end to end testing. 
+Education Master Of Computer Application (M.C.A) Shree Swaminarayan College of Computer Science, Bhavnagar University June 2004 
+Bachelor Of Commerce (B.Com) M.J.College of Commerce Bhavnagar University June 2001 Skill Sets 
+Area Skill 
+Testing 
+Hands on Testing experience, Black box testing, Verification and Validation against specification, Functional testing,Intigration 
+Testing, Cross browser compatibility, Inter operatibility testing Testing Process and methodology, Regressional Testing. 
+Quality Management 
+Requirement Review 
+Software Testing documentation, Quality Management 
+Project Management Planning, Estimation, Scheduling & Quality Control 
+Functional Execution and Analysis of Regression test. 
+Designing and executing Test Cases to validate business requirements. 
+Bug Reporting using Mantis bug tracking tool. 
+Preparation of Test Data. Validation and Verifying test data Develop and execute test plan as well as test case Review of Test Scenarios 
+Implemented initiatives for Test Process improvements and quality of work. 
+Preparing status report for the senior management Professional Experience Kiwiqa Services Pvt. Ltd. 
+Role: QA Lead 
+Currently working with Kiwiqa as a QA Lead. During my career with kiwiqa I had tested below mention project for android/iOS application as well as Web portal also. I am involved for Manual Testing and QA for project. 
+1. Book My Food 2. Zoomi Educampus 
+Freelance QA Consultant (January 2015 to August - 2015) 
+Codal System Pvt. Ltd. (September-2014 December-2014) 
+Role: Sr. QA Executives 
+Test planning, Test case writing, Test case review, Test script, Test Data preparation, 
+Test approach, Test design, Review report, Test Case Updation. 
+Analyzing the business requirements and understanding the business processes. 
+Preparing status report and submitting it to the senior management. 
+Domain & Technology: - VOIP, E-Commerce, Web Based Application, Healthcare, Social Media Marketing, 
+Technology: - Asp.net, SQL, PHP, Mysql Intuz Solutions Pvt. Ltd. (July-2011 to August 2014) 
+Role: Sr. SQA Executives 
+Carrying out the regression, Cross browser compatibility, Blackbox, and functional testing. 
+Analyzing the business requirements and understanding the business processes. 
+Preparing status report and submitting it to the senior management. 
+Domain & Technology: - E-Commerce, Web Based Application, Healthcare, Social Media Marketing, Project Planning, IOS 07 and Android, Web based Application. 
+Technology: - Asp.net, SQL, PHP, Mysql, Zend Cart, Open source, Open Cart, Presta shop, Magento, 
+OSCommerce, 
+Anatech Insight Pvt Ltd. (Since March 2007 to July-11) 
+IPatientCare EHR (Feb-09 to July-11) 
+Role: Implementation Team Lead/ Quality Assurance Executive 
+Carrying out the regression and functional testing. 
+Analyzing the business requirements and understanding the business processes. 
+Preparing and executing the test cases. 
+Review of Test Scenarios 
+Defect tracking using in-house bug tracking tool Preparing status report and submitting it to the senior management. 
+System implementation, project planning,monitoring,deployment,middle level management Technology: Asp.net, SQL Server 2005 & IIS Project SSNNL-IITS (E-Gov. ERP) March 2007 to Jan 2009 
+Role: Manual Tester/Implementation Team Leader 
+Preparation of Test Data., Preparing and executing the test cases. 
+Carrying out the regression and functional testing. 
+Defect tracking using in-house bug tracking tool System implementation, User Training, User Support, middle level management Team management, team co-ordination. 
+Technology: Asp.net, SQL Server 2005 & IIS 
+Project CGM-IITS (E-Gov. ERP) 
+Role: Manual Tester/Implementation Team Leader 
+Preparing and executing test case, Preparation of test data Carrying out regression, Functional and User acceptance test Defect tracking using in house bug tracking tool System implementation, User Training, User Support, middle level management Test the customized data to check whether it is fulfilling the business requirements or not. 
+Technology: Asp.net, SQL Server 2000 & IIS 
+Project GPO-IITS 
+Role: Manual Tester/Implementation Team Leader Preparing and executing test case, Preparation of test data Carrying out regression, Functional and User acceptance test System implementation, User Training, User Support, middle level management Technology: Asp.net, SQL Server 2000 & IIS CMC Ltd (A TATA Enterprise) From June 2006 to February - 2007 Project IC-IITS (E-Gov. ERP) 
+Role: System Support Executive/ Implementation Executive 
+Understand the workflow and analyze it various task of industries commissionerate like Small Scale 
+Industries Registration, Salt, ISO application, CSPO etc. 
+Provide user training for smoothly implementation of project Test the customized data to check whether it is fulfilling the business requirements or not. 
+Technology: Asp.net, SQL Server 2000 & IIS Personal Information 
+Date of Birth : 23rd October 1980 Marital Status : Single Hobbies : Reading, Music, Trekking, and Touring. 
+Passport No. : M3644331 Valid up to 12/11/2024 Present Address : H/203, 
+Richmond Grand , Opp Atulyam, B/h Torrent Power House 
+Prahladnagar Extension, Makarba Road, Ahmadabad - 380 015 
+Permanent Address : Plot no. 21118/G, Waghawadi Road, Custom House Street, Parimal Chowk, Bhavnagar 364 002 

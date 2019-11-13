@@ -1,0 +1,63 @@
+SYED ATIFULLA sasyedatif5@gmail.com | +91-8147669174 
+Bangalore 
+CAREER OBJECTIVE 
+Contemplation to work in a firm with a professional work driven environment where I can utilize and apply my knowledge, skills which would enable me as a fresh graduate to grow while fulfilling organizational goals. 
+SUMMARY 
+B.E Graduate from Rajiv Gandhi Institute of Technology affiliated to VTU of the year 2016. 
+Excellent social skills to rapidly build relationship and set up trust. 
+Confident, Determined and ability to cope up with different situations. 
+Worked on a mini project, Technical Seminar and Final year academic project. 
+EDUCATION 
+Qualification Board/University Year Percentage 
+B.E 
+(Computer Science Engineering) Rajiv Gandhi Institute of Technology 2016 61.04% PUC 
+St. Josephs Pre University College 2012 63.55% High School St. Josephs Indian High School 2010 72.96% ACADEMIC PROJECTS 
+Memory Block Game (mini project) 
+Contribution: Research, Design and Analysis. 
+Platform: Visual C++ 
+Type: Graphics Project 
+Thisprogramhelps in learning to generate random shapes. 
+Detecting APT Malware Infections Based on Malicious DNS and Traffic Analysis (Technical Seminar) 
+Contribution: Research and Presentation. 
+Type: Networks (IEEE paper) 
+Detecting APT Malware Infections Based on Malicious DNS and Traffic Analysis proposes the method to detect Advanced Persistent Threats (APT) on a system. 
+Privacy Preservation and Truthful Detection of Packet Dropping Attacks in Wireless Ad-hoc Network (Final Year Academic Project) 
+Contribution: Analysis, Testing and Design. 
+Type: Networks Project 
+Privacy Preservation and Truthful Detection of Packet Dropping Attacks in Wireless Ad-hoc Network a project developed to detect the insider attacks (link error and combined effect of link error and packet dropping) in a network. 
+The data being sent is encrypted using AES algorithm and if the packets of the data are dropped then the node at which the packets are dropped can be detected, those dropped packets are then recovered and sent to the destination. 
+TECHNICAL SKILLS 
+Languages : C, VBA and Java. 
+Database : MySQL and Oracle. 
+Testing : Good Knowledge in Black-box testing, SDLC, STLC, Generating Test cases and their execution. 
+Operating System : Windows xp/7 and Linux. 
+Skill set in Microsoft Word, Microsoft Excel and Microsoft PowerPoint. 
+EXTRA CURRICULAR ACTIVITIES 
+Member of house cricket team, CMCA awareness club and school mad ads team at St. Josephs Indian High School. 
+Member of AICUF club and arts club Vice-President at St. Josephs Pre University College. 
+Member of Rotary club at Rajiv Gandhi Institute of Technology. 
+OTHER ACHIEVEMENTS 
+Active member in Sports events and mad ads conducted at PRERANA (St. Josephs Indian High School). 
+Participant in IGNITORS-2011, various inter-college fests and won for quiz (St. Josephs PU College). 
+Inter-college fests for technical quiz (Rajiv Gandhi Institute of Technology). 
+Academic project presentation at project exhibition conducted by AICTE at Alpha College of Engineering. 
+INTERPERSONAL SKILLS 
+Excellent communication skills with a good sense of humor. 
+An enthusiastic learner who can master all aspects of a job with the ability to listen and understand complex nuances of a job. 
+Good analytical and problem solving skills. 
+Efficient team player with the ability to build sound and healthy rapport. 
+Ability to take decisions with coherent planning. 
+PERSONAL DETAILS 
+Fathers Name : 
+Syed Athaulla 
+Mothers Name : 
+Hafeezunnisa 
+Date of Birth : 
+22nd May 1994 
+Language Known : English, Hindi and Kannada 
+Marital Status : Single 
+Interest & Hobbies : 
+Travelling and exploring places. 
+DECLARATION 
+I do hereby declare that the above information is true to the best of my knowledge. 
+Syed Atifulla 

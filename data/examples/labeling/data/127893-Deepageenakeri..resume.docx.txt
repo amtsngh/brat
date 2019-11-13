@@ -1,0 +1,43 @@
+DEEPA G M 
+#94/4,7th Cross,Basavagangotri, e-mail:deepageenakeri.m01@gmail.com 
+Kumbalagodu,Bangalore -560072 
+Mobile no: 9591557541 
+Career Objective: 
+To become a successful professional in growth oriented IT organization and to work in a challenging and creative environment that provides an opportunity to secure an in depth knowledge and to strive for the success of the company and thereby myself. 
+Educational Qualification: 
+Degree College name 
+Board/University % of marks Year of passing 
+B.E, [Information Science] PES Institute of Technology and Management, Shimoga. VTU, Belgaum 68.56% 2016 II PUC Adichunchangiri PUCollege, Bhadravathi Taluk,Shimoga District. 
+PU Board, Karnataka 74.33% 2012 10th standard Sri Visweshwaraya English high School,Bhadravathi. 
+KSEEB 83.52% 2010 
+Technical Skills: 
+Subjects Known: Data Structure, DBMS. 
+High level languages: C++, java. 
+Operating System: Windows XP . 
+Core java: 
+Good knowledge of polymorphism, inheritance Knowledge of encapsulation, abstraction Knowledge of JVM, object, class Knowledge of this, finally, final, finalization Good knowledge of Servlets, JSP 
+Knowledge of JDBC. 
+Sql: 
+Constraints. DDL,DML,TCL. 
+Certification: 
+I had participated in Software Testing-An Industrial Approach Workshop on 24th of April 2015 held at PESITM,shimoga. 
+I had also participated in HACK-A-THON on Android Application Development and Cloud Computing Workshop on 13th and 15th of February 2015. 
+Academic project: 
+Project: Data security on cloud using blowfish algorithm Description: The prevalent problem associated with cloud computing is data privacy, security, anonymity and reliability etc. But the most important between them is security. In the cloud computing environment data security is a major issue because the data is located in different places. Encryption is a method to secure data from access of unauthorized users to the network. To overcome the problem of data security on cloud we have proposed a system which consists of two modules. Firstly, to encrypt and decrypt the data in file using blowfish algorithm. And second is implementation of SHA-256 algorithm to check file data integrity. By these methods we can guarantee both data protection and data integrity. 
+Cloud realization:we have used own cloud in our project which is free software for storing data on a separate server.it is a siute of client-server software for creating file hosting services and using them. 
+Server 
+:Ubuntu 12.04 
+Web Server :Apache 2 Operating System :Windows XP,Windows 7 and higher. 
+Web browser :Any. 
+Personal profile: 
+Name : Deepa G M 
+Fathers name : Mallikarjun G S 
+Mothers name : Geetha D N 
+Date of Birth : 01-06-1994 
+Gender : Female 
+Nationality : Indian 
+Languages Known : English, Hindi and Kannada 
+Hobbies : reading books. 
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 
+Place: Bangalore 
+(DEEPA G M) 

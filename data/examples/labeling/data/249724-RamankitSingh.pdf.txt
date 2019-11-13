@@ -1,0 +1,56 @@
+ +91 9125488726 
+webianks@gmail.com 
+ramankit_durgesh@srmuniv.edu.in 
+556/20 A, Sujanpura, Alambagh, Lucknow, India 
+Ramankit Singh 
+Final Year B. Tech Student 
+Computer Science and Engineering 
+SRM University 
+Academic Details 
+SRM University Ghaziabad, NCR 
+B. Tech in Computer Science and Engineering 
+2013 -Present 
+GPA 8.8/10 
+Lucknow Public School Lucknow, UP 
+Class XII - U.P. Board 2012 Percentage- 80.80% 
+Lucknow Public School 
+Lucknow, UP 
+Class X - U.P. Board 2010 Percentage- 79.16% 
+Objective 
+To get a career in Application Development. I am interested in Application Development related opportunities where my skill set match and I can contribute fully in the growth of the organization. 
+Major Projects 1. PollsTap 
+This Android application is a social network based on the polling (voting). 
+2. PopupBubble Android library for adding and customising "New Post" popup button with the feeds of your app. 
+3. StackUp 
+Get the unanswered questions from the stackoverflow.com easily. 
+4. BreathingProgress 
+A custom indeterminate Progress Bar for android. 
+5. Filmy 
+It s an open sourced project in which I have contributed on GitHub. It s a movie app which uses the best practices and APIs as SQLite, Unit Testing, Content Providers, Cursor 
+Loaders, Job Schedulers, Volley, Glide, JSON Parsing, Custom Views, REST API etc. 
+Client/Industrial Work 1. Smile Foundation India 
+Worked with the foundation to develop and maintain an application for their clients. 
+2. SR DAV Public School, New Delhi 
+An Android application for the students of the school. 
+Other Projects 
+1. ISTE: Official Android Application Official app of the Indian Society for Technical Education showing all the activities of the society. 
+2. Cybonito 2015 & 2016 App Official Android application for the Techno Cultural Fest 
+Cybonito . 
+3. Incheck Tiny application for checking if there is network access in the device. Suitable for the devices with lower Android versions. 
+Work Experience 
+Android Development Intern at badiyajobs.com [Nov. 2016 Dec. 2016] 
+Achievements 1. Google Certified Associate Android Developer. 
+2. Winner of the Google Hackathon 2015 held at GDG Jaipur. 
+3. First in India in Appathon event of CodeFest 16 at IIT-BHU. 
+Position of responsibility 1. Technical Head of I.S.T.E. (Indian Society of Technical Education). 
+2. Student coordinator of CSI (Computer Society of India). 
+3. Core - committee member of CYBONITO. 
+Computer Skills 1. Languages: Knowledge of programming languages like C/C++, Java, HTML, CSS. 
+2. IDEs: Android Studio, Eclipse. 
+3. Graphic Designing: Adobe Photoshop, Adobe Illustrator. 
+4. Technology Known: GitHub, Android Application Development, Web Development. 
+5. Subject Knowledge: Have basic knowledge of OS and DBMS. 
+Helpful Links 
+1. GitHub Page https://github.com/webianks 2. Play Store Developer page 
+https://play.google.com/store/apps/dev?id=5406110317606112331 3. Smile Foundation India App - https://play.google.com/store/apps/details?id=org.smilefoundation.app 4. Google Certification Link - https://bcert.me/bc/html/show-badge.html?b=hpvxygw Declaration 
+I hereby declare that the information given in this form is true and complete to the best of my knowledge and belief. 

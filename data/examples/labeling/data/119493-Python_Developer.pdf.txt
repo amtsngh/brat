@@ -1,0 +1,54 @@
+Rahul Kr Verma (Software Engineer) 
+Mobile: +91-9871845970 
+Email: rahulkrverma@hotmail.com 
+INTRODUCTION 
+Currently I am working with 4 Way Technologies as a Software Engineer in Product Development 
+Department, as a software engineer 
+I have Developed reverse image 
+search engine, using Convolution neural network and deep learning. 
+OBJECTIVE 
+I am seeking the challenging position in 
+Software 
+Development profession where I can make a significant contribution to the organization using the experience & skill that I have acquired. I wish to work in a challenging atmosphere which provides ample opportunities for learning and growth. 
+WORK EXPERIENCE 
+I am having a total experience of 6+ months in the industry. Following is the detail of organization for which I am working till date: 
+4 Way Technologies 
+Designation - Software Engineer (Python Developer) 
+Job Profile - Developed reverse image search engine using convolution neural network and deep learning. And integrated it with web using python flask module and REST API. Deploy these modues on AWS EC2. 
+Technology Used - Python, mongo DB, and OpenCV. 
+Python Module Used: - 
+Scikit learn (used for machine learning), Numpy, Pandas, Theano (used for deep learning), Flask (used for communication with web), Pymongo (mongo DB python module), Redis-Server, Celery (used for task queue) and more Duration - Jan 2016 Till Date. 
+Project - Ideaswire is the product of 4 Way Technologies, which is a reverse image search application. I worked as team member and developed the application as guided. In this application i have used above technologies and deployed it on AWS EC2. 
+Academic Qualifications 
+Qualification 
+Board/University Year of passing Percentage (%) 
+B.Tech (CSE) U.P.T.U 
+2014 68.74 12th C.B.S.E 2010 58.80 
+10th C.B.S.E 2007 69.20 Training 
+Certified Information Security Specialist (CISS V 2.0). 
+15 Days Training With Experience in E-mail and system Security. 
+Technical Skills: 
+Programming Language : Python, C, C++, C#, Java. 
+Operating System : Linux (Ubuntu), Windows. 
+Internet Technologies : HTML, JavaScript. 
+Database System : MySQL, Mongo DB, SQL. 
+Others : SDLC, Manual Testing, ERD Design. 
+Strong Point in myself Excellent knowledge of Python and some of its modules, and C++. 
+Excellent Oops and data structure skills. 
+Worked on AWS EC2. 
+Quick learner. 
+Hardworking towards achieving the Goal. 
+Flexibility in technical area. 
+Area of Interest 
+Python, C, C++, Java. 
+Personal Profile 
+Name : Rahul Kumar Verma 
+Fathers name : Bharat Prasad Verma 
+Date of Birth : 14 Jan 1992 
+Gender : Male 
+Marital Status : Single 
+Language Known : English, Hindi 
+Declaration 
+I hereby declare that the above written particulars are true to the best of my knowledge and believe. 
+Date: 
+Place: Rahul Kr Verma 

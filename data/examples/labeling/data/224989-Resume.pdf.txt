@@ -1,0 +1,86 @@
+ RESUME 
+Sagar Lalchand Samtani 
+B3-404, 4th floor, Raunak City, Adharwadi, Near Don Bosco School, Kalyan(west) - 421301 
+Dist: Thane 
+Mob No: 9833809003/ 7506204985 
+Email Id: samtani.sagar@gmail.com 
+MCA-2014 Batch 
+Objective: 
+Intend to build a career with leading corporate of Hi-Tech environment with committed and dedicated people, which will help me to explore myself fully to my Potential where I can utilize my knowledge for the organization s growth. 
+Educational Qualification: 
+Name of the Course Name of the Institute Percentage Year 
+M.C.A. 
+Thakur Institute of Management 
+Studies, Career Development & Research 
+(University of Mumbai) 62.22% 2014 B.Sc. 
+(Computer Science) Moolji Jaitha College Jalgaon (North Maharashtra University 
+Jalgaon) 68.32% 2009 HSC (Science) 
+Moolji Jaitha College Jalgaon 51.50% 2006 SSC Carmel Convent Junagadh(Vadodara Board Gujarat) 75.57% 2004 Work Experience in brief: 
+Technical 
+Employer Duration Total duration Designation 
+From Till Zeus Learning 6th Jan, 2014 30th June 2015 1 year 6 months Software Engineer 
+Built.io 1st July 2015 till date 1 year 6 months Web Engineer 
+Non 
+- Technical 
+Skill Set: 
+Programming Languages : C, C++, JAVA, VB 6.0 Web language Technologies :JavaScript, JQuery, Backbone.js, HTML 5, CSS 3 
+RDBMS : Oracle 9i, SQL, Microsoft Access 2007/2010 
+Communication Skill Set: 
+Proficiency in English speaking 
+Mails writing skills Roles & Responsibilities at Work: 
+At Zeus Learning : 
+Project : Discovery Education 
+Team Size : 35 (Excluding testers) 
+Task : To build the educational templates(also known as training enhanced interface(TEI)) that were not just the reading articles, but building two way communication between the user (students, teachers) and TEI. 
+TEI basically is the tool to generate the questions of that particular TEI & set the answers accordingly, whereas on the other hand user(student) interacts with the tool and attempts the questions with the limited tries. 
+Also covered accessibility for all the TEIs 
+Technologies Used: Backbone.js, Javascript, Jquery, Html, Css. 
+Other libraries/technologies used: 
+Underscore, Bootstrap, Grunt, RequireJS, Handlebars.js, jsPlumb, Paper.js. 
+Version Control System Used: Git 
+Employer Duration Total duration Designation 
+From Till 
+TCS - eServe Ltd. 27th July, 2009 31st Aug, 2011 2 years 1 month Process Associate in Operations 
+At Built.io : 
+Project : Vcloud Vmware Calculators 
+Team Size : 4 (Excluding testers) 
+Task : To build the calculators that estimates the cost of cloud storage and many other related services. 
+To customize the each service, setting the initial configs and changing the values according to the user inputs. Complex calculations of each services and various combination of all together. 
+Technologies Used: AngularJS, Javascript, Jquery, Html, Css. 
+Server Side Scripting: Node.js 
+Other libraries/technologies used: Lodash, Bootstrap, Gulp, Built.io Backend (Inhouse product), Built.io Contentstack (Inhouse product). 
+Version Control System Used: Git and SVN 
+Work Experience in Non-Technical field: 
+Worked as a Process Associate in Operations department in Tata Consultancy Services (TCS) eServe Ltd for 2 years and 1 month from 27th July, 2009 to 31st August, 2011. 
+Roles and Responsibilities for the same: 
+Working back end accounts of the collection card of Macy s customers (U.S based departmental store tied up with Citibank). Setting various hardship arrangements which were offered to customer and maintaining it to its completion. 
+Maintain the monthly report and assigning the report work to the team members, till completion. 
+Trained the new joiners on the process in absence of the official trainer. 
+Attended Client calls to understand expectations, provide feedback on the reports and resolve queries and escalations. 
+Done quality check of the team members and providing the feedback with the corrective actions. Checking the procedure documents and escalating them for timely correction or addition. 
+Coming up with suggestion for the change or addition in working style to provide better quality work and time reduction in total. 
+Achievement: 
+Been part of best team award of the month and hence received certificate for the same. 
+Extra Curricular Activities: 
+Successfully organized college Technical Fest VISTA 2013 for Thakur Institute of Management Studies, Career Development and Research(TIMSCDR) as a Core 
+Committee Member held in 2013. 
+Felicitated and appreciated for playing major role in organizing Entrepreneurship cell AYAN s festival 
+Entrepreneurship-Week for TIMSCDR held in 2013. 
+Active 
+Member of Student Council Committee in 
+Thakur 
+Institute of Management 
+Studies, Career Development and Research from 2011 till 2014. 
+Performed and led street play for University of Mumbai s annual extension work festival called UDAAN in 2013. 
+Served as E-member of Entrepreneurship cell AYAN from 2011 till 2014. 
+Participated in Entrepreneurship-Week and Business Mela for AYAN in 2011 and 2012. 
+Projects undertaken such as 
+Anna Poorna Yojna at University Level (Department of Lifelong Learning and Extension). 
+Won 2nd prize in "Paper Tecture" event organized by Entrepreneurship cell AYAN s festival 
+Entrepreneurship-Week held in 2013. 
+Received certificates in "Chess Competition" and "IT Quiz competition". 
+Personal Details: 
+Birth date : 5th January, 1989 Place of birth : Malegaon, Maharashtra 
+Sex : Male 
+Languages known : English, Hindi, Sindhi, Marathi, Gujarati 
+Hobbies : Watching Movies, Playing Table Tennis & Chess, Bike Riding 

@@ -1,0 +1,48 @@
+Priyal Jain 
+Contact No.: +91-97707-91307 
+Mail Id: priyal.j25@gmail.com 
+OBJECTIVE 
+To become a key contributor in an organization that provides an environment for career growth and an opportunity to enhance my skills and provide me with ample scope to reach the pinnacle in my career by contributing the knowledge and skills I have gained from my previous work experience. 
+WORK EXPERIENCE Associate Software Engineer at Systematix Technocrates 
+July 15 Present Projects: 
+Waitlist Me 
+Duration: 5 months 
+Team size: 6 
+Role: Developer Waitlist.Me is a waitlist management application for restaurants, Salons, Doctors, Hospitals and any other businesses that needs to manage the customers and keep track of available/occupied resources. It includes powerful analytics for increasing operational efficiencies. It aims to provide the maximum utilization of resources, minimize the wait time for customers and improve the overall experience of the customer. It also provided offline support. 
+Responsible for identifying and implementing data model of various functionalities Responsible for developing resource management module. 
+Tools and Technologies: Objective C, CoreData. 
+Dash 
+Duration: 5 months 
+Team size: 4 
+Role: Developer Dash is a restaurant finder app to search for and discover restaurants to eat out at or order in from. Browse through restaurant menus, photos, deals, it provides the use of map feature to guide user to restaurant. It also provides the feature to see nearby restaurants. Dash ensures that its users are updated with best meals being served at any point of time and thus has the geofencing feature to notify the user about the nearby restaurants. 
+Responsible for identifying, analyzing client requirements and thereby providing technical solution for problem. 
+Responsible for designing a responsive app which address all the client requirements. 
+Responsible for providing the feature to see nearby restaurants. 
+Responsible for implementing Geofencing Module. 
+Tools and Technologies: Objective C. Co-Invest 
+Duration: August 16 - Present 
+Team size: 5 
+Role: Developer 
+Co-Invest is a platform wherein investors can view the products that seek investment. It keeps track of and provides offline support for all the products which interests user and also the products in which user have previously invested. It provides feature of real time group discussion on all the active products. 
+Responsible for planning project to meet the client requirements Responsible for developing interactive application meeting all the specifications. 
+Tools and Technologies: Objective C, Realm. 
+MAJOR PROJECT (UG) 
+Map Reduced based Text mining Algorithm for Decision Support for Effective Governance 
+Dec 14 - May 15 Dr. Urjita Thakar 
+CS Dept, SGSITS 
+Successfully designed and implemented map reduced based text mining algorithm which can analyse and classifies 
+any regional dialect document containing citizens complaints/views/problems to their corresponding departments and thereby generating and dispatching the reports to the respective departments. 
+Following are the key features of the project: 
+1. A system that works on hadoop platform to manage bulky unstructured data and can perform analysis on Regional language. 
+2. Implemented Text Mining algorithm that subjects the document to preprocessing, Modified K means Clustering and classification. 
+3. Developed a Learning algorithm which enhances system accuracy by taking into account previously generated results 
+Tools/Technology: R language, R-hadoop, Java, MySQL, Text mining algorithm, Rstudio 
+Platforms Worked Operating Systems : Windows, Linux, Mac OSX 
+Programming Skills : Objective-C, C, R, Hadoop, SQL Achievements 
+Waitlist Me Team was awarded as Best Team of year 2015 Positions of Responsibility 
+Standalone iOS Development March, 2016 July, 2016 Being solely responsible for accomplishing iOS development in dash application. I had the responsibility of meeting the expected deliverables. 
+Chief Operational officer (COO) 
+July, 2013- August, 2014 COO of SGSITS ROBOTICS CLUB (SRC), a technical club of the college; wherein I had to plan and execute all the club activities. 
+Extracurricular Activities Placement Co-ordinator at SGSITS in year 2014 - 2015 Organizer of Senate-2k13, intercollegiate Parliamentary debate competition. 
+Organiser of Twister, a fun intercollegiate competition Organiser of Kurukshetra , SGSITS Robotics Event in Annual college fest. 
+Delivered workshop on basics of Micro-controller. 

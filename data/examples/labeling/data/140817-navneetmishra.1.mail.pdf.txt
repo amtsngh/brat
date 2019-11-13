@@ -1,0 +1,57 @@
+CURRICULUM VITAE 
+NAVNEET MISHRA 
+LD-118 
+A Shantipuram Railway 
+Colony Alambag, Lucknow- 226005 Email Address: mishranavneet1214@gmail.com 
+Contact No :- +91-9721067241 ,8115518139 ---------------------------------------------------------------------------------------------------------------- 
+CAREER OBJECTIVE: 
+To work in a stimulating environment where I can apply and enhance my knowledge and skills to serve the firm to the best of my efforts as well as to seek a challenging career by giving all my skills to profession. 
+EDUCATIONAL CREDENTIALS: 
+MCA-Pursuing (2nd year )from JNU-Jaipur 
+Graduation-(B.A) from Lucknow University in 2012 
+Intermediate from up board in 2009 High school from up board in 2007 
+Certificate : 
+Red Hat Certified Engineer (RHCE) in may 2016 Red Hat Certified System Administrator(RHCSA) in may 2016 CCC from NIELIT(DOEACC) in 2015 Computerized Accounting talley7.2 in 2011-2012 
+Technical Qualification ( SKILLS ):- 
+Red Hat Enterprise Linux-7 Essentials, System Administration, Network Services & Security Administration. 
+Linux: 
+Creating and managing Users. 
+Linux Server Administration ( RHEL7). 
+Linux Internals like disk management, file and directory, file system. 
+Managing file and directory permissions and ownership. 
+Knowledge of different run levels and Service Management in Linux. 
+Package Management with RPM and Yum. 
+Managing Logical Volume Management (LVM ) Storage. 
+Creating and Editing text file with Vim. 
+SSH Server Configuration and Troubleshooting. 
+FTP Server Configuration and Troubleshooting. 
+Managing Network Port Security Firewalld. 
+HTTP Server Configuration and Troubleshooting. 
+Providing Remote Block Storage(ISCSI). 
+Managing IPv4 and IPv6 Networking. 
+Configuring Link Aggregration And Bridging. 
+Configuring Email Transmission(SMTP). 
+Accesing Network Storage With SMB(Samba). 
+NFS Server Configuration and Troubleshooting. 
+Writing Bash Shell Scripts. 
+DNS Server Configuration and Troubleshooting. 
+YUM Server Configuration and Troubleshooting. 
+Configuring Apache HTTPD Web Service. 
+Basic Commands of Red Hat Linux Server. 
+Performance Monitoring. 
+Job Scheduling with CROND. 
+Database 
+Installation and Configuration MariaDB ( MySQL ) in Linux redhat 7. 
+Perform daily basis full backup. 
+Perform restore and recover database as per requirement. 
+PERSONAL INFORMATION: 
+Name : Navneet Mishra Father s Name : Girish Chandra Mishra 
+Mother s Name : Padmawati Mishra 
+Nationality : Indian 
+Date of Birth : 05 JULY 1992 
+Lang proficiency : Hindi, English 
+Hobbies : Traveling, listening music, playing cricket and net surfing. 
+DECLARATION:- 
+I thereby declare that the details and information provided here are correct and genuine to the best of my knowledge. 
+Date:.............................. Place:............................. 
+(Navneet Mishra) 

@@ -1,0 +1,68 @@
+Nasir Husain 464 Khadarwala, Khalapar, Muzaffarnagar, UP 251002 
+Mail: - nasirilahi.ilahi2@yahoo.com LinkedIn Profile: - https://in.linkedin.com/in/nasir-husain-6340a9107 GitHub: - https://github.com/Nasirilahi 
+Mobile: +918585926261 
+A highly motivated, dedicated and skilled software developer seeking challenging roles and assignments in a reputed organization in the field of software and development that will allow me to utilize my technical expertise, experience and excellent soft skills to the best of my abilities. 
+Degree/Course Institution Year of Passing Percentage / Grade 
+MCA Jamia Millia Islamia 2016 8.51(Distinction) 
+Organization Designation Duration 
+Daffodil Software Ltd Junior Associate IT Jan 2016 - till date 
+Role :- React & React Native Developer 
+PROJECT DETAILS 
+PROJECT : 1 Title : Clinico Mobile App 
+Description 
+: A mobile app developed in to React native for both Android and iOS as well. 
+This app provide details of all doctors registered in this app from different - 2 hospitals like about their specialty etc. This application helps to book appointment for patients. It was part of react native learning and it was also developed as a show-case application of the company. 
+Role : React Native Developer 
+Team Size : 
+PROJECT : 2 2 
+Title : People Pet Link( PPL) 
+Description 
+: This was a web application that create social platform for people pet animals. 
+Here people can talk about their pets, Can share their memorable pics videos with other people all over the world. This was part of my internship in daffodil and also a major project in MCA. 
+Role : MEAN Stack Developer 
+Team Size : 
+PROJECT : 3 2 
+Title : Medical Information System 
+Description 
+: This is an application that helps to keep track of information about medicines of a medical store like sales, purchase and stock availability 
+Role : C# Developer 
+Team Size 
+: 2 OBJECTIVE ACADEMIC DETAILS 
+WORK EXPERIENCE 
+PROJECT : 4 Title : Opinion-Feature extraction for sentiment analysis 
+Description : A project to perform word level sentiment analysis. I did this project as minor project in Master. 
+Role : Java Developer 
+Team Size : 
+PROJECT : 5 2 
+Title : Driver Manifest 
+Description : A mobile application developed in to react native for Android and iOS both platform. This application is mainly developed to keep track of buses driver and passengers. What is route of the bus from source to destination and where bus exactly is tracking by its gealocation? How many passengers will board and devoured on a particular bus stop. .It was kind of MVP that client want to see how an application if different from applications developed in to native languages 
+Duration : 2 months 
+Role : React Native developer Team Size 
+: 2 PROJECT: 6 
+Title 
+: Reachify 
+Description 
+: This project was part of my client side duration. This was a mobile application developed in to react native only for iOS platform. It is modern communication platform to help company customers, collaborate with your team, control your communications, and elevate your business. Whether it's your phone, email, text, chat or even social media. So mainly Reachify support Omni channel office communication. 
+Duration : 2 Months 
+Role : React Native developer Team Size 
+: 2 PROJECT: 7 
+Title : Voot 
+Description 
+: This project was part of my client side duration. Voot was launched by Viacom 18. It is available as an app for apple, Android and also a website for desktop consumption. However their website was quite responsive but they need a mobile view application so this application was developed in to ReactJS for mobile view. 
+Duration : 2 months 
+Role : React Developer 
+Team Size : 4 SKILLS 
+C, C++, JAVA, J2EE(Servlet, JSP, JPA, Struts), MEAN Stack, ReactJS, React Native 
+INDUSTRIAL EXPOSURE 
+Implanted Training at : Six months training in core and Advance Java from Ducat Noida sector 16 CURRICULAR ACTIVITIES 
+Second Runner up in IT Quiz in Jamia Millia Islamia. 
+Last Runner up in Computer Quiz event in CompuNomics'15 fest in Jamia Millia Islamia 
+Second Winner of E-Treasure Hunt( Technothon Fest) Third Runner up of E-Tambola 
+STRENGTH 
+Flexible & Adaptable , Quick Learner, Self-Motivated, Responsible, Goal Oriented 
+HOBBIES 
+Table Tennis, Basketball, Listening Music, Collecting Old Coins 
+I hereby declare that above mentioned information is true to the best of my knowledge and I will discharge my duties to the best of my ability and satisfaction of my official superiors. 
+Date : -. - 
+Place : New Delhi 
+DECLARATION 

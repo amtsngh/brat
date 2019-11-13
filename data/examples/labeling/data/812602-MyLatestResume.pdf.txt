@@ -1,0 +1,81 @@
+SHIVANAND KALAWAD 
+Mobile No: +91-9448485503 Email Id: ssskalawad@gmail.com 
+.NET Developer with 4 years experience of development in the web based applications using .NET programming. Looking forward for challenging opportunities where I can use my skills to impart a quality solution to provide the customer s satisfaction, keeping in mind the corporate visions and goals. 
+Good Experience in developing Web applications using C#.NET, ASP.NET and ADO.NET. 
+Having experience in Educational Institutions and Universities Applications Domain. 
+Solid grounding in OOPS and good knowledge of C#. 
+Basic Knowledge in ASP.NET MVC And ASP.NET Core 1.0. 
+Experienced in working on SQL Server 2005 and SQL Server 2008. 
+Working Knowledge on Seagate Crystal Report Services. 
+Good Knowledge about Bootstrap, JQuery and AJAX. 
+Working Knowledge in PHP, MYSQL . 
+Having strong Analytical skills which are consistently utilized in the projects to solve issues and to fix defects. 
+Working as a Software Developer for Aargees Business Solutions, Hubli client location from June 2013 to Till Date. Bachelor of Engineering from Visvesvaraya Technological University, Belagavi. 
+Microsoft Technologies : C#, C++, C, PHP, ASP. Net, ASP.NET MVC And .NET Core 1.0. 
+Framework : Microsoft.Net 4.5/4.0/3.5/2.0, Database Entity Framework. 
+Scripting Languages : Ability to use JavaScript, JQuery AND AJAX, Bootstrap. 
+Objective: 
+Summary of Experience: 
+Professional Experience: 
+Education: 
+Programming Language & Technologies Known: 
+Databases : Sql-Server 2005&2008, MYSQL. 
+Operating Systems 
+: Windows Family. Project #1: Library Management System (E-Lib) 
+Role : Software Programmer 
+Environment : Visual Studio 2010, MSSQLSERRVER 2008, Crystal Reports Services. 
+Description: It is a web application provides the facility to cataloging Books with Unique Number having Authors, Publishers, Vendors, Cost etc. and cataloguing of non-books like newspapers with respect to Grants ( Sources of Library) , E-lib enables Librarians to load Books, non-books, journals in Software for Transaction to members of the Library( Staff, Students and Others). Elib also offers Member ID Card Generation, Barcoding of Books, Shifting of Books one location to another, Keeps Track of Movement of Members entry into Library. 
+Responsibilities: 
+Involved in Discussion with the Client to understand and analyze the requirements. 
+Involved in the development of the OPAC (Book Searching Engine), Movement Register. 
+Developing User interfaces using Bootstrap, Jquery and with business logic written using c#. Involved in Development of Daily News Paper Attendance System Interface. 
+Involved in Developing DataAccessLayer using Entity Framework (LINQ TO SQL). 
+Involved in working on Change Request. 
+Project #2: Office Automation 
+Module1: Administration 
+Role : Software Developer 
+Environment : VS 2010 and MSSQLSERVER2008 
+Description: This Module involves Admission of Students of Various Courses of various combinations of subjects to the Institute. It contains user friendly pre requisites settings for Student Admission such as Unique Subject Definition, Subjects Combinations, and Fee Structures for different courses of various Academic Years. Along with it provides various kinds of reports in pdf and excel for various University Formats to send. 
+Responsibilities: 
+Involved in Cutoff List Generation. 
+Involved in creating reports as per Client Requirements. 
+Involved in Front end Page Designing of various Forms using Bootstrap and jQuery. 
+Involved in Developing DataAccessLayer using LINQ TO SQL. 
+Involved in working on Change Request. 
+Module 2: E-Examination 
+Role : Software Developer 
+Environment : 
+Visual Studio 2010, MSSQLSERRVER 2008, Crystal Reports Services. 
+Description: This Module involves Allocation of Students of Various Courses of various combinations of subjects to the Examination of Admitted Students of the Institute. It contains user friendly pre requisites settings for Type of Examination and Fee Structures for different courses of examinations of various Academic Years. Along with it provides various kinds of reports in pdf and excel for various University Formats to send. 
+Responsibilities: 
+Involved in Application Fee Register. 
+Involved in creating reports as per Client Requirements. 
+Involved in Front end Page Designing of various Forms using Bootstrap and jQuery. 
+Involved in Developing DataAccessLayer using LINQ TO SQL. 
+Involved in working on Change Request. 
+Involved in developing User Controls required for Project. 
+Technical discussions with the client to solve the pending issues. 
+Project #2: Online Examination Result System 
+Role : Software Developer 
+Environment : PHP 5.6, MySql and Apache Server 
+Front End Tool : Netbeans 8.1 
+This System is Designed Built in parallel with already existing System working under ASP.NET as a backup for existing clients who demand to host result in Linux server. It is Tested under Local 
+Xampp Server . 
+Jobs Involved: 
+Migrated SQL Server Database to MYSQL Server using DBConvert Tool. 
+Created Data Access Layer Using class for DB Connection and MySql Operations. 
+Created Different View Result Pages for UG, PG, UG Final, PG Final According University 
+Result Sheet Formats for Various Courses Dynamicaly. 
+Desinged Result Formats using BootStrap and Custom CSS 
+Used JQuery and AJAX for Invalid Registration Number at Front Page Result Checking. 
+Planned to rebuild Entire Examination Software using PHP with apache server using Laravel/CodeIgniter framework in MVC. 
+Date of Birth : 12th October 1983 
+Nationality : Indian 
+Marital Status : Married 
+Hobbies : Studying on internet, playing cricket and carom 
+Languages Known : English, Kannada and Hindi 
+I hereby declare that the information furnished above is true to the best of my knowledge and belief. 
+Date: 
+Place: Hubli, Karnataka 
+Shivanand Kalawad 
+Personal Profile: Declaration: 

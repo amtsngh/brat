@@ -1,0 +1,59 @@
+BANDANA CHOUDHURY IOS Developer Phone no. 
+7097747816 Hyderabad, Andhra Pradesh 
+Email Address- bandana.munu@gmail.com Summary: 
+Software Engineer with 1.5 years of experience in design and development of iOS Applications. Highly adaptive to new environments and challenges with the ability to come up with tailor made solutions to ever changing business requirements. 
+Comprehensive knowledge in the below areas: 
+Cocoa, Cocoa Touch, Cocoa Control and the iOS SDK. 
+Webservices, Both Get and POST method. 
+Storyboarding, size Classes and Auto Layouts. 
+Consuming web services using JSON/ XML 
+Memory Management in the iOS Application 
+All 
+Controllers (Table view, Tab Bar, Picker View and Navigation) EXPERIENCE: 
+iOS Developer 
+Acquire Information Systems India Pvt Ltd, Hyderabad-December 2015 to Present 
+Skills in iOS: Design Pattern MVC, Delegation, Singleton 
+Third party Integration, Firebase, AFNetworking, SDWebImage. 
+Cocoa Pods 
+Core Data, Core Location 
+Github 
+Google map and Apple Map integration. 
+Local & Push Notifications 
+App Deployment, Test flight. 
+PROGRAMMING LANGUAGES: C, Objective-C and Swift. 
+PROJECT PROFILES: 
+CLIENT: ABC JEWELLERS 
+ROLE: Developer 
+Tools and technologies used: IDE: Xcode , iOS SDK Programming: Objective C 
+About the project: 
+The ABC Jeweller s app facilitates customers to explore a variety of national and international premium gold and diamond brands of all kinds of ornaments .The app provides the user with immediate information about new launches, special offers and promotions. 
+Responsibilities held in the project: UX development Worked on web service calls Involved in unit testing. 
+CLIENT: Acute Comfort Role: Developer Tools and Technologies: IDE: Xcode, iOS SDK Programming: Objective C About the Project: Acute Comfort Service s expert installers and home comfort professionals provide the best ideas and interior and exterior home comfort products. 
+The app helps in finding out the nearest service centre. 
+Responsibilities held: UX development. 
+Worked on web service calls. 
+Involved in unit testing CLIENT: Anik Home Town 
+Role: Developer Tool and Technologies: IDE: Xcode, iOS SDK Programming: Objective C About the Project: A shopping app that has products like home-d cor, furniture, lamps and lighting, kitchen and dining, appliances. The app notifies the user on special offers and new releases. 
+Responsibilities: UX development. 
+Worked on web service calls Involved in unit testing 
+Client : BathGems Role: Developer Tool and Technologies: IDE: Xcode, iOS SDK Programming: Objective C About the Project: An app for bathroom utilities. It provides an exhaustive collection of vanities , vessels, sinks and faucets with sophisticated styles . 
+Responsibilities held during the course of the project. 
+Worked on webview Involved in unit testing Project Name: Movie Collection (Freelancing) 
+About Project: A go to app for cinephiles, it provides the user information on upcoming, top rated, and popular movies, their overview and credit name . 
+Responsibility: UI & UX Development 
+Worked on WebServices CoreData Collection View 
+Table View 
+Involved in Unit Testing 
+Project Name: BRN Pulse Smart 
+About Project: This app helps students of an institute in tracking attendance. Login, Logout timings. And this app has also feature that help submit leave request. 
+Responsibility: 
+UI & UX Development Worked on Webservices 
+Side menu 
+Involved in Unit Testing 
+Facebook Auth 
+Google Auth 
+Education: 
+Institute of Technical Education and Research (SOA University) 
+CGPA- [7.92/10] 
+Declare that the above-mentioned information is correct up to my knowledge. 
+Place: Hyderabad Date: 

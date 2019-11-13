@@ -1,0 +1,43 @@
+Asma sultana.A 
+No.15/1B, 4th cross, 2nd main, Hidayath Nagar, Arabic college post, Bangalore-560045. 
+Email Id: asma93sultana@gmail.com 
+Mobile No: +91 9886821514 OBJECTIVE 
+Seeking a responsible job with an opportunity to use my skills in the best possible way for achieving the companys goals. 
+EDUCATIONAL QUALIFICATION 
+B.E. Electronics and Communication Engineering from Thanthai periyar Govt. Inst. Of Technology, Vellore, Anna university, 2011 to 2015 with 77%. 
+12th from S.R.G.D.S. Matric Hr. Sec. School, Thiruvannamalai, 2011 with 93.3%. 
+10th from Govt. Girls Higher Secondary School, 2009 with 94%. 
+JOB EXPERIENCE 
+Currently working as an Embedded Engineer in Embedded Software Development Systems Pvt. Ltd. Since July 29th 2015. 
+16 months (1.4 years) of Experience. 
+TECHNICAL SKILLS: 
+Programming Languages C, Embedded C 
+Testing Tool Tessy (Automation testing tool) 
+Compiler Tools Hightec Compiler, Tasking compiler and Codewarrior IDE 
+Debugger Tools 
+PLS UDE debugger and Trace32 simulator Boards Infineon Tricore TC275TP, TC234LP 
+Familiar with the Testing Concepts like Unit testing, Regression testing, Component testing , Integration testing, Test cases, Test data and Various Code coverages. 
+Familiar with the Compiler concepts like Linker script file, preprocessing and Memory Addressing. 
+Familiar with Debugging concepts like Breakpoints, Call stack, Watch, local, CPU, SFR, Memory views and disassembly view. 
+CERTIFICATIONS 
+Attended Inplant Training on Fundamentals of Telecom in BSNL vellore. 
+Attended National level workshop on Latest Trends in Telecom and Networking in MIT, Chennai. 
+Attended Workshop on Embedded system using Arduino in Sri Krishna college of Engineering in Arakkonam. 
+Attended workshop on Embedded Development and PCB design in PEAS Technologies in Vellore. 
+PROJECT DETAILS 
+Title: EB meter reading using zigbee 
+Description: High & Low voltage information will be send from EB section to home. So the corresponding high & low loads will be switched ON. So the damage of home appliances can be prevented. Also the Power Units consumed will be received from home to the EB section. The wireless module Zigbee is used to transfer information between transmitter and receiver. 
+PERSONAL DETAILS 
+Date of Birth :28.11.1993 
+Gender :Female 
+Fathers name 
+:Akbar Basha.Z 
+Mothers name 
+:Yasmeen.B 
+Marital status :Single 
+Language known 
+:English,Urdu,Tamil Hobbies :watching TV,Listening music 
+DECLARATION 
+I here by declare that all the details given above are true to the best of my knowledge and belief. 
+Place: Bangalore Yours sincerely, 
+Date: (Asma sultana.A) 

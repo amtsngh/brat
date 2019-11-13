@@ -1,0 +1,158 @@
+ Curriculum Vitae 5 ANUPAM GHOSH Mobile: +91-9449446149/ 9148902877 
+Email: coolanupam07@gmail.com 
+CAREER OBJECTIVE 
+To play an active role in the company and to deliver the best by carrying out tasks efficiently in a dynamic environment, so as to set a standard at par with the reputation of the company. 
+WORK EXPERIENCE 
+Work Experience Summary: 
+Currently working with Inkoniq IT solutions, Bangalore as a Senior QA Analyst, from November 2015 till date. 
+Worked with Indium Soft (India) Pvt Ltd, Bangalore as a Senior Test Engineer, from January 2014 November 2015. 
+Worked with Pole to Win International, Bangalore as a Test Engineer, from Aug 2011- January 2014. 
+Deputed at onsite for Zynga, Bangalore as QA Engineer from March 2012 - June 2013. 
+Professional Skills 
+Manual testing on Mobile Applications - Android & iOS and Web Application on various browsers. 
+SDLC, STLC, Defect Lifecycle and testing methodologies like Functional Testing, Acceptance Testing and System Testing. 
+Preparing the Test Plans, Test Cases and accordingly executing them. 
+Sound Knowledge of Black box testing. 
+Following Scrum Process (Agile Methodology). 
+Experience on Google Analytics. 
+Basic knowledge of Automation Testing and Security Testing (Charles Proxy). 
+Basic knowledge of Performance Load Testing (JMeter). 
+Basic knowledge of SQL. 
+Hands on experience in Localization Testing (EFIGS). 
+Technical Skills 
+Testing Tools: 
+TTP(Test Track Pro) Milo Jira plan.io Bugzilla Mantis 
+Perfecto Selenium IDE 
+Selenium WebDriver. 
+Operating System : 
+Windows XP/ Windows 7/ Windows 8.1 
+Project snapshots: 
+PROJECT Talentedge 
+Company Inkoniq It Solutions 
+Client Talentedge 
+Description 
+An innovative learning solutions provides executive education courses, degree programs, online certification courses. 
+Role Senior QA Analyst 
+Responsibilities Performing the following activities: 
+Focus on the Functional and UI testing. 
+Checking Web page load time using the Google Page speed tool. 
+Checking Payment transaction flow across all available options. 
+Checking Backend functionalities using Content Management tool - Word press. 
+Adding contents in backend and checking the update in the frontend. 
+Validation for the Mandatory fields in the Backend. 
+Validation for the Content size update in the Backend. 
+Updating content and checking update in the frontend. 
+PROJECT Daily Objects 
+Company Inkoniq It Solutions 
+Client Daily Objects 
+Description India's online shopping portal of custom/designer mobile cases for various devices with COD services available. 
+Role Senior QA Analyst 
+Responsibilities 
+Below mentioned are my activities : Checking the Device matrix for Build installation. 
+Installation of build via Test fairy for iOS and SDK (adb) for Android. 
+Performing Smoke testing to check the stability of the build. 
+Providing UDIDs of the devices to client for provisioning. 
+Checking the real time activity using Google Analytics. 
+Retrieving and Capturing Crash logs. 
+Providing Sign Off after Exit Criteria is achieved. 
+Sending mail to client for performing UAT. 
+PROJECT TheLallantop Company 
+Inkoniq It solutions Client 
+Aaj tak Description News website with most viral and social sharing Indian content on the web in Hindi 
+Role Senior QA Analyst/Module Lead 
+Responsibilities 
+Communicating with Delivery Manager for discussion of the Sprint plan. 
+Creating test cases and test scenarios as per the Sprint Contents. 
+Sending QA Report to client after providing Sign Off for performing UAT. 
+Focusing on the CR as per the list provided by the client. 
+PROJECT Emirates Auction 
+Company Inkoniq It Solutions 
+Client EA 
+Description Emirates Auction (EA) is a auction company in 
+Middle East. The company specializes in automobiles, vehicle license plates, real estate and properties, VIP mobile numbers, etc. 
+Role Senior QA Analyst 
+Responsibilities 
+Focusing on the Checkout Flow of the Application. 
+Enabling and disabling auction and checking the plates update. 
+Performing Retesting and Regression testing on different servers. 
+Sending Daily Status Report (DSR) to team as well as Reporting Manager. 
+PROJECT Outlook Magazines 
+Company Inkoniq It Solutions 
+Client Outlook 
+Description 
+Outlook India is a weekly English News magazine published in India. Provides latest news on politics, cricket, sports, cinema and business news from India available on different platforms. 
+Role Senior QA Analyst 
+Responsibilities 
+Performing Smoke testing to check the stability of the build. 
+Verifying the real time activities - Google Analytics.. 
+Reporting issues on Mantis Bug reporting tool. 
+Retrieving and Capturing Crash Logs. 
+Verifying the subscription status. 
+PROJECT Nutanix 
+Company Inkoniq It Solutions 
+Client Nutanix 
+Description Nutanix Support mobile application provides the ability to troubleshoot issues, create and update support cases, research products. 
+Role Senior QA Analyst 
+Responsibilities Functional and UI testing on both Portrait and Landscape mode. 
+Preparing Defect Trend Chart for the different build submission. 
+Attending weekly Scrum meeting with client for any CR or new implementation. 
+Retrieving and Capturing Crash Logs. 
+PROJECT 
+Draw Something 
+Company Indium Software (India) Pvt Ltd 
+Client Zynga 
+Description Draw Something is the World's Most Popular Drawing Game. Have fun with your friends and family exchanging doodle art 
+Role Senior Test Engineer 
+Responsibilities Checking the Device Matrix for Installation of the build. 
+Creating and Updating test cases as an when required. 
+Reporting issues on Jira Bug tracking tool along with the Crash Logs. 
+Providing Sign Off on different servers after testing is completed. 
+Verifying Play Store/App Store builds after the Soft and World Wide launch. 
+PROJECT Pocket Ages 
+Company Indium Software (India) Pvt Ltd 
+Client 505 Games 
+Description 
+Pocket Ages is a captivating town building and trading game that spans multiple eras! Gather resources, crafting goods, and research new technologies to unlock more advanced products. 
+Role Test Lead 
+Responsibilities Allocation of tasks to teammates. 
+Sending Test start mail to client regarding Daily activities. 
+Installation of the builds via Filezilla. 
+Reviewing of the issues logged in Plan.io Bug tracking tool. 
+Verifying Live Build Update. 
+PROJECT Caf World 
+Company Pole to Win International 
+Client Zynga 
+Description 
+Caf World was a multiplayer restaurant simulation social network game.(FACEBOOK) 
+Role Senior Test Enginner/Module Lead 
+Responsibilities 
+Involved in the Cafe World Transition. 
+Creating and Updating Test Cases. 
+Attending Daily Scrum and Sprint Meeting. 
+Involved in performing Security Testing using Charles proxy. 
+Providing suggestion ideas for New Feature implementation. 
+Reporting issues on Jira Bug tracking tool. 
+OTHER PROJECTS 
+E- Commerce - Flipkart Seller, We butter - Mobile App (iOS, Android). 
+Bike Booking app - Wicked Ride - Mobile App (iOS, Android). 
+Outsourcing - Excelity Website - Web, Mobile(m web-iOS, Android), ipad, tablet. 
+Communication Services - Intercall Mobile Meet - Mobile App (iOS, Android). 
+Slot gaming app - Huuuge Casino - Mobile (iOS, Android). 
+Adventure gaming app - Chimpact 2, Drawn to Life - Mobile (iOS, Android), ipad. 
+Combat strategy gaming app - Battle Islands - Mobile (iOS, Android), ipad. 
+Social Networking - Chefville, Poker, Frontierville, Gaming Console - Ace Combat, Power Rangers, Dagger Dale. 
+EDUCATION 
+Bachelor of Engineering in Computer Science from Acharya Institute of Technology (A.I.T), Bangalore. Higher Secondary Examinations (12th) from DCRBV, West Bengal Board of Higher Secondary Education. 
+Secondary Examinations (10th) from SAVM, West Bengal Board of Secondary Education. 
+PERSONAL DETAILS 
+Fathers name: Mr. Bhola Nath Ghosh 
+Mothers name: Mrs. Rita Ghosh 
+Date of Birth: 2nd July, 1986 
+Address: B 3/2, Puspanjali Appts, Barabazar, Chandannagar, Hooghly, Pin: 712136, West Bengal, India. 
+Language: English, Hindi, Bengali. 
+Hobbies: Listening Music, Playing Table tennis, Mobile gaming, cooking. 
+DECLARATION 
+I hereby declare that the information given above is true to the best of my knowledge. 
+Location: Bangalore AnupamGhosh 
+Date: 
+(Anupam Ghosh) 

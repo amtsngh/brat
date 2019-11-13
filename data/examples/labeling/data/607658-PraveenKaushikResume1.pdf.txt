@@ -1,0 +1,54 @@
+ PRAVEEN KAUSHIK 
+Developer 
+Pune, Maharashtra | +91-8928275594 | praveenkaushik1994@gmail.com | kaushikpraveen.github.io 
+Work Experience 
+Freelance Web Developer 
+Freelancer.com 2014 Present 
+Been working as freelance web developer for 2 years & handled a few projects. 
+Some of my works are- Firsthaat.com (Magento based Ecommerce website) Proyecto (A site for national project presentation event held at Bvpcoe) Playstickgames 
+(An online arcade/games website) Freedoctorhelpline.com(Online Medical Service ) 
+Front End Web Developer (Intern) 
+Free Doctor Helpline Pvt. Ltd. Jun 16 
+August 
+16 Responsible for Front end web development & SEO service. 
+Designed fully responsive website using Bootstrap. 
+Education 
+B.Tech, Information Technology 
+Bharati Vidyapeeth College of Engg., Pune 2013-17 -Currently in Semester 8 with average of 60.5% 
+Grade 12 
+Harcourt Butler Sr. Sec. School, New Delhi 2012 
+-CBSE Exam, scored 64.5% Grade 10 SKR Public School, New Delhi 2010 
+-CBSE Exam, scored CGPA 9.0 Network Security Diploma Certification 2016 
+Full Stack Web Development Course 2017 From FreeCodeCamp.com Achievements 
+Selected for IBM Hackathon 2016 & developed a Cognitive Android app. 
+Finalist in DIGITAL PUNE HACKATHON 2015 & worked on an app for MSEDCL. 
+Secured First position for Best Publicity Team in Bharatiyam 2015 held at BVCOE. 
+Technical Head of IT Department Student 
+Association. 
+Skill Set 
+Web Development 
+CMS(Wordpress,Magento & joomla) 
+HTML5, CSS3 JavaScript, JQuery JS Frameworks 
+Bootstrap 
+Knowledge of SQL & DB SEO 
+App Development 
+Android Studio 
+Apache Cordova 
+Ionic Framework 
+Software Tools 
+Eclipse 
+MS azure, 
+XAMP Adobe CS6, IBM Bluemix. 
+Programming Languages 
+C, C++ 
+Core Java, XML PHP basic & Javascript 
+Projects 
+Smart Visualizer App (IBM Hackathon) Cognitive Mobile app with Visual Recognition & Text-to-speech Capability developed using Apache 
+Cordova & IBM Bluemix . 
+Smart Billing Android App 
+Developed during Digital Pune Hackathon 2015. 
+An App for MSEDCL for advanced Electricity Billing 
+Worked on Backend REST services & UI design. 
+Educational Data Mining using Predictive 
+Analytics (Final Year Project) 
+Java Based QUIZ APPLICATION (Pre Final Year) 

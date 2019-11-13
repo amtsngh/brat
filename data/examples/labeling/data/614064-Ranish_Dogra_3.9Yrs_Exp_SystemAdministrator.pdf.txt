@@ -1,0 +1,59 @@
+Page 1 of 2 Ranish Dogra 
+Ranish024dogra@gmail.com | +91 706677380 | Pune INDIA 
+System Administrator Professional Attributes 
+Linux & Windows Administration professional with experience of 3.4 years in Support, Networking, System 
+Administration, Installation, Configuration, Troubleshooting and maintenance. Currently spearheading as Associate Tech-Admin with Perennial Systems. 
+Technical Knowledge and Proficiency in System Administration, Windows Server 2003/ 2008/2012 Installation, Active Directory, Network Maintenance, Hardware Maintenance Configuration, Installation of Operating Systems, Windows(All Versions). Experience in System Administration including Server Implementation & Administration, Disaster Recovery Management, Technology Support and Technical Troubleshooting. 
+Experience in managing the facility and Infrastructure set-up and maintainance with experiese in Systems 
+Infrastructure ranging from Hardware Engineer to entire System administration inclusive of Network 
+Implementation, Configuration, Troubleshooting and Maintainance of Local Area Networks. 
+Technical Skills 
+Work Experience 
+Perrenial Systems Associate Tech-Admin(July 2016-Till Date) Qspiders Software Testing Training Institute System Administrator(July 2015-July2016) ICA Institute of Computer Accounts 
+Desktop Support Engineer(Nov 2013-Jun2015) 
+Key Responsibility Areas 
+Windows Administration- 
+Efficiently managing the designing, installation and configuration and troubleshooting with respect to LAN/WAN maintenance, VMware Windows Servers, network performance/connectivity and user management/permission. 
+Manage network infrastructure, configuration, and network services. 
+Accountable for installation and configuration of core network service like Active Directory Domain services, DNS, DHCP and proficiently managing administering Active Directory, Firewall, Backup Server, Exchange Server, Web 
+Servers, Keeping track of users calls and the status and managing Checkpoint Firewall. 
+Monitoring and configuring network infrastructures, networking applications and protocols, configuring and implementing web services as specified 
+Performing Capacity Planning to ensure appropriate storage and/or processing capability for the specified applications to support present and future requirements Vmware ESX v3.5/4.0/4.5/5.5 Virtual Center v5.5 Servers IBM xSeries, HP DL360, DL580, DL380 Gen9 
+Ticketing Tools Remedy, Backups NT Backup , Symantec Backup, handy backup 
+Operating Services Linux, Ubuntu,Centos,Windows 2000/2003/2008/2012 Cloud AWS , OwnCloud ,Zoom Cloud Meetings 
+Packages / Tools MS Office & Internet Applications 
+Hardware Firewall Cyberoam /Sonicwall 
+Citrix Xen Server Xen server /Xen Desktop 
+Page 2 of 2 Responsible for providing the desktop system administration and support to the network; Interacting with the users to resolve the queries, issues and problems. Analyze LAN to determine what were the major problems and improvements needed to be made to the network infrastructure. 
+Creating and managing Users and Groups Management of Shares/Folders on Server; deft in user Access Rights 
+Management/ Implementation of Group Policies to optimize User Access 
+Overseeing network connectivity and responsible for data backups and recovery. Configuring routers, Firewalls, anti-virus, VPN & WLAN, Web server, FTP. 
+Responsible for configuring and managing RAID and Installing, Configuring and Managing McAfee, Seqrite Antivirus. 
+Ensuring quality by following strong ITIL Process to meet client SLA 
+Deftly involved in administering remote servers through PC Anywhere& RDP. 
+Deploying virtual machines through template and migrating virtual machines through VMotion. 
+Creating Data store using raw LUN and creating snapshots and consolidating it. 
+Migrating Virtual Machine through Storage VMotion and adding extent to the existing Datastore 
+Installing PSP & Firmware on HP ProLiant servers and troubleshooting IBM System xSeries& HP Proliant Hardware 
+related issue Responsible for deploying windows security patches through blade logic, installing, configuring & managing TSM 
+Backup & Recovery. 
+Involved in troubleshooting the application and software related issue through. Remote Management Tools like Remote Desktop connection, Team viewer. 
+Installing and configuring vSphere Distributed Virtual Switch and managing ESXi through vCLI, Power CLI and SSH 
+Responsible for Troubleshooting of ESX internals (Service Console), Installation and Configuration of vSphere ESX 
+4.5/5.5. 
+Installing and Configuring Virtual Center 4.5, 5.5 and deploying Virtual Machines through template 
+Have knowledge on Amazon Web Service and Microsoft Azure Cloud Technology. 
+Have knowledge on EC2, EBS, and Route 53. 
+Linux Administration 
+Troubleshooting the OS and product related issues. 
+Debug and correct technical issues with Web servers, mail servers, and database servers. 
+LAMP (Linux, Apache, MySQL, PHP) installation, customization, and maintenance. 
+Monitor overall status and health of Machine. 
+Looking after the maintenance and installation and troubleshooting of Linux. 
+Training to end-users & team members on functional and technical areas. 
+Education & Trainings BACHELOR OF COMPUTER APPLICATION, Lovely Professional University Punjab. 
+Diploma in Computer Hardware & Networking, JetKing Infotrain Ltd. (Microsoft Windows Server Administration 2003/2008, CCNA, Linux) 
+Certificate Course in Computer Hardware & Networking, National Institute for Entrepreneurship & Small Business 
+Development. 
+Languages Known 
+English, Hindi, Punjabi 

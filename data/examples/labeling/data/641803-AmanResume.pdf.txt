@@ -1,0 +1,44 @@
+ CURRICULM VITAE AMAN DINESH GHANTE 
+Email Id: aman031092@gmail.com 
+Mobile No: +91-7709717133 
+CAREER OBJECTIVE: 
+: Seeking a challenging and rewarding opportunity with an organization of repute which recognizes and utilizes my knowledge and potential while nurturing my analytical and technical skills in the field of IT. 
+STRENGTHS: 
+Good communication and interpersonal skills Focused and confident with positive attitude 
+Good team player Hard work is always promised Repeated research for improving self-abilities 
+Fast Learner Self motivated Good attention to detail ACADEMIC PROFILE: 
+DEGREE School/College Board/University YEAR OF PASSING AGGREGATE/CGPA 
+M.C.A. Sadar Patel 
+Institute of Technology 
+Mumbai 
+University 2016 5.7/10 B.C.A. Bijlal Biyani 
+Science College 
+Sant Gadge Baba 
+Amravati 
+University 2013 58.46 
+H.S.C. Vidha Bharati 
+Mahavidhyalaya 
+Maharashtra 
+Board 2010 48.00 S.S.C. Dnynamata High 
+School 
+Maharashtra 
+Board 2008 70.48 
+TECHNICAL PROFILE: 
+Languages Know: C, C++, Java, Advance Java, SQL, HTML, CSS, PHP Tools Worked on: Android Studio, Visual Studio, Net Beans 
+Knowledge in: Git, GitHub (Version Control), AdMob (Running Ads in Apps) ACADEMIC PROJECT: 
+Project Name: Event Management System (Android) 
+Abstract: Event Management System is Android based application that concentrates on managing the event through Mobile Phones. It also provides the user to add NOTES and TO-DO lists that might be essential to manage an event. 
+LATEST PROJECTS (2017): 
+Project Name: Aartiyaan ADG 
+Uploaded on Play Store 
+Platform: Android (Mobile) 
+Skills used: OOP, XML, JSON, PHP (for parsing data from server), SQL, Materia Design 
+PERSONAL PROFILE: 
+Name : Aman Dinesh Ghante Gender : Male 
+Father s Name : Dinesh Shankar Ghante 
+Mother s Name : Meena Dinesh Ghante 
+Date of Birth : 03rd October, 1992 
+Nationality : Indian 
+Languages Known : English, Hindi, Marathi 
+Alternate Contact number : 0721-2568951 
+Permanent Address : Amar Bhagat Singh Chowk, Frezerpura, Amravati City, Dist- Amravati, Pin Code-444606 Alternate Email : AmanGhante@hotmail.com 

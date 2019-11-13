@@ -1,0 +1,191 @@
+Rahul Rathi Email: rahul.rathi.141989@gmail.com 
+Mobile: +91 
+9730 
+75 
+3959 
+CAREER OBJECTIVE 
+To succeed in an environment of growth and excellence and earn a job which provides me satisfaction and self-development and 
+help me to achieve organizational goal. 
+WORK EXPERINCE CREST 
+part of SPRINGER NATURE, PUNE, MAHARASHTRA 
+February 2012 - Till Date. 
+Business System Analyst, Apr 2014 
+Present o Certified Scrum Product Owner & Certified Business 
+Analysis Professional 
+Trained. 
+o Organized review meetings with various stakeholders & preparing the Business Requirement Document. 
+o Good understanding of Cards & Payments domain. 
+Mobile Banking, Card Payment 
+(ISO 8583), New Products by Bank, Digital Wallet, Contactless Payment, MPoS, PoS, ATM, e-Commerce, PCI-DSS. 
+o Successfully delivered in global and diverse work environments where team is distributed across multiple geographies and cultures where different teams are working remotely. 
+o Strong business analysis experience 
+Facilitating & Attending workshops aka inceptions, elicitation, gap analysis, documenting (BRD, SRS, PVD, FRD) maintaining trace-ability matrix, support development, test team, participate in UAT with product owners, creating Sprint reports (Burn down & 
+Burn up charts). 
+o Delivering product features in incremental and iterative manner. 
+o Accommodating feedbacks from Business, Stakeholders, SME and Product owner by prioritizing it with all team members involved. 
+o Assisting the business case, Planning & monitoring, Eliciting requirements, Organize Requirements, o Translating and Simplifying requirements into user stories. 
+o Analyzing all the requirements and making small-simplified user stories out of those. 
+o Strong development experience - requirement gathering, analysis, design, development, testing, implementation and support of software applications 
+o Worked with various 
+(PSP) Payment Service 
+Providers: World Pay, Cyber Source. 
+o Good understanding of various Regulatory Compliance on the Card Industry like: CARD Act, UDAAP GLBA Financial Privacy Rule, Domestic Payment Schemes, EMV Standards, PCIDSS, SEPA Cards Framework, 
+etc. 
+o Experienced and certified AGILE/SCRUM practitioner with responsibilities: 
+Maintaining JIRA board & physical board, Creating & updating 
+JIRA workflows, Sprint Planning, Product Prioritizing, Product Grooming, 
+Iteration Planning, Sprint Retrospective, Sprint Reviews/Showcase to all Stakeholders, User Stories, Test Strategy 
+(Defining, planning, Tracking). 
+o Defect/Release Management conducting bug bash where all team members are involved. 
+o Expertise with Agile & waterfall methodology and good understanding of SDLC. 
+o Performing User acceptance test immediately after every build. 
+o Stakeholder Management. 
+Rich international exposure of over 5+ years - Germany, UK, USA, New Zealand. 
+Communicating process changes, enhancements, and modifications to the teams involved, stakeholders and business. 
+o Hands on experience with Business Management System and Business UXML. 
+o Work on production issues as incidents. 
+o Liaison between programmers & internal business entities in designing and implementing functionalities. 
+o Collaborating in the planning of new product decisions and enhancements to existing applications. 
+o To take ownership of implementation process with clients/customers. 
+o Responsible for implementation process to new clients, by setting up to go live. 
+o Follow & practices agile process on day-to-day basis & bringing the agile culture in the product team. 
+o Training the new joiners by giving functional and technical knowledge related to the project. 
+Software Developer, Feb 2012 
+Mar 2014. 
+o Have a good understanding of software development life cycle. 
+o Actively involved in the planning, upgrade, implementation & support within the team. 
+o Good understanding of use of technology to solve domain specific problems. 
+o Ability in grasping, understanding, analyzing of Functions and Requirements of Process. 
+o Ability to deliver deliverables on time as per specifications & to the highest possible quality. 
+o Ability to do analysis of live issues, looking up log files, including FIX log files. 
+o Ability to handle multiple tasks. 
+And to work under pressure. 
+o Technologies worked upon: - Java, Spring Framework, Hibernate, Scala, Play Framework, SBT, Maven, Marklogic, Oracle, SQL, Micro Services (SOA). 
+PRODUCT s/PROJECT s 
+Project 
+Name: Protocols 
+As Business Analyst 
+o Duration: Current. 
+o Payment 
+Gateway: Integration with Web-Shop 
+o Responsibilities: 
+Act as a liaison between various team s involved & stakeholders. 
+Analyze 
+the Business Requirement Document 
+(BRD), Functional Specification Document 
+(FSD) 
+and Integration Specification Document (ISD). 
+Define and review 
+the test scope and test conditions making sure test coverage is 100%. 
+Discuss various Product backlog items with Product owner, Stakeholders & SME & inform status on day-to-day basis. 
+Conduct Product backlog grooming meeting with all stakeholders, business & product owner. 
+Discuss and plan sprint goal with product owner and 
+then represent that to team. 
+Conduct Sprint planning meeting with team & estimate the prioritized backlog items. 
+Review Sprint status and make sure team will achieve sprint goals. 
+Conduct Sprint retrospective & create to do items list from it. 
+Conduct Defect/Bug Bash before every major or minor release on the live. 
+Create/Define Test Strategy planning with testing team & tracking. 
+Communicate changes in sprint goals to product owner. 
+Educate and support team in becoming more self organized by following Lean Agile practices. 
+Creating and reviewing acceptance criteria for each user stories. 
+Creating user stories from epics/features. 
+o Description: 
+We have created the Agile Scrum workflows in JIRA and follow the lean agile practices. 
+This project is 
+to integrate all four website s 
+and create on for the scientific researcher s where it will contain the details about all the experiments conducted and 
+procedure details to conduct the same experiments in other laboratories around the globe. 
+This project will be based on the subscription based for Universities across the globe & the research centers. 
+o List of current websites to be integrated: 1. http://www.springerprotocols.com/ 2. http://www.nature.com/nprot/index.html 
+3. http://www.nature.com/nmeth/index.html 
+4. http://www.nature.com/protocolexchange/ Project 
+Name: BMC S&D 
+(Biomed Central Service & Delivery). 
+As Business Analyst o Duration: 2 year 11 months. 
+o Web Site: 
+http://www.biomedcentral.com o Payment 
+Gateway: Integration with Web-Shop 
+o Responsibilities: 
+Act as a liaison between various team s involved & stakeholders. 
+Creating Agile Scrumban workflows in JIRA. 
+Maintaining the physical wallboards. 
+Communicating & conducting maintenance of all the workflows involved with different teams 
+Updating the various discount schemes provided by business on to the website. 
+Updating tax related information into system so user gets appropriate pricing information. 
+Discuss and plan sprint goal with product owner and 
+then represent that to team. 
+Conduct Sprint planning meeting with team & estimate the prioritized backlog items. 
+Review Sprint status and make sure team will achieve sprint goals. 
+Conduct Sprint retrospective & create to do items list from it. 
+Conduct Defect/Bug Bash before every major or minor release on the live. 
+Create/Define Test Strategy planning with testing team & tracking. 
+Educate and support team in becoming more self organized by following Lean Agile practices. 
+o Description: 
+We have created the Agile Scrumban 
+workflows in JIRA and follow the lean agile practices. 
+In order to support the author submissions & give them advantages of discounts & create new discount coupons as and when needed. 
+The submitted document goes through various workflows and 
+transformation before it is published on to website. 
+Also to update the TAX to be calculated on the submission as per the bi laws of the country of submission. 
+Also to update the existing submission workflows & create new workflows in case of new category. 
+Project Name: BMC C&F (BioMed Central Commercial & Finance). 
+o Technology: 
+Java, Spring, Hibernate, Ajax, Velocity, Tomcat, Maven, Scala, Marklogic, etc. 
+o Duration: 2 years. 
+o Web Site: 
+http://www.biomedcentral.com 
+o Payment Gateway: Integration with Web-Shop 
+o Responsibilities: 
+Developing the Code as per the requirements. 
+Developing the views using velocity. 
+Writing the code in TDD pattern. 
+Unit testing and integration testing of owning use cases. 
+Handling different types of issues. 
+Modify existing software to correct errors. 
+Used commons and log4j logging framework. 
+Work on Unit and Integration Testing. 
+Use JavaScript for client side validations in the JSP and HTML pages. 
+Perform unit testing, system testing and integration testing. 
+Develop SQL queries in Oracle. 
+Consult with customers on project status, proposals and technical issues. 
+Advise customer on perform and maintenance of software systems. 
+Coordinating the installation of software system in the company. 
+Store, retrieve, and manipulate data for analysis of system capabilities & requirements. 
+Conferring with data processing and project managers to obtain information on limitations & capabilities for data processing projects. 
+Directing software programming and development of documentation. 
+Analyzing software requirements to determine feasibility of design. 
+Train users to use new equipment. 
+Consulting with customer concerning maintenance of software systems. 
+Communicating and integrating with various systems located globally. 
+o Description: 
+This project is handling the orders of articles submitted by authors on the BMC portal. 
+It involves the submission of manuscripts, payment, and uploading those manuscripts as article on the BMC portal. 
+It also allows the Universities to make tie ups on prepay and post pay basis where authors are allowed to make proper claim of the discounts under the appropriate University or institution. 
+Authors are also allowed to submit the articles as the individual. 
+It handles entire order till payment and 
+the uploading of the article on portal. 
+Payment gateway integration along with elastic search and sap in the back end to store 
+all the information and data related to orders and using elastic search to find the details. 
+ACADEMICS: 
+CDAC 
+(Institute of Advance 
+Computing & Software Development), Pune. 
+o Post Graduate Diploma 
+In Advance 
+Computing (2012) : 
+68% Guru Nanak Institute of Engineering & Technology, Nagpur. 
+o B.E. in INFORMATION TECHNOLOGY (2011) : Agg 63.96% Dr. Panjabrao Deshmukh Polytechnic, Amravati. 
+o Diploma in Computer Engineering (2008) 
+: 66.72% Golden Kids English High School, Amravati. 
+o Secondary School Certificate (SSC)(2005) : 57.06% PERSONAL DETAILS: Date of Birth : 14th Apr 1989. 
+Hobbies : 
+Listening to the Music, Surfing the Internet, 
+Gaming, Working out, Languages Known 
+: English, Hindi, Marathi. 
+Current Address 
+: T-24, F-203, Amanora Town Park Hadapsar Pune. 
+Declaration: I Rahul R. 
+Rathi hereby confirm that the above information is true to the best of my knowledge & belief. 
+Date: Place: Pune. 
+(Signature) 

@@ -1,0 +1,100 @@
+ 1 ANSHUL SHARMA 
+Senior Analyst 
+Contact: +919920282601 Email Id: ansh.zeuss@gmail.com 
+OBJECTIVE 
+To work in an environment that is conductive to intellectual growth and that provides me an opportunity to apply my skills through work with your organization. As well as provide me enough opportunities for continuous growth and development of my skills and personality. 
+PROFILE: 
+Senior Analyst with over 2+ years of experience of Techno-functional specifications on Oracle Apps 
+SCM which includes Order management, Purchasing, Inventory modules. 
+Motivated and highly professional with great communication skills. 
+Thorough in requirement analysis and delivering with high performance. 
+Supported highly integrated system of Canon Inc. 
+Work experience in Oracle applications 11i and R12. 
+Technical knowledge in Oracle SQL & PL/SQL and other utilities TOAD & SQL*Plus. 
+Well versed in Functional flow of O2C cycles. 
+Knowledge & Hands on Package, Procedure, Function, Trigger & Cursor. 
+Good capabilities in understanding the Business Process Functionalities, Good Communication, interpersonal and team builder relationship skills, Quick learner. 
+Managed and Volunteered different events like: EduKare, Blood Donation Camps and Environment s Day drawing Competition for Kids with Capgemini s NGO Wekare. 
+SKILL SET: 
+ERP Oracle Application R12(OM), Oracle Application R11i(OM) 
+Order Management, Purchase Order and Inventory Management. 
+Database Oracle 10g, Oracle 11g Application Software Oracle Report Builder, Form Builder, PLSQL Developer, TOAD, Discoverer, WinScp, SQL*Plus, Notepad++, Excel, Word, Putty 
+Languages SQL, PLSQL, APLSQL, HTML, Basics of JAVA 
+Operating Systems WINDOWS XP/VISTA/7/10, Ubuntu, Basic Unix. 
+PROJECTS 1. Oracle Application. 
+Description: For Canon (One of the biggest Camera and Medical Equipment Company). 
+Technology Used: Oracle Apps R12, 11i, Discoverer, Sales Online, WOM 
+Team Size: 10 
+My Role: Involved in the analysis of the assigned support tickets including replicating the issue, analyzing the custom processes/reports/forms and updating the ticket with the appropriate information. 
+Work on the development activities as part of issue resolution. Perform Unit Testing, Migrate to next environments, assist user testing and closing the tickets. 
+Designing alerts for different activities related to standard as well as custom tables. 
+Archiving and purging of tables to increase performance of production environment. 
+Pl/SQL programming, procedures, triggers, functions & packages. Involved in Data Fix, Fixing production Issue. 
+Involved in fixing and testing of functional aspects of Order Management module. 
+Functional understanding of modules: Order management, Purchasing, Inventory. 
+Production Support. 
+2 2. 
+Comparative Analysis of performance of K-means algorithm for skin detection using wearable sensors. 
+as M.Tech Dissertation works. 
+Description: to improve performance of K-Means algorithm for data mining for skin detection and implementation. 
+Technology Used: K-Means Algorithm 
+Team Size: 1 
+My Role: Design and Analysis of Algorithm. 
+3. Project on ONLINE TEST CONDUCTING SYSTEM in Core Java Language in B.Tech Final semester. 
+Description: An application which fulfills the entire requirement for conduction an online examination remotely from the base machine using client server architecture. 
+Technology Used: JAVA & SQL 
+Team Size: 1 
+My Role: Development of entire project. 
+4. Project on LIBRARY MANAGEMENT SYSTEM In Advance Java (Servlets) Language in B.Tech Vth semester. 
+Description: A static application which can be used after installation over a computer to conduct examination by communication with database on server. 
+Technology Used: JAVA 
+Team Size: 1 
+My Role: Development of entire project. 
+WORK EXPEREINCE Company - Capgemini 
+Designation - Senior Analyst 
+Period - Oct 15 Current 
+Location - Mumbai 
+ACHIEVEMENTS 
+1. Research paper published in International Journal of Engineering and Computer Science (IJECS). 
+2. Research paper published in International Journal of Engineering Technology and Management (IJETM). 
+EXTRACURRICULAR ACTIVITIES Managed and Volunteered different events like: EduKare, Blood Donation Camp and Environment s Day drawing Competition for Kids with Capgemini s NGO Wekare. 
+Participated in Annual Corporate Fest JASHNN of Capgemini. 
+I coordinated and participated in Amity Leadership Fest (ALF) organized by my university. 
+I participated and secured gold medal for play (French) in Inter-Foreign Language competition during Amity Leadership Fest (ALF). 
+Actively coordinated placement drives held by my university and represented M.Tech Computer science branch. 
+STRENGHTS 
+Honest, Sincere and Hard Working. Motivator. 
+A Team Player. 
+Non-Biased and a conscious decision maker. 
+Eye for details/specifications and quality. 
+Quick grasping power. 
+No ego when it comes to learning. 
+Open to new ideas and suggestions/improvements. 
+3 LANGUAGES 
+Fluent in English and Hindi 
+Beginner in French. 
+EDUCATION 
+Examination 
+Discipline/ 
+Specialization 
+School/college Board/University 
+Year of passing %age/CGP 
+M.Tech. 
+Computer 
+Science 
+Amity University, Rajasthan 
+Amity University, Rajasthan 2015 8.10 CGPA 
+B.Tech. 
+Information 
+Technology 
+Govt. Engineering 
+College, Bharatpur 
+RTU 
+2012 
+63.88% HOBBIES 
+Basket-Ball 
+Snooker 
+Volley-Ball 
+DECLARATION 
+I certify that the above information is true to best of my knowledge. In case any omission found later, I shall be liable for the consequences arising out of it. 
+Anshul Sharma. 

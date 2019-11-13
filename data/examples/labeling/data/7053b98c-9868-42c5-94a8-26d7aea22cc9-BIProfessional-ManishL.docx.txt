@@ -1,0 +1,110 @@
+Manish Lakhera 
+BI Professional cell: (+91) 7022669477 
+Email: manishlakhera.dwh@gmail.com 
+Sector -82, Kendriya vihar -2, Noida, Uttar Pradesh 201306 
+Summary 6.5 years of IT experience, including 6+ years implementing Business Intelligence & Data warehousing solutions to Measure, Monitor and Optimize Business Processes in the organization. 
+Worked on all moving parts of complex BI / DW solutions - infrastructure, technology, requirement gathering, data modeling, integration, analytic layer, metrics, reports, dashboards, and scorecards. Great experience with putting all pieces together in the most effective way. 
+Worked at top companies like UBI Soft, Hewlett Packard (HP), Juniper Networks, FOSS MRGAMS, AT&T Inc. 
+Experience in managing and mentoring business intelligence development teams (Onsite/Off-shore teams) Strong ability to work with cross-functional teams to convert business challenges into requirements/BI solutions. 
+Heavily business focused but at the same time technically very strong. I switch a lot between hands-on work and strategic thinking. 
+6(+) years of experience with multiple BI products like Tableau, Business Objects. 
+Expert knowledge and hands-on experience with Tableau 8.x/10.x Designed and build dynamic & Interactive dashboards to deliver actionable information to business users to help them meet their business goals and improve business processes. 
+Hands-on experience of advanced Tableau features like dashboard actions, parameters, calculated fields, sets, dynamic filters, data blending, trends, forecasting, table calculations etc. 
+Good knowledge of best data visualization practices. 
+Good understanding of Tableau Architecture and services like VizQL, Backgrounder etc. Advanced knowledge and hands-on experience with Business Objects (BO) (XI 3.x/ XI R2/ 4.x). 
+Designed& Implemented BO Universes on top of Big Data Warehouses & Transactional systems to shield business users from underlying data complexities and enabled them to access relevant information without IT involvement. 
+Advance BO Reporting and Universe Design skills (Aggregate awareness, loops, contexts, row level security, derived views, index awareness etc.) 
+Designed and implemented more robust/flexible BO architecture including new BO XI security model. 
+Designed & Implemented analytic layers on top of data warehouses & transactional systems to shield business users from underlying data complexities and enabled them to access relevant information without IT help. 
+Strong SQL Knowledge. 
+Well versed with Data Warehouse Lifecycle (Kimball methodology) 
+Advanced Dimensional Modeling Skills- Star and snowflake schemas, slowly changing dimensions, mini dimensions, advance fact tables. 
+Comfortable working in the most agile of environments, even with vague requirements & rapid Iterations. 
+Nimble and take smart risks. Given Context, Capable of self-direction. 
+Strong knowledge of current technologies and best practices. 
+Trainings 
+Data Warehouse Lifecycle Overview (Bob Becker) Advanced Dimensional Modeling (Chris Adamson) 
+Business Objects (BO) Universe design Tableau Jedi Training (By Tableau) 
+Experience 
+(1)KPIT Technologies (A CMM Level 5 Company) Noida, India 
+Technical Consultant 
+Feb 2016- Sep 2017 Worked with multiple clients including Juniper Network, KPIT Business Team, FOSS - MRG. 
+Projects include Worked on the requirement gathering of the Tableau reports & Dashboard for Juniper Business Team, KPIT Business Team & FOSS MRG clients. Dashboard Analyzed the database tables and created worksheet views based on the columns needed. 
+Used Data Blending, groups, combine fields, calculated fields and aggregated fields to compare and analyze data in different perspectives. 
+Created parameters, quick filters and context filters. 
+Used parameter with filters for filtering of TOP N data out of one million rows of data. 
+Created Combine sets to display top products data based on their sale. 
+Applied advanced sorting in Tableau worksheet for best visualization of data. 
+Implemented Grouping in Online Graph for to create specific region of data. 
+Created Tree map, Bubble charts for representation the data in summarized form. 
+Implemented calculations and parameters wherever needed. 
+Visualize and make data in more granular form with help of LOD 
+Involved in creating interactive dashboard and applied actions (filter, highlight and URL) to Tableau dashboard. 
+Used Tool Tip feature in tableau for additional data display. 
+Created Tableau Bump Chart in worksheet that shows change in rank over time. 
+Applied Tableau security feature while at the time publishing of Tableau workbook. 
+Published dashboards to Tableau server 
+(2) Tek System (www.teksystems.com) 
+Bangalore, India 
+Senior Software Engineer 
+Jan 2015 
+Nov 2015 
+Worked with Client Hewlett Packard (HP) Projects Include 
+Understand Requirement, Analyzing Systems and Source Databases. 
+Involved in creating dashboards by extracting data from different sources. 
+Involved in creating a Tableau dual-axis chart with multiple measures Created quick filters on worksheet views. 
+Created Cascading filters in Tableau worksheet so that Business people can see only relevant data only. 
+Created different charts in visualization Tableau Pareto chart & Box Plot 
+Connect the database using multi table with proper joins. 
+Used data blending for deferent data sources. 
+Used LOD in Tableau worksheet Done extensively formatting in Tableau worksheet & Dashboard for better representation data. 
+Created set in Tableau and decoded the views with other dimension fields. 
+Created Bullet Chart in Tableau worksheet. 
+Created Funnel Chart in Tableau worksheet to show each stages of Sales funnel. 
+(3) Tech. Mahindra (www.techmahindra.com) 
+Chandigarh, India 
+Sr. Asso-Technical Support Mar 2014 Oct2014 
+Worked with Client AT&T 
+Gathered business requirement and business need for what they want to analyze in Tableau workbook and Dashboard 
+Applied condition based filter on worksheets. 
+Created parameters used CASE Statement variable Created sets to display top products based on their sale. 
+Created dashboards displaying sales, variance of sales between planned and actual values. 
+Created graphs like Gantt Bar, Bar in Bar Graph & Continuous Area Chart. 
+Implemented calculations and parameters wherever needed. 
+Published dashboards to Tableau server 
+Created Parameter in Tableau worksheet for to provide dynamic control to Business people. 
+Implemented drill down capability in Tableau worksheet. 
+Tableau worksheet view is sorted by descending Profit (4) NIIT LTD (A CMM Level 5 Company) Gurgaon, India 
+Software Engineer 
+Apr 
+2013- Mar 2014 
+Worked with client Ubisoft Group. 
+Projects include Supervised UbiSofts North America Information delivery team. 
+Created/maintained multiple Business Objects (BO) universes built on top of large business data warehouse as well as transactional systems. Example includes - Sales, Finance, Expense and PO Requisition universe. 
+Used aggregate tables with aggregate awareness set up to improve the performance of few heavy queries in Sales universe. 
+Used shortcut joins in Accounts Receivable (AR) and Sales universe to fine tune certain queries by reducing number of tables used in queries. 
+Used keys instead of labels where possible to take care of index awareness benefits of performance and uniqueness Implemented Row Level security to restrict access of Non USA users to USA data Resolved Fan trap by using context and alias. 
+Define context for each fact table in the Universe to resolve loops and chasm traps 
+Used Integrity checks on the universe to detect any issue with structure, parsing of objects/joins, contexts, loops before publishing universe to repository. 
+Placed limit on the query execution time to prevent runaway queries which can overload database and cause an outage for all users Used the ANSI92 universe parameter to enable the ANSI 92 syntax for joins. 
+Created Game Analytic dashboard using Tableau(8.x) to manage and measure Facebook games monetization efforts Published Tableau dashboards to Tableau server. 
+(5) Visesh Infotecnics LTD (www.viseshinfo.com) 
+New Delhi, India 
+Software Engineer 
+Jan 2011 
+Mar 2013 
+Worked with Client Visesh internal Business Team 
+Created/maintained multiple BO/BOBJ universes built on top of large business data warehouse as well as transactional systems. 
+Created/Modified many complex BO/BOBJ Webi reports with advanced formulas/variables Turned off LOVs for all dimension and detail objects that are redundant or not required 
+Created/Modified many complex BO/BOBJ Webi reports with advanced formulas/variables. 
+To automatically roll-up the data in the report, applied appropriate projection aggregation functions in all measure objects. 
+Used SQL aggregation in all measure objects to push the aggregation to the database and reduces the volume of data to be transported over the network. 
+Used Custom LOVs or cascading prompts to display LOVs where hierarchies and numerous values were involved. 
+Used derived tables to define measures dependent on multiple fact tables. 
+Use derived tables to reduce complexity of queries to be written by users and whenever it was not possible to create views in database. 
+Technical Skills 
+BI Tools: Expert Knowledge of Tableau(10.x/8.x) and Business Objects. 
+Database: 
+Oracle, SAP HANA, SAP BW 
+Education 
+Bachelor of Engineering (2005 2009) with 64%, Rajasthan University 

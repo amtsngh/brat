@@ -1,0 +1,196 @@
+Prashant Kumar Gupta 
+Mobile: +
+91 9620050930 E-Mail: prashant_gupta2k@yahoo.com 
+Profile Summary 
+15 Years of total experience which includes 6 Years in managing various offshore teams for Development, Production Support & System Administration with excellent delivery record to various clients. 
+11 years of experience in Requirements gathering, Gap Analysis, Development, Customization, Enhancements, Testing and Implementation of Oracle E-Business Suite (Finance, Supply Chain & HRMS modules). 
+Being part of 4 Implementations & 7 Enhancement/Production Support Projects in Oracle Applications R12/11i. Excellent in team building, mentoring & providing business solutions to various clients with onsite business team coordination experience. 
+Excellent Techno Functional knowledge in Order to Cash & Procure to Pay in R12. 
+Excellent in process mapping, process improvement, configuration, development, functional documentation, training documentation and production support. Proficient in providing design solution for custom components (RICEW) Adept in end-to-end development of software products from requirement analysis to system study, designing, testing, documentation (using Oracles AIM methodology). 
+Technical Expertise in EDI (e-Commerce Gateway), Discoverer/XML Reports, Workflow, Shell Scripts, Data Loader & Web ADI. 
+Key Skills & Knowledge 
+ERP Suite Oracle Applications 11i /R12 (11 years)Financials: 
+AR, AP, GL, CE, I Expense, Project AccountingSupply Chain: Order Management, ShippingPlanning: Inventory, Inventory PlanningProcurement: PurchasingHuman Resource(HRMS) Oracle Time & Labor (OTL)Others: Workflow, System administration, AOL, Flex fields, EDI ERP Tools Workflow Builder, XML Publisher, AppWorx, Dataload Classic, Oracle Alerts 
+Other Tools 
+Discoverer Reports 10g, Oracle Forms & Reports, Remedy 6.3, PVCS, Toad 
+Databases Oracle 10g/9i/8i, SQL Server 
+Programming Languages SQL, PL/SQL, PRO*C, SQL Loader, Unix Shell Scripting, C, C++ 
+Operating Systems SCO UNIX, Sun Solaris, Linux, Windows 7 Career history Sep 2014 
+Till Now Mitel 
+Senior Techno Functional Lead 
+Feb 2010 
+Sep 2014 Oracle India Pvt. Ltd. Principal Analyst 
+Jun 2008 
+Feb 2009 Intelligroup Asia Pvt. Ltd. 
+Senior Systems Analyst 
+Dec 2003 - Jun 2008 
+Agere Systems/LSI India Pvt. Ltd. Systems Analyst 
+Awards & Recognitions 
+Got special award in recognition of valuable contribution to OASIS Project for Agere Systems in 2007. 
+Professional Experience 
+Sr. Techno Functional Lead - Oracle Applications R12 
+Mitel 
+Sep 2014 
+Till Now 
+Project: Oracle EBS 
+1. 
+Leading offshore team for Development & Production Support. 
+2. 
+Built strategic alliances with business leaders to prioritize efforts and business requirements & providing solutions. 
+3. 
+Handing various meetings & providing weekly/monthly report about the progress on development/support. 
+4. 
+Prioritize development/enhancement work, involve in Gap Analysis, resource allocation for development, QA, testing & delivery. 
+5. 
+Automated several processes to reduce human effort & mistakes. 
+6. 
+Started Documentation for support issues, customizations, and new configurations for knowledge improvements. 
+7. 
+Delivered new entity configurations for Brazil, Korea & Japan for modules (GL, AP, CM, AR, OTL, FA, PO & HRMS) 8. 
+Delivered various Discoverer & XML reports for OTL, HRMS, Projects & Finance 9. 
+Delivered various workflow changes. 
+10. 
+Delivered various Oracle Alerts. 
+11. 
+Prepared several Functional, Technical & Process documents 
+Modules: Supply Chain, Finance, OTL, Human Resource & Projects 
+Environment 
+O/S & N/W: 
+Windows 7/Linux 
+Environment: Oracle Applications: R12.1.3 
+Tools: SQL and PL/SQL, Shell Scripts, Toad, Workflow, Discoverer, XML Publisher 
+Principal Analyst - Oracle Applications R12 
+Oracle India Pvt. Ltd. (Client: Celgene Corporation) 
+Jun 2011 
+Sep 2014 
+Project: Celgene 
+Managing various teams for Technical Development, Support, EDI (e-Commerce Gateway) & Apps DBA for this project. Responsibility Involved 1. 
+Build team, mentor & align them to serve client in best possible ways. 
+2. 
+Handing various meetings with Client & providing weekly/monthly report about the progress 3. 
+Prioritize development/enhancement work, resource allocation, testing & delivery. 
+4. 
+Managed Development team for technical development for RICE components. 
+5. 
+Managed Support team for day-to-day production support for the project 6. 
+Managed Support schedule, work allotment & delivery 7. 
+Maintained SLA & provide report for it. 
+Modules: Order Management, Purchasing, Payables, Receivables, Cash Management, General Ledger 
+Environment 
+O/S & N/W: 
+Windows 7/Linux 
+Environment: Oracle Applications: R12.1.3 
+Tools: SQL and PL/SQL, Shell Script, Toad, Workflow, XML Publisher, Discoverer 
+Oracle India Pvt. Ltd. (Client: American Airlines) 
+Jun 2013 
+Sep 2014 
+Project: Inventory Planning and Replenishment Implementation 
+Major responsibility Involved as 1. 
+Lead CEMLI Development team for development & delivery 
+2. 
+Implemented various planning modules like Demand , Forecast, Cost & Replenishment 
+Modules: Inventory 
+Environment 
+O/S & N/W: 
+Windows 7/Linux 
+Environment: Oracle Applications: R12.1.3 
+Tools: SQL and PL/SQL, Shell Script, Toad, Forms and Reports 
+Principal Analyst - Oracle Applications R12 
+Role: Technical Lead 
+Oracle India Pvt. Ltd. (Client: Electronic Arts) 
+Feb 2010 
+Jun 2011 
+Project: IClick Involved in Customization, Extension, Modification & Support for this project. Responsibility Involved 1. 
+Lead CEMLI Development team for development/change & responsible for scheduling, work allotment & delivery 2. 
+Lead for day-to-day production support for the project. Handling Customers daily issues. 
+3. 
+Delivered Custom Discoverer Reports as per Business Need. 
+4. 
+Delivered Various Reports/XML Publisher Reports (e.g. PO Printing, MCI and Invoice Report) as per business need. 
+5. 
+Delivered Various Inbound/Outbound Interfaces as per business need. 
+Modules: Procurement, iExpense, Payables, General Ledger 
+Environment 
+O/S & N/W: 
+Windows XP/Linux 
+Environment: Oracle Applications: R12 
+Tools: SQL and PL/SQL, Putty, Shell Script, Toad, Workflow, XML Publisher, 
+Discoverer Reports 
+Senior Systems Analyst - Oracle Applications R12 
+Intelligroup Asia Pvt. Ltd. (Client: AVX Corporation) 
+Oct 2008 
+Feb 2009 
+Project: AVX EBS Implementation 
+Involved in R12 implementation with Data Conversion & Different Interface Creation As per Business Requirement in Oracle Applications 1. 
+Leading team of Technical consultants for development. 
+2. 
+Conducting Business Requirement & allocation 3. 
+Ensuring the completion of all the custom deliverables as per business requirement and as schedule according to the project plan. 
+4. 
+Ensuring that the custom development meets Business Requirement, all the quality checks and review process as per standards, prior to delivering the same to the client. 
+Modules: Inventory, Accounts Receivables, Payables, General Ledger 
+Environment 
+O/S & N/W: 
+Windows XP/Linux 
+Environment: Oracle Applications: R12 
+Tools: SQL and PL/SQL, Putty, Shell Script, Toad, Workflow 
+Senior Systems Analyst - Oracle Applications R12 
+Intelligroup Asia Pvt. Ltd. (Client: BioMarin Pharmaceutical Inc.) Jun 2008 
+Oct 2008 
+Project: BioMarin EBS Implementation 
+Worked extensively on R12 implementation with Data Conversion & third party Interfaces integration. 
+1. 
+Leading team of Technical developers for development work. 
+2. 
+Delivered Custom RICE Components as per Business Requirement. 
+3. 
+Integration of Poplesoft HR to R12 Employee Data 4. 
+Customized Different workflows as per client requirement. 
+Modules: Inventory, Accounts Receivables, Purchasing, Payables 
+Environment 
+O/S & N/W: 
+Windows XP/Linux 
+Environment: Oracle Applications: R12 
+Tools: SQL and PL/SQL, Putty, Shell Script, Visio, Toad 
+Systems Analyst - Oracle Applications 11i 
+LSI India Pvt. Ltd. (Formerly known as Agere Systems) 
+May 2004 
+Jun 2008 Project: OASIS OASIS project is migration project from Oracle ERP 10.7 & implementation of modules (Manufacturing, Finance & Supply Chain) into Oracle 11i E-Business Suite. 
+1. Involved in Data Conversion & Interface Creation of different modules Data Conversion from Legacy System 
+Delivered RICE Components as per Business Requirement 
+Integration of 3rd party interfaces (e.g. PCDB, POST) Develop Common Interfaces for general use (e.g. Enhanced Error Handler, File Transfer, File Purge, Common Spooler Program, Common Data Loader) 
+Standard workflows update 2. Leading Post Live Support Team 
+Allotment/Delivery of Enhancement work Scheduling/Supervise 24X7 Production Support 
+Maintain SLA 
+Modules: Inventory, Accounts Receivables, Accounts Payables, BOM, WIP, OM, Customers TCA 
+Environment 
+O/S & N/W: 
+Windows XP/Linux 
+Environment: Oracle Applications: 11.5.10 
+Tools: Oracle10g/9i, SQL and PL/SQL, Pro*C, Shell Script, Workflow, AppWorx, Dataload Classic, Vugen, Visio, Toad 7.6, Sql Navigator 
+Systems Analyst - Oracle Applications 11i 
+LSI India Pvt. Ltd. (Formerly known as Agere Systems) 
+Dec 2003 
+May 2004 Project: MEGA MEGA project is migration project from Oracle ERP 10.7 & implementation of modules (HRMS & Payroll) into Oracle 11i E-Business Suite. 
+1. Part of Data Conversion & Interface Creation 
+Integration of clients new business requirements 
+Implementation of new Custom Inbound/Outbound Interfaces 
+Implementation of different test cases 
+Common Interfaces created for common use (e.g. Enhanced Error Handler, File Transfer, File Purge, Common Spooler Program, Common Data Loader) 2. Leading Post Live Support Team 
+Allotment/Delivery of Enhancement work Scheduling/Supervise 24X7 Production Support 
+Maintain SLA 
+Modules: HRMS, Customers TCA 
+Environment 
+O/S & N/W: 
+Windows XP/Linux 
+Environment: Oracle Applications: 11.5.10 
+Tools: Oracle 9i, SQL and PL/SQL, Pro*C, Shell Script, AppWorx, Visio, Toad 7.6 Professional Trainings 1. 
+Oracle Applications Financials Techno-Functional Foundation by Oracle School, Bangalore 2. 
+Oracle Applications Manufacturing Techno-Functional Foundation by Oracle School, Bangalore 3. 
+Oracle Workflow by Oracle School, Bangalore 
+Educational Qualifications 
+MCA from Madan Mohan Malaviya Engineering College, Gorakhpur BSc (Maths Hons.) From Bihar University 
+Passport/Visa Detail 
+Passport Number: H4601258 
+Expiry Date : 21-Apr-2019 
+Visa Type : L1/B1 (USA) 

@@ -1,0 +1,92 @@
+Prabhakar Valluru E-Mail:prabhakarvalluru@gmail.com 
+Phone: +91 9739270480 PROFESSIONAL SUMMARY 
+Having around 3 years of experience in Software Testing with 2 years on Automation Testing and 1 year on Manual Testing 
+Hands on experience on Selenium-IDE and Selenium-WebDriver 
+Good knowledge on Core Java. 
+Involved in framework designing (Data driven framework and TestNG). 
+Generated HTML reports using TestNG. 
+Prepared Smoke and Regression suites. 
+Performed Regression and Smoke testing using Selenium 
+Good experience in creating, modifying and enhancing both manual Test cases and Test Scripts created in selenium Web driver. 
+Knowledge on Agile-Scrum. 
+Expertise in S.D.L.C, S.T.L.C and B.L.C. 
+Excellent communication and interpersonal skills with strong work ethics. 
+Team player, highly productive, Commitment and Result driven in team and Individual Projects. 
+Ability to understand Functional Requirements Specification and Technical Design Specification documents. 
+Experience in conducting Black Box Testing (Functional Testing, ,Usability Testing, System Testing and Regression Testing). 
+Proficient in Test Case Design, Test execution and Defect Management. 
+Participated in Test Case reviews Create Daily Status Report, Weekly Status Report 
+Good analytical and problem solving skills. 
+WORK EXPERIENCE 
+Working as an Software Test Engineer in Terralogic Software Solutions, Bangalore from Jan 2014 to till date. 
+TECHNICAL SKILLS 
+Automation Tools : Selenium WebDriver 
+Programming Languages : JAVA 
+Database 
+: SQL Server 
+Operating Systems : Windows OS Family 
+Defect Tracking Tools : Bugzilla,Mantis 
+EDUCATIONAL QUALIFICATION: 
+B Tech (Electronics & Communication Engineering) from JNTU Ananthapur. 
+ACHIEVEMENTS: 
+Received Star Employee of Terralogic award in YatraGenie Project. 
+Have consistently received appreciation from the client for the work done on testing 
+front. 
+PROFESSIONAL EXPERIENCE PROJECT # 1 
+: Yatragenie.com Online Travel Portal 
+Client : Yatragenie 
+URL 
+: http://www.yatragenie.com 
+Environment 
+: Windows 8, SQL Server, TestNG 
+Tools 
+: Selenium Webdriver 
+Role : Software Test Engineer 
+Duration : 16 Months 
+Description: YatraGenie.com, a travel portal by Paxterra Software Solutions Pvt Ltd, provides world-class travel experience for both bus and cab travel booking administrations to the people of India. YatraGenie.com provides fast and reliable bus ticket booking service. Its user friendly user interface allows the user to book a seat of his/her choice at ease. More ever, the cheapest ticket fare and the least cancellation charges make Yatragenie the best available option in market. Apart from these it also offers a separate panel for operators and agents. 
+Responsibilities: Developed automation scripts for Regression test cases Executed Regression suites. 
+Perform Regression testing and upload the bugs in Bugzilla 
+Identify the test cases needs to automated 
+Develop the scripts by using TestNG with Webdriver 
+Execute the scripts on the new build 
+Capture all the results in a new folder Analyze the Results 
+Report the Bugs 
+Keeping track of Hardware and software requirements for the Test Environment 
+Frequent status check with the Team Lead to ensure timely delivery of different milestones 
+PROJECT # 2 : 
+Insurance Information and Transaction system. 
+Client : Peace Life Insurance Group, Portland. 
+Environment : Windows XP/2000, SQL Server,, Eclipse 
+Technologies : Manual Testing, Selenium WebDriver, Java, TestNG 
+Role : Software Test Engineer 
+Duration : 12 months 
+Description: 
+This application is developed for Insurance Company usage. It provides information regarding the services and its policies offered by Peace Life Insurance Group, Portland. The home page incorporates the basic options like available polices and their benefits, terms and conditions and new schemes etc and settling of Claims against polices. Different types of policies offered by this application are Vehicle Insurance, Life Insurance, Home Insurance and Health Insurance according to the users interest. 
+Responsibilities: 
+Understanding the requirements and business of the application. 
+Performing Manual Testing on functionality of the application. 
+Creating Test Scenarios, Test Cases, Test data for the application. 
+Testing activities included Functional, Retesting, Regression, System and Acceptance Testing. 
+Raising and Reproducing Bugs. 
+Identify the test cases needs to automated Develop the scripts by using TestNG with Webdriver 
+Execute the scripts on the new build 
+Capture all the results in a new folder Analyze the Results 
+Report the Bugs 
+Keeping track of Hardware and software requirements for the Test Environment 
+PROJECT # 3 
+Pax-Web 
+Client : Paxterra Software Solutions 
+Role : Associate Software Engineer Technologies : Manual Testing, Selenium WebDriver, Java, TestNG 
+Duration : 8 Months 
+Team Size : 3 [Testing Team] 
+Description: 
+Pax-Web is an internal web application to manage all the Employee details. An Employee can able to Manage Leaves, Attendance, Expenses, Assets and Projects on daily basis. 
+Responsibilities: 
+Converted Business requirements and design documentation into test design products. 
+Test Scenarios, Test Cases. 
+Responsible for GUI and Functional Testing using Black Box Testing Techniques. 
+Involvement in Test Execution, Results Analyzing and Defect Reporting. 
+Testing the application and Reporting Bugs using BugZilla. 
+Keeping track of Hardware and software requirements for the Test Environment. 
+Used TestNG framework for running the Selenium test scripts. 
+Attended Status Meetings. 

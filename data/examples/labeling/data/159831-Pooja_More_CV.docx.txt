@@ -1,0 +1,47 @@
+Curriculum Vitae 
+Pooja Ramesh More 
+M.E. (CSE) 
+M: +91-9730173955 E: more.pooja083@gmail.com 
+Academic Qualification: 
+M.E. (CSE) - Prof. Ram Meghe College Of Engg. & Management (Amravati) 
+80.53% - 2016. 
+B.E. (CSE) - P. R. Patil College Of Engg. & Tech. (Amravati) - 69.80- 2013. 
+H.S.C - Maharashtra State Board from BBS College, Amravati - 76.00% - 2009. 
+S.S.C - Maharashtra State Board from MGHS, Amravati 
+83.53% - 2007. 
+Academic Projects: 
+Cloud Data Security using Attribute-based Key-Aggregate Cryptosystem 
+In M.E. (CSE) final year, I have completed Cloud Data Security using Attribute-based Key-Aggregate Cryptosystem as my major project. In this project, Cloud data security will be maintained by sending aggregate key only to those users whose attributes will get satisfied. Also it uses CP-ABE scheme with constant size of ciphertext and key, which improves the efficiency of the system. 
+Customer Relationship Management(CRM) Using ASP.NET 
+In B.E. (CSE) final year, I have developed a major project with my team, named Customer Relationship Management using ASP.NET technology. In this project, we have various modules such as Customers, Company and Administrator, their respective databases and our website CRM which acts as an interface between Companies and Customers to communicate with each other. 
+Software Proficiencies: 
+Languages: C, C++, C#.Net, ASP.NET, Java 
+Web Technologies: HTML, XML 
+Databases: SQL, PLSQL. 
+Academic Seminar and Presentations: 
+Presented a paper on Cloud Data Security using Attribute-based Key-Aggregate Cryptosystem at IEEE International Conference on WISPNET at Chennai during 23-25 March 2016. 
+Delivered a seminar on Network Coding in Smart Grid Communication in M.E. (CSE) first year. 
+Delivered a seminar on Cluster Computing in B.E. (CSE) final year. 
+Certifications: 
+Completed ASP.NET Certification from Seed InfoTech, Pune in March 2013. 
+Personality Traits: 
+Quick Learner. 
+Patience. 
+Hardworking. 
+Soft-spoken and nature wise friendly. 
+Achievements & Co- Curricular Activities: 
+Won 2nd prize in Poster Presentation at National Level Technical Event held at P.R.P.C.O.E, Amravati. 
+Participated in Ethical Hacking Workshop organized by Kyrion Digital Securities held at Amravati. 
+Participated in various national level technical events such as TCC, Poster presentation. 
+Extra Curricular Activities: 
+Playing Indoor and Outdoor games. 
+Listening Music. 
+Personal Information: 
+Date of Birth : 07/10/1992 
+Languages : Hindi, English and Marathi. 
+Address : 
+Saurabh Paradise, Angels Girls Hostel, Bhagwan Nagar, BhumkarWasti, 
+Wakad 411057. 
+Declaration: 
+I hereby declare that the above-mentioned information is correct. If an opportunity is given to me to serve your esteemed organization, I assure you that I will prove myself to meet the expectation of my employer. 
+Place: Pooja More 

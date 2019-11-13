@@ -1,0 +1,116 @@
+Somardh Gupta +91-9945446089 
+gupta.somardh2@gmail.com 
+CAREER OBJECTIVE 
+I aspire to obtain a challenging position in a renowned firm where I can apply my knowledge and expertise to a dynamic environment conductive for further learning and growth resulting in value addition for the firm and myself. 
+PROFESSIONAL SUMMARY 
+Total 21 months of experience in Software testing. 
+Expertise in SDLC and STLC concepts. 
+Understanding, Analyzing and Streamlining Test Requirements. 
+Experienced in Manual Testing includes GUI, Functional, Regression and System Testing. 
+Well versed with Test Documentation (Test Scenario, Test Case, Test Data, Defect Report) Expertise in Defect Reporting & Tracking process using IBM CQ and RTC tool Knowledge on SQL for DB related tests. 
+Familiar with JAVA Programming Fundamentals. 
+Basic Knowledge of Selenium Test Automation Tool 
+Ability to work under deadlines, worked as an active team member and willingness to accept responsibilities. 
+Good in communication, Quick Learner, versatile, Adaptable, Flexible, process oriented. 
+SOFTWARE SKILLS 
+Operating Systems : 
+Windows Family 
+Software Testing : 
+Functional Testing, Selenium Test Automation Tool 
+Languages : Java and C 
+Web Technologies : HTML and Java Script 
+Databases : MS-SQL server EMPLOYMENT DETAILS 
+Working as Software Engineering Analyst in Accenture from March 2015 to till date. 
+PROJECT DETAILS 
+Project #1: HR Portal 
+Environment: JAVA, SQL Server. 
+Testing Method: 
+Manual Testing 
+Role: Functional Tester 
+Project Description: 
+The HR Portal Is a "one stop shop" for employees, managers and HR professionals to access tools and content required to complete HR self-service transactions and find answers to questions related to the company's HR services. This project followed Agile 
+Methodology. 
+Responsibilities: 
+Understanding the Requirements and Functional Specifications of the application. 
+Participated in identifying the Test scenarios and designing the Test cases. 
+Prepared and Executed Test cases as per Requirements. 
+Involved in GUI, Functional, Regression testing and System testing 
+Involved in all testing related documentation. 
+Involved in Defect Tracking & Prepare Defect Report Document. 
+Involved in weekly review meetings. 
+Project #2: BuyerPortal Environment: JAVA, SQL Server 
+Role: Functional Testing 
+Project Description: Providing a single entry point to the buying process. The Buyer Portal is a self-service web-based based tool that enables end users with the Right information to make it easy to comply with purchasing processes and policies, improving use of established contracts or preferred supplier agreements and providing those links to additional tools and training. 
+Responsibilities: 
+Understanding the Requirements and Functional Specifications of the application. 
+Deriving Test Scenarios, Documenting Test Cases and Reporting Defects. 
+Involved in Preparation and execution of test cases. 
+Involved in GUI, Functional, Regression testing and System testing 
+Involved in all testing related documentation. 
+Involved in developing Test reports. 
+Project #3: Record To Report Portal 
+Technologies: .Net, SQL-Server 
+Testing Method: Manual Testing 
+Position: Functional Tester 
+Project Description: The Record to Report (R2R) Toolkit provides fast, efficient, reliable and traceable means of submitting, approving and processing eForm requests. It automates process maps, through standardized workflow with configuration capabilities. Financial task management. Real-time visibility. 
+Responsibilities: 
+Performed Functional Testing, UI Testing. 
+Understanding the Requirements and Functional Specifications of the application. 
+Deriving Test Scenarios, Documenting Test Cases and Reporting Defects 
+Defect tracking and reporting. 
+Project #4: WQM Self Service Portal 
+Technologies: JAVA, SQL-Server 
+Testing Method: Manual Testing 
+Position: Functional Tester 
+Project Description: WQM self-service portal enable client users to initiate electronic service requests via eforms, view status of the requests submitted in WQM, and interact with agents real-time with supporting documents/attachments. It s a User friendly abstract for Work Queue management (WQM BMC remedy) system interacting through Webservices. Content managed feature of portal would facilitate personalized content/help documentation. 
+Responsibilities: 
+Performed Functional Testing, UI Testing. 
+Understanding the Requirements and Functional Specifications of the application. 
+Deriving Test Scenarios, Documenting Test Cases and Reporting Defects. 
+Data Driven Testing with valid and invalid inputs, Database testing 
+(checking Data 
+Integrity, Data Manipulations and Data Comparison) 
+EDUCATION 
+Examination University/Board Institute/School CGPA / % Bachelor of Engineering 
+RGPV Bhopal Oriental College of Technology, Bhopal 7.56 Intermediate MP BOARD Shivpuri public School, Shivpuri 66.8% High School ICSE St. Charles School, Shivpuri 74.6% CERTIFICATIONS EMC 
+2 Certified for Information Storage and Management. 
+Accenture Scrum Trained Professional 
+Accenture Agile Certified Professional 
+Accenture Technology Academy (ATA) Certified - Application Tester. 
+PROFESSIONAL ACHIEVEMENTS 
+Rewarded with Magic Cabinet Award for Outstanding Performance. 
+Worked on 80+ Client releases out of which worked as single Tester in 50+ releases. Done 
+Planning, Preparation, execution and also post production verification for all the releases. 
+Was part of the team when received CTSS 7/7 from client project. 
+Created UAT Test script for 2 clients and supported the UAT team in their execution. Also 
+Represented Testing team during lead s absence. 
+As an ASE, I have managed to create Test Closure Memo for one of the BuyerPortal Client. 
+Received Recognition various times from Project managers for focusing on delivering excellence. 
+EXTRA-CURRICULAR ACHIEVEMENTS 
+State Rank 19, Nationwide Interactive Mathematics Olympiad in 2007. 
+Got acquainted to skills of hacking during 
+HACKTRACK 
+(Level 1&2) - Workshop by 
+TECHDEFENCE Pvt. Ltd. at Maulana Azad National Institute of Technology. 
+Organized workshop on 
+Idea to execution for Entrepreneurs - An initiative by 
+Nurture Talent Academy & Confluence 2012-International Business Summit of Indian 
+Institute of Management, Ahmadabad held in, OIST Bhopal. 
+Organized workshop on Hack-Tricks 
+Zonal lag - A National Level Workshop & Competition on Ethical Hacking & Cyber Security organized by Indian Institute of Technology Bombay in association with Wegilant Net Solution Pvt. Ltd., Mumbai. 
+Worked as Coordinator of C-mania during TECHFIZZ 2013 
+- Annual Technical festival of OGI 
+Rank 2, Volley Ball Tournament, St. Charles School in 2007. 
+Represented as Coordinator of LAN - gaming & Dance Competition in the Annual Fest. Of Oriental Group of Institutes (OGI). 
+Member of the Indian Society of Technical Education, Student Chapter - MANIT. 
+Helped physically and financially for an NGO 
+Help Age India . 
+Volunteered in Accenture Corporate Citizen event: Celebration International Day for Rural Women. 
+Participated in Tfao Cricket Tournament- 2016 
+Participated in Accenture Avathon 2015 running Event 
+Participated in Various Outdoor games in HR&L Carnival 2015. 
+INTEREST/HOBBIES 
+Playing Cricket, Listening Music 
+DECLARATION 
+I hereby declare that all the above information provided by me is correct to the best of my knowledge & belief. 
+Bangalore Somardh Gupta 

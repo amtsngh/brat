@@ -1,0 +1,153 @@
+ SANKETH NM 
+Email: sankethn99@gmail.com (mailto:sankethn99@gmail.com) 
+Phone: +91 7411947464 
+Salesforce Developer 
+Passport: M8083221 Zuora For Salesforce Solution Consultant 
+Career Objective 
+To be an integral part of competitive work environment, which would help me grow on the intellectual and personal front, while contributing to the growth and success of the organization. 
+Professional Summary 
+Presently associated with Estuate Software Pvt. Ltd., Bangalore as a Software Engineer with 2 Years 10 Months of Experience in Salesforce.com CRM platform (DOJ: 05th Nov 2013). 
+Associated with Estuate as a Salesforce Developer and Zuora for Salesforce offshore lead solution consultant. 
+Trained in Salesforce.com administration and development. 
+Trained in Zuora Billing Engine. 
+Trained in Apttus CPQ. 
+Acquired Salesforce Platform Developer 1, ADM 201, Apttus CPQ and Quote to Cash certifications. 
+Experience in Design, Development, Implementation, Integration and Testing. 
+Around One year of experience in Salesforce Integration using JAVA, SOAP and REST APIs. 
+Proficient in Salesforce developer toolkit including Apex Classes and Triggers, Visualforce Pages, Force.com IDE, Web Services (SOAP, REST), Future Calls, Approval Process, Workflows. 
+An effective communicator with exceptional analytical, technical, negotiation and client relationship management skills with the ability to relate to people at any level of business and management. 
+SFDC Experience 
+Extensive hands on experience in SFDC development using Apex classes, Triggers, SOQL, Test Methods and Visualforce. 
+Hands on experience in Future calls, Salesforce web services API (SOAP and REST) Experience in Salesforce Standard objects and their relationships, creating Custom objects and Fields (Dependent picklists, Rollup Summary fields, Lookup fields, Formula Fields, Master-Detail relationship field ) 
+Extensive Hands on experience in using Salesforce Workbench, Developer Console and Force.com IDE 
+Hands on Experience in creating Workflow Rules, Validation Rules, Page Layouts, Record Types and using Process builder. 
+Extensive knowledge on Deployment using change sets and Force.com IDE. 
+Sound knowledge in SFDC Administrative tasks like creating Profiles, Roles, Users, Permission Sets. Experience integration with other system using SOAP and REST API. 
+Sound knowledge in data migration using Import Wizard and Apex Data Loader. 
+Sound knowledge in generating Reports and Dashboards. 
+Active contribution in the design, development, testing, troubleshooting & debugging of the process, post-implementation, application maintenance and enhancement support to the client for the product / software application. 
+Zuora for Salesforce Experience 
+Extensive hands on experience in Zuora for Salesforce Quotes and Zuora for Salesforce 360. 
+Extensive hands on experience in Zuora Component registration and Zuora Component plugin. 
+Extensive hands on experience in setting up Invoice Templates, Communication Profiles, Payment pages at zuora-salesforce. 
+Efficient knowledge on Zuora order builder and programming with order builder apex methods. 
+Extensive hands on experience in ZOQL queries. 
+Proficient knowledge in Zuora modules : Z-Billing, Z-Payments, Z-Finance, Z-Commerce and Z-Reporting. Proficient knowledge in Zuora API object relationship and core data types. 
+Technical Skills 
+CRM : Salesforce.com 
+Modules 
+: CPQ, Billing. 
+AppExchange Products : Docusign For Salesforce, Sertifi For Salesforce (E-Signatures) 
+Web Service APIs 
+: SOAP and REST 
+Programming Languages : Apex (Classes and Triggers), Java. 
+Web Technologies : Visualforce, HTML, Javascript, JSP. 
+Server Hosting 
+: AWS EC2 
+Query Languages : SOQL, ZOQL, SOSL 
+Tools/Utilities : 
+Force.com Eclipse IDE plugin, Salesforce Workbench, Apex data Loader, SOAP UI, Bommerang. 
+Functional 
+Translated business requirements to smart solutions in Salesforce.com, Zuora for Salesforce and Apttus CPQ. 
+Efficiently communicated with Solution Architects to design optimized functional flow to meet business requirements. 
+Efficiently communicated with Sertifi product team to design and develop GetLink API to meet client business requirements. 
+Efficiently managing code move between Sandboxes and Production orgs. 
+Handled web services API integration. 
+Cooperating And Communicating efficiently with Onsite Engagement Manager and Solution Architects to meet business requirements. 
+Trainings & Certifications: 
+Salesforce certified administrator ADM-201 (Certification Number: 3240393) 
+Salesforce certified platform developer 1. (Certification Number: 7470359) Apttus certified 201 CPQ certification. 
+Zuora Certified Solution Consultant. 
+Apttus Quote to Cash certification. 
+Undergone training on SFDC technology conducted by Cloud Experts Banglore. 
+Undergone training on Zuora Billing Engine conducted by Zuora Onsite team. 
+Undergone training on Apttus CPQ conducted by Apttus University. 
+Project Experience Summary 
+Perkville 
+Payment Method Capture with Docusign Implementation. 
+Project Payment Method Capture with Docusign Implementation 
+Client PerkVille Role Developer 
+Period Feb 2016 
+Jun 2016 Technical Skills Apex Classes, Triggers, SOQL, VisualForce, Controllers, SFDC Admin Configuration, Docusign Admin Configuration, Change Sets. 
+Description 
+Perkville liked to have the quote document to be agreed from both parties before quote transforms to an order. Docusign has been implemented to gather counter signature from both parties. Once signed, Instead of having sales rep take the customers credit card information over the phone the developed Payment capture app sends out a unique email to end customer which includes public facing page on Force.com Site to gather Credit Card, ACH information. Upon capturing, the developed app automated to send the quote to Billing. 
+Responsibilities Held Analysis of business requirements.Created and registered force.com site and assigned permissions to profiles as per requirements. Developed visualforce pages and controllers for site.Developed Triggers to automate send to Z-Billing, Attaching quote PDF to quote level, Send Payment Link via email.Wrote Test methods for code coverage and deployment.Unit testing and functional end to end testing.Use of change sets for deployment.Installing and Setting up Docusign connections, Email Templates and Docusign Tags.Constant interaction with clients. 
+PointDrive 
+Sertifi Esign Room with Payment Capture Custom APIs Project Sertifi Esign Room with Payment Capture 
+Custom APIs Client PointDrive Role Developer 
+Period 
+Nov 2015 - Jan 2016 
+Technical Skills Apex Classes, Triggers, SOQL, Process Builder, SFDC Configurations, Sertifi Admin Configuration, Change Sets. 
+Description PointDrive requested an end to end automated process for formal customer quote approval to facilitate order creation. This offers the ability to configure customer specific site and to send email to the end customer contact with Zuora quote document and a payment tag where, the customer can review and sign it electronically. SFDC was customized to fetch payment link through classes and sertifi APIs by implementing buttons on Sertifi object layouts. Emails between salesrep and end customer contact can be configured and are customizable according to the need of customer. 
+Responsibilities Held Analysis of Business requirementsCreated process builder to update billing batch and profile based on payment method.Developed Triggers for updating custom fields and to send custom emails to customer.Created custom settings to capture sertifi configurations.Developed apex classes using sertifi APIs and implemented front end to display payment link on button click.Continuous discussion with Sertifi team to develop GetLink API and to configure E-sign room. Developed test methods for triggers and classesUnit testing and functional end to end testing.Deployment using change sets. 
+Post Deployment Support. 
+Metacommunications 
+Quote Rules Plugin Development 
+Project 
+Quote Rules Plugin Development 
+Client Metacommunications 
+Role Developer 
+Period Jun 2015 
+Oct 2015 
+Technical Skills Apex Classes, Triggers, SOQL, Process builder, SFDC Admin Configurations, Change Sets. 
+Description 
+This project has been built to leverage Zuoras Quote Rules Engine to implement a customer requirement to auto calculate support fee of a software license, based on percentage of total charges and add-ons within the subscription. This provides sales reps the ability to auto calculate the charge amount based on percentage which is not currently supported by Zuora apart from Discount Percentage model. This plug-in also provides validations to check if salesrep has added this rate plan into the quote and to check if the charge amount value is not equal to $0. 
+Responsibilities Held Analysis of business requirements. 
+Created SFDC custom settings for QuoteRulesEngine apex class.Developed QuoteRulesEngine plugin Apex class according to business requirements. 
+Developed SaveRatePlan plugin apex class according to business requirements. 
+Created process builder to update billing batch and profile based on payment method. 
+Developed test classes for deployment to production, Use of change sets for deployment.Unit testing and functional end to end testing.Post deployment support. 
+GitLab Customizations 
+Project SFDC Customizations 
+Client GitLab Role Developer 
+Period Feb 2015 
+May 2015 Technical Skills Apex Classes, Triggers, SOQL, SFDC configurations,SOAP API, Change Sets. 
+Description GitLab liked to have a renewal opportunity created with dates that are out based on the term length plus would also include products that are purchased during the first term. Sales Rep could then quickly review and engage the customer in upgrading the plans. Customizations involved use of future calls and SOAP to update contact data to the third party systems. Further the solution was developed to clone an existing quote on click of a button. This is very useful for a sales rep during quote negotiation process. 
+Responsibilities Held Analysis & design the approach to be followed for the requirement.Developed classes and triggers using future calls for contact update at third party side.Use of SOAP API and Zuora order builder methods.Developed triggers and classes for renewal opportunity creation and cloning of quote.Unit testing of the customizations prior to release. 
+Deployment using change set. 
+Post Deployment Support. 
+Landing Page Implementation with Docusign 
+Integration Using JAVA 
+Project Landing Page Implementation with Docusign 
+Integration Using Java 
+Client Neumob, Outcome Chains, Social Tables, Any Perk 
+Role Developer 
+Period Feb 2014 Jan 2015 Technical Skills Apex Classes, Triggers, Visual Force, Controllers, REST API, Remote App, SFDC customizations, Force.com IDE. 
+Description Landing page solution offered the customers to submit their payment method information like Credit Card, ACH, Bank Transfer, SEPA through java based web app hosted on Clients AWS instance. The solution involved sending email via VF pages and controllers. Updating quote fields to opportunity level thus offered a clear cut view of quote pricing to the sales reps. Docusign has been implemented to capture counter signature from both parties. 
+Responsibilities Held Analysis & design the approach to be followed for the requirement.Created a connected app in Salesforce that facilitates handshakes between Salesforce and Java App.Developed Servlets and JSP files with oauth 2.0 authentication. 
+Use of REST full APIs for querying and updating quote and product details.. Developing VF page, Apex controllers and Triggers. 
+Bulkification of trigger. 
+Developing the future call class to cope up with the SFDC governor limits. 
+Developed test methods to cope up code coverage.Unit and functional testing of the app prior to release.Deployment using Force.com IDEHosting the JAVA app on AWS instance.Post deployment support. 
+WEF 
+Apttus Columnar X-Author Quote Template Development with Data Migration. 
+Project Columnar X-Author Quote Template Development with Data Migration 
+Client World Economic Forum 
+Role Developer 
+Period Jul 2016 to Till Date 
+Technical Skills VisualForce, Apex Controllers, X-Author FX2, X-Author Data Migration Tool. 
+Description WEF liked to have their sales rep compare multiple proposals for an opportunity hence they could come up with a new proposal from the compared proposals. This new proposal facilitates the columnar quote template which categorizes identical products into single category when displaying on quote template generated with X-Author. Further X-Author was used for data migration from QA to Production. 
+Responsibilities Held Developed Visualforce Proposal comparison page. 
+Developed Extension for VF page which was a wrapper class to fetch selected proposals, compare them based on product category and insert a new proposal to add product description and name in required fields.Configured X-Author FX2 on client sandbox and generated columnar quote template. 
+Migrated product data from QA to production using X-Author tool. 
+Educational details: 
+Course Institution Year of passing Percentage 
+B.E.Computer Science SJCIT(VTU) 2013 70.2% 12thStd Nagarjuna PU College 
+Yelahanka 2009 85.5% 
+10thStd MABL High School 
+Dodballapur 2007 93.28% Strength 
+Ability to work as a team member or as an individual. 
+Self-confidence and attitude for fast learning. 
+Optimistic, Creative, Flexible and Patience. 
+Good written and verbal communication skill. 
+Ability to possess Hard Work or Smart Work based on the situation. 
+Personal Details 
+DOB 10-06-1992 
+Nationality INDIAN 
+Sex Male 
+Marital Status Single 
+Languages Known English, Hindi, Kannada , Tamil and Telugu 
+Hobbies Playing Cricket, Listening to Music. 
+Address #1235, Shree Subramanya Nilaya, Sahajananda Nagar 1st Cross, Dodballapur 561 203 Declaration 
+I hereby declare that the details furnished here are true to the best of my knowledge. 
+Yours Sincerely, SANKETH NM 

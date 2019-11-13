@@ -1,0 +1,38 @@
+ Jitendra Singh 505, Vinoba Bhave Nagar, Kota, Rajasthan 8824686979 
+sjitendra867@gmail.com 
+EXPERIENCE 
+Ready Bytes Software Labs Pvt. Ltd., Bhilwara 
+Position- 
+Software Developer 
+January 2016 - PRESENT 
+Working on the development of Dynamic Web Applications in Lamp 
+Stack using LARAVEL 5 an MVC Framework of PHP for server-side Dynamic functionalities along with HTML5, Javascript, Jquery, Mysql 
+And Mongodb. EDUCATION 
+Secondary , RBSE July 2008 - May 2009 Passed with 83.67% Senior Secondary, RBSE July 2010 - May 2011 
+Passed with 78.46% B.Tech(Information Technology), MLVTEC Bhilwara August 2012 - July 2016 
+Aggregate = 67.45% 
+PROJECTS 
+Movie-Discovery(CMS) 
+Detail 
+It s based on CMS and develop in php using Laravel 5.2 Framework and Uikit for frontend. In this project, we integrate two 
+SKILLS 
+Basic C & C++, Core Java, PHP, HTML, Ajax, MySQL, CSS, Javascript, JQuery, SQL, 
+NO-SQL(Mongodb), Restful 
+API, Redis, Sphinx, GIT version and Laravel framework and hands on Lamp server. 
+CERTIFICATION Attended NCVPRIPG 2013 (IIT Jodhpur) & NCET-ICT 
+2014 (MLVTEC, Bhilwara) Got Star Performer of the Year Award in Ready Bytes 
+Software Labs Pvt. Ltd. , Bhilwara. 
+STRENGTHS Positive Attitude, Hard 
+Working, Good Thinking 
+Power, Ability to work in Team with good leadership, Smart Work & Self-Motivation. INTERESTS Listening Music, Playing 
+Outdoor Games, Driving, Blogging. 
+Payment Gateway Stripe and Paypal and use redis and sphinx and server side configuration. 
+AdTech (Video advertising System) 
+Detail 
+It s develop in php7 using Laravel 5.4 Framework and Sementic ui for frontend. In this project, we integrate two Payment Gateway Stripe and Paypal. 
+Disposalwale (Ecommerce Site) 
+Detail 
+It s develop in php using Laravel 5.2 Framework and Its based on Ecommerce. 
+DECLARATION 
+I hereby declare that all the above information is true and correct to the best of my knowledge and belief. 
+REFERENCES Mr. Anurag Jagetiya (Assistant Professor & TPO), MLVTEC, Bhilwara 

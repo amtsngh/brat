@@ -1,0 +1,121 @@
+Krushna Narayan Bate 
+Software Developer batekrushna@gmail.com +91 9096825221 
+Have excellent technical skills, communication skill, and goal-focused professional experience in Information Technology industry. I am motivated and enthusiastic by new challenges and tasks and take excellent approach to achieve success in all projects. I like to work in a complex projects which have scope for learning and challenge. I have experience in working with different operating system and platforms namely Windows, Linux. Have expertise various quality process and techniques by which I efficiently took care of quality deliverables of myself and my team which helped in gaining satisfied customers for the organization. 
+Objective: To take a challenging and high performance oriented role in the field of Computer engineering and implement the expertise and experience gained in this field to develop complex project with efficiency and quality. 
+Education: 
+Bachelor of Engineering in Information Technology from Bharati Vidhyapeeths College of Engineering, Kolhapur with 70.07%. 
+Diploma in Information Technology with 67.20%. 
+SSC from State Board with 78.93%. 
+Technical Skills: 
+Languages: PHP. 
+Web Development: HTML , Javascript,Jquery,Ajax,XML CMS: Wordpress, Drupal 7 
+Framework: 
+Laravel, Codeigniter, Phalcon 
+Database: MYSQL, Oracle 
+Operating System: 
+Ubuntu (12.04, 14.04), Centos 6, Window 2007. 
+IDE: 
+Sublime text, Notpad++, Geany ,NetBeans. 
+Other Tool : 
+JIRA, Trello, SVN, GIT Strengths: 
+Hardworking, Multitasking and Good Team Player. 
+Good problem solving ability and analytic skill to solve the problem efficiently. 
+Have excellent interaction skill to coordinate & work in a team. 
+Good deliver output in less time without losing efficiency. 
+Willing to Learn and Change myself as per Situation. 
+Work History: 
+PRDXN, Thane 
+Senior Web Devloper 
+Novmber 2016 - Till date 
+Responsibilities: 
+I am working in this organization as a Senior web developer. I am working on admin portal of Mindful. The Mindful is Time tracking tool which manages the companies time utilization for the project, project status,record daily employee activity and slack command integration. 
+Projects : 
+Projects: Mindful 
+Nature of Project: 
+It is time tracking tool. 
+Description: 
+Time tracking tool for recording project and its time to completion time, employees spend time. The tool provides the information about the which employee is working on which project, his/her daily utilization in the charts. 
+Slack integration:- slack is communication medium where indidual and group of user exist communicate each other.We creates some slack commands to add hours and show empoyee time. 
+Tools Used: Laravel, PHP, HTML, CSS, Mysql, Ajax, Jquery. 
+Projects: Dabbin Dad(Wordpress Maintainance site) Nature of Project: 
+It is Dabbin Dad site developed in wordpress. 
+Description: 
+Template creation and API's for IOS APP 
+Tools Used: Wordpress, PHP, HTML, CSS, Mysql, Ajax, Jquery. 
+Projects: Economist(Drupal Maintainance site) Nature of Project: 
+It is Economist site which is developed in Drupal. 
+Description: 
+Custom module created for lead generation form as per the client requirement. 
+Tools Used:Drupal 7, PHP, HTML, CSS, Mysql, Ajax, Jquery. 
+Futurescape Technogy Pvt. Limited, Vashi Software Engineer 
+April 2015- October 2016 
+Responsibilities: 
+I am working in this organization as a software developer. I am working on admin portal of CHSONE. The CHSONE is society management portal which manages the all society management activities like society setup, Member Allocation, Parking management, visior management, Ticketing system, Income and Expense tracking, Account management and vendor management. I developed on Android APP for Tiffin product using Angularjs. 
+Documenting and Maintaining of the work flow tracking into Time Doctor Tool. 
+Projects : 
+Projects: CHSONE 
+Nature of Project: 
+It is society management admin portal. 
+Description: 
+Society registration from firm or Owner and activation of society. 
+Society setup store the society unit and member details and allocation of members to units. 
+Parking registration for Allocation of parking and vehicle registration for members. It tracks society vehicle parking details so that calculate the parking charges. 
+User Management for managing user for acl(Access control List) management to control access. The roles are defined by admin user on the basis of read, write, delete. 
+Account management for accounting for society from where ledgers are created and generate profit and loss and balancesheet calculated as well as track tax and tax exemptions based on period. 
+Assets and Inventory management for tracking movable and immovable assets and inward and outward inventory. 
+Expense and Income tracking is tracks the expense and income based on rules defined by society. 
+Tools Used: Phalcon, PHP, HTML, CSS, Mysql, Ajax, Jquery. 
+Projects: Tiffin App 
+Nature of Project: 
+It is tiffin app using angular js with cordova. 
+Description: 
+Create APIs using codegniter framework require for APP. 
+App related setting like check internet connection, app version. 
+Login and registration for tiffin app. 
+Tracking locations and suggest the nearest location to app user Tracking history of today, post, cancelled and delivery orders. 
+Manage wallet history from customer site. 
+Show meal, extra list and manage cart related activities. 
+Tools Used: Codegniter, PHP, HTML, CSS, Mysql, Ajax, Jquery, AngularJs, Cordova. 
+Hungama Digital Media Entertainment Pvt. Ltd Mumbai 
+Software Engineer 
+Sept 2012 March 2015 
+Responsibilities: 
+I worked in this organization as a PHP developer in LINUX operating system. I took the task of developing WML Products as per the Operator needs and as per Business Team Flow given to me and ensured that the final products matched the quality standards. 
+Documenting and Maintaining the work flow tracking into JIRA. I also attended team meeting conducted by project manager at regular intervals. 
+Projects : 
+Projects: CMT (Content Management Tool). 
+Nature of Project : Creating and Maintains content from portal. 
+Description: 
+Designed Provision to maintain Zones. 
+Arrange Section on Page. 
+Arrange Content in Section. 
+Assigning and Removing content. 
+Shell Program to generate Files. 
+Setting and Arranging Content. 
+Tools Used : HTML, CSS, PHP, Oracle, Ajax, Jquery. 
+Projects: SNG (Salt Next Generation). 
+Nature of Project: 
+It is portal to directly creating a page. 
+Description: 
+Creating a pack of content Having facility to arrange content , Remove content , delete Content. 
+Reusable Template. 
+Layout and Page Design. 
+Display the daily, weekly and monthly subscription, unsubscription charts. 
+Downloading single content, package of contents and maintain billing for for this. 
+API Creation.S3 Amazon Libraries uses in the Project. 
+Shell Script Program To generate Reports. 
+Tools Used : Codeigniter, PHP, HTML, CSS, Mysql, Ajax, Jquery. 
+PERSONAL INFORMATION 
+Permanent Address : 7/7 Shiv shakti chawl, New Shivaji Nager, Kalwa (E.) Thane 400 605. 
+Date of Birth : 01 st 
+August 1990 
+Sex : Male 
+Language Known : English, Hindi, Marathi. 
+Interests & Hobbies 
+Games: Cricket, Chess, Carrom, etc. 
+Spending Time with Family and Friends. 
+Playing Sudocu . 
+Declaration 
+I would hereby like to declare that the above mentioned information is true and correct in my sense and knowledge; I would also prove the company with my past experience. 
+Place: Mumbai Date: 
+Krushna Narayan Bate 

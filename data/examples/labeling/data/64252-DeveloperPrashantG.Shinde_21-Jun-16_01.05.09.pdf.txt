@@ -1,0 +1,195 @@
+Prashant G.Shinde 
+Address: 613,Sri Sai Ranga Apartment. 
+2 nd 
+Cross,7 th Block,2 
+nd 
+Phase, Girinagar Hosekerehalli 
+Banshankari 3 rd stage, Bangalore 560085 
+Phone# +91- 9066861136. 
+E-Mail :- pgpshinde@gmail.com Proficient in Android Apllication technology / Excellent Project Exposure 
+1.5 Years of experience in Android Application Development. Having an in-depth nowledge Of Android 
+Application software design Architecture and development, tools, and have good professional experience at different positions in a project execution hierarchy. 
+0.6 Years Worked experience in Service 
+Engineer . 
+PROFESSIONAL EXPEREINCE : 
+Worked in Magicman Technologies Nagpur from December 2014. 
+Worked in Simi Electronics Nagpue from June 2013. 
+Possessing 1.11 Years of professional experience in helping clients by developing Education level Projects and Strong programming, professional and analytical skills. 
+Good communication and interpersonal skills and consistent high performance. 
+Directly Interacting with Clients for information gathering. Commitment to team work concepts. 
+Capable of working in large projects with fast paced deadlines and deliverables. 
+Effectively handle multiple tasks simultaneously and have ability to acquire and apply knowledge rapidly. 
+TECHNICAL SKILLS: 
+Programming Languages Core Java,Android, HTML. 
+J2EE Technologies JDBC. 
+Databases MySQL 5.5,Realm,SQLite. 
+Parsing Technique JSON Parsing, XML Parsing. 
+Other languages Embedded Systems, Matlab. 
+Other Tools Eclipse,Android Studio, NS2,Keil. 
+Operating System Windows, Ubuntu. PROJECT DETAILS: 
+1 ) 
+Project 
+Name : AgrOLX. 
+Role 
+Developer 
+Technologies Android Software. 
+Duration 
+May 2016 to Present 
+Description 
+: AgrOLX is Agricalcher product and properties application. This app helps to user manage their product 
+And properties which are uploaded for sale. User can add or edit their products and property. 
+Roles and Responsibilities: 
+Analyzing understanding the Client requirements. 
+Prepare Detail Design. 
+Manage delivery time lines. 
+Designing UI and layout for different screen sizes and densities. 
+Used Google map,Volley,RecyclerView. 
+Fused Location Provider. 
+Developed code as per coding rule. 
+Monitor the scope changes . 
+Tested .apk file in all android mobile. 
+2) 
+Project 
+Name : 
+Android Controlled Intelligent Home Application. 
+Role 
+Developer 
+Technologies Android Software,Arduino and Raspberry-Pi. 
+Duration 2 Months 
+Description : 
+Controlling Intelligent Home Application using android app. This projects use the arduino and raspberry pi together.All home application like Light,Fan,TV,Air conditioner,etc controlled and manege using android devices app. 
+Roles and Responsibilities: 
+Analyzing understanding the Client requirements. 
+Prepare Detail Design. 
+Manage delivery time lines. 
+Involved in all aspects of app architecture and UI implementation Use AsyncTask,JSON, Seekbar. 
+Developed code as per coding rule. 
+Monitor the scope changes . 
+Tested .apk file in all android mobile. 
+Defect Management. 
+3) 
+Project 
+Name : Vada Pav Order App. 
+Role 
+Developer 
+Technologies Android Software. 
+Duration 2 Months 
+Description : 
+Vada-Pav Order app is online android application, using this Appliction user order the vada-pan online. 
+This app creates a order by asking the user to Questions and Answer about the Vada-Pav variety and quantity. 
+After processing the users responses, the app summarizes the order and asks the user, whether it s correct the app send the order to particular Vada-Pav delivery hotels. 
+Roles and Responsibilities: 
+Analyzing understanding the Client requirements.. Prepare Detail Design. 
+Manage delivery time lines. 
+Designing UI and layout for different screen sizes and densities. 
+Uses text-to-speech and speech-to-text engine 
+Uses SmsManager to send text massages. 
+DialogFragment, BroadcastRecevivers. 
+Developed code as per coding rule. 
+Monitor the scope changes . 
+Tested .apk file in all android mobile. 
+4) 
+Project 
+Name : 
+Route Tracker App. 
+Role 
+Developer 
+Technologies Android Software. 
+Duration 1 Months 
+Description : 
+Route tracker app monitors the users location and direction. Application showing the user route in markes with a red line.User select between Map views and satellite views using this app.This app display athe total distance traveled (in kilometers and miles) and the average speed (in KPS and MPH) over the entire route. 
+Roles and Responsibilities: 
+Analyzing understanding the Client requirements. 
+Manage delivery time lines. 
+Involved in all aspects of app architecture and UI implementation. 
+Uses Google map,GPS,LocationManager,MapView,PowerManager,WakeLock. 
+Developed code as per coding rule. 
+Monitor the scope changes . 
+Tested .apk file in all android mobile 5) 
+Project 
+Name : 
+Weather Viewer App. 
+Role 
+Developer 
+Technologies Android Software. 
+Duration 1 Months 
+Description : 
+Weather Viewer app provide weather conditions in cites. Using app user view the current condition and five-day weather forecast. This app is pre-populated with a list of cities. User can add new cite and change the preferred city. . 
+Roles and Responsibilities: 
+Analyzing understanding the Client requirements. 
+Prepare Detail Design. 
+Manage delivery time lines. 
+Involved in all aspects of app architecture and UI implementation. 
+Uses Web Services, Uses JSON, ListFragment, DialogFragment, BroadcastRecevivers. 
+Developed code as per coding rule. 
+Monitor the scope changes . 
+Tested .apk file in all android mobile. 
+Defect Management. 6) 
+Project Name : 
+Tax Calculator . 
+Role 
+Developer 
+Technologies Android Software. 
+Duration 1 Months 
+Description : 
+Tax Calculator App help to calculate the daily taxes like Vat Tax , Service Tax, Income Tax for the Indian country. In user enter the total amount, the app calculates and displays the tax amount and total result amounts with effecting the taxes. the user can also specify a custom tax percentage by moving the thumb of a seekbar. This updates the percentage shown to the right of the seekbar. 
+Roles and Responsibilities: 
+Analyzing understanding the Client requirements. 
+Prepare Detail Design. 
+Manage delivery time lines. 
+Designing UI and layout for different screen sizes and densities. 
+Uses Seekbar,Scrolling_tab fragments. 
+Monitor the scope changes . 
+Tested .apk file in all android mobile Defect Management. 
+7) 
+Project Name : 
+Decision Support System Based IOT Platform For Monitoring Environmental Pollution 
+Metropolitan Cities. 
+Role Android Developer 
+Technologies Arduino Hardware. 
+Duration 
+3 Months 
+Description: 
+The objective of the project was to develop a cloud based decision support IOT system to ense a prime set of air pollution related parameters, analyze their causes and effects and develop a viualization tool to present the findings for control and planning using Android device application. 
+Roles and Responsibilities: 
+Formulate the requirements Prepare Detail Design 
+Develop Data Models to apply business rules Help team members in understanding & resolving complex issues 
+Manage delivery time lines Involved in all aspects of app architecture and UI implementation Monitor the scope changes 
+Tested .apk file in all android mobile Defect Management 
+Handling Change Request. 
+Defect fixing in a given time frame. 
+8) 
+Project Name : Event Driven Automation Android Backup Control 
+Role Android developer. 
+Technologies Embedded C, Android software. 
+Duration 3 Months. 
+Description: 
+This project is basically helpful in triggering the events automatically based on scheduling. The system alerts user through a beep sound for every event being driven and status is displayed on LCD. The Android smartphone which is connected to the system through Bluetooth is used to control the events in case of emergencies. 
+Roles and Responsibilities: 
+Formulate the requirements Involved in all aspects of app architecture and UI implementation 
+Use BluetoothSocket, BluetoothAdapter. 
+Monitor the scope changes 
+Tested .apk file in all android mobile Documentation of every performed test. 
+DISTINCTIONS/ACHIEVEMENTS: 
+GATE 2013 qualified, GATE Score: 432. 
+Worked as Class Representative in Final Year of engineering. 
+Worked as Sports Coordinator in Third Year of engineering. 
+Worked as Captain of college Cricket team in Final Year of engineering. 
+Worked as volunteer in ANTRATECH-2012 a National Level Conference at DBNCOET. 
+Worked as volunteer in SPARK-2013 a National Level Conference at DBNCOET. 
+EDUCATIONAL QUALIFICATION: 
+B.E 
+From Dr.B.N.College Of Engineering and Technology affiliated by SANT GADGE BABA AMRAVATI UNIVERSITY (Maharashtra) With an aggregate of 61.38% in 2013. 
+12 
+th 
+From S.D. Jounir College affiliated by LATUR DIVISIONAL BOARD (Maharashtra) With an aggregate of 73.17 %. 
+10 th From M.P.High School affiliated by LATUR DIVISIONAL BOARD (Maharashtra) With an aggregate of 53.86 %. 
+PERSONAL DETAILS: 
+Permanent Address : At Post. Khadala, Tal.Purna, Dist. Parbhani -431402. (Maharashtra) 
+Gender : Male. 
+Languages Known 
+: 
+English, Hindi, Marathi. 
+Passport : No 
+Marital Status 
+: Single ( Prashant G. Shinde ) 

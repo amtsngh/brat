@@ -1,0 +1,38 @@
+ CAREER GOAL QUALIFICATION HIGHLIGHTS 
+WORK EXPERIENCE 
+Symmetric Technologies | 2015 - Present 
+HAL, Bangalore |2016 Oct 
+2017April | 
+Worked on Flight Weapon Integration as part of DARIN III upgrade of Jaguar, MIRAGE, LCA and LUH Projects at HAL IV&V activities involves C and C++ Programming and unit testing the Aircraft Mission Software with Automation Tool LDRA to verify code compliance with the below standards Comply code with MISRA C:2004 Standards performing Static code Analysis 
+Coverage Metrics required to achieve DO-178B standards Verify Procedure table, Code Coverage Metrics for statement 
+Coverage, Branch/Decision Coverage, Modified condition and Decision coverage using dynamic code analysis. 
+ADE, DRDO, Bangalore|2015 Oct-16 April| 
+Development and Testing of Communication modules between Navigation systems at ADE, Bangalore 
+Project: Design, Development and Test activities involves of GUI 
+Design (Qt creator) includes C and C++ programming and testing the Target computer (RedHat Linux and Windows OS) with Host computer(Ubuntu Linux). 
+Responsibilities: Coordinating with the Business team for Requirement and Scoping customer Requirements. 
+Deriving Software requirements, preparing SRS and Design document, Test Design, and generating Test report. 
+Configuration management Compilation of Multiple files done using Make file Front End and Back end development 
+DLRL, DRDO |May-Sep 2016 | Development of Configuration Application for the Data Recorder 
+Project: Design and Development of Configuration Application for Analyzing the Recorded data using Qt creator including C and 
+C++ programming in Windows OS. 
+Responsibilities: 
+Deriving the SW Requirements from the customer specifications. 
+Responsible for Front end (GUI design) and Back end(C,C++ programming) 
+development 
+Prepared SDLC documentation (SRS, SDD, STP, STR) EDUCATION JNTU University, 2014 
+BE Electronic and Communication Engineering 
+KKIT of Engineering, Kurnool, AP SKILLS 
+Ability to handle multiple tasks and meet strict deadlines Problem solving & critical thinking Quick learner to adapt to new technology 
+INTERESTS 
+Yoga 
+Swimming Shuttle 
+Gym 
+Aditya Natuva| (+91) 7676212541 | 
+ad i t ya.natuva@gmail.com Executed project at Hindustan Aeronautics Limited (HAL), Aircraft division in IV&V involving C Programming, Unit Testing Aircraft Mission Software using Automation. 
+Executed project at Aeronautical Development Establishment, AIEL Division involving SDLC 
+Documentation, C and C++ programming and Development of the communication modules between Target computer and Host computer on Linux OS. 
+Developed Analysis software using Qt Creator and C/C++ for Linux (RedHat Flavour) OS. 
+Developed GUI for Ethernet, RS422 communication and for Data Analysis software Technical knowledge of TCP/IP, RS422, 1553B, Linux Operating system, Automation tool LDRA 
+Dynamic team player, motivated, dedicated and quick learner. 
+With a good experience in Information Technology, seeking a career opportunity to work with my technical skills in the areas of Design and Development, programming and testing areas towards my professional growth and development in an organization. 

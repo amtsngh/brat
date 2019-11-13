@@ -1,0 +1,111 @@
+R E S U M E 
+DAKSHAY K.KHATRI 
+B-404, 4th Floor, Subodh Sagar Residency Co-operative Housing Society Limited. 4th Road, Nallasopara-Virar Link 
+Road, Shriprastha, Nallasopara (West) Pin :- 401203. 
+Mob : +91 99702 69779 / 96650 53779 
+E-mail : dakshay.khatri@gmail.com 
+INTRODUCTION 
+I am Commerce Graduate from Kedarnath Malhotra College of Commerce and currently working in M/s. Vidyasagar 
+Interactive Private Limted as an PROJECT MANAGER - IT at Corporate Office from 08th May 2017 . 
+PROFESSIONAL OBJECTIVE 
+My objective is to contribute superior project and operations management skills and experience in an IT Software 
+Development Role. Also, to obtain a position in a professional office environment where my skills are valued and can benefit the organization. 
+CURRENT PROFILE 
+Learning On going process of updating the existing ERP Module written in PHP, CakePHP on Wamp Server 
+installed on Cloud Server. 
+Handling Administrator of User Accounts, Roles in ERP Module. 
+Creation of New Email Account. 
+Learning existing LMS Moodle and E-commerce Platform Magento. 
+WORK EXPERIENCE:- 
+Worked for M/s. PCI Pest Control Pvt Ltd for a span of 14 years i.e. from 
+17th March 2003 to 06th May 2017. Designated as ERP Project Manager - 
+IT 
+Corporate Office and played major role in Development , Co-ordination and Modifications [ERP 
+Screen Designs and Work Flow] with All Modules. CRM Module, Sales and Accounting, Operations and Warehouse 
+Inventory Management, Data Migration from Existing Application to ERP System, Deployment of ERP System. 
+ACHIEVEMENTS 
+Successfully Implemented ERP Inventory Module in National Stock Depot. 
+Implementation of ERP Inventory Module includes : 
+Active Participation in Reconciliation of Physical and System Stock. 
+Training to End Users on Dummy Server. 
+On Date Live Entries and Sign-Off from the End Users. 
+Verifying VPN Configuration working properly. 
+Tech-Support from Corporate Office to Site Office for stipulated period. 
+Knowledge Transfer of Inventory Module to Tech-Support Team Members at Corporate Office to take over. 
+Successfully Implemented Odoo ERP version 6.0 [Opensource :- Odoo, formerly known as OpenERP and before that, TinyERP) is a suite of opencore enterprise management applications.] at 15 Branches all over India. Offices covered in Mumbai, New Delhi, Bangalore, Orissa, Uttar Pradesh and Tamil Nadu. Various ERP Modules consists of CRM, Sales, Accounting, HR, Stock Management and Operations. 
+Implementation of ERP consisted of various Modules such as CRM, SALES, HR, OPERATIONS and STOCK MANAGEMENT: 
+Implementation Process points covered the following: 
+Data Migration and Reconciliation of Data from Old Application to New ERP Modules. 
+On Site Training to End Users. 
+On Date Live Entries in the New ERP Modules. 
+Verifying VPN Configuration working properly. 
+Tech-Support from Corporate Office to Site Office for stipulated period. 
+Knowledge Transfer of Inventory Module to Tech-Support Team Members at Corporate Office to take over. 
+Monitoring of Transaction Data between National Stock Depot and Site Offices located at Mumbai Branch and Online / Offline Sync Issues. 
+25/06/2009 06th May 2017 : ERP Project Manager M/s. PCI Pest Control Pvt Ltd - Healthcare Domain- 
+Goregaon, Corporate Office. 
+Successful Completion of 2 SDLC's from the Development Phase till the Software Implementation Phase. 
+First SDLC written in JAVA and DB MYSQL. 
+Key role and responsibilities during first SDLC 
+Understanding of existing best practices and methodologies to design, implement and automate processes. 
+Streamlining Documentation & Processes. Develop, maintain and ensure a proficient execution of all Policies, Processes & Procedures. 
+Ensuring project documents are complete. 
+Ability to work in a team environment. Handling a team of in-house 5 to 6 programmers for designing the interface. 
+Taking ownership for system test activities and managing unit and integration testing. 
+Developing and executing test cases. 
+Functionality and Black Box Testing of the Software. 
+Documentation of the Entire Process flow for the Users. 
+Scheduling and Conducting Centralized Training Program for the Users. 
+Remote Online Tech Support and resolving day-to-day issues related to software. 
+Second SDLC written in Python and DB Postgres. 
+Key role and responsibilities during second SDLC. 
+Learning and Understanding of the architecture of ERP and methodologies to design, implement and automate processes. 
+Preparing Flowcharts of Different Modules in ERP and Document the process flow as required by the Higher Management of the Company. 
+Engaging with the Developers of the Vendors so as to understand the Business Flow of the Company and to co-ordinate in the development of ERP Modules. 
+ERP Module Testing [Black Box Testing] and co-ordinate with developers with various issues related to development of ERP Modules. 
+Implementation of ERP Modules at various locations. 
+17/12/2006 - 25/06/2009 : IT Officer M/s. PCI Pest Control Pvt Ltd - Healthcare - Goregaon(East), Corporate 
+Office. 
+Key role and responsibilities. 
+Transferred to IT Dept as a IT-Officer in the Learning of Software Development of ERP Sales and Accounting 
+System. 
+Learning and Installation of Servers under Nitix and CENTOS (Linux Operating System) (NITIX now owned By IBM). 
+Learning and Installing the Application (ERP System) and Database(MySQL) in the Servers. 
+Centralized Training Programme Conducted for the users for ERP Sales and Accounting System. 
+Act a Team Leader in the Deployment of ERP Sales and Accounting System across our branch all over India. 
+Offices covered in New Delhi, Noida, Gurgaon, Karnal, Surat, Ahmedabad, Jamnagar, Rajkot and Veraval. 
+Team Leader responsibilities :- Installation of Servers at each location. 
+Training on site to the End Users on ERP Sales and Accounting System with Case Studies. 
+Online Tech and Application Support. 
+Promoted as Assistant Manager IT Training, Corporate Office. 
+17/03/2003 - 15/12/2006: Office Assistant (Multi -Tasking Job) in PCI Pest Control Pvt Ltd, Goregaon(East), Branch Division. 
+Key role and responsibilities. 
+Handling MS-Access accounting package independently Preparing MIS and maintaining the records of Orders and their Renewal Business Status. 
+Also acting as a CCE i.e. Customer Care Executive (attending calls of client and handling their queries being a service industry). 
+Handling various National Account Contracts. 
+Handling administration, Personnel Records of all the employees and other correspondence work. 
+EDUCATION QUALIFICATION:- 
+Year 2000-2001: Kedarnath Malhotra College of Commerce, Bachelor of Commerce, Vasai Second Class. 54% Year 1997-1998: Kedarnath Malhotra College of Commerce, H.S.C, Vasai First Class. 62% Year 1994-1995: Krishna Moru Patil Deshmukh Vidyalaya, S.S.C, Nallasopara First Class. 65% COMPUTER PROFICIENCY :- Diploma in Computer Management Word, Excel, Powerpoint, Access 
+Professional Diploma in Software Engineering 
+O/S. Platform:- 
+Windows XP, CENTOS, Ubuntu, NITIX,. 
+Databases:- 
+MS-Access, MySQL, Postgres, Oracle 10g -Course Completed 
+Remote Tech Support:- 
+Logmein, Teamviewer, ISL Light,AAmy Configuring Virtual Server on a Local Machine for Open Source Projects. 
+Xampp Server, Uwamp Server, Wamp Server. 
+Designing Prototypes Softwares:- WYSIWYG Web Builder, Axure. 
+PERSONAL DETAILS 
+Father name : Shri Kantilal Gangaram Khatri 
+Date of Birth : 05th April 1981 
+Martial Status: Married 
+Nationality: Indian 
+Language Known: English, Hindi, Marathi, Gujarati. (Read and Write) INTERESTS 
+Eagerness in learning new technologies, Listening to Music, Singing etc. 
+Current CTC : 6.00 Lacs p.a. 
+Expected CTC : 7.50 Lacs p.a Negotiable 
+Notice Period : 30 days 
+DECLARATION 
+I ,Dakshay Kantilal Khatri , hereby declare that the above furnished information is authentic to the best of my knowledge. 
+PLACE :- NALLASOPARA DATE :- 18-05-2017 
+[DAKSHAY K. KHATRI] 

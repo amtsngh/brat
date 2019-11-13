@@ -1,0 +1,43 @@
+ M PAVAN SAI 
+Ukkunagaram Visakhapatnam 
+Andhra Pradesh 530032 | pavanmajji03@gmail.com | 7795471810 OBJECTIVE Obtain a challenging position in the organization that gives me an opportunity to add to the growth of the company and to improve my skills with the organization. 
+SKILLS & TECHNOLOGIES 
+Programming languages: C++, C, SQL, Python 
+Web: HTML, CSS, JS, PHP 
+Software: Cisco Packet tracer STARTUP EXPERIENCE WEBSITE DEVELOPER VPOPS 
+1 MONTH 
+Redesigned existing template and added Mailchimp functionality for email campaigns to the website. 
+Link: http://techpop.000webhostapp.com/ 
+WEBSITE DESIGNER PANACHE 
+2 MONTHS 
+Designed the website as per the requirement with basic material design. 
+Technologies used: Angular JS, Angular Material 
+EDUCATION AMRITA SCHOOL OF ENGINEERING, BENGALURU KARNATAKA BTECH, COMPUTER SCIENCE AND ENGINEERING 
+Completed my graduation with a CGPA of 7.48/10. Batch: 2013-2017. 
+ASCENT JUNIOR COLLEGE, VISAKHAPATNAM ANDHRA PRADESH 
+CLASS 11-12, Board of Intermediate Education Andhra Pradesh 
+Completed my intermediate education in 2013 with 92.5%. 
+DELHI PUBLIC SCHOOL, VISAKHAPATNAM ANDHRA PRADESH CLASS 10, CBSE 
+Completed my higher secondary education with a CGPA of 9.2/10 in the year 2011. 
+ACHIEVEMENTS 
+Qualified for ACM ICPC Asia Regional Round, Amritapuri 2014. 
+PAGE 2 Runner up in games conducted by Rashtriya Swayamsevak 
+Sangh (RSS) at Amrita School of Engineering in 2013. 
+PARTICIPATION Participated in Stay Late and Code (SLAC), a 24-hour hackathon in 2015 and 2016. 
+In-plant training in Systems department at Vizag Steel Plant for 2 weeks in July 2015. 
+Attended Innovation to Success 
+an entrepreneurship workshop conducted by Amrita TBI in March 2015. 
+PROJECTS GATE PASS MANAGEMENT SYSTEM 
+The project helps students to register for a Gate Pass online and it also allows wardens to keep track of students going out and grants permission to them. 
+Technologies Used: HTML, CSS, JS, PHP, MySQL, XAMPP, PHPMYADMIN MEETME 
+Android application which is useful in one-to-one real-time tracking on map inside a chat interface. This application can help the user in meetups at a location without much of hassle. 
+Technologies Used: Android Studio, Firebase API, Geo Fire API, Google 
+Maps API for android. 
+Link to app: 
+https://drive.google.com/open?id=0B1B440niHg_2LTA2YUtJVVRLc0U 
+ITYPE 
+This project is a typing game how many words or sentences you can type in a minute. Level one contains words which contains words which are to be typed accurately in one minute and in the same way the second level contains short sentences to be typed in 60 seconds time. 
+Technologies used: HTML, CSS, JS, PHP, MySQL 
+Link: itype.000webhostapp.com 
+PERSONAL PROFILE 
+DOB: 03 MAY 1996 AGE: 21 INTERESTS: Playing cricket, photography, solving code problems on - Hacker rank, Codechef, Spoj. 

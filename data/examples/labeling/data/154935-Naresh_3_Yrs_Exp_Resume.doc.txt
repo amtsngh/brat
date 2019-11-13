@@ -1,0 +1,75 @@
+Gottepalla Naresh 
+Mobile: +91 8096390928 
+Sap Technical Consultant E-mail:Nareshgottepalla@yahoo.com PROFESSIONAL SUMMARY: 
+Having 3+ Years of progressive experience in IT Industry as a SAP Technical Consultant with proven abilities in support and Implementation of projects. 
+Have got extensive experience in Analysis, Design, Code, Test, and implement SAP development solutions to support the Customer requirements. 
+Have actively involved in various phases of projects and worked ECC 6.0 versions of SAP R/3. 
+Have carried out two complete SAP R/3 HR ABAP end-to-end project implementations. 
+Have been involved in different implementation support and enhancement projects 
+SAP EXPERTISE: 
+Very Good Experience with Creation/maintenance of Data Dictionary objects and Table Maintenance generator Expertise in generation of Classical Reports, Interactive reports and ALV reports. 
+Dialog Programming custom development of Transaction screens and Menus using Table control, Tab strip control and Custom control. 
+Worked with various inbound and outbound interfaces. 
+Worked on Conversions using BDC Programming and LSMW tools. 
+Extensive experience in Batch Data Communication Using Call Transaction, Session Method 
+Basic Knowledge in development of SAP Script & Smart forms. 
+Extensive experience in identify and efficiently utilize SAP user-exit functionality, Enhancements and BADIs Expertise in the generation of PA, OM, TM Reporting. Worked extensively on Payroll Reporting and LDB (PNP and PNPCE). 
+Good functional exposure on PA, OM and TM modules. 
+Very good understanding of the full lifecycle of the implementation SAP modules, right from the conception stage to go-live. 
+Strong problem solving and debugging experience. 
+Basic Knowledge in Webdynpro. 
+Developed ALV report by using Webdynpro Standard Components. 
+Create multiple views and generate report by using Plugs. 
+Creating Select-options using standard Webdynpro Components. 
+TECHNICAL SKILLS: 
+Operating Systems : 
+Windows Xp, Windows 7. 
+Languages : ABAP/4&CA, HR-ABAP and WEBDYNPRO. 
+ERP : Sap R/3 ECC 6.0. 
+IT EXPERIENCE 
+Currently working as a SAP Technical Consultant(Abap & Hr-Abap) associated with 
+H-Lines Soft Information Technology Pvt Ltd, Hyderabad, from June 2013 to till now. 
+EDUCATIONAL QUALIFICATIONS: 
+B.Tech (E.C.E) From JNTU University, Hyderabad, Telangana. 
+PROJECT DETAILS: 
+Project II 
+Client : The Coca Cola Company 
+Duration : June 2014 to till Date. 
+Role : Sap Technical Consultant (ABAP and HR-ABAP) 
+Module : SD, MM and HR. 
+Environment : SAP ECC6.0 
+Description 
+: The Coca Cola Company is worlds largest beverages manufacturing company with 3000+ beverages, 92700 worldwide employees and has business experience of 123 years. 
+Contribution : 
+Good experience with modeling of SD, MM, PO modules Ensure the quality of deliverables. 
+Development of new Data dictionary objects to plug existing reports and functionalities. 
+Created Sales operation report, which is used to list customers and associated sales partners as on date using ALV. Developed ALV Report for products delivery during a period for a plant and calculates annual usage and also lists storage associated with the products. 
+Designed and coded a BDC program for Sales order that updated records in the sales order screen or will create new sales order depending on the source data file from external systems. 
+Upload the Vendor master data for transaction XK01 by using the BDC Call transaction Method. 
+Upload the vendor master data as well as customer master data by using BDC Session Method. 
+Developed a smartforms useing MM, SD, PO data details . 
+Developed various reports in PA, OM, PY and TM modules. Created an Interface that will upload Employees datainto Info types0000, 0001, 0002,0006, and 0021 using function modules. 
+Developed a Report to display the Position, manager id, manager name, organization id, organization name of an employee from info types0001,andOMinfotypes1000, 1001. 
+Developed a report to display the data of payroll cluster directory of Retro-Active payroll results with an option of downloading into XL file. 
+Developed HR Report Categories. 
+Helping team technically. 
+Project I 
+Client : KONE International. 
+Duration : June 2013 to May 2014. 
+Role : Sap Technical Consultant (ABAP and HR-ABAP). 
+Module : SD, MM and HR. 
+Environment : SAP ECC6.0 
+Description : KONEs objective is to offer the best people flow experience by developing and delivering solutions that enable people to move smoothly, safely, comfortably and without waiting in buildings in an increasingly urbanizing environment. KONE provides its customers with industry-leading elevators, escalators and innovative solutions for modernization and maintenance, and is one of the global leaders in its industry. In 2007, KONE had annual net sales of EUR 4.1 billion and over 32,500 employees. 
+Contribution : 
+Responsible for developing various ABAP reports/objects which in turn will be used as templates for local implementations. Create a report that will show the shipment frequency of report. Developed an ALV Grid Report to list out Customers who have been flagged for Deletion. Upload the vendor master data as well as customer master data by using BDC Session Method. Development of conversion programs for SD, MM transactions. 
+Create/change the necessary technical specification. 
+Provide the ABAP solution wherever required according to user. 
+Created an Interactive report to output Vendor details in basic list and vendor corresponding bank details in secondary list. 
+Created a report which produces output in organizational structure and counts the employees. 
+Interacting With Functional Team to Resolve the Issues in the Given Objects. Infotypes 0021 Enhancement The new field for location, is created to the Info type 0021 in the Additional Fields section. 
+Report to reads the employee payroll results from WPBP, RT and CRT cluster table in ALV grid with an option of downloading the output data into local file. 
+Developed a report which provides the Payroll results for required wage elements. 
+Report which provides details of retro accounting and off-cycle payroll. 
+Created Unit test cases and unit test plans. 
+Helping the team technically. 
+Naresh.G 

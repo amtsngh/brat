@@ -1,0 +1,171 @@
+GYAN PRAKASH QA/TEST MANAGER|CSM|Six Sigma|ITIL V3 Foundation SOFTWARE QUALITY/TEST MANAGEMENT | AGILE PROJECT MANAGEMENT | PRODUCT RELEASE MANAGMENT 
+Career Objective 
+Looking for new challenges in career with an es- teemed organization, who can provide better opportunities of career progression and learning, as well as utilize my expertise & experiences with proper recognition of effort and initiatives. 
+Career Summary 
+A multi-skilled and accomplished S/W Professional with 15+ years of progressive experience in e2e 
+PDLC with people, product and project management. 
+Quite diversified by roles, responsibilities, technolo- gy and domain working with the world s renowned 
+S/W product companies following Agile-scrum, Ex- treme, SFE TDD & waterfall methodology. 
+Few recent achievements with current org IBSL: - 1. Involved in e-2e Product life cycle development which comprises of idea generation & screening, Extensive Research, Usability Engineering, Proto- typing & Development, Testing & QA, Documentation, Porting, Training, Sales Support, Deployment, Technical Support, Maintenance and Performance Engineering. 
+2. Turnaround of ineffective/stalled test org where driven Org-wide effort of setting-up Test Center of excellence (TCOE) from scratch successfully. 3. Derived & established QMS (QA/SEPG team) set- up where introduced industry proven best prac- tices, standards, processes and methodologies as per identified gaps and improvement areas, in mutual agreement with cross functional team. 
+4. For QMS, defined 5 methodologies followed by different workgroup like S/W Development 
+Methodology, Project Management Methodology, S/W Testing Methodology, QA Methodology & Defect Management Methodology. 
+Above initiatives helped to minimize rework signifi- cantly and enhance the predictability of on-time, on- budget, high quality delivery/releases. It ended-up in delighting the customers. 
+Before IBSL, worked with Microsoft for around 7 years and few achievements include: 1. Provided technical and authoritative guidance to both in house & 3rd party vendor test teams. 
+2. Reduced Test cycle time to 1/3rd by rapid test- automation and defect leakage to less than 3%. 
+I began my career as s/w developer and ac- quired solid foundation in coding, design and automation testing with release management. In this journey, I gained hands on expertise/experiences in different automation tools and framework for Func- tional, Performance and security testing. 
+Areas of Expertise/Core-Competencies Managerial/Leadership Abilities 
+QA Management where leaded Internal Pro- cess/Product Audit, then suggested Corrective as well as Preventive Actions. 
+KPI and Scorecard Development Software Test Program/Project Management 
+o Process design and implementation o Test Strategies for enterprises and projects o Rapid Project Risks assessment to identify roadblocks and process issues. 
+o Org level Change Management and team level conflict management o Insured all test plans comply with company guidelines, standards and regulations. 
+Certified Scrum Master (CSM) with 4+ Years of experience in Agile Coaching. 
+Excellent influential, Customer and Stakeholder 
+Management skill Expertise in project and test problem solving Recruitment, Training, Coaching and Mentoring 
+Building and leading high-performance teams from scratch through Recruitment, Training, coaching, mentoring and Reward Recognition. 
+Designing and facilitating custom training work- shops and classes at Organizational level for Continuous Improvement. 
+Professional Skills and Expertise 
+I am certified Lean Six Sigma Green Belt (CLSSGB) 
+tester with experience in defining dif- ferent test strategy, approaches and techniques. 
+From 6+ years using agile practices to develop 
+S/W solutions. 
+Expertise in MS Office tools, MS project, Visio, SmartSheet and reporting tools. 
+Ability to quickly learn applications/Domain with minimal documentation and having a flexi- ble attitude with positive approach Functional, Performance Automation, System, Security and UAT Testing experience Experience on Business, Technical and Func- tional Requirements documentation & analysis. 
+Business Domain Experience 
+Healthcare 
+Pre-Clinical Trial & research 
+Enterprise resource management 
+Storage management Electronic 
+Data and S/W distribution management 
+Data Center Transformation & Optimization 
+Data Management 
+Telecom 
+Finance 
+Banking E-Learning 
+Azure-Cloud/Internet E-Commerce 
+Mobility E-MAIL: gyanonline@hotmail.com gyanonline@yahoo.co.in 
+Contact No. : +91-0-9866591669 +91-0-9959666685 
+Technology Exposure 
+Microsoft Azure 
+Windows7/8, Windows 2008/12 Server 
+Linux 
+UNIX 
+Mainframe DB2 iMac 
+SQL Server2008 
+/12 
+DataWarehouse 
+Data Analytics 
+Oracle 10g 
+MS Office 2010/13 VSTS 
+MTM 2010/12 TFS2008/10/12 
+Xira 
+Selenium 
+JMeter CodedUI 
+QTP 9.2 
+Win Runner 7.0 
+Quality Center9.2 
+Startrek OpenSTA MS Project 
+MS Visio 
+SoapUI 
+Net 3.5/4.0/4.5 
+VMware 
+Hyper-V 
+C/C++ 
+CORE JAVA 
+TeamViewer 
+Eclipse IDE 
+Cenzic 
+Professional/Work Experiences 
+Indus Business systems Ltd(IBSL), Hyderabad QA/QC Manager From Nov 2013 to present 
+Role: Org wide QMS Vertical management 
+IBSL is a subsidy of Keys Solutions Inc. (KSI), US and providing S/W Solutions for Pre-clinical research protocol management, Research Grant management, Animal ordering and Animal health record management under Healthcare drug-discovery domain whose client-base include top Institutions and organizations working in drug discovery and clinical research area. As QA/QC Manager heading the org-wide Quality vertical where handling - QA/SEPG/Process compliance management Derived the QMS set-up initiative for preventive mechanism. Here managed the release process monitor- ing/inspection/audits through SEPG/QA team to ensure compliance, then analyze non-conformances found in audit report for quick corrective actions & future preventive measures as well as future scope optimization. 
+Defined different development methodologies need to be followed by different team as per their product ma- turity for on-time delivery of hotfixes/monthly/quarterly product releases with high quality. 
+Organizes training for various methodologies then Coached, counseled team regarding job expectations as per methodologies before enforcing discipline across teams. 
+Collect and analyzed the statistical data with trends to identify current baseline standards then establish fu- ture quality and standard expectancy. 
+Act as an internal evangelist for S/W quality and striving for world-class software quality. 
+Test Management Manage budgets and resources for the Test team, defined team roles/responsibilities and setting-up goals and objectives (G&O) as per org priorities. 
+Identify and develop high performers, then proactively manages poor performance through effective perfor- mance reviews and feedback. 
+Following up for outstanding open test risks/issues then update test progress to stakeholders. Also, compile test metrics, identify test approaches and best practices to optimize delivery schedule. 
+Persuasively champions change; takes ownership for communicating the vision and rationale for change. 
+Arranging team meetings and Training workshops. Also advising team on following Testing best practice. 
+In parallel, wore other role-hats as well time to time, as per org need & insuring end to end quality, like Agile Coach/Scrum Master: 
+Work with Product Owners & development team for agile adoption. Trained/coached them in Agile/Scrum practices, and facilitating Scrum ceremonies. 
+Promote agile practices, Tools, documentation and metrics, here analyzed/review the projects/release pro- cess effectiveness and defined actions for better quality, predictability and efficiency improvements. 
+Establish metrics & tools to achieve predictability for high quality S/W release in a fast paced environment. 
+Release Management: 
+Worked for early release definition and scope negotiation then scheduling, tracking & control the releases. It involves configuration & change management with release risk assessment & management. 
+On Test Architect side: 
+Refined Org test strategies, enforced industry best practices and guided the team in using tools for automa- tion framework development. Act as a guide in using Selenium & BadBoy tool for functional automation, JMeter for load/performance test suite development and Cenzic tool for Security testing. 
+Adopted TestComplete and VMWare which helped in compatibility testing of products on different platform, configuration like - Windows, Linux, SQL server, Oracle, Web, Desktop and Mobile quickly. 
+Also helped the team in better test planning & estimation process for enhance test coverage in minimum time. 
+It helped to minimizes the defect leakage and Test cycle time reduction by 60% on release to release basis. 
+Defined roadmap for development and testing of multiple in-house products/tools like client enablement tool, dynamic form management (DFM) tools. 
+Determine which tests to perform when like Functional, UI testing, performance, security, installation, Internationalization(I18N)/Globalization testing, compatibility, load/stress testing and data integrity. 
+Mentor and lead the Testers to develop a customer-focused vision for better quality and examine the test cas- es and results to identify redundant tests. 
+Analyze metrics to determine the effectiveness of the testing effort and the software quality level. 
+Microsoft India (R&D) Pvt Ltd. Designation: Test Lead From Dec 2006 to Oct 2013 
+Role: Portfolio Test Lead/Test Engineering Manager(Aug 2009 To Oct 2013) Act as product portfolio lead from Test side, for two product portfolio of MS Product & Pricing Launch (P&PL) and Deliver & Store (D&S) in resource augmentation with MS vendor Org like- Accenture, Wipro, Satyam and 
+TCS. The project budget varied in between $120k $4.5 million and team size of 12 30+ testers/developers/ business resources executing the Test functions. Big-bets projects/releases helped to add capability like- new Data center set-up, Azure Cloud based data storage & delivery, strengthening data delivery mechanism, Dis- aster-Recovery (DR) capability. 
+Handled e-2-e Test management of multiple project/release in parallel, Project-Dashboard-maintenance, Stake- holder/Vendor Management, offshoring, monitoring the deliveries/project status as per KPI/Metrics with team where team-mates mostly dispersed at vendor offshore locations/center. I insured proper test scoping and cover- age like -functional/non-functional, system internationalization(I18N) and localization(L10N) testing, Data integration, UAT, Post-Production Support, Managed schedule, budget constraints & technology de- pendencies; Test sign-off, Status Tracking & reporting. 
+Key Accomplishments: 
+Provided technical leadership & guidance in Functional automation framework development using Visual 
+Studio 2008/2010 Coded UI, TFS, Visual Studio Unit Test Framework with a team of SDETs. 
+Developed a Test community framework (TCF) tool to test product on different database platform. 
+In D&S product portfolio, achieved 100% Regression/ BVT & 35-40% functional script automation target us- ing TCF Tool within three months which reduces Test cycle time to half. 
+In Release portfolio achieved 91% Regression & BVT script Automation using CodedUI based Test Auto- mation Framework which reduces Test cycle time one third in parallel with project deliverables. 
+Devise new Test strategy which helped to reduce defect leakage to less than 3% in the 3 years and reduced Test cycle time along with overall release time from 3 weeks to 1 week. 
+As part of Microsoft EBC Program conducted Knowledge sharing session for enterprise customer on Cloud 
+Application Testing, Storage strategies on cloud & Testing Windows Azure. 
+Automated Tenant onboarding tool developed by Test team reduces onboarding time from 2 weeks to 1 Day. 
+D&S Server downtime reduced from 4 hours to less than 5 minutes by automated deployment. 
+Developed new resources Training plan and participated in defining/refining the test process. 
+Delivered projects using the following methodologies: Waterfall, Agile, Scrum, TSP and SFE model. 
+Key Achievements in Microsoft 
+Get awarded 
+Most Valuable Player as recognition for superior skills of problem analysis with exceptional ability to adhere to project standards and procedures. 
+Got IT PRO award, IT STAR award and monthly Kudos recognition award multiple times. 
+Received DeliverIT award for 3 project for improving the release quality & cost saving. 
+My name was included in Microsoft wall of fame twice. 
+Computer Associates (CA Inc.), Hyderabad Designation: QA Engineer From Jul 2005 to Dec 2006 
+Role: Quality Assurance Engineer 
+Act as a module lead and Performed testing like - Installation, Functional, Usability, internationaliza- tion(I18N) and Globalization testing Web services/API Testing, performance & automation testing using WinRunner/QTP/QC along with Defect management & Reporting 
+Conducted Quality awareness and training program to ensure the compliance of standards in the Product. 
+Boosted software quality by restructuring the test coverage/scope, establishing & tracking QA metrics, defin- ing new standard operating procedures for the testing in different phases of the development cycle. 
+Projects: - Unicenter Workload Control System (UWCC), AutoSys Enterprise Job management System (EJM) 
+Patni Computer System (PCS), Pune Designation: Software Engineer From Jan 2005 to May 2005 
+Role: Test Analyst Client: AT&T, US 
+Performed end to end system and module integration testing and validation for Telecom product of AT&T called EIT Data Services. 
+Communicated the system status post validation 
+Disha Technology, Pune Designation: Software Test Engineer From Apr 2004 to Dec 2004 
+Role: Test Engineer Client: Microsoft, US 
+Performed Functional automation, UI/UX, internationalization(I18N), localization(L10N) testing and Globalization testing for products like MS Office Live Meeting, MSN Passport and Window Messenger. 
+Glowcom System Pvt Ltd., Pune Designation: Software Test Engineer From Oct 2001 to Mar 2004 
+Role: Test Engineer Client: MusicNet Inc., US; noHold Inc., US; TELCO, Pune; Medisoft, Started as Software Development Engineer and after one and half year shifted in software testing side and performed Unit/Integration and Automation testing. 
+Projects: MusicNet, CSS, MOM System; E-Marketing system (A Product); E-Learning System (A Product); Medical 
+Management System 
+Academic qualifications and Certifications Master of computer application (MCA) from IGNOU, New Delhi. 
+B.Sc. (Zoology (H)) from St. Columba s college at Vinoba Bhave University, H.Bag. 
+Certified Scrum Master(CSM : Member ID - 000350480) awarded by ScrumAlliance Group 
+Scrum Fundamental certified(Cert no - 66311) through Scrum Study 
+Certified Lean Six Sigma Green Belt (CLSSGB) Professional through GAQM-IAO Group 
+ITIL V3 Foundation Certification through Cabinett group in IT Service Management 
+Certification @Microsoft in Global Project Management. 
+Trainings Microsoft ACE Certified 
+Secure Application Tester and Threat analysis & Modeling(TAM) . 
+Active PMI Group Member (ID: 1685024) & Completed PMP 
+workshop by PMI-PCC, Hydbd(35 PDU). 
+Attended Leadership Program 
+Leading for Results @ Microsoft. 
+On-Job Training @Microsoft in Release process & tools. 
+Training @Microsoft in SFE (Scenario Focused Engineering) & SFTD (Scenarios Focus Test Design). 
+Workshop/Training @Microsoft on Leading Change , Crucial Conversation , Effective Presentation , Cross Boundary Collaboration , Interpersonal Awareness and Smart Hiring . 
+On-Job Training @ CA Inc. on CA Products (Unicenter Autosys, EJM and CA-7 Suite), Basic and advanced Test 
+Automation training on QC/QTP 8.2/Winrunner 7.5 @ CA Inc. Test driven development, UML and UNIX @PCS, Pune by their Quality & Training Division. 
+Personal Information 
+Present Address : Flat No. 541-9E, Mussorie Tower, HillCounty Apartment, Hyderabad-90 
+Date of Birth : 22 Mar 1977 
+Passport No : N4081334 (valid till 2025) 
+Visa Status : B1 Visa (valid till 2017) Interest and Hobbies : Watching Movies, Listening Light music, Reading Books, Playing Badminton/Cricket. 
+Areas of Interest QA Management, Test Management, Process-compliance management, SEPG Management, Test Project 
+Management, Program Management, Release Management, Delivery Management, Test Architect, Agile 
+Coach, Scrum Master. 

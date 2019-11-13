@@ -1,0 +1,78 @@
+Patel Jay Dineshbhai 
+iOS Developer 
+Mobile: (+91) 9909603690 
+Email: iamjdpatel@gmail.com 
+Carrier Objective: 
+Seeking new challenges in design and development of iOS Application Development. 
+Education Details: 
+Course University Institute 
+Year of Passing %Grade 
+M.C.A. 
+Dharmsinh Desai 
+University 
+DDIT, Nadiad 2016 55.275% 
+B.C.A. Sardar Patel University 
+M.B.Patel Science 
+College, Anand 2014 5.8 CGPA 
+H.S.C. 
+(Science) G.S.H.S.E.B. 
+Gandhinagar, Gujarat 
+L. M. Sharda 
+Mandir, Kapadwanj 2009 64% S.S.C 
+G.S.H.S.E.B. 
+Gandhinagar, Gujarat 
+L. M. Sharda 
+Mandir, Kapadwanj 2007 82.92% Technical Skills Set: 
+Programming Languages Swift, Objective C, C#, C, Java, SQL 
+Web Technologies ASP.NET (C#), PHP 
+Operating Systems Windows 98/XP/7/8/10, mac OS 
+Development software Xcode, Eclipse, Visual studio 
+Training Undertaken: 
+Company MyTectra Learning Solution Pvt. Ltd., Bengaluru 
+Duration Sep 2016 Jan 2017 
+Topics Covered 
+Swift, XML & JSON Parsing, Map Kit, NSDefaulter, Notification Center, plist, Social Networking, Notifications, GCD & Blocks, Database using sqlite, Core data, Firebase. 
+Company ILDC IndiaNIC Initiative, Ahmedabad 
+Duration Jan 2016 
+May 2016 Topics Covered 
+Objective C, View Controllers, Storyboard, Protocol & Delegate, Database using Sqlite and FMDB, XML & JSON 
+Parsing, Map Kit, Social Networking, Notification, GCD & Blocks, Core data. 
+Projects: 
+Final Semester Project 
+Title My Travel Experience 
+Duration 5 Months 
+Programming 
+Language 
+Objective C 
+Front End & Back End 
+Xcode 7.2 Sqlite & Parse 
+Project 
+Description 
+Create an iOS Application for share travel experience and get better suggestions from your friend for particular places. 
+Main 
+Functions 
+Login with Facebook 
+Upload trip Add as Favorite trip Find nearby places on Map 
+Search friend/places 
+Expense calculator 
+BCA & MCA Mini Projects 
+Online Examination System ASP.net with C# MySql Personal Expense Manager 
+Android 
+Sqlite 
+Personal Information: 
+Name PATEL JAY DINESHBHAI 
+Date Of Birth 19th September, 1991 Father s Name PATEL DINESHBHAI HARIBHAI 
+Languages Known English, Hindi, Gujarati 
+Permanent Address 
+17/A, Narayan Nagar Society, Dakor Road, Kapadwanj-387620 
+Hobbies: 
+Surfing on Internet 
+Interesting about new Gadgets 
+Playing Cricket 
+Strength: 
+Quick to adopt New Technologies 
+Positive Attitude 
+Accept changes 
+Declaration: 
+I hereby declare that the above mention particulars are true to the best of my knowledge, belief and information. 
+Patel Jay D. 

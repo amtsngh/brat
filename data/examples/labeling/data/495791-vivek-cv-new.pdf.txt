@@ -1,0 +1,32 @@
+ Vivek Kumar Behera 
+Vivek2s Vivek2s +91-8437565811 vivekkumarbehera@gmail.com 
+Summary 
+I am an experienced programmer having a good understanding of modern architecture based frameworks and have worked on various technologies and stacks. 
+I like writing manageable code hence I focus more on adapting design patterns and various strategies to organize my code. 
+Although my expertise lies in MEAN stack and PHP but I am always open to learning and accept work on any technology that well complements the solution designed for a problem. Education 
+LOVELY PROFESSIONAL UNIVERSITY Jalandhar, India 
+B. TECH COMPUTER SCIENCE AND ENGINEERING 
+Coursework: Web Technology, Algorithms, Operating Systems, DBMS CGPA: 7.9 / 10.00 
+Aug 2012 - May 2016 Experience 
+VENTUREPACT Jalandhar, India 
+SOFTWARE DEVELOPER Jan 2016 - Present 
+Built an online marketplace to serve the purpose of remote hiring and finding vetted teams for quicker development. Worked on Yii framework for PHP and contributed to development of various features of the platform and refactoring of legacy code of the system. URL- https://venturepact.com/ OUTGROW.CO Jalandhar, India 
+SOFTWARE DEVELOPER June 2016 - Present 
+Built an interactive marketing platform to house the award winning (CMO Market Forum - Most 
+Innovative Marketing Technology Award) interactive marketing tools and integrations for on desk analytics and reporting. Worked on MEAN stack (NodeJS, Angular2, MongoDB) and contributed to development of native integrations for various marketing services and billing management along with backend APIs for both. URL- https://outgrow.co/ Projects 
+OUTGROW APP 
+Worked on creating a MEAN stack based application that houses most of the tools offered by Outgrow. 
+Major functionalities included Builder, Native Integrations, Admin panel & some other functionality. 
+Worked on Angular2 to create frontend logic to make dynamic views and utilized NodeJS on backend to write API s for handling frontend requests. Later on completion of application, worked on code optimization and code base cleanup. URL - http://app.outgrow.co 
+SWAGGER PUBLIC API 
+Created a public API or IO docs for Outgrow app using world s most popular framework for API- Swagger. Developed its frontend using Swagger-UI & utilized NodeJS on backend to write API s for handling requests. Used major features offered by Swagger to make an understandable 
+IO doc. 
+NEWS AGGREGATOR APPLICATION 
+Created a cross platform application using IONIC framework. Developed its frontend using AngularJs. Used major features offered by AngularJS to craft an extensible architecture of application. 
+Major focus was to write code as manageable as possible and the process included uses various JS design patterns to write efficient controllers. 
+SOFTWARE DIRECTORY 
+Worked on developing an independent module to serve as a software directory which hosted a list of all the software available categorized under broadly identifiable categories. Platform also supported 
+PPC marketing strategy to generate revenues. 
+Skills PROFICIENT: Angular 2, Angular CLI, NodeJS, Mongo Db, JavaScript, PHP Yii, Architecture pattern, GIT, Ionic 
+WORKING KNOWLEDGE: 
+Angular 4 INTERMEDIATE: AngularJS, Ionic Framework 

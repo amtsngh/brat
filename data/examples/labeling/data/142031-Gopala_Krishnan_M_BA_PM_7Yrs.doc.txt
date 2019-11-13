@@ -1,0 +1,122 @@
+Gopala Krishnan 9611113659 
+kris.mullai@gmail.com (mailto:kris.mullai@gmail.com) #402 FOURTH FLOOR, SANNIDHI APARTMENTS, 3RD MAIN, MAYTHRI LAYOUT, HOPE FARM JUNCTION, WHITEFIELD. BANGALORE-560017 
+Objective 
+Creative, highly organized candidate, seeking achallengingposition with an organization, where in my capabilities and techno-functional skills can contribute to the organizations growth. Proven problem solving skills and ability to integrate out-of-the box thinking. 
+Professional Summary 
+Experienced in Business Analysis and Project Management, Data Modeling and Project Management. 
+In-depth knowledge in Health Insurance, Healthcare and ERP domains. 
+Gather and analyze business problems to provide Business Solutions and document as System Requirements. Expertise in documentation like BRD, SRS, FSD, RTM and PowerPoint presentations. 
+Experienced in creating UML, Process Flow Diagrams, Designing Prototypes, Wireframes and Screen Mock-ups. 
+Proposed and implemented process improvement ideas through GAP analysis. 
+Experienced in Health Insurance with supportive banking operations & ERP integration Data integrations with large-scale initiatives involving the transition of programs to new platforms and the merger of disparate systems from stakeholder and client organizations. 
+Expert in relationship building skills and managed various stakeholders, both internal and external including clients from Fortune 500 companies (Hannover Re, yahoo India, IBM India & Cigna Health Insurance (https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjO96jZ8J_PAhUJQCYKHemwBuIQFggjMAA&url=http%3A%2F%2Fwww.cigna.com%2F&usg=AFQjCNFK9mfZOZvPHgITxq2ba26em-IgtQ&sig2=cNmHwiUQNw6WT2EeC0zLzQ&bvm=bv.133387755,d.cGc&cad=rja)) 
+Coordinated with technical team size of 30 including Tech lead, Technical Architect, Development, Tech Writer, and Testing team. 
+Track Implementation & UAT signoff. 
+Involved in writing and reviewing Test cases and Test scenarios Expert in Excel, Pivot tables, MS PowerPoint, MS Excel, MS Word and Chart representation Areas of Expertise 
+Business Analysis Project Management 
+Business Analysis & Business Solution DesignRequirement Elicitation, Management & BreakdownBRD, SRS, FDS & RTMProcess Modelling, UML, Prototyping, wireframes and Screen Mock-upsStakeholder ManagementTest CasesUAT and post production support coordination Project Planning Project Coordination Process improvement 
+Change Management 
+Risk planning and mitigation 
+Technical Skills Methodologies : Agile (Scrum), OOAD. 
+Modeling Tools : UML-2, MS Visio, FreeMind, Balsamiq & ArgoUML 
+Graphic Tools : SnagIt, Camtasia Studio & Screenpresso 
+Management Tools : JIRA, Project Libre, REDMINE 
+Database : SQL & MS Access 
+Education 
+Bachelor of Engineering (Computer Science & Engineering) 
+Sep 2005 
+Jun 2009 Secured Graduation with overall aggregate of 72% from Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya university Higher Secondary(PCMB) Jun 2003 
+Mar 2005 
+Secured 61% from Little Flower Matriculation Higher Secondary School under Tamil Nadu state Board 
+SSLC 
+Jun 2002 
+Mar 2003 Secured 67% from St. Johns Higher Secondary School under Tamil Nadu state Board 
+Work Experience 
+US Software Service Group Private Limited. Bangalore. 
+Business Analyst / Project Manager Sep 2015 
+Till date 
+Vidal Health TPA Pvt. Ltd., formerly known as TTK Healthcare TPA Pvt. Ltd. Bangalore. 
+Business Analyst / Project Manager June 2012 
+Sep 2015 Dnevara agile solutions. Chennai. 
+Business Analyst June 2009 
+May 2012 Projects 
+Projects Involved in US Software Service Group Private Limited 
+Project 1: Enrollment & Claim Processing System (ECPS) 
+Client: Hannover Re 
+Organization: US Software Service Group Private Limited 
+Description: 
+ECPS is a Health Insurance claims processing application is conceived for the purpose of administering mass health insurance(RSBY). The application has interfaces for multiple roles involved in though the business process, like insurers and the provider. Different data model of the product is web portal and a web application and web service for data transfer to other system. The claims will be registered from the providers, adjudicated and settled by the administration bodies and analysis provided to the Insurers. The adjudication mechanism has an automated flow and both the flows are post handled by powerful payment mechanism with interfaces for Banking Systems. 
+Duties and Responsibilities: 
+Engage client to gather software requirements/business rules, and ensure alignment with development teams Translate stakeholder requirements into multiple tangible deliverables such as functional specifications, user cases, user stories, workflow/process diagrams, data flow/data model diagrams. 
+Develop business architecture using requirements such as scope, processes, alternatives, and risks. 
+Designed Application flow including modules & UI according to client styling guidance Handled incidents, change requests, Minor enhancements periodically as per the client requirement by RTM. 
+Highly involved in database and application architecting as to meet business technical needs. 
+Conducted periodic Scrum meetings using Agile Project Management Life Cycle. 
+Regular update on business requirements and user stories conversion into case document Project Coordination with stakeholders on timely updates on resource requirements, scope, budgets, and timing Designed application life cycle flow management using BMPN with Drools 
+Integration Design with client and banking system Test case review and test result review User Manual review and guidance 
+UAT process guidance, support and monitoring 
+Project 2: Insurance Business Intelligence and Analytics 
+Client: Hannover Re 
+Organization: US Software Service Group Private Limited 
+Description 
+This project is to provide better insights and to be able to gain a more holistic view of enterprise performance. In such a highly competitive industry the insurer need to increase efficiency and boost profitability, it is critical for everyone in the business to make the optimal decisions, to do so insurer need a tailored BI which gives the vital information they need, when they need it. In an industry that is so incredibly unpredictable, business intelligence can make things that little more predictable by providing better realistic understanding to changes in business, and in the market. 
+Project 3: DMS (Document management system) 
+Client: Hannover Re 
+Organization: US Software Service Group Private Limited 
+Description 
+The Document management system is focused primarily on the storage and retrieval of self-contained electronic data resources in the document form. Generally, The DMS is designed to help the organizations to manage the creation and flow of documents through the provision of a centralized repository. The workflow of the DMS encapsulates business rules and metadata. 
+Duties and Responsibilities for project 2&3: 
+Designed architecture for complete application including components and versions to be used and organization of stack layers. 
+Documentation for entire project life cycle including BRD, SOW, Work Orders 
+Excelled in guiding the work of technical teams. Articulated project goals and scope, translated business needs into technical terms, prepared detailed work breakdown structures (WBS) and instilled shared accountability for achieving project milestones. 
+Draft and maintain business requirements and align them with functional and technical requirements. 
+Conducted periodic Scrum meetings using agile project Management life cycle. 
+Take Domain training sessions for the Development team for filling up the functional knowledge gap 
+Highly involved in data base and application architecting as to meet business technical needs. 
+Convert business requirements and user stories into case document Evaluate case documents to convert as change requests Project Involved in Vidal health TPA 
+Project 4 : Third Party Insurance Providing Services TIPS (V1 & V2) 
+Role : Business Analyst / Project Manager 
+Organization : Vidal Health TPA Pvt. Ltd. 
+Description: 
+TIPS (Third-party insurance payment system) is an in-house built medical insurance processing system. This system is the core system used by the operations to process a medical claim which has an inbuilt rule engine; also integrated with following supporting applications Document Management System 
+Bulk enrollment engine 
+ID card application Mobile app 
+SSRS & Automated payment system Duties and Responsibilities: 
+Convert business requirements and user stories in to case document Documentation of Change requests to BRD, SOW, Work Orders 
+Create and monitor using RTM 
+Evaluate case documents to convert as change requests Plan and project on development plans with the identified risk Keep stakeholders informed on resource requirements, scope, budgets, and timing 
+Involved in all stages of the project lifecycle to date from the Business Case development through to post implementation and support 
+Worked with internal and external clients and stakeholders to conduct interim reviews Handling status call with onsite clients providing status at offshore development. 
+Other Projects at Vidal Health TPA 
+Part of ISO27001 certification implementation project. 
+Encryption Decryption: critical data are encrypted as to comply Information security standards 
+DB migration: migration of data from MS SQL to Oracle DB 
+Data Archival project: where data with T-days will be archived to archive environment to increase performance on the Production environment. 
+Automated integration with Client system & their payment banking system by which major manual payment process and QC process load. 
+SAML implementation for Single sign on with Fortune 500 MNC clients. 
+Mobile app that provides real time sync and updates to clients & customers 
+JIRA Implementation/Administration: JIRA is a proprietary issue tracking product and project management tool, also can be extensively used for bug tracking, issue tracking by Atlassian. 
+Project Involved in Dnevara 
+Project 5 : ERP Management System 
+Role : Business Analyst 
+Organization : Dnevara Agile Solutions 
+Description: 
+This system is all-in-one business management application for media industry. Enables clients to view detailed specification, cost prediction and place purchase orders. Business process module enables users to purchase request orders, raise invoice and manage payment process. 
+Duties and Responsibilities: 
+Involved in all stages of the project lifecycle to date from the Business Case development through to post implementation and support Regulate module wise elicitation with client team and regular interim updates and UAT 
+Documenting requirements & screen mockups with functional descriptions Sign off process on requirements and UAT. 
+Achievements 
+Trained & implemented ISO 27001 (Information Technology Security standards) 
+Employee of the month for the month of April 2015 Personal Details 
+Fathers Name 
+: Murugan 
+Date of Birth : 01 Sep 1987 
+Sex : 
+Male 
+Marital Status : 
+Single 
+Nationality : 
+Indian 
+Languages Known : English & Tamil 
+Passport : 
+Yes 

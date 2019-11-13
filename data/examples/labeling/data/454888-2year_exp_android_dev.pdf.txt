@@ -1,0 +1,34 @@
+Sudhansu Sekhar Mahapatra 
+Contact: +91-7226936989, +91-8895296299(Available in between 1-2 pm and after 7pm) E-Mail: sudhansusmahapatra86@gmail.com Android Developer 
+A pioneering and security-oriented developer offering 2 years of experience in designing, implementing, integrating, testing and supporting, impactful applications developed in diverse, collaborative environments for mobile and tablet devices on the Android platform. 
+PROFILE SUMMARY 
+Mobile Application Developer with 2 years of experience in Software Development, Application Maintenance & Support and Project Execution. 
+Adept in analysing information system needs, evaluating end-user requirements, custom designing solutions, troubleshooting for complex information systems management. 
+Well versed with Android Application Development (Enterprise Mobility Solutions). 
+Experienced in working with clients, business managers and technical teams for executing concurrent projects. 
+Proficiency in technical documentation, design, development and troubleshooting for Mobile Application 
+Development (using Java, Android Applications, etc.). 
+GLIMPSE OVER EXPERIENCE Android Developer, Concept Infoway Pvt. Ltd. Present 
+SplitCab: This is a minicab sharing app where one can book a private minicab and be picked up in minutes by entering the pickup location and destination. One can also request a seat in a shared splitcab via the app for cheaper travelling. Once booked, the PCO / TFL licensed driver s detail, rating and his affiliated PCO / TFL licensed co pa y s detail can viewed. One of the most important thing in this app that the driver can be tracked live to the pickup point. The live motion of all Splitcab cars can also be seen through this app. 
+[Link: https://play.google.com/store/apps/details?id=com.splitcab.capp] 
+GoCar: GoCar is Irela d s first Car Shari g Co pa y, providing member access to cars and vans all across Ireland. With rental as short as 30 minutes, GoCar is the ideal alternative to own a car, or equally ideal for the SME to save on leasing vehicles. 
+[Link: https://play.google.com/store/apps/details?id=com.GoCarDev] 
+Gr8niteout: This application is a simple & secure way to send or receive drinks. In this application user can buy drinks for their friends or relatives from different pubs. Only facebook users can use this application but one logged in user can buy drink for everyone who is not using this app. With Gr8niteout your friends from around the world can buy you a drink from your favourite bar that you can enjoy immediately. In this app user can easily locate Bars/pubs across UK and Ireland. User can also find a live band , a quiz and live football. [Link: https://play.google.com/store/apps/details?id=com.Gr8niteout] 
+Country Counter: Country Counter helps travellers to count the countries they have visited and share with friends through social media. Share as much or as little of your travel as you like via direct feeds to Facebook and Twitter. At a glance one can see how many countries he/she have visited and how many he/she have got to go. As o e s travel, the world map will turn blue with the countries visited , which can be shared via direct feed to facebook and twitter. 
+[Link: https://play.google.com/store/apps/details?id=com.websiteproject.countrycounter] 
+Energy Rating Calculator: This is an Australian govt. application in which Australian people can use the energy consumption calculator to determine the power being used by various home appliances before its purchase. This application is only in use for Australian region so link ca t be given. 
+Peng Cam App: It is a camera app in which user can capture his/her image and frame it , basically customise it in many ways and share it via facebook, whatsapp, etc. The link is not available as the work is in progress. 
+IT SKILLS 
+Domain (Mobile Application): 
+Android Application Development (Enterprise Mobility) 
+Platform: Android, Phonegap, Basic knowledge of Unity 2D game development 
+Operating Systems: 
+Mac, Linux, Windows. Development Environments: 
+Eclipse IDE, Android Studio 
+Programming Languages: 
+Core Java, C++ 
+Others: JSON, XML, SOAP, Rest, SQLite , Volley, HTML, CSS, Third party library integration , Social network SDK integration (facebook , google+, twitter , linkedin , etc) ,Familiar with all layout designs , Google APIs integration EDUCATION 
+B.Tech in Computer Science and Engineering 2015 - Indira Gandhi Institute of Technology, Sarang, Odisha Council of Higher Secondary Examination 2010 - Stewart Science College, Cuttack , Odisha Board of Secondary Examination, 2008 - Saraswati Vidya Mandir, F.M Nagar, BBSR ,Odisha PERSONAL DETAILS 
+Date of Birth: 2nd April 1993 Address: 
+Santa sahi, Cuttack , Odisha Languages Known: 
+English, Hindi and Odia 

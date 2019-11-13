@@ -1,0 +1,73 @@
+Barath Kandra Senior Mobile App Developer ,iOS barathkandra@gmail.com CompIndia InfoTech Pvt LTD, Chennai 
++91- 9032715477 March 2014 to present Professional Summary: 
+Having 3+ years of professional experience as iOS Apps developer using Xcode, Objective C,Swift in all phases of analysis, design, implementing and testing. 
+Have experienced in designing/developing applications with Interface Builder/ 
+Story boards and also programmatically. 
+Experienced on working with different parsers like JSON . 
+Worked on all Controls, Controllers, Data Views, Bars and all Gestures. 
+Experienced on working with MVC pattern. 
+Experienced on working with Facebook SDK , Mix panel and Google SDK . 
+Experienced on Working With Fabric Crashlytics. 
+Experienced on Working With Push notifications. 
+Experienced on working with Universal Links and Deep link Concepts. 
+Objective: 
+To secure a position in the Organisation where I can contribute my skills and expertise for the development of the Company and get challenges to enhance my- self. 
+Technical Skills: 
+Programming languages : C, Objective-C, Swift 
+Environments worked : Windows, MAC OSX 
+Databases used : SQLite 
+Educational Qualification: Aquired B.tech (ECE) in 2012 in AITS with an aggregate of 72.4%. 
+Aquired Intermediate in 2008 in Chaithanya 
+Jr College with 
+an aggregate of 90.0%. 
+Aquired Secondary schooling in 2006 in SVVN with an aggregate of 75.0%. 
+Technical aspects: 
+Optimizing the code for ensuring maximum performance. 
+Having knowledge on developing of Apps from scratch. 
+Have commitment, result oriented and undertake challenging tasks. Ability to work in groups as well as independently. 
+Projects worked: 
+CompIndia Infotech (March 2014 to Present) 
+Worked as Software Engineer in the client project for the apps Skyhop Dri- ver, 
+Skyhop Crew, Tap Right and Fixed Route. 
+Projects in detail: 
+SkyHop Driver 
+Environment: Xcode 6.0 Technologies: Objective -C iTunes Link 
+It is increases driver performance and improves business management. Promotes account- ability and increases efficiency. We are creating a job for driver making it flexible for crew. 
+Open up lines of communication with dispatch and crew. 
+Manage your availability. 
+Coordinate pickups with entire team. 
+Easily manages delayed flights. 
+Role: Developed Total app from the scratch 
+App Link: https://itunes.apple.com/in/app/skyhop-driver/id1040057707?mt=8 SkyHop Crew 
+Environment: Xcode 6.0 Technologies: Objective -C iTunes Link 
+It is used to see exactly who and where your driver is during your layover. 
+Realtime loca- tion of driver and estimated time of arrival. 
+Login with your Airline provided credentials. 2way communications via text or call with driver and dispatch. 
+Lookup future pickup times and loca- tions. 
+Rate your driver and your trip. 
+Relax and enjoy a hassle free pickup. 
+Role: Developed Total app from the scratch 
+App Link: https://itunes.apple.com/us/app/skyhop-crew/id1035566527?mt=8 
+King-innovation 
+Environment: Xcode 9.0 
+Technologies: Swift iTunes Link 
+Get the latest product information and releases from the King Innovation app. The King app will be a way for you to quickly access new product release information, industry news, train- ing tips videos, promotions and other materials we think would be useful to you. The app is orga- nized by product category within each category you will find all related materials at your finger- tips! 
+Use the King app to stay up to date and make connections. 
+Role: Developed Total app from the scratch. 
+App Link: https://itunes.apple.com/us/app/king-innovation/id1141483598?mt=8 Fixed Route 
+Environment: Xcode 5.0 Technologies: Objective -C 
+iTunes Link 
+It is a transportation based app. This application is mainly designed and deployed for the users in US. The application will list out the available cities to the user (from 
+XML). After picking up one, and proceed to the next view, it will display the appropriate routes for that particular city. Then, the user can be able to view the available buses for each route by tapping on it. User can see the allotted stops for each bus by selecting it and also view the routes and directions in the map view. 
+Role: Developed Total app from the scratch. 
+App Link: https://itunes.apple.com/in/app/mv-transit-wheres-my-bus/id905266977?mt=8 
+Personal details: 
+Name : 
+Barath Kandra 
+Father s name : K. RajagopalNaidu Date of birth : 10 Jun 1991 
+Languages known : English, Telugu, Tamil 
+Blood group : A+ve Declaration 
+I hereby declare that the above furnished details are true up to my knowledge. 
+Place: 
+Date: 
+Barath Kandra 

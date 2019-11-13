@@ -1,0 +1,50 @@
+VINITH K 
+110/1A,Bastin Nagar 5th street, Bethaniyapuram, Madurai-625016. 
+Email: vinithk6@gmail.com 
+Mobile: +91-8870616541 
+Profile 
+Seeking a position to utilize my skills and abilities in the industry that offers professional growth while being resourceful, innovative and flexible. 
+Education 
+Year of Passing 
+Institution Qualification Percentage/CGPA 
+2017 SRM University 
+M.Tech (Embedded 
+Systems Technologies) 
+7.05 2015 
+Sri Ramakrishna Institute of Technology 
+B.E Electrical & Electronics 
+Engineering 6.92 2011 
+Vidyaa Vikas Boys Hr. Sec. 
+School 12th Standard 87 2009 Ananth Memorial Matric Hr. 
+Sec. School 
+10th Standard 79.8 
+Areas of interest Data Structures 
+OOPS 
+Real Time Systems 
+Embedded Architecture 
+FPGA 
+Electrical Machines 
+Computer Skills 
+Operating systems Microsoft Windows, Ubuntu 
+Programming Skills 
+o Intermediate - C, C++ 
+o Beginner - Java, Verilog, PHP, Python 
+Softwares 
+o Simulation - MATLAB, Energia, Keil, Vivado Design Suite, Xilinx PlanAhead ISE, Autocad o Office Suites - Microsoft Office and Libre Office. 
+o Virtualization - Oracle VM VirtualBox. 
+o Networking Basic knowledge in networking field. 
+o Testing Selenium ( Beginner ) Project 
+Project completed on an IVRS based Remote Control of Agricultural Pump set including turn on, turnoff, timer features and error reporting features such as low voltage and absence of 3- 
+supply.(Project for Texas Instruments India Analog 
+Design Contest 2015attended upto semifinal at IIT Madras) 
+o Video link : https://www.youtube.com/watch?v=9ES4gOK0r80 Mini project completed on Home Automation using IR Remote Control which is to turn ON and OFF home applications such as light, fans, etc., by any kind of remote. 
+Project completed on Dynamic Reconfiguration Using Cryptographic Primitives which is to reconfigure the device at run time and which is a useful application in reducing the number of cores and it helps in bulk production. And presented the paper in conference and published in International Journal of Intelligent Engineering and Systems (IJIES). 
+Positions held and other activities Attended Enhanced Individual Effectiveness program as an Embedded Curriculum for a period of 6 months and certified by NIIT Limited. 
+Helded the position of Secretary of Redressal Club EEE department at Sri 
+Ramakrishna Institute of Technology. 
+Actively involved in maintaining our class website www.sriteee.tk Went for a NSS Camp for two months in year of 2010 and 2013 at Coimbatore and Tiruchengode. 
+Personal Profile 
+Name 
+Vinith K 
+Date of Birth 06-07-1994 LinkedIn 
+www.linkedin.com/in/winfredkvinith (VINITH K) 

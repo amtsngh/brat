@@ -1,0 +1,75 @@
+KARTHIK SIRASANAGANDLA 
+Chennai, India sirkarthik@gmail.com 
+SUMMARY 
+Karthik is a generalizing specialist who continuously hones his craftsmanship in software development and management. He has donned many hats/roles in development, testing, business analysis, and project management in both the greenfield/brownfield development and support/maintenance projects. 
+Continuous observation, experimentation, practice and (un)learning is his daily karma. To his credit, he has helped top and middle tier management to appreciate and adopt Agile mindset, by way of workshops and games. He has also coached several development teams to embracing Agile practices by relieving fears and building confidence. 
+He has solid experience in clean coding, evolutionary design and architecture and leading teams in web development on technology platforms like Java, Ruby, JavaScript and sparingly Dot Net. 
+He also manages to give back to the community by way of open-source contribution (like OpenMRS, Twilio-Ruby), answering at StackOverflow and the like. In the past he has facilitated code-retreats and dev-camps apart from involving in other volunteer activities including being core team member for Agile India 2014 and committee member for Agile Kerala 2013. 
+He is an influential speaker in numerous Agile and technology conferences, meet-ups and geek-weekends in Asia, Australia and Europe, including Ruby Conf, Agile Tour, Agile By Example, Next Generation Testing, Dev Day, Agile In Business and LAST Conference. 
+SCHOLASTIC DETAILS 
+Master of Computer Applications (MCA) Pondicherry Central University, Pondicherry, India Bachelor of Science (B.Sc.) in Mathematics D.G. Vaishnav College, Madras University, Tamil Nadu, India AVOCATION AND INTERESTS 
+Blogs | Website: http://blog.codonomics.com/ Open Source: OpenMRS, Twilio-Ruby, https://github.com/karthiks 
+Forums: http://stackexchange.com/users/233246/kartz 
+AWARDS AND PUBLICATIONS Android apps published so far : Telugu Hanuman Chalisa 
+My blog post titled When to freeze, clone or dup in Ruby? is selected and published in RubyIndia, Issue 4 (June 2014) 
+Presented a memento in appreciation of my talk in PMI-KSS, Chennai Chapter, 2014 Received Team Achievement Award for outstanding work in ACES CES Integration by meeting stringent deadlines in spite of frequently changing requirements. 
+Secured 3rd place in Oratorical Competition conducted by Toastmasters Club in Dec 2005 at Honeywell Technology Solutions, Bangalore. 
+COMMUNITY ACTIVITIES AND CONTRIBUTIONS 
+Talk on 
+Fundamentals of Functional Programming using Haskell at X-Conf, Bangalore, 2010 
+Talk on Deciphering the Ruby Object Model at Ruby Conf India 2011 
+Lightening talk on 
+Gamifying Continuous Integration (CI) and 
+Planning is important but plans are not at Agile Tour 2011, Chennai Organizing Committee Member for Dev Camp Chennai 2011, India Facilitated Code Retreat in Dev Camp Chennai 2011, India Facilitated Global Day Code Retreat 2011 at ThoughtWorks, Chennai, India Talk on Stand-up practices and techniques in Agile Tour 2012, Bengalore Talk on Stand-up practices and techniques in Agile By Example 2012, Warsaw, Poland Talk on 
+Agile Test Automation Anti-patterns and Rescue Strategies at Next Generation Testing Conference 2013, Bangalore Talk on Agile Test Automation Anti-patterns and Rescue Strategies at Agile in Business 2013, Chennai (twice 1st on 21st July and 2nd on 21st Oct) 
+Talk on 
+Git for fun and productivity at Barcamp 2013, Bangalore Talk on 
+When Agile becomes fragile.. as part of invited talk series to the large group of management folks at a large corporate in Bangalore Talk on 
+When Agile becomes fragile.. at Agile Kerala 2013 Talk on Agile Smells at Dev Day 2013, Colombo, Sri Lanka Talk on 
+When Agile becomes fragile.. at PMI-KSS, Chennai Chapter 2014 Committee Member for Agile Kerala 2013 
+Core Team Member for Agile India 2014 
+Talk/Workshop on 
+Clean Code Basics Let s get it right at XPConference, Bangalore 2015 Talk on 
+When Agile becomes fragile at LAST Conference, Melbourne Australia 2015 PROFESSIONAL EXPERIENCE (~12 YEARS) Codonomics 
+Founder, Consulting Coach Agile and Software Craftsmanship 
+November 2013 Present 
+Sedin Technologies Head of Engineering 
+September 2014 March 2015 
+Tarka Labs Product Manager 
+September 2014 March 2015 
+Industrial Logic (Pioneers in Agile Consulting/Coaching) Agile Coach and Generalizing Specialist October 2012 October 2013 ThoughtWorks (Pioneers in Agile Software Development) Senior Consultant and Software Craftsman 
+September 2009 September 2012 FICO (formerly FairIsaac Corporation) (Leader in providing analytics and decision-making services) Software Engineer and Module Lead 
+July 2008 August 2009 
+Honeywell Technology Solutions Lab (A fortune 50 company) Engineer and Team Lead December 2005 June 2008 
+Entrepreneur / Freelancing Product Development and Sales 
+April 2002 June 2003 
+Experience Summary 
+Coaching | Training 
+Assessments and Coaching for Agile Adoption and Transformation programs Help management embrace Agile values and practices through talks, workshops and games 
+Coaching teams on Agile processes and practices Workshops on Agile Estimation and Planning Hands-on and interactive training on Git, Continuous Integration, Code Smells, TDD, Refactoring and Pair-programming 
+Authoring courseware and support student s queries on Industrial Logic s e-learning platform Assist in courseware preparation for Continuous Deployment, BDD and Selenium Test Automation for Industrial Logic s e-Learning albums Conduct and facilitate code retreats, code-pairing, mob-coding, coding dojos , etc. 
+Facilitate Retrospectives, Iteration Planning Meetings, Huddles, Feedback sessions etc. 
+Designed and delivered tailor-made boot-camps on Software Craftsmanship that continues to be celebrated to date. 
+Conducted custom boot-camps on 
+The Agile Way to promote and influence managements buy-in on the Agile tenets and thus embrace Agility whole heartedly. 
+Have given guest lectures/webinars on varied topics at a few large corporations. [Notably, the audience only grew in size during the course of my sessions] 
+Product Management Experience managing multiple teams of size 4-6 End to end experience from concept to delivery and support Building product prototypes (hand-drawing on paper/whiteboard, PPT, HTML/CSS, Balsamiq) Doing market study for product and its competitors Conduct successful workshops on Product Discovery for clients Solid stake-holders management 
+Business/Client negotiations regarding requirements, its priorities, gap analysis and implementation Experience in simultaneous handling the delivery of multiple projects Business Envisioning, Inception and Product Discovery by working with the higher management at international client locations Requirements gathering, analysis and User Stories backlog creation/management Liaison with customers on status reports, scope negotiations, expectation setting etc. Project estimation and negotiation of scope and time Product backlog grooming from time to time Experience working in domains on travel, rail ticketing, artworks, costing, after-sales, airline engineering, analytics and reporting, HR management, etc. 
+Technology 
+Strong expertise in architecture, evolutionary design and clean coding in Java and Ruby technology stacks. Have briefly worked on JavaScript and .Net platforms as well. 
+Experience in Domain Driven Development (DDD) and Service Oriented Architecture (SOA) 
+Concept to Development to Deployment experience in Linux platform Solid experience in doing POCs (proof of concepts) to aid design and technology choices Seasoned in writing Test Automation frameworks and build Test Suites with Selenium/WebDriver Experience building Continuous Integration pipelines with Jenkins/Hudson Experience in Ops-side of the world using Puppet, Splunk, and Nagios for infrastructure automation and monitoring 
+Have deployment experience in Cloud Services like Amazon and Heroku Have worked on varied version control systems that includes VSS, CVS, Accurev, SVN, and Git Have worked on the Front-end tool sets including HTML, CSS, JS, jQuery, Backbone, React etc. 
+Have worked on RDBMS like Postgres, MySQL, Oracle, DB2, etc. 
+Have worked on NoSQL DBs like Mongo, and Redis Experience in application performance testing with JMeter, HTTPerf, etc Mentoring developers to level-up their skills to become good individual contributors and tuning their attitude to become good team players 
+Briefly did coding kata in Haskell to get some appreciation for Functional Programming Currently dabbling on the Android platform for serious fun 
+Business Development Responsible for maintaining commercially productive relationship with existing clients Write up sales proposals 
+Negotiate sale deals to completion by coordinating with higher management. 
+Coordinate with Sales, Client Principle and Delivery teams in project pursuits 
+Have experience working with the Sales, Client Principle, Delivery and Legal teams in the preparation and delivery of SOW (Statement of Work) for projects Speak at conferences, meet-ups, etc. 
+Practices Experience in Waterfall, Rational Unified Process, Lean Six-Sigma, Agile (XP, Scrum, Kanban, SAFe) and Lean Startup methodologies of software development Experience of being in the different phases of SDLC Product Discovery, Development and Deployment, Maintenance and Support 
+CERTIFICATIONS 
+Six Sigma Green Belt Certified Honeywell Proprietary 
+Spoken Japanese Basic Conversation Course, from ABK-AOTS DOSOKAI 
+Sun Certified Java Programmer 1.4 (SCJP) 
+Sun Certified Web Component Developer 1.5 (SCWCD) M101J: MongoDB for Java Developers 

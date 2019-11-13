@@ -1,0 +1,38 @@
+"
+An enthusiastic and high energy driven professional targeting entry level assignments in Software Engineering/Java Development with an organization of high repute offering challenging work profile in IT industry, preferably in Bangalore" 
+WHY ME: 
+Worked on industrial and academic projects titled Design and Implementation of an E-ecommerce website and Design and Evaluation of Neural Network Configuration for Food Export & Import respectively. 
+Proficiency in Java 7, Servlets 4, JSP 2.2, Spring 4, Hibernate 5, Java Mail, SQL and so on. 
+Possess strong knowledge of OOPS concepts and Spring MVC architecture. 
+Skills in analyzing and interpreting unique problems, with a combination of internship experience and logical & analytical thinking to find the right solutions. 
+Strong communication, interpersonal & technical skills with the capability to grasp new concepts quickly and utilize the same in a productive manner. 
+PROFESSIONAL PROJECTS: 
+Project Name: - Design and Implementation of an E-ecommerce website. 
+Organization Name: - Thar Handicrafts Gallery Pvt. Ltd, Bangalore, IN. 
+Project Description: - 
+To Implementation of an one-page e-ecommerce website where customer can login and also post reviews and post their customized requirement which will be notified to admin via mail. Admin can update, delete and edit data that has been entered. Website must be responsive. 
+Technology Used: - Spring-MVC and Spring Security Architecture, MyBatis, JSP, Java Mail, Log4j, Apache Tomcat, JavaScript, Bootstrap. 
+Project Name: - Design and Evaluation of Neural Network Configuration for Food Export & Import (M.C.A Major 6th semester project as a project intern). 
+Organization Name: - Council of Scientific & Industrial Research - Fourth 
+Paradigm Institute (CSIR-4PI), NAL Belur Campus, Bangalore, IN. 
+Project Description: - Artificial Neural Network (ANNs) is non-linear mapping Structures that are powerful tools for modeling, especially when the underlying data relationship is unknown. This work presents the design and evaluation of a neural network configuration for simulation and prediction of export and import of food for India. 
+Technology Used: - Java, MySQL and JFreeChart. 
+Current Position 
+Software Engineer at Ekagga Technology & Services Pvt. 
+Ltd, Bangalore. 
+Technical skills 
+Programming Languages: Java 7, SQL, C++ and C Frameworks: Spring 4 ORM Framework: Hibernate 5 and MyBatis 3 Java EE Web Component APIs Servlets 4 and JSP 2.2 Java EE Resource APIs JDBC 4.2. 
+Server: Apache Tomcat 9, MySQL 5.6, Oracle 
+11g. 
+Web Technologies: Bootstrap, HTML, CSS, JavaScript IDE 
+Eclipse Neon 4.6, Spring Tool Suite 3.8 Education 
+Master of Computer Application (2015) from Tezpur University Bachelor of Computer Application (2012) from Gauhati University Interests 
+Travelling Swimming Cooking Personal Details 
+Born on 17th August 1990 
+1st Cross, Subhodaya Layout, Marathahalli, Bengaluru, Karnataka, India. Pin Code: - 560037. 
+Contact 
+Phone: +91-9435221271 
+Email: Pauldebraj7@gmail.com 
+LinkedIn: 
+linkedin.com/in/debraj-paul- 442175b0 
+Debraj Paul CV 

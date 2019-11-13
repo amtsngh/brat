@@ -1,0 +1,47 @@
+ Forename / SURNAME 
+Nithya.M 
+PROFILE SUMMARY: 
+Has been involved in creating Test scenarios and Test cases. Execution of Test cases Done Functional testing, Regression testing, Integration testing, Database testing, User Interface testing and System Testing. 
+Preparing Bug Reports 
+Well acquainted with SDLC (Software Development Life Cycle) and STLC(Software Testing Life Cycle) Work knowledge of Bug Management Tool Mantis. 
+SKILL SET: 
+Operating System Windows Xp,MAC,Windows 7 Database MySQL Frameworks Wordpress , Joomla,Drupal,Magento 
+Defect Management Tool Mantis 
+Mobile OS 
+Andriod , IOS PROFESSIONAL EXPERIENCE: 
+Organization Position Duration 
+From To 
+Ameex Technologies Software Engineer 
+Dec 2014 
+Till Date 
+Project Name: PINT 
+Description: Pint Billing System Which manages the doctor subscription details across multi location 
+Team Size : 5 
+Role : Associate Software Engineer 
+Duration : 3 months (Feb 2016 to April 2016) Test Approaches : Functional testing, Regression testing, Integration testing, User Interface testing, Responsive testing and System Testing 
+Issue Tracker : Mantis Bug Tracker 
+Project Responsibilities: 
+Understanding Project Requirements 
+Involved in Testcase 
+Preparation 
+Involved in Testcase Execution and Functionality Testing 
+Doing Bug Reporting 
+Project Name: GA Advisor (AutomationTesting) Team Size : 3 
+Role : Software Engineer 
+Duration : 2 months (May 2016 to June 2016) Test Approaches : Functional testing, Regression testing, Integration testing, User Interface testing and System Testing 
+Issue Tracker : Mantis Bug Tracker 
+Project Responsibilities: 
+Involved in Testcase 
+Preparation 
+Involved in Testcase Execution and Functionality Testing 
+Doing Bug Reporting 
+Project Name: First Bank Financial Center 
+Team Size: 6 
+Role: Software Engineer 
+Duration: 5 months (July 2016 to Dec 2016) Test Approaches : Functional testing, Regression testing, Integration testing, User Interface testing and System Testing 
+Issue Tracker : Bugherd 
+Project Responsibilities: 
+Involved in Testcase 
+Preparation 
+Involved in Testcase Execution and Functionality Testing 
+Doing Bug Reporting ObjectFrontier Inc. 1000, Windward Concourse Suite 120, Alpharetta, GA 30005. www.objectfrontier.com 

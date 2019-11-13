@@ -1,0 +1,59 @@
+Dinesh M Chennai, Tamil Nadu 
+Associate Software Engineer Mail:dinesh24gopi@gmail.com 
+Phone:9659147973 
+Career Objective To contribute my professional skills and to implement my innovative ideas for the Growth of the organization and to learn new tools and technologies. 
+Professional Summary 
+Experience of 1 year in iOS Developer. 
+Experience in Xcode. 
+Experience in Developing Application for iPhone, iPad. 
+Work History 
+Associate Software Engineer CognitiveMobile Technology Pvt Ltd. 
+Jul 2016 - Present 
+Project 1: High Messaging Application 
+It s a communication related application built using SIP apt for a company to provide task on daily basis for their employees. It has features like assigning tasks, bugs etc. It also has provision to share multimedia, location etc. Additional features such as application for leave are also available. 
+Role: iOS Developer 
+Technology: Tools: Xcode 10.2.3 
+Operating System: OS X version 10.11.6 
+Responsibilities: 
+Implemented UI design using Storyboard and Xib files. 
+Implemented JSON parsing using Web Service. 
+Resolved Bug Fixes. 
+ACADEMIC DETAILS 
+Aug 2012 - Mar 2016 B.E in Electronic and Communication. 
+Jayalakshmi Institute of Technology. 
+Result: 7.3 (CGPA). 
+Jun 2011 - Apr 2012 
+Senior Secondary. 
+Government boys Higher Secondary School. 
+Result: 63%. 
+Jun 2009 - Apr 2010 
+Secondary. 
+Government boys Higher Secondary School. 
+Result: 80% PROFESSIONAL SKILL 
+Objective C. 
+Swift (Learning). 
+ACADAMIC PROJECT 
+Title: PIPELINE INSPECTION ROBOT USING GAS SENSOR 
+Description: 
+This project is used to detect the micro size gas leakage in gas line. The microcontroller was used to control the robot with the gas sensor. It was used mostly in chemical industries like petrol, diesel, oil etc. 
+Duration: 3months. 
+PERSONAL TRAITS 
+Quick learner. 
+Smart Worker. 
+Leadership Quality. 
+Flexible and Innovative. 
+PERSONAL DETAILS 
+Father Name : Manivasagam. K 
+Mother Name : Aruljothi. M 
+Date of Birth : 24-11-1994 
+Sex : Male 
+Marital Status : Single 
+Languages Known : English, Tamil, Telugu(speak) 
+Nationality : 
+Indian 
+Hobbies 
+: listening to music, playing cricket 
+DECLARATION 
+I hear by solemnly declare that all the information furnished above is true to the best of my knowledge and belief. 
+Place: yours truly, 
+Date: (Dinesh.M) 

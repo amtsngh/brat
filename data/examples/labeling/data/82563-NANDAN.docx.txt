@@ -1,0 +1,67 @@
+ RESUME 
+Nandan 
+Phone: +91 9538617469 
+E-Mail: nandanraj359@gmail.com 
+CAREER OBJECTIVE: 
+As a professional I am innovative and looking ahead to work in a challenging environment to gain professional edge in Linux System Administration to add value to my career through self-enhancement. 
+PROFESSIONAL EXPERIENCE: 
+Having 3+ years of experience in LINUX and AIX environment as system administrator in 24X7 supports. 
+Currently working in TataConsultancyServices, Bangalore. 
+System Admin in LINUX and AIX from December 2012 till date. 
+ACADEMIC QUALIFICATION: 
+Completed Graduation in B.TECH (computers) from Kakatiya University with first class. 
+DESIGNATION: 
+System Administrator 
+SUMMARY OF PROFESSIONAL EXPERIENCE: 
+Using LVM pvcreate vgcreate, and lvcreate, resizing using vgextend, lvextend. 
+Configuring the luns assigned by the SAN team. 
+Migrating lvs from one PV to another PV 
+The criteria of disk partitioning, creating primary, extended and logical partitions and updating those partitions in kernel. 
+Creating SWAP partitions extend the partitions, creating swap files. 
+Encrypting the partitions with Linux unified key setup (LUKS). 
+Understanding file system its types and mounting the file system make it permanent by making an entry in FSTAB 
+Implementing security issues by using ACL, Sticky bit and SUDO. 
+Knowledge in network configuration IP aliasing and NIC bonding. 
+Experience in creating new interfaces. 
+Configuring YUM repository and installing, upgrading packages at O.S level. 
+Hands on experience on daily activities like User Management, and Process management. 
+Configurations of remote connection tools like SSH, SCP and RSYNC. 
+Good knowledge in CRON JOBS, allowing and deny the users in that. 
+Installing the packages through rpm. 
+Monitoring system components such as CPU, DISK, MEMORY, NETWORK utilization. 
+Configuring and enabling services like FTP allow and deny the user access. 
+Sharing resources for particular system, NFS Server/Client. 
+Auto mounting of mount point in client systems in NFS and its methods like direct mounting, indirect mounting. 
+Strong Experience to assign the permissions and advanced permissions and ACL permissions. 
+Good knowledge in booting process. 
+Recovery root password and installing GRUB. 
+Protecting the GRUB boot loader by setting the password. 
+Good knowledge in kernel PATCHING. 
+Configuring SAMBA server and maintained over 50+ windows clients. 
+Good knowledge in configuring DNS, MAIL servers. 
+Fairly good with WEB SERVER, port based web hosting and name based web hosting. 
+Automatically assign ip address to a system from a defined range of numbers by using DHCP. 
+To share internet and blocking unwanted sites by using SQUID PROXY server. 
+Configuring YUM client and check whether YUM server is responding to it or not. Changing FILE and DIRECTORY permissions according to the client requirement. 
+Back up using TAR, ZIP and RSYNC. 
+VERITAS STORAGE FOUNDATION: 
+Implementation & managing RAID levels like 0,1,5, 0+1 and 1+0 using VxVM. 
+Creating Sub disks, Plexes, VERITAS Volumes and disk groups. 
+Implementing raid levels by using vxmake & vxassist. 
+Creating ,resizing, restarting, and removing the volumes. 
+Changing layout online by using vxassist. 
+Increasing the file system size by using vxassist & vxresize. 
+Creating veritas file systems. 
+AIX EXPERIENCE: 
+Good experience with LVM, vgcreate, lvcreate, vgextend, lvextend. 
+Rename Volume Group. 
+Mount and Unmount issues in File Systems. 
+Creating File Systems and increasing, decreasing file systems. 
+Done with User Management. 
+Creating Paging Space, increasing, decreasing paging space. 
+Moving data from old disk to new disk through SAN Migration. 
+Configuring NFS server to share the files and directories with clients. 
+Usually taking backups by using MKSYSB, Replacing the disk when it get corrupted by using FAULTY DISK REPLACEMENT. 
+Upgrading the technology level by using SMITTY. 
+Good knowledge in installing the operating system through NIM. 
+Applying T-factor when there is a lack of pps Changing the file permissions and working with files in VI-editor. 

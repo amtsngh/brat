@@ -1,0 +1,46 @@
+ PROJECT 
+Project name : Restaurant Billing System. 
+Language of implementation : JAVA. 
+Operating system : Windows XP/07/08. 
+Description : 
+We propose to build a software project that can efficiently handle and manage various activities of a restaurant. 
+Restaurant Billing System helps the manager to manage the restaurant more effectively and efficiently by computerizing meal ordering, billing and calculating other things. The benefit of this project is to less work for manager and also the chances of mistake in billing system is negligible. 
+PROFESSIONAL QUALIFICATION 
+Examination 
+University 
+Year of Passing 
+Percentage & Class 
+MS-CIT 
+M.S.B.T.E 
+JULY-2008 
+72.00% INTERMEDIATE DRAWING 
+Mumbai 2008 
+A 
+SKILLS & TECHNOLOGY SUMMERY 
+Programming Languages : JAVA, C, C++. 
+Databases : Oracle 10g, MYSQL. 
+Web Technologies : HTML, XML, JSP, SERVELETS, JDBC, STRUTS, JAVA SCRIPT. 
+Web & Aplication Servers : Apache Tomcat, Web logic. 
+Operating Systems : 
+Windows XP/7/8. 
+EXTRA-CARICULAR ACTIVITY 
+Participated in International level paper presentation held in College. 
+Participated in National level AUTO-CAD competition held in Sinhagad Institute,lonavala. 
+Attended the PLC-SCADA workshop held in college. 
+PERSONAL DETAILS 
+Name: 
+Sushant Nandkumar Patil 
+Father s Name: Nandkumar Govind Patil 
+Date Of Birth: 03/12/1992 
+Gender: 
+Male 
+Language: 
+English,Marathi, Hindi, 
+Marital Status: 
+Unmarried 
+Permanent Address: 
+At-Parhur, Post-Kamarle 
+Tal-Alibag, Dist-Raigad 
+I hereby declare that information mentioned above is true to the best of my knowledge. 
+PLACE : 
+SUSHANT N. PATIL DATE : 

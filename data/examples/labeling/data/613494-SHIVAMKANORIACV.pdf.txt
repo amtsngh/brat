@@ -1,0 +1,60 @@
+ SHIVAM KANORIA 
+Professional Summary 
+I am passionate about new technologies and challenging jobs, currently expertizing in Data Analytics. 
+Seeking a progressive career in machine learning with a growing organization where I could use and enhance my knowledge and talent for the development of both the organization and myself. Ability to understand customer requirements and translate them into actionable project plans. Dedicated and hard-working with a passion for insights in machine learning. Expertise in analysis and testing of business requirements to drive the deployment of applications, business processes, and system solutions. 
+Skills 
+Machine Learning Algorithms, Deep Learning, Natural Language Processing, Social Network 
+Analysis 
+PLM, SCCM, DMS, SQL, VBScript, C/C++, Python, R, C#, Fortran Work History 
+Senior Research Engineer Knowledge Based Engineering, 06/2016 to Present 
+11 months 
+Bharat Heavy Electricals Limited (Hyderabad R&D Headquarters) 
+Currently involved in the technology implementation of KBE-PLM in various ongoing R&D projects. KBE-PLM is a recent initiative taken up by the organization to steer up various manufacturing, assembling processes and optimize the entire Product Lifecycle Management of the products BHEL manufactures in order to maintain its leadership in the Power sector in today s competitive scenario. 
+Technology up-gradation of Steam Turbine programs from FORTRAN to C#. 
+Developing a web application for centralizing the critical design parameters and automating the results from design programs for further downstream applications. 
+Engineer Advanced Research Projects, 06/2014 to 06/2016 2 years Bharat Heavy Electricals Limited 
+Delhi (Corporate Headquarters) 
+Worked in the software implementation of Product Life-cycle Management, a core group under the division of Advanced Research Projects that spearheads the Engineering and Analytical efforts in High Technology areas for Projects of Critical Importance. 
+Implemented a heuristic system to capture tacit-knowledge and contributed in the development of organization-wide first ever Knowledge management system. 
+Transformed project data requirements into project data models and understand business needs. 
+Identified and documented project constraints, assumptions, business impacts, risks and scope exclusions. 
+Advised data standardization and usage to ensure data integrity. 
+Engineer Project Engineering Management, 07/2011 to 05/2014 2 years 10 months Bharat Heavy Electricals Limited 
+Noida (Project Engineering Management) Played a key role in transforming the business model of Engineering Management. 
+Lead Administrator of SCCM for managing server and clients, Packaging, Software distribution and patch management, WSUS patching, SQL Reporting, Application Virtualization (AppV), Job Profile 
+Working on SCCM admin console. 
+Led a vibrant team of 12, spearheading server Administration, Sites and Roles setup software Distribution-Collection/ Package/ Advertisements creation. 
+SQL queries creation for Reporting and querying Troubleshooting SCCM 2007 Servers and Clients issues on daily basis. Application packaging via SMS installer. 
+Scheduled activities (i.e. daily checks, software metering, Customization of Reports etc.) Software deployment-Monthly patch management SCUP for deploying Adobe's custom updates Application virtualization SCCM Disaster Recovery. 
+Transformed project data requirements into efficient data models. 
+Developed database objects, including tables, views and materialized views using SQL. 
+House No. C-10, BHEL R&D Township Hyderabad-500093 shivam.manu05@gmail.com +91-9990864300 
+Certifications 
+Machine Learning 
+Stanford University 
+The Data Scientist's Toolbox 
+Johns Hopkins University 
+R Programming 
+Johns Hopkins University 
+Getting and Cleaning Data 
+Johns Hopkins University 
+Programming with Python University of Michigan 
+Python Data Structures University of Michigan 
+Accomplishments 
+Helped in achieving profits of more than $5 million through implementing a knowledge-based design model in the manufacturing of Turbogenerators, resulting in impeccable recognition by the highest accords in the organization. 
+Copyright for building a program for automating the design calculations of Flange (component in Steam Turbines) Copyright for building a web application (ASP.Net) for sixteen applications in Induction Machines. 
+Winter Internship 12/2010 to 01/2011 2 months Engineers India Limited New Delhi 
+Worked with the corporate role in techno-commercial and engineering coordination areas for implementation of Thermal Power Projects. 
+Summer Internship, 06/2010 to 01/2011 2 months 
+Oil and Natural Gas Corporation Limited New Delhi 
+Proposed the Networking design for ONGC, New Delhi Corporate Office. 
+Key areas explored - Data Types, Data Sources, Numbers of Users and Priority 
+Levels, Transmission Speed Requirements, Storage-Reliability-Security requirements. 
+Fund Raiser, 03/2011 to 04/2011 Neighborhood Society Managed to raise the participation level by more than 100% as compared to the previous year. Great learning experience due to the interaction with various corporate representatives of different organizations which helped the annual fest Kriti reach to the next level. Education 
+Certificate Program in Big Data Analytics & Optimization 
+International School of Engineering, Hyderabad 
+Certified by LTI of Carnegie Mellon University 
+Bachelor of Engineering: NSIT, University of Delhi 
+Instrumental & Control, 2011 
+High School: DLDAV Model Public School High School 
+Languages English (Full professional proficiency) Hindi (Native proficiency) 

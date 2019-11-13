@@ -1,0 +1,55 @@
+Client - Unilever. November 12 Present 
+Development Team Lead @ Accenture 
+Develop web application with Angular2 and Node JS Express4.0. 
+Hosting the web application in Microsoft Azure with CI using Github 
+Creating APIs with Node JS POC on Azure Search 
+Configuring SharePoint search in SharePoint 2016 Developing search based applications for SharePoint online 
+Re- Writing Angular 1.x application to Angular 2.0. 
+Documenting Technical Design document 
+Automating Metalogix tool for migration from SharePoint 2010 to SharePoint online 
+Create playbook for SharePoint 2010 to SharePoint online migration 
+Developing provider hosted add-in for SharePoint online 
+Developing provider hosted add-in for SharePoint 2013 Developing SharePoint hosted add-in with JSOM/CSOM 
+Developing web jobs for SharePoint online hosted in Azure 
+Managing incidents for SharePoint platform Enhancing applications as part of Problem management Maintaining application at high availability and handling production issues and MI calls. 
+Handling business users querying and migration plan Leading team of 13 members Client - JPMC. July 
+12 
+Oct 12 
+Senior Software Engineer @ Accenture 
+SharePoint 2010 development Farm solutions/Sandbox solutions InfoPath development for SharePoint list and libraries 
+Providing UAT support Client 
+Syngenta Dec 11 Apr 12 Technical Analyst @ Infosys 
+Developing custom workflows for SharePoint 2010 
+Developing custom features with Managed Metadata Services 
+Client 
+Confidential (BFS) Dec 07 
+Sep 11 
+Programmer Analyst @ Cognizant SharePoint 2007 development SharePoint 2007 designer development 
+UAT support Experience 
+Software Engineering Team Lead. 
+B.E. (Electronics Engineering 2007) with 9 years of experience in the IT industry. 
+Involved in software development projects with exposure to technologies like Microsoft SharePoint 2010, SharePoint 2013, SharePoint online, SharePoint 2016, Angular 2, Node JS, Microsoft Azure and O365. In charge of SharePoint Development, Web development in Angular2 and Node JS, Migration, Incident 
+Management and Problem Management. Certified SharePoint Developer and 
+MCSA in Microsoft Azure. 
+Summary 
+Mohan Chandra Bora 
+Functional/Technical Knowledge: 
+Cloud Platform 
+SharePoint online, Azure App services SharePoint 2013/2010 C#.Net, JavaScript, TypeScript 
+Angular 2 Node JS 
+PowerShell 3rd Party Tool- Metalogix, Remedy and ICM 
+Industry Experience: 
+Banking & Financial Services 
+Retail 
+Communications, Media & Technology 
+Agriculture 
+Professional Certifications: 
+SharePoint 2010 Application Development (70-573) 
+Developing Microsoft Azure Solutions Certification (70-532) Developing Microsoft SharePoint Server 2013 core solutions (70-488) 
+Architecting Microsoft Azure Solutions (70-534) 
+Developing Microsoft SharePoint Server 2013 Advanced Solutions (70-489) 
+Awards: 
+Accenture Orange Award and Client Appreciation for 100% SLA adherence and high efficiency Expertise 
+Current Location: Bangalore. 
+Contact details : +91 8861377333, 
+Email: bora.mohan@gmail.com 

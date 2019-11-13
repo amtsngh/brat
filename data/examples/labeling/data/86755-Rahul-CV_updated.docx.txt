@@ -1,0 +1,140 @@
+CURRICULUM VITAE 
+Rahul Mishra 
+Cell Phone #:+91-9663602857 E-mail ID:Ra0437@yahoo.in 
+Objective: 
+To contribute for delivery excellence in Information technology industry by using my technical/leadership skills and share the knowledge of ETL, training experience and customer services to meet goals/objectives of an organization. 
+Professional Summary: 
+4+ years of overall experience in IT Industry with emphasis in DWH-ETL development, Application development. 
+Possess strong leadership, and team building capabilities with excellent technical, communication and presentation skills. 
+Worked on various phases of DWH development life cycle, from requirement gathering, creation of detail design document, data profiling, development, unit testing, performance tuning, implementation and support. 
+Domain experience in Finance (credit cards) industry. 
+Experience in Running Agile/SCRUM projects involving cross-functional teams across locations. 
+Gathered requirements, defined gaps and offered solutions to the customers. 
+Confident in planning, assessing solutions taking effective decisions solely when unsupervised. 
+Excellent communication skills. Innovative in Approach. 
+Believe in self-learning of new methods and tools. 
+Key Skills: 
+Hands-on experience in Data Warehousing/ETL/Performance tuning/designing/data parsing/BI 
+Hands-on experience in IBM BI ETL Tool , SQL , Unix scripting Hands-on experience in SDLC models: Agile/Scrum, Water fall. 
+Hands on experience in scheduling tools: Autosys and Maestro. 
+Hands on experience in working on databases such as DB2 and Vertica. 
+Proficient in Visio, Excel, Excess and power point 
+Technical Expertise: 
+Data warehousing/ETL Tools: Datastage Job Scheduler:Autosys,Maestro RDBMS: DB2,Vertica Programming Languages: SQL, PL/SQL Defect Management:HP Quality Center 9.2 
+Third Party Tools: PLSQL developer, Toad Operating Systems: Windows, UNIX 
+Domains worked: Finance Credit cards 
+Employment History: 
+Currently working as a Software Engineering Senior Analyst in Data warehousing- Accenture services pvt ltd (2011-present). 
+Achievements/Awards: 
+Received TEAM ACE AWARD for SSI/PROMO 2011. 
+Recognition for client value creation for SSI/PROMO 2011. 
+Maverick award 2012 Best Presenter award 2013 
+Education: 
+B.Tech. in Computer Science (Honors) from Gurunanak Dev University Amritsar. 
+Trainings Attended: 
+Effective Communication Skills within Accenture. 
+Trainings on XML, Sap Business objects and Datastage. 
+Money laundering and its effects from Kitty Hawk. 
+Net Present Value analysis within Accenture. 
+Core banking concepts Accenture Internal 
+Indian institute of Banking and finance credit card for bankers certified. 
+Professional Experience: 
+Roles and responsibilities at Current Organization 
+Software Engineering Senior Analyst for client Kitty Hawk 
+Delivered end to end projects for SSI/PROMO (Customer selection for promotional offers), Triad Replatform (migration from existing platform), EMV-Chip (EMV chip implementation) and Recurring Transactions customer selection projects. 
+Apply business knowledge to enhance existing processes and also to ensure for timely and error-free delivery of business requirement. 
+Worked on requirement gathering, design, development, implementation and support on all the above projects. 
+Regular interaction with end user to understand requirement, clarification and UAT for offshore driven projects. 
+Preparing Technical Design Specification document, Source to Target Mapping document, Operation guide. 
+Created mappings and transformations in datastage 8.7 and 9.1 
+Written UNIX shell scripts. 
+Analyzed system and implemented Autosys and maestro scheduling tool. 
+Involved in Development effort estimation. 
+Extensively used Datastage client tool. 
+Extensively worked on understanding the business requirements and designing migration strategies. 
+Implemented mappings with complex business logics using stages like transformers, joins, lookup, complex flat file, sequential file, db2 connector, odbc connector, row generator and aggregator. 
+Post migration support. 
+Conduct code walkthroughs and review peer code and documentation. 
+Work with other developers, DBAs, and systems support personnel from other companies such as TCS/Infosys/BA continuum in elevating and automating successful code to production. 
+Coach and mentor junior team members by sharing Business, Functional, Technical expertise. 
+SSI/PROMO (Kitty Hawk):(Aug-2011 - Jun 2012) 
+Project-1: 
+Project Title : SSI/PROMO 
+Client : Kitty Hawk, USA 
+Team Size : 6 
+Duration : 10 months 
+Role : software Engineer 
+Technology : DB2, Vertica, Datastage, UNIX 
+Description: 
+The Aim of the project was to analyze and select the appropriate set of customers for the various promotional offers -offered by the client. 
+This Project involved analyzing, extracting, transforming and loading a part of data into set of tables present in both Vertica and DB2 databases for downstream process, while a part of it after transformation to be sent to execution engines so as to execute set of rules to select customers for promotional offers by the client. 
+Responsibilities: 
+Involved in requirement gathering, analysis, design and development. 
+Create basic design and detailed design document for modules assigned. 
+PL-SQL development to select required set of customers for the application. 
+Create Datastage jobs using but not limited to transformer, join, cff, lookup, sequential file,db2 ,odbc connector stages. 
+Unit Testing, Functional testing of modules before release to testing team. 
+Executing PL/SQL packages and database scripts. 
+Deployment and Maintenance of the modules in production envt. 
+Scripts for Data Patches and bug fixes. 
+On support answered user queries and concerns. 
+Working with HP Quality Center to track bugs and its closure. 
+Triad Replatform (Migration from existing platform):(Sep-2012 - Aug 2013) 
+Project-2: 
+Project Title : Triad Replatform 
+Client : Kitty Hawk, USA 
+Team Size : 4 
+Duration : 15 months 
+Role : software Engineer 
+Technology : DB2, Datastage, UNIX 
+Description: 
+The aim of the project was to migrate the execution platform from the existing unix/sql to predominantly Datastage platform and include two entirely new modules. 
+The project involved analysis, HLD/LLD document design, extraction, transformation and loading of data into DB2 database. 
+Responsibilities: 
+Involved in requirement gathering, analysis, design and development. 
+Create basic design and detailed design document for modules assigned. 
+Create metadata document for the tables. 
+PLSQL development of packages for Data Load using SQL loader facilities. 
+Create datastage jobs using but not limited to transformer,join,cff,lookup,sequential file,db2 ,odbc connector stages. 
+Unix Shell scripting. 
+Unit testing of modules developed. 
+Execution of database scripts during deployment. 
+Writing PLSQL queries for the corresponding customer selection. 
+Mentor juniors/new joiners in the existing framework. 
+Creating schedules in the maestro as well as Autosys for the required modules. 
+Migration and support. 
+EMV-Chip (Addition of EMV chip card details):(Aug-2013 October 2014) 
+Project-3: 
+Project Title : EMV -Chip 
+Client : Kitty Hawk, USA 
+Team Size : 4 
+Duration : 14 months 
+Role : software Engineer 
+Technology : DB2, Datastage, UNIX 
+Description: 
+The aim of the project is to implement chip card into its credit cards the necessary changes were needed to be done in the existing system so as to accommodate the required details. 
+The project involves analysis of the existing feeds, identifying all the necessary systems involved addition of attributes to the desired feeds and the corresponding sqls, changing the table definitions, implementation, migration and support. 
+Responsibilities: 
+Involved in requirement gathering, analysis, design and development. 
+Create basic design and detailed design document for modules assigned. 
+Analyzing and finding out all the required input systems to be changed so as to accommodate the details. 
+Create metadata document for the tables. 
+Create datastage jobs using but not limited to transformer,join,cff,lookup,sequential file,db2 ,odbc connector stages. 
+Unit testing of modules developed. 
+Execution of database scripts during deployment. 
+Writing PLSQL queries for the corresponding customer selection. 
+Mentor juniors/new joiners in the existing framework. 
+Creating schedules in the maestro as well as Autosys for the required modules. 
+Migration and support. 
+Personal Details: 
+Name 
+: Rahul Mishra 
+Fathers Name : Kp Mishra 
+Marital Status : Married 
+Date of Birth 
+: 04/may/1989 
+Declaration: 
+I hereby declare that all the details furnished above are true to the best of my knowledge & belief. 
+Place: Bangalore 
+Date: 03/July/2016 
+(Rahul Mishra) 

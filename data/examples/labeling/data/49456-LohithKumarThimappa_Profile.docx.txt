@@ -1,0 +1,331 @@
+ Name : 
+LOHITH KUMAR THIMMAPPA 
+Mobile : +91-9739663390 
+Email : lokubond@gmail.com Professional Summary 
+Over 12.9 years of Software Development Experience in Microsoft Technologies (C, C++, VC++, MFC, COM, .Net, C#, WPF,HTML,PRISM, WCF, Web Services, XAML,XML, MVC, WCF, JavaScript, Jquery, CSS, SQL,SOAP/REST, AngularJS, LINQ). 
+5+ years of experience working Onsite (USA, Israel, Malaysia, Taiwan, Germany and other European Countries) for a Semiconductor based Product and Manufacturing Industry and also managerial experience in Project Execution & Implementation, Project Management, Resource Management, and Customer Relationship Management. 
+Managed end to end Delivery of Machines and Personalization of GSM Chip Cards. 
+Experience in Technical Architect as a solution provider and designer. 
+Experience in Technical Manager leading a team of 26 members involved in various projects. 
+Preparing for PMP Certification, undergoing trainings related to PMP Certification exams. 
+Good understanding of Customer Requirement Specification, Software Requirement specification, Software design document and creating reports. 
+A keen communicator with ability to relate to people across all hierarchical levels in organization, connect with globally spread teams and working with numerous multi-functional teams. 
+Interface with multiple teams within organization. 
+Involved in designing, developing and testing solutions using. Working on the latest version of.NetFramework4.5,4.0,EntityFramework,TelerikControls ,VS2012/2010/2008/SQLServer2012. 
+Knowledge Transition from Onsite to Offshore and from Offshore to Onsite 
+Optimizing resource utilization to meet delivery schedules. 
+Experience Details 
+Organization Designation Duration 
+Tech Mahindra Technical Manager/Architect 
+Since Nov-2014 
+Muehlbauer India Limited Senior Software Engineer Apr 2011 
+Oct 2014 Thomson Reuters Senior Software Engineer 
+Nov 2009- Mar 2011 
+Ness Technologies Senior Software Engineer 
+Oct 2006-Oct 2009 ABB Software Engineer 
+July 2005- Oct2006 
+Skills 
+Primary Skill category PRISM, WPF, C#, C++, VC++,MFC, ActiveX, COM,XAML/ XSD/XML, VB, Jquery , HTML, CSS, Bootstrap Telerik Controls, SOAP/REST, Automation Selenium, Multithreading. MVC, WCF, Html, JavaScript, Jquery, CSS. 
+Sub Skills LINQ, MSSQL, T-SQL, AngularJS, Entity Framework 
+Secondary skills1 
+Net Framework 
+4.5,4.0, 3.5,3.0,Entity Framework, SOA, Telerik Framework, MVC,MVVM(.Net Patterns),GOF Pattern 
+Sub skills 
+N-Unit ,NuGate Packages, VisualStudio 6.0,2002,2005,2008,2010,2012 Secondary skills 2 Automation Testing 
+Selenium Automated Testing using Rational Robot 
+Sub skills 
+V-Tunes Amplifier(Intel), Re-sharper, Goanna statistics Project Acquired skills Web application, WebServices, Jira, Jenkins, Agile, SVN. TestDrivenDevelopment(TTD). GIT and TFS 
+Primary Domain HealthCare, Semiconductor, Retailer, Energy, Automative 
+Linguistic Skills English, Hindi, Kannada, Telugu, Tamil, German 
+Certification 
+.Net certified. 
+Achievements 
+Got Best Employer Year Award 2008-09 for working with Client in Ness Technologies 
+Work Experience 
+Project Profile# 1: Cortellis GUI Application Technical Manager Apr 2015- till date Project Type Development 
+Project Domain IT 
+Sub Domain HealthCare Solution IT 
+Service Offering Nil 
+Client Thomson Reuters 
+Organization Thomson Reuters 
+Location 
+Offshore: Bangalore Onsite: Nil 
+Duration 
+Offshore: Apr-2015 till date Onsite: Nil 
+Team Size Project : 26 Module : 
+Environment (with skill versions) 
+Languages: C#,WPF,MVVM,C++,VC++,MFC,ASP.NET 
+Softwares: Visual Studio, Mainframe, Web Services, 
+Database : Nil 
+Tools : HPQC ,Jenkins, Jira ,Re-sharper,GIT 
+O/s : Windows 
+Hardware: 
+Nil 
+Functional IT 
+Project Description: 
+Cortellis GUI application is web based portal developed by Thomson Reuters. This application is used by the TR client to know the details of the Patient\Drugs or any diseases history in the past. We are involved in running the Automation scripts developed using C# Selenium and fix or address any issues. Development team makes the changes for different releases like AngularJS changes and the automation team needs to work on each release and make sure run the automation scripts and fix any script related errors.There are totally 26 members involved in this Project and Iam leading the Entire C# team. 
+Contribution: 
+Skilled in Software Development Understanding Customer Framework Specifications, Developing Test User Stories, Implementing different modules Managing the team of 26memebers as well hands on as individual contributor. 
+Coordinate with support system and ensure compliance to project delivery schedules. 
+Customers and stockholders interaction and management Interface between Development , Test Team and other stakeholders to capture the all the details for Test Strategy and Specs 
+Responsible for reporting to Stakeholders and Sr. Management. 
+Project Profile# 2: Easy Energy 
+Technical Architect Nov 2014 Apr-2015 
+Project Type Development 
+Project Domain IT 
+Sub Domain Energy 
+Solution IT 
+Service Offering Nil 
+Client KMD Denmark 
+Organization KMD Denmark 
+Location 
+Offshore: Bangalore Onsite: Denmark 
+Duration 
+Offshore: Nov 2014 Apr-2015 
+Onsite: Nil 
+Team Size Project : 11 Module : 
+Environment (with skill versions) 
+Languages: C#,WPF,MVVM,C++,VC++,MFC,ASP.NET 
+Softwares: Visual Studio,Mainframe, Web Services, 
+Database : Mainframe 
+Tools : Jira ,Resharper 
+O/s : Windows 
+Hardware: 
+Nil 
+Functional IT 
+Project Description: 
+Easy Energy Project involves in migrating VB application FAS Listesystem into WPF application which will be used by KMD, Danish customers. KMD(Kommune Data) creates and delivers IT solutions for Danish Municipalities like local government, central government and private markets. ListeSystem application GUI is developed using WPF and PRISM technologies. Back end is connected with Mainframe database. Data in the GUI is dynamically populated from the mainframe which in turn creates a web services using C files. WebServices are consumed by the WPF application as FE methods and data will be displayed on the GUI application.User Stories were created which in turn contains tasks identified and time required to complete each tasks. 
+Contribution: 
+Skilled in Software Development Understanding Customer Framework Specifications, Developing Test User Stories, Implementing different modules Managing the team as well hands on as individual contributor. 
+Verification of Database 
+Coordinate with support system and ensure compliance to project delivery schedules. 
+Customers and stockholders interaction and management Interface between Development , Test Team and other stakeholders to capture the all the details for Test Strategy and Specs 
+Responsible for reporting to Stakeholders and Sr. Management. 
+Project Profile# 3: Car Gate Development Individual Contributor Jan2014-Oct2014 
+Project Type Development 
+Project Domain IT 
+Sub Domain Semiconductor 
+Solution IT 
+Service Offering Nil 
+Client Muehlbauer India Limited 
+Organization Muehlbauer India Limited 
+Location 
+Offshore: Bangalore Onsite: Germany 
+Duration 
+Offshore: Jan2014-Oct2014 Onsite: 10months 
+Team Size Project : 4 Module : 
+Environment (with skill versions) 
+Languages: C++,VC++,SQLServer2008/12, WPF, MVVM 
+Softwares: TFS,VS 
+Database : SQL Server 
+Tools : Selenium, Jira, SoapUI O/s : Windows 
+Hardware: 
+Zebra Printer(ZPL), Functional IT 
+Project Description: 
+Car Gate project current proposal is to provide a car park pass control solution - without a payment debiting system which enables identification of cars not only based on stored data on the RFID chip label placed on the car windshield but also based on a visual recognition of car plate numbers by deployment of infra-red cameras. 
+This identification solution envisages a fully automatic fast and reliable recognition and data transmission from a distance of several meters on the one hand, between RFID chip and the chip reader and on the other hand, between infra-red (IR) Camera and cars number plate. 
+CarGate Client Application allows the user to enter the details of the employees into the database through a GUI application.Once the data is stored the employee details are verified when the car is in the garage to check the existing driver details from the database.The RFID labels and Car information associated with the driver will be stored and updated from the database automatically. 
+Contribution: 
+Understanding the Business requirements, Developing Project Plan estimation and delivering the module and also interacting with Development team. 
+Managing the team as well hands on as individual contributor. 
+Approached with the new concept of DB framework using Entity framework. 
+Coordinate with support system and ensure compliance to project delivery schedules. 
+Interface between Development , Test Team and other stakeholders to capture the all the details for Test Strategy and Specs 
+Responsible for reporting to Stakeholders and Sr. Management. 
+Project Profile# 4: Extended Statistics Tool Individual Contributor Jan2013-Jan2014 
+Project Type Development 
+Project Domain Manufacturing 
+Sub Domain IT 
+Solution IT 
+Service Offering Nil 
+Client Muehlbauer India Limited 
+Organization Muehlbauer India Limited 
+Location 
+Offshore: Bangalore Onsite: Germany 
+Duration 
+Offshore: Jan2013-2014 
+Onsite: 1year 
+Team Size Project : 4 Module : 4 Environment (with skill versions) 
+Languages: C++,VC++,SQL,MFC,COM/DCOM,C# 
+Softwares: XML,VS,TFS 
+Database : SQL Server2008/12 
+Tools : 
+O/s : Windows 
+Hardware: 
+Nil 
+Functional Content Management 
+Project Description: 
+The statistic report helps the user to create dynamic reports or modify/filter reports according to his needs.This provides the operator/user flexibility to view the report generated after processing the job. 
+Contribution: 
+Tracking the project activities using the Agile methodology. 
+Review of Business Requirements, Use Cases and Design documents System Integration and Testing 
+Build deployment and Configuration management of the build. 
+Project Profile #5: GSM Data Preperation 
+Individual Contributor Apr2011-Jan2013 
+Project Type Development 
+Project Domain Semiconductor 
+Sub Domain IT 
+Solution IT 
+Service Offering Nil 
+Client Telenor 
+Organization Muehlbauer India Limited 
+Location 
+Offshore: Bangalore Onsite: Norway 
+Duration 
+Offshore: Jun Apr2011-2013 
+Onsite: 2.5yrs 
+Team Size Project : 3 Module : 
+Environment (with skill versions) 
+Languages: C++,VC++,SQL,MFC,COM/DCOM,C# 
+Softwares: HTM, Perl 
+Database : Oracle 
+Tools : 
+SVN Repository, Remedy 
+O/s : Unix 
+Hardware: 
+Nil 
+Functional Billing System 
+Project Description: 
+This project involves in the development of DataPreperation GUI application required for the Telenor Customer from Norway.Worked on creating DataPreperation application which involves in creating IMSI,ICCID,MSISDN and other information required for the personlisation of GSM Cards. 
+Created a input xml file which contains the details of the IMSI,ICCID and other required information. 
+Contribution: 
+Individual responsibility for delivering the customized product. 
+Understanding the Business requirements, Developing Project Plan estimation and delivering the module and also interacting with Development team. 
+Project Profile #6: WestLaw Development Senior Software Engineer Nov2009-Apr2011 
+Project Type Development 
+Project Domain Legal 
+Sub Domain IT 
+Solution IT 
+Service Offering Nil 
+Client Thomson Reuters 
+Organization Thomson Reuters 
+Location 
+Offshore: Bangalore Onsite: Nil 
+Duration 
+Offshore: Nov2009-Apr2011 Onsite: Nil 
+Team Size Project : 3 Module : 
+Environment (with skill versions) 
+Languages: C++,VC++,SQL,MFC,COM/DCOM,C#,XML 
+Softwares: VS,TFS 
+Database : SQL 
+Project Description: 
+WestLaw is a product which is used by lawyers in United States for searching information related to case study. As a developer we started initially working with tickets mainly maintence activity. I have worked on 32bit and 64bit platform migrating projects. Also recently we started migrating the existing C++ code to Csharp bit by bit modules. Worked on various technologies like C++,C#,VB,XML for fixing some of the trackers. Involved in optimizing the code using latest third party tools. Worked on Install shield and windows installer in creating some of the packages. 
+Contribution: 
+Skilled in Software Development Understanding Customer Framework Specifications, Developing Test User Stories, Implementing different modules Managing the team as well hands on as individual contributor. 
+Verification of Database 
+Coordinate with support system and ensure compliance to project delivery schedules. 
+Customers and stockholders interaction and management Project Profile #7: Inntrax Development Senior Software Engineer June2007-Nov2009 
+Project Type Development 
+Project Domain 
+Sub Domain IT 
+Solution IT 
+Service Offering Nil 
+Client Quintiles 
+Organization Ness Technologies 
+Location 
+Offshore: BANGALORE Onsite: USA 
+Duration 
+Offshore: June2007-Nov2009 Onsite: 3months 
+Team Size Project : 3 Module : 
+Environment (with skill versions) 
+Languages: C++,VC++,SQL,MFC,COM/DCOM,C#,XML 
+Softwares: VS,TFS 
+Database : SQL server 
+Tools : TFS 
+O/s : Windows 
+Hardware: 
+Nil 
+Functional IT 
+Project Description: 
+Inntrax is the Clinical Trial Management system used by our Client Quintiles.Inntrax product is used to login patient details manage clinical trials on day to day activities. 
+Contribution: 
+Skilled in Software Development Understanding Customer Framework Specifications, Developing Test User Stories, Implementing different modules Managing the team as well hands on as individual contributor. 
+Verification of Database 
+Coordinate with support system and ensure compliance to project delivery schedules. 
+Customers and stockholders interaction and management Project Profile #8: ATP Cognos Report, Senior Software Engineer J Apr2007-June2007 
+Project Type Development 
+Project Domain 
+Sub Domain IT 
+Solution IT 
+Service Offering Nil 
+Client Quintiles 
+Organization Ness Technologies 
+Location 
+Offshore: BANGALORE Onsite: Nil 
+Duration 
+Offshore: Apr2007-June2007 Onsite: Nil 
+Team Size Project : 3 Module : 
+Environment (with skill versions) 
+Languages: C++,VC++,SQL,MFC,COM/DCOM,C#,XML 
+Softwares: VS,TFS 
+Database : SQL server 
+Tools : TFS 
+O/s : Windows 
+Hardware: 
+Nil 
+Functional IT 
+Project Description: 
+This project involved in the Development of T-SQL Queries using Stored Procedures, Triggers for the development of ATP cognos Report.DB table design involved creating temp tables and joining into a single main table to display the single record as per the required conditions. 
+Project Profile #9: Point of Sale Senior Software Engineer Oct2006-Mar2007 
+Project Type Development 
+Project Domain 
+Sub Domain IT 
+Solution IT 
+Service Offering Nil 
+Client Retalix 
+Organization Ness Technologies 
+Location 
+Offshore: BANGALORE Onsite: Israel 
+Duration 
+Offshore: Oct2006-Mar2007 Onsite: 3months 
+Team Size Project : 5 Module : 
+Environment (with skill versions) 
+Languages: C++,VC++,SQL,MFC,COM/DCOM 
+Softwares: VS,TFS 
+Database : SQL server 
+Tools : TFS 
+O/s : Windows 
+Hardware: 
+Nil 
+Functional IT 
+Project Description: 
+This project involved in the Point of Sale(POS) development and enhancement of an existing project. Retalix is world leader in Retailer domain and they provide end to end solutions and development to the Retailers worldwide.POS which is the front office application contains a GUI through which the Cashier interacts with the POS application in a retailer shop and enters the data collected by the customer. 
+Project Profile #10: SFC Viewer(Sequential Functional Chart) 
+Software Engineer Apr2003-2006 
+Project Type Development/Automation 
+Project Domain 
+Sub Domain IT 
+Solution IT 
+Service Offering Nil 
+Client ABB 
+Organization ABB 
+Location 
+Offshore: BANGALORE Onsite: Nil 
+Duration 
+Offshore: Apr2003-2006 
+Onsite: Nil 
+Team Size Project : 3 Module : 
+Environment (with skill versions) 
+Languages: C++,VC++,SQL,MFC,COM/DCOM 
+Softwares: VS,TFS 
+Database : SQL server 
+Tools : SVN Repository 
+O/s : Unix 
+Hardware: 
+Nil 
+Functional IT 
+Project Description: 
+This project involved in the development, Bug Fixing and Enhancement of a SFC Viewer carried out in ABB Global Research Limited,Bangalore.ABB has its own Thermal Power Plants and it is very difficult for a person each time to go to plants and check various Items such as level of boiler,indicator,LiveStatus.So they have developed a Automation Software tool which will provide the interface of such power plants through GUI Applications developed using VC++SFC Viewer is one such project which is mainly involved in the interactions of such kind of power plants through GUI Applications developed. 
+Degree Specialization University 
+B.E. Electronics & Communication VTU 
+Personal Details Particular Details 
+Name Lohith Kumar Thimmappa 
+TechM GID # 362216 
+Email ID 
+lokubond@gmail.com 
+TechM Location Bangalore - EC (SDC) 
+Contact Number 
+Home Contact Number 
+Mobile +91-9739663390 
+Contact Number 
+Office Pa g e 4 

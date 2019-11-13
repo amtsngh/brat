@@ -1,0 +1,62 @@
+ RESUME 
+Sathish Kumar sathiszh@gmail.com 
++91 - 9578036789 
+Objective To take up the challenges in the field of Information Technology, using my skills and efficiency to achieve organizational objectives with team effort and my performance 
+Employment Summary (4 years and 5 months) 
+Associate Cognizant Technology Solutions, Bangalore Jul 2014 - Till 
+Insurance Domain Implemented Payment Center system for the customers can view their billing information, transaction history and to support creation of Automated Debit Authorization account for drafting money in monthly basis for their policies Implemented Automated Debit Authorization account splitting process based on the business requirements Strong experience in analysis, design, development and implementation of large scale enterprise applications using Java/J2EE 
+Manufacturing & Logistics 
+Implemented Java / Distributed batch applications which are migrated from Mainframe jobs. 
+Currently working for Caterpillar India Private Ltd project in the client location (Whitefield, Bangalore) 
+Software Engineer RagaCare (OneEmpower) Technologies, Coimbatore Jun 2012 
+Jul 2014 Banking Domain Implemented Balance Inquiry, Sale Transaction and Refund Transaction in POS. Bank users can swipe the cards in the POS terminals and get the processed response based on the action chosen Awarded as You g Talent Of The Year 2013 Languages and Technologies Java/J2EE, SQL, PL/SQL, XML, XSD and XML Parser 
+JSP, HTML, JavaScript and CSS for User Interface screen design and validation 
+DB2, Oracle, Hibernate, JPA, Spring, Web Services and Struts 
+Experienced in IBM Websphere Application Server and Apache Tomcat Server 
+Object Oriented Design, Data Structures and Algorithms, Design Patterns and UML 
+Experienced in Borland Star Team for source code maintenance and IBM Build Forge for building 
+JAR/EAR files for deployment in the server Experienced in IBM Rational Application Developer(RAD), Eclipse, PMD, JUnit, Code Coverage and Beyond Compare tool Experienced in Windows 7/XP and Unix/Linux Operating System for the application development and deployment Experienced in CVS, Git, ANT Build and Log4j 
+Education Summary 
+Salem, Tamil Nadu The Kavery Engineering College 2007 - 2011 
+Completed B.E in Computer Science with 7.37 CGPA 
+Developed Address Book App for the students who can find the information of other students Developed Online Exam templates and Interactive Quiz screens 
+Salem, Tamil Nadu Government HSC School 2004 - 2007 
+Completed Class XII exam with 72% Completed Class X exam with 75.2% Good at Computer Science and Problem Solving 
+Project Experience 
+ASN Batch Caterpillar Oct 2016 
+Till 
+The current mainframe process that creates an Advanced Shipping Notice (ASN) for the certain Caterpillar facilities using data from the Traffic Information System (TIS). This process needs to be moved off the mainframe and into a Java / distributed environment. 
+The Java batch application should follow the below functionalities as per the business requirements. 
+1) Ability to pull US Import and Export data out of TIS Database tables and generate ASNs 2) Ability to convert the ASNs into EDI 856 3020 format 3) Ability to send ASNs across various facilities via mailbox Roles and Responsibilities 
+Technical Design Document preparation, Coding and Unit level testing 
+Involved in code review and peer review 
+Languages and Technologies Used 
+Java/J2EE, Spring, Hibernate, JPA and JUnit DB2 and Oracle database for storing and retrieving the data Retail Rebranding MetLife Jun 2016 
+Oct 2016 The Goal of the Retail Rebranding is to split the list of legal companies under MetLife into new company name as Brighthouse Financial. Our application has the Automated Debit Authorization 
+Account which is having both MetLife and Brighthouse Financial brands policies. Both companies will be maintained as separate manner in future. So business required to split our Automated Debit 
+Authorization Account into two when it is co-mingled. 
+The development plan is started to retrieve all the co-mingled accounts and call the below functionalities to create new account. 
+1) Account Inquiry 2) Delete co-mingled policies from existing Debit Authorization Account 3) Create new Debit Authorization Account with those deleted policies 4) Stop the newly created policies in the new Debit Authorization Account, If it was already Stopped in the old account 5) Restart the newly created policies in the new Debit Authorization Account, If it was already Active in the old account 6) Make the policies as Active / Stopped in the newly created Debit Authorization Account 7) Validate initial draft amount and sum of two accounts draft amount is same Prepare report for old and newly created Debit Authorization Account 
+Roles and Responsibilities 
+Involved in Analysis, Technical Design Documentation preparation and development and unit level testing 
+Involved in code review and peer review 
+Languages and Technologies Used 
+Java/J2EE, XML (XSD) Schema and XML Parser 
+IBM DB2 SQL queries for CRUD operation in DAO layer 
+IBM Websphere Application server is used for deploy the application Technical Exposure Strong experience in problem solving, analysis and debugging Strong experience in developing Class/Object modeling and reusable code Experienced to generate daily reports/ feed files contains large amount of data with customized model Experienced in multithreading and synchronization Good at finding efficient solutions and best ways to achieve goals which is compliancewith risk management 
+Strong capable and quick understanding of new technologies, time keeping and flexible to work 
+Personal Details 
+Father s Na e : Sekaran 
+Nationality : Indian 
+Date of birth : 03-05-1990 
+Gender : Male 
+Marital Status : Single 
+Hobbies : Watching movies, playing video games and shopping 
+Languages known : English, Tamil, Kannada 
+Address : 6/141, Kandhasamy kovil street S.Nattamangalam (po) Salem 636010 Tamil Nadu 
+Declaration 
+I hereby declare that the above information, I quoted are true to the best of my knowledge 
+Date : 
+With Regards 
+Place : 
+(S.Sathish Kumar) 

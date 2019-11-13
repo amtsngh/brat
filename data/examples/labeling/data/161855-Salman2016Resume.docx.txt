@@ -1,0 +1,50 @@
+ Salman M. Shaikh 
+Flat no-3, G- Building, Suryoday Complex, Kalbhor Nagar, Chinchwad Pune -411019 
+Email: - salmanwithsmile@gmail.com Mobile: - +91 9028662621 
+Objective: 
+To associate with an organization in Information Systems Industry, which is progressive and gives me a chance to quench my quest for knowledge and enhance my skills in the state of art technologies and be a part of the team that excels in work towards the growth of the organization and gives me satisfaction thereof. 
+Technical Expertise 
+Operating system: Windows, Linux, Ubuntu, Unix 
+Hardware: Modems, Network Cards, Memory, Printers, Routers, Switches, Hubs, Laptops, Scanners & Other Peripherals Etc. 
+Languages: C,C++, Java, PHP, DS,HTML/CSS. 
+Network/protocols: LAN/WAN, TCP/IP, DNS, DHCP, POP3, SMTP, FTP, VPN, IMAP, Ethernet. 
+Database: MySQL, SQL, RDBMS 
+Areas of Interest: 
+Desktop Maintenance. 
+Solving issues regarding software & Network. 
+Solving Network Issues and Network Configuration 
+Solving Software Problems. 
+Installation of RHEL, CentOS, Windows, Booting Process. 
+Troubleshooting of Linux/ Windows Services. 
+Linux Utilities. 
+Additional Qualifications 
+Hardware (A+) & Networking (N+) 70 % Maharashtra State Certificate in Information Technology (MS-CIT) 
+69 % Qualification Highlights 
+Degree Subject College University Year of passing Percentage 
+M.Sc. Computer Science 
+Pratibha College University of Pune 2016 64.11 % 
+B.Sc. 
+Computer Science Pratibha College University of Pune 2013 61.61 % H.S.C. 
+Science Smt. Godavari College 
+Maharashtra Board Pune 2010 63.33 % S.S.C. General 
+Smt. Godavari College 
+Maharashtra Board Pune 2008 81.84 % Extra-Curricular Activities: 
+Participations Participated in Seed It Idol held in 2012 by SEED Infotech , Pune Played Basketball for the school team. 
+Have Participated 1 Months Free Workshop on Software Testing 
+project 
+Details:- 
+Topic:-Courier Management System 
+Operating System Linux 
+Front End Java 
+Back End MySQL 
+Team Size: Two 
+Description: Project completed under Linux Platform using Language Java System based on Java technology. Project has functions like Sending Courier, Tracking Status, Updating Details, Paying Bills, etc. 
+Personal Information: 
+Date of Birth : 13th June 1991. 
+Marital Status : Unmarried 
+Nationality : Indian. 
+Languages Known : English, Hindi, and Marathi. 
+Declaration: 
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 
+Date: 
+Place: Pune (Salman M. Shaikh) 

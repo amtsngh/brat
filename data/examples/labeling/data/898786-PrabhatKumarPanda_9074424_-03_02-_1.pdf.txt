@@ -1,0 +1,145 @@
+Prabhat Kumar Panda 
+" Software Developer with B.Tech/B.E. in Electronics/Telecommunication currently living in Bengaluru / Bangalore " erprabhatpanda001@gmail.com 09071222814 
+Current Designation: Software Developer 
+Current Company: ANZ Banking 
+Current Location: Bengaluru / Bangalore 
+Pref. Location: Bengaluru / Bangalore, Hyderabad 
+Functional Area: IT Software - Application Programming / Maintenance 
+Role: Software Developer 
+Industry: IT-Software/Software Services 
+Key Skills: SQL, PLSQL, SQL Loader, Toad, Shell Scripting, 
+Unix, SQL*Plus 
+Total Experience: 3 Year(s) 2 Month(s) 
+Annual Salary: Rs 3.7 Lakhs 
+Expected CTC: Not Mentioned 
+Highest Degree: B.Tech/B.E. 
+Notice period: 1 Months 
+Work Experience 
+ANZ Banking (Current Employer) 
+Software Developer | Oct 2013 
+Working as Software Engineer at ANZ BANKING from OCTOBER 2013 to till date. Having 3.2 years Experience in Application 
+Developement and Maintaing using Oracle, UNIX & Shell Scripting. 
+Notice Period : 1 Months 
+Education 
+Undergraduates ( Full Time ) 
+B.Tech/B.E. (Electronics/Telecommunication) 
+Biju Patnaik University of Technology (BPUT) | in 2012 
+IT Skills 
+Skill Name Version Last Used Experience 
+SQL 10g,11g 2017 3 Years 2 Months 
+PL/SQL 10g,11g 2017 3 Years 4 Months 
+Unix 2017 3 Years 4 Months 
+SQL 10g,11g 2017 3 Years 4 Months 
+Language Known 
+Language Proficiency Read Write Speak 
+ENGLISH Proficient 
+HINDI Expert 
+ODIA Expert 
+Projects 
+No Projects Added 
+Other Details 
+Personal Detail 
+Date of Birth: 16 Jun 1991 
+Gender: Male 
+Marital Status: Single/unmarried 
+Address: 
+560037 
+Home Town: Bangalore 
+Desired Job Details 
+Job Type: Permanent 
+Employment Status: Full Time 
+Work Authorization 
+US Work Status: Need H1 Visa 
+Countries: India 
+Affirmative Action 
+Category: General 
+Physically Challenged: No 
+Attached Resume 
+PRABHAT PANDA 
+Email : erprabhatpanda2015@gmail.com 
+Mobile : +91 9071222814 PROFESSIONAL KNOWLEDGE 
+* Having 3.2 Years Experience in Application Developing for product and Enhancement. 
+* Experience in Requirement Analysis, Feasibility Study, Designing, Coding, Testing, Implementation and Maintenance. 
+* Strong experience in designing and development of components using PL/SQL and relational database Oracle 10g and 11g. 
+*
+Customizing the Oracle code as per the application needs 
+* Extensive experience in writing complex SQL, PL/SQL queries and UNIX command. 
+* Experience in working with External Tables, Import, Export to extract and load large volumes of data. 
+* Creating various Procedures & Functions according to the business needs. 
+* Evaluating and Deploying Production System Monitoring Tools and Systems for Both Operational stability and Operational 
+Security. 
+* Developed TRIGGERS to implement security policies and critical tasks which cannot be done by other means. 
+* Technically proficient in Unix Shell scripting and job scheduling in Unix / Linux Platform. 
+*
+Responsible for tracking of trouble tickets and resolution of escalated support incidents. 
+* Trouble shooting &debugging the Oracle Code and making the changes as per the requirement. 
+* Good Knowledge on Job Scheduling Tool (Crontab). 
+* Good team player with good unique problem solving and communication skills. 
+* Monitoring product jobs and making sure all jobs completed successfully as per define SLA. 
+* Ability to adapt quickly to new technologies and environments. 
+* Coordinates with customers to resolve technical support issues. 
+EDUCATIONAL QUALIFICATION 
+* Bachelor of Technology from BPUT University with an aggregate of 65%. 
+PROFESSIONAL EXPERIENCE 
+*
+Working as a Software Developer for ANZ BANKING from JULY 2014 to till Date. 
+TECHNICAL EXPERIENCE 
+Languages : PL/SQL ,SQL(Oracle) 
+Databases : Oracle 10g, 11g. 
+Tool : Toad 
+Operating Systems : Windows, Linux 
+PROJECT DETAILS 
+* Project 1 
+Title : MTFMS 
+Environment : Oracle 10g/11g, SQL * Plus, TOAD, Shell Scripts, UNIX 
+Client : M & T Bank, USA 
+Role : Software Developer 
+Duration : Nov 25' to Present 
+Team Size : 10 Description 
+MTFMS is an application which processes all the orders coming into M&T Bank through various order entry systems. It is the prime application that is responsible for offers, pricing the transition, billing and invoicing and doing the revenue recognition. 
+Transaction records from several other systems come into MTFMS and get processed. MTFMS also send feeds to several other systems such as AR(Account Receivables), Quantum (For TAX Counting and Checking in Invoice Level), GL (General 
+Ledger) etc. Roles and Responsibilities : 
+* Design and development of database tables. 
+* Analyze the Existing code and do the impact analysis. 
+* Analysis and Design the Functional Specification Documents. 
+*
+Involved in the Development of Interface module and major/minor enhancements. 
+*
+Involved in modifying/creating various packages, procedures, functions according to the new business needs. 
+*
+Wrote SQL Queries using joins, sub queries and correlated sub queries to retrieve data from the database. 
+*
+Involved in analysis, design, coding and Testing & Wrote test cases and performed Unit testing. 
+* Finding the bug and fixing it. 
+Project 2 
+Title : ESBS (Enterprise Service for Banking System) 
+Environment : Oracle 10g/11g, TOAD, UNIX 
+Client : ANZ BANK 
+Role : Software Developer 
+Duration : Aug' 13 to Oct' 10 
+Team Size : 8 Description 
+This is an IFX(interactive Financial Exchange) protocol based middleware for the financial institutions. The greatest features of this application is, it is developed upon SOS(service oriented Architecture).The main objective of this system is to translate the different channel specific messages to the format which can be understood by different available hosts and vice-versa. It is very useful for the financial institutions in every way. 
+Worked in a Bank Account Generation Module, which deals with the information generated when a customer opens a new account. It captures customer's primary information and generates customer specific data regarding internet banking activation, ATM issued, Mobile Banking, Lockers facility etc. The module also generates reports on the customer data. 
+Responsibilities : 
+* Created database objects like Tables, Columns and Constraints etc. with strict adherence to the project's Naming 
+Conventions using Toad. 
+* Wrote Sql Queries to retrieve data from the database as per the Requirements. 
+*
+Involved in creating various Procedures & Functions according to the business needs. 
+*
+Involved in modifying Packages as the requirements. 
+*
+Involved in analysis, design, coding and Testing. 
+*
+Involved in the Development of major/minor enhancements. 
+* Identify tasks from Ticket Lists assigned. 
+* Collected User Requirements by participating in meetings and studying existing System. 
+* Issues and doing appropriate escalation based on criticality and feasibility. 
+* Worked as per the CR raised by the end user. 
+* Developed TRIGGERS to implement security policies and critical tasks which cannot be done by other means. 
+* Used COLLECTIONS like PLSQL-TABLES to give portability and functionality in procedures and functions. 
+PERSONAL DETAILS 
+Name : Prabhat Panda 
+Gender : Male 
+Marital Status : Unmarried 
+Place : Bangalore 

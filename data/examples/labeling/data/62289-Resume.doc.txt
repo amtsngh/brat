@@ -1,0 +1,74 @@
+Ranjith Algapuri E-mail:ranjith.algapuri@outlook.com 
+Mobile No: 9985629229 
+PROFESSIONAL SUMMARY: 
+Having 6.2 years of IT experience and 4.3 years on Microsoft SQL Server Database Administration in production environment including all High Availability options. 
+Experience in Installing, Managing, Monitoring, Security and Troubleshooting SQL Server 2000/2005/2008/2012 on Production. 
+Extensively worked on Database Backup, Recovery, Logshipping, Database Mirroring and fail over multi cluster ( Active - Active, Active - Passive ) Have been involved in Upgrading and Migrating databases from SQL Server 2000/2005/2008/20008r2 and 2012. 
+Profound Experience on Configuring Maintenance plans, DB-Mail,Alerts and Operators to monitor the servers. 
+Hands on experience in handling alerts(Log Space Issue,Disk Space Issue,Data File 
+Space Issue,Backup Job Failure,User Job Failure,Server Down escalation,CPU Utilization is High,Memory Utilization is High etc). 
+Experience in setup and administration of Windows Cluster and SQL Server Failover Multinode Cluster (Active-Active, Active-Passive). 
+Hands on experience in troubleshooting performance issues ( Blocks, Deadlocks, Slow running quarries ) for Windows and SQL server. 
+Processing the client requests(Configuring Sql Server,Applying Service Packs and Hotfixes,Moving Database from one server to another server,Configuring Linked Servers,Handling Backups,Deadlocks,Poor running Query's etc) on 24x7 Database supports, which comes in the form of tickets(Incidents,Changes,Releases,Problems). 
+Experience on Maintenance of Databases, creating Roles and managing user permissions. 
+Experience on creating and deploying of SSIS Packages. 
+Experience in working with Reporting tools like Microsoft Reporting services (SSRS). 
+Worked on Third party tools like Redgate SQL Backup,Commvault,Service Now 
+Experience details 
+Working as a Associate DBA with Iden Solutions, Hyderabad . 
+Technical Skills 
+Database 
+: Microsoft SQL Server 2005,2008,2008R2 and 2012 Operating System : 
+Windows XP/Windows 7/Windows Server 2003/2008 
+Languages : T-Sql 
+Tools : BIDS(SSIS,SSRS), Red Gate Backup,CommVault, ENGAGEMENT OVERVIEW: 
+Project 1: 
+Project Name : BCI 
+Client : BCI(Banco de Crdito e Inversiones) 
+Role : SQL Server Database Administration Environment : SQL Server 2008r2/2012 on Win Server 2003/2008 
+Duration : May,2014 to Till Date 
+Description:- 
+BCI is one of the largest banks in Chile specializing in savings & deposits, securities brokerage, asset management and insurance, with numerous subsidiaries that complement and support its business. The bank has more than 300 branches, thousands of customers from different markets, and over 10,000 employees who contribute to BCIs reputation as one of the main actors in the domestic banking market. Currently BCI is the third largest private bank in terms of loans and the fourth bank in number of customers in Chili. 
+Roles & Responsibilities: 
+Performing Daily Health Check on the Server Criticality Servers and sending the reports the onshore Managers. 
+Installing Microsoft SQL Server 2000\2005\2008\2008R2 and applying service packs, cumulative updates, hot fixes on them. 
+Creating the databases as per the build sheet and also the client requirements. 
+Scheduling the backups and configuring backup chain for the Prod | Dev | Staging environments. 
+Performing backups for the databases on ad-hoc requests from the users. 
+Pulling backups report and forwarding to the onshore team on daily basis. 
+Performing Database Refresh tasks on weekly basis and also whenever clients are requested for. Creating the logins, users and assigning the privileges in the database for them as the user is requested for. 
+Fixing orphan users and troubleshooting other security related issue like user connectivity issues. 
+Creating the indexes (clustered, non-clustered) on the tables and checking fragmentation in order to troubleshoot the performance issues. 
+Creating user jobs and maintenance plans; scheduling them as per the Service Request tasks we get into the queue. 
+Moving the system and user databases from one disk to another disk as per the users request. 
+Troubleshooting and fixing the suspect state issues on the user databases and system databases. 
+Configuring Database Mail on the production Microsoft SQL Server instances and configuring email alerts on backup failures and job failures. 
+Performing in place and side by side up gradation as part of the scheduled Change Requests. 
+Working on blocks and deadlocks, enabling the traces to trace the deadlocks and fixing them. 
+Configuring Log shipping and ensuring the Primary and secondary databases are in sync. 
+Troubleshooting the log shipping job failures. 
+Configuring Replication techniques, Snapshot Replication and troubleshooting the replicating issues. 
+Supporting 24*7 round the clock as an 3 members of team in the offshore and 4 members of team in onshore 
+Project 2: 
+Project Name : Sky 
+Client : Sky plc 
+Role : DBA 
+Environment : SQL Server 2005/2008r2/2012 on Win Server 2003/2008 
+Duration : March-2012 to April-2014 
+Description:- 
+Sky is the leading provider of telecommunications, broadband, and media entertainment services in the UK and Ireland. Sky provides television and broadband internet services and fixed line telephone services to consumers and businesses in the United Kingdom. 
+It is the UK's largest pay-TV broadcaster with 11 million customers as of 2015. Formed on 2 November 1990 by the equal merger of Sky Television and British Satellite Broadcasting, BSkyB became the UK's largest digital subscription television company and on 13 November 2014 changed its name to Sky plc. 
+Roles & Responsibilities: 
+Backup client databases and perform database restore from SQL Server. 
+Installing SQL Server 2005/2008 and applying service packs for them. 
+Troubleshooting any SQL related issues in Client Servers. 
+Monitor the status of Maintenance jobs schedule to run daily and on weekends. 
+Creating users and giving appropriate permissions. 
+Ensuring right privileges are given based on role and group. 
+Recovering the databases from backup in disasters and recovering suspect state databases. 
+Implementation of SQL Logins, Roles and Authentication Modes as a part of Security Policies for various categories of User Support. 
+Make sure daily, weekly database backups are archived on File servers, as per the Maintenance plan. 
+Ensuring high availability of the database exploiting the concepts log shipping. 
+Maintaining other HA options as Log Shipping and Mirroring. 
+Ensuring the data synchronizing between the principal and mirror servers. 
+Supporting 24*7 round the clock as an 2 members of team in the offshore and 5 members of team in onshore 

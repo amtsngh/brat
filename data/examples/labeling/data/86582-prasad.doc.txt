@@ -1,0 +1,50 @@
+ DurgaPrasad.N 
+Email ID:durgaprasadneelagiri@gmail.com Mobile: 9160810545 OBJECTIVE 
+To secure a challenging position where I can effectively contribute my skills as Professional, possessing competent Technical Skills. To work sincerely for an Organisation. Where I get the best out of myself. 
+SKILLS 
+Having 1.4 years of experience in iPhone/iPad Application development. 
+Strong emphasis and in-depth knowledge of implementing Web Services,Social Network APIs, Local Database (like SQLITE and Core Data), 
+InAppPurchase, parsing techniques (like JSON and xml), Application Preferences and Apps without Using IB and with Using IB 
+Strong Programming abilities in Objective-C, Cocoa Touch Framework, iphone SDK. 
+Strong technical skills, knowledge about latest standards. 
+Flexible, able to work effectively in a team environment or as an individual Contributor , Worked in a high pressure to reach product quality standards and delivery 
+dates of the product/apps. 
+WORK EXPERIENCE 
+Working as iPhone / iOS Developer in ArvaSoftwarePvt Ltd, Bangalore. 
+from April 2015 to Till Date. 
+EDUCATION QUALIFICATIONS 
+B.Tech in Electronics & communication 
+Engineering from Bharat institute of Engineering &Technology , affiliated to JNTU Hyderabad, with 69.8%,during the period 2011-2015. 
+TECHNICAL SKILLS 
+Programming Language : Objective-C 
+Framework 
+: Cocoa Touch Framework. 
+Software Tools : Xcode 
+Operating System : MACOS, Windows Xp, Windows 7. OS : OS X 10.6.8,mac OS X 10.9.2 
+Web Services : XML, JSON 
+Data Base :core Data,sqlite Achievement 
+Met deadlines consistently Awarded as a best Employer of the year in 2016 Held a perfect attendance record 
+PROJECTS 
+Project #1 :Tally Ho Catering 
+Platform Category 
+: iPhone / iPad 
+Category :Food&Drinks 
+Description : Tally Ho Catering is a Melbourne based catering company based in Boronia delivering party, corporate and private finger food to all suburbs.The Tally Ho App will allow you to take care all of of you catering needs for your next function or occasion right at the touch of a button. 
+iTunes URL : https://itunes.apple.com/in/app/tally-ho-catering/id1022218395?mt=8 Project #2 
+:A.M. Total Being Fitness 
+Platform Category : iPhone / iPad 
+Category : Health & Fitness 
+Description : the A.M. Total Being Fitness App today to plan and schedule your classes! From this mobile App you can view class schedules, sign-up for classes, view ongoing promotions, as well as view the studios location and contact information. You can also click through to our social pages! Optimize your time and maximize the convenience of signing up for classes from your device! Download this App today! 
+iTunes URL : https://itunes.apple.com/in/app/a.m.-total-being-fitness/id1069027563?mt=8 Project #3 :Sanctuary Studios 
+Platform Category : iPhone / iPad 
+Category : Health & Fitness 
+Description :The Sanctuary Studios App today to plan and schedule your classes! From this mobile App you can view class schedules, sign-up for classes, view ongoing promotions, as well as view the studios location and contact information. You can also click through to our social pages! Optimize your time and maximize the convenience of signing up for classes from your device iTunes URL : https://itunes.apple.com/in/app/sanctuary-studios/id1090999938?mt=8 Project #4 : Raj Gate 
+Platform Category : iPhone / iPad 
+Category :Lifestyle 
+Description 
+:Spend half the day dreaming of what to have for your evening meal and then get home to find the fridge is empty and the cupboards offer no inspiration? How about Tikka Starter or Chilli Chicken to start, Tandoori Mixed Grill or King Prawn Masala for main meal? Sound good right, Raj Gate located on The Broadway, Old Amersham Bucks can deliver all of this to your door. Order online our through our mobile app, fill your order basket and wait for your meal to arrive. Remember to leave your feedback after your takeaway experience. 
+Tunes URL :https://itunes.apple.com/in/app/raj-gate/id1129191752?mt=8 
+DECLARATION: 
+I hereby declare that all the details furnished above are true to the best of my knowledge and belief. 
+Date: 
+(DurgaPrasad.N) place:Bangalore 

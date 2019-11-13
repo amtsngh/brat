@@ -1,0 +1,100 @@
+ Varri Udaykumar 
+Mobile:+91 9490541971 
+Email ID: udaykumarvarri5555@gmail.com 
+OBJECTIVE:- 
+Seeking a position as iPhone Developer in a reputed organisation where I can utilize my knowledge and experience. 
+PROFESSIONAL SUMMARY:- 
+1.4 years of experience in iOS Application Development. 
+Good at REST based Web services. 
+Good at parsing JSON & XML data. 
+Good working knowledge on GET / POST, Coredata and SQLite database. 
+Good at working on Objective-C. 
+Developed and extending the existing code base. 
+Worked on UI of the Application 
+Worked on AutoLayout for implementing Universal application 
+Worked on Size Classes for implementing device specific features Effective in working independently and collaboratively in teams. 
+EDUCATIONALQUALIFICATION:- 
+B Tech. (EEE) in PYDAH, Under JNTUK, Andhra Pradesh with a 62%. 
+Intermediate (10+2) from Chaitanya junior College in Andhra Pradesh with 79% of Marks. Matriculation from ST GEORGE HS GEORGE, Andhra Pradesh with 87.5% of marks. 
+PROFESSIONAL EXPERIENCE:- 
+Currently working as a iOS Application Developer in SRI VATSASA IT SOLUTIONS from 30 June 2015 to till date. 
+TECHNICAL SKILLS:- 
+Programming Languages : C, Objective C, basic of Swift 
+Database : SQLite. 
+IDE : Xcode 
+Operating Systems : OS X, Windows 
+Environment 
+: Objective C, iPhone Sdk, MAC OS X. 
+Frameworks 
+: Cocoa Touch Framework. 
+Technologies 
+: SOAP, REST,GET ,POST, JSON, XML,Coredata. 
+PROJECTS:- 
+Project1 
+Project Name : Spelling Bug-2 Free 
+Project Duration : 3 months 
+Role : Asst. Developer 
+Technologies : iOS, Objective C,JSON, Coredata ,Autolayout. 
+Frameworks used : AVFoundation(AVAudioPlayer and AVRecorder) 
+Project Description: 
+Application presents each word by displaying a picture and pronounces the word and presents the letters that are needed to make the word.Kids use there hand to arrange the letters in the right order to make the word.Using this not only your kid will learn to spell the common words, he/she will also learn how to say them. 
+Roles /Contribution in the Project: 
+Worked on UI Development. 
+Worked on AVAudioPlayer to pronounces the words. 
+Worked on AVRecorder for speech recognition. 
+Used tab bar controller to organize the app into one or more distinct modes of operation. 
+Coredata was used in this app development to Add and Delete new words. 
+Used Autolayout to dynamically calculates the size and position of all the views in view hierarchy. 
+Project2 
+Project Name 
+: Craigslist 
+Project Duration : 4 months 
+Role : Asst. Developer. 
+Technologies : iOS, Objective C, JSON,XML ,Autolayout. 
+Frameworks Used 
+: Mapkit, Corelocation 
+Project Description: 
+Craigslist is classifieds application. Craigslist mobile app that takes everything you love about Craigslist and puts it all together in one easy to use, beautiful and reliable Craigslist mobile app. Best of all, Craigslist includes all the major Craigslist categories: Cars & Trucks, Garage Sales & Yard Sales, Housing & Apartments or anything else For Rent or For Sale on Craigslist.We can search all Craigslist countries and cities. Create Craigslist alerts to be notified when a listing matches your criteria and Craigslist find your location automatically. 
+Roles & Responsibilities: 
+Worked on UI Development. 
+Worked on Mapkit framework in order to the display and annotation of maps. 
+Worked on Corelocation framework in order to Determine the current latitude and longitude of a device. Configure and schedule the delivery of location-related events. 
+Worked on social framework or social sharing through Facebook and Twitter. 
+UNNotification Settings is used to the notification-related settings and authorization status of the app 
+Worked on JSON and XML parsing. 
+UserNotificationUI framework is used to receives the notification data and provides the corresponding visual representation. 
+Project3 
+Project Name : CineRadhamAudio Player (CAP) Project Duration 
+: September 2016 to till date. 
+Client : Cineradham. 
+Role : Asst. Developer. 
+Technologies : iOS, Objective C, REST, GET, POST, AutoLayout, Size Class. 
+Frameworks Used : AVFoundation (AVPlayer and AVAudioPlayer), Social, Reachability. 
+Project Description: 
+CineRadhamAudio Player is a powerful audio player for playing the cloud songs / local songs. 
+It has a powerful set of players for playing the local and cloud songs. 
+It can show the song lyrics from the cloud if its available over the cloud. 
+All the music player features are built into this with advanced features like shuffling the song. 
+Shuffling works for local player as well as for the cloud player. 
+Advanced metadata handlers are written in the application to show the images embedded along with the song. 
+Social Sharing features are included along with the App for improving the social mileage for the application as well as the website. 
+Song sliding option is available even for the cloud player. 
+Sleep timer is also included with the application, which can stop playing the songs after certain amount of time. 
+Playlists can also be maintained both for the local and cloud player. 
+Player is completely integrated with the gestures, which can be used in order to go back to the previous song / next song. 
+Audio volume can be increased and decreased with the help of the gestures. 
+Responsibilities: 
+Worked on UI Development. 
+Reachability Framework is used in order to detect the type of the connection. 
+Worked on AVPlayer in order to play audios from internet. 
+Worked on AVAudioPlayer in order to play audios from the device. 
+Worked on Shuffle feature both forAVPlayer and AVAudioPlayer. 
+AVPlayer events were handled by notifications. 
+Worked on social framework or social sharing through Facebook and Twitter. 
+Music player functionality also includes playing live audio streaming of various events. 
+Various functionality written in order to handle Metadata of the Audio like getting the image and song name using the metadata. GCD was used in order to handle the multiple threading process, so that the application is not struck while handling the metadata of the audio from Internet. 
+Embedded gestures handling into the application in order to control the flow of the Audio Player. 
+DECLARATION:- 
+I hereby declare that the above written particulars are true and correct to the best of my knowledge and belief. 
+Date: Place: Visakapatnam. 
+Udaykumar.V 

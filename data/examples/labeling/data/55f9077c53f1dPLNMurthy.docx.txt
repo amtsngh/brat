@@ -1,0 +1,67 @@
+P L N Murthy PLN_Murthy@yahoo.com 
+Phone: 7204938499, 9494249520 
+Profile: Hadoop Developer and Data Analyst 
+Having a total of 3.6 years of IT experience of which 1.2 years as a Hadoop developer and 2.4 years as a java developer. 
+Having experience on installing, configuring, testing Hadoop ecosystem components such as HDFS, MapReduce, and ecosystems like HBase, HIVE, PIG, SQOOP. 
+Capable of processing large sets of structured, semi-structured and unstructured data and supporting systems application architecture. 
+Familiar with data architecture including Hadoop information architecture, data modeling and data mining. 
+Areas of Expertise: 
+Big Data Ecosystem:Hadoop, MapReduce, HDFS, Hive, HBase, PIG, Sqoop and Flume 
+Hadoop Distribution: Apache Hadoop, Cloudera 
+Programming Languages:Core Java 
+Scripting Languages: JavaScript, XML, HTML 
+Databases:MySQL, Oracle 11g, MS SQL server 
+Development Tools:Eclipse 
+Platforms:Windows(2007/2008 R2), Ubuntu Linux 
+Application Servers:Apache Tomcat 5.x, 6.x 
+Methodologies:Agile, UML 
+WORK EXPERIENCE: 
+Hadoop Developer 
+CGI - Bangalore, Karnataka - Mar 2014 to present 
+I have been part of two internal POCs for the client Bell Canada 
+Work Force Appointment System: 
+Description: 
+The Work-Force Appointment System (WFAS) is application that maintains an internal set of business rules and capacities that allow it to offer and book appointments that require technical resources. 
+An appointment request coming from an Order Entry system will contain all the parameters for WFAS to determine what resources are required, at what location, and what the available dates and times are to book the appointment. 
+Administration System Support Universal Report Environment: 
+Description: 
+The ASSURE Application, also known as the Network Project Tracking Tool (NPTT), is a Bell Canada Intranet based application affording a high level of near real-time project visibility to a wide range of NICC/provisioning chain customers. ASSURE/NPTT offers enhanced insight to a projects overall status, in addition to detail on jeopardies and dependencies. 
+Responsibilities: 
+Written MapReduce code to process all the sequence files to extract the useful information from web service logs of key functionalities such as (service consumers, request type, skillset id, etc.). 
+Written MapReduce code to process all the sequence files to extract the useful information from log files (like Host name, platform, operating system etc.). 
+Implemented Hive tables and HQL Queries for the reports. 
+Importing and exporting data into HDFS and Hive using Sqoop. 
+Developing the Pig scripts for processing data. 
+Maintained Hadoop clusters for Dev/staging/production. 
+Installed and managed a 4-node Hadoop cluster for a client conducting a Hadoop proof of concept. 
+The cluster had 12 cores and 1 TB of installed storage. 
+Java Developer 
+CGI 
+Bangalore, Karnataka 
+July 2013 to Mar 2014 
+Ordermax: Ordermax can be used to book appointments from WFAS. Bookings can be made through other systems provided if those systems are registered to use WFAS Web service. ABT is used especially Bell business control center analysts to perform check availability, make appointment and cancel appointment functionalities for the respective line of business and skillset associated with the technicians. 
+Environment: Java, JSP, Oracle10g, JDBC, Apache Tomcat 6.0 Roles & Responsibilities: 
+Involved in development of Technician module and Functionality module 
+Wrote SQL queries for database interaction. 
+Involved in designing the UI for various pages using JSP, JavaScript, HTML 
+Developed new enhancements. 
+Managed the existing system and bug fixing. 
+Prepared the installation document. 
+Java Developer 
+Cybertans, Hyderabad 
+Feb 2012 to July 2013 
+Description: 
+Resource Planner is an online tool to manage projects currently running with the company as well as future projects. This tool tracks the employees working for the existing projects and details of new projects like no. of employees required, location, etc. This tool is very useful in estimating revenue, etc. which helps higher management to know the status of the various projects and work force. With this tool HR can estimate the requirement of employees for the new projects and hence can recruit exact number of employees. 
+Roles & Responsibilities: 
+Involved in development of projects module and admin and reporting module 
+Wrote SQL queries for database interaction. 
+Involved in designing the UI for various pages using JSP, JavaScript. 
+Developed new enhancements. 
+Managed the existing system and bug fixing. 
+Environment: Java, JSP, Oracle 10g, JDBC, Apache Tomcat 6.0 
+Educational Qualification: 
+Master of Computer Applications 
+C.V.S.R College of Engineering Hyderabad, Telangana, Affiliated to JNTUH 
+2009 to 2012 
+Bachelor of Science (Mathematics, Statistics, Computer Science) Pragathi Degree College 
+Hyderabad, Telangana, Affiliated to Osmania University 2006 to 2009 

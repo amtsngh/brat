@@ -1,0 +1,65 @@
+Pravinkumar S 
+Mobile: +918971980656 
+Email:ksrctpravin@gmail.com (mailto:ksrctpravin@gmail.com) 
+OBJECTIVE: 
+To be a part of an organization of Hi-tech environment that will help me realize the numerous applications of my theoretical knowledge and to be able to provide my best to the organization in return. 
+STRENGTHS: 
+Sincere and hard working. Ability to deliver excellent results under odd conditions. 
+Quick learner and flexible to adopt challenging environment. 
+Ability to work with minimum/no supervision once trained. 
+EDUCATIONAL QUALIFICATION: 
+Bachelor in Electronics and Communication Engineering, K. S. Rangasamy College Of Technology, Tiruchengode on 2010 with 75% aggregate. 
+12th from Sri Gopal Naidu High School, Coimbatore on 2006 with 84% aggregate. 
+10th from Smt. D. Padmavathy Ammal High School, Coimbatore on 2004 with 93% aggregate. 
+COURSES / CERTIFICATION: 
+ITIL v3 Foundation certified 
+IT skills 
+Windows Server 2012 Administration - Active Directory, Domain, Domain Contoller, GPO, DNS, DHCP, Zones, WINS, DFS , File and Print, IIS, FSMO Roles, LDAP, AD Backup, Domain Trust, Group/Scope, Look Up, Global Catalog. 
+Exchange Server 2010 Administration 
+Server Roles, Mail Gateway, Public Folder, OWA and Power shell scripting Network Administration - SMTP, FTP, HTTP, SSL, TCP/IP Protocols, VPN, LAN, VLAN, WiFi, POP3, IMAP4 protocols, Network Configuration. 
+ITIL Administration - Service Request, Incident Management, Change Management, Problem Management, Capacity management, SLA, OLA, Response Time, Resolution Time and ticketing system HP Service Manager 9. 
+Project Management, Remote Support, Technical troubleshooting and Workflow Planning. 
+Company: IBM India Pvt Ltd 
+Duration: Feb 2015 - Present 
+Job Profile: Senior Operation Professional: Level 2 Support 
+Responsibilities: 
+Use the Incident Management System to document and manage problems and work requests and their respective resolutions and circumvention's. 
+Perform root cause analysis for all incidents 
+Responds to telephone calls, email, instant messages, and assigned tickets from users. 
+Respond to, and diagnose, problems through discussions with users, including problem recognition, logs, research, isolation, resolution, and follow-up steps. 
+Willingness and ability to work in shifts (24 x 7). 
+To standardize the network resources as per the client requirement. 
+Ensure that the customer has the appropriate access to the tools to support the business in an efficient way. 
+Worked on ticketing tool like HP Service Manager. 
+Grant permissions on various network resources available to users. 
+To create and administer various shared resources, e.g. Distribution Lists, Directories, permissions and shared mailboxes. 
+Creation and administration of Global groups. 
+Escalate complex problem to appropriate support specialists 
+Working knowledge of Active Directory sites and service, Group Policy, and DNS/DHCP, shares and permissions Perform development and maintenance of knowledge Base for the User Account Maintenance Processes. 
+Creation, Modification and deletion of user accounts on Mainframe/RACF, Salesforce, Siebel, SM9 and Service Cloud. 
+Company: Thomson Reuters International Services Private Ltd. 
+Duration: Oct 2013- Jan 2015 
+Job Profile: Analyst: Level 2 Support 
+Responsibilities: 
+Creation of New Directories as per the customer guidelines and providing permissions on them. 
+Hands on experience in creating, applying and troubleshooting group policies. Provide support to ensure availability, reliability and redundancy in a 24/7 Microsoft windows enterprise environment. 
+To create and administer LAN accounts and email accounts of the users Setting up servers as per the client standards and granting permissions on them. 
+Route problems to internal 3rd and 4th level IT support staff. 
+Having good communication and troubleshooting skills. 
+Required to identify the root cause of most of the high priority issues. 
+Level-2 Support with user front ending skills. 
+Creation and modification of exchange resources like Distribution Lists, Shared E-mail account, Shared Calendar and Conference Rooms. 
+Working with network shares, printers & user permissions. 
+Works on Service Desk (Incident Tickets) within the SLA. 
+Managing user account across applications running on various platforms like Salesforce, Siebel, Service Cloud, Windows Active Directory etc. 
+Company: Mikrosen Control Devices Pvt Ltd 
+Duration: Jun 2011 
+Jun 2013 
+Job Profile: Graduate Engineer Trainee: Level 1 Support 
+Responsibilities: 
+Provided first call resolution in terms of technical support to resolve internet connectivity issues. 
+Provide end-user technical support for hardware issues on standard equipment, in addition to determining network related issues during troubleshooting. 
+Resolving internet browser Related Issues 
+Provide first level troubleshooting for Installation & un-installation of drivers, modems and USB ports & devices. 
+Signature: 
+Date: 

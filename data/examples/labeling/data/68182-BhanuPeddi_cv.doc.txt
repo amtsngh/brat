@@ -1,0 +1,142 @@
+Resume 
+Bhanu Prasad Peddi 
+Mobile No: 09731420600 
+Mail: bhanu.peddi1@gmail.com Professional Summary 
+8.7 years of experience in software development involved in Implementation and coding using Perl scripting and Shell scripting. 
+Experience in writing Shell Scripts on Unix platform. Experience in writing Perl Scripts on Unix and Windows platforms. 
+Experience in Writing Python scripts. 
+Having work experience on FIX protocol. 
+Having good knowledge in C language on UNIX and Windows platforms. 
+Good Exposure on Java, Oracle. 
+Basic knowledge in Jruby. 
+Ability to learn and implement new industry leading technologies. 
+Proven success during the tenure of past employment. 
+Educational Qualifications 
+B.Tech from JNTUniversity in 2005. 
+Certifications & Trainings 
+ITIL V3.0 
+Work Experience 
+Employer Name Designation Location 
+From To 
+Thomson Reuters Senior Software Engineer Bangalore April 2011 
+Till date 
+HCL Technologies Ltd Senior Software Engineer 
+Bangalore April 2008 
+Mar 2011 
+Collabera Solutions pvt Ltd Quality Engineer 
+Bangalore 
+Sep 2007 
+Mar 2008 Technical Skills 
+Group Software Tools/Technologies 
+Scripting languages Shell, Perl, Python, Selenium, Jruby Operating Systems Unix/Linux (All Flavors), Windows 2003 / NT / XP 
+Protocols 
+TCP/IP, FIX 
+Database Sybase, Oracle 
+PROJECTS SUMMARY 
+Organization Name: Thomson Reuters 
+Key Responsibilities 
+Involved in design and development of the web spiders to capture online legal information. 
+Maintenance and enhancement of the Data capture module for the Legislative content. 
+Project Title: DcLegets Domain: Legal. 
+Role: Development of spiders (web crawler) for grabbing US pre-law information. 
+Technical Details: Perl, SHELL, Python, UNIX, Oracle. 
+Description: 
+The DcLegets(Netscan) project is responsible for grabbing pre-legislative information about the laws to be enforced in 52 states of US. 
+On a day to day basis information is collected about the bills that are discussed in the House and Senate Chambers. 
+The information which grabbed with the help of spiders is sent to the Westlaw with the help of Westfeed pathway. 
+Project Title: LCPR 
+Domain: Legal 
+Role: Development of LCPR(Legislative content pathway) that passes the entire set of information which was crawled by the spiders to the C2012 Application 
+Technical Details: Perl and Shell Scripting, Oracle. 
+Description: 
+The Legislative content pathway is in which the acquired content is sent to the Westlaw. 
+With the help of data capture content about the legislative sessions in the 52 states of the US is grabbed on a day by day. 
+This information is processed and converted into XML documents and sent to the Westlaw and C2012 Applications. 
+Project Title: DC Westgets 
+Domain: Legal 
+Role: Developing Shell scripts for grabbing US, India and Brazil courts bill information 
+Technical Details: Shell and Perl Scripting. 
+Description: 
+DC Westgets project is responsible for grabbing the US court information which comprises of all daily legislative session events. 
+Organization Name: HCL Technologies Ltd 
+Project Title: ETS 
+Domain: Banking 
+Role: Development of shell scripts for connectivity of different clients to exchanges 
+Technical Details : Perl and Shell Scripting, Oracle. 
+Operating System : Linux, Solaris 
+Team Size : 6 
+Client : Deutsche Bank 
+Duration : Feb 2010 
+Mar 2011 
+Organization : HCL 
+Description: 
+The Exchange Link V2 (DB-GES - ABFO & ABD) is a platform for electronic order entry, routing & tracking on global basis. 
+The core system gives users the ability to trade Futures, Options & Equities from single, unified workstation linked many of the world's leading exchanges & simplifies integration through specialized interfaces where necessary and the use of the industry's standard protocol, FIX. 
+The application makes socket connections to the Exchange Link V2 servers for both Routing and Market data. 
+The markets currently connected are NSE, EUREX, LIFFE, SFE, TSE, HKFE, SGX, Globex, eCBoT, Montreal exchange etc AutobahnFO is Deutsche Bank's market leading futures & options trading system which offers customers access to the world's major derivatives exchange combining low levels of latency with unparalleled reliability. 
+AutobahnFO has connectivity to more than 25 exchanges allowing customers to see real-time market data and to trade in all major underlying asset classes 
+Project Title: DBRO 
+Domain: Banking 
+Operating System : Linux, Solaris 
+Scripting Language : Shell, Perl 
+Team Size : 6 
+Client : Deutsche Bank 
+Duration : Feb 2009 
+Feb 2010 
+Organization : HCL 
+Description: 
+DB Risk Office (DBRO) application provides Value at Risk calculated for Qualified Institutional investors, Hedge Funds using prime brokerage services. This application provides Risk and Exposure calculation for different financial instruments like CDS, Futures, Options, Fixed Income, and Mortgages etc. 
+This application draws the correlations and volatilities of over 750 risk factors. Each portfolio holding is represented as one or more of these risk factors using asset valuation models. A Monte Carlo statistical process simulates thousands of possible market conditions and produces a statistical map of the potential profit or loss a portfolio could incur. 
+db RiskOffice is a client server architecture. All financial modeling logic executes on the server and data presentation is handled by the client. There is well-defined data independence between client and server such that the client data model has no knowledge of the server database architecture. This is accomplished using SYBASE stored procedures runs at UNIX servers as a data paradigm between the client and server. This architectural approach contributed greatly to a faster system development cycle. 
+Roles and Responsibilities: 
+Involved in the requirement study, design and development of different enhancements for dbRisk Office application. 
+Involved in Code Review, Integration testing of different enhancements for DBRO application. 
+Involved in creating functional specification and data requirements for modeling and testing of the models developed. 
+Working as Business user interface for risk calculation using Monte Carlo simulation & Exposure calculation. 
+Involved extensively Unit Testing, Integration testing, System testing and Code review for different components developed in the application. 
+Giving demos to the client and getting Sign-Off from them for different requirements of the application. 
+Involved in Production deployment and Release management for the application. 
+Project Title: DB EXOC 
+Domain: Banking 
+Operating System : Solaris, Linux 
+Scripting Language : Shell, Perl 
+Team Size : 10 
+Duration : April 2008- Jan 2010 
+Organization : HCL 
+Description: 
+The FCC (FIX Client Connectivity) is an essential system for equities trading at Deutsche Bank. 
+This system provides infrastructure for transfer of trade orders and execution reports between internal and external clients and Deutsche Banks business units via FIX (Financial Information eXchange); a protocol for sending and receiving data. 
+FCC is responsible for setting up the connections for these clients, maintaining sessions, parsing the FIX messages and routing them to appropriate desks on the trading floor (for example, Program Trading, Cash and DMA). 
+It also routes any responses from the desks to the appropriate clients. 
+The FCC system provides a simple mechanism for application to publish and receive FIX messages and to handle FIX session and network layer issues, allowing technologically incompatible applications to communicate with each other. 
+Clients establish network connections to DB via a network. 
+Internal bank networks route client messages to the FCC system via a network bridge called FixBridge. 
+Once the outside client establishes a connection with FixBridge in Deutsche Banks Demilitarized Zone (DMZ), CompIDs are searched to determine whether the message is from a valid source. 
+Once confirmed, FixBridge sends the messages to the internal FIX engine for processing and routing. 
+The FIX engine maintains electronic connectivity with trading counterparts communicates trading information and monitors data integrity. 
+Roles and Responsibilities: 
+Writing and automating the shell and perl scripts. 
+Bug detection, Bug reporting, Bug Tracking. 
+Session monitoring Code changes as per requirements 
+Testing with clients based on the FIX protocol 
+Organization Name: Collabera Solutions Pvt Ltd 
+Project Title: PUMA-GBS Title : PUMA-GBS 
+Duration : Sep 2007 to March 2008 
+Team Size : 5 
+Role : QA Engineer 
+Client : PUMA 
+Organization : Collabera 
+Description: 
+Puma, a footwear and apparel major, is involved in the design, development, sourcing and marketing of sporting good articles. World Cat Ltd. (WC) is the sourcing arm of Puma and consists of three sourcing organizations called World Cat Europe (WCE), World Cat Far East (WCFE) and World Cat USA. These sourcing organizations have planning, sourcing as two of their key functions among others. They also interact with suppliers, factories and branches to fulfill customer orders for textiles (apparel), footwear and accessories. 
+WC wanted to develop a common web-based system called Global Business System (GBS) with two key objectives. First is to share the fulfillment information between WC and its suppliers & service providers, and second is to provide near real-time view to its customers and management of order information throughout its lifecycle (from inquiry, customer order, purchase Order shipment of goods to Invoicing). 
+Roles and Responsibilities: 
+Writing and automating the Perl scripts. 
+Involved in enhancement of project. 
+Executing the Script and checking the error codes. 
+Skills and Interests: 
+1. 
+Good Communication Skills. 
+2. Ability to work in a team or individually. 
+3. 
+Interested and always willing to append and expand knowledge constantly. 
+1 of 5 

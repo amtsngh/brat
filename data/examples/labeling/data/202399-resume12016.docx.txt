@@ -1,0 +1,48 @@
+ CURRICULUM VITAE SHELLY SOLANKI 
+Email : shelly.solanki98@gmail.com 
+Contact : +917042841571 CAREER OBJECTIVE 
+To associate with a progressive organization that gives me scope to learn and apply my skills that would dynamically work towards the growth of organization. 
+EDUCATIONAL QUALIFICATION 
+Degree Institution Year Percentage 
+B.tech DIT University, Dehradun 2012-2016 
+64.2% (Electronics & Instrumentation) SSC ST. Marx Senior Secondary 2011 
+69.0% School, New Delhi . 
+Board 
+C.B.S.E 
+HSC 
+Christu Jyoti Convent School, 2009 85.0% Baraut. 
+Board I.C.S.E 
+TECHNICAL SKILLS 
+C 
+C++ 
+Java & J2EE 
+Datastructures 
+Embedded systems using AVR technology 
+PLC Scada (worked on Siemens & Allen Bradley PLC) Matlab 
+CAD 
+PROJECTS UNDERTAKEN 
+Major Project : FM transmitter 
+Abstract : 
+The project's goal is to create an FM transmitter, which transmits, a signal or sound to an FM receiver, without the need for cables. 
+This signal is received through a microphone built into the circuit, which, in analyzing the vibration or sound is analyzed and passed through the circuit and such devices, sends the signal to the FM receiver which is capable of detecting signals at low powers. 
+CERTIFICATIONS/SEMINARS 
+2 months certified internship on PLC & SCADA from CMC LIMITED , NOIDA June-July , 2014. 2 months certified internship on JAVA & J2EE from CETPA INFOTECH PVT. LTD. , DEHRADUN 
+July-August , 2014. 
+Participated in seminar on patent law and intellectual property rights. 
+Participated in workshop of robotics. 2 months certified summer training on EMBEDDED SYSTEMS(using AVR technology) from CETPA INFOTECH PVT. LTD. , DEHRADUN June-July , 2015. 
+EXTRACURRICULAR ACTIVITIES 
+Appreciation certificate in the event USP Survivor 2 , October 2014. 
+Provided teaching classes to the underprivileged children that resided in camps. 
+I was part of the event organizing team & were responsible for organizing events across the campus. 
+Got 2nd prize in the group play in Youthopia cultural fest, 2015. 
+ELITMUS SCORE 
+Overall percentile: 85.2 LANGUAGES KNOWN 
+Hindi, English. 
+HOBBIES 
+Drawing , Painting . 
+REFERENCES 
+Dr. Sandeep Sharma Head of Department : Electronics and Communication Engineering DIT, Dehradun 
+Contact No.: +91-9627777245 
+Email Id: hod.ece@dituniversity.edu.in 
+DATE : 
+PLACE : SHELLY SOLANKI 

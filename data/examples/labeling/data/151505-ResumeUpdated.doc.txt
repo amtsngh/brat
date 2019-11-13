@@ -1,0 +1,59 @@
+ IMMADI CHAKRAPANI 
+E-Mail: immadi1989@gmail.com 
+Contact: 09985188050 
+TEAM LEAD 
+Financial Operations 
+PROFILE SUMMARY 
+A focused professional with dynamic career of over 11 years that reflects pioneering experience in Financial Operations and Account Management with year-on-year success in achieving corporate growth objectives in reputed organizations; Skilled in Team Management, Client Relationship Management and MIS reporting & Documentation 
+Enterprising leader with a concrete record of contributions that streamlined operations, invigorated businesses and heightened productivity through effective pricing and excellent client relationship management 
+An initiator with skills in managing & leading teams for running successful process operations & experience of developing procedures and service standards for business excellence with proven aptitude in customer relationship management and planning Proficient in managing end-to-end process from Invoice Entry, Audits, Paid on Time Analysis, Statements Reconciliation, Invoices On-hold & Business Partners Requirements and coordinating in developing & implementing process in line with preset guidelines Pioneer in directing business in new growth areas by motivating people to perform beyond their normal past proven skills with proficiency in prioritizing and completing tasks in a timely manner and flexibility to multitask 
+Possess effective communication, analytical and problem solving skills to work in multi-cultural environment in developing procedures and service standards for commercial excellence 
+ORGANISATIONAL EXPERIENCE Amazon.com, Hyderabad (Dec06 Aug16) Team Lead 
+Key Result Areas: 
+Developing and executing a robust contact, persona management and engagement strategy with technical and business teams to sell services to customers 
+Monitoring the performance of the team by establishing a system of reports and communications through meetings based on achievement and area of improvement so as to reach to the mutually agreed, team and individual goals along with dashboard calls with the top management 
+Coordinating with various branches for smooth execution of their activities & other operational aspects for checking adherence to SLAs, productivity reports, TAT, Accuracy and process related shared mail boxes Developing backup and contingency plans for ensuring smooth process operations and providing subject matter expertise and coordinating with vendors & business teams for detecting failed payments on time 
+Identifying process related ambiguity and risk areas in the process, escalating it to top management for further clarifications and implementing mitigation plans Preparing weekly & monthly reports and sharing the details with Incounty team for weekly calls along with providing feedback & coaching for improving underperformance Motivating, developing, rewarding and recognizing team members in order to meet process deliverables and proactively take steps to ensure that manpower planning is done in advance 
+Highlights: 
+Successfully laid down procedures for different processes and ensured that the established service standards are met 
+Proficiently monitored Oracle application UAT/PVT testing for all the new entities or business acquired by Amazon 
+Dynamically reduced accounts payable invoice rejections from 23% to 12% by identifying root causes and designed a robust process for scanning the invoices Single point of contact for the processes transitioned from In country team (EU/USA) to Hyderabad and validated the SOP and HC estimation before signing off the transition 
+Led a team of 30 plus people (mix of band) intricated in Invoice Processing, Metrics Analysis, Reports Preparation, and Quality Analysis 
+Career pathing, appraisal & grooming of the team. 
+Monthly 1-1 with entire team. 
+Driving simplification & productivity projects across different processes. 
+Proactively take steps to ensure that manpower planning is done in advance and keep attrition with the team. 
+Effective communication with the team members on organization strategy and goals for respective roles and responsibilities. 
+Motivate, develop, reward ad recognize team members in order to meet process deliverables. 
+Provide candid feedback and coaching to improve underperformance 
+PROJECTS 
+Name: 
+Invoice waiting for Approval 
+Description: Invoices should be approved by the business owners for payment. I have noticed around 500K wroth of invoices, which are waiting for approval since 90+ days. In order these to be paid, I have designed an escalation policy at back end of the system, it means if the Business owner did not approve the invoice on time, system will trigger an escalation emails to his/her Manager. This escalation email will go up to director level. By this, all the invoices are now being paid to the vendor on time. By this I was able to save 1000 Man hours 
+Name: Debtors Account Reconciliation 
+Description: We have unclaimed Credit amounts worth $1.3 MM aged since 2006 sitting with Vendor accounts. We are not able to consider (gain) these Credits for various reasons like 
+Vendors are setup with PAY ALONE option, Different sites are considered for Credit and Standard invoices etc. I have identified these invoices and the reason for not taking the Credit from vendor and resolved the issue. In addition, if the vendor is not doing Business with Amazon.com, I have formed a team who can contact them through emails or Call them and request for Check. Through refunds, our team is able to get $350K 
+Name: Productivity Report 
+Description: It has been difficult to update Teams Productivity on different activities that they do in a day. Earlier to the Project that I brought into place, one user should manually calculate the data and send that across the team on Weekly and Monthly basis, which will be used to calculate teams year-end appraisal. I have developed a report from the available tools, which has completely removed the manual efforts that is put on in calculating their Productivity data. By this I was able to save 144 Man hours per year 
+Name: Scanning Invoices 
+Description: We have a Tool where team finds the invoice copies that have to be entered on Oracle. Amazon.com hired a Third party scanning team who will scan the invoices into this tool. We have encountered a situation where scanning team has not scanned couple of invoices, which lead to escalation from one of our Senior VP. In order to avoid this, I have developed an Auto Scanning methodology with support from Technical team showing a savings worth $96K P.A. As of now 25% of the invoices that are being scanned into this tool is done through this Auto scanning 
+PREVIOUS EXPERIENCE ITC Ltd., Hyderabad (Mar05 
+Nov06) Assistant Accounts Payable Analyst 
+Highlights: 
+Successfully maintained branch accounts, did their reconciliation for branches at different location across India 
+Maintained Branch accounts for branches at different location across India. 
+Reconciliation of Bank Accounts at different branches. 
+Maintained Insurance accounts at branches. 
+Accounting for Tax Deduction at Source (TDS). 
+Reconciling freight payments 
+ACADEMIC DETAILS 
+Master of Commerce from Osmania University, Hyderabad in 2004 
+Bachelor of Commerce from Nagarjuna University, Vijayawada in 2002 TECHNICAL SKILLS 
+Operating Systems: Windows XP/7/8 
+Software Packages: MS Office Accounting Packages: Tally 6.3, Wings, Focus, Tata Ex., QuickBooks Premier and Pro 
+ERP Packages: Oracle 11i and R12 
+PERSONAL DETAILS 
+Date of Birth: 28th June 1982 
+Languages Known: English, Hindi and Telugu 
+Mailing Address: 
+Flat No. 302, Plot 6, Bandamkommu, Padmaja Colony, Chandanagar 500050, Hyderabad 

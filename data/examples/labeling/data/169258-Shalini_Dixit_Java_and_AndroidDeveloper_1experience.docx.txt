@@ -1,0 +1,68 @@
+SHALINI DIXIT 
+Govindpuri, New Delhi -110019 
+Email: shalinidxt0@gmail.com 
+Contact: 9599234160 
+Objective: 
+To contribute to the Corporate goals effectively and set a track for corporate & personal growth and utilizing my talents and proven abilities with the organization that seeks a team player with ability, initiative, integrity, dedication and commitment for excellence. 
+Experience: 
+Current Employment: Mobiloitte Technologies Pvt. Ltd., New Delhi 
+Team: 
+Android Designation: 
+Software Developer 
+Role: 
+Android Development 
+Duration: Jan 2015 currently working (1.9 Years) 
+Skills Acquired: 
+Programming Languages: C, Core Java, Advanced Java 
+Databases: 
+Oracle-11g 
+Web Technologies: HTML, CSS, JavaScript, Servlets, JSP, JDBC 
+Operating Systems: Windows (XP/7/8), Ubuntu 
+Environment: Visual Studio 2010, My Eclipse, Android Studio, Frameworks: Android SDK 
+Networking package: CICSO packet tracer 
+Android Skills: 
+In-app Purchase, Google Map, QuickBlox SDK, REST Apis, Bar Code scanner Integration, QR Code scanner, Parse Server, Push Notification Using FCM. 
+Education: 
+Degree/ Course Institute University/Board Year 
+Marks % / CGPA 
+B.Tech (C.S.E) 
+Buddha Institute of Technology 
+U.P.T.U 2012-15 71 
+Diploma Govt. Girls Polytechnic B.T.E.U.P 2011 
+77 X HROM.K.Inter.College U.P.Board 2008 
+65 
+Project Details: 
+Greg Plitt App 
+Role: UI Designing & Functionality Integration. 
+Description: This is a fitness app of famous Fitness Model Greg Plitt. In this application user can see Gregs fitness videos and can create their own workouts using In-app Purchase. 
+Team: 3 members Shingora App 
+Role: UI Designing & Functionality Integration. 
+Description: This is an application for shopping and accessible via Tablets only. 
+Team: 2 members Sibdog App 
+Role: UI Designing & Functionality Integration. 
+Description: This Application is basically for dog searches of different breeds on the basis of pure of mixed breed. It has also map integration for showing real time dogs on the map in terms of their latitude and longitude. 
+Team: 4 members Pegg App 
+Role: UI Designing & Full Functionality Integration. 
+Description: This is a survey application in which user can get benefit by scoring points only by giving some answer to asked questions. They can redeem using those points and can buy exciting gifts. 
+Team: 2 members Training & Workshops: 
+6 weeks summer training Core & Advance JAVA at Naresh i Technologies Hyderabad . 
+Ethical Hacking workshop conducted by -AIESEC IIT Kharagpur. 
+Advance Cyber Security workshop conducted by Career Mint. 
+Attended a seminar on Networking conducted by NNSC. 
+6 Weeks summer training Oracle 11 G at Naresh i Technologies Hyderabad(2014) Awards& Achievements: 
+Participated in NIIT Aptitude test & secured 78%. 
+Worked as Chief Technical Coordinator in the Departmental Society Apache. 
+Winner in Womens Cricket during Annual Sports 2013 at BIT campus. 
+Winner in Womens handball during Annual Sports 2013 at BIT campus. 
+2nd rank in Robo-Track event in Tech-Wizard 2014. 
+Coordinator in Tech-Fest event in Tech-Wizard 2014. 
+Personal Information: 
+Fathers Name: 
+Mr. Jitendra Dixit 
+Date of Birth: 05-07-1993 
+Gender: 
+Female 
+Marital Status: 
+Unmarried 
+Nationality: 
+Indian 

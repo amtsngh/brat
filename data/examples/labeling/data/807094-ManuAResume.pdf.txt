@@ -1,0 +1,132 @@
+MANU.A SOFTWARE PROFESSIONAL - .NET MAAS VILLA, NADAKKAL, KALLUVATHUKKAL,KOLLAM, KERALA, INDIA +91-9895523663 
+manumaas@gmail.com 
+SUMMARY 
+5 + years experience in .Net Application Development. 
+3+ years experience in Software Implementation and User Training. 
+1+ year experience in Automation Support and Data pool creation Proven track record in delivering software systems end to end. Strong skills in Requirement Analysis, Design, Development, Implementation and Sustenance. 
+Good team player with ability to work with different kinds of people. Fast learner and capable of adapting new technologies in solving business problems. 
+WORK HISTORY 
+STANDOUT IT SOLUTIONS PRIVATE LIMITED 
+DEC 2012 - NOW 
+Senior Software Engineer 
+Part of a 12 member team, involved in application development, assigning daily tasks to resources and monitoring them. 
+Understanding client requirements and translating them into suitable solution. Perform code reviews and Code Analysis on a regular basis. Conduct domain and technical sessions to inculcate the culture of learning and sharing. Conducting daily stand-up meeting and participating in all planning meetings (Agile Methodology). 
+SUNTEC BUSINESS SOLUTION PRIVATE LIMITED 
+JUL 2011 - DEC 2012 Software Engineer 
+Automation support, data pool environment set-up for product automation and Web/ Windows application development using Microsoft Dot Net. 
+DEOGRACIA INFOTECH PRIVATE LIMITED 
+NOV 2007 - JUL 2011 Software Engineer 
+Interaction with the client for the requirements, preparing the technical speci@cation and getting approval from client. 
+Solution implementation and Client training on the product. 
+SKILLS ASP.NET C#.NET TEAM MANAGEMENT TFS WEB SERVICE/ WCF JAVA SCRIPT/ JQUERY & BOOTSTRAP ENTITY FRAMEWORK 
+SQL SERVER MVC, WEB API EDUCATION 
+AMRITA SCHOOL OF ENGINEERING, AMRITAPURI, KERALA 
+2002 - 2006 Bachelor of Technology 
+Major in Information Technology 
+N.S.S.H.S.S, CHATHANNOOR, KOLLAM, KERALA 
+Higher Secondary Schooling 
+Science stream with computer science - Kerala H.S.E Syllabus 
+2000 - 2002 N.M.E.M.H.S, KAITHAKUZHY, KOLLAM, KERALA - 2000 
+Secondary Schooling 
+Kerala State Syllabus 
+KEY PROJECTS DETAILS 
+1) Project:Time Entry & Tracking Application 
+Tools Used: ASP.Net , C#, MS SQL Server. 
+Scope:This is a web application which is used by each and every resources in the organization to enter the daily time sheet and monitoring the same. This application consists of Time Entry module, User Management and Role Assigning Module, Time and Note Verification module, Approval module and Report module. This is a role based access application and each module will be available to users based on their roles. 
+Key Deliverables 
+Customer interaction for requirements as well as for support. 
+Involved in all stages of the project requirements, design, coding and deployment. 
+Monitoring the progress and support colleagues during development issues and bug fixes. 
+Conduct peer-to- peer code reviews. 
+2) Project:Data Load File Tracking Application 
+Tools Used: ASP.Net , C#, MS SQL Server. 
+Scope:This is a web application is used to upload file that contains data which are related to Class Actions. This application is mainly used by brokers, data vendors associated with Class Actions. This application consists of File Upload module, Project 
+Management module, Status update module, Data load module and Report module. Each module is accessible based on user role. 
+Key Deliverables 
+Customer interaction for requirements as well as for support. 
+Involved in all stages of the project requirements, design, coding and deployment. 
+Monitoring the progress and support colleagues during development issues and bug fixes. 
+Conduct peer-to- peer code reviews. 
+3) Project:Invoice Generation Application 
+Tools Used: C# 
+Scope:This is a windows application used to generate the invoice to client based on the total time worked by individual resources in a format specified by the client. The total billing is calculated based on this time and the rate configured against each resources and produce a spreadsheet as the output. There are different options to generate report based on Individual resource, Project wise report, Monthly report, Yearly report and Custom report. 
+Key Deliverables 
+Customer interaction for requirements as well as for support. 
+Involved in all stages of the project requirements, design, coding and deployment. 
+Monitoring the progress and support colleagues during development issues and bug fixes. 
+Conduct peer-to- peer code reviews. 
+4) Project:CALC Report Application 
+Tools Used: ASP.Net , C#, MS SQL Server. 
+Scope:This is a web application is used to view the report generated in spreadsheet format by the reporting service module. 
+The report will be generated and placed over a network drive and the application will display the reports based on project and different report type. 
+Key Deliverables 
+Customer interaction for requirements as well as for support. 
+Involved in all stages of the project requirements, design, coding and deployment. 
+Monitoring the progress and support colleagues during development issues and bug fixes. 
+Conduct peer-to- peer code reviews. 
+5) Project: Claim Filing Portals 
+Tools Used: ASP.Net , C#, MS SQL Server. 
+Scope: Claim Filing Portals are small web projects for particular customer involved in class action settlement cases. 
+Each portal will be customized according to customer requirements. The portal helps the users in submitting their claims online to the claim administration company. 
+Key Deliverables 
+Customer interaction for requirements as well as for support. 
+Involved in all stages of the project requirements, design, coding and deployment. 
+Monitoring the progress and support colleagues during development issues and bug fixes. 
+Conduct peer-to- peer code reviews. 
+6) Project: ERP 
+Tools Used: C#, MS SQL Server , ESSL Device 
+Key Deliverables 
+Involved in requirement collection and development. 
+Mentoring colleagues during development issues. 
+Involved in peer-to- peer code reviews. 
+Preparing Technical Specification Document and Use Case Table based on Functional Specification. 
+Preparing Release documents and Release Packages. 
+7) Project: Microbes Bug Tracking Tool and Test Suite Application 
+Tools Used: C# , ASP.Net, Ajax Controls, MS SQL Server. 
+Scope: 
+Key Deliverables 
+Involved in Developing Business component for Three Tier Architecture. 
+Involved in programming and coding of the application. 
+Designing and developing user interfaces for web-based applications. 
+Involved in Developing required SQL Queries and Stored Procedures. 
+Involved in Maintenance activities (Production Issues) and Life Cycle Enhancements. Creating and Monitoring Daily Scheduling of application and report generation. 
+8) Project: Data pool Creation and Configuration for Test Automation. 
+Tools Used: SQL Server 
+Key Deliverables 
+Involved in programming and coding for web-based applications. 
+Designing and developing Use Case Tables and User Interfaces for web-based applications. 9) Project: AnGela ERP 
+Tools Used: VB.net, ASP.Net , MS SQL Server, Fusion Charts Controls. 
+Key Deliverables 
+Involved in programming and coding for web-based applications. 
+Designing and developing user interfaces for web-based applications. 
+Involved in testing and deployment. 
+10) Project: CMS for DeoGracia Foundation 
+Tools Used: VB.net, ASP.Net, MS SQL Server, Fusion Charts Controls. 
+Key Deliverables 
+Involved in programming and coding for web-based applications. 
+Designing and developing user interfaces for web-based applications. 
+Involved in testing and deployment. 
+11) Project: Empowering India- Election Analysis Software 
+Tools Used: C#,VB.net, ASP.Net, MS SQL Server , Fusion Charts Controls. 
+Key Deliverables 
+Involved in programming and coding for web-based applications. 
+Designing and developing user interfaces for web-based applications. 
+Involved in testing and deployment. 
+12) Project: Indefence of Liberty CMS 
+Tools Used: VB.net, ASP.Net, MS SQL Server, Fusion Charts Controls. 
+Key Deliverables 
+Involved in programming and coding for web-based applications. 
+Designing and developing user interfaces for web-based applications. 
+Involved in testing and deployment. 
+13) Project: Rental Management System 
+Tools Used: C#, ASP.Net, MS SQL Server. 
+Key Deliverables 
+Involved in programming and coding for web-based applications. 
+Designing and developing user interfaces for web-based applications. 
+Involved in testing and deployment. 
+14) Project: Stock Management and Billing System 
+Tools Used: C#, MS SQL Server . 
+Key Deliverables 
+Involved in programming and coding for web-based applications. 
+Designing and developing user interfaces for web-based applications. 
+Involved in testing and deployment. 

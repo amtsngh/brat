@@ -1,0 +1,38 @@
+Spurthi S #48,1st cross, Pattegarapalya, Bengaluru - 560079 
+Mob: 9535031042 | E-mail: spurthi1993.ss@gmail.com 
+OBJECTIVE 
+To obtain a role of Test Automation Engineer in an organization that provides a challenging and rewarding career ensuring a high-level job satisfaction. Wish to achieve high career growth through a continuous learning process and prove to be an asset for my organization. 
+PROFESSIONAL SUMMARY 
+Experienced Automation Test Engineer with a stellar record of corporate client satisfaction. 
+Proven achievement in bringing projects to completion ahead of schedule and under budget. 
+Sound knowledge of quality assurance procedures and developing automation scripts for testing web based applications. 
+Worked with an U.S based client in BFSI domain. 
+EXPERIENCE 
+Project Engineer 
+Wipro, Bangalore 
+Aug 2015 Present 
+Developed and maintained automated test suites for web based applications using Selenium and Watir Webdriver with Behavior Driven Development (BDD) framework. 
+Implemented BDD using an open source tool, Cucumber. 
+Demonstrated Experience in creating Automation scripts using Ruby and Java. 
+Well versed with handling elements using PageObject concept by use of specific gems. 
+Expertise in Test planning and understanding the Test requirements, achieved maximum application coverage with efficient test case designing. 
+Ensured there are no defect slippages from the tests executed to the production. 
+Good Experience in application lifecycle management tool s such as HP QC. 
+Good Experience in logging and tracking bugs using Microsoft TFS and Atlassian JIRA. 
+Delivered DSR s, WSR s, MSR s, Test execution report and relevant dashboard updates in Test management repository. 
+Experience of having worked in an Agile Environment. 
+Experience of developing scripts in TestNG framework. 
+Excellent communication, written, interpersonal skills, proven team player with an analytical mind bent to problem solving and delivering solutions. EDUCATION 
+Bachelor of Engineering (B.E) 
+JSS Academy of Technical Education, Bengaluru 2011 2015 Pursued B.E in Computer Science with an Aggregate of 72.39% SKILLS 
+Programming Languages: C, Java and Ruby. 
+Database: MYSQL. 
+Automated Testing Tools: Selenium, Watir and Cucumber. 
+Automation Framework: BDD and TestNG. 
+Operating System: Windows 8.1, Windows 7, Ubuntu. 
+Software: RubyMine, Eclipse IDE, MS Word, MS Excel, MS PowerPoint. 
+Web Technologies: HTML, CSS and JavaScript. 
+DECLARATION 
+I hereby certify that above mentioned particulars are correct to the best of my knowledge and belief. 
+Date: 
+Place: Bengaluru [SPURTHI S] 

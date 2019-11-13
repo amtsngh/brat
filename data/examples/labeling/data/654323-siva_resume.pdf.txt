@@ -1,0 +1,100 @@
+SivaSankar Karuprolu 
+Sr. Android Developer sivasankar.jntu@gmail.com +91-9505991976 
+Senior IT professional having over 7+ years of experience. Extensive exposure across a gamut of aspects including Application Development, Project Management, SDLC and techno-commercial areas. 
+Enterprise mobility expert with years of continuous experience in the Mobile Application 
+Development industry (Especially Android Application Development) and all its vertical applications. 
+Adept in analyzing information system needs, evaluating end-user requirements, custom designing solutions, troubleshooting for complex information systems management. 
+Experienced in working with clients, business managers and technical teams for executing concurrent projects. 
+Proficiency in technical design, architectures, development and troubleshooting for Mobile Application Development (using via, Java, Android 
+Applications, etc.) 
+Published 6 Android apps in google play store. 
+Experience 
+Sr.Software Engineer 
+Hitah Systems & Solutions Pvt ltd. 
+April, 2015 - Current 
+Currently dealing with my team as product manager successfully from past one year. 
+Handling various technical aspects like coding of modules using the given design specifications, debugging and fixing the defects as well as analysing its root cause. 
+Ensuring that business requirements and functional specifications for the module coded by me are tested and fulfilled before the code is delivered for integration Coordinating with team members for system design, integration, application maintenance, etc. 
+Cooperating with other teams across the organisation for efficient work progress. 
+Following the best practices for project support and documentation as set by the peers. 
+Understanding & mapping client s requirements / enhancements to the product, implementing solutions that effectively resolve problems or provide improvement. 
+Software Engineer 
+Hitah Systems & Solutions Pvt ltd. 
+October, 2012 - March, 2015 Conceptualized, designed, developed and deployed mobile applications. 
+Ensuring that business requirements and functional specifications for the module coded by me are tested and fulfilled before the code is delivered for integration. 
+Coordinating with team members for system design, integration, application maintenance, etc. 
+Cooperating with other teams across the organization for efficient work progress. Following the best practices for project support and documentation as set by the peers. 
+Understanding & mapping client s requirements / enhancements to the product, implementing solutions that effectively resolve problems. 
+Intern 
+Loment Inc. 
+September, 2011 - September, 2012 Designed and Implemented Secure Enhanced Mobile Banking System. 
+Implemented Server software to provide banking services like Cash-In, Cash-Out, Account 
+Balance, Activity Statement, Bill Payments, Balance Transfers, Order Checks etc. 
+Implemented mobile application to connect with server and do such operation like creating account, adding account, amount transfer, account balance, activity statement and bill payment etc. 
+Java Developer 
+Muse Soft Solutions 
+August, 2009 - December, 2010 Involved in Software designing and development process. 
+Designed User interface Screens using HTML, CSS and JavaScript 
+Created static HTML pages with the Dream Weaver and tweaked the images with the Gimp. 
+Designed and created database and performed CRUD operations. 
+Handled documentation section and used UML (Unified Modeling Language) for design. 
+Designed and developed projects using object oriented concepts. 
+Education 
+Master of Science in Engineering 
+Jawaharlal Nehru Technological University, Kakinada 
+August, 2010 - October, 2012 GPA: 70.6 Bachelor of Computer Science and Engineering 
+Jawaharlal Nehru Technological University, Kakinada 
+July, 2005 - August, 2009 
+GPA: 60.0 Skills 
+Technical Skills 
+Operating Systems - Windows, Ubuntu and Mac 
+Programming Languages C, Java, Kotlin and Swift. 
+Mobile Technologies - Android, J2ME, LWUIT, PhoneGap and iOS Parsing Techniques - JSON and XML 
+Databases Oracle, SQLite Tools Eclipse, Android Studio, XCode and Netbeans 
+Office Packages - MS-Office, Libre Office Web Technologies - HTML, JavaScript, XML, CSS, Servlets and JSP 
+Version control systems GIT,SVN and Github 
+Project Management tools - Redmine, Slack, JIRA and Asana 
+Build tools - Ant, Gradle and Maven 
+Continues Integration - Jenkins 
+Projects 
+Cashew SDK for Android 
+https://github.com/Loment/sdk-cashew-android February, 2016 - In Progress 
+Integrating Cashew s secure messaging functionality into an application is an easy process. 
+Cashew Secure Messenger https://play.google.com/store/apps/details?id=com.loment.cashew December, 2013 - In Progress 
+Cashew is an internet based cross-platform messaging application that works across computer, tablet and mobile devices. Among mobile messaging applications, Cashew may be classified under OTT or over-the-top messaging service, provided directly by Loment as a third party service provider and does not require additional support from a mobile operator.Computer and Tablet devices that do not have a mobile number and connect to the Internet via personal, corporate or public Wi-Fi networks can also take advantage of Cashew service.A user may wish to install the application with the same User ID can continue using the service seamlessly from multiple devices. 
+SivaWedsSatya https://play.google.com/store/apps/details?id=com.siva.sivawedssatya 
+March, 2016 - April, 2016 
+Siva weds Satya is a Wedding App, which invites the Guests and provides all the details of the wedding from Groom and Bride sides both. 
+Residency App 
+May, 2016 - July, 2016 
+This Application is created to manage the residency program in simple and easy way. This is mainly used by resident doctors. The App consist of Four Major modules like Case Collection, Secure Messaging, Appointment Scheduler and Resources. In Case Collection a Resident doctor will record the cases he attended, Add / Edit the Photos and Notes for that case. Case Log can be created which are submitted to ACGME for submission.&nbsp;Using Secure Messaging Resident can communicate with other members of the program through an in app encrypted messaging services. They can share Text messages , Audio notes, images, Videos etc.&nbsp;Appointment 
+Scheduler contains both items related to that program which will be common to all and also appointments for that specific Resident / Attending Doctor. 
+Symplast https://play.google.com/store/apps/details?id=com.skusuma.activity 
+October, 2015 - December, 2016 
+Symplast is the first complete medical software solution designed for plastic surgeons and med spas that is 100% mobile. Featuring an intuitive, easy-to-use interface designed by a group of plastic surgeons, Symplast increases the efficiency, revenue and patient engagement of a practice. Utilizing patent pending mobile architecture, Symplast is a true cloud-based ecosystem with 3 layers of security, so your entire office can work together seamlessly in real-time.Featuring a robust ecosystem that is tailor-made for the plastic surgery and med spa industry, Symplast features modules for EHR, Practice Management, Marketing, Inventory Management, Multimedia, Patient Engagement and more.The Symplast app allows doctors to run their entire practice from their Android smartphone or tablet. It also revolutionizes the doctor/patient relationship through smart technology and multimedia communication. 
+Compare Munafa 
+https://play.google.com/store/apps/details? 
+id=comparemunafa.comparemunafa.com 
+August, 2015 - October, 2015 Compare Munafa is a Price Comparison App, which provides you price list of your product across different stores like Flipkart, Amazon, Paytm, Snapdeal and etc.And if you shop with Compare 
+Munafa then there are also multiple offers and deals for you, as you can earn Munafa Point which should be redeem to your account. 
+Walnut Secure Email https://play.google.com/store/apps/details?id=com.loment May, 2013 - June, 2014 Walnut Secure Email is P2P, person to person or end to end secure mail application that protects all of end-user existing accounts, including Gmail, Yahoo Mail, Microsoft Hotmail, live.com, Outlook and hosted addresses, and corporate mail. It supports servers that works on IMAP/ SMTP protocol.Walnut offers encrypted email that is both inexpensive and easy to use and does not require a hosted network server.Walnut offers many patent pending, proprietary and useful extension features that benefit the end-user such as Priority, Restricted Messages, Auto 
+Expiration, Acknowledgments, among others.Walnut allows multiple email accounts to be configured using single interface,Messages are encrypted using AES 256 which is generally secure for Government and Business Applications. 
+Peanut Secure SMS https://play.google.com/store/apps/details?id=com.loment.peanut.mobile 
+November, 2012 - May, 2013 
+Peanut is a Secure SMS Application providing privacy and security for the SMS. 
+Peanut&nbsp;uses encryption and decryption to ensure P2P or person-to-person message security. This application is useful for or personal as well as business needs. Peanut&nbsp;can be used in conjunction with native SMS application or as the exclusive choice for SMS messages. 
+Peanut offers protection of data at rest, protection of data in transit, protection of data in use, protection of data transfer to a file, protection of data transfer to a device, protection of data transfer between devices, remote wipe-out, backup and restore features to facilitate ease of use, convenience and compliance to users who need this service. 
+Care Stamps 
+July, 2012 - September, 2012 
+CareStamps creates gift labels, gift tags, and gift card holders for holidays (Christmas, Valentine s Day, Mother's Day, Father's Day, etc) and special occasions such as birthdays. Each tag/label is themed for the occasion and has a unique QR code embedded in the tag.The gifter scans the tag with a mobile app and creates a personal greeting; e.g. eCard. The personal greeting may be fun,humorous or sentimental such as a slide show or video. The gifter places the CareStamp label on the gift or puts a CareStamp card in the gift card holder along with the gift card. The person receiving the gift scans the tag and views the personal greeting. 
+Mobile Banking System 
+September, 2011 - September, 2012 
+This is a Secure Enhanced Mobile Banking System, which consists of Cash-In, Cash-Out, Account 
+Balance, Activity Statement, Bill Payments, Balance Transfers, Order Checks etc. Mobile application is used for do such transactions in a secure way. 
+KMC- Work Monitoring System 
+March, 2011 - August, 2011 
+Kakinada Municipal Corporation- Work Monitoring System has been implemented to monitor the tenders and the daily ongoing work being done, to track the activities pending, completed and in progress. Also, intimation in the form of E-mail and SMS will be sent to the higher level Officers. Based on the work tracking, the next level of budget will be allocated to the areas in which work was not started/partially started. 
+Jana Mythri - A.P Police Department East Godavari Dist 
+October, 2009 - December, 2010 Jana Mythri software was developed for AP police Department East Godavari Dist.In order to bring down the gap between police &amp; people and improve the police public interference Jana mythri project was developed. Every village including hamlets in the police station limits was adopted and covered in this project. All information related to villages(viz. Thefts done, criminals record, details of village heads and local leaders, all information related to different professions existing in village) are recorded in database.&nbsp;Thus,this software is used for&nbsp;quick reference of all updated information in the villages and good interaction of police with people in personnel. 
+JNTU Kakinada Website http://jntuk.edu.in/oldwebsite/ November, 2008 - May, 2009 
+JNTU Kakinada Website is to maintain the Constituent and Affiliated Colleges information like college phone numbers, email addresses etc.Examination portal for maintaining student marks database and used to display examination notifications, time tables and results. 

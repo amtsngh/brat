@@ -1,0 +1,99 @@
+ KARTHIKA TV 
+karthikaarun07@gmail.com (mailto:karthikaarun07@gmail.com) +91 7829117117 OBJECTIVES 
+To achieve a challenging position in Software Testing and Quality Management in a company, where acquired skills will be utilized towards continued growth and advancement. 
+PROFESSIONAL SUMMARY: 
+A dynamic professional with around 4 Years of experience in Manual & Automation (Selenium) software testing. 
+Around 4 years of experience in Manual Testing and 6 months of experience in Selenium. 
+Adept in testing software products and handling projects efficiently for delivering the required applications in a very systematic way. 
+Hands on experience in Manual Testing & Automation Testing and various testing techniques like User Functionality Testing, Regression Testing 
+Proficiency in designing and developing of Automation Framework, Business Scripts and Generic Functions. 
+Excellent communication & interpersonal skills with proven abilities in resolving complex software issues. 
+Manual Testing 
+Good understanding of Software Development Life Cycle (SDLC) and Software Test Life Cycle (STLC). 
+Good experience in handling onsite clients and reproducing Client Issues. 
+Excellent team player and team lead. 
+Extensive Experience in writing and executing Test Cases. 
+Good knowledge of Functional testing, Integration testing, System testing, Sanity testing, Smoke testing and Regression testing. 
+Experience in testing the performance of instance using HTTP Watch. 
+Working Experience in V & V Model. 
+Experience in tracking defects using Bugzilla defect tracking tool. 
+Proficiency in documenting Test documents like Daily Execution Report, Test Summary Report, Load Health Matrix using MS Office tools- Word, Excel. Attended project status meetings, and test case review meetings Ability to work as independent and team member in challenging environment. 
+Hard working, approachable, penchant for grasping new technologies. Team spirited individual with excellent communication and presentation skills. 
+Working Experience of taking Application and Database backup in a regular basis for QA and UAT (hosted) instances. 
+Good Working Experience in setting up of instance (QA, UAT & Production) using Application and Database dumps by creating Schema and Tablespaces. 
+Working Experience on test management tool TEST LINK. 
+Automation Testing 
+Good working Experience with WebDriver. 
+Experience in preparation of test data, writing script using java Programming for Automation. 
+Experience in usage of locators 
+Handled Dynamic Objects using Xpath expressions. 
+Good Knowledge in 
+Architecture of webdriver,Automation framework design and implementation Converted Manual Test Case in to Automation Test Scripts 
+Experience in using excel and User Defined Methods. 
+PROFESSIONAL EXPERIENCE 
+Currently working with MetricStream Infotech Pvt,LTD 
+Bangalore as a Quality Analyst form July 2012 to till date 
+EDUCATIONAL QUALIFICATION 
+Qualification 
+Passing Year Aggregate % 
+BTech 2011 
+72 
+Senior Secondary Education (12th) 2007 88 SSLC(10th) 2005 
+92 SKILLS 
+Operating Systems: Window, Linux 
+Bug Tracking Tool: Bugzilla 
+Test Automation Tool: Selenium 
+Language: HTML, Java, Basic SQL 
+Browser: Internet Explorer, Firefox, Chrome 
+Achievements 
+ISTQB Certified 
+QA 
+Achievement Award for best quality implementation on multiple projects Was part of many project releases to client Production. 
+Project Details 
+Project #1: 
+Client : Kaiser Permanente 
+Duration : Jan 2015 till present Team Size : 5 
+Role 
+: Quality Assurance Engineer 
+Modules : CCM and CIM 
+Project Description: 
+Kaiser Permanente is one of the biggest Pharmacy firm in USA. This particular project is designed for Online Management of all the Compliance related cases logged in the company. The workflow and system design is handled through the Metricstream Enterprise Compliance Platform. The Cases can be entered manually in the system. 
+Roles and Responsibilities: 
+Participation in test design and creating test documents with the development team. 
+Regular interactions with client to get functional queries resolved and understand the functionality properly. 
+Involved in sanity test case automation using selenium WebDriver Types of Testing done: 
+1. 
+Functional Testing 
+2. 
+Non-Functional Testing 
+3. 
+Regression testing Identified Test case for automation Developed Generic and Project Specific Methods 
+Converted Test case to scripts using TestNG framework 
+Involved in executing, analyzing and publishing the result Project #2: 
+Client : Froedtert Health 
+Duration 
+: DEC 2014 to June 2015 Team Size : 2 
+Role 
+: Quality Assurance Engineer 
+Modules : 
+Intake and Issue management Description:- 
+The Froedtert & the Medical College of Wisconsin regional health care network consists of Froedtert Hospital, Milwaukee; Community MemorialHospital, Menomonee Falls; St. Joseph's Hospital, West Bend; and more than 30 primary and specialty care health centers and clinics. Froedtert Health has chosen Metric Stream for the implementation of Audits, Risk Management, Compliance and Issue management Solutions. This document describes the functional specification for Audits, Risk Management and Issue management Solution at Froedtert Health. 
+Roles and Responsibilities: 
+Responsible for Test Case design, execution and updating results in testlink Performed test cases on all the test environments (QA, Staging, SIT and UAT) 
+Member of Release Management team and responsible for releasing builds to Clients 
+Setting up QA instances using SVN, Oracle and Apache/Tomcat 
+Knowledge on ISM and Intake modules 
+Involved in Bug triage meetings with UAT team Project #3: 
+Client : ERT 
+Duration : OCT 2012 to Dec 2014 Team Size : 3 
+Role 
+: Quality Assurance Engineer 
+Modules 
+: Audits and Issue management Description:- 
+ERT based out of Philadelphia, PA, delivers the most widely deployed solutions in centralized cardiac safety, respiratory service, suicidal risk assessment, and Clinical Outcome Assessments (COA) which includes patient, clinician, and observer reported outcomes. They provide unparalleled scientific and regulatory leadership to biopharmaceutical, Contract Research Organizations (CROs) and medical device companies around the globe. ERT provides solutions and services for the collection of high-quality patient safety and efficacy endpoint data critical to the approval, labeling, and reimbursement of pharmaceutical products. ERT is the acknowledged industry leader, providing proven scientific and regulatory leadership across centralized cardiac safety, respiratory efficacy services and clinical outcome assessments. 
+Roles and Responsibilities:- 
+Installation of QA, UAT and Production instances on Window boxes. 
+Understanding and analyzing the business requirements. 
+Writing Test Scenario, Test Cases and other Test Document like Traceability matrix etc. Execution of Test Cases. 
+Logging and tracking defects through Bugzilla. 
+Attending Client call and Daily Status call for project tracking and reproducing Client Issues. 

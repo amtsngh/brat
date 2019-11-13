@@ -1,0 +1,113 @@
+ Classification: Birlasoft Internal 
+Gajendra Kumar Garg gajendra.garg@gmail.com Mobile-+91-9560766499 
+PROFILE SUMMARY 
+More than Nine years of total IT experience in multiple domains and technologies. 
+Proficient in Project Management including client management, People management, Project Planning, Project Reviews, Quality and deliverables to the Client and helps to create project plan and provide input in scoping and resource planning in project. 
+Hands on experience in web development & support using J2EE technologies Struts, Casper, JSP, Servlets, Jboss, Tomcat and Oracle AS server with PL/SQL as query language on Oracle database. 
+Experience in end to end implementations of Java application for implementing Financials and Manufacturing. 
+Hands on experience in data warehousing ETL tools like Informatica 8.x, 9.x (Designer, Workflow Manager, Workflow Monitor), including good knowledge of dimensional modeling. 
+Worked closely with Users, Developers and Administrators to resolve ongoing Production Problems by reviewing design changes made to production systems and made corresponding changes to Web Applications. 
+Strong Experience in identifying, analyzing and translating business requirements and rules into intuitive analytical solutions, business scorecards and management dashboards. 
+Exhibited excellent interpersonal, leadership & Client Management Skills and the ability to interact professionally with a diverse group, executives, managers and subject matter experts. 
+Experience using Oracle Business Intelligence Enterprise Edition 11g. 
+Experience in in design and development of Oracle BI Metadata Repository (.rpd) using OBIEE Server Admin Tool Repository at all the three layers (Physical Layer, Business Model and Mapping Layer & Presentation Layer). 
+Interaction with the Users and Business Analysts for better understanding of the business requirements and Client needs. 
+Hands on experience in implementing Data warehousing methodologies including STAR SCHEMAS and SNOW-FLAKE SCHEMAS, Design and implementation of SCD1 and SCD2 Dimensions, Transactional, Snapshot and Accumulating Fact Tables for huge data warehouses. 
+Strong knowledge in SDLC implementation of various Web bases Java Business applications and Data Warehouse/Data Marts, including gathering business requirements, proof of concept, GAP analysis, development and implementation. 
+Flexible and versatile to adapt to any new environment with a strong desire to keep pace with latest technologies. 
+Prepared High Level & Low Level Design Documents and Functional Specifications. 
+Worked with different kinds of opportunities/RFP projects. 
+Ability to be creative and take self-initiatives and execute/ manage multiple projects in parallel during critical situations. 
+PROFESSIONAL EXPERIENCE 
+Birlasoft India Ltd Noida as Solutions Architect (Oct 2008 till date) 
+FCS Software Solutions Ltd, Noida as Software Engineer (Feb 2008 
+Oct-2008) 
+Path Infotech Ltd, Noida as Programmer (Oct 2006 
+Feb 2008) 
+ONSITE EXPERIENCE& VISA 
+Requirement gathering, work delegation, UAT and support for multiple projects at various locations in USA. 
+Managed Birlasoft relationship with the client, at onsite including work delegation, requirement understanding, and Client co-ordination. 
+Worked closely with the offshore team to manage deliveries to the client. 
+Worked closely with external teams to support the financial application invoicing more than $10 billion every year. 
+Classification: Birlasoft Internal 
+SKILL SET 
+BI Tools: OBIEE11g, BI Publisher11g, Spotfire, Tableau 
+ETL Tools: Informatica Power Center 9.x/8.x 
+Languages: C, C++,Java, JSP, HTML, PL/SQL, JavaScript, Ajax, CSS 
+Sun Micro System : Java, Servlet, JDBC, JSP, JSTL 
+Framework: Jakarta Struts 1.0/1.2, Hibernate 3.0, Casper 
+Databases: Oracle 11g/10g/9i/8i 
+Methodologies : SDLC, ITIL processes and Agile 
+Configuration Mgmt.: Visual Source Safe, CVS, CMDB Others Tools used : Toad, PLSQL Developer, SQL Developer, Oracle JDeveloper 10g, Symantec PCAnywhere, Apache Tomcat 4x/5x, Jboss 4x/5x, SQDB, MyEclipse, WinSCP, Putty, HPSD, Service-Now, Support Central 
+PROFESSIONAL SUMMARY Birlasoft India Ltd Noida as Solutions Architect (Oct 2008 till date) Responsibilities & Achievements: 
+Worked closely with Users, Developers and Administrators to resolve ongoing Production Problems by reviewing design changes made to production systems and made corresponding changes to Web applications/OBIEE Repository. 
+Designing low level design of the application and participating with the manager in designing the high level design of the application. 
+Provided Functional and ETL Support to financial web based application invoicing more than $10 billion every year. 
+Managing/Mentoring offshore & onsite Development/Support team and other ETL Integration teams as Offshore Manager. 
+Application Support - Single point technical support contact for application users for any technical issues/resolution and planning releases 
+Analysis of the specifications provided by the client, Technical Design and Development of business Modules and Change analysis and Impact analysis, Enhancement, Coding, Debugging, troubleshooting and Unit testing. 
+Created and maintaining the configuration management in CVS for web Application for production, staging and development environments. 
+Maintaining more than 40 Informatica & 15 Java batch Jobs for financial application with 20 External Interfaces using Informatica. 
+Involved in monitoring and supporting all these jobs on daily, monthly & quarterly basis which Import data to Web application from external Interfaces and exports data to external Interfaces Preparing and maintaining Sox documents, Audits, Sox Controls testing, Quarterly Account active & HPA accounts reviews, Access management, Quality process and Design documents. 
+Scheduled Workflows using Workflow Manager. 
+Involved in analysis, estimating, design, coding, debugging, unit testing, Peer review of the code and deployment of Web application using Java, J2EE, JSP, Servlets. Casper and Hibernate 2.1 on Jboss 4x/5x. 
+Responsible for team management, work tracking, work assignment, status monitoring and requirement gathering from Client. 
+Responsible for monthly project updates to account manager, Quality documentation like DnQ, Defect Matrix, Project baseline sheet, Rolling plan, backup plan, Risk registers. 
+Responsible for promoting all changes to Production environment Assembled subject areas and created execution plan and accommodated the new Informatica mappings. 
+Participate and discuss with business and decided the workflow of application. 
+Accountable to provide effort, plan, Daily and weekly project updated to business user & technical client manager. 
+Analyze scope of work and provide Changes request effort plan. 
+Classification: Birlasoft Internal 
+Involved in code review of the peers and junior members of the team. 
+Prepare Minute of meeting and share with client and Team. 
+Ensuring the Quality of delivery. 
+Worked on RFP & proposals as a delivery spoc and worked on solutions and costing of project. 
+Work on different kinds of new Proposals and provide SME inputs, attending the Proposals meeting and clarify the query. 
+Got Birlasoft employee of the month 3 times and team of the quarter. 
+Got Client appreciation and awarded two times with $ amounts. 
+Helped organization is increasing revenue of account $350K. Got project without bidding from client on face value. 
+Worked extensively with Physical Layer, Business Layer and Presentation Layer. 
+Created numerous executive level reports. 'Dashboards' were generated to provide insight into the financial data. 
+Designed Schema/Diagrams using Fact, Dimensions, Physical, Logical, Alias and Extension tables. 
+Created different types of Customized Reports Drilldown, Aggregation to meet client requirements. 
+Built Business model and established relationships & Foreign Keys Physical & Logical between tables. 
+Created business reports using BI Answers as per requirements. 
+Generated various Analytics Reports using global and local filters. 
+Identified the aggregate levels for each source and created dimension sources for each level of aggregates. 
+Added users and configured security in web logic console of OBIEE 11g. Managed security privileges for each subject area and dashboards according to user requirements 
+Trained End Users and Pilot Users about OBIEE Tools. 
+FCS Software Solutions Ltd. Noida as Software Engineer (Feb 2008 
+Oct 2008) 
+Responsibilities & Achievements: 
+Accountable for Development and enhancement of ERP-Order management module in Java for Canon Partners (PMP). 
+Involved in analysis, estimating, design, coding, debugging, unit testing, Peer review of the code and deployment of Web application using Java, J2EE, JSP, Servlets, Struts 1.2 and EJB 2.0 on Oracle 10g AS server. 
+Improved query performance & time on database by creating views, procedures and indexing the tables. 
+Improved Project response time by using Ajax on order management module. 
+Responsible for promoting all changes to Production environment. 
+Worked on enhancements and development of daily database stored procedures/User defined functions, Triggers using Oracle 
+PL/SQL, to fetch/ update data in ERP & developed Java based web application. 
+Scheduled Oracle stored procedures using Oracle Jobs. 
+Responsible for team management, work tracking and requirement gathering from Client. 
+Designing low level design of the application and participating with the manager in designing the high level design of the application. 
+Accountable to provide effort and plan to business user. 
+Analyze scope of work and provide Changes request effort plan. 
+Prepare Minute of meeting and share with client and Team. 
+Provide Technical support more than one project. 
+Ensuring the Quality of delivery. 
+Work on different kinds of new Proposals and provide SME inputs, attending the Proposals meeting and clarify the query. 
+Prepare TAD and requirement understating document. 
+Responsible current status to the Business owners of the application. 
+Classification: Birlasoft Internal 
+Path Infotech Ltd, Noida as Programmer (Oct 2006 Feb 2008) 
+Responsibilities & Achievements: 
+Accountable to support and enhancement of LG Customer Care (LGCSNET) product. 
+Coding, testing and deployment of Web application using Java, J2EE, JSP, Struts 1.1/1.2 on Tomcat and Jboss server. 
+Involved in analysis, estimating, design, development, testing, and 24 x 7 production supports. 
+Written no of reports in Excel and PDF for LGCSNET application using POI, iText 2.1 Responsible for promoting all changes to Production environment. 
+Worked on enhancements and development of daily database stored procedures/User defined functions using Oracle PL/SQL, to fetch data from ERP database to intermediate and on application. 
+Scheduled Oracle stored procedures using Oracle Jobs. 
+Got Client appreciation & Path employee of the month for generating reports on PDF. 
+Responsible current status to the Business owners of the application. 
+Provide Technical support more than one project. 
+EDUCATION & PROFESSIONAL QUALIFICATIONS M.C.A from KNIT Sultanpur (UP Technical University, Lucknow). 
+B.Sc from DAV(PG) College Dehradun (HNB Garhwal University, Srinagar) ITIL V3 2011 Certified (Foundation Certificate in IT Service Management) Oracle certified professional (Oracle Business Intelligence Foundation Suite 11g Certified Implementation Specialist) Six Sigma Yellow Belt Certified 

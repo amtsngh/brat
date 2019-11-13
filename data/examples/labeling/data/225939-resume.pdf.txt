@@ -1,0 +1,46 @@
+POOJA PANDE 
+E-mail - pooja.pande11@gmail.com Phone - +91-9538554262 EDUCATIONAL QUALIFICATION 
+Degree/Education Institute Year CGPA/% 
+M.Tech ( IS ) M.S.Ramaiah 2015 8.5 
+B.E ( IT ) TIT, Bhopal 2010 69% 
+WORK EXPERIENCE 
+Modasta (Tasman Drive Software pvt ltd ) 
+Dec 15 - present Designed and created online module for health care system. 
+Text query ( Team size - 2 ) Lab Booking ( Team size - 2 ) Developed RESTful API. 
+Prioritizing bugs & fixing them. 
+iTraveller 
+Aug 
+14 - Oct 
+15 
+In iTraveller I was a part of founding team. As a member of founding team I was continuously engaged in design and implementation of various modules of products. 
+Remodeling of product on MVC model Designed and implemented REST API's. 
+Did logical separation of business logic and database. 
+Abstracted model to make it independent of underlying storage. 
+Implemented mobile site. ( http://m.itraveller.com/ ) 
+Implemented view for mobile site leveraging upon the existing model and controller of desktop site. 
+This activity involved following - Understanding Laravel framework. 
+Integrating the framework with desktop website Designing and implementing of views Being a part of start-up of job profile also included writing unit test plans and fixing bugs. 
+Prioritizing bugs & customer escalation and assigning it to junior members and tracking its status. 
+HP ( Internship ) July '13 
+July '14 Developed dashboard for the automation team. 
+Understood the problem definition and studied the requirement analysis of the given problem. 
+Studied the database to be used for the dash board. 
+Designed the UI for the dash board. 
+Used WampServer (Apache : 2.4.9; MySQL : 5.6.17; PHP : 5.5.12; PHPMyAdmin : 4.1.14) . 
+Used JS based charting library; highcharts for rendering the resultant graph for the user. 
+Automated CLI test cases. 
+Studied the already written test case and automated them in TCL. 
+TECHNICAL SKILLS 
+Programming Languages : C, PHP 
+Web Development Languages: Jquery, JS and AJAX. 
+FrameWork : Laravel. 
+CMS : Wordpress. 
+Database: MySql Operating system/Platforms: Windows, Linux 
+ACADEMIC PROJECTS 
+Visual Sensor Network for Scalable Smart Video Surveillance 
+(Major Project, Under Guidance of Prof. T. Tamilarasi, Summer-10) Objective of this project is to design and implement an algorithm for the better performance of visual sensor network when implemented as video surveillance. 
+Used Python to develop the topology for the cameras assuming the orientation for the camera nodes. 
+Simulated the topology in TinyOS using nesC to prove that the algorithm used gives better efficiency. 
+Remote Surveillance System (Major Project, Under Guidance of Lect. S. Gupta, Summer-10) Objective of this project is to provide an application for real time monitoring and tracking of user's activity on local area network. 
+Designed the front end of software using Java and logs were stored using files. 
+Implemented socket programming and generated project final report and documentation. 

@@ -1,0 +1,58 @@
+ RESUME 
+Nagesha, BV Mob : +91
+9741010971 +91 9342830178 bvnagesha1@gmail.com bvnagesha@yahoo.com 
+Resume Highlights: 
+- Total 16 years of experience 
+- Tech support (Customer support), - product development, - Firmware and hardware development, Schematic capture, PCB layout development - Testing, filed trials - Bill of material preparation, costing - Sourcing, Vendor management and support - Pre-sales and post-sales support Experience in detail: 
+End to end experience in electronics product development Schematic capture, PCB layout development, firmware, BOM 
+Working with cross functional team Testing, Customer support, Servicing, installation, Technical support Team management, project leading Preparation of design documents, project documents, Bill of materials, costing Co-ordination with EMS vendors, Manufacturers, Suppliers, technical support, alternate part support Handled the bulk production of around Rs.20 million per year Knowledge on selection and usage of electronic components like Resistors, Capacitors, Integrated circuits, Stepper motors, Circuit boards etc. 
+Experience in Digital, Analog, Mixed Signal board design, onboard power supply circuits by using different active and passive components, Digital, analog, Mixed 
+Signal and RF integrated circuits, GSM, Wifi modules, SPI, I2C,UART, RS232,RS485, CAN, USB devices Schematic Capture, PCB layout , Gerber generation, verification, DFM,DFT 
+Firmware development( expertise on 8 bit and 16 bit controllers) FPGA based board design and VHDL coding PLC programming ( for a customized PLC and Ladder program) 
+Experience in preparation of project schedules, test cases, test reports, technical manuals, Customer support, field trial experience across India at different Airforce stations, Navy, Airport, public and private sectors Experience in soldering for prototype development trials 
+Experience in certification testing 
+Tools Knowledge: 
+Testing tools, Documentation: 
+Oscilloscopes, Spectrum Analyzers, RCTS, programmers, Soldering Experience for prototype bring up 
+MS office Firmware development C & Freescale (NXP) IDE for 16 bit Freescale processors 
+Kiel compilers, Assembly language for 8051 series 8 bit microcontrollers Schematic capture Mentor Graphics PADS Dx Designer (mostly used) ORCAD (moderately used) PCB Layout, Gerber verification Mentor Graphics PADS Layout (mostly used) GC Preview 
+CAM350 
+Software development 
+NI Lab windows FPGA & VHDL development Xilinx Spartan Series FPGA & Xilinx ISE web pack IDE Divelbiss PLC on Chip and EZ ladder tool 
+Mechanical drawings and design documents Draft sight (limited usage for basic drawings) 
+Education Qualification: 
+BSc (Electronics, Physics, Mathematics) Jan 2000, University of Mysore : (Regular Degree) MSc (Information Technology), April 2010, Sikkim Manipal University : (Distance Education) 
+Profience course in EMC ( Electronics) ,Indian Institute of science (IISc), : (Regular) Course in Circuits and Electronics , Massachusetts Institute of Technology : (Online through EDX) 
+Employer Details: 
+Current Employer - Working for M/s Nordson India Pvt. Ltd., Bangalore, (a subsidiary of Nordson Corporation, USA www.nordson.com from May 2008. 
+Working as Senior Embedded Systems Engineer Earlier Employer : Worked for M/S Prudent communication systems Bangalore www.prudentcomm.com from January 2000 to may 2008 as Tech support engineer, Design Engineer, Senior design engineer Personal Details Date of Birth : 05 Feb 1978 
+Permanent address : Canal Street, Near Telephone Exchange, 
+Arkalgud Tq., Hassan District, Basavapatna - 573113 
+Karnataka, India Current Addtress : 
+Flat No. 406, Sreekaravasa Apartment, Near Lakshmi Narasimha temple, Doddathogur , Electronic City 
+Phase1 
+Bangalore - 560100 
+Project details Wiring analyzer: 
+Automated test set up developed as an inspection tool to check the continuity, unwanted shorts, opens and exchange in connections of wired back panels, printed Circuit boards, cable harness. 
+ILS Tester: 
+Tester developed for Indian Air Force to test and calibrate the onboard (airborne) ILS, VOR and marker receivers associated with landing system of aircraft 
+This is a micro controller based RF Transmitter System having analog, digital circuits for control and monitoring functions and an RF unit for RF generation, Modulation, Amplification and Transmission. 
+TFT Interface unit: 
+Xilinx FPGA based board developed to use as a display data converter module for some CNC machines. 
+This enabled the use of LCD-TFT displays in place of CRT monitors. 
+Vibrometer testers: 
+Tester and Simulator developed for Indian air force to test and calibrate onboard (Airborne) vibration monitoring systems of helicopters aircrafts which generate warning and alarm signals when the vibration of engine exceeds the specified range Radio Compass Tester: 
+Tester developed for Indian Air Force to test and calibrate the automatic radio compass, electromagnetic heading selectors associated with navigation systems of aircraft Wireless Transceivers, Modem: 
+Wireless Transceivers developed for BARC for transmitting the seismic signals from field sensor units to central monitoring station Electrostatic Control units for Powder coating Systems : 
+System to generate and control the high Voltage (about 100 kV) for industrial powder coating application. These are processor based board which generates variable output voltage up to 20 volts to generate and control the high voltage power coating guns. 
+PWM controlled pressure regulators/valves for Powder coating Systems: 
+This is a part of power coating application. This is a Micro controller based board which controls the valve to maintain the output pressure ( 0- 100 PSI) based on the settings. , High Voltage multiplier: 
+Part of powder coating system which generates high voltage up to 100 KV 
+Customized PLC module: 
+These are 
+PLC on chip based units developed as a customized PLC with ladder support ( Divelbiss make chip with EZ ladder) to replace the traditional PLCs used Board Testers: 
+Testers developed to perform automatic functional testing of the boards during production - These are measurement module (USB and PCI slot type) based systems which have got digital, and analog circuits, bed of nails used to test and calibrate the boards during bulk production 
+GSM based remote monitoring units 
+These are SIM900B modem and Microcontroller based Units developed to transmit the working status / error messages of the power coating booths through SMS to the operator. 
+USB to Jtag and CAN Converter 
+Programming / testing tool developed to meet in house testing requirements at recent employer 

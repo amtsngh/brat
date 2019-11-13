@@ -1,0 +1,52 @@
+RESUME SHIWENDU SHAH ( B.Tech(CSE)) 
+E-mail:shiwendu@gmail.com 
+Phone: +91-9599158058. 
+CAREER OBJECTIVE: 
+To become a successful professional in the field of Information Technology and to work in an innovative and competitive world. 
+EMPLOYMENT DETAILS: 
+Since September 2015 to february 2016 Rensoft Technosys Pvt. Ltd as php trainee(codeigniter lampp). 
+Worked in a team to design few apps. 
+Developed a website called ESIGN in Codeigniter framework. 
+Technologies :- Php,Ajax,Jquery,Jquery UI,Mysql,JS. 
+February 2016 to March 2016 Ipmedia pvt ltd (Gurgaon) as a php developer. 
+Worked on wordpress and core php. 
+Since March 2016 working in Intellisqa Solutions Pvt Ltd as a Php developer. 
+Technologies :- Magento,Wordpress,Codeigniter. 
+TECHNICAL EXPERTISE: 
+Programming Languages: 
+Basics of C,C++ 
+Data structure 
+HTML PHP,MySql Jquery,Ajax,Bootstrap 
+EDUCATIONAL QUALIFICATIONS: 
+Examination School/College Board/University Year of Passing Percentage/CGPA B.Tech(CSE ) Synergy Institute of Engineering & Technology,Dhenkanal,Odisha B.P.U.T 2010-2014 
+6.5(65%) 12th 
+Jharia Raj +2 High School,Jharia J.A.C 2007- 2009 58% 10th Rajkamal Saraswati Vidya Mandir,Dhanbad C.B.S.E 2007 
+63% CURRICULUM PROJECT: 
+Project Title: 
+Payroll management system . 
+Front end HTML, Back end > Php, my sql. 
+This was an online payroll project where an employee can check their details anywhere through internet, within the respective organization site. 
+EXTRA CURRICULAR ACTIVITIES: 
+1month summer internship program on DAMN VULNERABLE WEB APPLICATIONS at IIIT-ALLAHABAD. 
+Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goals are to be light weight, easy to use and full of vulnerabilities to exploit. Used to learn or teach the art of web application security. 
+Attended Workshop on Robotics (two days course) at S.I.E.T Dhenkanal. 
+Seminar on NVIDIA TESLA PERSONAL SUPERCOMPUTER. 
+Participated in many events organized in the city and in the school. 
+STRENGTH: 
+Self motivated with positive attitude. 
+The ability to work in a team. 
+Honest & Responsible towards work.. 
+Quick learner 
+HOBBIES: 
+Listening to Music, Riding Bikes, Flying Kites. Reading Novels, Playing chess. 
+PERSONAL DETAILS: 
+Name: SHIWENDU SHAH 
+Date of Birth: 18-12-1990. 
+Fathers name: Pramod Kumar 
+Sex: Male 
+Marital Status: Single 
+Nationality: 
+Indian 
+DECLARATION: 
+I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars 
+SHIWENDU SHAH 

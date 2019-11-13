@@ -1,0 +1,97 @@
+Nitin Tripathi nitin.tripathi@gmail.com +91.9818.697.411 Summary Software Product Developer, Blogger 
+Parallel, Grid & Distributed computing, High Performance 
+Computing, Statistics, Operations Research, Reverse 
+Engineering, 
+Data Mining, Machine 
+Learning, Search, Recommendation, Natural Language Processing 
+Ability to influence without authority Ability to think abstractly and deal with ambiguity Experienced with leading, manage and mentor 
+a team of 30+ engineers Plan, track and estimate product development activities 
+I love to build robust and reliable software products which work in distributed and heterogeneous settings. 
+Key Words Language: Java, Python, Shell script 
+OSS: MySQL, PostgreSQL, H2DB, MongoDB, 
+Aerospike, Apache 
+Kafka, Elasticsearch, Redis, Telegraf, InfluxDB, Grafana 
+Solr, Lucene, Google GRPC, 
+Apache Thrift, 
+Apache Avro, Google 
+Protocol Buffers, Commons-Math, Stanford 
+CoreNLP, 
+FabFile Fabric, Locust.io etc. 
+Experience Senior Principal Engineer, Snapdeal 
+October, 2014 
+Till Date 
+Generic crowd-sourcing platform, which intelligently assigns tasks to relevant workers such that it reduces latency and meets expected budget and quality. 
+Advanced 
+Kafka 
+Client (Common Library) to decouple consumption from processing providing ordered, unordered and striped order APIs. 
+Prescriptive catalog optimization, which recommends the seller s product 
+catalog based on their affinity to brand, category, price-similarity, demand location and competition. 
+Prescriptive price optimization, which derives the optimal price strategy to maximize future profit/revenue on the basis of massive predictive 
+formulas produced by machine learning. 
+It first builds sales forecast formulas of multiple products, on the basis of historical data and then proposes an optimal price personalized for the seller. 
+Buy-button assignment, a personalized trustworthy seller recommendation system for the customers of Snapdeal. 
+It consists of a module which classifies sellers into trustworthy one or not using decision-tree classification technique, and then developed 
+another module which makes use of the content- based filtering 
+method to find best-matching 
+top-k sellers among the selected trustworthy sellers. 
+Restocking Inventory, advises sellers to restock. It first builds sales forecast formulas of multiple products, on the basis of historical data and then proposes an optimal stock level for the given product personalized for the seller. 
+Measure 
+Readability for 
+English Language, as improving readability 
+level product description 
+can make the difference between success and failure of its communication goals. 
+It advises sellers to improve the content quality to increase sales. 
+Apply statistical learning, NLP techniques to automate content validation, 
+image/content co-relation and authorization during 
+Listing. 
+Built 
+full-stack Flash Sale solution 
+that can handle massive concurrent requests for inventory 
+updates from customers during online flash sales. Further, it extracts actionable insights into customer behavior and preferences to make compelling sales offers based on real-time data inputs. 
+Drive 
+Partner APIs for third party integrations with sellers and, couriers, to facilitate seller work-flows like on-boarding, listing, orders and returns 
+Built information 
+retrieval systems for 
+Sellers to facilitate various use cases like Sell on Snapdeal , Seller Potfolio , Competition in a given group Evangelize Infrastructure as Code tools and technologies to efficiently deploy middleware and applications using automation scripts. These automations comprise a series of steps that should be idempotent to guarantee repeatability and convergence. Results include higher developer/QA productivity. 
+Evangelize automated distributed load testing to identify, isolate and fix system problems. Integrated with build pipe-line to measure the trending quality of application. 
+Lead Software Engineer, Narus 
+July, 2013 October, 2014 Reverse 
+engineer 
+(Deep Packet Inspection) 
+L7 protocol specification using machine learning to extract forensic data evidences on social network 
+traffic to identify terrorist/anti- social activities. 
+Built a data pipeline for extracting, transforming, and real time analytics on high velocity and large volume of network packet data Traffic generation tool-set to facilitate functional, performance and capacity testing. 
+Specialist, Sapient 
+February, 2013 
+July, 2013 Distributed request tracing to troubleshoot latency problems in micro-services architecture using Java agent framework. 
+Developed test harness for 
+end to end testing of non-food businesses applications at large European retail. 
+Principal Engineer, Onmobile 
+January, 2010 February, 2013 Multi client shopping network that intelligently matches buyers and sellers using multiple channels 
+retail like 
+WAP, Handset 
+Client, USSD and SMS. 
+Expose public APIs for catalogue search, advertisement, ratification, 
+inventory, customer and merchandise to facilitate with internal/external client systems. 
+Intelligent search based applications to facilitate mission- oriented information access, analysis or discovery 
+such as customer service and support, 
+logistical track and trace, contextual advertising, decision intelligence, e-Discovery. 
+Social 
+network analysis (centrality) identify thought leaders to make optimal utilization of promotion bandwidth identify similar taste' for improving high quality recommendations. 
+Reliable utility for efficiently collecting, aggregating, and moving large amounts of log data. 
+Robust batch applications vital for the daily processing of bulk data in a transactional manner. 
+Built 
+Cricket News 
+Feed 
+(ICC Worldcup, 2011) for multiple channels SMS, WAP, USSD & handset clients for pan India launch in a fortnight. 
+Gatherer - Created framework for collecting and aggregating log data from multiple data centers in different time zones 
+Senior Development Engineer, Pramati 
+July, 2008 January, 2010 
+The complete lifecycle experience with monitor, code profiling, code refactoring, design change, load test, deployment using pragmatic approach (i.e. from optimum utilization of raw computing resource to managing the user experience) to solve the problem of scalability and reliability in a distributed web application. 
+IT Specialist, IBM 
+October, 2005 
+July, 2008 Broad 
+based experience in 
+very large scale 
+telecom application integration using SOA principles. 
+Education MCA, Institute of Management Technology (IMT), Ghaziabad, 2002 2005 

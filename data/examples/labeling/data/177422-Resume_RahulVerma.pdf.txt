@@ -1,0 +1,57 @@
+ RAHUL VERMA 
+No. 14, Murugesan Nagar, Neelankarai Link Road, Thoraipakkam, Chennai 600096 
+Mob # +91 95002 87239 rahul.aero92@gmail.com 
+OVERVIEW 
+A customer oriented multi-tasking professional with excellent skills in business analysis, business process re-engineering, requirements management, data modeling and functional testing. 
+AREA OF EFFECTIVENESS Gap Analysis Business Process Re-engineering Requirement Specifications 
+Data Modeling Requirements Management Conceptualization 
+Functional Testing DOMAIN EXPERTISE 
+Supply 
+Chain 
+Management (Materials Management Module) Procurement Management, Inventory Management, Stock Management, Loan and Rental Order Management, Repair Order 
+Management. 
+TECHNICAL SUMMARY 
+Languages : SQL (Basics) Application Software 
+: MS Word, Excel, Power Point, AutoCAD, CATIA 
+Methodologies : Agile 
+PROFESSIONAL HISTORY (Total Experience: 30 months/ 2.5 years) 
+Ramco Systems 
+(From June 2014 till Date) Product Executive (Materials Management / Supply Chain Management / ERP) Involved in requirement elicitation, documentation, analysis, data modeling and communication to various stakeholders viz clients, technical team and SME groups Creating and ensuring a strategic partnership exist between the business need and technology delivery team in an agile development environment Conducted several business process re-engineering dialogues (AS IS / TO BE) to incorporate effective process flow changes in the ERP suite (desktop framework) Framing business rules to enable the technical team to develop the product Involved in designing / solutioning user interfaces and wireframes Generation of test cases pertaining to the feature and also involved in functional testing / UAT of the feature / product Conducting several demo of the product to various stakeholders 
+Coordinating across cross-functional groups viz Clients, quality assurance / testing teams, subject matter experts (SMEs) and software developers in an agile / scrum methodology environment for process definition / re-engineering and solutions pertaining to the area of Material Management in an agile environment Complete ownership for end to end delivery of the product / feature as per the schedule 
+PROJECTS HANDLED / CURRENTLY HANDLING Product stability and Blueprint (July 2016 
+Nov 2016) Root cause analysis was done by me extensively as part of customer support due of data corruption (few frontline transactions like Stock Correction, Stock Issue etc.) in Customer s production environment 
+Considerable exercise was done to find the exact root cause via techno-functional discussions after code review and I ve carried out the affected transactions with various possible data combinations contributing to the product stability and eliminate data corruption 
+Blueprint was done by me for five features as part of the product release plan to address customers business requirements 
+Blueprinting involved analyzing product gaps, impact analysis, approach presentation, SME reviews, freezing the approach for the feature Gulf Helicopters (Apr 2016 June 2016) 
+A new hub was designed by me to manage Record, Amend and View Repair Order Quote in a single UI with an ability to record quote partially i.e. at line qty. level and authorize the same and receive the partially quoted qty. in the warehouse Schema has been altered to support the existing as well as the new functionality Analysis of various impacts across all modules in Ramco Aviation Suite 
+Requirements Management, solutioning of a new wireframe (UI) and functional testing of the feature 
+Malaysian Airlines (Feb 2016 Mar 2016) Gap analysis and business process re-engineering was done in order to specify the additional Repair Cost in Exchange PO and PBH Exchange PO 
+Requirements management, solutioning of a new wireframe (UI) and functional testing of the feature User acceptance testing 
+Able Engineering (Nov 2015 Jan 2016) 
+A new framework to integrate Shipping Note in Ramco Aviation Suite with FedEx Services (Packaging and Freight Services) 
+Enhanced features like grouping of various reference documents (CO, RO etc.) for shipment Requirements management, solutioning changes in Shipping Note UI for FedEx controls and functional testing of the feature User acceptance testing 
+Babcock International (Avincis) (Feb 2015 Oct 2015) A new concept of Data Replication across Operating Units (OU) was introduced into Ramco 
+Aviation Suite 
+Modeling of Data at an Entity and Element Level pertaining to Materials Functional Area 
+Requirements Management and Development/Solutioning of the following Wireframes Design of Central Configurator 
+Setup Operating Units for Data Replication 
+Setup Entities for Data Replication 
+Setup Data Elements for Replication 
+Setup Default Data for Recipients 
+Manage Subscription for Recipients 
+Initialize Operating Unit 
+Review / Reinitiate Data Replication 
+Tested 400+ UIs for Data Replication across all modules (Materials, Maintenance, Sales and Finance) in Ramco Aviation Suite 
+User acceptance testing 
+Republic Airways Holdings (Nov 2014 - Jan 2015) Manage Stock Replenishment: A new framework to compute replenishment levels of parts in a warehouse and / or update replenishment levels of multiple parts in multiple warehouses Tested the complete feature and covered end-to-end scenarios User Acceptance Testing 
+Air Methods (July 2014 - Oct 2014) Inquire Material Count and Location Information: A powerful feature to have Stock Visibility across Geography Tested the feature and covered end-to-end scenarios Customer Support / Defect Resolution 
+ACHIEVEMENTS 
+Felicitated as 
+Star of the Sprint for outstanding performance in Data Replication Project 
+Was a part of the Team of the Quarter which delivered the feature Data Replication ACADEMIC PROJECTS / PRESENTATIONS / PUBLICATIONS 
+Project on Flow Analysis of various Rocket Nozzles and its Optimization using Computational 
+Fluid Dynamics 
+Wrote a blog on Safety management System (SMS) EDUCATION AND CREDENTIALS 
+B.E. Aeronautical Engineering (2014) from Hindustan Institute of Technology and Science, Chennai with 8.93 (CGPA) marks 
+AISSCE (CBSE) (2009) from Kamaraj Sr. Sec. School, Port Blair with 83% marks 
+AISSE (CBSE) (2007) from Kamaraj Sr. Sec. School, Port Blair with 86% marks 

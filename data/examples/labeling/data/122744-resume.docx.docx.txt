@@ -1,0 +1,83 @@
+Bhargavi Lebaka iOS Developer 
+Phone: +91-8143778872 
+Email: bhaghi2010@gmail.com 
+Professional History: 
+1.6 years of experience in developing innovative mobile solutions with iPhone/iPad, Objective-C. 
+Good knowledge and hands on experience in the following areas of iOS Application Development : 
+Objective-c / Cocoa Touch Programming using UIKit Xcode 6.x and 7.x with iOS 8.x and iOS 9.x. 
+Interface Builder for UI Designing 
+Handle Web Services using JSON Parser, NSXML Parser 
+Data Persistence (SQLite 3.0/Core Data) Camera Imagery / Photo Library 
+Integrated 3rd party libraries. 
+Map Kit / Location API 
+Core locations and GPS. 
+Sending In app Email MFMailComposeViewController. 
+Professional Experience: 
+iOS 
+Developer 
+Nov 2014 - 06 May EcomNets India Pvt. Ltd 
+Educational Qualification: 
+B.Tech 
+Under specialization Electronics and Communication Engineering (2014) Nova College of Engineering and Technology,Vijayawada. 
+Aggregate 72.16% Intemediate (2008-2010) 
+Narayana College,Vijayawada. 
+Aggregate 91.4%. 
+Core Competences: 
+Mobile Technology : 
+iPhone application Development (MAC 10.X, XCode 6.X, 
+Objective C, Foundation Kit, CoCoa Touch, Core Services, XML & JSON Parsing & SQLite). 
+Programming Languages : C and Objective C. 
+Development Tools and API's : Objective-C, iOS SDK 8.x. IDE : XCode. 
+Databases : Sqlite3, Core Data and Plist 
+Operating Systems : 
+Mac OS X Mavericks, Microsoft Windows 7 & 8. 
+Domains : Small/Medium App Development & iPhone/iPad 
+Touch application. 
+Portfolio of Apps: 
+(1) 
+Project Title : EcomNets 
+Organization : Ecomnets India Pvt. Ltd. 
+Language Used : Objective-C. 
+IDE : Xcode 6.1 
+Description : 
+EcomNets app gives an overview of the company, services it provides, career with EcomNets and much more. This app belongs to utility category, the main purpose is User can be in touch with EcomNets by sending mails and phone call as the features and implemented in contact tab. 
+https://itunes.apple.com/in/app/ecomnets/id1032405462?mt=8 (2) 
+Project Title : EcomNets Virginia Visitor Center 
+Organization : Ecomnets India Pvt. Ltd. 
+Language Used : Objective-C. 
+IDE : Xcode 6.1 
+Description : 
+Virginia Visitor Center is tour guide app that provides users to get the information on events, accommodations and restaurants from the entire state of Virginia. 
+Features: 
+Near Me: View all the points of interest that are nearest to your geographic location. 
+Categories: Choose from a variety of categories to find points of interest that are presented in an easy to read list or placed directly on a map. 
+Trip Plans: User can plan for a trip & will get the notification popup on the planned event day. 
+https://itunes.apple.com/in/app/virginia-visitor-center/id1035627348?mt=8 . 
+(3) 
+Project Title : Event Planner Plus 
+Organization : 
+Ecomnets India Pvt. Ltd 
+Language Used : Objective-C. 
+IDE : Xcode 6.1 
+Description : 
+Event Planner Plus app is a simple and light-weight Event/Holiday application. 
+User can create/edit events with date, time, and place by using maps and specify reminders for that event. 
+And also user can customize remainder notifications. 
+Send invitations through SMS to device contacts. 
+User can stay connected through the social networking groups, and share/post events details in Facebook and Twitter. 
+https://itunes.apple.com/in/app/event-planner-plus/id1055619360?mt=8 (4) 
+Project Title : 
+Near me Finder 
+Organization : 
+Ecomnets India Pvt. Ltd 
+Language Used : Objective-C. 
+IDE : Xcode 6.1 
+Description : 
+Near Me Finder App shows a complete list of all businesses in each category with in the nearest distance you choose from where you are. 
+Features: 
+Categories like Banks, Hotels,Hospitals 
+List of Business will be displayed based on distance from current Location. 
+https://itunes.apple.com/us/app/near-me-finder/id1090369507?mt=8 
+Declaration: 
+I hereby declare that the above information is true and correct to the best of my knowledge. 
+L.Bhargavi 

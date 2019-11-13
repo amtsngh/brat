@@ -1,0 +1,54 @@
+Ashwini A M Email id : ashwiniam2013@gmail.com 
+Mobile : 91-8970465705 
+Email: 
+ashwiniam2013@gmail.com 
+Phone: 91-8123194846 Email: 
+ashwiniam20 
+Professional Summary: 
+Software engineer having 2.2 years of experience in Desktop application using Core Java, Swing, JDBC, Hibernate, oracle. 
+Followed Agile methodologies and various development cycles in the projects. 
+Involved in development, unit & integration testing. 
+Having good analytical, debugging, problem-solving and communication skills. 
+Part of requirement analysis team for the products in the company. 
+Involved in the design and development of applications user interface (UI). 
+Involved in gathering information and work flow from direct customers. 
+Professional Experience: 
+I am associated with Atlas Systems pvt ltd as a Software programmer since March 2015. 
+And associated with Hindusthan Aeronautics limited as a intern from Jan 2014 to June 2014. 
+Scholastic Profile: 
+MCA from The National Institute of Engineering, Mysore in 2014 with an aggregate of 80%. BSc in Computer science from Bharathi college, Bhrathinagara in 2011 with an aggregate of 71%. 
+Technical Expertise: 
+Operating System 
+: Windows 2000/2003/XP, 
+Languages : C, Java, SQL 
+Project #1: Client 
+: InvisionInc. Product Name : DealMaker 
+Environment : Software Programmer 
+Role : Software Developer Technologies 
+: Core Java, Swing, JDBC, Hibernate, oracle 11g, jBoss. 
+The industry s most trusted TV advertising sales solution in the marketplace, DealMaker enables seamless workflow processes from sales to traffic to finance in one solution. DealMaker serves as the cornerstone for scaling revenue while managing operational efficiencies for leading cable, broadcast, syndication and satellite companies and it is used for sales an advertisement in media. 
+Ashwini A M Email id : ashwiniam2013@gmail.com 
+Mobile : 91-8970465705 
+Email: 
+ashwiniam2013@gmail.com 
+Phone: 91-8123194846 Email: 
+ashwiniam20 Roles & Responsibilities: 
+Involved in development and coding. 
+Analyzing story card and estimate the points to story cards based on priorities and difficulties. 
+Attended retro and planning meeting 
+Monitoring issues through Test track tool. 
+Interacting with project managers and client for better understanding on reported bugs. 
+Coordinating with onsite team for issues. 
+Fixing bugs and testing. 
+Academic projects: 
+Main Project: Online Manufacturing Memo 
+Internship certificate from Hindusthan Aeronautics limited, Bangalore 
+Online Manufacturing Memo- This application which is helpful for HAL, Helicopter Division. 
+By using this software they are providing the good quality of helicopter to the client such as Indian Air Force, Navy, Army, CG etc... 
+Developed using JAVA., 
+Project: Exam Suite 
+Exam Suite- It is an offline interactive test series which examines the knowledge of user on various programming languages like C, C++ and JAVA etc. 
+Developed using JAVA 
+Declaration 
+I do hereby declare that the above furnished information is true to my Knowledge and belief. 
+Place : Bangalore (Ashwini A M) 

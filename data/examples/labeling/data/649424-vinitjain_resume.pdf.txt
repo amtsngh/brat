@@ -1,0 +1,29 @@
+ Vinit Jain A-1/13, MIG-II, Mahananda Nagar, 
+Male - 22 Years Ujjain(M.P.)-456010 20th November 1994 Phone: +91-7898617817 E-mail: vinit2011jain@gmail.com 
+EDUCATIONAL QUALIFICATION 
+Degree Institute University/ Board Year CGPA/Percentage 
+B.E. (Electronics and Telecommunication) Shri G. S. Institute of Technology & Science, Indore 
+Rajiv Gandhi Proudyogiki 
+Vishwavidyalaya, Bhopal 2017 7.76* HSC (12th) Oxford Junior College, Ujjain CBSE 2013 82.0% SSC (10th) Oxford Junior College, Ujjain CBSE 2011 8.6 Secured an AIR 638 in GATE-2017 (ETC), an exam which was given by over 142,000 students all over the country 
+INTERNSHIP/TRAINING 
+1. Defence Research and Development Laboratory (DRDO, Hyderabad) 
+Studied As-Is processes involved in the data acquisition using sensors during testing of missile parts Proposed next generation technology for data acquisition based on desired level of maturity Worked on Temperature Logger Circuit(wireless data transfer using Zigbee) for acquiring data using sensor mounted on missile, analyzed and displayed the output data using LabVIEW 2. Prasar Bharati, Doordarshan Maintenance Center, Ujjain 
+Studied end-to-end processes involved in receiving and transmitting signals for television broadcasting Became acquainted with fundamentals of All India Radio broadcasting and their application PROJECTS 1. Patient Monitoring System 
+Created a data acquisition system used for collecting biological signal from human body Used to monitor the health of a patient 2. Wireless temperature and humidity monitoring system for irrigation application Created an automatic irrigation system model Collected the data using sensors and processed the sensed data based on weather condition and requirement of particular crop 3. Digital Speedometer and Odometer 
+Developed a low cost, more accurate, precise and efficient digital speedometer and odometer for automobiles Used in a vehicle manufactured under BAJA SAE INDIA 2015, the national level event 4. Voice Recognition 
+Created a system using MATLAB that can be trained on a specific person s voice Used to authenticate the identity of a speaker as part of a security process 5. Smart Street Light 
+Developed a smart street light system which turms on and off automatically when any moving object passes by 
+Resulted in power saving of 50 to 55% POSITIONS OF RESPONSIBILITY 
+Chief Resource Manager of SRC@SGSITS collegiate club for the year 2015-16 A Core Committee Member of AAYAAM-2017@SGSITS technical and cultural fest Volunteered an event 
+MARATHON - TO RAISE ORGAN DONATION AWARENESS organized under AAYAAM-2017@SGSITS technical and cultural fest Coordinator of Quizzotica , a 2 day s discrete level quiz organized by SGSITS, Indore 
+Organized an event 
+Robo Com 
+a robotics competition under SRC@SGSITS collegiate club Mentored a group of 6 students for project Wireless Control of Robot Using Zigbee under SRC@SGSITS collegiate club 
+EXTRA CURRICULAR ACTIVITIES 
+Won many prizes in Kho-Kho, Football, Cricket and Volley Ball at school level Participated in 
+Organ Donation 
+awareness 
+programme also I actively participate in Social events like blood donation camps 
+PERSONAL INFORMATION 
+Languages Known English, Hindi 
+Hobbies Sketching and Playing Chess 

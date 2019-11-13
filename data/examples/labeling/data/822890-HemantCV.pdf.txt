@@ -1,0 +1,78 @@
+ Mr. 
+HEMANT SHINDE shindehemant76@gmail.com Bachelor of Computer Science and Engineering 
+7083062740 
+CAREER OBJECTIVE 
+To work in learning and challenging environment, utilizing my skill and knowledge to be the best of my abilities and contribute positively to my personal growth as well as growth of the organization. 
+EDUCATIONAL QUALIFICATION: 
+Board/University Examination Academic Year Percentage 
+Name of School/College 
+Shivaji University Bachelor Engineering 2016 66% T.K.I.E.T. 
+Warananagar 
+Maharashtra State Board of Technical Education Diploma 2013 75% Dr.A.D. Shinde 
+Institute of Technology 
+Maharashtra Board 10Th 2010 80.91% New English School, Channekuppi 
+TECHNICAL SKILLS AND PERSONALITY TRAITS: 
+IT Skills: 
+Database : Oracle SQL Developer 
+Java EE Web Component APIs : Servlets, JSP 
+Web Development : HTML, CSS, Java Script Application Servers : 
+Tomcat 7 IDE : 
+Eclipse IDE, NetBeans. Software Testing 
+: Unit Testing, White Box & Black box Testing 
+Personality Traits 
+o Adaptive and Flexible o Team Player 
+o Meticulous, Committed and Hard worker 
+COURSE COMPLETION: 
+1. 
+Completed Course on JAVA Programming Language Place: Vidushi Gynpeeth IT Training and Education Pune 
+INDUSTRY PROJECT: Company Name: Cursive Technology Pvt. Ltd 
+Title: Gripic.in 
+Technology: 
+Angular JS, Java 
+Database: MySql 
+Role: Team Player 
+Description: 
+Gripic.in is web application for doctor and patient. Doctor can use that application for check his today s appointments, book patient appointment, provide some medical facilities for patient. Patient will use that application for book his appointment and cancel appointment, search doctor in his nearest location and see doctors free time and book the appointment also cancel that appointment. Patient will pay doctor fees by pay tm or net banking. 
+In that project we uses web services for proper work of the application, By using web services application will perform well. 
+I also work on Git Commands, Uses postman API for testing web services and work on management tool like JIRA. 
+PROJECTS UNDERTAKEN: Title: Secure File Upload 
+Technology: 
+Java 
+Description: Our project is responsible for encrypt and decrypt the messages in message Transferring. Provide the security to the messages. 
+Role: Team Player 
+Engineering Final Year Project 
+Title: Image Processing for Smart Farming: Detection of Diseases on Grapes 
+Technology: Technology: Java 
+Back End: MS Access. 
+Description: 
+Our project is responsible to detect disease in earlier stages of diseases on Grapes and provides better solution for it. 
+Role: Team Lead and Programmer 
+Diploma Project: 
+Title: 
+Insurance System 
+Technology: 
+Front End: HTML, CSS & Java Script 
+Back End: MS Access. 
+Description: 
+This website provides the information of all Insurance Plans of various vendors Like LIC, Bajaj, and Reliance to the customer. 
+Role: Team Member 
+EXTRA CURRICULAR ACTIVITIES: 
+Participated in C Programming in State Level Technical Event held at ICRE Gargoti. 
+Participated in C Programming in National Level Technical Event held at JJMCOE Jaysingpur. 
+Participated in Paper Presentation Competition in State Level Event held at Shivaraj 
+Collage Gadhinglaj. 
+PERSONAL PROFILE: 
+Date of Birth 
+: 17th June, 1994. 
+Age : 22 
+Nationality 
+: Indian. 
+Languages Known 
+: English, Hindi, Marathi, Learning Japanese(JLPT N5). 
+Hobbies 
+: Traveling, Ridding Bicycle, Trekking, Swimming 
+Permanent Address : 
+D-303, Shubhashree Res., Ph-1, Jai Ganesh Vision, Akurdi, Pune 411035. 
+DECLARATION: 
+I hereby declare that the above-mentioned information is correct and true to the best of my knowledge. 
+Place: Pune Signature (Hemant Shinde) 

@@ -1,0 +1,73 @@
+ Rajeev Koya +91 8341435559 rajeevkoya03@gmail.com 
+PROFILE SUMMARY 
+Having 2.7 years of experience in manual testing. 
+Have also worked in a Responsive project and had to test the application in various kinds of devices (windows and Linux). 
+Have good experience in testing web-based applications and Mobile Applications. 
+Worked in Agile Scrum Development Environment. 
+Interacting with Business Analysts for Business Requirements clarifications. 
+Experience in developing Test cases, Traceability Matrix (RTM), Test Scenarios and Test Data. 
+Participated in all aspects of Verification and Peer Reviews of work items Involved in Test Execution, Defect Logging, and Defect Tracking in ALM. 
+Involved in preparing Daily status Report and Weekly status Report. 
+Involved in Smoke testing, Functional testing, Integration testing, UI testing and Regression testing. 
+Handling a specific module of the application in current project independently. 
+Strong interpersonal and oral/written communication skills Professional Experience 
+Current Designation : Software Test Engineer 
+Current Company : 
+Rise Softtech Solutions India Pvt Ltd 
+Employee ID 
+: 1008 
+Employment Duration : 
+13th May 2016 to till date. 
+Previous Company : Varna Technologies Pvt Ltd. 
+Employment Duration : 16th May, 2014 to 09th May, 2016. 
+Skill Set 
+Operating System : Linux and Windows 
+Database : MYSQL 
+Test Management Tool : ALM, PMS 
+Utility : MS-Office Professional Education: 
+B .Tech (IT), 2012 Pass-out from Wise Engineering College with 59.89 %. M.Tech (CSE), 2014 Pass-out from Pydah Engineering College with 74 %. 
+Project details 
+PROJECT-I 
+Title : Rushr 
+Client: Rise Softtech Solutions India Pvt Ltd 
+Team size: 5 Members 
+Duration : June 2016 - Present 
+Description: 
+Rushr is a business logistics partner. Its main Moto is Were here to make life easy for you and yours business. We pickup package and deliver your stuff at affordable prices. Rushr is considered as one of the leading logistics in Hyderabad. Its main advantage is it contains map based tracking report and live updating. 
+Responsibilities: 
+Involved in Daily Scrum Meeting with the onsite coordinator and Development team. 
+Developing Test Scenarios, Test Cases and execution of Test Cases. 
+Analyze the requirements, identify the business scenarios Clarification of requirements and queries with the client Effective coordination between development and testing team Update client on regular basis about the Test Status Preparing test Environment to execute Test Cases in ALM 
+Raising the defects in ALM. 
+PROJECT-II 
+Title: Supply Chain Management System 
+Client: Varsity Management 
+Team size: 4 Members duration : June 2014 - Sep 2015 
+Description: 
+Supply chain management deals with the vendor details creation, Product aster, generating the Purchase order, Annexure to the branches, receiving and updating the goods at goods receipt and goods received, Generating the delivery challan to branches. User can also view the stock entry and stock ledger details. 
+Responsibilities: 
+Identifying various scenarios for functional, Integration and regression testing Involved in Daily Scrum Meeting with the onsite coordinator and Development team. 
+Analyze the requirements, identify the business scenarios Clarification of requirements and queries with the client Effective coordination between development and testing team Update client on regular basis about the Test Status Preparing test Environment to execute Test Cases. 
+PROJECT-III 
+Title: Guest Faculty Management Application 
+Client: BITS Pilani 
+Team size: 4 members 
+Duration : Oct 2015 April 2016 
+Description: 
+Guest faculty in WILP comprises faculty members who are not full time employees of BITS and teach WILP courses from off campus locations. They are different from full time on campus faculty and off campus faculty who are full time employees. Guest faculty application comprises with both GF users and backend users. GF users will login to application and submit all their details, where as backend users will select or reject the GF users and assign courses to the selected GF users. 
+Personal Details 
+Full Name 
+: Rajeev Koya 
+Sex 
+: Male 
+Marital Status 
+: Single 
+Nationality : Indian 
+Languages Known : 
+English , Telugu 
+Alternate Mail 
+: rajeev2839@gmail.com 
+DECLARATION 
+I hereby declare that all the above mentioned information is true to the best of my knowledge and belief. 
+Place: Hyderabad (K.Rajeev) 
+Page 3 of 3 

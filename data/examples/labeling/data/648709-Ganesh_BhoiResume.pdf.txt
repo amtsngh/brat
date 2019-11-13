@@ -1,0 +1,50 @@
+GANESH R. BHOI 
+Room No 17, Sant Eknath Boys Hostel, Chembur, Mumbai 400071 
+DoB: 20/07/1990 
+Mobile No: +91 7666160165 
+Email ID: ganeshbhoi7666@gmail.com 
+Specialization: Operations 
+Educational Qualification: 
+Year Course Institute/Board/University 
+SGPA/ 
+Percentage 2017 MMS IES Management College and Research 
+3.57/7 
+Center, Mumbai University 2013 B.Tech(IT) 
+Shri Guru Gobind Singhji Institute of Engg. 
+5.67/10 
+And technology, Nanded 2009 H.S.C The New Era Jr. College, Jalgaon(Jamod) 76 % 2007 S.S.C Shri Shivaji HighSchool Wadhoda 74.92 % 
+Management Project: 
+Project Title: E-Procurement in manufacturing industry in India 
+Objectives: 
+To study the e-procurement in manufacturing sector Impact of IT in procurement of the manufacturing sector Various trends in e-procurement Barriers which are restricting e-procurement implementation Tools and Technology: Microsoft Excel, E-Procurement. 
+Summer Internship: Name of the Company: TATA Power Company Limited 
+Project Title: Process Management at TATA Power through IT enabled workflow Objectives: To update EPM (Enterprise Process Model) Process Database in excel sheet. 
+Process migration from Manual to EPM application through IT enabled workflow for convenient and user friendly access. 
+Study the baseline of the processes using six sigma. 
+As per the six sigma level rated the processes Tools and Technologies: Documentum, SQL, EPM client application, Six Sigma. 
+B.Tech Major Projects Undertaken: 
+Project Title: E-commerce Web Application and Its Market Basket Analysis 
+Objectives: 
+This project is of development of E-Mall Web Application. 
+Gathering of customer data from online shopping of customer. 
+Analysis of customer order data using data mining techniques (Association Rule). 
+Find out the complementary products. 
+As per the result of data mining, automatically shown the advertisement of the complementary product. 
+Key functionality: Auto Advertisement (Apriori Algorithm) Order Tracking , Sort by Prize, 
+Centralized Database. 
+Tools and Technologies: HTML, JSP , Oracle Database, Apache Server 
+Mini Project : Project Title: Students Quiz 
+Objective: This s/w is design to take Student Quiz Competition with very good user interface. 
+Tools and Technologies: 
+JDBC, Oracle Database Eclipse Indigo. 
+Additional Qualifications: Logistics, Supply Chain, Procurement, Warehousing. 
+JAVA Course from Profound EduTech Pune. 
+Microsoft Excel Certification 
+Certificate course in Information Security and Ethical hacking. 
+Positions of Responsibility Captain of College cricket team in ITPL. 
+Extra-curricular Activities: Participated in Annual Event Pragyaa. 
+Winner of KABADDI Interschool Tournament. 
+Interests: Cricket Swimming. 
+Listening to music. 
+Declaration: I consider myself familiar with Operations Management and Information 
+Technology Aspects, I am also confident of my ability to work in a team. I hereby declare that the information furnished above is true to the best of my knowledge 

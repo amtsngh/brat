@@ -1,0 +1,66 @@
+RANABOTHU VENKAT REDDY 
+| 
+13CH30014 CHEMICAL ENGG.(M.Tech Dual 5Y) 
+EDUCATION 
+Year Degree/Exam Institute CGPA/Marks 2018 M.TECH Dual Degree 5Y IIT Kharagpur 6.30 / 10 2012 BOARD OF INTERMEDIATE EDUCATION, A.P SRI CHAITANYA JUNIOR COLLEGE. GUDAVALLI 95.3% 
+2010 BOARD OF SECONDARY EDUCATION, A.P DR.K.K.Rs GOWTHAM CONCEPT SCHOOL, GUDIVADA 93.16% SKILLS AND EXPERTISE 
+Programming Languages : C, C++, Java, Python 
+Web Frameworks : Django, Ruby on Rails, Django REST 
+Soft Skills : GitHub 
+Web Technologies : HTML, CSS, ReactJS, Javascript(beginner) INTERNSHIPS 
+Full Stack Web Development 
+| 
+AdWyze, Niryana Labs Private Limited 
+May 2017 - July 2017 
+Developed expertise in Ruby on Rails web framework based on MVC (Model, View &Controller) architecture. 
+Automated the creation of default controller by the usage of generator function variant in rails. 
+Customized the models and controllers for different integrations of AdWyze. 
+Worked on adding different features for automation of tags using Ruby on Rails(backend) and ReactJS(frontend). 
+Devised the entire backend process flow for creating and updating tags and tag groups using ROR. 
+Designed an interactive user interface for creating and editing tag groups and tags using ReactJS. 
+Exposure to the process of data flow amongst database and UI, Object Oriented Programming. 
+.......................................................................................................................................................................................... 
+Backend Web Development 
+| 
+CyberEye Research Labs & Security Solutions Private Limited May 2016 - July 2016 
+Explored in depth about models, views and urls using Django web framework based on Python. 
+Worked on Task Response Form project and developed different APIs for data retrieval and processing. 
+Detailed study about models, views and controllers using Play framework based on Java. 
+Devised Leaderboards Project using Play framework which presents daily, weekly and monthly leaderboards. 
+Successfully connected the project to redis server and constructed different APIs for data retrieval. 
+Exposure to the backend process flow of processing the request in API and rendering response. 
+.......................................................................................................................................................................................... 
+Management 
+| 
+iBrain Thinking Solutions Private Limited 
+May 2014 - July 2014 
+Worked as a part of Feedback Management Team which designed the process flow of receiving feedback. 
+Played a key role in involving 5000 active users across India in providing feedback to the organization. 
+PROJECTS 
+Acid Hydrolysis of Lignocellulosic Biomass 
+| Master's Thesis Project 
+| IIT Kharagpur 
+Aug 2017 - Present 
+Carrying out acid hydrolysis of the biomass (Ricinus Communis) for the production of biofuel. 
+Biofuel Production from Lignocellulosic Biomass | 
+Bachelor's Thesis Project 
+| 
+IIT Kharagpur 
+Aug 2016 - Apr 2017 
+Performed Structural Characterization of the biomass (Ricinus Communis) using FTIR, FESEM &XRD Analysis. 
+Calculated the Lignin content by performing Lignin Content Analysis through Ultraviolet Microscopy. 
+Performed Delignification for the substrate taking temperature and time as parameters. 
+COURSEWORK INFORMATION 
+Data Structures and Algorithms 
+Programming and Data Structures Operating Systems 
+Object Oriented Programming System Design and Analysis of Algorithms 
+AWARDS AND ACHIEVEMENTS 
+Secured 2nd Rank in South Indian Math Olympiad (2008) 
+Among the top 0.02% in Joint Entrance Examination JEE-ADVANCED (2013) Achieved All India Rank 432 among 3.5 lakh students in EAMCET(2013) CERTIFICATIONS CyberEye Research Labs & Security Solutions Pvt.Ltd 
+Took part in the Ethical Hacking and Cyber Security (Level 1) training workshop conducted at IIT Kharagpur. 
+EXTRA CURRICULAR ACTIVITIES 
+Served as a volunteer for National Service Scheme NSS, IIT Kharagpur. 
+Attended Summer Camp at Ayma Village , held by National Service Scheme, NSS - IIT Kharagpur. 
+Surveyed the living conditions of the locality during the camp and reported it to the respective authorities. ......................................................................................................................................................................................... 
+C 227, Azad Hall of Residence, IIT Kharagpur 
+(+91) 9800108507 | venkat.ranabothu@gmail.com Please note if any item is marked as '!' the same is not verified by CDC, IIT Kharagpur. 

@@ -1,0 +1,60 @@
+VINOD KUMAR REDDY SURE 
+Email : vinodreddysure@gmail.com 
+Mobile : +91 8978486816 
+Career Objective : 
+To work in a lively and challenging environment which allows me to apply my knowledge and skills to provide quality solutions for my clients while enhancing my own skills with job satisfaction and scope for personal development and growth. 
+Profile Summary: 
+Overall 1.6 of experience in Mobile Application Development (iPhone/iPad) using Objective-C, UIKit, AVFoundation, CocoaTouchand Frameworks. 
+Strong working knowledge in Object Oriented Programming (OOPS),Objective C. Hands-on experience working with iPhone SDK XCode, Interface Builder, Simulator and Instruments. 
+Created and customized views, table views, tab bars and navigation bars which are some basic functionality in a multi view application.. Good experience with Foundation frameworks, SQLite, Core Data, Photos, PhotosUI, Messages UI and third party frameworks. 
+Extensively worked on Multi-view Applications using UINavigationController, UITabBarController, UITableViewController using Storyboard and XIBs. 
+Good working experience on RESTful web services in both JSON and XML formats by using parsers such as NSXMLParser and NSJSONSerialization. 
+Expertise on various iOS SDK including 8 for iPhone/iPad, Objective-C, Cocoa 
+Touch including interface builder and storyboards and Git on daily basis. 
+Requirements and specifications, design, construction, testing, and maintenance. 
+Proficient in source control with Git. 
+Excellent logical, analytical, communication and presentation skills and capable of multi-tasking, and able to quickly understand new ideas and concepts. 
+Precise communication, problem solving attitude, decision-making and keenness to learn are my key strengths. 
+Software Proficiency: 
+Skills 
+Languages 
+Database 
+Softwares&Tools 
+Web Services 
+Operating Systems : Cocoa Touch, iOS SDK, JSON parsing, REST Web 
+Services, Apple Push Notification Service, Social network integration, design patterns, Maps, Auto layouts. : Objective-C, Swift, C. : SQLite, Core Data, Plist. : XCode. :REST Web Services. :Mac OS X, Windows. 
+Educational Qualification : 
+Bachelor of Technology in Electronics And Communication Engineering from DRK College f Of Engineering And Technology (JNTUH) Professional Work Experience: 
+Currently Working with Tech Basil IT Solutions Pvt Ltd (Chennai) since jan 2016 - till Date. 
+PROJECTS : 
+#3.Project 
+One Click Dry Cleaners 
+Team Size : 02 
+Role : Developer 
+Description of the Project - This App Is designed for the Dry Cleaners. It Connects them with their and also provides the services.This app also provides membership to their customers with that membership they can get all the services with this app.This App gives One Click 4-Step Formula, which starts from placing customer order until they receive it completed, with total convenience and a perfect result every time (please click here for details) 
+Responsibility: Analysis Client Requirements, Prepare timeline, decide web API structure, Manage UI, Update Local Database, Implement functionality, Publish to AppStore 
+Apple Store Link: 
+https://itunes.apple.com/au/app/one-click-dry-cleaners/id1228821600?mt=8&ign- mpt=uo%3D2 #2.Project 
+Tamra 
+Team Size 02 
+Role : Developer 
+Description of the Project - This app is developed in such a way that ,user can see restaurant menu offline also they can order food with this app. Not only ordering users can see special offers given by restaurant .This app also shows location and timings of restaurant.Online payment system is implemented in this app. 
+Responsibility: Analysis Client Requirements, Prepare timeline, decide web API structure, Manage UI, Update Local Database, Implement functionality, Publish to AppStore Apple Store Link: 
+https://itunes.apple.com/dz/app/tamra/id1176480431?mt=8&ign-mpt=uo%3D2 
+#1.Project 
+Annapurna Indian Cuisine- Team Size 02 Description of the Project -This app is developed in such a way that ,user can see restaurant menu offline also they can order food with this app. Not only ordering users can see special offers given by restaurant .This app also shows location and timings of restaurant.Online payment system is implemented in this app. 
+Responsibility: Analysis Client Requirements, Prepare timeline, decide web API structure, Manage UI, Update Local Database, Implement functionality, Publish to AppStore 
+Apple Store Link: 
+https://itunes.apple.com/us/app/annapurna-indian-cuisine/id1118398636?mt=8 
+Personal Profile: 
+Name 
+Father s Name 
+Gender 
+Date of Birth 
+Address 
+Languages Known : 
+Sure Vinod Kumar Reddy : S.Prabhakar Reddy : Male : 13th June 1995 : 4-23,Paluru(Village & Post), Kandukur(M), Prakasam District, Andhra Pradesh. 
+Pin : 523105 : English, Telugu, Hindi. 
+Place Date : : 
+Signature 
+(S. Vinod Kumar Reddy) 

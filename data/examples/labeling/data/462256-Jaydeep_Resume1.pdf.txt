@@ -1,0 +1,33 @@
+007
+B M Shoma Paradise 
+Bangalore-560037 J A Y D E E P 
+M. 
+V A C H H A N I +91 9620095872 
+vachhanijaydeep51@gmail.com EMPLOYMENT 
+Software Engineer DELPHI Automotive System PVT LTD NOV 2015 - Current 
+Experience in Creating HMI for Instrument Panel Cluster using Populus Editor according to Customer 
+Requirements. 
+Experience in using CANoe and CAPL scripting for testing the Instrument Panel Cluster Features. 
+Experience in using VECTORCAST and RTRT tools for Unit Testing. 
+Write, debug, review, test and document C code according to SW Industry Standards (MISRA). 
+Embedded Trainee Vector India Bangalore APRIL 2015 OCT 2015 Hands on Experience in Embedded System Programming. 
+Having Experience on working UART, SPI, I2C, CAN and LIN protocols. 
+Extensively worked with C, C++, Linux System Programming, Micro controller 8051 and Socket 
+Programming. 
+Has done Project work on Micro controller 8051. 
+EDUCATION 
+Rajkot , Gujarat Gujarat Technological University June 2010 June 2014 B.E in Electronics and Communication, CGPA : 7.98 Hands on Training in Embedded System Programming and Protocols Vector India Bangalore. 
+Undergraduate Coursework: Operating Systems, C Programming, Microcontroller 8051, Linux system Programming, Socket Programming. 
+PROJECTS 
+Instrument Panel Cluster for Cadillac, General Motors 
+Worked in HMI Development using Populus Editor. 
+Responsible for Functional Testing by CANoe and Prototalk. 
+Developed Test cases using CAPL script. 
+Developed panels using vector CANoe. 
+Developed messages using Prototalk. 
+Instrument Panel Cluster for JAC Motors 
+Responsible for Unit Testing by VectorCAST and RTRT, Functional Testing. 
+Develop test cases consisting of known inputs and expected values, to stimulate the functionality of the code under test. 
+Using code coverage to measure testing completeness. 
+Languages and Technologies 
+C++; C ; EMBEDDED C ; Linux; Python ; Socket Programming ; RTRT ; VECTOR CANoe ; VectorCAST ; Prototalk ; Visual Studio ; Source Insight ; 

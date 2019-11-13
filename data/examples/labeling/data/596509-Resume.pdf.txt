@@ -1,0 +1,45 @@
+Name: Bhagyashree Rai 
+Mobile: 8879340739 
+E-mail: raibhagya2014@gmail.com 
+Objective: To be a part of organization that provides an atmosphere of mutual growth and benefits, where I can show my talent and potential. 
+Academic Qualification: 
+Examination 
+Year 
+Institute/University CGPA 
+Final Year 2015-16 SCOE 8.18 Third Year 2014-15 
+SCOE 
+8.085 Second Year 2013-14 
+SCOE 7.79 
+First Year 2012-13 
+SCOE 7.48 HSC 2011-12 
+K.V.KOLIWADA 75% SSC 2009-10 
+K.V.KOLIWADA 
+91.2 % 
+Work Experience: 
+Designation: Technical Editor 
+Company: Packt Publishing 
+Experience: 8 months 
+Worked on: 
+Java 9 with JShell Docker Orchestration 
+Implementing DevOps with Microsoft Azure 
+Technical Skills: 
+Databases: MySQL 
+Languages: C, Core Java 
+Web Technologies: JSP, JSTL, HTML 
+Android App Development (Animations, SQLite, Server connection, Fragments) 
+Projects: 
+Third Year Project: 
+Title: College Information System 
+Environment: JSP , CSS CIS provides a simple interface for maintaining student details like their attendance, results, assignments etc. It also provides information about college campus. 
+BE Project: 
+Title: AdolHealth - An Adolescence Health Awareness Application Environment: Android Studio, Android 
+Description: Adolescence is the time where a child becomes an adult, this age starts with the onset of puberty which is characterized by both physical and psychological changes. Often these times can be confusing to a teenager and due to the changes there will be lot of questions. We propose an android app which hopes to give answers to their questions not only regarding puberty but overall health issues and concerns. 
+Internships: 
+Summer Training Program on Android App Development conducted by ABLE BRAIN . 
+Extra-Curricular Activities: 
+Participated in Poster Making. 
+Participated in Debug It and Spot Presentation. 
+Attended technical workshop on Ethical Hacking at Saraswati College Of Engineering, Kharghar. 
+Hobbies: 
+Singing 
+Dancing 

@@ -1,0 +1,37 @@
+Curriculum Vitae December 2, 2016 PERSONAL INFORMATION NAME: MANASA ANN THOMAS 
+Ferdinand Sauerbruch Weg 3, 89075 Ulm +49 (0) 17645763282 
+manasa.thomas@uni-ulm.de 
+Sex: Female 
+Date of birth: 20/10/1992 
+Nationality: Indian 
+EDUCATION 
+03/2015 present: Master of Science 
+Communications Technology 
+Universitt Ulm, Germany 
+Digital Communications, Communication Systems, Microwave Engineering, Channel Coding, Neural Networks, Computer Networks, Applied Information Theory, Integrated Analog Circuits 08/2010 04/2014: Bachelor of Engineering Electronics & Communication Engineering 
+Anna University, Chennai, TN, India 
+Digital Signal Processing, Electromagnetic Fields, Microwave Engineering, Optical Fibre Communications, Computer Networks, Medical Electronics, Communication Theory, Antenna & Wave Propagation, Embedded Systems, Network Security, Total Quality Management, Principles of Management 
+05/2010: High School Degree, 2010 (CBSE syllabus, India) PRACTICAL EXPERIENCE 01/2014 02/2014: Bharat Electronics Limited, Chennai, TN, India 
+Adaptive Back-stepping Stabilization of Gun Turrets in Main Battle Tanks PERSONAL SKILLS 
+Mother Tongue: Malayalam 
+Other Language(s): English (Fluent) 
+German (Basic) 
+Hindi 
+Engagements: Student member in organising committee of electronics and communication engineering department to co-ordinate inter-college competitions and symposiums Voluntary service at retirement homes 
+Computer Skills: Intermediate Knowledge of C, C++ 
+Intermediate Skills of MATLAB 
+Basic Skills of NI LabVIEW, Packet Tracer 
+Good command of Microsoft Office tools Basic level of LaTex 
+Hobbies: 
+Love to travel and experience different cultures 
+Enjoy listening to music Cooking 
+FURTHER EDUCATION 
+Workshops: 
+Dr.N.G.P. Institute of Technology, Coimbatore, India; 28th February 2012, Workshop on Hands-On in Embedded Systems using PIC Controller 
+Dr.N.G.P. Institute of Technology, Coimbatore, India; 19th 23rd August 2013, Workshop on XILINX FPGA System Design; CoreEL Technologies (I) Pvt. Ltd 
+Dr.N.G.P. Institute of Technology, Coimbatore, India; 6th 
+10th January 2014 Workshop on TI C2000 32 bit Fixed Point DSP Engine and its Applications; Texas Instruments, Bangalore 
+Other Certificates: 
+Dr.N.G.P. Institute of Technology, Coimbatore, India 
+NI LabVIEW Core 1 & Core 2 Cisco CCNA Exploration: Network Fundamentals 
+Cisco CCNA Exploration: Routing Protocols and Concepts 

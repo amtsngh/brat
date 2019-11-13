@@ -1,0 +1,74 @@
+SINGAM MADHUKAR (IPhone Applications Developer) 
+Email id: s.madhukar.ios@gmail.com 
+Mobile: +91-8374245747 
+Career Objective: 
+To obtain a responsible, challenging, and awarding position in a software development organization with an established track record where my skills, abilities and technical abilities can be utilized. 
+Professional experience: 
+Working as IPhone / IOS Developer in Weidbee Software Private Limited, Hyderabad, Since 
+Feb 2015 
+Education: 
+Post Graduated in Software Engineering from Brilliant Institute of Engineering & Technology, Hyderabad in 2016 with 70% aggregate. 
+Graduated in Computer Science and Engineering from Vaageswari College of Engineering, Karimnagar in 2014 with 65% aggregate. 
+Higher Secondary Examination from S.R.K Junior College, Godavatikhani in 2010 with 65% of aggregate. 
+Key Skills: 
+2.3 years of experience as IPhone application developer. 
+Good command over SQLite, Core Data and Plist. 
+Worked extensively with Objective C, Swift and Cocoa Touch frameworks. 
+Ability of coming up with unique ideas. 
+In depth understanding of OOP s concepts. 
+Developed interactive views with functionalities like UIScrollView and Navigation Bar Controller. 
+Experienced in building the CollectonView, UITableView and the View interactions. 
+Good knowledge of interaction with web service APIs, frameworks integration using Cocoa Pods and Firebase. 
+Excellent command over JSON, XML Parsing. 
+Hands on experience in using Cocoa Touch UI framework, UIKit and Core Data. 
+Technical skills: 
+Programming Language : C, Objective-C and Swift 
+Framework : 
+Cocoa Touch Framework 
+Software Tools : XCode, Eclipse Operating System : MAC OS and Windows Family 
+Mobile OS : IOS 
+Web Services : XML, JSON 
+Database : 
+Core Data, SQLite, Plist 
+Projects: 
+Project #1 
+Project Name : ALOE DISTRIBUTORS 
+Category : Business 
+Technology : IPhone SDK, Objective-C 
+Tools 
+: XCode 
+Description : This App has Push Notification enabled, receive the latest news straight to your Smartphone lock screen, contact us directly via the App form and benefit from In-App Deals exclusive to our App users. James and Paula became involved with Forever Living having been introduced to the products and then the business by a close relative. James has worked for 15 years in the IT industry and was looking for two things. The first was a way to balance the hectic lifestyle and unhealthy eating habits that come from long days and travel associated with his role. Having been introduced to the products James found a potential solution to this. The second was a way to remove himself from the "rat race" and find a calmer pace of life. These two combined led James to become a Forever 
+Living Business Owner. 
+To contact James and Paula in Relation to the Forever Living Business opportunity, please fill in the form on the left. If you are a regular customer of James and Paula's please click on the banner below to access their shop and restock your favorite Aloe Vera Products ITunes URL: https://itunes.apple.com/us/app/aloe-distributors/id1017262495?mt=8 Project #2 
+Project Name : ARCADIA SOLAR 
+Category : Business 
+Technology : IPhone SDK, Objective-C 
+Tools 
+: XCode 
+Description 
+: Arcadia Solar is a free App available for anyone to download and is used for those that want to earn rewards by sending referrals to Arcadia Solar. It is as simple as downloading the App, selecting the Sales Rep and registering. Once registered, you can begin sending referrals right away. It is the one app that will allow the user to easily submit referrals to Arcadia 
+Solar and track the progress of your referral and rewards right on your mobile device. Referring has never been so easy. 
+ITunes URL: https://itunes.apple.com/us/app/arcadia-solar/id1146420620?mt=8 Project #3 
+Project Name : ACCESS CYPRUS 
+Category : Business 
+Technology : IPhone SDK, Objective-C 
+Tools 
+: XCode 
+Description : Access Cyprus 
+All in one touch And For Free 
+Your local search for companies, phone numbers, products, services and business information. 
+No need of dialing information centers to get phone numbers 
+No need to switch on computers to find out about business, to book restaurants, businesses etc. 
+One touch to Access Cyprus. 
+Businesses are categorized by business, location, and activity. 
+Your online business directory and phone book. 
+ITunes URL: https://itunes.apple.com/us/app/access-cyprus/id1118906444?mt=8 
+Personal Details: 
+Father s Name : Singam BavanaRushi Date of Birth : 28-01-1992 Sex/Marital Status : Male/Single 
+Nationality : Indian 
+Contact Address : Ayyappa Society, Madhapur, Hyderabad, 500060, Telangana. 
+Declaration: 
+I hereby declare that the information furnished above is true to the best of my knowledge. 
+Place: Hyderabad 
+Date: 
+Singam Madhukar 

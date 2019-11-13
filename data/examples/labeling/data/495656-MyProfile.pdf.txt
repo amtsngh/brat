@@ -1,0 +1,58 @@
+Resume 
+Ajay Singodia Linkedin 
+219,1st Main Raod, 7th Block, Koramangala, Bangalore. 
+Contact No: 9571558866 
+Email Id: ajay1.singodia@gmail.com 
+Objective: 
+To work as a Hadoop developer in an organization that offers me responsibilities, opportunities and allows me to learn new technologies while utilizing my current skill in following technologies Hadoop. 
+Professional Experience: 
+SI&T, Bangalore, India 
+Hadoop Developer (June 2016 till date) 
+Roles: 
+Loading data from different datasets and deciding on which file format is efficient for a task. 
+Source large volumes of data from diverse data platforms into Hadoop platform. 
+Managing Hadoop jobs using scheduler. 
+Reviewing and managing hadoop log files. 
+Design and implement column family schemas of Hive and HBase within HDFS. 
+Assign schemas and create Hive tables. 
+Apply different HDFS formats and structure like Parquet, Avro, etc. to speed up analytics. 
+Build new hadoop clusters 
+Maintain the privacy and security of hadoop clusters. 
+Skills Summary: 
+Good in Hadoop and Big Data concepts. 
+Practical experience in Hive, Pig - Scripts. 
+Hands-on MapReduce. 
+Data Ingestion: Sqoop, Flume. 
+Distributions: Cloudera (CDH1.6, CDH4.7, CDH5.2) 
+Platforms: Ubuntu, Centos, Windows (7/8/10) 
+Education Background: 
+JaganNath Gupta Institude of Technology (JNIT), Jaipur, Rajasthan. Bachelor of Technology (2016). 
+Projects: 
+Email Data Analyze 
+Oct 2016 to Til-date 
+In this project, I used technology to design an end-to-end data pipeline that will enable us to analyze Email data. Email Analytics System allows us to understand the email traffic by date, hour and year as well as graph analysis. 
+Technology Used: Hadoop, Pig, Sqoop, HDFS. 
+Database: MySQL. 
+Role Hadoop Developer. 
+Reviewing & Analysis of trending website July-2016 to Oct 2016 Reviewing & Analysis and Trends of social media web site is an application in which we find out review about a website and according to those reviews we find the most trending websites, their names and count of the users they have. 
+Technologies used : Hadoop, MapReduce. 
+Tools : Hive, Pig, Flume. 
+Role Hadoop Developer. 
+Personality Traits: 
+Quick learner 
+Self-motivated Pragmatic 
+Hobbies: 
+Learning Maths, Computer, Programming tricks. 
+Playing Chess. 
+Travelling and Exploring new places. 
+Personal Details: 
+Date of Birth: 
+05 July, 1995 Gender: Male 
+Father s Name : Mr. Damodar Prasad Saini Nationality: 
+Indian Languages Known: English and Hindi 
+Permanent Address: Mavliyon Ki Dhani, Laxmangarh, Dist Sikar, Rajasthan (332311) 
+Declaration: 
+I solemnly declare that the statements made by me are true to the best of my knowledge and belief and 
+I bear the responsibility for the correctness of the above mentioned particulars. 
+Place: 
+Bangalore (AJAY SINGODIA) 

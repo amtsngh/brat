@@ -1,0 +1,85 @@
+Lev V. Tochilnikov 
+225 Elm Wood Ct. 
+Los Gatos, CA 95032 408.425.0946 
+levtoch@sbcglobal.net (mailto:levtoch@sbcglobal.net) 
+Objective: To obtain a challenging position as a System or Software Quality Assurance Engineer 
+Summary: 
+Over 10 years hands-on experience in software system engineering and quality assurance field 
+Practical knowledge of testing methodologies: Functional, Regression, Acceptance, Configuration, System, Stress, Compatibility, Performance, Installation, and Usability 
+Testing major components of HPE ESP(Enterprise Security Product), OIM (Oracle Identity Manager) 
+Developing automated test suites utilizing Perl, Shell, and Expect scripting Developing and execute automated test cases on Selenium 
+Certification ORACLE AS (Application Server) 11g/10g releases on different Linux, windows platforms, and db versions Hands-on experience in manual and automated testing of Element Network Management System (ENMS) Java software application, which provide management and service provisioning of Gigabit IP over Fiber optics Utilizing SmartBits, IXIA family products to simulate traffic on the wire model, static routing, and dynamic routing configuration setups Testing network devices by using Command Line Interface (CLI) and Web Management Interfaces 
+Energetic result-motivated Software QA professional. Capable of mastering new skills quickly and efficiently. Well-developed communication and organizational skills. Self-starter that works well independently as well as a member of a team. Capable to do multi-tasking under pressure. 
+Skills: 
+Data Base: Oracle 12/11/10g, 11g, Oracle Enterprise Manager, SQL, My SQL, Oracle 9i, TOAD VI 
+Network: RPR IEEE 802.11/16/17/3, TCP/IP, WLAN, DOCSIS, RPT, FDDI, ADM, PON, FTTH, SONET, SNMP, Ethernet, PIT, VLAN, T1, E1, DWDM, ATM, FTP, TFTP, HTTP, NTP, Firewall, VPN, Radius server, QOS, COS, ISDN,OSPF, BGP, and RIP OS: Windows 10/8/7/Vista08/03, UNIX/LINUX, Mac OS10/9, Android, Sun Solaris, Cisco Routers IOS, MS DOS 
+Tools: Eclipse, Selenium 103, Sniffer4.50/Pro, Ethereal, WildPackets, MIB Browser (Adventnet/MG-SOFT 6.10), SmartBits, SmartFlow, SunSet T10 (t1 tester), SunSet E20 (e1 tester), Cisco Router 2500, 3600, IXIA, Win CVS 1.3, Visual C++ 6.0, MS Office Suite, MS Exchange, Symantec Ghost 7.5, Exceed 6.2, Labview, Sec CRT, WinRunner 7.5, LoadRunner 7.51, Silk Test 5.3, Spectrum Analyzer Agilent 8591C 
+Languages: C/C++, Python, Perl, Shell Script, Java, Verilog, HTML, XML 
+Bug Tracking: JIRA,Clear Quest, Test Director, File Maker Pro, Bug Tracker, Bugzilla, Clarify 
+Experience: 
+12/14-Present 
+Hewlett Packard Enterprise, Sunnyvale, CA 
+Senior SQA/System Test Engineer 
+Responsible for testing GEO-Vulnerability updates for all releases and patches of Arcsight ESM(Enterprise Security Manager) product Responsible for Arcsight ESM(Enterprise Security Manager) Data seed Upgrade testing 
+Developed automated test cases on Selenium for ACC(Arcsight Command Center) web console 
+Responsible for testing Arcsight SmartConectors with setup to Hadoop, AD (Active Directory), and ldap Responsible for product testing in locale environment RU/FR 
+Provide quick response and help developers for customers request and hot issues 
+Provide hot fixes verification Create and review product release documentation including upgrade, installation, and configuration guides 06/06-12/14 
+ORACLE USA, Redwood City, CA 
+Senior MTS/System Test Engineer 
+Responsible for OIM (Oracle Identity Manager) Data seed Upgrade testing 
+Developed automated test cases on Selenium for Organization Management, Scheduler, and Role Admin SOD projects 
+Responsible for LibOVD (Oracle Virtual Directory) testing with integration of OID (Oracle Identity Directory), IPlanet, and AD (Active Directory) 
+Certification AS (Application Server) 11g/10g releases on different os platforms such as oel5, suse10, windows vista, and windows 2008 Integration all 10g SOA (Service Oriented Architecture) components on 10g patchset releases 
+Provide and administer DB and AS hosted environments settings for further components teams testing Develop and execute manual and automated test cases using DTE (Distributed Topology Environment) and scripting languages (perl, shell) Testing products on different java versions such as jdk1.4, jdk1.5, and jdk1.6 Cooperate, troubleshoot, and provide problem investigation with components tests teams members 
+Oracle University Classes taken: Oracle Database 10g-Administration I/II, Oracle Application Server 10g-Administration I/II, Oracle Identity Manager 11g I 
+04/05-06/06 
+Trapeze Networks Inc., Pleasanton, CA 
+Senior SQA Engineer 
+Testing Trapeze Networks Mobility System is an enterprise-class Wireless LAN 802.11 solution that allows users to roam securely anywhere in a network and over any topology, including corporate headquarters, branch office, campuses or multi-tenant and multi-use facilities 
+Testing RingMaster tool suite a full-featured java GUI client/server application used to plan, configure, deploy, and manage a WLAN and its users Testing Mobility System Software (MSS) the operating system that runs all MX switches and MP(access points) in a WLAN, and is accessible through a CLI, the Web View interface, and Ring Master GUI 
+Interoperability OEM testing of different brand wireless switches that supposed to be interoperable within a mobility domain and manageable via RingMaster Testing and debugging embedded and middleware platform system software in the NetBsd Shell environment Utilizing Perl, Shell, and Tkl scripting languages to perform configuration, scalability, and stress testing of the system Mentored new engineers and helped them come up to speed on the product 
+11/04-04/05 
+Warpera Corporation, Fremont, CA 
+Senior System Test Engineer 
+Testing CMTS device which provides an interface between subscriber cable modems and the backbone network over the DOCSIS( Data Over Cable System Interface Specification ) protocol setting Testing transparent Ethernet bridging mechanism as well as in-band and out-band management setup through the CMTS 
+Testing interfaces statistics by utilizing Smart Bits/IXIA traffic generators tools Develop and execute Perl and Expect scripts for stress testing on Cable Modems and CMTS communications 
+Testing and debugging embedded and middleware platform system software in the VxWorks Shell environment Develop and execute different QA/Testing documentation such as test cases, test plans, and etc. 
+11/03-11/04 Kodak Polychrome Graphics, Inc., Oakdale, CA Senior QA/Test Engineer 
+Testing Matchprint Color RIP Software (MPCR) Java client-server application for management Inkjet Printers which allow user to print files over a network for output on a inkjet printers 
+Performance testing for ripping and printing time of MPCR application version MPPP1.0 via LAN setup in the lab 
+Testing printers communications over the LAN test lab setup using TCP/IP protocol Testing Scatter Proofing tool allows multiple images to be combined and printed over the network on a single page Testing Kodak Polychrome Graphics One Bit TIFF interface (OBTI) allows to proof high resolution to generate color-accurate proofs on inkjet devices Testing software localization EFIGS +
+J for all companies applications 
+Communicating results, problems, and defects to developers, troubleshot them and discussed as needed 03/03-10/03 AllOptic, Inc., Livermore, CA QA/Test Engineer 
+Testing of GigaForce Element Management System (GEMS) Java client-server software application for supports and manages passive optical networking system, which provide a full services access network that delivers converged data, video and voice over a single optical access system Testing functionality of AllOptic products by using Web Management Interface 
+Testing Ethernet PON (Passive Optical Network) setups and configurations in the Lab Environment 
+Using MG-Soft MIB browser to monitor GEMS and SNMPv2c 05/00-12/02 Luminous Networks, Inc., Cupertino, CA MTS/System Test Engineer 
+Testing of Luminous Network Management System (LNMS) Java client-server software application, which supports FCAPS (Fault, Configuration, Accounting, Provisioning, and Security) including point-and-click end-to-end service provisioning to manage traffic over gigabit Ethernet 
+RPT (Resilient Packet Transport), OAM&P, and Alarm functionality testing 
+Testing Ring Protection Switching and topology discovery mechanism while provide protected/unprotected traffic through the ring High Availability testing for many cards including T1/E1, Ethernet, Switch, Syscon, and etc. Testing functionality of Luminous ADM switch box by using Command Line Interface (CLI) management interface 
+Using Adventnet MIB browser to monitor LNMS and SNMPv2c Using Sniffer Pro Analyzer to capture data, monitor network traffic, collect key network statistics, and troubleshoot common network problems Performed system upgrades and troubleshooting as well as setup of network topology and node configuration Testing security access to the Luminous ADM switch via CLI and LNMS by utilizing Radius Server, Firewall, and VPN as well Testing and debugging embedded and middleware platform system software in the VxWorks Shell environment 
+Testing of download new software images by using TFTP and FTP servers to different cards such as Ring (switch), Syscon, ten100, Ethernet, Gigabit Ethernet, t1, DWDM, and etc. Developed automated test suites utilizing Shell and Expect scripting for HA and Stress testing to verify how is system work properly and robust according to long term testing results Release functionality and system testing of the product 
+04/99-05/2000 
+Contact Networks, Inc., Redwood City, CA 
+Software Quality Assurance Engineer 
+Cross-platform (Windows and MAC) testing of client-server Contact Management application Testing in-house web application, which allows users to obtain latest company products update functionality, browser compatibility, OS compatibility, usability, GUI, regression, etc. 
+Responsible for acceptance testing of new releases 
+Testing WAP (Wireless Application Protocol) devices serviced by application server Setup, configure, and troubleshoot LAN of System Test Lab equipments which include Cisco routers, switches, hobs, and testing workstations 
+Setup and configured various Microsoft Family Products (Exchange, Outlook, etc.) 
+11/97-04/99 Baylook.com, Campbell, CA 
+Software Quality Assurance Engineer 
+Comprehensive testing of e-commerce application, which allows businesses to purchase advertisement services on-line Operating system and browsers compatibility testing (MSIE, NN, AOL, Windows, UNIX, MAC) Automated testing of returning bugs with Segue Silk 
+Functionality and regression testing, acceptance testing of new builds and releases 08/91-07/96 
+Lugansk Locomotive Company, Ukraine 
+IT/Test Engineer 
+Comprehensive testing of many releases of the corporate accounting system. Originally that client-server application was developed for the manufacturer of locomotives on mainframe and later was ported to the Windows/MS SQL Server environment 
+Tested functionality of the system from the user standpoint GUI, usability, functionality, etc. 
+Provided user training and technical support for the company products Created user manuals and specific documentation for company products 
+Education: Lugansk State University, Ukraine (09/85 - 06/91) M.S. Physics and Computer Science 
+De Anza College, Cupertino, CA (09/97 
+12/02) 
+Various Computer Science classes: Cisco Router, Networking, TCP/IP, Unix, Advanced Unix/Shell Scripting, Intermediate C, and Data Structures 
+Santa Clara Education Center, Santa Clara, CA (09/97 - 02/98) Certificate in Software QA 
+Awards: Certificate of Excellence from Luminous Networks, Inc. that was granted in May 4, 2001 for significant and tremendous effort on the system test of release 2.0 in preparation for Beta trials 
+Personal: U.S. Citizen 
+Page 4 of 4 

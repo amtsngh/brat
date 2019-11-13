@@ -1,0 +1,36 @@
+Lokesh Kumar 
+Street No 11, Shanti Nagar, Bhiwani, Haryana 127021 
+[C] 9728934369 | lokeshkaushik1993@gmail.com 
+Objective: 
+To work as a Business Intelligence Developer with a leading software company where I can design, test, and deploy data warehouse as well as provide solutions to data analytic issues 
+Skills: 
+BI Servers Tableau Server, JasperReport Server 
+BI Designer Tools - Tableau Desktop, iReport, Jaspersoft Studio, Jaspersoft OLAP WorkBench SQL MySQL, Oracle SQL, SparkSQL, Apache Drill, MDX SQL Tools 
+MySQL Workbench, Oracle SQL Developer 
+Database Designing, Data Analysis and Profiling 
+Operating System - Windows 7/8, Linux 
+Professional Summary: 
+Perceptive and logical Business Intelligence Developer with the proven ability to communicate with both technical professionals and end users to identify and translate business requirements. 
+Offer 1.8 years of experience driving data accuracy and integrity. Proven ability to build and lead teams of talented professionals to develop valuable process solutions to meet business objectives. 
+Work Experience: 
+Software Developer in JetSynthesys Designed and developed schema data models. 
+Coordinated statistical data analysis, design, and information flow. 
+Proficient in Data Blending, Filters and Parameters, Groups and Sets, Level of Detail expressions. 
+Developed database objects, including tables, views and materialized views using SQL. 
+Participated in requirements meetings and data mapping sessions to understand business needs. 
+Generated ad-hoc reports, sub-reports, drill-down reports, drill-through reports and parameterized reports and Dashboards to provide visible data for data analysts and business. 
+Identified and documented project constraints, assumptions, business impacts, risks and scope exclusions. 
+Mobileum Project 
+Mobileum helps telecom service providers advantage the power of predictive analytics and real-time insights to drive game changing business transformation. Designing and Development of Reports and Dashboards based on business requirements. 
+Intelli-Track 
+Tracking user s activity and based on its behaviour, sending them contextual web push notification instantly or at specific date time with an aim to engage the user with site. By increasing understanding about what customers are buying, one can also maximise opportunities for cross selling or up selling. 
+Intelli-Exchange 
+Intelli-Exchange is an ad exchange platform that facilitates the buying and selling of media advertising inventory from multiple ad networks. Intelli-Exchange have several components like Demand Side Platform, Supply Side Platform and Data Management Platform. Intelli- 
+Exchange uses Real Time bidding that lets advertising buyers bid on an impression and, if the bid is won, the buyer s ad is instantly displayed on the publisher s site. 
+Education: 
+Halwasiya Vidya Vihar (CBSE) o 2009 AISSE(10th) 83.17% o 2011 AISSCE(12th) 79.6% DCRUST, Murthal 
+o 2015 B.Tech(CSE) 
+65.17% Hobbies and Extracurricular Activities: 
+Playing football and Watching Tennis. 
+Achieved 3rd position and 2nd position in Inter-Collegiate Football championship, organized by DCRUST in 2013 and 2015 respectively. 
+Achieved 1st position in inter year Football championship in 2013 and 2014 

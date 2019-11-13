@@ -1,0 +1,91 @@
+RESUME
+ 
+Gowthami.V.R 
+Contact: +91 8147936260; Email: gouthami.vijaya.12@gmail.com 
+To be the part of winning team of professionally managed organization, so that intend to build a career with a challenging and rewarding position in an organization to utilize my skills and abilities. 
+Examination Discipline Institution 
+University 
+/Board 
+Percentage % Year of Passing 
+Programming 
+Automation and Java, testing Testing 
+Campus 
+Certified 2017 M.TECH 
+Communication 
+System 
+NHCE VTU 76.42 2015 
+B.E ECE EPCEW VTU 71.55 2013 
+P.U.C PCMB 
+New Public 
+PU College 
+Pre-University 
+Board 74 2009 
+S.S.L.C State Syllabus 
+Govt PU 
+College 
+K.S.S.E.E.B 84.8 2007 
+Operating system: Windows XP, Linux, Windows7 and Windows8. 
+Programming Languages: Core Java. 
+Automation Tool: Selenium. 
+Software Testing Training in Testing Campus Bangalore. 
+TESTING SKILLS:- Manual Testing, Automation Testing (Selenium 2 with Core 
+Java), SQL, Agile. 
+OBJECTIVE EDUCATIONAL CREDITIALS SOFTWARE SKILLS PROFESSIONAL TRAINING 
+Manual Testing 
+Good knowledge of SDLC and STLC. 
+Good knowledge in Writing, Reviewing and Execution of Test cases. 
+Good knowledge in Smoke testing, Functional testing, Integration testing, System testing etc. 
+Excellent in performing Exploratory, Regression, Compatibility testing. 
+Performing globalization and Adhoc testing etc. 
+Preparing defect report and raising then ticket in defect tracking tool. 
+Preparing traceability matrix to achieve minimum coverage in the project. 
+Attending triage calls. 
+Automation Testing Using Selenium Web Driver Excellent in developing frame work. 
+Good knowledge on Handling multiple elements. 
+Extensively worked with ANT and configuring it using build.xml. 
+Extensively worked with Junit. 
+Developing properties files and reading the content from properties files. 
+Reading data from excel using POI API and Strong knowledge on locaters and x-paths. 
+Having knowledge on Handling multiple browsers, alert boxes etc. 
+Developing bat files for the project. 
+CORE JAVA- 
+Good Knowledge on Inheritance, Polymorphism. 
+Storing knowledge on up casting and down casting. 
+Basic knowledge on Abstraction and Encapsulation. 
+Very good knowledge on Constructors and Interface. 
+Good practical knowledge on Collection Framework like List, Queue and Set. 
+Good in Exception handling. 
+Agile process Attending daily standup meetings and planning poker activity. 
+Attending scrum meetings. 
+Understanding user stories and preparing test cases. 
+Title: Demo CRM. 
+Technology: Java, Hibernate, MySQL, Servlet, JSP etc . 
+Description: 
+It is a web based application designed and developed to perform marketing in an efficient manner. It helps to manage and maintain leads, billing of the customer, performing 
+PROJECT email campaigns and measuring its efficiency, generating reports to analyze sales forecast, maintaining inventory and purchase entry details. It is a complete CMS designed to be modified as per the customers need. In simple words, it is one stop shop to help customer to do his marketing and sales in the efficient manner. 
+Roles and Responsibilities: 
+1. Write/review/execute test cases. 
+2. Performing functional testing, integration testing, system testing. 
+3. Writing test plan and Preparing traceability matrix. 
+4. Attending daily standup meeting and Attending triage calls. 
+5. Running Automation test and Analyzing automation reports. 
+6. Developing build.xml to configure ANT. 
+7. Integrating Junit for executing the test in selenium. 
+8. Developed properties file to store x-paths of the object. 
+9. Reading data from excel files by using POI API and Handling exceptions in an efficient way. 
+10. 
+Developing bat files for executing the test. 
+11. Matching the execution speed of selenium with the application using implicitly wait statements. 
+S Positive Attitude. 
+Ready to meet challenges in life. 
+Responsible person. 
+Good team player. 
+Name : GOWTHAMI.V.R. 
+Father s name : RAMKUMAR. R. U. 
+Mother s name : VIJAYALAKSHMI. B. N. 
+DOB : 12/12/1991. 
+Address : 3rd main, 2nd cross, kanakanagar, Hoskote, Bangalore rural district. 
+Languages known: English, Kannada, Telugu. 
+I hereby declare that the information furnished above is true to my knowledge and belief. 
+Place : Bangalore 
+Thank you for your consideration, Date : [GOWTHAMI.V.R] STRENGTHS PERSONAL DETAILS 

@@ -1,0 +1,94 @@
+Ritesh Kumar 
+Phone:+91-9590493522 
+BTM 1st Stage,9th 
+A Main,560029 Email: rit3sh.raina@gmail.com 
+Career Objective: 
+To contribute to the success of an organization by fully utilizing my skills and knowledge in the field of development in a position offering continuous growth and development. 
+Professional Summary: 
+1 year of experience in Java Technologies 
+Hands on experience in Java,J2EE, Servlets, JSP, JDBC, Hibernate 
+Object Oriented Development OOP. 
+Good working knowledge on Software development as well as testing. 
+Good working idea with team collaborative. 
+Hands on experience of Eclipse tool for developement of Java projects. 
+Hands on experience Jboss and Tomcat web servers. 
+Professional Experience: 
+Currently working as a Software Engineer in 6d Technologies, Bangalore from June 2016. 
+Working as a Software Engineer in Six Dee Telcome Solution Pvt Ltd, Bangalore from june 2016 Scholastic Profile: 
+B.TECH Computer Science from Magadh University in 2014 with an aggregate of 73.44%. 
+12th Standard from S.N.A.College Barh(Patna), Bihar, Magadh University Bodh 
+Gaya, with aggregate of 50% in 2008 10th standard from Secondary Education 
+Board, with an aggregate of 60% in 2005. 
+Technical Knowledge: 
+Operating System : 
+Windows 7/8/8.1/10 
+Primary Skills : 
+Core java,Servlet,JSP, Hibernate,Html 
+Languages : Java Scripting Languages : JavaScript,Jquery,Ajax 
+Web Servers : 
+Tomcat 5/6/7/8,Jboss 
+Database : Oracle 11g,MySql IDE : Eclipse 
+Experience Summary: 
+Presently I am associated with 6d Technologies India as a Software Engineer since June 2016 to Till Date. 
+Project #1: 
+Client : USSD 
+Environment : Software Programmer 
+Role : Software Developer Duration 
+: Dec 2009 to till date. 
+Description: 
+Unstructured Supplementary Service Data is a Global System for Mobile(GSM) communication technology that is used to send text between a mobile phone and an application program in the network.We have developed many features in the USSD for multiple clints.In this USSD We have added multiple features communicating with the phone and an application program in the network. 
+Roles & Responsibilities: 
+I achieved working experience as developer as well as tester. 
+I understood the Clint side requirements and worked as well. 
+Developed the Code as per the requirements. 
+Involved in developing the Jsp pages. 
+Handled different types of issues. 
+Testing and integration testing of owning use cases. 
+Modify existing software to correct errors. 
+Consult with customers on project status, proposals and technical issues. 
+Analyzing software requirements to determine feasibility of design within time and cost constraints. 
+Prepare reports and correspondence concerning project specifications, activities and status. 
+Environment: 
+Tomcat 7 core java,Servlet & Jsp,Hibernate,Spring(UI validation) 
+Tools: Eclipse Mars2,Toad 7.7,Notepad++,log4j,SQL developer 
+Project #2: Client : Inventory Management System 
+Environment : Software Programmer 
+Role : Software Developer Duration : Dec 2009 to till date. 
+Description: 
+The Inventory Management Application is used to update the inventory count and also helps the users to understand the inventory requirements and quantity of the products are left in the system and also what quantity to order. It also helps us with identifying how many goods that are there in the inventory are damaged Roles & Responsibilities: 
+I achieved working experience of writing good java code as developer and maintained the database. 
+Developed the Code as per the requirements. 
+Involved in developing the Jsp pages. 
+Handled different types of issues. 
+Testing and integration testing of owning use cases. 
+Modify existing project to correct errors. 
+Analyzing software requirements to determine feasibility of design within time and cost constraints. 
+Consult with customers on project status, proposals and technical issues. 
+Prepare reports and correspondence concerning project specifications, activities and status. 
+Environment: 
+Tomcat 7 core java,Servlet & Jsp,Hibernate,Spring 
+Tools: 
+Eclipse Mars2,Toad 7.7,Notepad++ 
+Personal 
+Strength: 
+Hardworking, Confident and Innovative. 
+Ready to Accept Challenge 
+Well Disciplined Good Communication 
+Quick learner Personal Information: 
+Name: 
+Ritesh Kumar 
+Date of Birth: 
+5th May 1990 
+Gender: 
+Male 
+Father Name: 
+Umesh Prasad Singh 
+Mother tongue: 
+Hindi 
+Nationality: 
+Indian Languages Known: English, Hindi 
+Declaration: 
+I hereby declare that the above written particulars are true and correct to the best of my knowledge and belief. 
+Place: 
+Bangalore 
+Date : Ritesh Kumar 

@@ -1,0 +1,67 @@
+RESUME TRINESH T M 
+1st Main , 2nd Cross 
+Vinayaka Extn Email id : tmtrinesh@gmail.com Vidyanagar 
+Mobile no : +91 8867236725 
+Davanagere 577005 
+Career Objective: 
+To get a nice and a challenging job so that I may improve my current skills and learn new things which may go a long way in contributing to the progress of the company and to mankind. 
+Educational Qualifications: 
+Institution course 
+Board/ 
+University year aggregate Morarji Desai 
+Residential High School , Deverabelakere Harihara(taluk) 
+S.S.L.C 
+Karnataka State Secondary Education Board 2006 84.16% STJ Composite P.U , Anubhava Mantapa, Davangere 
+P.U.C 
+Karnataka Pre 
+University board 2008 76.00% Bapuji Institute of Engineering &Technology, Davangere 
+B.E(E&E) 
+Visweswarayya 
+Technological 
+University 2012 66.00% Malnad College of Engineering,Hassan Mtech(IAR) Visweswarayya 
+Technological 
+University 2015 72.91% 
+Technical Skills: 
+Basics of C 
+Python scripting Basics of java 
+Hobbies: 
+Listening songs 
+Reading books 
+Competencies: 
+Self confidence. 
+Hard worker. 
+Self-learner. 
+Enthusiastic about learning new things. 
+Project work: 
+Detection And Distinction Of Colors Using Color Sorting Robotic Arm In A 
+Pick And Place Mechanism 
+Objectives 
+The sorting process is based on a 2 stage operational methodology defined 1) a self-learning step where the device figures out how to recognize objects ; 2) an agent choice procedure where items are distinguished, The project involves a sensor that senses the object s color, length and size ,sends the signal to the microcontroller. 
+Existing System 
+The system comprises of microcontroller, stepper & servo motors and color sensor. 
+Color sensor detects the specified color of the object and microcontroller reads this from the data at its input ports. The microcontroller conveys its decision to the station that has been programmed. The result will be displayed in LCD display. In the present project different colors, length and size of the specified object can be identified and pick and place mechanism can be performed by robotic arm. 
+Applications 
+This project has numerous applications in different fields, as this system gives the sorting of items, in stream of articles by multi sensing. 
+Mostly this finds the essential application in agribusiness field where it can be utilized to sort the distinctive horticulture items like grains, lemons, almonds, grapes, and diverse sort of natural products. 
+For people it gets to be comber aggregate undertaking to deal with the articles with great additionally the likelihood of exactness is less. 
+In industry it can be utilized for sorting of different protests and instruments with distinctive sizes. 
+Conclusion And Future Scope 
+The objects with different color can be identified by using advanced color sensor 
+TCS34725FN and objects with different size also can be identified by array matrix .Finally all the objects are picked and placed by pick and place robot with efficient manner. The time and cost of investment is very low as compared to other robots. 
+Accuracy of the sorting is high. It reduces the manual labor and time. The both color and size of the object can be identified. 
+While transportation one can preserve the fruits and agricultural products by using different chemical processes and make it possible for long-lasting fruit storage. 
+One can use this in mining areas to automatic sort of precious object and transport them from one area to another. This work can also be extended by identifying the different shapes of the objects. 
+Elective subjects: 
+Modelling, simulation and analysis of manufacturing systems Computer aided production and operation management Dfm techniques and product design Computer control of manufacturing systems 
+Personal Profile: 
+Name 
+: Trinesh T M Father s Name : 
+Manjunath T Mother s Name : Uma Date of Birth : 
+10-09-1990 Sex 
+: Male Nationality : Indian 
+Languages Known : 
+Kannada, English. 
+Declaration: 
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 
+Date: 
+Place: Signature of the candidate TRINESH T M 

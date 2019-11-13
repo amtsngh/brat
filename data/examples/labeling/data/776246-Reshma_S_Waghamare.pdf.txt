@@ -1,0 +1,51 @@
+RESUME
+ 
+Name: Reshma Sadhu Waghamare Email: reshmawaghmare007@gmail.com 
+Mobile: +91-8600232868 
+OBJECTIVE 
+I want to be a part of the success in an environment of growth and excellence. 
+SUMMARY Completed C, SQL, Core Java, Advance Java, Struts course in Techrel Institute, Pune. 
+Excellent analytical and logical programming skills with good understanding at the conceptual level. 
+TECHNICAL SKILLS Operating System : Windows XP, Windows 7&8, Linux Languages : C, C++, JAVA Web Technologies : JSP, Servelet, HTML Frameworks 
+: MVC Framework Struts 1.2. Struts 2.0 Scripting Languages : JavaScript 
+Database 
+: SQL (oracle 11g) Web Servers : Apache Tomcat IDE/ GUI Tools 
+: Eclipse Database Editors : SQL Developer, Squirrel, Advance Query Tool. 
+ACADEMIC PROFILE Exam Year of passing Board / University Percentage 
+B.E. E&TC 2016 Solapur 61.53(agg)% 
+H.S.C 2011 Pune 58.83% 
+S.S.C 2009 Pune 79.53% 
+ACHIEVEMENTS 
+Paper published on PLC based industrial timer controller for multiple machines in international journal of advanced research in electrical, electronics and instrumentation engineering. 
+PROJECT DETAIL DEGREE 
+Mini Project: Title : 
+" Traffic Light Control Idea : 
+The lighting of the LEDs was timed using a combination of a counter IC and timing 
+IC. The objective of this project was to design and fabricate printed circuit board that would emulate a traffic light. 
+Member : 3 
+Major Project: 
+Title : " PLC based industrial timer controller for multiple machines " 
+Idea 
+: We Can control movement of conveyer and time of multiple ovens used in industry for heating . Using one PLC we control multiple things. 
+Members : 2 EXTRA CURRICULUM 
+Participated in various technical events of collage such as group discussion, quiz, paper presentation,, aptitude test. 
+Participation in Robotics workshop. 
+Attended a workshop on 
+PCB designing in SMSMPITR, akluj. 
+Secretary of ETSA for two years. 
+PERSONAL DETAILS 
+Date of Birth : 15/04/1993 Languages known : English, Hindi, Marathi. 
+Marital status : Single. 
+Nationality : Indian. 
+Religion : Hindu. 
+Hobbies 
+: Listening soft music, Hangout with friends. 
+Permanent Address : kondbavi(anandnagar), akluj-413101, Tal-Malshiras 
+Dist: Solapur 
+Contact Number : (+91)8600232868 
+Email Id 
+: reshmawaghmare007@gmail.com 
+DECLARATION: 
+I am self-assured of my ability to work in a team with commitment and dedication. I hereby declare that the information furnished above is true to the best of knowledge. 
+Date : Place : Pune 
+RESHMA S.WAGHAMARE 

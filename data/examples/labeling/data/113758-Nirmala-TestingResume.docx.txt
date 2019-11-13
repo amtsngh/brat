@@ -1,0 +1,65 @@
+Nirmala 
+Status: Singapore PR(IC No: S7961348G) 
++65 9248 3877 / Email: jsnimmi@yahoo.com 
+Available: Immediately 
+Career Objective 
+Seek an opportunity in an organization that is rapidly growing and offers me to stimulate my skill set to deliver successful solution in IT industry. 
+Career Summary 2+ years of total IT experience in develop and support the business applications using Java, Oracle and SQL Server. Able to work in internet technologies, includes design, coding, implementing and testing. Hard working, quick learning and ability to work in new technologies. 
+Software Experience 
+Languages: Java, J2EE, VB, C, C++ 
+RDBMS: 
+Oracle, SQL Server, PL/SQL, MySQL, MS Access 
+Web Technologies: HTML,HTML5, XML, CSS, JavaScript 
+IDE: Eclipse, Testing tool (Selenium) OS: Windows 7/XP/2000/NT, MS-DOS, UNIX,LINUX 
+Education 
+M.Sc., (Computer Science) from St. Joseph College, Bharathidasan University, Trichy, India. (2001-2003) 
+PGDCA, (Post Graduate Diploma in Computer Applications) from St. Josephs College, Bharathidasan University, Trichy, India. (2000-2001) 
+B.Sc., (Chemistry) from Holy Cross College, Bharathidasan University, Trichy. India(1997-2000) Training 
+Manual and Automation Software Testing, Online Course from Edureka at June 2016. 
+Post Diploma in Internet Technologies 
+Java & J2EE, India. From Oct. 2004 to Jan. 2005. 
+Experience Summary: 
+Gemalto Co. Ltd., Singapore Jun. 2015 
+Jan.2016 
+Avatar Information System, Chennai. India. 
+Jun. 2006 Jul. 2007 
+Trec-Step Information Technology, Trichy. India. 
+Jun. 2005 
+May 2006 
+Major Tasks 
+Undergone training on Manual and Automation Testing with real time project from Edureka 
+Strong knowledge in SDLC and STLC. 
+Analysis the software requirement and identifying the required test scenarios. 
+Test Plan document, test scenarios, case preparation and execution Test cases for unit level, functional and integration testing. 
+Experience in Defect management system. 
+Good knowledge on automation testing using Selenium. 
+Proficient in Application Development with Web Technologies & Tools, Java, JSP, Servlets, XML and Eclipse. 
+Used the SQL queries and created the stored procedures, views to improve the performance. 
+Good interpersonal skills, committed, result oriented and learning new technologies. 
+Projects 
+Gemalto Pte. Ltd., Singapore. (June 2015 Jan.2016), Role: 
+Admin Executive 
+Handle administrative duties, such as documentation, organizing and maintaining files. 
+IT operational support on E-Archiving of EXP, AWB, POD 
+Track the POD with the vendors such as DHL, FedEx Segregate the commercial invoices, verify the valid of sign-off artifacts and document it. 
+Prepare the shipping invoice documents. 
+Handling of general customers enquires and feedback through phone & Email. 
+Manual data upload on shipping invoice detail. 
+Environment: MS Office, Excel, Outlook Express, Windows XP 
+Company Name: Avatar Information System, Chennai, India. (Dec. 2007 June 2007), Programmer 
+Staffs and Student Information and Time sheet preparation 
+Involved in requirement gathering, design, development and testing on this project. 
+Developed the user interface screens & the backend validations. 
+Used the Quality Center to maintain and manage the defects tracking process & project status reports to Managers. 
+Environment: VB, SQL Server, PL/SQL and Windows XP 
+Company Name: Avatar Information System; Role: Programmer 
+Multiuser Communication (June. 2006 Nov. 2006) 
+Developed the application using XML RPC Servlet & wrote the code to communicate with Oracle database using PL/SQL. 
+Environment: Java, XML, RMI, Servlet, JavaScript, CSS, Oracle & Windows XP 
+Virtual Library (Jan. 2006 may. 2006), Role: 
+Faculty cum Programmer in Trec-step, Designed the front end screens to user requests are inserted into the database created in Oracle and html forms are used to interact with the user. 
+Environment: Java, JavaScript, HTML, Servlets and JDBC 
+Fixed Asset Accounting (Oct. 2005 Dec. 2005), Role: Faculty cum Programmer in Trec-step Coded for prepare receipt, calculates the net value and pricing list. 
+Environment: Visual Basic 6.0, Asp, Crystal Report, Oracle 8i (PL/SQL) and Windows 2000 Simulation of Movement of an Object (Jul. 2005Sept.2005), Faculty cum Programmer in Trec-step 
+Involved in coding for capturing the motion of the particle and draw the graphical representation. 
+Environment: C, graphics, Windows 98 

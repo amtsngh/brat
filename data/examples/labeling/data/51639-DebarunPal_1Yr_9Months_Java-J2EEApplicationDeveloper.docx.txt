@@ -1,0 +1,63 @@
+Debarun Pal Email +91-9650237667 
+Portfolio +91-9163043634 
+LinkedIn 
+FULL STACK WEB APPLICATION DEVELOPER 
+Extensive experience in executing full life-cycle development projects; ramping-up projects within time, budget and quality parameters, as per project management and best practice guidelines. 
+PROFILE SUMMARY 
+A result-oriented professional with 1 Year and 9 Months of experience in Web Application development for large scale software systems in transportation and e-commerce industry. 
+Insightful knowledge of Core Java/J2EE, LAMP and MEAN Application Stack, N-Tier Architecture and Creational Design Patterns (Factory and Singleton). 
+EMPLOYMENT DETAILS 
+Software Engineer, Zepo Technologies Pvt. Ltd, Mumbai. (8th Dec, 2014 
+22nd Apr, 2016) 
+Main Role: Investigate and troubleshoot product related bugs reported in defect tracking system. Resolve the problems faced by the users within agreed time limits by bi-weekly sprints. 
+Product Lifecycle: Understanding and gathering functional and change requirements, outlining strategies for product architecture and developing high level technical design. 
+Project Management: Analyzing and identifying business requirement gaps with cross platform teams to chalk out and deliver the modified solution. 
+System Administration: Monitoring application performance and implementing optimizations. 
+Release Coordination: Management and providing post-release production support. 
+Build Testing: Create test plans, define and manage UAT and manage build configuration. 
+DevOps: Making automatic deployment scripts. Experience with Continuous Integration tool: Jenkins. PROJECTS: 
+1. Data Analytics: Integration of Intercom for Customer Engagement and Feedback. 
+2. Business Analytics: Integrating Pipedrive API with Zepo to collect user details at every point. 
+3. Revamping Stock Module along with introduction of a new feature, bulk edit of products. 
+4. Optimizing Orders Module by retrieving data from No-SQL caching mechanism, Redis. 
+5. Introducing pin code serviceability module on product detail page for better UX. 
+6. Maintenance of Logistics CRM Module used for monthly billing to customers for shipping. 7. Ingestion and creation of different API end-points for streamlining product workflow. 
+TECHNICAL SKILLS: (Major Java 7 and Core Java) 1. Java EE Web Component APIs: Servlets 2.3, JSP 2.0 and JSF 2. 2. Java EE Business Components: EJB 3 & JPA2. 
+3. Java EE Resource APIs: JDBC, JMS, JAX-WS and JTA. 
+4. Frameworks: Spring 3, Struts 2, Laravel PHP (only for Logistics CRM Module) 5. ORM Framework: Hibernate 3. 6. Web Development: HTML, JavaScript (Knockout, Underscore), jQuery, JSON, AJAX, REST. 
+7. Build Tool: Ant, Maven 3. 8. Platforms: Linux 9. Web Server: Apache. 10. Cloud Computing Services: Rackspace, AWS (Cloud Front CDN). 
+11. Scripting Language: Shell Script. 
+12. Databases: MySQL, Redis. 
+13. Search Indexing: Solr. 
+Software Systems Engineer, Sure Taxis, Kolkata. (21st July, 2014 
+28th November, 2014) 
+To understand, monitor and document the needs of the business and develop technological solutions that will address them in the short-term and long-term. 
+To ensure the timely delivery of technological solutions in line with the business priorities. 
+To re-engineer business technological applications for both internal and external infrastructure management. 
+To coordinate with drivers in pushing out the apps and providing end support to them for debugging performance hindrances. 
+To collect data about customer response time, calling team up-time, follow up time and device ways to improve them through TQM Methodologies. 
+PROJECTS: 
+1. Developed a Customer Referral System using PHP and MySQL in the Backend which increased customer response by 5% and enhanced branding by 10%. 
+2. Fabricated the Backend Customer Grievance Module using OTRS. 
+3. Delivered the new Job Manager using Angular.js for the Customer Care Executives which increased team productivity by 3%. 
+4. Debugged and Documented both Android and J2ME Driver Tracking App. 
+TECHNICAL SKILLS: (Major Java 6, J2ME and Core PHP) 1. Front-end Web Technologies: HTML, WordPress, AngularJs, ExpressJs, NodeJs. 
+2. Scripting Language: PHP. 
+3. Databases: MySQL. 
+4. PHP Frameworks: Code igniter, Laravel PHP. 
+5. Java Mobile Framework: Java ME, J2ME. 
+TECHNICAL SKILLS 
+Web Technologies: BackboneJS, Bootstrap, Handlebars. 
+Scripting Languages: Python. 
+Software Version Control: GitHub, Bit Bucket. 
+EDUCATION 
+2012 
+B.Tech (ECE) Faculty of Sci. & Tech, ICFAI University, Dehradun 57.80% 2007 
+Class XII (ISC) Indira Gandhi Memorial Sr. Sec. School, Kolkata 66.00% 2005 
+Class X (ICSE) 
+Indira Gandhi Memorial Sr. Sec. School, Kolkata 72.00% REFERENCES 
+1. Raunak Zatakia, Operations Manager, TaxiForSure, Kolkata (ex-Operations Head, Sure Taxis) 
+Email: raunakzatakia@hotmail.com. Mobile: +91-94335 48336 2. Suman Saurabh, Team Lead (Head of India Cloud Division), Gilbarco-Veeder-Root, Mumbai (ex-Senior Software Engineer, Zepo Technologies Pvt. Ltd.) 
+Email: sumansaurabh47@gmail.com. Mobile: +91-95550 96488 3. Ravi Kant Sachan, Senior Software Engineer, Zepo Technologies Pvt. Ltd. 
+Email: raviksachan@gmail.com. Mobile: +91-99303 75158 
+I hereby declare that all the information provided herewith is true to the best of my knowledge. 

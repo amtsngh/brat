@@ -1,0 +1,41 @@
+AKANKSHA KAPOOR PRESENT ADDRESS: 
+FLAT 102, NAMMA MANE, 1ST MAIN ROAD, M.E.S. COLONY, KONENA AGRAHARA, BANGALORE, KARANATAKA - 560017 
+INDIA 
+EMAIL-ID: 
+akanksha10990@gmail.com 
+MOBILE.: +91-9538305583 
+Languages Known: 
+Fluent in Hindi, English; Basic French 
+SUMMARY 
+3 Years of functional experience. 
+Designed, built, deployed, debugged and maintained user-friendly and fully functional applications for Android. 
+Ensured all applications are developed with the SDLC (Software 
+Development Lifecycle), object oriented analysis, efficient data structures, design patterns (MVC, MVP), fulfilling business requirements and well tested functional specifications. Worked with optimization tools extensively at the end of the development cycle to minimize memory leaks and assure overall application stability. 
+Have good knowledge on customizing UI components. Also have an experience in building Material UI. 
+Confortable in working on several platforms like react native. 
+Excellent communication and presentation skills and a good team player with excellent work ethic. Coordinating with team members for system design, integration, application maintenance, etc. and cooperating with other teams across the organization for efficient work progress. 
+WORK EXPERIENCE ANDROID APPLICATION DEVELOPER, HOLIDAYIQ, BANGALORE, KARANATAKA 
+July 2016 - Present 1. This is an application to help people plan for holidays. Working on the UX improvement and also the new react screens. 
+2. Won first prize in hackathon for building a basic chatbot feature to be integrated in the app. 
+ANDROID APPLICATION DEVELOPER, Y MEDIA LABS, BANGALORE, KARANATAKA 
+July 2014 June 2016 
+Projects: 
+1. L'oreal SalonCentric: This is an application for the salon professionals with these major features: Wallet to know the trending deals and rewards going on via redeeming coupons, Create and send lists, Class and show listings which can be synced to a personal calendar, Social media feed featuring favorite brands and artists, Search stores nearby. 
+2. E-commerce apps: FrbCorp (A banking application for adding cheques handled using web scraping), Staples Klub (An e-commerce application for the Staples products, included categorized list with search feature). 
+3. YouChat: This is a library for the chat application. Wrote clean, well documented code which is easy to use and understand. 
+4. Wrote a personal code library, which comprises of all commonly used functions and features such as: sharing content (Gmail, Facebook, Twitter, Instagram, etc.), push notification and rating functions. 
+JAVA DEVELOPER INTERN, NOMURA PVT LIMITED, MUMBAI, MAHARASHTRA January 2014 July 2014 
+Developed, tested and supported the business claim creation tool. It fetches the claims, calculates interest claims and then stores in the database. 
+TECHNICAL SKILLS 
+Languages: Java, Android; SQL/SQLITE; React Native and javascript; 
+Development Tools: Android Studio, Eclipse, Adobe Photoshop, Git, Gradle; 
+Android libraries: 
+Design Support, Database (Greendao, Realm), Storage (Parse, Amazon S3), Gson, Networking 
+(Volley, Retrofit), Social Media (Twitter, Facebook, Pinterest, Instagram, GooglePlus, LinkedIn), Image managing (Fresco, Picasso, Glide), Bar-code scanner (Zxing), EventBus, Google Play Services. 
+ACADEMIC QUALIFICATION 
+M.C.A. from National Institute of Technology, Surathkal in 2014 with 7.69 CGPA. 
+B.C.A. from Banasthali University, Jaipur in 2011 with 70%. 
+HSC from Doon International School, Dehradun (CBSE) in 2008 with 67.3%. 
+SSC from Doon International School, Dehradun (CBSE) in 2006 with 80.6%. 
+Date: 
+Place: Bangalore Signature: [Akanksha Kapoor] 

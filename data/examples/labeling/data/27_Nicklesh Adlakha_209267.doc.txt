@@ -1,0 +1,189 @@
+Nicklesh Adlakha 
+Flat No: 213, Sri Sapphire Park, Vijinapura Mo: (+91)9343348701 Ramamurthy Nagar, Bangalore 16 
+nicklesh.adlakha@gmail.com (mailto:nicklesh.adlakha@gmail.com) 
+Utilize strong Technical skills in order to contribute towards quality solutions and to bring new innovations in IT field by constantly upgrading my technical knowhow. 
+Total Experience: 8.2 yrs Total IT Experience: 6 yrs 8 months 
+TECHNICAL EXPERTISE 
+Working knowledge of perl XS programming. 
+Working Knowledge of Socket Programming. 
+Hands-on Experience in programming in Perl and Python. 
+Experience programming OSS (Open Sound System). 
+Good Knowledge of ALSA (Advanced Linux Sound Architecture). 
+Good Knowledge of Linux Kernel Compilation, CROSS Compilation Tools. 
+knowledge of writing Linux Device Drivers. Knowledge of FFMPEG. 
+Hands on experience writing Web Automation Framework, Embedded Linux Automation Framework. 
+Strong C Programming Knowledge. 
+Experience Programming in Embedded Linux Environment. 
+Well versed with Embedded Linux Development Environment. 
+Good Experience in setting up Embedded Linux Development Environment. 
+Good experience in System / Application Programming. 
+Good experience working with simulators like QEMU. 
+Good knowledge of Serial programming. 
+Good experience, programming in PHP language. 
+Good experince in Selenium RC. 
+Knowledge of GNU debugger. 
+Knowledge of Android OS Stack. 
+Knowledge of Memory Technology Devices. 
+Exposure to ARM Architecture. 
+Knowledge of DNS, DHCP, NFS, NIS, TCP/IP Stack, SNTP, VPN, IPSec. Knowledge of Linux Administration. 
+EDUCATION 
+B.E in Electronics and Instrumentation from GH Institute of Technology, 2001. 
+PRODUCTIVITY TOOLS 
+Languages: C, Perl, Core Java, Php, Javascript, HTML, Awk 
+Operating Systems: 
+Linux, Unix, Mac OSX, Windows xp/9x/NT 
+Databases: 
+Mysql, Oracle 
+IDE: 
+Eclipse, IntelliJ Idea, Komodo 
+Configuration Management 
+Tools: 
+Perforce, CVS, SVN 
+Web Server: 
+Apache 
+Bug Tracking Tools: Bugzilla 
+PROFESSIONAL EXPERIENCE 
+Yahoo! Software Development India Pvt. Ltd., Bangalore Oct 2010 
+Till date as Tech Lead 
+Symphony Services Corp. (India) Pvt. Ltd, Bangalore 
+Nov 2006 
+Oct 2010 IC Infotech 
+May 2006 - 
+Nov 2006 Cambil Software Pvt. Ltd., Bangalore 
+May 2005 
+May 2006 Jindal Electric & Machinery Corp., Ludhiana Oct 2003 
+March 2005 OTHER EXPERIENCE 
+Written netcat like utilities in perl, c. Written MP3 player for Linux (Project hosted on SourceForge) 
+Written wget like utilities in perl, c, php. 
+Written chat applications in perl, php, ajax. 
+Written API's for web administration in perl, proxy host in php. 
+AWARDS (i) Exceptional Performance, COE, Symphonysv. 
+PROJECTS 
+Project #1 
+Product Name: PSI (Premium Services Infrastructure) 
+Client: Yahoo! 
+Technologies: C, Perl, C++, Java, Php, Oracle, Hudson, svn 
+Period: 
+Oct 2010 to till date 
+Team Size: 10 
+Description: 
+The main mission of PSI is to take money from Yahoo's end users and give them products and Services in return. In addition, the PSI system is an integral part of Yahoo!-Microsoft Search alliance. It Ensures pre-pay advertisers have sufficient funds in their accounts to serve ads and it hosts a number of tabs within Microsoft's adCenter and Yahoo! YCRM application through which account managers view and manage advertisers accounts. PSI provides following services: 
+Placing new orders Upgrading and downgrading existing orders Support for Visa, MC, Amex, Discover, PayPal, Bill to Telephone Number (BTN) billing (through SBC) 
+A C++ interface for third party ordering Collections / treatment Gifting and promotional campaign support 
+A Wide array of discounting models 
+A telesales interface 
+Responsibilities: 
+Writing PSI infrastructure Components in Perl & C. 
+Writing Test-harness Macros for PSI in Perl. 
+Project #2 
+Product Name: Emebedded 
+Automation Framework. 
+Client: Symphony, COE(Center of Excellence) 
+Technologies: Embedded Linux, GCC, C, U-Boot(Boot Loader), FS (INITRAMFS) OS: Linux (Kernel series 2.6) 
+Hardware: Arm board (ARM926Ej-S) 
+Period: April-2008 to Oct-2010 
+Team Size: 2 
+Description: 
+ETAF (Embedded Test Automation Framework) is used to test API's provided by the external Library. API signature is passed as a string in which API parameters are separated by pipes. All the symbols are resolved at run time by ETAF. It has the provision to save state of a previous call and can later be used in a different API call. It supports all the Data types supported by C language. At the end of the test run it generates a test report. 
+Responsibilities: 
+Written the core framework. 
+Cross Compilation of linux kernel. 
+Booting the board. 
+Bringing up the network. 
+Testing / Debugging. 
+Project #3 
+Product Name: SymAuto 
+Client: Symphony, COE 
+Technologies: Perl, Selenium RC, Selenium GRID, Java, Frankenstein, mysql 
+OS: Linux, Windows xp, Mac OSX 
+Period: 
+sep-2008 to Oct-2010 
+Team Size: 2 
+Description: 
+SymAuto is a cross platform web automation framework around selenium RC(Remote Control from thoughtworks) written in perl. We have given an abstraction layer to the input scripts in terms of xml so that one needn't know the framework or write the test cases in perl to use it. Testcases are written in xml. The framework parses the xml, calls the function with required parameters(Reflection) . It generates the test result in txt and HTML formats. 
+It can also send mails or for that matter push test results to a Database. The framework has this grid feature wherein single test case can be executed simultaneously on multiple combinations of OS / Browsers. SymAuto also provides hooks for integration of third party tools. As of now we have integrated AutoIT, Java Access Bridge, Frankenstein(For Swing apps) with SymAuto. 
+Responsibilities: 
+Written the entire framework. 
+Testing / Debugging 
+Project #4 
+Product Name: SymTMS (Testlink / Bugzilla) 
+Client: Symphony, COE 
+Technologies: Perl, PHP, Javascript, Apache web Server, Mysql 
+OS: 
+Linux, Windows xp 
+Period: May-2008 to sep-2008 
+Team Size: 3 
+Description: 
+SymTMS (Symphony Test Case Management system) is based on open source Testlink / Bugzilla projects. Sym TMS is the 
+Responsibilities: 
+Customised Bugzilla / Testlink for symphony. 
+Testing / Debugging 
+Project #5 Product Name : Reporting Tool 
+Client: Symphony, COE 
+Technologies: Perl, XML, Mysql 
+OS: Linux, Windows xp 
+Period: Feb-2008 to May-2008 
+Team Size: 1 
+Description: 
+The tool takes specification file and Xml File generated by automation tools like 
+Winrunner, QTP etc. As input. It parses the Xml file, extracts the required information and put those in a database. The entire application is written in Perl. It generates the final report in doc/xml/xls format as indicated in the specification file. 
+Responsibilities: 
+Written the tool in Perl. 
+Written remote administration module (CGI) for the tool. 
+Project #6 
+Product Name: Workspace 
+Client: Google, Hyderabad 
+Technologies: Java, Ajax, Python, Mach, Selenium RC OS: Linux 
+Period: Jan-2007 to Nov-2007 
+Team Size: 2 
+Description: 
+Workspace is an online tool for building rich, interactive websites. Using workspace information sites, collaborative intranet can be constructed. We can always customize the look and feel of sites and can also embed Google applications like Calenders, Picassa web albums, Mailing Lists/Forms, Presentations, Spreadsheets, Blogs, Sign-up sheets etc.. It also gives the facility to integrate Google tools like Doc Lists, Google Analytics for traffic, Adsense for monetization, Sitemaps for indexing. 
+Responsibilities: 
+Writing automation framework in Java using Selenium RC. 
+Web applications security Finding xss vulnerabilities. 
+Project #7 
+Product Name: Mac Messenger 
+Client: 
+Yahoo!, Bangalore 
+Technologies: Perl 
+OS: MAC OS X 
+Period: May-2006 to Nov-2006 Team Size: 3 
+Description: 
+Yahoo! Messenger is an instant messaging client. Yahoo! Messenger comes with a battery of options like Yahoo! Mail, Web cam Hosting, Text Messaging Service, File Transfer, Avatars, Buzz Facility. Users are automatically notified when they receive any new event like Mail, Buzz, File etc.. 
+Responsibilities: 
+Scripted the installation / Monitoring tasks. 
+Testing / Debugging. 
+Project #8 
+Product Name: Cruisebot 
+Client: Cambil Software 
+Technologies: 
+J2EE, Html, Oracle8i OS: windows xp 
+Period: 
+May-2005 to May-2006 
+Team Size: 6 
+Description: 
+Cruisebot is a travel site, which facilitates agents to do cruise reservations online from any part of the world. This Project is for agents who book cruise tickets for their customers. Some major features of cruisebot are (a) Complete transaction reporting for booking sales and commission. (b) Ability to track commission. (c) Group booking functions. (d) Insurance bookings. (e) Automated Agent/Customer History etc.. 
+Responsibilities: 
+Web application security. 
+Testing. 
+Project #9 
+Product Name: Optiranker 
+Client: Cambil Software 
+Technologies: Jsp, PHP, Perl, Html, Mysql 
+OS: 
+Windows xp, Linux 
+Period: 
+Dec-2005 to May-2006 
+Team Size: 3 
+Description: 
+Its a search engine optimization tool suite which generates relevant keywords that propels the target website to the top of search engines such as Google, Yahoo!, MSN, Lycos, and others. It performs a complex set of mathematical analysis to get the results. The analysis is based on the same AI technologies that are the underpinning of search engine themes. 
+Responsibilities: 
+Written CGI in Perl for Search / Authentication / Database Modules. 
+Testing / Debugging. 
+Project # 10 
+Client: Jindal Electric & Machinery Corp., Ludhiana 
+Period: Oct-2003 to March-2005 
+Description: 
+Its an electrical firm which is into manufacturing of Industiral grade Servo Voltage Stabilizer, Current Transformer, Isolation Transformer. 
+Responsibilities: 
+RSS Engineer. 

@@ -1,0 +1,33 @@
+DEEPENDRA NIMIWAL 
+DOB: 23 rd February 1994 
+Summary: 
+Software Development professional with Big Data Certification, Interested in companies for rigorous and challenging work to upgrade my analytical skills 
+Education: 
+B.Tech in Computer Science and Engineering at SKIT, Jaipur (RTU) - 2011 Batch 
+Post Graduate Certification of Data Analyst Nano Degree from Udacity. (Verified) 
+Work Experience: 
+1.5+ Year 
+Working as a Web developer at Manith Infocom, Jaipur (Nov 15 April 17) Carrying out all the required functions for development phase effectively. 
+Understanding with concepts, thus Logic building and set flow for the project. 
+Develop project management that involves time planning and closely collaborating and communicating with internal teams as well as clients. 
+Internship at Marketing Mindz, Jaipur (Feb 15 Aug 15 ) Web Development Training; Understanding SEO and Internet Marketing. 
+Projects: 
+Test of a Perceptual Phenomenon (Statistics) Investigated a classic phenomenon from experimental psychology called the Stroop Effect and created a hypothesis regarding the outcome of the task. Tools: Microsoft Excel Data Analysis of Titanic Data Set 
+Analyzed Titanic dataset and communicated my finding using python notebook. 
+Libraries: NumPy | Pandas | Matplotlib 
+Wrangle OpenStreetMap Data of Bangalore City 
+Using data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, cleaned map data. Used SQL as the data schema to complete the project. 
+Tools: Python 2.7.12 | Jupyter Notebook | SQLite version 3.9.2 Exploratory Data Analysis with R 
+Apply exploratory data analysis techniques to explore relationships in one variable to multiple variables of Red Wine data set for distributions, outliers, and anomalies. 
+Tools: RStudio 
+Skill Set: 
+Programming Languages C, Java(basic), Python, R Database Language MySql 
+Data Analysis Tools 
+RStudio, MS Excel 
+Web based languages HTML, PHP, CSS 
+Visualization 
+Tableau, Dimple.js (Basic) 
+Interests: Member of IDF, Jaipur (NGO) Startups and Entrepreneurship (Worked in a startup on E-Rickshaw Taxis in college. ) deependranimiwal@gmail.com || 
+Ph: +91-9636296529 || 
+Github Profile 
+|| Linkedin Profile 

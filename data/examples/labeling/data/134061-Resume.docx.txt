@@ -1,0 +1,82 @@
+Certification Number :F757-2992 
+ThanigaiArasu.G Email:arasu14689@gmail.com 
+Mobile: 8870536203 PROFILE 
+Dynamic & vibrant professional with 3.7 years of total experience as System Administrator in managing IT infrastructure and expertise in the area of implementation, maintenance ,performance optimization and security. 
+TECHNICAL COMPETENCIES 
+Operating System Windows XP/7/8/10 
+Server 
+Windows server 2008 R2/2012 
+Virtual Machine Vmware workstation , Hyper v ,Vmware Esx 3.0 Antivirus Mcafee Epo 5.3, Symantec Endpoint Protection 12.1.5 
+VOIP Grandstream VOIP 
+ERP SAP ECC 6.0 Database Oracle 10G , Sql server management studio 2008 Messenger Spark , Intra messenger 
+Ticketing tool IThelpdesk, JIRA 
+Application software Symantec Backup Management tool,AutoCADLT 2013/2014/2015 ,Creo, Ansys,Dameware 7.3, SMS Bulk sender , Omniscan, IThelpdesk ,MS Lync 
+SNAPEXPERIENCE SUMMARY 
+Digital Logiciel Solutions Pvt. LtdNov 2015 
+Till date System Support Engineer Managed systems configuration and maintenance, problem troubleshooting, system and program security, applications and program management, planning and directing upgrades, and testing operations to ensure optimum system functionality. 
+Provided design, implementation, administration and support of Windows 2008 R2/2012 Active Directory domain. 
+Managed the Help desk & Desktop Support team which supported Windows XP, Vista and Windows 7 ,8, 10 & Ubuntu along with the MS-Office including mail services. 
+Investigated new technologies, software, patches, and security packages, which will improve system performance and systems administration procedures. 
+Managed systems configuration and maintenance, problem troubleshooting, system and network security using software and program management, network monitoring and performance tuning, planning and directing upgrades and testing operations to ensure optimum system functionality. 
+Configuring and maintaining Active directory in forest level and troubleshooting active directory issues in windows server 2008 r2 /2012.Maintained and configured DNS, HCP, WSUS and WDS servers in windows environment. 
+Configuring DNS lookup zones and creating records in DNS server Supported Macfee epo 5.3 in windows server 2008 r2 environment. 
+Maintaining virtual disk including windows server 2012,2008 windows 8/7 /10 & 
+Ubuntu in Hyper V of Windows server 2012 R2. 
+Upgraded EPO from 5.1 to 5.3 and created new security policies including usb storage block. 
+Periodically upgraded EPO repository and troubleshooting epo problems. 
+Maintaining internet connectivity in Fortigate 80 C and troubleshooting internet network problems. 
+Maintained Grandstream VOIP UCM1068 for voice communication. 
+Creating backup and regularly backing windows file server ,SQLljira database, EPO database. 
+Met with Vendors to provide new technology (Software, Hardware, Tools, and Device) to enhance the Windows network architecture. 
+Contributed to defining policies and procedures including domain migration, server consolidation, disaster recovery, enterprise backups and provide capacity-planning, performance and exceptional problem-solving, general systems health reports such as up time log. 
+Monitored system and network activity to quickly detect any problems related to system security, performance, or system failures in a timely fashion and meet SLA agreements and provide daily technical support. 
+Maintenance of Microsoft Office Outlook Web Access and Maintenance of Microsoft Office Outlook E-mail. Troubleshooting of Microsoft Office Outlook database problems. 
+ManagingVmware ESX Hosts in Virtual Center. 
+Managed and Configured Virtual Machines. 
+I am working on Vmotion, VMConverter, templates, Snapshots and Clones. Managing Tasks, Events and Alarms. Monitoring the Performance Statistics and resources. 
+Documentationof end-user workstation for troubleshooting tips and maintenance procedures for help desk using JIRA ticketing tool. 
+L&T VALVES Limited Jun2013 
+Nov 15 Payroll 1 yr.Ensure Support Service India Limited and 2.6 yrs. Micro point Computers Limited 
+Customer Support Engineer System & Network Support: 
+Windows xp/7/8 Installations /Configurations. 
+Resource Allocations include Asset computers, printers and maintaining the record in SAP IT portal. 
+Software (AutocadLT,ProE,Creo)Support includes installation, configuring and performance optimization. 
+Computer Hardware Troubleshooting and Repairs. 
+System protection by antivirus, user access. 
+Printer Troubleshooting, Maintenance and asset maintenance. 
+Providing remote support to end users using Dameware7.3 Creating, maintaining and deleting user accounts in ADS. 
+Configure user email id in exchange server. 
+Adding computers accounts in ADS. 
+Backing up data from windows server. 
+Updating windows patch levels in windows server. 
+Configured ADSL wireless router, modems and LAN Extender. 
+Troubleshooting network issues in RF WAN connectivity, OFC LIU WAN connectivity. 
+SAP Application Support: Creating and Maintaining Single and Mass users and maintaining the user master data. 
+Creating and maintaining user roles, addressing issue in authorization. 
+Addressing Users issue include GUI Support, locking and unlocking. 
+Spool administration, creating output devices, configure printer for invoice printing. 
+Creating and Maintaining Background Job. 
+Maintaining Operation Modes. 
+Creating Consolidation and Delivery Routes. 
+Performed day to day SAP administrative tasks. 
+System Log, Database logs monitoring. 
+Maintaining Issue resolution log and Escalation procedures. 
+NCR services Limited Oct 2012-Apr2013 
+Customer Support Engineer 
+Analyze the software components of the machine and ensure they read the instructions accurately and perform relevant tasks. 
+Troubleshooting the magnetic / chip card reader analyzes the bar code on the card and identifies the customer and his bank account number accurately. 
+Make repairs to the dispensing mechanism to ensure it dispenses accurate amount of money promptly. 
+Visiting ATM centers to install or repair the ATM machines as per the request Performing periodic preventive maintenance on assigned products;Diagnosesproblems, makes minor repair and replaces component. 
+Network troubleshooting including crime, krone the LAN cables and maintaining network connectivity with modems. 
+ACADEMIC QUALIFICATIONS 
+EXAM / DEGREE YEAR NAME OF INSTITUTE UNIVERSITY / BOARD PERCENTAGE 
+B.E. (E.C.E) 2011 DMI college of Engineering. 
+Anna University 69% 
+12th Board 2007 Bharathidasan Matriculation Higher Sec School. 
+State 85% 
+10th Board 2005 
+Infant Jesus Matriculation Higher Sec School. 
+Matric 86% 
+Declaration: 
+I hereby declare that above information is correct to the best of my knowledge and belief. 
+Place: Chennai ThanigaiArasu.G (Tamilnadu) 

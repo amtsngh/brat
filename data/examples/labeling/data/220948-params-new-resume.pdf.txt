@@ -1,0 +1,87 @@
+OBJECTIVE
+ 
+I wish to work in a challenging position where my analytical and problem solving skills can be put for the successful completion of the work and to fulfill the needs of the organization. 
+PERSONAL TRAITS 
+Having the courage to do what s right tough situations 
+Adaptability and grasping power Passion for constant improvement 
+Punctual and responsible Willingness to learn new things 
+ACADEMIC DETAILS 
+Graduation: 
+B.E. (ICE), St.Joseph s College of Engineering, Chennai. 
+Anna University 
+Year : 2011 2015 
+CGPA: 7.30 HSC: 
+St.Paul s Mahajana Higher Secondary School, Chennai. 
+State Board 
+Year 
+: 2011 
+Marks : 81% SSLC: 
+St.Paul s Mahajana Higher Secondary School, Chennai. 
+State Board 
+Year : 2009 
+Marks : 87% ACHIVEMENTS IN SPORTS 
+Represented for All India Inter-Collegiate 
+Ball Badminton Tournament in the year 2014-2015 and the team has secured 3rd place. 
+PARAMESWARI.M E-mail:priyanka10params@gmail.com 
+Communication Address: 
+No: 9/5 B.K.N colony 3rd street, Kaladipet, Chennai- 600019. 
+Mobile No: 9176227436 PERSONAL PROFILE: Date of Birth 
+: 04.10.1993 
+Gender : 
+Female 
+Father s Name : 
+Murugan E 
+Nationality 
+: Indian 
+Religion : 
+Hindu Marital Status : Single 
+Hobbies 
+: Playing&ListeningMusic LinkedIn URL : 
+https://in.linkedin.com/in/parameswari-m-4653b1bb 
+LANGUAGES KNOWN: 
+Tamil and English (read, write & speak) ACHIEVEMENTS: 
+Passed in BUSINESS ENGLISH CERTIFICATE PRELIMINARY COUNCIL OF EUROPE level 
+A2. 
+Secured 
+Centum in Mathematics in 10th board examination. 
+VALUE ADDED COURSE: 
+Undergone a course in DCS &PLC OVERVIEW conducted by the technical of YOKOGAWA India ltd. 
+Certificate of Completion: 
+SQLFundamentals from Sololearn. 
+Participated and won in college TamilNadu Inter Engineering Sports(Ties) Won in college Jets State Level 
+Tournaments. 
+Participated and won in Anna University 
+Inter-Zonal Tournaments. 
+Participated and won in many Junior, Senior Ball Badminton State Championships. 
+In schooling, participated and won in many State Level Matches. 
+WORK EXPERIENCE 
+Software Testing Engineer 
+QC for 
+TechNava CloudSys Pvt. Ltd., Chennai 
+Duration: Since March 2016. 
+Roles & Responsibilities: 
+Analyse the application functionality with requirement documents like BRS and FRS documents. 
+Preparing cases through scenarios. 
+Preparing Bug report to maintain some Issues. 
+Verifying the Application in various browser and methodologies. 
+Creating the Template and Document in Severity and Priority wise. 
+DECLARATION 
+I hereby declare that all the details furnished above are true to the best of my knowledge and belief. 
+Signature 
+(Parameswari) COMPUTER & TECHNICAL SKILLS: Programming Languages: 
+MySQL 
+Application Packages: 
+Manual Testing, Core Banking. 
+Software applications: 
+MATLAB, LabVIEW ACADEMIC PROJECT: 
+Title: 
+Traffic Light Control Using Image 
+Processing 
+Domain: 
+Process Control 
+Description: 
+This paper describes with the increase in population, traffic density on roads has increased level navigating through cities extremely difficult. The proposed system involves a closed loop control of traffic light using camera. The 
+Canny Edge Detection technique is used in order to detect edges of the vehicles in the images. The density on the road is determined by obtaining the Standard 
+Variation value of the edge detected image. The system has been developed using Laboratory Virtual Instrument 
+Engineering Workbench (Lab VIEW). 
+Date: Place: Chennai 

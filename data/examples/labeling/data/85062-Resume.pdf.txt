@@ -1,0 +1,82 @@
+SANTOSH KUMAR PANDA +91-9090566473 
+HNO-405 Baramunda, Bhubaneswar,odisha-751003 santoshpanda299@gmail.com pandaprogramminghub@gmail.com 
+Web : http://www.pandaprogramminghub.com/ 
+Summary 1 Years of experience in PHP MVC FrameWork (Magento,Codeigniter) . 
+competitive experience in IT industry using Web Technology. 
+Additional 1+ Year freelance experience in PHP web development during studies. 
+Extensive experiences in Magento custom module development. 
+Extensive experience in creating interactive web sites using bootstrap, jQuery,AJAX. 
+Working knowledge in various server control panels and manage live servers using SSH. 
+Technical Skills 
+PHP Technologies Web Service,PHP MVC, Magento Extension Development 
+Web Technologies Opps,Core php,MVC,Jquery,Ajax,Html,Css,Bootstrap 
+Databases MySql Role Jr. PHP Developer 
+Professional Qualification (B.Tech) Bachelor of Technology in Computer Science & Engineering(Apex Institute of Technology & Management, BBSR ) in year 2015 with 72%. 
+Educational Qualification (10+2) :Intermediate in Science form Biju Patanike College of Science and Education(B.J.P),Bhubaneswar, Odisha in year 2011 with 64.5%.(10 th ):Matriculation from West Bengal Board Secondary Education (W.B.B.S.E),Kolkata , West Bengal in year 2009 with 74.37%. 
+Work Experience 
+Aug 2015 
+Till Now: With fedobe solution pvt ltd(http://www.fedobe.com) as a Jr. PHP Developer in Bhubaneswar (Odisha).My role included project development, Customized Extension development, database design, and guidinga small team. 
+May 2015 July 2015: 4 Th Dymension Teknocarts Group (http://www.4thdt.com) as a SoftwareEngineer in ITPL (Bengaluru).My role included project development, design, database design March 2014 April 2015: freelance as a PHP Developer during studies. 
+PROJECT UNDERTAKEN: 
+Project Title : Queropreco (Multisite, multistore Magento implementation) 
+Client : BRAZIL 
+Framework: Magento 
+Operating Systems: Linux Ubuntu 15.04 
+Domain: Ecommerce 
+Database: MYSQLURL: https://www.queropreco.com/ 
+Other tools & languages: Sublime, phpMyadmin, PHP, Javascript, XML, MYSQL 
+Description : Queropreco is a web based project also multi-language website in English andprotegees. We used magento 1.9.2.2 to implement this project. It is an online store from whereuser can buy online, Information and Technology equipment such as video cards, processors,Tablets and more. Shop 100% Safe and Reliable.Responsibilities : Custom Modules Development. 
+Custom Extensions Development. 
+Custom Theme(Mobile Device),Subthemes Development. 
+Complete Coding,Testing with Designing.Project Title : olovesm (Magento Store implementation For Eco Friendly Bags Shop) 
+Client: USA 
+Framework: Magento 
+Operating Systems: Linux Ubuntu 14.04 
+Domain: Ecommerce 
+Database: MYSQLURL: https://www.olovesm.com/ 
+Other tools & languages: Sublime, phpMyadmin, PHP, Javascript, XML, MYSQL 
+Description : olovesm is a web based project website in English. We used magento 1.9.1.1 toimplement this project. It is an online store from where user can buy online, Eco Friendly Bags,baby bags, tote bags, diaper bags, beach and pool bags.Responsibilities : Custom Modules Development. 
+Custom Extensions Development. 
+Custom Theme(Mobile Device),Subthemes Development. 
+Complete Coding,Testing with Designing. 
+Project Title : Online Examination System ( Inter college online exam conduct tool in Codeigniter 
+php Framework ) 
+Framework: Codeigniter PHP 
+Operating Systems: Linux Ubuntu 14.04 
+Domain: Education 
+Database: MYSQL 
+Other tools & languages: Sublime, phpMyadmin, PHP, Javascript, MYSQL 
+Role & Responsibility : Designing, Coding, Manual Testing and Database. 
+Description : Online 
+Examination 
+System is application by which we can conduct onlineexaminations .There are three type of User Admin , Exam conduct Coordinator,Students. Adminhave do only add Exam and Coordinator.Coordinator need to add Question Paper,add student,view Question paper , view Result, Start Exam,Stop Exam. At last student only appear theexam. All Question paper , Result, User Information store in Data Base. 
+Project Title : Anajet (Magento Store for digital garment printing systems ) 
+Framework: Magento 
+Operating Systems: Linux Ubuntu 14.04 
+Domain: Ecommerce 
+Database: MYSQLURL: https://www.store.anajet.com/ Other tools & languages: Sublime, phpMyadmin, PHP, Javascript, XML, MYSQL 
+Description : Anajet is a web based project website in English. We used magento 1.9.1.1 toimplement this project. It is an online store from where user can buy online, direct to garmentprinter, AnaJet, direct to garment, apparel printer, garment printer ink, digital apparel printer,ink, mPower, spare parts etc. 
+Responsibilities : Custom Modules Development. 
+Custom Extensions Development. 
+Custom Theme(Mobile Device),Subthemes Development. 
+Complete Coding,Testing with Designing. Project Title : University Management System ( Freelancing Project Of B.tech Final Year Student ) 
+Framework: Core PHP 
+Operating Systems: Linux Ubuntu 14.04 
+Domain: Education 
+Database: MYSQLURL: http://www.pandauniversity.besaba.com Other tools & languages: Sublime, phpMyadmin, PHP, Javascript, MYSQL 
+Role & Responsibility: Designing, Coding, Manual Testing and Database. 
+Description : University Management System using PHP is a web enable project with client server application. The University Management System holds the information of university, college, student in the university database.It is one type Online University Information Portal. 
+Academic Project in B.Tech 
+Project Title : Image Processing using JavaScript API Organization : 
+Apex Institute of Technology & Management, BBSR.Technology : PHP,JQUERY,AJAX,Bootstrap,Html,Css3Database : MYSQLUrl : http://pandasolutionhub.besaba.com/Role & Responsibility : Designing, Coding, Manual Testing and Database.Description : An online JavaScript based image processing API that can be used by any web developer. Using the Google Map API principles a JavaScript based image processing API will be developed where the end user will access the API throughJavaScript code embedded in their webpages.A basic set of image processing tools like Sobel Edge Detection, Canny Edge Detection, Gaussian Sharpening and Blurring has been supported for demonstration purpose. 
+Personal Profile 
+Father s Name : Shri.Rabindra Panda. 
+Gender : Male 
+Language Known : English,Hindi,Bengoli,Odiya 
+Permanent Add. 
+: HNO-405 Baramunda, Bhubaneswar,odisha-751003. 
+Nationality 
+: Indian 
+Declaration 
+I hereby declare that all the information mentioned above is true to the best of my knowledge. 
+Date:Place: (Santosh Kumar Panda) 

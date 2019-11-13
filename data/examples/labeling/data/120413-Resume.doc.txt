@@ -1,0 +1,56 @@
+SATISH KUMAR.M.V 
+Application Engineer +91-9790805641 +91-9844422033 
+satishattur@gmail.com (mailto:satishattur@gmail.com) PROFESSIONAL SUMMARY 
+Having 1 yearof hardware/software industrial experience as anApplication Engineerunder EEs of EDA and Test & Measurement. 
+Working as a team member for MIMO Antenna System for Unlicensed band 2.4GHz & 5GHz and for RF compact module for communication and baseband signal. 
+Experience in designing Antenna RF products, evaluate using Signal /Spectrum analyzer, Signal Generator and Network analyzer. 
+Strong Proficient in electromagnetic simulators like FEM, FDTD and MOM. 
+TECHNICAL SKILLS 
+Digital Hardware : Oscilloscope, Signal Generator 
+RF Hardware : Spectrum, Network, Microwave Analyzer 
+Tools : ADS, EMPRO, Genesys, SystemVue WORK EXPERIENCE 
+Currently working in Applied Real Tech Systems Pvt Ltd, as a Application Engineer which is a channel partner for KEYSIGHT TECHNOLOGY Bangalore, Goa and role of provide design and technical support for Education, Government and Private Originations from August 2015 to till date. 
+Worked in Eldaas Technologies Pvt Ltd, Bangalore as a Project intern provides technical support for Designing of Antenna and Hardware testing from November2014 to April2015. 
+CONFERENCE AND JOURNAL PUBLICATION 
+International Conference on Smart Technologies and Management for Computing, Communication, Controls, Energy & Materials (ICSTM 2015) IEEE digitl Xplore. 
+Design of CSRR Loaded MIMO Antenna for ISM Band Application. 
+PROJECT EXPERIENCE SUMMARY 
+Project Title : Design of MIMO Antenna for ISM Band 
+Employer : ELDAAS Technology Pvt Ltd 
+Specifications 
+: ISM band (2.45GHz), Return loss: 26dB, VSWR: 1.08, 
+Gain: 2.35dBi, Directivity: 3.176dB 
+Role : Designer, Documentation, Fabrication, and Testing 
+Duration : November2014 to April2015 
+Domain : RF and Antenna 
+Technology : CSRR, MIMO 
+Tools & Utilities : ADS, Network Analyzer, Windows 7 
+The world is moving towards reduction in size and processing at high speed data rate. The Multiple Input Multiple Output (MIMO) plays an important role in order to achieve high data rate which is an emerging technology in (4G and 5G) communication system and complimentary split ring resonator is used to miniaturize the size of antenna. 
+PROJECT EXPERIENCE SUMMARY 
+Project Title : Compact RF Module-2057 
+Employer : 
+ELDAAS Technology Pvt Ltd 
+Specifications 
+: Frequency: 70MHz to 6GHz, LO: 225 to 430MHz, UART, JTAG, Power level: 10dBm, Spurious Rejection: > 50 dBc, 
+Role : Designer, Documentation, Fabrication, and Testing Duration : Janavery2015 to April2015 
+Domain : Embedded and RF 
+Tools & Utilities : AWR, Spectrum Analyser, Signal Generator, Windows 7 Compact RF Module is a complete mixed signal board, ready-to-use for communication and baseband signal processing based on the latest Artix-7 Field Programmable Gate Array (FPGA) form Xilinx and Black fin BF538F Digital Signal Processor (DSP). 
+ROLES AND RESPONSIBILITIES 
+Lead in coordinating and executing all technical activities throughout the sales opportunity such as customer meetings and product presentations, demonstrations and evaluations. 
+Analyze technical needs, requirements, and state of a customers current infrastructure, operations, and engineering workflows. 
+Create and demonstrate simulation solutions to streamline customer workflows, in support of the software sales process; sales cycle. 
+EDUCATIONAL QUALIFICATIONS 
+M.E in Communication Systems (2013 2015) with an aggregate of 7.9 CGPA from Sona college of Technology, Salem, affiliated to Anna University. 
+B.E in Electronics and Communication Engineering (2008-2012) with an aggregate of 66% from Sathyabama University, Chennai, affiliated to Sathyabama University. 
+PERSONAL PROFILE 
+Passport No : K2228667 
+D.O.B 
+: 18-02-1991 
+Nationality : Indian 
+Marital Status : Single 
+Languages Known : Tamil, English 
+Address : No G1 408/401 Shriram Shreyas Apts, Virupakshapuram Telecom Colony, 
+Kodigehali, Nr Tennis Court, Bangalore-560097. 
+DECLARATION 
+I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars. 
+PLACE : (M.V.SATISHKUMAR) DATE : 

@@ -1,0 +1,89 @@
+ Curriculum Vitae 
+Name : Manjunath N Veeranna 
+Email id : manjunath87.nv@gmail.com 
+Mobile No. : +91 9916357706 
++91 9902620882 
+Experience Summary 4.2 years of Experience as a Test Engineer. 
+Worked as Test Engineer at NTT DATA Global Delivery Services Private Limited, Bangalore since 17th Aug 2015 to 27-Oct-2016. 
+Worked as Software Engineer - Testing at Aris Global Software Private Limited, Bangalore from 8th Jan 2014 To 14th Aug 2015. 
+Worked as Test Engineer - Consultant at Laurus Info Systems, Bangalore from 3rd Sep 2012 To 7th Jan 2014. 
+Skills 
+Good Knowledge in Life Sciences Domain. 
+Good Knowledge in Insurance Domain. 
+Good Experience on Software Testing Life Cycle. 
+Good Experience in Testing Oracle HRMS Module-Oracle Advanced Benefits(OAB). 
+Expertise in Functional Testing, Integration Testing, System Testing, Re-Testing and Regression Testing. 
+Expertise in Preparing Test Cases based on Business and Functional Requirement Specifications. 
+Knowledge on Automation Tool: Sahi. 
+Well-acquainted with HP ALM Tool. 
+Ability to Handle Multiple Clients. 
+Directly Involved in Client Meetings. 
+Expertise in Review of Test Scenarios and Test Cases. 
+Good Knowledge in Preparing Test Scripts for Automation Testing. 
+Expertise in Defect Life Cycle and Bug Reporting. 
+Good Experience in Review test cases and Preparing Test Reports. 
+Review the Test Scenarios and Test Cases prepared by Business Team. 
+Education 
+Bachelor of Engineering (Computer Science) Passed out in 2011 from Visveswaraya Technological University, Belgaum, Karnataka. 
+Language Skill 
+German (Deutsch) 
+Read, Write, Speak 
+Common European Framework of Reference for Languages (CEFR) 
+Diploma A1 Level Completed. 
+Technical Skills 
+Automation Tools Sahi Pro 
+Bugreporting Tools 
+Bugzilla, HP Quality Center 
+Programming Languages Java Script 
+Operating Systems Windows XP, 7, 8.1 Database, IDE Tools, Configuration Management Tools Oracle SQL, SQL DeveloperVSS, SVN Tortoise 
+Project Summary 
+NTT DATA Global Delivery Services Private Limited 
+Project: Health and Other Benefits System (HOBS) 
+Client: Fidelity (FMR) 
+Duration: Sep 2015 to Oct 2016 
+Description: HOBS is an Oracle based system customized by Fidelity to manage participant health & welfare benefit records. It stores all of the FESCO Health and Welfare participant benefit records including current and historical data for existing and past participants. 
+Since HOBS is H&Ws core record keeping system it feeds other systems that also support H&W benefits administration. Electronic extracts are sent from HOBS to the group insurance billing system to maintain records for inactive participants. 
+Roles & Responsibilities: Involved in reviewing Client Requirements. 
+Preparing Estimation for Testing. 
+Preparing Test Scenarios, Test Cases based on the Client Requirements. 
+Walkthrough the prepared Test Scenarios,Test Cases to Client. 
+Involved in Functional, Regression, System Testing. Execution of designed test cases. 
+Closely work with Business Analyst for mapping requirements to test scenarios and test cases. 
+Review the Test Scenarios and Test Cases prepared by Business Team. 
+Aris Global Software Private Limited, Bangalore 
+Product Name : AgXchange RSM (Regulatory Submission Module) 
+Automation Testing Tool : Sahi Pro 
+Duration : Jan 2014 to Aug 2015. 
+Description: AgXchange RSM is a web-based application. It is a Life Science Domain product which manages and tracks the Transmission Information and Acknowledgement of EVPRM files. 
+It supports the submission of the EVMPD product data as requested by the EMA (European Medicines Agency), which can be easily extended to support the electronic submission of other regulatory data including eCTD(Electronic Common Technical) Documents. 
+It also supports the GUDID Health Level 7 (HL7) Structured Product Labeling (SPL) - UDI submission for U.S FDA (Food and Drug Administration). 
+The HL7 SPL Submission option enables companies to electronically submit device information one DI record at a time as an HL7 SPL xml file. 
+Structured Product Labeling (SPL) is a HL7 standard for the exchange of product information using extensible markup language (XML). 
+Roles & Responsibilities: Understand the Product Requirements. 
+Involved in Functional, Regression, System and Integration Testing. 
+Involved in Preparing Test Scenarios and Test-Case as per Requirement Specifications. Execution of designed Test cases. 
+Defect Analysis and reporting using Defect Tracking Tool (Bugzilla). 
+Preparing the Traceability Matrix. Developed Automation Scripts for Regression Testing. Involvement in implementing Automation Framework. 
+Developed Automation Scripts for Test cases and Executed the scripts using Sahi Tool. 
+Laurus Info systems, Bangalore 
+Product Name : Clinicopia 
+Client 
+: Catalent 
+Duration : Sep 2012 To Jan 2014 Clinicopia is a supply management tool comprising of several distinct modules that assists Pharmaceutical and Biotech companies to effectively plan and manage the supply chain for clinical trials. Clinicopia uses Oracle database and forms software, which stores supply chain information in a central database and enables access to the information using forms. 
+Roles & Responsibilities: 
+Understand the products and the requirements. 
+Functional testing of Supply Management Module. 
+Designed test scenarios and test cases. 
+Execution of designed test cases. 
+Defect reporting using Defect tracking tool. 
+Preparing the Traceability Matrix. 
+Personal Details: 
+Date of Birth : 
+5th April 1987 
+Gender : 
+Male 
+Marital Status : 
+Single 
+Permanent Address : #12,NandaGokula,Siddaganga Extension,2nd Cross,Tumkur-572102 
+Current Address : #407,1st Floor,7th Cross,MSR Nagar,Bengaluru-560054 
+Languages : English, Kannada, Hindi, German 2 

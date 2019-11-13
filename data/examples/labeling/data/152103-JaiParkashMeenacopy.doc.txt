@@ -1,0 +1,59 @@
+Jai Parkash Meena 
+H. No. 918, Sector :- 65, Mohali (Chandigarh) MOBILE (+91) 95699 03521 ~ E-MAIL jpmeenaa@gmail.com (mailto:jpmeenaa@gmail.com) 
+LinkedIn: - https://in.linkedin.com/in/jai-parkash-meena-82ab3129 (https://in.linkedin.com/in/jai-parkash-meena-82ab3129) 
+Career Objective : 
+To acquire a position that provides me an opportunity for professional development and at the same time allowing the development of my knowledge, ability and initiative in the field of mobile applications. 
+IT Skills: 
+Languages : Swift, Objective-C 
+IDE : IOS 6, 7, 8, 9,10 
+Development (Xcode 4.xx, 5.x, 6.x, 7.x,8.x) 
+Framework : Sprit Kit, Store Kit, Google Map, Map Kit, Adobe Image filter, Zoom SDK, ooVoo SDK,Sinch. 
+Data Base : Sqlite,Core Data 
+Web Services : REST,JSON API : 
+Google API, Yahoo API 
+Payment gate Way : Pay Pal, eWay, Zooz, IN-App,Ali Pay 
+GUI Design : Knowledge of Custom, Nib(xib) And Storyboard 
+Awareness : Knowledge of Cocoa Pods Installation, iBeacan, xmpp, Apple 
+Account Handling, App distribution, Operating System 
+: Mac OS 10.8, 10.x Experience:- iOS Developer (Oct'2014 
+Till) 
+Interworld Commnet (Mohali), http://interworldcommnet.us/ (http://interworldcommnet.us/), http://innovativepeople.com/ (http://www.northsouth.org/) iOS Developer (Dec'2013-Oct2014) McNewton Solutions Pvt.Ltd, Chandigarh iOS Trainee Smoketech Pvt. Ltd. http://www.smoketech.in/ (http://www.smoketech.in/) 
+Education: 
+M.Tech. in Information Technology from Karnataka State Open University (2014), 68% Master Computer Applications from Kota University (2011), 66% Bachelor of Computer Application from MGSU University Bikaner (2008), 61% 12th with Arts(Geography, Sociology, Economics) from RBSE Ajmer Board (2005), 57% 10 th from RBSE Ajmer Board (2002), 54.50s% Projects:- 
+Name: Kit Messanger 
+Language: Obj. C (iOS) 
+Description: I have worked on Kit Messanger project for iPhone, It's build in Obj.- C iOS 8/iOS9 (Xcode 7.3), this project a social by using this app user can do Chat,Group chat & Voice call. (Via XMPP/Sinch) 
+(Not Available in India) 
+iTunes link :- https://itunes.apple.com/us/app/kit-messenger/id1153389714?mt=8 (https://itunes.apple.com/us/app/kit-messenger/id1153389714?mt=8) 
+Name: PHED Haryana 
+Language: Obj. C (iOS) 
+Description: I have worked on PHED Haryan Gov. project for iPhone, It's a Haryana Government PHED Department Project. Which is build in Obj.- C iOS 8/iOS9 (Xcode 7.3), this project is use full Haryana State Person's, they can use it for new water connection, electricity connection and use for related work for PHED Department. 
+iTunes link :- https://itunes.apple.com/us/app/phed-haryana/id1102220635?mt=8 
+Name: mVign:Emotions 
+Language: Obj. C (iOS) 
+Description: I have worked on mVign project for iPhone, It's project for Doctor and patient relationship. Which is build in Obj.- C iOS 8/iOS9 (Xcode 7.3), this project is use full for persons who continuously connect to doctor's,Doctor can assign health questionary to paitent's . iTunes link :- https://itunes.apple.com/us/app/mvign-emotions/id988307765?ls=1&mt=8 
+Name: TennislinkedUp 
+Language: Obj. C (iOS) 
+Description: I have worked on TennislinkedUp project for iPad/iPhone , which is build in Obj.-C iOS 7/iOS8 (Xcode 6.1.1), this project is a networking app for tennis player/coach's for book coach, play games, make friends and do text chat with friends. 
+iTunes link :- https://itunes.apple.com/us/app/tennis-linkedup/id954912843?mt=8 
+Name: Scrabbllicios 
+Language: Swift 
+Description: I have worked Scrabbllicios project for iPhone , which is build in iOS8 (Xcode 6.3), this project is an educational project . Its word puzzle solving (Kind of game) Project where user can find a word desired combination of characters iTunes link :- (Not Distributed ) 
+Name: ARCHER 
+Language: Obj. C (iOS) 
+Description: I have worked on ARCHER project for iPad , which is build in Obj.- C iOS 7/iOS8 (Xcode 5.1), this project is a reverse engineering Project. Which is use for maintenance of house hold products for registered user of client. 
+iTunes link :- (Not Distributed )--(Enterprise App) Personal Details:- 
+Father's Name : Mr. Jagan Nath Meena 
+Mother's Name 
+: Mrs. Lali Devi 
+Date of Birth 
+: 16th May 1987 
+Gender : Male 
+Address 
+: H. No. 918, Sector - 65, Mohali 
+Languages Known : Hindi, English, Rajasthani and Punjabi 
+Strength : Team Spirit, Good Listener 
+Declaration:- 
+I certify that the above mentioned information is correct to the best of my knowledge and nothing has been concealed. 
+Date: 
+Place: Chandigarh Jai Parkash Meena 

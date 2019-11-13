@@ -1,0 +1,26 @@
+T.S. PAVAN KUMAR 
+Bangalore, Karnataka +91-8050486134 shankarpavan1052@gmail.com 
+Linked in: in.linkedin.com/in/pavantallam1052 
+OBJECTIVE 
+To work in an environment of growth and excellence that would challenge my technical skills and help me achieve organizational as well as personal goals. 
+TECHNICAL SKILLS 
+Languages: C, CORE JAVA, PHP, MY SQL, UML. 
+Operating Systems: Windows, Linux. 
+Software Tools: Eclipse, Rational Rose, Microsoft Office, Apache JMETER, Selenium,Tcp/ip 
+Web Technologies: HTML, CSS, XAMPP, phpmyadmin. 
+EDUCATION 
+MS Software Engineering, VIT University, Chennai 
+70.5% 
+2015 Board of Intermediate, Narayana College, Hyderabad 88.6% 2010 Secondary High School, St. Joseph High School 69% 2008 ACADEMIC PROJECTS BLOOD DONOR DATABASE AND WEB PORTAL (MINIPROJECT) 
+This is a website that is designed for the donors, who would like to donate blood. This is built in such a way that we can integrate with all the hospital databases for easy access of donors. I independently designed a page with all requirements, collecting information and many more constraints. 
+Technologies Used: HTML, CSS, JavaScript, PHP, MySQL BUILDING A SCALABLE SYSTEM FOR P2P BOTNET DETECTION 
+I proposed a novel scalable botnet detection system capable of detecting stealthy P2P botnets. To find the ways of attacker or illegal user s from the network means analyse their packets. And the botnet detection system that is able to identify stealthyp2p botnets, whose malicious activities may not be observable. 
+Technologies used: JAVA, MYSQL VIT AUCTION SYSTEM 
+Designed a website for the college students to sell and buy books, products and many more. Used structured database administration and developed user authentication using open source XAMPP web server solution stack 
+Technologies Used: PHP, XAMPP 
+OTHER ACTIVITIES 
+Certificate of participation on free software, freedom & education by Dr. Richard Stallman. 
+Directed a short film based on corruption. 
+1st prize in singing competition in Rivera, a cultural fest at VIT University Intra School level cricket player CAMPUS INVOLVEMENT 
+Android Developers Club Member 
+VIT University 2015 Event Managers Club Member VIT University 2013 

@@ -1,0 +1,120 @@
+CHANDANSHARMA
+ 
+Contact No.: +91 9903305061 E-Mail: 85chandansharma@gmail.com, 85sharmachandan@gmail.com 
+~ QUALITY CONTROL ENGINEER ~ CAREER SCAN 
+03rd Mar 14 
+30th June 16 : AccessPay India Pvt. Ltd (Previously known as Primalink Solution 
+India Pvt. Ltd) as Quality Control Engineer 
+18thJun 12 
+28th Feb 14 
+: BrandMantra Solutions India Pvt. Ltd as Quality Control Executive 25th Oct 10 
+15th Jun 12 : Navigators Software Pvt.Ltd as Software Test Engineer 21stOct 09 
+22nd Oct 10 : DextrosoftPvt. Ltd as Software Tester 
+SKILL SET 
+Technical Skills: 
+Testing : Manual Testing, Functionality Testing, Usability Testing, Performance testing, Web Testing, Compatibility Testing, STLC, Bug Life Cycle, Test Plan, Test Strategy, Test Cases, Bug Reporting, Regression Testing & Retesting, Test Metrics, etc. 
+Test AutomationTools 
+: Testopia, JMeter 
+Bug Reporting Tools 
+Bugzilla, Mantis 
+Domain Knowledge 
+: Payment Areas like SWIFT, BACS, FPS, SEPA, etc.E-Commerce, CMS, Social Media/Networking 
+Others : Salesforce, SQL, SDLC, Software Development Models, Use Case Diagram, Wireframes, etc. 
+Certification: 
+Webtek Certified Tester (WCT), a certification on Manual Software Testing from Webtek School of Software Testing. 
+In Year:2007 
+KEY PROJECTS EXECUTED 
+At AccessPay India Pvt. Ltd 
+Title : 
+AccessPayPayment Automation System 
+Clients : 1)European Organization for Nuclear Research (CERN) 2) McBride 3) BodyCote 
+Platform : Salesforce, C#, Visual Studio 2012, SQL SERVER 2008 
+Overview 
+: The application allows managing most types of international payments including SEPA (Credit Transfers) and SWIFT transactions, UK Domestic payments. Clients upload their payment instruction files generated from their ERP systems to our server. Our application reads and validates those instruction files and sends data to Salesforce for further processing. After payment file is approved using various Approval Process in Salesforce, it is send to Bank (in MT101/ MT103/ Pain.001 format) for processing using SWIFT Autoclient. 
+This App is developed on Force.com platform and available in Salesforce App Exchange in the name of AccessPay. 
+Roles & Responsibilities : 
+Understanding the Project requirements Studying Development release notes 
+Preparing Test Cases in test management tool Testopia 
+Executing the Test Cases manually Defect reporting using Bugzilla 
+Helping developers in bug fixing by providing required information about bugs posted Performing Retesting and Regression Testing 
+Preparing QA release notes and submitting to Project Team lead and reporting head Communication with the Test Lead & Project Team Lead (when required) 
+Title : AccessPay Direct Debit Management System (DDMS) 
+Clients : 1)Golden Leaves 2) Institute of Physics (IOP) 
+Platform : C#, Visual Studio 2012, SQL SERVER 2008 R2 
+Overview 
+: Cloud-based Direct Debit solution allows its customers to set upany number of BACS Direct Debits, and then manage the entire payment process with ease. 
+Roles & Responsibilities : 
+Understanding the Project/Product features and requirements Preparing Test Cases in test management tool Testopia 
+Executing the Test Cases manually Defect reporting using Bugzilla 
+Helping developers in bug fixing by providing required information about bugs posted Performing Retesting and Regression Testing 
+Communication with the Test Lead &Project/Product Team Lead (when required) At BrandMantra Solutions(India) Pvt. Ltd 
+Title : Stampalia 
+Platform 
+: Cake PHP 
+Overview 
+: Stampalia is an online marketplace for typographic services such as Business Cards or Flyers. 
+Roles & Responsibilities : 
+Analyzing the Requirements from the client 
+Prepared Use Case Diagram 
+Manual Test Case writing & execution Defect Tracking 
+Assisting developers in bug fixing giving needful information and suggestions to them Performing Retesting and Regression Testing 
+Preparing Test Summary Reports 
+Title : Playford Alive 
+Platform : PHP 5, MySQL 5 
+Overview : 
+A website where buyers can search & view various Real Estate properties likelands & houses populated with their images, maps or floor plans, prices, etc. 
+Roles & Responsibilities : 
+Analyzing the Requirements from the client 
+Manual Test Case writing & execution Defect Tracking 
+Assisting developers in bug fixing giving needful information and suggestions to them Performing Retesting and Regression Testing 
+Preparing Test Summary Reports 
+Preparing User guides on application front-end and back-end At NavigatorsSoftware Pvt. Ltd 
+Title : Point Of Sale (POS) 
+Platform : Cake PHP, MySQL 5 
+Overview : A web based Point Of Sale software with Inventory Management, Sales Analysis and Stock Management functions. 
+Roles & Responsibilities : 
+Communicating with Client and Project Manager for Requirements understanding Performed Manual Testing 
+Bug reporting using Mantis 
+Helping developers in bug fixing Performing Retesting and Regression Testing 
+Showing demos to client 
+Title : Legend Recording System 
+Platform : ASP.NET 2.0, SQL Server 2008, AJAX 
+Overview : 
+The system is used to track all the incoming & outgoing calls made from or to the Trunk (main) line & Extension lines within an organization. 
+Roles & Responsibilities : 
+Attending project initiation meeting for clear understanding of Project Requirements 
+Preparing Test Strategy and writing Test Cases 
+Manual execution of Test Cases 
+Bug reporting using Mantis 
+Communicating with development team for bug fixing Performing Retests and Regression Tests 
+At DextrosoftPvt. Ltd 
+Title : Bluest Image Backup 
+Platform : Microsoft Foundation Classes (MFC) 
+Overview : It is advanced technology Disk image backup and restoration software. 
+Roles & Responsibilities : 
+Understanding the product features Preparing Test Plan 
+Writing Test Cases to cover Functionality, Load/Performance and Compatibility tests Manual Test Execution 
+Performing Usability Testing and Benchmark Testing 
+Reporting bugs using MS Excel, MS Word, etc. 
+Communicating with product development team for bug fixing when required Performing Retests and Regression Tests 
+Preparing Test Summary Reports 
+ACADEMIA 
+2007 
+BCA fromUniversity ofBurdwan 2004 
+12th from West Bengal Council of Higher Secondary Education 2002 10th fromWest Bengal Board of Secondary Education 
+PERSONAL DOSSIER 
+Date of Birth 
+: 29thOctober 1985 Linguistic Abilities : English, Hindi &Bengali 
+Address : Vill Gajaghanta (Near Health Centre), P.O. Magra, Dist 
+Hooghly, PIN 712148, West Bengal,India 
+Date: 
+(Chandan Sharma) 
+A Quality Control Engineer with 6.10 years of experience in Software Testing having good exposure on below things: 
+Strong experience in Test Cases writing and execution. 
+Good exposure in Functionality testing, Usability testing, Web Testing, Bug Reporting, Regression testing, Performance testing, System Testing. 
+Good knowledge in Salesforce, e-Commerce, Payment areas like SWIFT, SEPA, BACS, FPS, etc. 
+Familiar with creating Test Scenario, Test Plan, Test Strategy. Knowledge in SQL queries, Performance Testing tool Jmeter. 
+Have used Test management tool Testopia, Bug reporting tools Mantis, Bugzilla, etc. 
+Well acquainted with SDLC, STLC, Software development models, etc. Experience in Technical Designing and Documentation. 
+Involved in Co-ordination with development team and assisting them in understanding and fixing bugs. 
+Interacted with clients and also with management for gathering requirements, showing demos to client. 

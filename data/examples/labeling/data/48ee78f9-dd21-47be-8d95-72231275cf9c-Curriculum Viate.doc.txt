@@ -1,0 +1,85 @@
+Curriculum Vitae 
+Prashant A. Pandya 
+20-Shreejinagar Part-2, Near Navsarjan School, Ranip,AHMEDABAD 382480 
+E-mail: pandya.prashant.a@gmail.com (mailto:pandya.prashant.a@gmail.com) Pandya_pra@live.com 
+Mobile: +91-9099343484 : +91-7383015320 OBJECTIVE 
+Seeking a position to enhance and sharpen my skills and abilities in the Information Technology Industry that offers professional growth while being resourceful, innovative and flexible. To manage projects, collaborate with a project team, and use technology to build successful solutions. 
+SKILL SETS OPERATING SYSTEM Window Server 2000, 2003, 2003 R2, 2008 & 2008 R2, 2012 
+Windows 98 / 2000 / XP / Vista & Windows 7 / Windows 8/ Windows 8.1 TROUBLESHOOTING AND MAINTAINANCE Networks, Servers, Desktops & Laptops. 
+STRENGTH 
+Able to do work independently, learn quickly and adapt to various situations with the information imparted along with the on hand training at work. I shall ensure to serve my company and share the knowledge with my colleagues. Achievement oriented with excellent people management & Communication skill. 
+PROFESSIONAL EXPEREIENCE 
+1) Senior Support Engineer-IT 
+Company Name: Hi-Tech Outsourcing Services at Ahmedabad 
+Duration: Since July, 2014. 
+Responsibilities: 
+Servers 
+o Configuration, Managing & Troubleshooting of Antivirus Servers - Symantec Antivirus with Symantec Endpoint Protection, Backup Exec System Recovery, DLP. 
+o Installation, Configuration and Troubleshooting of Patch Management, Asset Management & all types of Monitoring applications o Configuration of Backup Servers and Backup Applications like Nero Backup and basic knowledge of Symantec NetBackup etc. 
+o Configuration, Managing & Troubleshooting of Microsoft WSUS Server [Windows Server Update Service] o Installation, Configuration and Troubleshooting of Windows Server 2000, 2003, 2003 R2, 2008, 2008 R2. 
+o Configuring and Administrating Active Directory Services and implementing the Security policies as well as Group Policies. 
+o Configuring and administrating of Group Policy Objects on Windows Servers. 
+o Configuration and Troubleshooting of Terminal Server with Windows 2008 & 2008 R2 Servers, Network o Troubleshooting of Routers, Switches, Access Points. 
+o Troubleshooting of Firewall Devices and Security Policies. 
+o Mange Cyberoam bandwidth management and different types of security policies. 
+Desktops o Installation, Configuration and Troubleshooting of all Windows Desktop. 
+o Knowledge of MAC Operation System. 
+o Configuration and troubleshooting of different Mail utilities like MS Outlook 2003, 2007, 2010, 2013 & Office 365, Outlook Express, Windows Mail etc... 
+o Knowledge of Blackberry,Android,iphone (Configuring, Troubleshooting & Data Backup) 2) System Admin 
+Company Name: Subros Limited,TATA NANO VENDER PARK,Sanand. (Microchip Info tech Pvt Ltd) at Sanand. Ahmedabad. 
+Duration: Dec 2011 to June 2014. 
+Responsibilities 
+o 
+All types of Desktop Installation and Troubleshooting. 
+o Troubleshooting of Desktop Printers, Scanners & FAX Machines. 
+o LAN & Wan Configuration and Maintenance. 
+3) 
+Costumer Support Engineer \ Team Leader 
+Company Name: Allied Digital Services Ltd & Innova System Pvt. Ltd. 
+Site Details 
+Client: TORRENT POWER LTD. THERMAL POWER STATION, SABARMATI, AHMEDABAD. 
+Duration: August 2007 to January 2010 
+Responsibilities 
+o 
+Managing and proving a Hardware, Software & Network Support for 600+ Users. 
+o Installation of SAP Frontend & Patches. 
+o Responsible for updating latest virus update file for Mcafee & all issue related to Mcafee 
+o 
+Windows 2003 Administration. 
+o Creating user id accounts and profiles. 
+o Installation and maintaining FTP server. 
+o Install and maintaining Terminal server. 
+o Implementation of the policies for the use of the computer systems and network. 
+o Setup security policies for users. 
+o 
+Create a backup and recovery policy. 
+o Maintaining the Asset Report for all System and Printer. 
+o Installation and configuration of network printers. 
+o Regularly monitoring capturing Network Printer Page usage. 
+o Handled the High Powered Escalations to Solve Employees Requests. Users Management and Support. 
+o Proving a remotely support to other zonal offices. 
+3) 
+Trainee System Engineer. (Field) 
+Company Name: Priya Commuters , Paldi, Ahmedabad. 
+Duration: Oct 2005 to July 2007. 
+EDUCATIONAL QUALIFICATIONS: 
+Diploma PC Hardware & Networking & 
+Windows Network Administration 
+Year of Passing 2007 
+Graduation B.A in Gujarat Univercity. 
+SCHOOL: 
+Class 12th (H.S.C) 55% Year of Passing 1999 
+Board GSEB 
+Class 10th (S.S.C) 50% Year of Passing 1997 
+Board GSEB PERSONAL DETAILS 
+Date of Birth: 
+20th Dec, 1981. 
+Gender: 
+Male 
+Nationality: Indian 
+Marital Status: Married 
+Languages: English, Hindi, Gujarati 
+Hobbies: Reading books, Internet Surfing, Computer Games, Listening Music 
+REFERENCE: 
+Can be given as per requirement. 
+Thanking You, Prashant A. Pandya 

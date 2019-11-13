@@ -1,0 +1,55 @@
+Resume 
+Nagesh S 
+Nagesh Sreekantapuram 
+Mobile :+91-9962606494 / Email: nagesh.skp@gmail.com 
+An ISTQB certified Senior QA Lead with incisive professional experience of 8 Years in Software testing and Quality Assurance with a leading organization Profile Summary 
+Software Testing and Quality Assurance professional with experience spanning across various phases of SDLC & STLC with focus on Manual and Automation testing along with the management level activities for QA programmes 
+Over 17 Months of onsite experience as QA lead, successfully completed the onsite assignment along with mentoring & coordinating the teams as part of Business Transformation program for Norways Largest Telecom Operator 
+Effective Team Leader with good written, verbal communication and Team Building Skills 
+Versatile exposure in Automation testing tools such as QTP, Selenium and extensively used Performance testing tool Load Runner for Web and Client Server applications 
+Expertise in performing different kinds of testing like Functionality testing, GUI testing, Integration testing, Network testing, Regression testing, Migration testing and extensive Post Deployment testing 
+Conversant with all phases of Project Life Cycle like requirements gathering, analysis, design, development, testing, implementation, defect and change management Proficiency in utilizing Quality Center, as a Test Management and Defect Tracking tool, Bugzilla as a Defect Tracking tool, TCS ALM(In House Test Management Tool) and possess exposure to HP ALM 
+Acquired ISTQB Foundation level, HP-Quality Center 10.0 & HP Quick Test Pro 9.2 certifications. 
+Experienced in Creating test plan for both Manual, Performance testing and skilled in reviewing of requirements, test strategy review, test plan review, reviewing and designing of test documents/test cases/test scenarios Working experience in Agile methodology, V model and waterfall model 
+Possess strong knowledge on telecom domain and Certified from FTC on telecom domain Work Experience 
+Working as Senior QA Lead with Tata Consultancy Services from April 2008 to till date 
+Significant Accomplishments: 
+Led a high performing team of 23 members through all phases of testing and ensured products, applications and services developed has met the quality standards and end-user requirements under stringent timelines Managed different key stakeholders during critical testing phases and aided to resolution in wake of any issue 
+Led User Acceptance Testing(UAT), supported clients during UAT execution to build and strengthen their confidence on the products and provided demonstrations on the products implemented with a positive note Rewarded with TCS Gems several times for the best performer in Tesco BB and Qwest Accounts along with on the spot award and received multiple appreciations from customers for handling deliverables seamlessly Awarded Star of the Month for handling a critical CR delivery successfully 
+Extensively involved and led team successfully in End to End testing of CRM, Network Testing (Lab), Selfcare, OSS, Billing systems (OBRM, Suntec), Comptel, agents/consumer portals and notifications(Email/SMS) for customer journey Performed audits on product, process requirements, specifications, test plans, test metrics and implemented best practices for enhancing the performance of the team Technical Skill Sets 
+Database: PL/SQL, MySql 4.0 
+Programming Languages: Java, C, HTML, VB Scripting 
+ERP: 
+Oracle Apps Order Fulfilment modules 
+Testing Tools: 
+Quick Test Professional 9.5, Load Runner 11.0, iTKO LISA Defect Tacking Tool: Bugzilla, Issuezilla 
+Test Management Tools: Quality Center 12.21, Smart Test Manger, Performance Center 9.52, HP-ALM 
+Projects Profile 
+Project # 1: Telenor-Business Process Re-engineering (Business Transformation Programme) at Oslo(Norway) 
+Role: Senior QA Lead / Onsite Test Co-Ordinator 
+Team Size: 28 
+Duration: Dec14 to May16 
+Description: The Project aims at a Transformation of the existing Business Processes and Products in the current OSS / BSS stack of Telenor for Consumer / Enterprise / Wholesale in the Fixed Copper Technology with HOBS (TCS Developed BSS Stack for CRMS and Billing) and Comptel OSS Suite for the OSS. 
+Project # 2: Tesco Broadband 
+Role: Test Lead 
+Team Size: 23 
+Duration: Feb12 to Nov14 
+Description: This project features with full fledged CRM application along with a ticket & complaint management systems for Tesco Broadband operations with value added services to its customers. The system manages the customers with a self-care portal along with the billing and payment management systems. 
+Project # 3: Sprint Telecom 
+Role: Performance Test Engineer 
+Team Size: 9 
+Duration: Jun11 to Jan12 
+Description: This project aims at Designing of Test scripts using Load Runner, scheduling, executing and monitoring of Load & Performance Tests using Performance center for applications in SPRINT and maintenance of previous releases scripts pertaining to the applications involved in the test. 
+Project # 4: QWEST Communications 
+Role: Test Analyst, Automation and Performance Test Engineer 
+Team Size: 7 
+Duration: Jul08 to May11 
+Description: This project aims at testing of every feature of a product on every possible configuration using every approach or sequence that a customer might use. E2E testing involves the testing of all major applications in Qwest that includes manual, automation and performance testing. 
+Personality Attributes 
+Excellent logical, analytical and creative thinking. Enthusiastic and fast in learning and adapting to new technologies Positive attitude and proven ability to work efficiently in both independent and team environments 
+Driven by curiosity and passion, to learn and comprehend with an open and positive mind Ability to work under pressure and meeting stringent deadlines and able to work closely with people at all levels 
+Dedication & hard work towards achieving the goals. Can motivate group of people to achieve organizational objectives Education Profile 
+B.Tech in Computer Sciences and Engineering from Jawaharlal Nehru Technological University, Hyderabad in 2007 Personal Details 
+Date of Birth: 
+11th June 1986 
+Passport Details: G3594191, Holding valid Visa for Norway till 10th Dec 2017 Page 2 of 2 

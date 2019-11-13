@@ -1,0 +1,41 @@
+RESUME
+ 
+Siddharth Singh 
+E-mail : singhsiddharth92@yahoo.in Phone : (+91)-8194862825 Address: 280/D Rajban Bazar, Meerut Cantt - 250001 
+Career Objective 
+To obtain a growth oriented job in industry involving research and development where emphasis is paid to hard work, dedication and individual ability of problem solving. To take up challenging careers and grow consistently with the organisation. 
+Work experience British Telecom 
+October 2015 Present 
+Network Associate 
+Roles and responsibilities include recording of live BT network on software based tools. 
+Maintaining network records that include recording copper or fibre cables from Main Exchange to end users in order to ensure network accessibility. 
+Ericsson Global Services June 2014 September 2015 Level 1 Assurance 
+Delivering proactive preventive maintenance for day to day operational issues to provide fault free and maximum service availability of Intelligent Network to customer. 
+Providing support during maintenance window by taking pre and post health check of nodes on which activity has to be performed and also monitoring live traffic proactively during that window. 
+Performing first level troubleshooting on minor and major fault detected during health check of nodes. 
+Monitoring critical checks of all nodes through HTML links and CSNM tool. 
+Checking backups, schedulers and dumps on daily basis so that the reporting of customer not impacted. 
+Work on the issues reported by customers and third party vendors and coordination with them meeting the desired SLA s. Hands on experience on tools like SecureCRT, OneTM, CSNMT (Charging System and Node Monitoring 
+Tool), Command line. 
+Performing daily health checks of all intelligent network nodes like SDP, CCN, AIR, VS, EMA, EMM, MINSAT, IVR, CRS and OLM. 
+Educational Qualifications 
+B.Tech-Hons. (E.C.E) from Lovely Professional University, Jalandhar in 2014 with aggregate of 70.92%. 
+Class XII, CBSE Board from Meerut Public School, Meerut in 2010 with 76.8%. 
+Class X, CBSE Board from Meerut Public School, Meerut in 2008 with 87.6%. 
+Technical Skills 
+Software/Tools: 
+Keil, Xilinx, Secure CRT, One TM, One FM,Putty , Piper. Areas of Competence 
+Good knowledge of Ericsson Charging System. 
+Basic architectural knowledge of GSM and WCDMA. 
+Working knowledge on Unix/Linux platform. 
+Basic knowledge of SS7 signalling protocol stack. 
+Proficient with Microsoft Office, Microsoft Excel, Microsoft Power point, Citrix Applications. 
+Internship 
+Organisation: Bharat Electronics Limited, Ghaziabad June 2013 - July 2013 
+Description: As a six week summer trainee, my task was to understand the functioning of ROHINI RADAR and to analyse the working of the equipments associated with it. 
+Organisation: HP Education Services, Dehradun June 2012 - July 2012 Description: 
+Summer Training in Embedded and Robotics; to understand the concepts of Embedded system using ATMEGA 16 microcontroller and its applications. 
+Hobbies and Interests 
+Listening music, watching movies, reading quotations Keen interest in swimming and paragliding References 
+References available upon request. 
+DATE: PLACE: SIDDHARTH SINGH PANWAR 

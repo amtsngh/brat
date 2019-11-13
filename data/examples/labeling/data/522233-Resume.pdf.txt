@@ -1,0 +1,44 @@
+ Pratik Asarkar 
+Katraj, Pune 
+Data Analyst Maharashtra, India 
+pratik.asarkar@gmail.com / +91-9158743657 
+LinkedIn Profile 
+Github Profile 
+SKILLS 
+Languages : Python, R, Java, HTML5, CSS3, Javascript DataBases : MongoDB, SQL 
+Machine Learning : 
+Naive Bayes, SVM, Decision Trees, Adaboost, Regression, Feature Selection and Transformation, PCA etc. 
+Frameworks/Libraries : MongoDB Aggregation Framework, Numpy, Pandas, AngularJs, JAX-RS Web Services,Scikit Learn 
+Other : Git/GitLab, Android development, AWS (Lambda, EC2, S3, RDS, Dynamodb) PROJECT EXPERIENCE - 
+(Projects available on the Github Link) Identify Fraud from Enron Email - Udacity 
+This project aimed to identify which Enron employees are more likely to have committed fraud using machine learning and public Enron financial and email data. 
+Plotted graphs to visualize the trends and patterns in the dataset using matplotlib. Further used algorithms from scikit learn to tune the parameters and find the best algorithm suitable. Verified the algorithms on merits like recall, precision, etc. 
+Major tasks in this project were like exploring dataset, find the outliers, analyse the behavior of algorithms with and w/o outliers, take a decision on which outlier to keep/eliminate, tune the parameters of different algorithms and finally report the work of identifying the person of interest from the dataset. 
+Explore and Summarize Red Wine Data Using R Programming - Udacity 
+This project aimed to conduct an exploratory data analysis that would explore the variables, structure, patterns, oddities, and underlying relationship of red wine dataset. 
+Used R programming in RStudio IDE to analyse the dataset. Used packages like ggplot, dplyr, gridExtra, ggally, etc. from R repository for exploring the different trends with the features in the dataset. 
+Plotting graphs to analyse the variations and correlations between the variables by using techniques of exploring one or more variables and trying to find an trend in the dataset with a proper reflection on dataset were the major tasks involved in the project. 
+Data Wrangling using OpenStreetMap 
+- Udacity 
+The idea behind this project was to help me get acquainted with different techniques of Data Wrangling. 
+Audited, cleaned and processed an openstreetmap location data (XML) using python by importing the cleaned data into mongodb database and exploring the data using queries in mongodb, used mongodb aggregation framework for exploring the database and documented the work by creating a report. 
+Finding and documenting the problems encountered in the map, giving an overview of the data and exploring additional ideas which could improve the map were amongst the major tasks involved in this project. 
+Investigation Of Titanic Dataset - Udacity 
+This project aimed to investigate a large dataset and try to find inferences based on the available data using descriptive and inferential statistics. 
+Used tools like Numpy and Pandas in Python to reason the dataset and also created a report using Jupyter Notebooks and shared the answers with the reviewer. 
+This project involved a number of tasks like posing the right questions, cleaning the data, finding the limitations of the data and how those could be handled without affecting the investigation results. 
+WORK EXPERIENCE 
+Infosys Ltd, 
+Mysore - System Engineer September 2016 - PRESENT 
+Worked on 2 projects with a team of six as scrum master and lead developer. 
+Conducted standup meeting everyday and developed the project in sprints. 
+Used project management tool like Git for maintaining projects. 
+Maintained a high performance throughout the training period and completed the post training project with top performance. 
+EnvisioDevs Pvt Ltd, Pune - Android/Java Developer December 2015 - August 2016 
+Wrote maintainable and extensible code in a team environment. 
+Learned and worked on development of Android applications from scratch. 
+Developed and published three android applications on Google Play Store. ( goPropertyApps , RinseNSpin , 
+Vachan Milk ) Built APIs using Jersey framework and designed project architectures using Amazon Web Services. EDUCATION 
+Udacity 
+- Data Analyst Nanodegree August 2016 - PRESENT 
+MIT College Of Engineering, Pune - Bachelor Of Engineering, IT June 2012 - May 2016 

@@ -1,0 +1,60 @@
+ARUN M +91-8951606106 | arunkumar.nhce@gmail.com 
+OBJECTIVE 
+To succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self - development and help me achieve personal as well as organizational goals. 
+TECHNICAL SKILLS 
+Programming Languages: Java 
+Database: Mysql API: jdbc, Servlet, JPA 
+Frameworks: Hibernate, Spring 
+Web-Server: Apache Tomcat 8.0 
+Web-Technologies: HTML, CSS, JavaScript 
+IDE: Eclipse 
+CERTIFICATIONS: 
+Java Certification course from JSpider Old Airport Branch 
+TECHNICAL SUMMARY CORE JAVA: 
+Exceptional in overloading, overriding, constructors, blocks in Java. 
+Very good knowledge of binding, upcasting, downcasting in Java. 
+Exceptionally good in abstraction, polymorphism, inheritance, encapsulation. 
+Strong knowledge about abstract class, interface in Java. 
+Very good knowledge of singleton class, aggregation, composition in Java. 
+Having enough knowledge about strings, arrays in Java. 
+Good knowledge about Exceptions in Java. 
+Better knowledge of collections in Java. 
+Implementation of array list, linked list, queue and stack in Java is known. 
+Good multithreading technique of Java. 
+JEE: 
+JDBC, Servlet and JSP HIBERNATE: 
+Knowledge on orm and its problem's Hands on experience in writing hibernate configuration and mapping Knowledge on hibernate components like configuration, sessionfactory and session 
+Working with JPA 
+Configuring connection pool(c3p0) with hibernate Performing CRUD operations using session and handling transactions Working with hibernate query 
+Using criteria API. 
+Using singleton design pattern on SessionFactory SPRING: 
+Knowledge on IOC and Dependency injection with types Experience in configuring spring beans 
+Working with Spring annotations Knowledge on spring auto-wire 
+Creating applications using Spring MVC and knowledge on MVC architecture Integrating Spring with Hibernate ACADEMIC QUALIFICATION EXAMINATION SCHOOL/COLLEGE UNIVERSITY/ BOARD YEAR OF PASSING PERCENTAGE B.E.[ECE] 
+NEW HORIZON COLLEGE OF ENGINEERING VISHWESHWARAYA TECHNOLOGICAL UNIVERSITY 
+2016 
+63% 
+P.U.C 
+S.J.R.C 
+KARNATAKA STATE PRE-UNIVERSITY BOARD 
+2012 
+80% 10th 
+REGIONAL ENGLISH SCHOOL KSEEB 
+2010 
+79% 
+MINI PROJECT 
+Title: Information Management Brief Description: Integrated Hibernate and Servlet to manage information related to continent country and state 
+ACADEMIC PROJECTS 
+Title: Digital IC tester using embedded truth table 
+Duration: February 2016 to May 2016 
+Team size: 3 
+Brief Description: Objective of the project is to represent prototype IC tester that is highly capable, reliable as well as cost effective. 
+Individual Role: Working details of the ICs and programming, Interfacing of Digital ICs with arduino mega adk. 
+ACHIEVEMENTS AND CERTIFICATES 
+Received Karnataka E-pass scholarship for the year 2014-15 and 2015-16 Presented a paper titled 
+Online Hand Written Character Recognition Using Digital Pen at New Horizon College of Engineering, Bengaluru (February 2016) INTERESTS 
+Philately 
+Numismatist 
+Music 
+Travelling 
+Place: Bengaluru (ARUN M) 

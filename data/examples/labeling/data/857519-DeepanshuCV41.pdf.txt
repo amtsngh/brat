@@ -1,0 +1,88 @@
+ CURRICULUM VITAE 
+To serve with commitment and honesty and be an asset to the organization through my contribution where my skills are effectively utilized to improve operations and to contribute to organization's success 
+I have 2 years of experience in IT industry working as LINUX Administrator. I have worked on 24*7 Production Support Environments as well as in Datacenter 
+Operations, new server setup. 
+Looking forward to enhance my skills in support as well as in Product based environment. 
+User management, such as all user ID related tasks (creation, deletion, password reset, Changing Home directory, Group Add/Delete/Modify etc) Applying Security on Users and Groups. 
+Creating and managing LVM. 
+Installing Packages through YUM and RPM. 
+TECHNICAL SKILLS OVER LINUX SUMMARY CAREER OBJECTIVE 
+Contact No: 8802608796 
+Email: deepanshubhandari93@gmail.com 
+DEEPANSHUBHANDARI 
+Server hardware Issues Troubleshooting. 
+Also worked on all priorities of incidents. 
+Monitoring of servers at Datacenter Operations. 
+OS Upgradation and Package/Patch Management 
+Managing physical partition . 
+Analyze, acknowledge and record alerts in the monitoring tool and handle the alerts as per their Priorities 
+Server Installation. 
+Servers: Samba server, Apache web server, Mail servers(Postfix/Sendmail), NFS, SCSI/ISCSI, LDAP, NTP, etc. 
+Registering a server with RHN(Red Hat Network). 
+Virtual Environment(VMware Vsphere Client V Center 5.5). 
+Basic overview of VxVM. 
+Basic overview of Veritas Cluster Servers Architecture. 
+Basic knowledge of Shell scripting. 
+HCL Technologies Ltd : Sept 2015 to till Date- Working as an Senior Analyst. 
+Team Size- 25 Members. 
+Also been the Shift Lead managing 5 members and training them about the environment and also technically. 
+Installation: RHEL Installation, Kernel and Patch Upgradation on RHEL. 
+Tools/Ticketing Tools: Service Now, HP Service Center, HP System Insight Manager, BMC Proactive Net, Microsoft System Center Operation Manager (SCOM), Netapp Datafabric Manager (Storage), Oracle Enterprise Manager(Grid Control 11g), Nagios, DPA(Backup) Syswatch (UNIX), CA Spectrum, ECC(Storage) ITIL: Incident, Request & Change Management. 
+User management: All user ID related tasks (creation, deletion, password reset, Changing Home directory, Group Add/Delete/Modify, etc). Applying Security on Users and Groups, ACL. 
+Disk/Volume Management: Reducing/Extending Size of VG, LV, creating and managing LVM. 
+Routine Checks: Checking Error & System Directory Logs for smooth functioning of server, Logging Call with Vendor if found any critical hardware error, Resolving Day to day Tickets. 
+Application Server Environment: Samba server, NFS server(including Kerberos), WORKING PROFILE IN HCL 
+PROFESSIONAL EXPERIENCE 
+Apache web server, NIS server, LDAP, NTP server, Mail servers(MTA, MDA, MUA), basic overview of DNS. 
+Networking Skills: IP data networks, LAN Switching Technologies, IP Addressing, IP 
+Routing Technologies, Network Device Security, Troubleshooting routers & switches, WAN technologies. 
+Database: Some knowledge of Mariadb. 
+Troubleshooting: Troubleshooting steps like server not accessible, User unable to login, server slowness, user not able to run any command etc. 
+Cluster: HPC (High Performance Computing). 
+Terminals Used: Putty. 
+O.S Environments: Red Hat enterprise Linux 5.5, 5.8, 6.1, 6.6, 7.0, 7.3 Knowledge about Boot process, GRUB loader, shutdown process. 
+Knowledge of implementing various RAID levels, logical volume creation, mirroring and file systems. 
+Configure LDAP client, autofs to support authentication clients. 
+Understand SSL certificates. 
+CHANGE PLAN/IMPLEMENTATION ACTIVITY 
+Unmount and mount the filer volumes using NFS from Isilon Storage. 
+Public DNS Record setup for servers/sites. 
+Kernel 
+patching on physical as well as virtual servers(including Database & DNS servers). 
+LVM Migration 
+Physical to Virtual (P2V) migration Decommission and Commission of new physical as well as virtual servers 
+HP Firmware Upgradation 
+Storage Migration Plan 
+KVM to VM Migration 
+Qualification School/College 
+Attended 
+University/ 
+Board 
+Year of Passing 
+Percentag e of Marks 
+B. Tech (Electronics and communicati on) 
+G.L. Bajaj 
+Institute of Technology and Management 
+Uttar 
+Pradesh 
+Technical 
+University 2015 61.58 
+XII St. Mary's School 
+CBSE 2011 79.4 
+X St. Mary's School 
+CBSE 2009 83.6 
+PROFESSIONAL & ACADEMIC QUALIFICATIONS 
+Red Hat Certified System Administrator(RHEL 7): Certificate Number- 170-115-539 
+Red Hat Certified Engineer(RHEL 7): Certificate Number- 170-115-539 Football 
+Singing 
+Dancing 
+Gender : Male 
+Date of Birth : 07-02-1993 
+Marital status : Single 
+Father s Name : Dinesh Bhandari 
+Passport No : N1145544 
+Languages known : Hindi, English 
+Ready to Relocate : Yes 
+I hereby declare that all the details furnished above are true to the best of my knowledge. 
+Date: 
+Place: (Deepanshu Bhandari) PERSONAL INFORMATION PERSONAL INTERESTS PROFESSIONAL CERTIFICATION 

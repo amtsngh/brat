@@ -1,0 +1,211 @@
+ B VENKAT SATEESH 
+Mobile: +91-9980799941 
+E-Mail: sateeshvenkat@yahoo.com (mailto:sateeshvenkat@yahoo.com) 
+Synopsis 
+8 years of overall experience in Software Quality assurance in applying testing methodologies, create test plans and execute and automate test suite with exposure to the full product development lifecycle - from requirements through post-release. 
+Knowledge of SDLC, STLC and Defect life cycle. 
+Experience in Designing test plans, test cases and scenarios as per requirement provided. 
+Experience performing end-to-end application testing, Functional, Integration, Regression, Sanity and Smoke, User acceptance testing and defect management. 
+4 Years of Proficiency in writing Manual Test Cases. 
+Hands of Solid Experience in SDLC process using Waterfall, Agile Scrum Model 4 Years Hands on Experience in of Selenium Webdriver in designing Data Driven Framework, Page Object Model Framework TestNG, Cucumber, JBehave Hands on Experience of writing automated tests using AngularJS Protractor Jasmine 3 Years Hands on Experience in Testing Mobile Automation using Appium 2 year of Hand on experience on Core Java programming 1.3 year of Hand on experience on C# Hands-on knowledge of Continuous Integration tools such as Jenkins, TeamCity 3 Year Hands on Experience of REST API Automation and SOAP Automation using SOAP and Java/C# 2 Year of Hands of Experience in Performance Testing using JMeter Tool and Grinder 
+3 Years Experience in Database Testing on Oracle and SQL Server(Joins) Hands on Experience in RTM, Test Plan ,Test Case Design ,Defect Matrix Reporting 
+Proficient with test management and defect tracking tools and associated reports, such as HP ALM 11.52 and JIRA, Test Link 
+Hands on Experience in Defect Reporting and Tracking Tools like Bugzilla 
+HP ALM/QC, Microsoft MTM ORGANIZATIONAL EXPERIENCE 
+May15-Till Date 
+Collabera Technologies Ltd, Bangalore as Sr.QA Engineer 
+Aug14-Apr 15 Trianz Holdings Pvt Ltd, Bangalore as Technical Test Lead 
+Apr12-Jul 14 Spectra Force Technologies Ltd., Hyderabad as Senior Software Test Engineer 
+Sep06-Mar12 
+Analogics Tech India Ltd., Hyderabad as Senior Software Test Engineer 
+Technical Proficiency 
+Technologies: Java, C# 
+Development Tools: 
+Microsoft VS 2013,Eclipse 
+Automation Tools: 
+Selenium Webdriver 
+Database: Oracle & SQL Server 2008 
+Defect Tracking Tools: 
+Test Link HP ALM 11.52,Microsoft MTM 
+Test Management Tools: Microsoft TFS ,HP ALM ,Test Link 
+Configuration Management: TFS 2010 & SVN 
+Operating System: Windows, Linux 
+ACADEMIC DETAILS 
+2004 
+B-Tech (Computers) from DVR College of Engineering & Technology, Hyderabad, University with 67% 
+2000 XII from Nalanda Junior College, Hyderabad, Intermediate Board of Education with 80% 
+1998 X from St Alphonsas High School, Location, and Board of Secondary Education with 81% Onsite Experience 
+MBH Group LTD, Lagos (Jan10 Apr10) Senior Test Engineer 
+Title: Mobile Workforce Solution 
+Client: MBH Group Ltd., Lagos 
+Period: Jan10-Apr10 
+Team Size: 7 
+Role: 
+Test Lead 
+Technology Used: Java, Tomcat, JSP, Serlvets, J2ME, Linux, Perforce & Oracle 10g 
+Tools: HP ALM 
+Description: 
+Mobile Workforce Solution was an integrated, end-to-end solution based service that looked into the availability of automated field operations via. State-of-the-market dispatch scheduled and routed. It optimized the service chain, improved workforce productivity and reduced operating expenses. 
+Responsibilities: 
+Understanding the Requirements and Functional Specifications of the application. 
+Participated in identifying the required Test scenarios for Dealer module. 
+Prepared and Executed Test Cases as per System Requirements for Supplier module. 
+Performed various black box testing Methodologies Like functional testing, Compatibility Testing, Database Testing, Usability Testing, Regression testing and Server Log Files Testing. 
+Defect Reporting and Tracking using Bugzilla. 
+Extensively performed Manual Testing process to ensure the quality of the software. 
+Professional Experience 
+Collabera Technologies Ltd, Bangalore 
+(May2015Till Date) 
+Senior QA Engineer 
+Project 1#: Customer Master Data Management 
+Client: 
+Dell International Services Pvt Ltd 
+Domain: 
+Ecommerce 
+Period: 
+Since May15 
+Team Size: 10 
+Role: 
+Senior QA Engineer 
+Tools: 
+Visual Studio C#, Microsoft MTM/TFS, Selenium, Team City, JMeter 
+Description: Master Data Management (MDM) provides organizations with a systematic way to organize synchronize and standardize their data across multiple applications, locations and domains. Trajectorys approach to MDM provides a configurable, rule-driven framework that recognizes duplicates, intelligently applies real-time recommendations to data structure and classification, and ensures that data lineage is preserved Responsibilities across the project: 
+Working as Individual Contributor to team Identify the Test Scenario and Test Scripts and get approval from client. 
+Execute the manual test scripts in Microsoft Test Manager and provide the test status to TPM and client in agile environment 
+Identify the defects using MTM and participate in Daily defect review with client Responsible for running the scrum daily defect triage process 
+Designed the Data Driven Framework using selenium to execute UI Automation. 
+Automated the Web application and performed the cross browser testing on different platforms. 
+Automated the Test Scripts to perform Web services testing using SOAP Services 
+Executed the performance testing using JMeter tool 
+Modified automated test scripts as per system functionality and functional requirements. 
+Prepared and implemented automation test scripts for Smoke, Sanity and regression tests. Attended Demos and met with Client for User Acceptance and providing QA Signoff on the testing. 
+Execute automation scripts and notify through email using Team city. 
+TRIANZ HOLDINGS PVT LTD, Bangalore (Aug2014Apr2015) Technical Lead 
+Project 1#: BRINKS.COM 
+Client: Brinks 
+Domain: Security and Logistics 
+Period: Aug14-Apr 15 Team Size: 10 
+Role: 
+Technical Test Lead 
+Tools: 
+Selenium Webdriver 2.0, Eclipse, Jenkins, HP ALM 11.5, TFS, JMeter 
+Description: Brinks Customer Portal project involves development of Customer Portal system using Liferay. The portal system will be integrated with the existing seven downstream applications (iOrder, iDeposit, iATM, iReport, iProfile, Check Imaging System (CIS)). 
+The portal system will have multi-lingual capabilities. The site developed will be responsive supporting hand-hold devices (Mobile and Tab). It will also have Single Sign on (SSO) capability Responsibilities across the project: 
+Preparing the Test Strategy and Test Plan and review with Test Manager 
+Involved the Test Scenario design and perform the test scripts review written by QA team get the approval from client 
+Involved in writing Requirement Tractability Matrix (RTM) and get approval from client 
+Defining the testing activities for subordinates using TFS tool. Logged the Defects in HP ALM and participated the Daily Defect review with client Designed and implemented Page Object Model managed Selenium test automation processes using BDD Cucumber. 
+Performed the Responsive web design testing using selenium automation 
+Prioritized the test scripts and assign to QA team to automate and use to run Smoke, Sanity and Regression suites Execute automation scripts and notify through email using Jenkins. 
+Automated the Web application and performed the cross browser testing on different platforms 
+Automated the Mobile application On IOS and Android Devices 
+Automated, debugged and resolved issues in test scripts 
+Executed the performance testing using JMeter tool. 
+Building and managing different test execution phases (SIT, UAT, Functional Sprints) 
+Prepare the Test Metrics and Daily Status Report and submitted to client. 
+Participate in weekly test planning, project status meetings and reviews. 
+Attended Demos and met with Client for User Acceptance and providing QA Signoff on the testing. 
+Working closely with Test Manager and provide the status of team members on weekly basis. 
+Professional Experience SPECTRAFORCE TECHNOLOGIES LTD, Hyderabad (Apr2012Jul 2014) 
+Senior Test Engineer 
+Project 1#: BookThatDoc.com 
+Client: BookThatDoc.com 
+Domain: 
+Healthcare 
+Period: 
+Since Mar14 
+Team Size: 5 
+Role: 
+Test Lead 
+Tools: 
+Selenium Webdriver 2.0, Test Link Eclipse, Jenkins, 
+Description: BookThatDoc.com is a free service to instantly book doctor's appointments online. With just a few clicks you can find a doctor near you that accepts your insurance, and a book an appointment instantly. It's that easy, BookThatDoc.com makes finding the right doctor a convenient and enjoyable experience 24 hours a day. No more phone calls, waiting lists or answering services - you can even narrow your search by several options including gender, specialty, and language. We are excited to help you stay healthy through this amazing free service! 
+Project 2#: GPSaaS (GPS as a Service) 
+Client: SecurusGPS (USA), Hyderabad 
+Period: 
+Since Aug13 
+Team Size: 13 
+Role: 
+Test Lead 
+Technology Used: 
+C#.Net, ASP.Net 4.0, WCF, WPF, SqlServer 2008 
+Tools: 
+Selenium Webdriver, Eclipse, TestNG, Jenkins, QC 2010 
+Description: GPSaaS completed modular machine-to-machine platform offers virtually unlimited ways to fulfill business tracking needs. GPSaaS is robust tracking system which can be configured to meet diverse needs. 
+Project 3#: Letter Mark 
+Client: Research Triangle Software (USA), Hyderabad 
+Period: Jan13 to July13 
+Team Size: 8 
+Role: 
+Sr.QA Engineer 
+Technology Used: C#.Net, ASP.Net 4.0, WCF, WPF, SqlServer 2008 
+Tools: VSTS Coded UI, TFS 2010 
+Description: Letter Mark Web-enhanced e-mail is an interactive marketing tool which is being designed for business. This technology converts plain text e-mails into a powerful marketing and branding tool by adding customized interactive templates. The messages include an e-mail business card, company logo, etc. that goes with the Letter Mark e-mail, so that every time an employee hit send, they extend their brand to promote products, services, special events and news. 
+Project 4#: WhiteTrruffle 
+Client: WhiteTrruffle 
+Period: May12 to Dec12 
+Team Size: 13 
+Role: 
+Sr.QA Engineer 
+Technology Used: 
+C#.Net, ASP.Net 4.0, WCF, WPF, SqlServer 2008 
+Tools: 
+Selenium Webdriver, TestNG, Jenkins, Eclipse 
+Description: WhiteTrruffle is job site where employer searches for candidate uses work history, skills, location, re-location, and other unique data to ensure that the right candidate is always matched with a relevant position. Matches are delivered to your inbox as they come in, and we introduce you only to the candidates or employers you actually want to talk to. 
+Responsibilities across the project: 
+Involved the Test Scenario design and Test Scripts review based on Requirements 
+Involved in writing Requirement Tractability Matrix (RTM) detailed Test Plan and Test scenarios. 
+Identified, analyze, and document defects using Jira and Mantis defect tracking system 
+Designed and implemented Page Object Model managed Selenium test automation processes for Web and Mobile Application using TestNG Automated, debugged and resolved issues in test scripts Supported and updated test libraries, applications, scripts and data files. 
+Prepared and implemented test scripts for Smoke, Sanity and regression tests to run automation scripts 
+Performed Cross Browser Testing on both Desktop and Mobile devices 
+Prepare the Test Metrics and Daily Status Report 
+Tested Web app, Native app using Appium for automated the mobile testing and run the scripts for multiple devices with Java using Appium Tool and also performs manual testing according to the requirements. 
+Participate in weekly test planning, project status meetings and reviews. 
+ANALOGICS TECH INDIA LTD, Hyderabad 
+(Sept2006 
+Mar2012) 
+Senior Software Test Engineer (Reporting to Project Manager) Project 1#: IEE Meter Data Management Solution (www.tatapower.atil.info) 
+Client: Tata Power Ltd 
+Period: Jul11-Mar12 
+Team Size 
+26 
+Role: 
+Sr.QA Engineer 
+Technology Used: C#.Net, Asp.Net 3.5, WPF, SqlServer 2008 
+Tools: 
+Manual Testing, QTP 10.0, QC 10.0 
+Description: Enterprise Data Management Solution managed interval register and event data in central repository for residential and C&I Customers, looking into the interface of huge data. IEE MDM interface eased the process of analyzing billing. 
+Project 2#: Debt Collection System 
+Client: IndusInd Bank Ltd., (Hyderabad & Chennai) 
+Period: Jun10-Apr11 
+Team Size: 6 
+Role: 
+QA Engineer Technology Used: Java, J2EE, JSP, HTML, Apache Tomcat 6.0 
+Description: Debt Collection System was developed to help the process of collating amount through various kinds of loans, issue receipt (customer) and updating details in database followed by generation of various reports. 
+Project 3#: Cash Cards (www.itzcash.com) 
+Client: Etolie (Pex International Ltd.), Mauritius & Hyderabad 
+Period: Sep08-Sep09 
+Team Size: 6 
+Role: 
+QA Engineer 
+Technology Used: IIS 6.0, C#, ASP.NET, Windows Server 2008, SQL Server 2008 
+Description: This project was developed to facilitate the affiliation of customers in applying for cash card through partner sites. It was created to give an application interface to the affiliate. 
+Project 4#: Meter to Cash 
+Client: Reliance Energy Ltd., Mumbai 
+Period: Oct06-Jun07 
+Team Size: 5 
+Role: 
+Project Co-ordinator 
+Technology Used: C#.Net 2.0, ASP.Net 2.0, SqlServer 2008 
+Description: The project developed consumer application enabling BSES to build intelligence about its consumers with focus on commercial losses. It identified cases where consumption record was significantly less than estimated consumption for the consumer profile. 
+Responsibilities across the project: 
+Analyzing the Requirements from the client Preparing Test Scenarios, test cases 
+Executing various black box testing methodologies Handling test cases for new functionality Execute Test cases using update defects using HP ALM 
+Involve in Defect Review meeting with Managers and Developers 
+Attending meeting with developers & managers to analyze risk of product Personal Details 
+Date of Birth: 14th May, 1982 
+Marital status: Married 
+Languages Known: English, Telugu, Tamil and Hindi 
+Location Preference: Bangalore 
+Reference: Available upon request 

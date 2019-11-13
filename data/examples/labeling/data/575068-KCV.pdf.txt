@@ -1,0 +1,53 @@
+ Kumud Ranjan Kumar 
+E-mail : k.1990ranjan@gmail.com Mobile : +91-8928364766 
+Objective: 
+As a software professional, I aspire to serve the industry where I can utilize my abilities, skills and knowledge to be associate with your organization which offer professional growth while being resourceful and innovative. 
+I would like to obtain an entry level position in your organization that will utilize my experience of training and will try to be always creative and develop multifunctional skill and to be always innovative, hardworking and adaptive to apply my skill and knowledge in the best interest of the organization I work for. 
+Academic Details: 
+Degree Year Board/University 
+Percentage Class 
+BE ( I T) 2016 University Of Pune 65.13 % First Class 
+HSC 2010 B.S.E.B 60.08% First class 
+SSC 2008 B.S.E.B 65.05% First Class 
+Experience Summary: 
+Intern as Oracle DBA Trainee in Focus Training Services, Pune From June 2016 to Jan 2017. 
+Worked as Technical Support Engineer in Wipro Infotech-MIT, Bangluru From Feb 2017 to April 2017. 
+Good work ethics, Communication and Analytical skills.. Ability to work well in both a team environment and individual environment. 
+Technical Skills: 
+Language : SQL,Unix Shell Scripting ,Basic Core Java 
+Databases : Oracle DBA, Oracle 11g-SQL Packages : MS-Office 2003/07/10 
+Platforms : Windows 9x/2000/XP/07/08, Basic LINUX 
+Personal Strengths: 
+I am quick learner with a confident approach to work. 
+Planning, communication, flexibility, commitment and time management. 
+Willing to learn, punctual in doing my work. 
+Very good team player and taking ownership in all aspects. 
+Good interpersonal and communication skills 
+BE PROJECT 
+TITLE A Novel Privacy-Preserving 
+k-NN Classification Protocol Over Encrypted Data. 
+ENVIRONMENT My SQL,Core Java 
+Workflows, WCF, SOFTWARE TOOLS Eclipse Indgo , My SQL 
+DESCRIPTION: 
+The objective of this project is to design A Novel privacy-preserving-NN classification protocol over encrypted data , as an effective way to improve the result of classification of data on cloud, due to various issues in data mining classification process. 
+Oracle Project Details : 
+TITLE ETL Project in Focus Training Services 
+ENVIRONMENT Oracle 11G-SQL 
+Workflows, WCF, DESCRIPTION: 
+Built a Database where data comes from flat files and load data into multiple tables. 
+Responsibilities: 
+Design database as per data in flat files. 
+Develop scripts which will create, drop ,primary key, foreign key all existing data objects along with all constraints and create new structure with all constraints. 
+We create control files for each table which will help to control data as per the given database. 
+Load data from flat files into tables using SQL Loader 
+Personal Information: 
+Date Of Birth 10-03-1993 Languages Known English and Hindi 
+Hobbies Internet Browsing, Playing Cricket & Badminton 
+Nationality 
+Indian 
+Address Ivory Society, E-103, Baif Road, Wagholi,Pune-412207 
+Declaration: 
+I hereby declare that information furnished above is true to the best of my knowledge . 
+Place: Pune 
+Kumud Ranjan Kumar 
+Date: (Signature) 

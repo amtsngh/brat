@@ -1,0 +1,86 @@
+R.Saravanan 
+Date of Birth: 26h March 1989 
+Mobile: 9597915858 
+No 24, 4th floor,3rd cross, E-mail: saravananraju2703@gmail.com 
+2nd main Photalapa garden, Audugodi Bangalore - 560300. 
+Profile: 
+To render my dedicated service to the full satisfaction of my superiors and to be a part of the firm where I can apply my innovative ideas and thoughts for the growth of the firm I m associated with and to work with sincerity and integrity 
+Skills Summary: 
+iOS, Cocoa Touch 
+Objective-C, Swift,Api XCode, SQLite, Json 
+Responsibilities: 
+Receiving client needs and split the task as modules designing and develop the iPhone app s as re- quirement. 
+Education: 
+BE (Electrical and electronics engineering) Erode Sengunthar engineering college, (Anna University). 
+Completed with FIRST CLASS and with 67.6%. 
+Year of Passing 2006-2010. 
+XII (HSC State Board) M.S.S.D.HIGHER.SEC.SCHOOL 
+Scored 61.6%. 
+Year of Passing 2005-2006. 
+X (SSLC State Board) M.S.S.D.HIGHER.SEC.SCHOOL 
+Scored 77.6%. 
+Year of Passing 2003-2004. 
+Employment History: 
+Role : iOS Developer Sterling Software Private Limited. 
+From : FEB 2015 
+TO: April 2017. 
+Project Details 
+Project 1: 
+Application Name: myCams Platforms &Tools: Xcode ,iOS9, Objective C,JSON. 
+At CAMS, we are always looking to make your Mutual Fund investing experience faster, easier and smarter. 
+myCAMS brings you a host of features that will help you not only to stay updated on your MF invest- ments across all funds serviced by CAMS but also transact with ease and do more. 
+Portfolio valuation Financial transactions new purchase, additional purchase, redemption, switch Common One Time Mandate, Cost value to Market value, Recent transactions 
+SIP / STP / SWP registrations 
+What s more! myCAMS is secure and does not store any information on your device or SIM card. 
+myCAMS was selected Best App in Finance category at Global App Summit & Awards 2015. 
+Stay connected to your Mutual Fund investments with myCAMS . always 
+Role Played: Handle the Webservices data parsing, Design the app for each screen, development the applica- tion. 
+itunesLink : https://itunes.apple.com/in/app/mycams/id877565416?mt=8 
+Project 2: 
+Application Name: Dressface 
+Platforms &Tools: Xcode ,iOS7, Objective C,JSON. 
+Dress face's mission is to give people the freedom to share the ways they dress to the world. 
+- User can login in our application and select the category via dresses. 
+Role 
+: iOS Developer Ndot technologies Private Ltd. 
+From : 
+OCT 2013 
+To : SEP 2014 
+Role 
+: iOS Development Training - Nano Nino Inc. 
+From : JUNE 2011 
+To : SEP 2013 - User can follow and unfollow the another users. 
+- User can like and unlike the dresses and share the dresses. 
+- Search and Filter the different the types of dresses. 
+- User can comment the dresses by using @ and # symbols in our app. 
+- User can also capture the dress images and upload the dresses in our application. 
+Role Played: Handle the Web services data parsing, Design the app for each screen, development the applica- tion. itunesLink :Yet to upload 
+Project 3: 
+Application Name: My Asset Bin 
+Platforms &Tools: Xcode ,iOS7, Objective C,JSON. 
+Track Everything, Anywhere, All the Time! Do you ever wonder how much stuff you really have? Have you ever needed information on something you own, but didn t know where to look? My Asset Bin stores all critical information on everything you have from serial numbers to war- ranty information to current value to owner s manuals 
+even schedule maintenance or service alerts! 
+Take pictures of your stuff and have complete documentation in the event of theft or loss, and it is all easily accessible in the cloud, all the time, from anywhere. 
+itunesLink : https://itunes.apple.com/us/app/my-asset-bin/id581299992?ls=1&mt=8 Role Played: 
+Design the each screen, development the application, Handle the Web services parsing json pars- ing. 
+Project 4: 
+Application Name: LearnItapps Platforms &Tools: X-code, Objective C 
+Description : LearnIt Apps 
+Education Apps for Mobile Devices 
+Apps Designed to Teach 
+Our Apps are not designed as games or drills to simply test or exercise your knowledge. Our lesson Apps are made to fully teach the mathematical concepts presented in an interactive and engaging manner. LearnIt Apps are made to fully teach the mathematical concepts presented in an interactive and engaging manner. Each lesson takes students through a 30-minute interactive tutoring session. 
+Concepts and mathematical definitions are explained and checkpoints for testing students grasp of concepts are given. 
+Animations and Voice Instructions 
+As each lesson takes students through the learning experience, text is accompanied by spoken audio along with professionally developed graphics and animations that visually enhance the understanding of each concept. 
+Middle and High School Algebra 
+The LearnIt library of Middle and High School Algebra Apps is made up of close to 200 individual, fully instructional lessons. These lessons align to 100% of the pre-algebra and algebra curriculum taught in schools, as recently defined under the Department of Education, State Common Core Standards. 
+Each lesson uses a wide range of approaches to teach abstract concepts. Our courseware specifical- ly targets those who struggle with traditional Algebra classroom instruction. In partnership with Pitsco 
+Education. Our lesson content was developed by Pitsco Education. With over 8 million students using Pitsco math and science products nationwide, Pitsco is focused on delivering the highest quality cur- ricula to create engaging and meaningful learning experiences for all students." 
+Role Played : Receive the lessons content and audio from client. Develop an Ebook application. Animate the audio and the graphs as per the design. 
+Link: https://itunes.apple.com/in/app/learnitapps/id432501940?mt=8 
+Project 5: 
+Application Name: Video Content learning (iPhone) Platforms &Tools: Xcode ,iOS7, Objective C,JSON. 
+itunesLink :Yet to upload 
+Role Played: Custom video player. Handle the All Webservices data parsing, and develop the app 
+I hereby declare that all the information given above is true to the best of my knowl- edge. 
+R.SARAVANAN 

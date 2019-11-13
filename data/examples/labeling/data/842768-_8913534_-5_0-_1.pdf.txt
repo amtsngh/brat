@@ -1,0 +1,82 @@
+Archana Palepu 
+Vaddepally Enclave,Flat 503 archanapalepu@gmail.com 
+Block 7,Flat 503,VivekaNanda Nagar, 
+Mobile: (+91)9985551794 Kukatpally,Hyderabad 500072 
+Career objective 
+Being proactive in learning new technologies and utilize the best of my knowledge to achieve the goals and targets successfully. Be assertive and flexible to gain competitive edge in the evolving business practice and ensure continuous improvement of performance to contribute for organization success. 
+Synopsis 
+o A competent professional with 4 years of experience in Software Design and Development. 
+o Hands on experience in application design, development and testing. 
+o Experience in developing applications for Component Based Architecture (CBA) systems using Agile software development process. 
+o Involved in understanding the Business requirements and Functional specification documents. 
+o Ability to grasp new technology quickly and deploy in full range of capabilities. 
+o In house Training, Knowledge Transfer & Collaboration. 
+o Team player with excellent communication, technical, multi tasking and interpersonal skills. 
+Qualification 
+Master of Technology in Computers and Communication Engineering from JNTU Kakinada with 85.14% Technical Proficiency 
+Programming 
+Python, Perl , Java, Unix shell scripting, C 
+Operating Systems 
+Windows XP/7, SUSE Linux 
+Methodologies 
+Agile Methodology 
+Domain Knowledge 
+Telecom 
+Version Control 
+Git, SVN 
+Other Tools VirtualBox, Jenkins, Gerrit, Eclipse, MHWeb,Visual Studio,Matlab 
+Professional Experience 
+Tata Consultancy Services (4+ Years) 
+Duration: September 2011 to till date Current Designation: Systems Engineer 
+Domain: Telecom 
+Project Profile 
+Organization: Tata ConsultancyServices 
+Client: Ericsson (R&D), Sweden 
+Project: Developer eXperience CBA (DX CBA) 
+Duration: July 2014 Present 
+Role: Developer 
+Environment: Python,Java 
+Project Description: 
+DX provides tools for installation, automation, common operations and maintenance of components comprising the CBA. 
+Build Test Deploy Toolkit (BTD) is one such tool of DX. BTD consists of UPT, Sdppackaging, AM, Essim, Compiler. I have worked on UPT, Sdppackaging, AM tools. 
+BTD is built on Python and Jenkins is used for CI activities. 
+Roles and Responsibilities: 
+o Develop the code as per the requirements and deliver the package on time. 
+o Expertise in handling the TR s and responsible for on time delivery of the TR s. o Develop the unit test and Function test cases. 
+o Performed review of the code and documentation. 
+o Responsible to run the weekly Jenkins builds. 
+o Organized several Knowledge sharing sessions to the team members. 
+o Member of Innovations team to suggest ideas for the existing process or existing prototype. 
+o Organize daily sync up calls. 
+o Performed the role of Scrum Master which is followed in agile methodology. 
+Organization: Tata ConsultancyServices 
+Client: Qualcomm 
+Project: Data Services Test Automation 
+Framework development 
+Duration: May 2013 June 2014 
+Role: Developer 
+Environment: Perl 
+Project Description: 
+To implement keyword based test automation framework to test mobile station modems. 
+Roles and Responsibilities: 
+o Defined XML format o Implementation of test plan parser that reads xml and returns test case/step/action/parameters o Collect results and save them in an XML o Define XLS to display XML test plan and test report. 
+Organization:Tata Consultancy Services 
+Client: 
+Embedded Innovation Labs 
+Project: LTE Duration: Jan 2012 May 2013 
+Role: Developer 
+Environment: C,Matlab 
+Project Description: 
+The project constitutes of research & development in LTE(Wireless communication) and other latest technologies in consumer electronics and automotive embedded systems. The LTE eNodeB Physical layer & MAC layer development & testing with 3GPP compliance using 3GPP standard specifications is undertaken in LTE project. I am associated with the LTE eNodeB Physical layer activities. 
+Roles and Responsibilities: 
+o Study and understand the implementation differences between LTE FDD and LTE TDD for LTE Physical layer uplink channels o 3GPP compliance testing for the uplink channel PUSCH 
+o Creation of automated test scripts to ease the difficulty in testing o Responsible for development and updating of 3GPP eNodeB specific codes in C and Matlab for Uplink data channel PUSCH functional modules like channel estimation, channel equalization, descrambler, digital demodulation, channel de interleaver, data control de mux and SC FDMA 
+o Support to multiple bug fixing activities for LTE modules(Matlab & C) 
+o Through knowledge on end to end functional behavior of uplink LTE data channel PUSCH with and without control o PUSCH data with control information design o Documentation for relevant updates in the project o Multicore testing for Uplink 
+o Uplink Demodulation Reference Sequence (DMRS) LUT Generation 
+o Worked on Maple 8157 for equalization o Design and documentation of channel partitioning methodology for uplink shared data channel o Support to multiple bug fixing activities for LTE modules(Matlab & C) o Guide other team members to solve code related issues o Documentation for relevant updates in the project Personal Details 
+Date of Birth: 01 December 1987 
+Languages Known: English, Telugu 
+DECLARATION: 
+I undertake that, the above mentioned information is true to the best of my knowledge and belief. 
+Place: Hyderabad Archana Palepu 

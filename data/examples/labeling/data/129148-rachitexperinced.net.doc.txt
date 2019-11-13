@@ -1,0 +1,59 @@
+ Rachit Pandey Email:pandeyrachit529@gmail.com 
+Contact no: +91-8867836368 PROFESSIONAL SUMMARY 
+Extensively worked on .NET technologies like ASP.NET, C#, ADO.NET. 
+Worked on SQL using Microsoft SQL Server 2008. 
+Having good knowledge on client side technologies JavaScript, JQuery. 
+Good working knowledge of CSS, HTML5. 
+Good knowledge on OOPS Concepts. 
+Basic knowledge of Bootstrap and MVC and AZURE and SHAREPOINT. 
+Having good ability to learn new technologies quickly. 
+Team player with good communication skills and ability to plan/meet deadlines. 
+PROFESSIONAL EXPERIENCE 
+Worked as a Software Engineer for S2C consulting (from 11th Dec 2015 to till now). 
+Worked as a Software Engineer for Planet Surf Creations (from 12th August 2015 to 17th Nov 2015). 
+EDUCATIONAL QUALIFICATION 
+B.E from Tontadarya College of Engineering, GADAG in 2014, affiliated to vishweshwaraya (https://www.google.com/search?q=vishweshwaraya&spell=1&sa=X&ei=90OIVd7dNcGvuQTZxqLIBg&ved=0CBoQvwUoAA) Technological University. Karnataka, India. 
+CERTIFICATION 
+Certification .NET Training of 6 Month from TechVision Institute(New Delhi) from Oct 2014 to Feb 2015. 
+TECHNICAL SKILLS 
+Programming Languages : C#. 
+Database servers : Microsoft SQL Server 2008,2012 and 2014 
+Web Technologies 
+: ASP.NET,AJAX,HTML5,Javascript,JQuery and CSS. 
+IDE : Visual Studio 2015, 2012 and 2010. 
+.NET 
+Framework : 4.5,4.0. 
+Operating systems : windows xp, windows 2007 and windows 2008. 
+Networking : CCNA. PROJECT PROFILE 
+Modus User Hirearchy: 
+Technology Used: C#.ASP.NET,SQL Server 2012,HTML,CSS,WCF Services 
+Description: Modus user hierarchy is web application used by retail management customer to manage or track the process carried out from buying to selling of product. 
+Responsibilities: Responsible for analyzing the requirement, Designing web pages, writing business logics and designing of database. 
+Critical Path: 
+Technology Used: C#,ASP.NET,SQL Server 2012,HTML,CSS,Sharepoint 2013,BootStrap. 
+Description: Critical path is sub module of modus user hierarchy. This is web application used by all the division of organization to manage and reading the reports. 
+Responsibilities: Responsible for analyzing the requirement, Designing web pages, writing business logics and designing of database. 
+Operating Model: 
+Technology Used: C#, MVC, Web API, JQuery, JavaScript, HTML5, CSS, BootStrap. 
+Description: Operating Model is sub module of modus user hierarchy.This is web application used by all Division of organization to manage and viewing the workflow of different department and interconnects with different sub module of Modus User hierarchy. 
+Responsibilities: Responsible for data-binding using Jquery, Ajax .Designing UI of Application using HTML5, CSS, Bootstrap, and Office UI Fabric. 
+MumbaiDutyFree: 
+Technology Used: Asp.Net, SQL Server 2008,C#,HTML,CSS,Javascript. 
+Description: MumbaiDutyFree is an e-commerce web application that allows consumer to purchase the products online.MumbaiDutyFree is a store in the airports where customer can purchase the product on tax free price. 
+Responsibilities : Responsible for analysis of requirement, Designing web pages, coding of few modules and Designing of Data Base using DDL, DML, DCL quires like Store Procedures, Functions(User Defined), Triggers, Aggregate Functions and SQL quires . 
+BengaluruDutyFree: 
+Technology Used: Asp.Net, SQL Server 2008,C#,HTML,CSS,Javascript. 
+Description: BengaluruDutyFree is an e-commerce web application that allows consumer to purchase the products online. BengaluruDutyFree is a store in the Bangalore airport where customer can purchase the product on tax free price. 
+Responsibilities: Responsible for analysis of requirement, Designing web 
+Pages, coding of few modules and Designing of Data Base using DDL, DML, DCL 
+Queries like Store Procedures, Functions (User Defined), Triggers, Aggregate 
+Functions and SQL queries. 
+PERSONAL DETAILS 
+Date of Birth : 29-12-1988 
+Marital Status : Single 
+Local Address : 10 Cross, 1st B main, Jayanagar 7th block,Bangalore-560082 
+DECLARATION 
+I hereby declare that the above information furnished is true to the best of my knowledge and belief. 
+Date: 
+yours sincerely Place: 
+Bangalore (Rachit Pandey) 1 

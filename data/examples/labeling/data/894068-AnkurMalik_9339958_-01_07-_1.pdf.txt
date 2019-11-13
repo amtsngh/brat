@@ -1,0 +1,59 @@
+Ankur Malik 
+Page 1 of 2 
+Ankur Malik 
+Software developer ankurmalik04@gmail.com 
+Mobile: 8059225844 Career Objective 
+Seeking an environment where my knowledge is shared and enriched in all spheres along with accomplishment of organizational goals with respect to career vision. 
+Skill Set Programming languages : C, Java 
+Frameworks : Django, Spring, Angular JS 
+Worked on : HTML, JSP, Python, Javascript, AWK, MYSQL 
+Sub-version 
+: SVN, GIT 
+Tools : NetBeans, JCreator, Intellij Work Experience 
+Josh Technology Group June, 2015 Present 
+Project: 
+Video Advertising Planning and Reporting 
+Environment: 
+Apache Tomcat, Java, Spring, Python, Django, MySQL, HTML, CSS, JavaScript, AWS, Angular JS, AWK 
+Services: Linux, Maven, SVN, Git, Jenkins 
+Responsibilities: 
+Mentored 1 person during his Java Rampup 
+Implemented the web-based application following the MVC architecture using Spring 
+Framework. 
+Designed and implemented complete client end interface for the tool Setup data processing tool for predicting advertisement efficiency. 
+Performed organizational level goals like recruitment drive, interviews for cumulative growth. 
+Achievements 
+Won Programmer of the year 2015 at Techova, Dcrust Murthal 
+Scored 189th rank in TCS CODEVITA 2014 round 1 
+Qualified for FACEBOOK HACKERCUP 2015, GOOGLE CODE JAM 2014 
+2nd at inter college C programming contest held at PIET Samalkha Ranked 9th in Manipal Global Online coding competitions Codathon 2013 Ankur Malik 
+Page 2 of 2 Academics 
+Bachelor of Technology (2015), Computer Science and Engineering from Deenbandhu 
+Chhotu Ram University Of Science and Technology, Murthal with a CGPA(cumulative grade point average) of 7.7/10 12th standard (CBSE) passed with 95.6% in 2011 from Sanatan Dharam Vidya Mandir 
+School, Panipat, Haryana 10th standard (CBSE) passed with 85.4% in 2009 Sanatan Dharam Vidya Mandir School, Panipat, Haryana 
+Project Profile 
+Project Name panipatwhere.com Technologies 
+Summary 
+JSP, HTML, Java, AJAX 
+A small search website that holds data (classified) of Panipat. 
+Project Name Chat Server and Client 
+Language 
+Summary 
+Java 
+Chat application using java socket programming. 
+Project Name Factory Database Management 
+Language 
+Summary 
+Java, SQL 
+A database explorer which holds all the data and records of the factory. 
+Extra Curricular Achievements 
+Campus Ambassador at Hackerearth 
+Won 2nd prize in group dance competition at RHYTHM 
+Won 2nd prize in SPELL BEE at technical fest in college Won 2nd prize in FILMY QUIZ at technical fest in college Participated in DCRUST-MARATHON and Nebula Web Project Personal Detail 
+Date of Birth : 08 October 1992 
+Father s Name : Naresh Kumar Malik 
+Gender : Male 
+Hobbies : Watching TV, Dancing, Programming, Playing Football, Cricket, and Chess. 
+Strength : Hard worker, Dedicated and Focused. 
+Contact address : 1748 New Housing Board Colony 
+Panipat, Haryana 132103. 

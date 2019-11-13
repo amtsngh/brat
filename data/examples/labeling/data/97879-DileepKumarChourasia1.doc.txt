@@ -1,0 +1,125 @@
+ Dileep Kumar Chourasia 
+Email :dileep.chourasia84@gmail.com 
+(https://twitter.com/dileepsamay) 
+(https://www.facebook.com/sagarlovely) 
+(https://plus.google.com/116451002401305074717/) 
+Skype : dileep.chourasia 
+Contact No: +918655185295(M) 
+Career Objective 
+A hardworking and highly proficient IT professional with 7+ years experience and genuine passion for mobile application development. An in-depth understanding of the main mobile platforms helps me to recognise the subtle differences between each. Having helped develop a series of commercially successful apps on Android, I am seeking a new opportunity allowing me to further expand on these skills.. 
+Career Achievments 
+Experience with application design and development for Android Application 
+Programming experience in Augmented Reality android application. 
+Experience with application design and development for Adobe Flash Player, Adobe Integrated Runtime and Web Browser . 
+Computer Skills 
+Eclipse 
+Adobe Flash Professional 
+Programming Languages 
+Mobile 
+Java for Android 
+AS3 (AIR) for 
+Android/ ios Front End 
+Action Script 3 HTML 
+Java Script 
+Database MySQL, SQLite API Knowledge 
+Android 
+Metaio for Augmented Reality 
+Catchoom for Image Recognition. 
+Facebook 
+Work Experiance 
+Xenium Digital Pvt. Ltd, Mumbai as Software Developer(March 2012 till now) 
+AKG Media Pvt. Ltd, Mumbai (M.H.) as Software Engineer (January 2009 - March 2012) 
+Digirams Software Labs Pvt. Ltd, Pune as Jr. Software Engineer (October 2007 December 2008) Project 
+Project Title Lions Club Bombay VileParle(w) 
+Client Lions Club,vile parle 
+URL https://play.google.com/store/apps/details?id=com.samayteck.loinsclub&hl=en Technology Java ,Android 
+Role Developer 
+Description 
+This application is used by Loins club. Main Purpose of this application is that this shows all detail about all member s and their family. Every Member can see own detail .This application provides information about event to all members. 
+Project Title Bheem Ki Toli 
+Client Johnson & Johnson Limited 
+URL https://play.google.com/store/apps/details?id=com.jnj.bheemkitoli 
+Technology Java ,Android ,Metaoi 
+Role Developer 
+Description 
+This is Augmented Reality application. Main Purpose of this application is here that Company wants to promote own product BAND-AID Brand Adhesive Bandages. This application is for users who like Chhota Bheem character. We will have to need Chhota 
+Bheem Character cards to explore this application. The application Make the character on the card come alive by scanning the card through the App. After the character comes alive, take the picture with the character and share the picture on Facebook or WhatsApp. 
+Project Title 
+YepConseil AR Application 
+Client Yep Conseil, France 
+Technology Java ,Android ,Metaoi 
+Role Developer 
+Description 
+This is Augmented Reality application. There are six sections in this application. Every section have own marker .Application cannot work without markerBuilding Model: Application scan marker and load 3d model of Building. User can see interior of this Building after tapping on screen. 
+2) 
+Yacht Model: - Application scan marker and load 3d model of Yacht. User can rotate ,zoom and change colour of model 3) 
+Monument Image: -In This section, Marker is current image of Building. 
+application scan marker and impose old image of building on marker 
+4) Interview Video:- Application scan marker and impose video on marker 5) Yacht Video:- Application scan marker and impose video on marker 6) Product: Application scan marker and load four 3d models . user click on model to see detail about corresponding model 
+Project Title CloseUp With Star 
+Client Hindustan Unilever Ltd 
+URL https://play.google.com/store/apps/details?id=in.xenium.closeupar (https://play.google.com/store/apps/details?id=in.xenium.closeupar) 
+Technology Java ,Android ,Metaoi 
+Role Developer 
+Description 
+This is Augmented Reality application. Main Purpose of creating this application that Client wants to advertise CloseUp toot pest with promotion of hindi movie Yeh JawaaniHai Deewani (http://en.wikipedia.org/wiki/Yeh_Jawaani_Hai_Deewani). This application scans Marker and imposes playing video on Marker .Here Marker is wrapper of CloseUp Toot pest. User can also snap with virtual Ranbir Kapoor (http://en.wikipedia.org/wiki/Ranbir_Kapoor" \o "Ranbir Kapoor) and Deepika Padukone (http://en.wikipedia.org/wiki/Deepika_Padukone" \o "Deepika Padukone) and share snap on facebook. 
+Project Title NyooTV Mobile App 
+Client Product of AKG Media Pvt. Ltd 
+URL https://play.google.com/store/apps/details?id=org.akg.android (https://play.google.com/store/apps/details?id=in.xenium.closeupar) 
+Technology Java ,Android ,SOAP Web service Role Developer 
+Description 
+These applications would enable the users to take video entertainment and access it on demand whenever and wherever they want it. The video quality experience would be optimized for the mobile networks and mobile screen size to provide the best user experience possible. 
+Project Title Yahoo Digiracer Car Game 
+Client Yahoo.com 
+Technology AS3 
+Role Developer 
+Description 
+This is web based game application. Main Feature of this application is that user could play game with keyboard and without keyboard. User could play using Camera. This Application detected users face to play game .User could move car using his head. User could share score on facebook. 
+Project Title Virtual 
+Cricket 
+Client Birla sun life Technology 
+AS3,GestureTek Role Developer 
+This is desktop application. Main purpose of creating this application was that Client want to advertise own product thought this application. Main Feature of this application is that users play virtually with Yuvraj who is Indian cricketer. If user plays all ball. Yuvraj congrats and tell user that you are good player. User can snap with yuvraj. This Snap is mailed through this application to user. 
+Project Title Flash Custom Player 
+Client Colorstv.in 
+Technology Action Script 3.0 Role Developer 
+Description 
+Custom Player works on HTTP protocol. It plays YouTube video by calling YouTube API. It plays all the videos included in the playlist one by one. It has a functionality for sharing video on facebook, Myspace, twitter etc. 
+Responsibilities Involved in Analysis of Player. 
+Involved in designing of Flash PlayerInvolve in coding of Flash Player. 
+Involve in implementation and integration of YouTube in Player 
+Project Title NyooTV Flash Custom Player 
+Client Product of AKG Media Pvt. Ltd 
+Technology Action Script 3.0 Role Developer 
+Description AKG Media Pvt. Ltd.s NyooTVis here to provide premium Indian visual entertainment completely FREE of cost. NyooTV boasts of a solid product platform using adaptive streaming and customized mobile applications to provide superior user experience even with low bandwidths. It will provide high quality FREE content on the web and the mobile.NyooTV.com would be available on Desktop, mobile using 3G, CDMA, Wi-Fi or WiMAX networks via browser and mobile applications. These applications would enable the users to take video entertainment and access it on demand whenever and wherever they want it. The video quality experience would be optimized for the mobile networks and mobile screen size to provide the best user experience possible. 
+It also provides a facility of maintaining Digital Rights of Media. Provides a secure way to play video so the user is unable to download the streaming video. 
+Responsibilities Involved in Analysis of Nyootv Flash Player. 
+Involved in designing of Nyootv Flash PlayerInvolve in coding of Nyootv Flash Player. 
+Involve in implementing adaptive and Pseudo StreamingDeveloped flash lite application. 
+Duration January 2009 
+April 2009 Project Title EDeals360 Client Product of AKG Entertainment Pvt Ltd 
+Technology Core Java, J2EE, JSP, Spring, Hibernate, Java Beans, XML, XSLT, XPath, XQuery. 
+Back End MySQL 6. 
+Role Developer 
+Description 
+EDeals360.com is deals website with the primary targeted audience of US and Suburbs. This website is divided into two main parts: The first one is a web data miner which is used to mine different website over the web to fetch different products whose frequency is higher for purchase. The next part displays best deals related to these products so the user will purchase the product on the lowest possible price of that entity. This site will provide different shops of that product so the user will compare the prices of that product. Also a very good graphical history chart is associated with each product which shows the product price with respect to time so the user will predict the price of that produce in recent future. 
+Duration January 2009 
+March 2010 Project Title Issue Tracker System 
+Client 
+Ivitesse Technology Pvt. Ltd,pune Technology Java ,servlet,jsp and Tomcat 4.x 
+Back End MySQL. 
+Role Developer 
+Description 
+Issue Tracker System is Intranet based application. It works within organisation. Main Purpose of this application is to make better communication between developer and tester in respect to particular project. Here Developer informs tester to test application. Tester put all issues and assigns issue token to particular developer. Issue tracker System sends mail to developer and Project Manager of Project to regarding issue to solve. Developer sees issue and changes status of assigned token as resolved. After that System sends mail to tester and PM. Tester will check application and change status of issue after working properly. Tester updates status as Closed. Tester and PM has only right to close issue. 
+Responsibilities Involve in coding of the application.Involve in Designing of the application Duration April 2008 
+Nov 2008 
+Personal Information: 
+Education: MCA, SATI, Vidisha (M.P.) 65.02%, Bhopal. RGTU M.P. - 2006 
+Fathers Name: Shri Chhotelal Chourasia 
+DOB: 01-May-1981 
+Permanent Address: Vill. & post Uchad, Tehsil-Seondha, Distt.-Datia (M.P.)-475675 
+Present Address: Omkar Complex ,Flat 
+No 202,Plot No-26,sector -9,Kamothe, Navi Mumbai. 
+Date: 
+Place: 
+(Dileep Kumar Chourasia) 

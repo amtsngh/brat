@@ -1,0 +1,120 @@
+IOS DEVELOPER PODALAKURU 
+NITISH 
+KUMAR 
+Email:nitishkumar451451@gmail.com 
+Contact: +91-7097637725 OBJECTIVE : 
+To obtain iPhone developer position that will allow me to utilize my skills and has potential for growth. 
+PROFESSIONAL 
+SKILLS: 
+Total 1.5 year of Diversified experience in IOS application development . 
+I am Proficient in XCode7 Objective-C, and Cocoa Touch, CoreData, Web Services. 
+Excellent debugging and optimization skills. 
+Worked with team members on server-side integration. 
+Developed and extending the existing code base. 
+Think creatively and innovatively to make a deference. 
+Collaborated with design and development team on direction and user experience. 
+Good knowledge of IOS App Provisioning (publish applications on App store, Ad-hoc distribution). 
+Ability to work in groups as well as independently with minimal supervision. 
+Experience with development of UI with Interface builder as well as custom UI development Experience on web service integration (SOAP, REST, JSON, XML, Social Networking . 
+PROFESSIONAL 
+EXPERIENCE: 
+Currently working as a Software Engineer in NESS TECHNOLOGIES 
+Banglore from June 2015 to till Date. 
+ACADEMIC SUMMARY: 
+Electronics&communicationEngineering in Priyadarshini institute of technology. 
+TECHNICAL SKILLS: 
+Language : Objective C, C. 
+Operating Systems : Mac OS X and Windows family. 
+Database : SQLite, Core data. 
+Web Services : SOAP , REST , JSON ,XML 
+Frameworks : Cocoa Touch Framework. 
+I.D.E 
+: Xcode 6, 7,8. 
+Packages : MS-Office. 
+PROJECT DETALIS : 
+PROJECT#1:, 
+Title : 
+My food and bag 
+Environment : Objective C, iPhone Sdk, MAC OS X. 
+Role : Team Member 
+Project Description: 
+My food and Bag is descined for both iphone and ipad delivers all the fresh ingredients and easy-to-follow recipes to your door. Enjoy reading through our recipes whether you are a customer, or just want to be inspired in the kitchen .Chat to an actual experienced cook and ask any questions you have about a recipe youre cooking. 
+Recipes are delivered in an easy-to-follow format across three tabs: 
+key attributes ingredients and of the recipe. 
+cooking steps with imagery. 
+helpful cooking tip videos related to each recipe. 
+Roles & Responsibilities: 
+Designing the views using interface builder. 
+Understanding the requirements of the project Involving development of data delegate coding. Making connections and Application Coding using Objective C. 
+PROJECT#2: 
+Title : Clean and green 
+Environment : Objective C, iPhone Sdk, MAC OS X. 
+Role : Team Member 
+Project Description: 
+Clean and green for iPad and iPhone .This Clean & Green Eating App includes an abundance of healthy recipes for the whole family to enjoy! This app purposely kept the recipes simple and started from basics to encourage you to have more fun in the kitchen and tried to make our recipes as simple but as tasty as possible so people will never get bored. 
+Roles & Responsibilities: 
+Understanding the requirements of the project. 
+Designing the views using interface builder. 
+Involving development of data delegate coding. Making connections and Application Coding using Objective C. 
+PROJECT#3: 
+Title : 
+Drug dictonary 
+Environment : 
+Objective C, iPhone Sdk, MAC OS X. 
+Role : 
+Team Member 
+Project Description: 
+Drug Dictionary is a medical hand book that provides all information about drugs used for medication: uses, dosage, how to take, side effects, precautions, drug interactions, missed dose and storage. 
+App Highlights:- 
+List of drug name and uses. 
+Detailed drug guide including the drug terms, brands and generics. 
+Medication prescription for various diseases. 
+The best choice for pocket drug dictionary and drug book for nurses with facts, doses and overdose information. 
+Missed dose details describing the impacts of a missed dose and necessary measures. 
+Roles & Responsibilities: 
+Understanding the requirements of the project. 
+Designing the views using interface builder. 
+Involving development of data delegate coding. Making connections and Application Coding using Objective C. 
+PROJECT#4:- 
+Title : 50,000 baby names 
+Environment : Objective C, iPhone Sdk, MAC OS X. 
+Role : Team Member Project Description: 
+50,000 baby names is desined for both iphone and ipad. This app to find popular baby names, unique baby names and more App features:- Over 50,000 Boy and Girl Names. 
+Tons of search, sort and filter options. 
+See similar names, and similar sounding names. 
+Browse by origin or do a keyword search. 
+Sort by Boy or Girl & Filter by Popularity 
+Roles & Responsibilities:- 
+Understanding the requirements of the project. 
+Designing the views using interface builder. 
+Involving development of data delegate coding. Making connections and Application Coding using Objective C. 
+PROJECT#5:- 
+Title : Horoscope 
+Environment : Objective C, iPhone Sdk, MAC OS X. 
+Role : Team Member 
+Project Description: 
+Horoscope for iPad and iPhone delivers efficiently manage lifes situations or get tangled in a web of unfolding drama?Choose to read your unique horoscope and find out what the stars have in store for you!astrologists provide daily advice on love, work, health, and success!if 
+Ask your question to one of our psychics and in a few seconds receive a clear and accurate answer. This app guarantee you a personalized service, carried out by authentic and trusted psychic. 
+Roles & Responsibilities:- 
+Understanding the requirements of the project. 
+Designing the views using interface builder. 
+Involving development of data delegate coding. Making connections and Application Coding using Objective C. 
+PROJECT#6:- 
+Title 
+: My wonderful days 
+Environment : Objective C, iPhone Sdk, MAC OS X. 
+Role : Team Member Project Description: 
+My Wonderful Days is a diary you can easily write on. Full of analog features, 2-in-1 iPhone andiPad universal app fully supporting iCloud, searching, photos and a lot more. 
+This app was crafted to make it better and better to gain more satisfaction. Some are, Notices on time to write a simple note without any load, which makes a great habit. 
+Passcode to protect your private words. 
+Photos to put in a note, and some stickers. 
+Special days can be starred. It can be seen separately on search page. Also sorting by happiness, mostly viewed and more can be done to take out memories easily. 
+Roles & Responsibilities:- 
+Understanding the requirements of the project. 
+Designing the views using interface builder. 
+Involving development of data delegate coding. Making connections and Application Coding using Objective C. 
+DECLARATION: 
+I hereby declare that above mentioned particulars are true to the best of my knowledge and belief. 
+Place: SIGNATURE 
+Date: 
+(P.NITISH KUMAR) 

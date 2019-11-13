@@ -1,0 +1,154 @@
+ Brinda Chengappa M M:+91-9986269824 brindac4@gmail.com SUMMARY 
+6+ 
+Years of experience in CRM testing(Salesforce and Siebel) Extensive Knowledge on Sales and Service Cloud. 
+Experience working in Agile Methodology. 
+Involved in different phases of SDLC such as Analysis, Design, Test Execution and Delivery activities. 
+Work Experience in creation of Test plan, Test estimates, Requirement Traceability Matrix, User Requirement Specification, Test Cases and Status Report Preparation. 
+Have working knowledge of defect management lifecycle including usage of tools like HP Quality Center and JIRA. 
+Sound Knowledge of Functional, Integration and Regression testing Good knowledge of Reports, page layouts, customizations, Standard and Custom objects , tabs, triggers, workflows, approval process, validation rules, Custom Import Wizard and Apex data loader. 
+Active part in Project Development - Interacted with various stakeholders in the project like Business Users, Project Managers, Documentation, Validation Management team, Support and Implementation team. 
+Comfortable working in Team environment Excellent communication and Interpersonal Skills. 
+EDUCATIONAL QUALIFICATION Bachelor of Engineering in Information Science, Sri Venkateswara College of Engineering, Bangalore, India (2009) TECHNICAL EXPERIENCE CRM 
+: Salesforce, Siebel 
+Database Tools 
+: SQL 
+Office Tools 
+: MS Word, MS Excel, MS PowerPoint 
+ETL Tools : Apex Data Loader 
+Database Languages : SQL 
+Operating Systems : Windows 7/XP 
+Defect Management Tools 
+: HP Quality Center, JIRA WORK EXPERIENCE 
+Currently working as a Technical Lead at Capgemini (ex-IGATE Global Solutions) since July 2014. 
+Worked as a Software Engineer at TCS from Mar 2014 - July 2014. 
+Worked as a Quality Analyst at Thomson Reuters from Jan 2010- Mar 2014. 
+MAJOR ASSIGNMENTS 
+May 2016 
+Till Date 
+Project Siebel International 
+Company Capgemini 
+Client GE Healthcare 
+Role 
+QA Lead 
+Application Siebel 
+Methodology Agile 
+Type Manual Testing (Functional ) Team Functional QA 
+Team Size 5 Customizing Siebel application to handle the service of GE Healthcare products. 
+Responsibilities: 
+Preparation of test plan and User Requirement specifications. 
+Preparation of test estimates. 
+Preparation of Requirement Traceability Matrix. 
+Creation of test scenarios, test scripts and test data. 
+Execution of test scripts. 
+Co-ordination with the Regression team on identifying Regression test scripts. 
+Defect logging and tracking using HP QC. 
+Planning and monitoring the testing activities of the team. 
+Co-ordination with the Functional owners on requirements clarification and approval of test scripts. 
+Co-ordination with the Validation Management team on the review and approval of URS, test scripts and test runs. 
+Interactions with the clients on a daily basis for status reporting. 
+Creation of status reports and Go-Live reports. 
+March 2015 Nov2015 
+Project Siebel Open UI upgrade Company IGATE 
+Client Xerox 
+Role 
+QA Lead 
+Application Siebel 
+Methodology 
+Waterfall Model 
+Type Manual Testing (Functional & Regression) 
+Team Functional QA 
+Team Size 5 
+A programme to upgrade Siebel from 8.1.1.10 to 8.1.1.14. 
+Responsibilities: 
+Preparation of test data. 
+Execution of test cases Co-ordination with the clients for knowledge transfer and clarifications. 
+Interactions with the clients on a daily basis for status reporting. 
+Defect logging and tracking using Jira. 
+Monitoring the activities of the team. 
+Involved in mentoring the team members. 
+Generated daily test execution status reports and defect status reports for the Onsite team July 2014 
+Feb 2015 Project 
+PayItNow Company IGATE 
+Client MDVIP 
+Role Senior Software Engineer 
+Application Salesforce 
+Methodology 
+Waterfall Model 
+Type Manual Testing (Functional & Integration) Team Functional QA 
+Team Size 1 
+A programme designed to have a better system in the form of mPower for the Membership Service Agents to manage the details of members enrolled via different portals like Join Online, Member Portal, Employer Program, to track their payment statuses, to cancel their membership etc. 
+Responsibilities: 
+Involved in Requirement Analysis - interaction with Business Analysts and Business users. 
+Preparation of test scenarios and test cases for Functional and Regression Testing. 
+Involved in review of test scenarios and test cases with the Business Analyst and Business users. 
+Preparing the test data and executing the functional and regression test cases. 
+Defect tracking using Zen (Salesforce). 
+Generated daily test execution status reports and defect status reports for the Onsite team Jan 2013 
+June 2014 Project Service Cloud 
+Company Thomson Reuters 
+Role Quality Assurance Analyst 
+Application Salesforce 
+Methodology Agile 
+Type 
+Manual Testing (Functional, Integration, Regression) Team Functional QA 
+Team Size 6 A multi-year programme that will lead to improvements in Customer Experience across all Customer Service touch points. 
+Initial focus (2013/14) will be on replacing Siebel, with no detrimental impact to existing Customer service levels or satisfaction. Using the latest version of Salesforce Service Cloud Software will improve usability while supporting the daily workflow based on industry best practices. Access to more customer information and improved knowledge management will enable all service staff to lead informed conversations with our customers 
+Responsibilities: 
+Involved in Requirement Analysis - interaction with Business Analysts and Business users. 
+Preparation of test scenarios and test cases for Functional and Regression Testing. 
+Involved in review of test scenarios and test cases with the Business Analyst and Business users. 
+Involved in smoke tests on Initial software build. 
+Preparing the test data and executing the functional and regression test cases. 
+Defect tracking using JIRA. 
+Involved in Mentoring Team Members and monitoring the Test Execution. 
+Oct 2011 
+May 2012 Project Contact Sync 
+Company Thomson Reuters 
+Role Associate Quality Assurance Analyst 
+Application Salesforce 
+Methodology V-Model 
+Type Manual Testing (Functional, Integration, Regression) Team Functional QA 
+Team Size 2 Contact Sync is a project to develop a two way interface between Siebel and TRUST for the creation and update of external contacts only. The interface will enable external contact information of all function types to be updated in either system or replicate in near real time to the receiving system without any manual rekeying or reliance on daily data jobs. As Siebel is the system of record it will hold the most accurate information which will be republished to downstream systems. 
+The impacted systems are: Siebel, TRUST, TOM, SAP B2CC, EAI, AAA. 
+Responsibilities: 
+Involved in Requirement Analysis - interaction with Business Analysts and Business users. 
+Developed test scenarios and test cases based on Functional Specifications for performing Functional and Regression Testing. 
+Performed Functional, Regression and Sanity tests on various modules of the Project. 
+Identified, Classified, Reviewed and Resolved Defects in consultation with Developers and other team members. 
+Communicated with Business users, Business Analysts, Application Developers, Team Leader and other Team members on the testing status on an on-going basis. 
+Reviewed Test Scenarios and Test cases written by Peers. 
+Participated in the On-site calls, implementing the changes provided by the Business in the Test Scenarios and Test Cases. 
+Jan 2010 
+Sept 2011 and Jun-2012 
+Dec 2012 Project TRUST (Thomson Reuters Unified Sales Tool) Company Thomson Reuters 
+Role Quality Assurance Analyst 
+Application Salesforce 
+Methodology V-Model 
+Type Manual Testing (Functional, Integration, Regression) Team Functional QA 
+Team Size 12 TRUST (Thomson Reuters Unified Salesforce Tool) is a Web-based tool used to place an order for Business User which is integrated between TRUST and Siebel Application. Sales force and Siebel is integrated via EAI. TRUST creates accounts, opportunity and contacts. All the details are published in Siebel. TRUST masters opportunity from Sales stage 1- 5 and Siebel masters 6-7 where the order is created for the opportunity and fulfillment. Entitlement is completed and details are sent to the billing system (SAP). This enables the user in forecasting and revenue reporting in TRUST Application. 
+Responsibilities: 
+Involved in discussions with the functional team in understanding and analysis of requirements. 
+Developed test scenarios and test cases based on Functional Specifications for performing Functional and Regression Testing. 
+Performed Functional and Regression tests on various modules of the Project. 
+Defect Logging and tracking using HP Quality Center. 
+Co-ordinate with the development team regarding the defect tracking, retesting and closure of the defects. 
+Supported the UAT team during the UAT testing phase. 
+Involved in Production Validation during the Project releases 
+CERTIFICATION 
+Salesforce.com Certified Force.com Developer (DEV 401) RECOGNITIONS 
+Awarded the 'Pat on the back' based on my performance in the Xerox Open UI upgrade project at IGATE Global Solutions. 
+Nominated to the [Hall of fame] based on my performance in Contact Sync project at Thomson Reuters. 
+Awarded the MIS-Wall of Fame based on my performance in the Service Cloud Project at Thomson Reuters. 
+Achieved the Competent Communicator award at the Thomson Reuters Toastmasters. 
+Achieved the Competent Leader Award at the Thomson Reuters Toastmasters. 
+Personal Information: 
+Name: Brinda Chengappa M 
+Date of Birth: 14/02/1988 
+Gender: Female 
+Languages: English, Kannada 
+Present Address: 
+20/154/5, Vinodh Nilaya, 1st Main 7th Cross,Doddanekundi 
+Marathalli colony Bangalore-560037 
+Permanent Address: 
+51, MIG 707 CHS 4th Phase , Yelahanka New Town 
+Bangalore -560064 

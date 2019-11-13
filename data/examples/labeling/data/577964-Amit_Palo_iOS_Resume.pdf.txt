@@ -1,0 +1,124 @@
+AMIT KUMAR PALO MAIL ID :- palo.amit@gmail.com 
+CONTACT :- +91-9168978002 Results-oriented software developer with 2 years and 11 months of experience in both iPhone and iPad 
+application 
+development covering all phases of project development including business development, user interface design, testing and quality assurance, implementation and client support. Having helped develop a series of successful apps on iOS , I am seeking a new opportunity that will allow me to further expand on these skills. 
+Roles & Responsiblities : 
+Analyzing the requirements, finding various approaches and considering the best approach to meet the requirements. 
+Working on Application Design, Network Layer Design and overall architecture of Project. 
+Development, Testing and creating of Proof of Concept (POC) for client requirements. 
+Product Enhancements, Production support issues. 
+Preparation and Execution of Unit Test cases. 
+Functional Experience : 
+Experience on XCode v6.x , v7.x and v8.x for iOS application development. 
+Familiar with analyzer and solving leaks. 
+Implemented Encryption/Decryption mechanism for app data security. 
+Implemented Notifications and Graphs profoundly in applications. 
+Experience on CoreData, Map Kit , Core Plot, Core Location & Core Graphics framework. 
+Hands on experience in Storyboard for iPhone/iPad application development. 
+Hands on experience in auto layout for both iPhone/iPad application development. 
+Hands on experience on Localization, Storyboard & Size Classes refactoring. 
+Hands on experience on CocoaPods. 
+Hands on experience on Spritekit Framework for designing 2D games. 
+Technical Skills : 
+Technologies and Programming Languages 
+Proficient IOS, Objective-C, Swift 
+Familiar C, Data Structure using C, C++, JAVA, HTML, CSS, JavaScript, AngularJS, SQL 
+Databases CoreData Framework, SQLite Operating System Mac OS, Windows 7/8/10/XP/Vista. 
+Tools XCode, Instrumentation, Eclipse, GIT 
+Domain Experience Life Science, Health Care 
+Work Experience : 
+Organization Designation Department Duration 
+Tata Consultancy Services 
+(TCS) System Engineer Mobility June 2014 to Till date 
+Career Profile : 
+Project Name Digital Companion(WITH) 
+Period January 2017 
+Till Date 
+Client Pfizer Inc. 
+Position System Engineer 
+Description This is the Pfizer 
+External applications for 
+Cancer Patients.This application will allow patients to capture their well-being information (sleep, emotions, pain and fitness activity).WITH will allow patients to share emotion, sleep and activity entries with their supporters.WITH will allow patients to record and store audio summaries of physician visits.WITH will provide smart notifications to users based on events and tasks.WITH will store the patient s 
+well-being 
+information and present it back to them in an easily understandable dashboard format i.e. 
+Over the last week you slept an average of 6 hours . Patients could use this information when consulting with their HCP.WITH will enable patients to connect with community/support groups. 
+Operating System OS X Yosemite, Mac OS X EI Capitan 10.11.6, iOS 9.x and 10.x,Xcode 8.1 Language Swift 3.1 Project Name OnePfizer UK 
+Period October 2016 January 2017 Client Pfizer Inc. 
+Position System Engineer 
+Description This is the Pfizer internal applications which is mainly used for Pfizer 
+UK event conferences. There are some key features of the application: 
+Schedule 
+Buzz 
+News 
+Challenge (Game) Maps 
+Meeting Info 
+Operating System OS X Yosemite, Mac OS X EI Capitan 10.11.6, iOS 9.x and 10.x,Xcode 8.1 Language Swift 3.1 Project Name EmotionSpace Period October 2015 September 2016 Client Pfizer Inc. 
+Position System Engineer 
+Description This application shall serve as a breast cancer patient along with supporters. The patient will share the emotion with supporters and vice versa also both can react on the shared emotions. APNS will get received when user (patient, supporter) share the emotion to other user (patient, supporter). 
+The back-end technologies include Amazon Web-services REST APIs. 
+Additional technologies include Janrain, Urban Airship(APNS) and Google Analytics Carried out the following activities: 
+Working closely with Business to understand the Application purposes and various requirements. 
+Working closely with the Back-end Team for understanding of their services. 
+Designing and creation of application specific payload for various assets and events. 
+Creation of Application design. Identification and design of various Layers, Modules, reusable components etc. 
+Created the Technical Design Document. 
+Created Class Sequence diagram. 
+Development of Network Layer Manager, Core Data Manager, Janrain sign-in feature, Lazy Loading component. 
+Operating System OS X Yosemite, Mac OS X EI Capitan 10.11.6, iOS 8.x and 9.x,Xcode 8.0 
+Language Objective-C 
+Project Name Fast Talking Pfrank / HKPfrank (2D GAME APPLICATION) Period February 2016 May 2016 Client Pfizer Inc. 
+Position Assistant System Engineer 
+Description Objective was to develop an iPad application which will allow user to play 
+the Fast 
+Talking 
+Pfrank game 
+during the events and sales meetings. It will also allow user to take a photo with Pfrank and share it using external email application. 
+This project was to create a Q&A gamification mobile app for brand engagement with Pharmacists. Sales reps visit targeted pharmacists and pass the app for them to play, Total 6 brands with 5 questions for each brand. 
+Operating System OS X Yosemite, Mac OS 10.10, iOS 8.x and 9.x,Xcode 7.3 Language Objective-C 
+Project Name Talking Photo 
+Period October 2015 December 2015 Client Pfizer Inc. 
+Position Assistant System Engineer 
+Description Objective was to develop an iOS(iPhone) application which will allow the users to capture image and record for maximum 3 minutes to create talking photo and store it into the application gallery. This application will also allow the user to share the created video or talking photo through native mail utility from the application. 
+Operating System Mac OS Mountain Lion 10.8, iOS 7.x and 8.x,Xcode 7.1 Language Objective-C 
+Project Name P2L Launcher 
+Period April 2015 May 2015 Client Pfizer Inc. 
+Position Assistant System Engineer 
+Description P2L wrapper application was to enhance the Mobile Learning (GCO) 
+app v2.0 for iOS to support iPad and the remaining 30 languages. This 
+App provides the user a single interface to automatically open the P2L 
+Website to authenticate and to download the mobile courses. 
+Operating System Mac OS 10.6, iOS 7.x and 8.x,Xcode 6.3 Language Objective-C 
+Project Name PCH-Pulse / The Pulse 
+Period February 2015 April 2015 Client Pfizer Inc. 
+Position Assistant System Engineer - Trainee 
+Description Objective was to develop an iOS application which will allow the users to login and check different kinds of alerts and announcements set for his corresponding 
+Business Unit. 
+This application will receive push notifications from the server based on the changes made on the desktop site and display them to the user. User can then open the application to refresh the content. User can also open the documents while using his internet connection and share the alerts via mail or text message. 
+Operating System Mac OS 10.6, iOS 7.x and 8.x,Xcode 6.3 Language Objective-C 
+Project Name Prolactin App 
+Period November 2014 January 2015 Client Pfizer Inc. 
+Position Assistant System Engineer - Trainee 
+Description The scope of this project was to have iOS (iPhone) based HCP Medical education 
+mobile 
+application which will help to make differential diagnosis for Hyperprolactinemia easier. Based on the diagnosis, the application will suggest the best treatment, supported by international scientific evidencebased guidelines. 
+Operating System Mac OS 10.5, iOS 7.x and 8.x,Xcode 6.1 Language Objective-C 
+Qualification Details : 
+Qualification Subjects Percentage/Grade 
+Bachelor of Engineering 
+(B.Tech) Electronics and Communication 9.48 CGPA 
+A.I.S.S.C (C.B.S.E)(12th) Physics, chemistry & Maths 80.80% A.I.S.S.E (C.B.S.E)(10th) Maths, Science, S.S.T , Hindi and English 86.60% 
+Personal Details : 
+Full Name Amit Kumar Palo 
+Email ID palo.amit@gmail.com Contact +91-9168978002 
+Gender Male 
+Marital Status Single 
+Nationality Indian 
+Date of Birth 4th April,1991 
+Languages Known English, Hindi and Oriya 
+Present Address A1 702, Sunway, Megapolis Hinjewadi Phase III ,Rajiv Gandhi 
+Infotech Park Pune , Maharashtra Pin - 411057 
+Permanent Address Road 1,Lane 
+2,Plot No 8/66/775, Jagannath Vihar,Baramunda 
+Bhubaneswar,Odisha Pin - 751003 DECLARATION: 
+I hereby declare that the above mentioned details are true to the best of my knowledge I bear the responsibility for the correctness of above mentioned details. 
+Place: Date: Amit Kumar Palo 

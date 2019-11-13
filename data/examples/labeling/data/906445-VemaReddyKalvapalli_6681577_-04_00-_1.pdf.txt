@@ -1,0 +1,163 @@
+Vema Reddy kalvapalli 
+" L2 Dot net application support engineer " vemareddy0016@gmail.com 919949015920 
+Current Designation: L2 Application support engineer 
+Current Company: Genpact 
+Current Location: Hyderabad 
+Pref. Location: Hyderabad, Mumbai, Pune 
+Functional Area: IT Software - Other 
+Role: Software Developer 
+Industry: IT-Software/Software Services 
+Key Skills: IIS, Windows, power shell scripting, MS visio, Microsoft SQL server, FTP, SFTP, Service now 
+Total Experience: 4 Year(s) 0 Month(s) 
+Annual Salary: Rs 3.95 Lakhs 
+Expected CTC: Not Mentioned 
+Highest Degree: M.Tech 
+Notice period: 1 Months 
+Work Experience 
+Genpact (Current Employer) 
+L2 Application support engineer | Dec 2012 
+Having 4 Years of experience in Application/Production support Environment. 
+Possess hands on experience in Windows family, FTP, SFTP, Microsoft SQL Server, Power shell scripting. 
+Has exposure in the enhancement, maintenance and support of various applications. 
+Notice Period : 1 Months 
+Education 
+Post Graduates ( Full Time ) M.Tech (Electronics/Telecommunication) Hindustan Institute of Engineering Technology (HIET), Chennai | in 2012 Undergraduates ( Full Time ) 
+B.Tech/B.E. (Electronics/Telecommunication) 
+Jawaharlal Nehru Technological University (JNTU) | in 2009 IT Skills 
+Skill Name Version Last Used Experience 
+IIS 7.0 2016 4 Years 
+Power shell scripting 2016 3 Years 
+Microsoft SQL Server 2012 2016 4 Years 
+FTP 2012 2016 4 Years 
+SFTP 2012 2016 4 Years 
+WINDOWS 2007,08,12 2016 4 Years 
+MSVisio 2014 2016 4 Years 
+Language Known 
+Language Proficiency Read Write Speak 
+English Expert 
+Telugu Expert 
+Hindi Expert 
+Projects 
+FLEXCUBE 
+FLEXCUBE | Offsite | Full Time | from Dec 2012 to Present 
+Hyderabad 
+Skill Used: IIS, WINDOWS, Powershell, MS SQL Server, 
+Team Size: 14 
+Role : 
+Other 
+Role Description: 
+My role is L2 Application support engineer Debugging of porting issue and report to business or customer care. Analyzing the issue and applying proper work around to get it resolved. 
+Performing all system health check and application health. 
+Project Details: 
+Flexcube is a modular solution that allows the bank to choose only the functionality they wish to offer their customers. It is a fully integrated system with a common set of core services that are used across all the Front-End functional modules to deliver a diverse range of banking functionality. FlexCube supported products are current and savings accounts (CASA), Deposits, Credits, Loans, Collections, Safe deposit box and supported services are Sweeps, Standing instructions, Direct debits, Credits and Payments. The functional modules deliver a complete range of banking functionality to the end customer ranging from Retail Banking, Corporate and Investment Banking. 
+Other Details 
+Personal Detail 
+Date of Birth: 04 Mar 1987 
+Gender: Male 
+Marital Status: Single/unmarried 
+Address: 
+KPHB, hyderabad 500072 
+Home Town: hyderabad Desired Job Details 
+Job Type: Permanent 
+Employment Status: Full Time / Part Time 
+Work Authorization 
+US Work Status: Not Mentioned 
+Countries: Not Mentioned 
+Affirmative Action 
+Category: Not Mentioned 
+Physically Challenged: No 
+Attached Resume 
+VEMA REDDY KALVAPALLI 
+Contact: +91-9949015920 
+Email: vemareddy0016@gmail.com 
+EXECUTIVE SUMMARY 
+* Having 4 Years of experience in Application/Production support Environment. 
+*
+Possess hands on experience in Windows family, FTP, SFTP, Microsoft SQL Server, Power shell scripting. 
+* Has exposure in the enhancement, maintenance and support of various applications. 
+PROFESSIONAL SUMMARY 
+* Work on call with various teams for faster resolutions of the outages. 
+* Creating and monitoring the support tickets (Servicenow.com). 
+*
+Monitoring database servers, webservers, fallout orders, DB connectivity, order flow to reduce the outage time. 
+* Debug and troubleshoot all production issues and perform root cause analysis. 
+*
+As production support engineer, responsible for monitoring and troubleshooting all applications. 
+* Identify the Root cause or troubleshooting the issue accurately. 
+* Remained successful in monitoring server performance, handling outages and escalations. 
+* Promptly effectively worked on call with other teams for faster resolutions of the outages. 
+* Earned reputation for troubleshooting of all issues related to Application servers and backend issues. 
+* Supporting and troubleshooting applications in production environment. 
+* Instrumental in coordinating with different teams, attending bridge calls and sorting out issues with clients through intelligent debugging using logs. 
+* Comprehensively prepared business reports of the issues impacting the environment. 
+* Maintained uncompromising focus on ensuring minimum downtime to the development and testing environments and on need basis facilitated urgent resolution with other teams for recovering outages. 
+*
+Support On calls during weekend. 
+*
+Smartly facilitated superior communication between the onsite and offshore team members. 
+* Creating and executing Business Objects reports as per project requirement and demand. 
+* Participating the On-Call Schedules, Review activities. 
+WORK EXPERIENCE 
+*
+Working as L2 Application Support Engineer with Genpact,Hyderabad Payroll of Tie Technologies Pvt Ltd, and Chennai from December 2012 to Till Date. 
+EDUCATIONAL CREDENTIALS 
+Master of technology (M.Tech) from Hindustan University in 2012. 
+TECHNICAL EXPERTISE 
+Operating systems 
+Windows(2007,2008,2012), Programming Languages 
+SQL 
+Database 
+Microsoft SQL Server 2008 R2 and 2012 R2 
+Ticketing Tool Servicenow.com Scheduling Tool 
+Task scheduler Tool 
+IIS, Microsoft SQL server, services. MSc, Task scheduler,MSVISIO, Event viewer, File Zilla. 
+PROJECT UNDERTAKEN PROJECT: 
+Project Title 
+FLEXCUBE 
+Project Type 
+Application Support 
+Team Size 14 Tools Servicenow.com,IIS,Task scheduler, Event Viewer 
+Environment 
+Microsoft SQL server 2008 R2, Windows family. 
+Duration 
+December 2012 to Till date 
+DESCRIPTION: 
+Flexcube is a modular solution that allows the bank to choose only the functionality they wish to offer their customers. It is a fully integrated system with a common set of core services that are used across all the Front-End functional modules to deliver a diverse range of banking functionality. 
+FlexCube supported products are current and savings accounts (CASA), Deposits, Credits, Loans, Collections, Safe deposit box and supported services are Sweeps, Standing instructions, Direct debits, Credits and Payments. The functional modules deliver a complete range of banking functionality to the end customer ranging from Retail Banking, Corporate and Investment 
+Banking. RESPONSIBILITIES 
+*
+My role is L2 Application support engineer 
+* Debugging of porting issue and report to business or customer care. Analyzing the issue and applying proper work around to get it resolved. 
+*
+Performing all system health check and application health check by monitoring server logs, application logs and using 
+TELNET for connectivity check between different systems. 
+* Analyzing and escalating the issues with appropriate teams for urgent delay/outage resolution. 
+* Resolving MNP related tickets, raising CR's, PKE's (Problem Known Error) for known issues, raising tickets using Service now ticketing tool. 
+* Interacting with onsite clients and onshore team. 
+*
+Performing the various business object server related tasks. 
+* Assist with ongoing documentation requirements. 
+* Responsible for providing the support in all production related issue. 
+*
+Interacting with the customer and get specifications for enhancement. 
+* Give the status report of tickets to Manager of our department on a weekly basis. 
+*
+Providing support to client on 24/7. 
+*
+Responsible for day-to-day systems management and operations. 
+*
+Monitoring the application server and Generating System Health Reports. 
+* Maintaining the application job flow documents. 
+* Analyzing and escalating the issues. 
+* Resolving the tickets that are raised by the severity base. 
+*
+Involved in issue resolution, Client interaction, understanding the requirement and working on the ticket. 
+* Responsible for providing the support depending on the priority of the issues. 
+*
+Automating daily tasks by writing scripts. 
+*
+Interacting with onsite clients and onshore team. 
+*
+Performing the various business object server related tasks. 
+* Monitor the Application Server system error reports and log files * Assist with ongoing documentation requirements. 
+* Checking the listener status. 

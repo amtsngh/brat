@@ -1,0 +1,78 @@
+ RAMAN KUMAR SINHA 
+House No.-515, Sector-10A, Gurgaon | Mob: - +91 9871437021 | E-mail ID: - rksinha_68@yahoo.com 
+https://in.linkedin.com/in/raman-sinha | ID: - rksinha.68 
+Thorough IT professional with extensive exposure in IT Infrastructure Management, Networking and System/Server 
+Administration 
+CAREER OVERVIEW: ITIL, PRINCE2, CSCU certified professional with over 18 years of experience in IT infrastructure management, network operations, and server maintenance and system administration. 
+Experienced in designing infrastructure and implementing technology to support large user groups, supporting users at corporate as well as multiple remote locations. 
+Skilled at analyzing information system needs, evaluating end-user requirements, custom designing solutions, 
+troubleshooting for complex information systems management. 
+Understanding of networking concepts pertaining IT communication, virtualization, storage, networking, Linux/Windows server and maintenance in multi-platform environments. 
+Proven skills in handling Infrastructure management tools such as ITIL and ALIM. 
+An effective communicator with exceptional relationship management skills with the ability to relate to people at any level of business/management & significant experience working with steering committees. 
+CORE COMPETENCIES INCLUDE 
+Project Management Corporate Presentations Systems Administration 
+Infrastructure Management 
+IT Security Risk Management Storage 
+Installation/ Configuration Peripherals Management 
+Networking LAN/ WAN Management 
+Data Centre Management 
+Disaster Recovery & Planning 
+Network Traffic Management Asset Management 
+Statutory Compliance Technical Support 
+Troubleshooting Maximum Network Uptime 
+Training & Development Team Management CAREER FEATURES 
+April 2016 with Inspired Technologies Pvt. Ltd, Delhi as Consultant IT- Infrastructure 
+Preparing IT infrastructure strategy & management Managing an IT budget according to company requirement Implementation & procurement of Microsoft/Adobe licenses as per company interest Implementation, installation, configuration and administration of Windows, Linux, VMware June 2013 March 16 with Softage Information Technology Limited, Gurgaon as IT Manager - Infrastructure 
+Leading the entire gamut of IT infrastructure management, while leading a team of 100 people. 
+Managing an IT budget of INR 4Cr, and ensuring appropriate IT support to the end users and branch offices. 
+Administering a network of 80 vendors and managing procurement of Microsoft/Adobe licenses while bringing down the purchase cost by 25%. 
+Evaluating the network and server performance and recommending solutions for improved performance. 
+Working on several critical servers and overall network, applying necessary recommendations for additional resources of hardware Major role in identifying and resolving hardware, software, and communication failures issues. 
+Overseeing designing, installation, configuration and administration of: 
+o Microsoft Active Directory on Windows 2012 and managed with group policies. 
+o ADC/Child/Member server creation with Windows 2012 on multiple remote location o VMware ESX ,VSphere 5.0 Server implementation and configuration on enterprise level o Desktop virtualization, Virtual machine on Windows 2012 with Hyper-V, o SQL Clustering 2012/2014 with 4 node clustering on windows 2012 with always on 
+o Disaster Recovery Implementation at remote locations with scheduled backup implementation o MPLS VPN monitoring June 12 
+May 13 with Manupatra Information Solutions Private Limited, Noida as IT Manager - Infrastructure 
+Leading the entire gamut of IT infrastructure management, while leading a team of 15 people. 
+Managing an IT budget of INR 50 lacs, and ensuring appropriate IT support to the end users and branch offices. 
+Administering a network of 25 vendors and managing procurement of Microsoft licenses while bringing down the purchase cost by 10%. 
+Evaluating the network and server performance and recommending solutions for improved performance. 
+Working on several critical servers and overall network, applying necessary recommendations for additional resources of hardware Overseeing designing, installation, configuration and administration of: 
+o Microsoft active directory and managed with group policies on Windows 2008/2012 
+o Server & desktop virtualization using Hyper-V and VMware technology 
+Sep 05 June 12 with Koutons Retail India Limited, Gurgaon as I.T. Manager Headed the complete infrastructure management, networking and system administration activities, while leading a team of 25 people and managed an IT budget of INR 1 Crores. 
+Actively involved in: 
+o Handling a network of 4000 members and brought down the license purchase cost by 25% 
+o Providing best support to end users, and additionally responsible for handling vendor management o Performing day-to-day backup task with VERITAS, Symantec Backup Exec 2012, arc serve backup and net backup on different tape formats such as DAT/DLT/LTO/ULTRIUM/Autoloader 
+Worked on and completed installation, configuration of: 
+o Web servers, IIS,DNS,DHCP, RAS, HTTP, FTP, POP3,VPN, WSUS on Windows 2008/2012 o Microsoft Active Directory with group policies on Windows and Linux server o Server and desktop virtualization using VMware ESX 3.5 & 4.1/vSphere 4.1/5.0 server 
+o ERP (Ramco/Vesture) applications and packages or third party software on Thin client o Mail server using post master/send mail on Linux (Fedora) server Oversaw the complete IT security for corporate Anti-virus like Norton, MacAfee and CA functions including: 
+o Introducing new technologies tools, latest security patches, antivirus patches , policies and procedures o Handled SonicWALL 5060, Fortigate 80C, Cisco ASA 5505 (security permission and access rules) 
+PAST ENGAGEMENTS 
+Sep 99 Aug 05 Micro Clinic India Pvt. Ltd, Delhi as Territory Manager 
+Jan 94 Aug 99 Astron InfoTech Pvt. Limited, Mumbai as Customer Support Engineer TECHNOLOGIES 
+Server and Desktop: IBM X Series Servers, HP Compaq ML/DL/Itanium Series, IBM, HP Compaq, Dell, Acer, Zenith 
+Operating System: Windows 7/8/8.1/10, Windows 2008/2012/2016 Servers, Linux server, UNIX server. 
+Administration: Windows 2003/2008/2012 Server, Managing Resources & Administering Active Directory Forest & Tree, Disk Management, Configuring RAID, Group Policies, MMC, Routing & Remote Access, Terminal Services. 
+Protocols: TCP/IP, IPX/SPX, RIP, PPP, SNMP, SMTP, POP3, FTP, DHCP, IPSec, NetBuei. 
+Internet Tools: 
+Internet Explorer, Mozilla, GoogleChorme, Mail Server, and IIS/Web Server. 
+Network 
+Devices: Repeaters, Manageable Cisco Switches and Cisco Routers 
+Additional: TS web/Citrix Server 4.0 Installation and Configuration. 
+EDUCATION 
+1994 B.E (Computer Technology) from Nagpur University 
+1995 Advance Diploma in Computer Hardware & Networking from MICAT 
+CERTIFICATION: ITIL 
+Foundation Certificate in IT Service Management 
+ITIL 
+Service Operation Certificate 
+PRINCE2 
+Practitioner Certificate in Project Management 
+PRINCE2 
+Foundation Certificate in Project Management 
+CSCU v2 (Certified Secure Computer User) 
+MCSP (Microsoft Certified System Professional) 
+MCSE (Microsoft Certified System Engineer) 
+CCNA (Cisco Certified Network Associates) 

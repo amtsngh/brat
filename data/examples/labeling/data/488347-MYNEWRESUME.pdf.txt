@@ -1,0 +1,43 @@
+PRAKASH #236,HBR Layout,4th block , 
+Email-ID: bprakashsiva@gmail.com hennur cross,Bangalore -43,India. 
+Mob No :+91-8892311535 
+__________________________________________________________________________________ 
+OBJECTIVE 
+Seeking a challenging position in Software Development where I can leverage more my skills and experience in advanced Technologies. 
+SUMMARY PROFILE 
+Overall 11 months of experience in system study, analysis, requirement gathering, solution design, development, testing and implementation of business applications 11 months of experience(PLM TEAMCENTER,CORE JAVA RAC CUSTOMIZATION) in Development,maintenance,Implementation and Testing 
+Self-Motivated - Quickly and Independently able to learn any new technology on my own. 
+An urge to work hard and take up challanging assignments Ability to multi-task,prioritize effectively,outstanding analytical,problem-solving and troubleshooting Quality oriented and believe in driving quality consciousness across the team 
+Good communication skills 
+PROFESSIONAL EXPERIENCE 
+Designation Organization Year 
+Software Engineer Infocore Engineering and IT 
+Services 
+Apr2016 - Mar2017 
+TECHNICAL SUMMARY HIGH LEVEL LANGUAGES Core JAVA(swing,awt,swt),J2EE(JSP,Servlet,Hibernate),C,C++ 
+TOOLS 
+Eclipse,Bmide 
+OTHER SOFTWARES TeamCenter(Installation,Configuartion),Activeworkspace(Installation) 
+EDUCATION DEGREE YEAR COURSE/INSTITUTION UG 2010-2014 Bannari Amman Institute Of Technology,Erode 
+HSCC 2009-2010 SVN Hr Sec School 
+SSLC 2007-2008 SVN Hr Sec School 
+PROFESSIONAL EXPERIENCE WITH KEY HIGHLIGHTS 
+#1 INFOCORE ENGINEERING AND IT SERVICES APR 2016-MAR 2017 Project #1 :(CEAT Tyres Client Project) 
+TEAM SIZE-3 NAME :REPORT GENERTIONS ROLE :JAVA PROGRAMMER TECHNOLOGIES: CORE JAVA(Swing,Awt,Swt),Teamcenter,Bmide,ActiveWorkspace, 
+Description: 
+Project was to generate the report and categorise the tyre testing.in order to validate their(Ceat Tyres Orgainzation) tyres, based on the tyre size,report had to be generated to them. 
+So I have written the code to generate the report by using Core Java(Swing ,Awt,Swt),Teamcenter,Bmide.I have included the Glazed Lists,ProgressBar..etc.I have categorised the testing as two types static and dynamic.I have written the code to query the dynamic and static values from teamcenter database.as well as have written the code to query the file ,generate the report in the file(Excel,Html Page).have created the dialog boxes for implementing the report generation works.I have also written code for adding the custom rendering in to Item Master Form.finally deployed the required jar files in to the team center. 
+As Java Programmer,my responsiblities included: 
+Added the logic to create the dialog boxes in order to generate reports by using core java(swing,awt,swt) Created the required Properties and Items and forms by using the Bmide. 
+Added the logic to generate the reports based on the tyresize,added the logic to include functionalities such as GlazedLists(to bring the suggestions in lov combo box),and ProgressBars,dynamic lovs,static lovs..etc 
+Added the Query to populate the dynamic values,and find out the Folder to attach the sheet and MSExcel sheet to generate the report. 
+Deployed the required jar files into teamcenter in order to implement the project. 
+And also worked to install and do patching of the teamcenter and Active workspace. 
+Parent's Name Balaji.P & Parvathy.B 
+Date Of Birth 10-apr-1993 Sex Male 
+Marital Status Single 
+Nationality Indian 
+Languages Known English,Tamil 
+I hereby declare that all the information stated above is true to the best of my knowledge. 
+Yours Sincerely, PRAKASH 
+Date:__/ __/ ___ 

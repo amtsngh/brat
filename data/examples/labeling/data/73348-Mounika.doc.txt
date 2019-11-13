@@ -1,0 +1,64 @@
+ Bongoni Mounika mail: sonybongoni@gmail.com 
+MS SQL DBA 
+Phone: +917702169012
+ SUMMARY 
+Over 2.5 years of IT experience which includes System Analysis and, Development & Support of MS SQL Servers 2012,2008,2005, 2000 and 7.0 in Production, QA and Development Environments. 
+Hands on Experience in installing, configuring, managing, monitoring and troubleshooting SQL Server 2012, 2008 and 2008. 
+Experience in creating Jobs and Alerts, Schedule and maintain routine Jobs and Maintenance plans.. 
+Query Optimization and Performance Tuning. 
+Extensive knowledge on Log shipping Experience with Database Backup and Recovery procedures. 
+Experience in Migrating 2000 to 2005 and DTS to SSIS 
+Experience in .Net, ASP 
+Experience with DTS ,SSIS& SSRS 
+Experience on installing and configuring Sql Server failover Cluster. 
+Experience in MS SQL Server configuration, performance tuning, client/server connectivity, query optimization, back-up/recovery, running Database Consistency Checks using DBCC. 
+Experience in writing Stored Procedures and Triggers. 
+Experience with VB Scripting, VBA, and MS Excel. 
+Implemented customized log shipping for SQL Server 2000 and built in log shipping with SQL Server 2000/2005. 
+Hands on experience in Troubleshooting database issues. 
+Experience in migration of Data from Excel, Flat file, Sybase, Oracle to MS SQL Server by using BCP and DTS utility. Extracting, Transforming and loading of data using SQL Server DTS. 
+Design and document Logical and Physical data models 
+Experience in .Net Technology using C# .net and Asp.net Experience in supporting Large Databases up to a size of 1.5 Tera Bytes. 
+24x7 Support including scheduled and emergency night and weekend work. 
+Good interpersonal, Analytical and Communication skills. 
+TECHNICAL SKILLS: 
+Languages : T-SQL, PL/ SQL, Java 2.0, C++, Visual Basic 6.0, VB Script, Java Script, XML, XSLT, HTML, DHTML. 
+Operating Systems : Windows 98/2000/2003/2008/2012XP, Win 2000 Server, Windows NT. 
+Frameworks : J2EE 
+Database : SQL Server 2012, 2008, 2005, 2000 and 7.0, MS-Access. 
+Others : Visual Studio 2003, IIS, SSIS. 
+Education: 
+B.Tech(ECE) 
+(Frist:75%) 
+From Vits Womens Engineering college(2009-2013) Karimnagar. 
+Intermediate - (Frist:82.6%) From Alphores Junior College(2007-2009) Karimnagar. 
+PROFESSIONAL EXPERIENCE: 
+Mahivar Inc Hyderabad 
+SQL Server DBA 
+Aug 2013 to till date 
+Working as 24X7 Production Database support with rotation basis. 
+Installing and configure SQL Server 2005 and SQL Server 2008. 
+Daily checking the tickets assigned and resolving the tickets depends on the priority levels within the SLAs. 
+Automating database maintenance with Maintenece Plan. 
+Implementing Server level,database level, Login and User level security. 
+Using 3rd party tool SQL SAFE to take backups. 
+Checking the status of backups and troubleshooting failed backups and restoration of databases. 
+Updating with latest service packs and hot fixes. 
+Ensuring Data consistency in the database through DBCC commands. 
+Experience in maintaining large database of size 1.2TB. 
+Ensuring high availability of the database by configures and monitors the Database Mirroring. 
+Monitoring all servers by using third party tool SQL Diagnostic Manager. Supporting 100+ servers for Production and Pre-Production Environment. 
+Supporting mission critical 3+ TB databases 
+Installing SQL 2005/2008 and 2012 in Production & Pre-Prod servers. 
+Applying database patches in all the environments. 
+Automated bugs/white list apply in all Prod/Sandbox and Pre-Prod environment using DOS batch script with PsExec and Robocopy utilities. 
+Handling multiple instances failover SQL cluster for SQL 2005 on Windows 2003. 
+Handling multiple instances failover SQL cluster for SQL 2008 on Windows 2008 
+Coordinating with Dev team and fixing issues on production. 
+Worked on DTS/SSIS Packages. 
+Configured SQL 2005 Reports. 
+Handling DB Security issues. 
+Setting up Log shipping & Replication. 
+Rebuilding Indexes, Update statistics if required. 
+Setting up SQL 2005 Dashboard reports for centralized monitoring. 
+Environment: MS SQL 2012 ,2005 & 2008 Servers, SQL Cluster Servers, MS Windows Server 2003, 2008 and 2012 Enterprise Edition, Query Analyzer, SQL Profiler, SSIS, SSMS, DBCC, Quest SQL Lite Speed 4.6/4.7 & 4.8. 

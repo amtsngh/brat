@@ -1,0 +1,88 @@
+K.KAVYA 
+kaviyak22@gmail.com +91-9962142200, +91-9677083548 
+Intend to build a career with leading corporate of hi-tech environment with committed & dedicated people, which will help me to explore myself fully and realize my potential. 
+CAREER HIGHLIGHTS 
+Having profound experience in both Manual and Automation testing of software applications, particularly in agile methodologies. 
+Currently associated with HCL Technologies Ltd, Chennai. 
+Hands on experience in Selenium Web Driver and JUNIT, IDE tools like Eclipse . 
+Having knowledge in TestNG Annotations and other locators Hands-on experience in Functional Testing, Regression Testing, Integration, System Testing, Browser and Platforms Compatibility Testing, Usability Testing, Mobile Device Testing. 
+Have worked on various mobile devices like Android, iOS for Mobile Testing. 
+Primarily involved in analyzing, developing and execution of test scenarios and test cases, and maintaining test results for each release and Status reporting. 
+Report generation and logging defects into IBM Rational Clear quest. 
+Experience in Automated Testing using selenium RC, Selenium Web driver . 
+Received appreciations from clients for the identity the show stoppers at the earliest defects. 
+Certification 
+Certified in Software testing Professional (CSTP) WORK EXPERIENCE 
+Associate in HCL Technologies Ltd, Chennai, On the payroll of Cameo Solutions from Feb 2015 till Date. 
+SKILL SET 
+Operating systems 
+Windows 2008/2003 Server, XP/Vista/7/8/10, Mac 10.9/10.11 Linux OS 
+OpenSuse , Ubuntu , Federo 
+Test Management Tools Aptest manager, MAGEN 
+Bug Tracking tools IBM Rational Clear quest, JIRA 
+Browsers IE, Mozilla Firefox, Chrome, Safari, Opera 
+Third Party Tools VMware, Virtual Box, Hyper-V 
+Automation Testing tool Selenium WebDriver, Eclipse 
+Programming 
+Language C++, SQL , Core JAVA 
+File transfer Tool Filezilla, Teraterm 
+Frameworks TestNG, POM PROJECTS HANDLED EXPERIENCE SUMMARY 
+Client : 
+XEROX - is an American multinational document management corporation that produced and sells a range of color and black-and-white printers, multifunction systems, photo copiers, digital production printing presses, and related consulting services and supplies. It plans to launch printers with more new printing technology in the market. It established more Global centers over many countries for the product development. 
+Project #1 : 
+Title : APS (Android Print Service) 
+Environment : Android, iOS 
+Description : 
+Xerox Print Service plug-in for Android enables mobile printing to many Xerox printers and MFPs without the need for third party apps or additional print drivers. NFC is a short-range high frequency wireless communication technology that enables the exchange of data between devices over about a 10 cm distance. Centre Ware Internet Services is the built-in printer management web based application for network printers. 
+RESPONSIBILITES: 
+Performed Functional, Regression, Sanity, Memory Leakage, Interrupt, GUI, Ad-Hoc, Smoke Testing, Usability, Installation, Operation, Browser Testing of the application. 
+Test various mobile devices with a various platform( Android) Checking the application through NFC Feature which is enabled in the CWIS . 
+Defect Reporting and Tracking using IBM Rational Clear Quest Tool 
+Re-Test the Resolved Defects. 
+Involved in Testing different range of mobile devices with different screen sizes 
+Involved in Testing Mobile web apps to access website on mobile using different browsers and platforms. 
+Involved in testing both Native app and Mobile web app of specified Product. 
+Executed Test Cases as per System Requirements 
+Project #2 : 
+Title : Connect Key (Driver Testing) 
+Environment : Windows, Mac, Unix 
+Test Tools : 
+Clear Quest , Aptest, Virtual Box, VMware 
+Description : 
+Driver testing involves testing the drivers on different OS platforms. 
+The drivers are tested in Windows, MAC, Linux and UNIX platform to identify functional and compatibility issues in different software platforms and also the drivers are tested in Citrix, Novel through Environmental Testing. 
+RESPONSIBILITES: 
+Understood the features and device functionality using SRS documents Testing the Reliability of the software on various Platforms such as Windows, Linux, MAC on IE , Firefox and Chrome 
+Performed Functional, Regression, Sanity, GUI, 508 testing, Smoke Testing, Usability Testing 
+Defect Reporting and Tracking using IBM Rational Clear Quest Tool 
+Performed Adhoc and exploratory testing to identity the show stoppers at the earliest. 
+Executed the test cases in Different OS on web based client and server application Performed Negative testing in all areas where it is possible and ensured the robustness of the software. 
+Project #3 : 
+Title : E-Concierge / Xerox 
+Environment : Java 
+Test Tools : 
+Selenium Web Driver, TestNG, Eclipse 
+Description 
+: Trailblazer is an ecommerce project for providing consumables to the customers online and also monitors the consumables of the printer. 
+Provides consumers purchase consumables of a printer using ecommerce web portals. E-concierge is easy to install and use and allows you to place supply orders for all of your eligible equipment. 
+RESPONSIBILITES: 
+Understood the features and functionality using SRS documents Responsible for GUI and Functional Testing, using Black box Testing Techniques. 
+Created Test cases Using Element locators and Selenium Webdriver methods. 
+Enhanced Test cases using Java programming features and TestNG Annotations 
+Conducting cross browser testing and parallel test execution. 
+Involved in executing Test Scripts using Selenium RC and Web Driver. 
+Creating Reports using Selenium, JUnit/ TestNG Created selenium automation scripts in Java. 
+Created functional automation scripts using selenium Web Driver. 
+Performed Negative testing in all areas where it is possible Execution of Selenium Test cases and Reporting defects Involved in Regression Testing using Selenium 
+Prepare the Daily Test Progress Report and Test Execution Report 
+RECOGNITION 
+Received Live Wire award from client end for the quarter AMJ 2016 in HCL. 
+ORGANIZATION SKILLS 
+A good team player with good Communication Skills, commitment, result oriented and has ability to work in a team and individual environment. 
+Zeal to learn new technologies and utilize the same in a productive manner. 
+Able to accomplish tasks with minimum supervision. 
+Ability to think in several ways, discriminatingly and quick learning capabilities. 
+ACADEMIC 
+Completed MCA from Arunai Engineering College with 77 % PERSONAL VITAE 
+Languages Known: Tamil, English 
+Current Address: Adambakkam, Chennai - 88 

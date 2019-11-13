@@ -1,0 +1,59 @@
+Curriculum Vitae 
+Name: Vardhaman A.Chougala 
+Email-ID: vardhuchougala@gmail.com 
+Mobile-No: +91-9611379498 
+Objective: 
+To work in a competitive environment that will utilize my skills and thereby enhancing my own skills as an individual also as a key player in the organization development, with complete dedication and determination. 
+Work Experience: 6 Years 
+Working for 
+Larsen and Toubro Tech services as Senior Software Engineer since March 2016. 
+Worked for 
+Vayavya Labs Pvt Ltd as a Senior Software Developer. 
+Academic Portfolio: 
+B.E(ECE) from B.L.D.E Dr.P.G.Halakatti Engineering College Bijapur with Distinction. 
+Professional Summary: 
+6 years of hands on experience in embedded software development. 
+Hands on experience in C++ . 
+Strong knowledge of C language. 
+Good knowledge of Linux and Android for TV. 
+Other skills include Multithreading, IPC , Socket Programming. 
+Worked on different multimedia containers like mp3, aac, wav. 
+Experience porting of audio encoders such as OggVorbis and MP3 on Linux. 
+Proficient in coding, requirement analysis and documentation for project . 
+Skill Set: 
+Programming Languages : C,C++,Data structures. 
+Platform : Linux, Windows 
+Tools 
+: GDB, Git, Wireshark, Valgrind 
+Hardware 
+: Cubietruck 
+Others 
+: Shell scripting, working knowledge of tcp/ip, rtsp/rtp, vlc framework 
+Projects: 
+1. beIN Sports set top box 
+Client: Cisco video Technologies, Bangalore, India 
+Description: Development, debugging of different modules of set top box architecture involving application and middleware. And also integration of features like PVR, ON demand/VOD. Worked on Java for application layer. 
+2. JukeBlox Audio Streaming 
+Client : Microchip Inc., Bangalore, India 
+Description: Porting Audio Services and Streaming Framework stack from Threadx OS to Linux 
+OS. Includes development, restructuring, debugging of user level application on Linux. Porting of audio encoders such as Oggvorbis and mp3. Working on different multimedia container like mp3, aac, wav. Leading a team as Linux expert. 
+3. Android Camera HAL 
+Client: TPVision, Bangalore, India 
+Description: Development, debugging and unit testing of Camera HAL on Android on TV and provide support for each part of Android stack aimed to provide captured video to Skype and other applications. Made sure Android CTS and Skype certification passed. 
+4. Hotel TV(IP TV) 
+Client: TPVision, Bangalore, India 
+Description: Designing the API s, Development , debugging and maintenance of the code. 
+Involves the discovery of TV on network, porting of mongoose web server , providing the server- client communication by doing server/client authentication. Lead the team of 2 members. 
+5. Hotel TV (IP TV) 
+Client: TPVision, Bangalore, India 
+Description: Designing the API s, Development, debugging and maintenance of the code. 
+Involves parsing the channel information xml and storing it into the Database. Discovering the tv on network using mDNS, sending the data to the server using curl. 
+6. IPNC (Internet Protocol Network Camera) 
+Client: Texas Instruments, Bangalore, India 
+Description: Development, debugging of different modules such as VLC, live555. Capturing the video from Camera and display it on browsers and also providing feature of drawing zones on video using drawing primitives like GTK, GDK which helps in Face detection, motion detection in surveillance. 
+7. TV550 HDTV Client: Philips, Bangalore, India 
+Description: Involved in testing, parsing of ASF header and generic bug fixing. 
+Declaration: 
+I hereby declare that information furnished above is true to the best of my knowledge. 
+Date: 
+Vardhaman A.Chougala 

@@ -1,0 +1,76 @@
+RANI 
+N X 
+Nelkunnassery House, Power House Extension Road, Ernakulam North, Pincode - 682018, Kerala, India +919446442987 rani.nx@gmail.com PROFESSIONAL SUMMARY 
+Dedicated professional with 2 years experience in Android 
+Flexible and versatile to adapt to any new environment and work on any project Passionate to update my knowledge and skills through continuous self learning Experience in development of IOT solution in Android 
+Knowledge of using Jira for Agile software development 
+PROFESSIONAL EXPERIENCE 
+Company: QAgate Technologies 
+Work duration: July 16 2014 
+Present 
+Designation: Android Application Developer SwannOne 
+Description: SwannOne is a connected home solution that offers automation functions to secure home and loved ones, allowing to control security devices, household appliances, lighting and heating systems to make home a smart home. Various energy management devices is also incorporated to monitor household power consumption. User can view multiple cameras live and recording options. Application gives alerts when an event triggers in your home. 
+Responsibilities: 
+Understanding existing project requirements. 
+Creating front-end using Android Layouts and widgets. 
+Integration of devices like Hub, DVR, Cameras, Door Contact, Motion Sensors, Sound detectors, Thermostats etc using APIs. 
+Integration of QR code scanner using android class library to connect wifi camera to home network. 
+OTA process to upgrade Lite-On wifi smartplug to work in all modes. 
+Connecting wifi smartplug to home network using soft AP method Integration of Philips hue light and implementation of colour palette and conversions to change the colour of light. 
+Data caching using SQLite 
+FireAngel Sprue 
+Description: FireAngel is a home safety application. Application monitors different wi-safe products like smoke & heat alarms, carbon monoxide alarms. Application notifies the user when an event triggers in the devices. 
+Responsibilities: 
+Creating user interface screens using xml Involved in coding of business logic using core java and android APIs. 
+Dealing with push notification. 
+Unit testing, problem analysis and fixing Delta 
+Description: DELTA Safe Housing protects smart home with a camera and / or an alarm system. With the app, we can switch on and off the alarm system, watch live via the camera, consult the history, etc. The app serves and manages the security system remotely. 
+Responsibilities: 
+Testing, Bug fixing My-serenity 
+Description: The app lets to control connected appliances and devices in the home, view live streaming camera feeds and view all activity logged from within the home so you can passively monitor vulnerable loved ones remotely. It can be expanded by adding new accessories including smoke detectors, flood detectors, movement detectors, inbuilt camera movement detector, door/windows contact, cameras - all of which can be monitored. 
+Responsibilities: 
+Testing, Bug fixing Lockon 
+Description: Application developed to control or access the Home Monitoring Security Devices set up at home through Android Phones. The functionalities implemented in the app are: 
+Control the alarm system, ie know if there has been any active alarms or ARM or DISARM the alarm from the Phone. 
+Control the PSM Plugs. 
+View the Live Stream of the camera to know what is currently happening. 
+View recorded videos. 
+View the history of events that had occurred. 
+Responsibilities: 
+Testing, Bug fixing . 
+Securitas 
+Description: Remotely monitor and control your home via the Android. From intruder alerts, to care for the elderly , to video directly from your property, this application can be used to access real-time information from devices in your home and control them remotely. 
+Responsibilities: 
+Testing, Bug fixing 
+Amino 
+Description: The Home Reach app enables to control appliances and monitor your home when youre away. User can receive in-app notifications when a door is opened or when movement is detected in your home. Using the app youll be able to control appliances that are connected to the smart plugs. With a compatible Wi-Fi camera youll be able to view live and recorded streams. 
+Responsibilities: 
+Testing, Bug fixing 
+TECHNICAL SKILLS 
+Platform 
+: Android IOT 
+Programming Languages : C, C++, Java 
+Document markup languages : LATEX, HTML 
+Office suite : MS Office IDE : NetBeans, Eclipse ADT, Android Studio 
+OS : Windows 2000/XP/2007, Ubuntu 
+Repositories 
+: SVN, Git 
+Project Management tools : Redmine, JIRA EDUCATIONAL QUALIFICATIONS 
+Course 
+Institution University/Board 
+Marks scored Year of passing M.Tech CSIS FISAT, Angamaly. 
+MG University CGPA 8.4 2014 
+B.Tech CS Marian Engineering College, Trivandrum. 
+Kerala University CGPA 7.8 2012 
+HSE Model Technical H S S, Kaloor. 
+IHRD Board 82.8% 2008 
+SSLC St Antonys H S S, Kacheripady. 
+Kerala State Board 92.2% 2006 Personal Profile 
+Name 
+: Rani N X 
+Date of Birth : 8th March 1990 
+Marital Status : Single 
+Languages Known : English, Hindi, Malayalam 
+Mother Tongue : Malayalam 
+Nationality : Indian 
+Hobbies : Listening music, Reading books, Internet Surfing 

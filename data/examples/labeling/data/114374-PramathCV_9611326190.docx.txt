@@ -1,0 +1,180 @@
+Pramath Nath 
+Email: tech.pramath1@gmail.com Cell: +91-961-132-6190 PROFESSIONAL SUMMARY: 
+Currently working for Mindcom Group as an Android Developer February 2014 to Present. 
+Worked as a Freelancer Android Developer November 2013 to January 2014. 
+Worked for Eunoia Technology as an Android Developer January 2013 to September 2013. 
+Worked for Palle Technology as a Trainee Android Developer September 2012 to December 2012. 
+2.11 Year of experience includes developing applications in native Android, Hybrid and Java. 
+EDUCATION & QUALIFICATIONS: 
+B.E. in Information Science and Engineering from Basaveshwar Engineering College (VTU), Bagalkot, Karnataka with 7.20 CGPA in 2012. 
+SKILL SETS 
+Languages Java Core, Android Programming, Ionic Framework, Angular Js, Database SQLite, Shared Preference, Web Server. 
+Environment Eclipse IDE, Android Studio, JBOSS, DDMS, ADT. 
+Domain(Mobile Application) 
+Android Application Development(Enterprise Mobility) 
+Operating System Linux. Windows XP Professional, Windows 7, Windows 8. 
+Others User Interface Design, Requirement and Design Analyst, JSON, XML, SOAP, REST, Customized Developer. 
+KEY RESPONSIBILITIES: 
+Understanding existing android applications and customer requirements. 
+Develop a complete Android application for consumer market. 
+Work with the product manager, quality manager to ensure maintainability and support according to industry standards. 
+Use professional development tools and environment. 
+Analysis front-end and back-end code. 
+Fixing programming problems in different stage of development cycle. 
+Produce documentation according to company requirement. 
+PROFESSIONAL ORGANIZATION: 
+Mindcom Consulting Services Pvt. Ltd. February 2014 
+Present 
+Designation: Android Developer 
+Mindcom is an end to end IT services provider bringing together capabilities in Engineering, Automation and IT to build solutions that enable seamless integration of processes and technologies. 
+PROJECT SUMMARY: 
+Project Name: 
+Vtu Guides 
+Client: 
+Mindcom Group 
+Duration: March 14 
+July 14 
+Technology: SQLite,WebServices. 
+Description: This Project is for VTU university Student. This application provides all information of this university. 
+IDE: Eclipse Juno 
+Platform & Skills: 
+Android SDK, Java, XML. 
+Responsibility: Designed and developed the entire project cycle. 
+Project Name: Pets Profile 
+Client: 
+Mindcom Group Duration: 
+August 14 to December 14 
+Technology: SQLite, WebServices, Fragments 
+Description: 
+The main motto of this project is to provide all information for the pets. 
+IDE: 
+Eclipse Juno. Platform & Skills: 
+Android SDK, Java, XML. 
+Responsibility: Designed and developed the entire project cycle. 
+Project Name: 
+Mail Client 
+Client: 
+Mindcom Group 
+Duration: 
+January 15 december 15 
+Technology: SQLite,WebServices,Thread,Services 
+Description: This mail client is supporting all the domain of protocol. 
+IDE: Eclipse Juno 
+Platform & Skills: 
+Android SDK, Java, XML. 
+Responsibility: Designed and developed the entire project cycle. 
+Project Name: Restaurant Application 
+Client: 
+Mindcom Group 
+Duration: 
+January 16 Present 
+Technology: 
+Cordova,Ionic,Angularjs,Javascript,CSS,WebServices. 
+Description: 
+This Project is for Restaurant. Through this application we are giving all bussiness solution for Restaurant. 
+IDE: Eclipse Juno,JBoss. Platform & Skills: 
+Android SDK,Angularjs,Cordova,Ionic 
+Responsibility: 
+Designed and developed the entire project cycle. 
+PROFESSIONAL ORGANIZATION: 
+Eunoia Technologies Pvt. Ltd. 
+January 2013 
+September 2013 
+Designation: Android Developer 
+Eunoia Technologies Pvt Ltd is a leading business Intelligence services provider delivering customer focused business Solution. It gives more focused on solving the problems around us through Android applications. It is working on diverse applications varying from application for a NGO (working on child welfare) to Product review generator for a retail buyer. 
+PROJECT SUMMARY: 
+Project Name: MobiPro 
+Client: Eunoia Technology 
+Duration: February 13 September 25 
+Technology: 
+Custom Dialog, Date Picker Dialog, Calendar and Time, Content 
+Provider, Hash Map, Tab Activity, Pie Chart, Bar chart, User 
+Design, Core Java. 
+Description: Two Third of the world population are already using mobile. It is not exaggeration say that almost 20% of our day is being spent on mobile for some purpose. This throws a requirement to know what exactly I am doing on my mobile? 
+It in turn could answer multiple questions related to different segments, Am I killing my time on mobile? Can I use my mobile more effectively? Is my mobile really disturbing me so much at work? Why is my mobile bill going so high, how can I reduce it? How many calls or alerts am I getting on my work mobile? Whom did I call or message on 1st of April? 
+A simple solution for all the above questions is to know what is going on in between you and your mobile on a specific day or a date range 
+Simple 2 Steps on MobiPro can answer many questions Launch MobiPro. 
+What date or date range, you need this report for? 
+Here you have the report that says everything about your calls, messages, browsing and many more. 
+IDE: Eclipse Juno, Android Studio. 
+Platform & Skills: 
+Android SDK, Java, XML. 
+Responsibility: Designed and developed the All User Interface Screens. Work on support of multiple android devices .work on every functionality of calendar class, 
+Custom Dialog and Date Picker Dialog. Work on Tab Activity to show Different activity and user interface. Worked on content provider to fetch Call log, message and Internet data into Expandable list view using Custom adapter. Worked on pie chart, line chart and bar chart concept to Show fetched data from content provider. 
+Project Name: Child Line 
+Client: Child Line Bangalore 
+Duration: 
+March 13 to April 10 
+Technology: 
+Camera Application API, Google Map, Geo Coding, GPS System 
+Image View, User Interface Design, Unit Testing, Robotium 
+Framework. 
+Description: 
+The main motto of this project is to helping the poor children to reach child Line NGO. Used camera for taking pictures of child and Geo Coder which 
+Gives the address where that snap taken. We can mail/message/ child 
+Snap and his/her address to NGO of Child Line. We can use it as another Manner in product environment. 
+IDE: 
+Eclipse Juno. Platform & Skills: 
+Android SDK, Java, XML. 
+Responsibility: Designed and developed the All User Interface Screens Required for the Project. Worked on support of multiple android devices/screens. Worked on every functionality of Camera Application. Worked on GPS, Google 
+Map and Reverse Geo coding for fetch user current Location. 
+Project Name: 
+EunoiaStudyChapterTest 
+Client: Eunoia Technologies 
+Duration: April13 to June10 
+Technology: SQLite, Web Services, Debugging. 
+Description: 
+EUNOIAStudyChapter Test is an application in the education Industry. This application is designed for professional. Management students in order to prepare them for the test chapter wise. This application contains good UI design. This application fetches the questions, options and justifications from the server. Questions and justification may contain images with them, so make them user friendly, zoom-in and zoom-out functionality is added. Registered user with EUNOIAStudy can access test for all chapters and un-registered users can Access only first chapter. For each question to answer, we are giving two attempts. In end of test we are displaying the result. 
+IDE: Eclipse Juno, Android Studio. 
+Platform & Skills: 
+Android SDK, Java, XML. 
+Responsibility: 
+Designed All the Xmls required for UI Design of Application. Written all the Business Logic code for the project. Provided Zoom-in and Zoom-out 
+Functionality on Images. Worked on creating Custom Adapters. 
+PROFESSIONAL ORGANIZATION: 
+Palle Technologies September 2012 December2012 
+Designation: 
+Trainee Software Engineer 
+Palle technology is a leading recruitment and learning solutions provider, offering unique solutions in recruitment and staffing solutions to software companies. It provides practical approached assignment oriented training. It provides seamless integration of curriculum with the in house projects has helped to understand company hands on working cycle. 
+PROJECT SUMMARY: 
+Project Name: UNIVERSAL PERSONALIZATION 
+Client: Palle Technology 
+Duration: September 12 to December 12 
+Technology: Tab Activity, Image View 
+Description: Over time mobile phones have seen an increased emphasis placed on user Personalization. In this application we are offering users to create their own personalizers like profiles, promotional pages, and simple blogs according to their personal requirement. This application will enable the users to create their personal requirement. This application will enable the users to create as many different profiles as he want. This project will help the user to generate his/her personal android application to launch into Google market even though he/she doesnt know android technology. 
+Fetching the list of files from sd card into List view using custom adapters 
+And let the user options to select file from required place. 
+Design some of the layouts required for the project. 
+Worked on Shared Preferences concept to store some useful information to control editing into software. 
+Working on the Http Concepts to make the client and server commucn, IDE: Eclipse Juno, Android Studio. 
+Platform & Skills: 
+Android SDK, Java, XML. 
+Responsibility: 
+Design all the Layouts required for this project. Worked on SQLite 
+Database to Store All the clients information. Logic to make the Project feasible. 
+Project Name: MONKEYs DRIVE- A GAME FOR ANDROID CELL PHONE 
+Duration: 
+November 11 - May 12 
+Technology: 
+Activity, Bitmap Factory, Canvas Animation, Image View, 
+User Interface Design. 
+Description: Monkeys Drive is a reaction-based skill game wherein the player segments, has to help lives. Scoring depends on the number of bananas the Monkey was able to feed on. The game logic is simple and it can be extended by introduction of other fruits that carry more points. Touch sensitivity of device can be constraint for the game. This Game supports location-based leader board the monkey feed on as many bananas as possible. The game depends on players Hand eye coordination and quick reflexes. Monkeys Drive is a single-player game wherein the player has to help the ravenous Monkey feed on bananas that keep falling in a zigzag manner from the screen top. However, the monkey has avoid itself from dropping too deep, i.e. declining to the bottom of the game screen Or being hit by the coconuts that occasionally drop along with the Bananas from the top. Else, the monkey loses its stamina and gets knocked out losing one of its three lives. The game ends on losing all the three. The game is designed using Windows XP or higher version/Linux, it require IDE (eclipse) for editing, compiling, and testing. And it also required SDK for the creation of android application. 
+IDE: Eclipse Juno, Android Studio. 
+Platform & Skills: 
+Android SDK, Java, XML. 
+Responsibility: Design and developed the All User Interface Screens Required for the Game screen. Design background images for every activity. Design 
+Different styles of Buttons, EditText, and TextView on click of these views. 
+Worked on android Adenine to give enough functionality to bring any type 
+Of 2D game world to life. Worked on activity lifecycle so user can interact With the activity. Worked on Bitmap Factory and its functionality to give Motion to dynamic image. Worked on animation using canvas to make the Image moveable on the screen. Used canvas to draw Bitmap image. 
+Worked on coordinate geometry to get the position of views. Worked on How to make our application compatible with every android. Devices out There. 
+PERSONAL ATTRIBUTES: 
+I evaluate information quickly, identifying the issues and formulating conclusions based on practical judgments, experience and common sense. 
+Ability to work as part of team and independently. 
+Good interpersonal skills to interact with customers and team members, with good written and verbal Communication Skills.Good analytical and communication skills. 
+Self-motivated and have the ability to manage multiple and complex tasks. 
+Achievements: 
+Participated in All India General knowledge competition Active participants in college events Attended android workshop conducted by ARK technologies Conducted two days of android workshop in college 
+Personal Details: 
+Date of Birth: 02 October 1989 
+Languages Known: Hindi, English 
+Permanent Address: Shitlanagar, Shivpur,Godda, Jharkhand - 814133 

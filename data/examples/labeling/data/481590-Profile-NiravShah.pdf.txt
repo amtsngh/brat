@@ -1,0 +1,103 @@
+ NIRAV MAHENDRA SHAH 
+Mobile: +91
+9620015554 E-mail: nmshah9@outlook.com Carrier objective Work for a progressive, professionally managed Organization in a competitive and rewarding environment. I have equipped myself conceptually and practically towards achieving my goals and am on the lookout for exciting opportunities. 
+Professional Summary 
+Solutions-driven professional with 12+ years of experience on Project Management and Transition & Transformation in IT Infrastructure 
+Seasoned IT & Telecom professional for Enterprises and Contact Center solutions 
+Quickly masters new roles, responsibilities, technologies, and environments and has a reputation for proficient execution of delivery processes and procedures Customer-focused, highly organized self-starter with effective customer-service skills and demonstrated ability to manage technical aspects in high pressure environments. 
+Results-driven rising professional with significant experience in customer service, as well as leadership background and the skills to initiate new ideas and delegate responsibility. 
+Posses' strong ethics, organizational, business acumen & cross-cultural sensitivity. 
+Career Pr cis:- 
+A technocrat with proven skills in IT operations entailing. 
+Project Management 
+Infrastructure Management 
+ITIL Framework 
+Team Management 
+Unified Communication 
+Avaya Aura Call Center Solutions & NICE Call Recording 
+Solution 
+Data Center Data, Voice, Firewall & Load Balancer 
+HP Helion Cloud Services 
+Enterprise Services 
+Mobile Security Solution/ Enterprise Mobility Management Airwatch (MDM, MAM & TAA), Citrix (XenMobile & Sharefile) & Microsoft (Intune) Education Qualification 
+B.E. (Electronics & Telecom) from Mumbai University (S.S.P.M s College of Engineering) in 2000-2004. 
+Certification 
+PMP Certified (2014) Active 
+ITIL Foundation V3 (2014) - Active 
+Professional Profile 
+Organization: Hewlett Packard Global Soft Pvt. Ltd. Location: Bangalore Designation: Project Manager 
+Tenure: 22nd Nov 10 till date 
+Job Profile: 
+Managing IT Infrastructure /HPE Helion Cloud Services Projects 
+Accountable for end to end project delivery starts from project feasibility to delivering it to steady state support functions within timescales and budget agreed with clients and as per quality standard set by Project Delivery Framework. 
+Work with a virtual team from different engineering groups within organization and third party vendors, Telco s, Business partners with respect to design, planning, procurement and implementation of complete infrastructure solutions and services Managing scope, cost, schedule, and contractual deliverables, which include applying techniques for planning, tracking, change control, and risk management Liaise with pre-sales, Solution Architect, Account team on all commercial matters affecting the project starting from RFP to Solutioning the Requirement and Implementing the same Regular communications with the stakeholders on project progress Manage issues and track opportunities and ensure numbers are met Ensure continuous stakeholder buy-in and pro-actively provide regular communication and reporting to key stakeholders (progress, cost, compliance, etc.) 
+Complete all project deliverables on time, within budget and to a level of quality that is acceptable to sponsors and key stakeholders 
+Initiating change controls as and when required based on the requirements Monitoring Procurement orders with vendors Work with the Delivery Integration Team to ensure that all relevant Teams within HP and alliance teams are engaged to deliver the service at Implementation 
+Responsible for remote coordination of infrastructure implementation/integration To engage and manage technical resources to deliver the project plan Analysis of projects received from the client. 
+Access and deliver the cost sizing and projects to the client. 
+Liaise with billing team, Account billing contact and Client for finance on payment schedule and invoicing Point of contact for the client for all project Management and budgeting related activities and clarifications. 
+Point of contact for HP Leadership team on status and reporting of the cost sizing sent to the client. 
+Conduct meetings with the Project managers, engineers and the client to discuss and assess the requirements of the project. 
+Consolidate, evaluate and present the costing for the project to the client for approval within the required timelines. 
+Always Client facing which requires excellent communication skills, negotiating and evaluation skills and strong decision making skills within the set stringent timelines. 
+Previous Employers 
+I. Organization: 
+Avaya India Pvt. Ltd. 
+Location: Hyderabad Designation: Software Engineer Tenure: 
+May 08 to Nov 10 (initial 8 months on third party payroll of M/s Magna 
+Infotech Pvt. Ltd.). 
+Job profile: 
+Support all analysis and design activities, and closely work with other teams involved in the project, including development team, testing team and business users. 
+Product Portfolio: Avaya Media Servers- S8xxx series servers, all type of Media 
+Gateways (G650, G700, G450 and G350 etc), Avaya Communication Managers (versions 2.x, 3.x, 4.x, 5.x and 6.x), Avaya Aura System Platform, Session Manager, SES 
+(Sip Enablement Services). 
+Integration of Avaya Communication Manager with AES, CMS, Nice Loggers, CDR system etc. 
+Creation and Installation of License & Authentication files as per Customer requirement and Patch updates on media servers and media gateways. 
+Managing World-Wide Customers of Avaya for new installation, Changes and Additions in existing setup. 
+Diagnose the existing set-up and proposing the solution as per to cater customer needs and to avoid any design conflict. 
+Designing Call Center Solutions for Global Customers like RBS, McKinney, Verizon, AIG etc. 
+Troubleshooting issues reported by Customers which needs immediate attention and as per SLAs Handling Escalations and providing RCAs to Sev 1 issues. 
+Strong knowledge of Avaya Aura (new SIP based Architecture), Session Border 
+Controller (SBC), SIP trunking and SIP telephones. 
+Mentoring new joiners to ramp up quickly and delivering trainings to team members. 
+II. Organization: Citigroup Global Services Ltd (CGSL-on third-party payroll of M/s IT Source India Pvt. Ltd.) 
+Location: Mumbai Designation: Team Leader 
+Tenure: Dec 06 till May 08 
+Job profile: 
+Managing Citigroup s International- Avaya Contact Center Solution for 3000+ users. 
+Successfully lead Voice team of CGSL, which consists of 12 members. 
+Responsible for handling user escalations and assisting Level 1 team for closing the 
+MAC request. 
+Providing Level 2 support for Avaya Solution. 
+Administration, Configuration and Troubleshooting on Avaya S8700 Media Server, Avaya G650 Media Gateway, CMS, Audix, Symon and Nice Logger. 
+Commissioning of E1/T1 trunks on PBX end along with cabling on MDF side. 
+Planning and implementation of Projects for the upcoming business requirements. 
+Programming and Designing of Call Flows for new processes while handling new projects. 
+Document preparation for quarterly audits on Avaya/Nice/CMS as per CITI Group 
+Information security policies. 
+Validating Daily/Weekly/Monthly reports submitted by Voice team and then submitting the same to higher management. 
+Co-ordination with Vendors for link related and service related issue, whenever required. 
+III. Organization: ICICI Domestic Call Centre (on third party payroll of M/s Beltronics Consultancy) 
+Designation: Telecom Support Engineer Location: Mumbai 
+Tenure: Aug 06 to Dec 06 
+Job profile: 
+Administration and Maintenance of ICICI s 
+Voice Domestic Contact Center solution Hands on exposure on Avaya S8700 Media Server, Avaya G650 Media Gateways, Avaya 
+CVCT server, Avaya CTS server for Siebel and Avaya CMS server. 
+Call flow design and programming for various ICICI Bank products. 
+Troubleshooting and providing RCA (if required) for reported issues. 
+Engaging different teams and vendors whenever required. 
+IV. Organization: IBS, which later on merged with Unicom Infotel Pvt. Ltd. 
+Designation: Sales Engineer Location: Mumbai 
+Tenure: Dec. 04 to March 06 
+Product Profile: Siemens-Digital EPABX-Hipath Series, Creative-Analog PBX & NCC-EPAX Systems 
+Job profile: 
+Demand generation. 
+Network development Service after sales Wide coverage Customer relationship Financial discipline Personal Information 
+Date of Birth: 9th May 1982 
+Passport Number: G8951973 
+Home Town: C28/534 Ganesh Darshan CHS, Sector 5, Charkop, Kandivali (West), Mumbai-67 
+I hereby declare that all the details furnished above are true to the best of my knowledge and belief. 
+Place: Bangalore 
+Signature 
+(NIRAV SHAH) 

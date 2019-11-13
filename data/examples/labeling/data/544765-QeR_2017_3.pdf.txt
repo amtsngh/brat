@@ -1,0 +1,101 @@
+GREG ABRAMTSIS Cell: 650.307.4648 E-mail: greg_abramtsis@yahoo.com 
+OBJECTIVE 
+QA/Test Lead / Senior Engineer 
+PROFESSIONAL SUMMARY 
+Total 15 years of software and hardware QA/Test experience with large-, medium- and small-size companies in the desktop and mobile client - server application, telecommunications, and networking arenas. 
+Regulated industries: banking 4 years, medical record 4 years 9+ years of QA/Test leadership; 8+ years of project management. 
+EXPERIENCE SUMMARY QA/Test: 
+Defined short-, medium- and long term QA objectives and tied them to the time line. 
+Developed overall QA strategies to achieve specified objectives. 
+Developing criteria/matrices to monitor QA organization performance through out all phases of PDLC. 
+Established quality parameters and implemented metrics to monitor, analyze and improve product quality. 
+White and Black box Functionality, Regression, Stress, Performance, Alpha and Beta testing. 
+OSI model (all 7 layers), Test, Quality, Reliability, and Inspection methodologies. 
+Worked with OFF shore teams on several simultaneously ongoing high complexity projects. 
+Wrote and executed test plans/procedures/cases in both Waterfall and Agile environments. 
+Automation: 
+Familiarity in coding with Perl, TCL, C, C Shell and Assembly Language. 
+Autotest, Selenium, Junit, JMeter, QA Partner, Silk, Test Director, Win/Load Runner, Smartbits, Ameritech, LoadSim. Built and maintained the library of the test cases and the functions the test cases were comprised of. 
+Developed automation strategies by applying complex approach to automation focusing on manual labor reduction. 
+Developed automation criteria specifying what test cases and in what order should be automated. 
+Defined criteria to increase flexibility and usability of automated test cases. 
+Software: 
+Mobile SDK for iOS and Android. MongoDB, Redfish, Tomcat, Apache, Passenger, RabbitMQ, Ejabberd, Ruby, Capistrano, OpenSSL, OIDC. 
+J2EE, JavaScript, AJAX, JSP, XPATH, CSS, HTML, HTTP, XML, .NET, IIS, Active Sync, Visual Studio. 
+MAPI, SMTP, Outlook 2000/2002/2003, Active Directory, Exchange 5.5/2000/2003, LoadSim. 
+GUI, API, CGI, EDI, EDC, Visio, 
+Web Service (SOAP), Win service, AAA, Radius, Kerberos. 
+NMS for COS/QOS cards, Cable Modems/Head ends, 100/1000 Ethernet, FDDI and ATM/SONET switches. 
+NIC drivers for both Windows and Unix Platforms. 
+CoS/QoS card drivers for both Windows and Linux platforms. 
+Highly sophisticated software algorithms for the network performance analysis software. 
+SS7, SIP, SDP, GSM, SLIP, PPP, Ethernet, ATM/SONET, T1/DS1, DS3, TCP/IP, RIP, OSPF, RSVP, VPN, Spanning Tree, SNMP, CAN Bus. 
+Hardware: 
+Mobile iOS and Android tablets and phones. 
+L2, L3 Switches and Routers; Network Interface Cards for both Windows and Unix/Solaris platforms. 
+CoS/QoS cards prioritizing Voice/Video/Data over IP on both Windows and Linux platforms. 
+MAC protocols (802.3, 802.11, DOCSIS, CanBus). DOCSIS and ComUNITY Cable Modems as well as Head ends. 
+PSTN, CO, PBX, high complexity Voice Mail systems. 
+Microprocessor-based digital and analog PCBs. 
+Schneider inverter, Kokam batteries. 
+Customer Service / Sales Support: 
+Developed CS procedures and Service Level Agreements (SLA). 
+Worked directly with the customers resolving issues found in the field. 
+Collected and summarized customer requirements and conveyed them to Marketing. 
+Configured and supported both hardware and software used during demos and trade shows. 
+Worked in 24*7*365 QA/CS schedule to quickly and efficiently address customer s issues. 
+Collaboration/Configuration/Release/Development /Mobile application distribution tools: 
+Experience with Jenkins, BitBucket, Git, Gerrit, SVN, CVS, Eclipse, X-Code, Fire Bug, Charles, TestFlight, TestFairy. 
+Managed build version control for iOS,/Android/Windows/Unix platforms. 
+Established the flow of released code from development engineers to compiled and archived deliverables. 
+Managed installation releases in development/QA/staging/production release chain. 
+Lab Management: 
+Developed Lab configuration requirements as a part of automation strategy. 
+Designed requirements for configuring both Windows and UNIX hosts as well as for network architecture configuration. 
+Installed, administered and supported both Windows and Linux as well as wired and wireless networks. 
+Maintained hardware resource allocation schedule. 
+Project Management Techniques: 
+SCRUM, Kanban, JAD, RAD, SEI CMM, Product Development Life Cycle, Change Control Management. 
+MS Office Tools: Word, Excel, Power Point, Outlook, and Project. 
+Regulations/Standards: 
+Strong knowledge of both the Waterfall and Agile (SCRUM) models. 
+IEEE, ISO 9000, CMM, Bellcore. 
+FDA 21 Part 11, SOP, CAPA. 
+Platforms: iOS, Android, UNIX/Linux , Windows 8/10, 2008 Server, AWS, GAE 
+Data Bases: 
+MySQL, Mongo, Oracle, Informix. 
+Internet Browsers: IE, Mozilla Firefox, Safari, Chrome. 
+Bug Tracking /Test case management tools: Bugzilla, JIRA, Mantis, Elementool, Trac, Testrail. 
+Development tools: Eclipse, ADB, X-Code, Charles, Firebug. 
+Languages: English, Russian. 
+PROFESSIONAL EXPERIENCE 
+04/2016 present QA Lead. 
+Flux (Google spin off), San Francisco, CA 
+Led company wide QA initiatives reporting to the director of Engineering. Built and managed local (3 people) and offshore (8 people) QA teams. Setup QA processes and built QA infrastructure throughout the company. Developed automation strategy using Autotest framework. Managed weekly release cycle.Designed test cases and tested Grasshopper, Revit, Dynamo, Excel plugin as well as 
+OIDC functionality. 
+08/2015 
+01/2016 Sr QA Manager. 
+Striiv, Redwood City, CA. 
+Led strategic test initiatives, test coverage requirements, and test documentation for both local and off shore teams. Drove test execution against product development life cycle for both software and firmware. Led the test release cycles for projects and ensure successful qualification prior to launch. Developed test infrastructure, tools architecture, and maintenance. Built a collaborative working relationship with development, product management, operations, and all partners. Geometry engine validation. 
+10/2013 
+08/2015 QA Guru - Manager. 
+Vungle, San Francisco, CA. 
+Built and managed the QA group of 4 engineers. Established QA and CS SCRUM process. Used Framework for Integrated test -FIT to convert requirements into test scenarios/cases, to provide test coverage, and monitor testing progress. Tested Android and iOS SDKs. Used X-code and Eclipse to analyze crashes. Used Charles for SDK Server communication analysis. Selected/managed third party compatibility testing effort. Built and managed CS group of 2 as well as customer s expectations. 
+10/2012 
+10/2013 Senior QA Engineer - Lead. 
+SunEdison, Belmont, CA. 
+Led QA, CS and sales activities. Designed test strategies for testing Distributed Energy Storage System (Inverter, Battery and Solar panels) connected to the electrical grid and managed from the cloud; gateways to collect data from devices attached to solar panels, and to transfer to the central Server; software that analyzes the collected data, performs billing and forecasting. Set up and managed test lab with Ejabberd, RabbitMQ, Apache, and MySQL servers in Oracle VirtualBox environment. 
+12/2007 09/2012 QA Manager. 
+News Alpha, Foster city, CA. 
+Designed strategy for testing highly sophisticated algorithms analyzing how financial market gets influenced by news. Set up controlled data sets used to establish algorithm baseline, and to verify algorithm behavior. Verified algorithm 's outcome when the real date was used. Set up QA processes around Bugzilla used for bug tracking and test case management. 
+07/2004 
+11/2007 Director of Quality Control. 
+Ninaza, San Mateo, CA. 
+Built and managed 2 QA groups (13 people). Set up QA processes focused on compliance with FDA Part 11 requirements. As the result of my work the company was able to successfully pass multiple industry required audits. 
+03/2002 - 06/2004 Quality Assurance/Release/Customer Support Manager. 
+MobileFrame, San Jose, CA. 
+Built and managed QA/Release/CS teams 12 people in total. Set up both internal and external processes. Managed milestones/deliverables, risks, resources for multiple projects. Designed test strategies, test plans, test cases. 
+10/2000 - 10/2001 Quality Assurance Manager. 
+Dorado Corporation, Foster City, CA. 
+Built QA group of 18 (7 local and 11 in India) engineers. Tested functionality and performance of Loan application servicing 30.000 users at a time. Prepared QA audit documentation (process descriptions, test plan/cases/bugs/artifacts, etc.} 
+EDUCATION MSCS, Moscow Electronic College. BSEE, Moscow Railway College. 

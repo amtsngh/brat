@@ -1,0 +1,94 @@
+AJEET KUMAR SQL DEVELOPER 
+Mobile: +91-8750909156 
+SUMMARY 
+2+ year s compound experience in IT, ERP, SQL Server database development experience as ERP 
+Consultant. 
+SQL queries, Stored procedure & Triggers, Database Administration in SQL 2000-05,08,12(Database 
+Backup, Database Restore) Good experience in Excel 2007/2010. 
+Well versed with RDBMS like MS-SQL server. 
+Good in Transactions, Error Handling . 
+Basic knowledge in Designing and developing reports using SSRS. 
+Good Communication, interpersonal skills with strong analytical and problem solving skills. 
+Basic knowledge about SSIS Packages. 
+TECHNICAL QUALIFICATION B.Tech 
+:- First Division from UPTU (Lucknow). 
+WORK EXPERIENCE 
+Working as Technical Consultant with Cogniscient Business Solution, Noida from may 2015 till date. 
+TECHNICAL SKILLS 
+Database SQL Server 
+Languages 
+T-SQL,SSIS Basic ,SSRS 
+Operating systems 
+Windows 2003/2008,XP,Window 7 System Design and development Analysis, Documentation, Implementation and User training. 
+Front End Tools 
+Microsoft SQL Server 2005, Microsoft SQL Server 2008. 
+Crystal Reports . 
+ENTERPRISE ASSET MANAGEMENT EXPERTISE 
+Package 
+MiSAP ,HR-Eye Functional 
+Well conversant with Inventory, Purchase, Sale,Production,Shipping, Item codification, Customer codification, Customization of business process, HR PAYROLL, Accounting. 
+Technical 
+SQL queries, Stored procedure & Triggers, Database Administration in 
+SQL 2000-05,08,12(Database Backup, Database Maintenances, Database Restore) PROFESSIONAL EXPERIENCE 
+Project 1 Project Name 
+INKO Pvt. Ltd Responsibility Development, testing, maintenance 
+The project Inventory Management, Sale, Purchase , Accounting Leave Management System ,Payroll Process Design reports in Crystal Report Operating System Windows 2008-12 advanced Server 
+Language T-SQL 
+Database MS-SQL Server 2008 
+AJEET KUMAR SQL DEVELOPER 
+Mobile: +91-8750909156 
+Contribution: 
+As Developer, I am responsible Understanding the requirements. 
+Analyzing and understanding the Functionality. 
+Written Stored Procedures and scheduling the SSIS packages for the repetitive update of database. 
+Bug Fixing and dealing with Export issues and Import issues. 
+Project 2 Project Name 
+Tropilite Foods Pvt. Ltd 
+Responsibility Development, testing, maintenance 
+The project Inventory Management, Sale, Purchase , Accounting and C&F Module 
+Integration with SAP ERP. 
+Design reports in Crystal Report 
+Contribution: 
+As developer, I was responsible for Collected all the required specifications of input data. 
+Analyzing and understanding the SSRS Functionality. 
+Analyzing the approach in which SSRS report should be developed. 
+Restructuring the XML as per the approach. 
+Implementing the same functionality in SSRS reports which are them in Crystal Reports. 
+Achieving things through work around which are not directly supported in SSRS. 
+Bug Fixing. 
+Project 3 Project Name 
+Parker Electronics Pvt. Ltd 
+Responsibility Development, testing, maintenance 
+The project Inventory Management,Sale, Purchase 
+Design reports in Crystal Report 
+Contribution: 
+As developer, I was responsible for Collected all the required specifications of input data. 
+Support HR/Payroll and customize some processes 
+Develop Ledger report 
+Bug Fixing. 
+Project 4 Project Name 
+Fine Technologies 
+Pvt. Ltd 
+Responsibility Development, testing, maintenance The project Inventory ,Purchase ,Sale, Accounting 
+Leave Management System ,Payroll Process 
+Punching Machine Integration 
+,SAP Integration Design reports in Crystal Report 
+Contribution: 
+As developer, I was responsible for 
+Collected all the required specifications of input data. 
+Support HR/Payroll and customize some processes Develop Ledger report 
+Bug Fixing. 
+AJEET KUMAR 
+SQL DEVELOPER 
+Mobile: +91-8750909156 
+PERSONAL DETAILS 
+Date of Birth : 12th , Sep 1993 
+Present Address 
+Marital Status : 
+: 
+Kala Pathar Nyay khand 1st Indrapuram Ghaziababd. 
+Mobile: +91-8750909156 
+E-mail: ajeet9156@gmail.com 
+Single 
+Languages Known : English and Hindi. 
+(Ajeet Kumar) 

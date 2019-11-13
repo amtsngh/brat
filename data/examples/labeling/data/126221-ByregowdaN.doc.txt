@@ -1,0 +1,97 @@
+RESUME BYREGOWDA.N 
+Mob: +91-9964572443 
+Email: gowda.n24@gmail.com (mailto:gowda.n2@gmail.com) Objective 
+To achieve greater heights in the field of Information Technology in a professionally charged environment where there is an emphasis on learning and ample opportunities for me to take part in the growth of the organization as well as myself. 
+Summary of Skills 
+Having around 6 years of experiencein the field of Software Development. 
+Web Application Development using Node JS, Angular JS ,Express JS , Mongo DB 
+Extensively Worked on ORMs like Mongoose and Sequelize (promise based ORM) TDD Approach using Mocha , Chai , Chai jQuery , Sinon and stubs 
+Extensive Knowledge in creating Web Applications using Microsoft Technologies like, C#.Net, ASP.Net MVC, ASP.Net Web API , Entity Framework ,VB.Net, ASP.NET, ADO.Net, WCF, SQL Server 2005/ 2008, and SSRS for developing different kind of products. 
+Worked extensively with Version Managers like GitHub, Team Foundation Server, Visual Source Safe 
+Certified Scrum Master with Good experience with agile development 
+Good Team Player with excellent communication skills Ability to provide leadership, motivation and strategic direction to multifaceted team. 
+Career Profile 
+Currently working in Ernst & Young India Pvt Ltd, Bangalore as Senior Software Engineer from Dec 2015 to Till Date. 
+Ciber Inc Pvt Ltd., Bangalore as Consultant from June 2014 to Dec 2015 
+Currently EF Information Systems Pvt Ltd, Bangalore as Software Engineer from Oct 2012 to May 2014. 
+Sharaan InfoSystems Pvt Ltd., Bangalore as Software Engineer from Aug 2010 to Oct 2012. 
+Qualifications 
+Degree Specialization University Year of Passing 
+Bachelor Of Engineering (B.E) Electronics and Communication Sri Krishna Institute of Technology, Bangalore, 2009 Core Competencies & Proficiencies 
+Web Technologies Node JS, Angular JS, Express JS, Javascript,Jquery,HTML5,CSS3,Bootstarp,Web Api, Asp.net MVC WCF, Web Services, Ajax, HTML, XML. 
+Databases Mongo DB, SQL Server 2008 and 2005 Object Oriented Languages 
+C#.Net and VB.Net Data Access Technology Entity Framework,LINQ,ADO.NET 
+Tools MS Visual Studio, TFS, SVN, GITHUB, JIIRA. 
+Reports SQL Server Reporting Service (SSRS). 
+Project Profiles: Ernst & Young India Pvt Ltd , Bangalore Project Name Advanced Compliance Toolkit 
+Client EY 
+Technologies Node JS, Angular JS, Sequelize ORM, MySQL, Express JS. Mocha, Chai 
+Role Associate Technical Lead 
+Project Description 
+Advanced Compliance Toolkit is a web application tool for AML including the on-going centralization process, an expanding regulatory focus on customer risk and accelerating scrutiny of AML Analytics and model efficacy. It include approval at different stages so that its approved by the BLA, HLA at different stages. Setting of threshold values for configurations and Generating metrics based on the data from the IBM Mantas tool and is tuned for different segments and alerts being generated for the segments and carried out with sampling and optimization for the worthwhile alerts and optimized values is being generated for the input data . 
+Roles & Responsibilities 
+Actively involved development using Node JS, Angular JS, Sequelize ORM, SQL & express JS. 
+Unit Testing with Mocha and Chai. 
+Providing mentoring to new joiners. 
+Ciber Inc Pvt Ltd , Bangalore Project Name DIS 
+Client Augusta University 
+Technologies NodeJS, Angular JS, Mongo DB, Express JS, GitHub Role Senior Consultant 
+Project Description 
+A web based multitenant system to manage processing a large volume of forms for the purpose of insurance enrolment. The system includes views for various personas and an API that allows an external system to kick off and report upon various form processes. Its also a marketplace that combines the management of and enrolment in benefits into one experience: eliminating the hassle day-to-day benefits administration for administrators and providing a beautiful, streamlined experience for individuals Roles & Responsibilities 
+Actively involved development using Node JS, Angular JS, Sequelize ORM, SQL & express JS. 
+Unit Testing with Mocha and Chai. 
+Worked with Clients, Project managers, Business Analysts to understand software requirements, business cases and proposed solutions Providing mentoring to new joiners. 
+Project Name Tower Loan 
+Client EMC2 
+Technical Requirement AngularJS,C#,ASP.NET MVC 4, Entity Framework, LINQ, jQuery, Java Script, CSS, Visual Studio 2013, SQL Server 2008, GitHub Role Senior Consultant 
+Tower Loan is a financial corporation and helps them to carry out their business activities. 
+It is a banking application and is used across 170 branches of this company. This application helps in preprocessing of loans by taking the loan application details of customers and validating their eligibility for the loan, payment schedule with the details of the customer in compliance with the federal law and also hold the personal, family, references and property details of the applicant. 
+Roles & Responsibilities 
+As a Senior Consultant: 
+Worked with Clients, Project managers, Business Analysts and Architects to understand software requirements, business cases and proposed solutions. 
+Actively involved in application development using Angular JS, ASP.Net MVC 4, SQL Server. 
+Authored Technical, Functional design and Unit Test Case documents 
+EF Information Systems Pvt. Ltd., Bangalore (October 2012 June 2014) 
+Project Name LCC Online Application 
+Client EF Information Systems Pvt Ltd 
+Technical Requirement Angular JS, ASP.Net MVC 4, Entity Framework ,C#, WCF, LINQ, jQuery, Bootstrap, Java Script, CSS, Visual Studio 2012, SQL Server 2008, VSS, TFS 
+Role Software Engineer 
+Project Description 
+LCC Online Application is an online web application developed to maintain the operation carried out between the family and the aupair. The Host Family Application collects the information related to the Families and their regarding the program and involves in meetings between them and this application acts as a backbone for the Hostfamily and Aupair application. LCC Online Application consists of many integrated solutions which determines the process carried out by the LCC and determining the workflow of LCC 
+Roles & Responsibilities 
+Actively involved in application development using Angular JS, ASP.Net MVC 3, SQL Server 2008. 
+Review project goals and make adjustments as needed. 
+Handled few sprints as a Scrum master Project Name Tellus and Web Marketing Tool 
+Client EF Information Systems Pvt Ltd 
+Technical Requirement 
+ASP.Net MVC 3, Entity Framework ,C#, LINQ, jQuery, Java Script, CSS, Visual Studio 2012, SQL Server 2008, VSS, TFS 
+Project Description 
+Tellus is CRM matching software, which stores the details of Host families, Au pairs, LCC and Staffs. Through Tellus users monitor the entry and exit of Au pairs from various countries into USA where our HFs are based. Tellus acts as a central hub in our business as many Finance, Compliance and Matching applications connect to it. 
+Web Marketing Tool (WMT) is a customized content management system that allows publishing, editing and modifying content as well as maintenance from a central interface. The core function of WMT system is to present information on websites, which allows Business users to add, modify and remove content from a web site them self without any technical knowledge. 
+Roles & Responsibilities 
+Actively involved in application development using Angular JS, ASP.Net MVC 3, SQL Server 2008. 
+Review project goals and make adjustments as needed. 
+Handled few sprints as a Scrum master Sharaan Infosystems Pvt. Ltd., Bangalore (August 2010 - October 2012) 
+Project Name Estore Online Application 
+Client Veer-O-Metals 
+Technical Requirement . Net 3.5, C#, ASP.Net, VB.Net, Java Script, CSS, 
+Web Services, TFS 
+Project Description 
+This project is a complete solution to maintain raw material and finished products stock for the Mechanical manufacturing company. Veer-O-Metals is basically an E.O.U unit hence it need to keep track of the Annexure and Customs related orders. 
+There are different department like stores, production, purchase, GRN, quality controls, dispatch etc. 
+All raw materials inventory will be maintained in stores, production details, materials consumed for a product will be maintained in production department and the Production Department keep track of the Outgoing material . 
+Roles & Responsibilities 
+Actively involved in application development using ASP.Net, C#.Net, VB.Net. 
+Created complex SQL queries, data scripts, stored procedures, views and functions. 
+Involved in Unit testing, Integration testing, defect tracking and bug fixing of the application. 
+Guided and mentored new joinees. 
+PERSONAL PROFILE 
+Fathers Name : Kempaiah 
+Mothers Name : Rajamma 
+Date of Birth : 24th August 1988. 
+Marital Status : Single 
+Contact No : 9964572443 Email ID : gowda.n2@gmail.com (mailto:gowda.n2@gmail.com) 
+I hereby declare that information furnished above is true to the best of my knowledge. 
+Place: Bangalore 
+Date: (BYREGOWDA N) 
+Page 1 of 4 

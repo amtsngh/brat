@@ -1,0 +1,219 @@
+ if "Error! Reference source not found." = "Error! Reference source not found." "" IND/SEAGATE/AP- 10052/ Neeraj Kumar Srivastava Current Location: Selangor (Malaysia) 
+Email: neerajdba@outlook.com 
+Total IT Experience: 9.7 Yr 
+Cell- +60142345026 
+Experience Summary 9+ years of experience in the field of information technology and predominantly associated with Oracle/MSSQL Database & Application (EBS/Fusion Middleware). Extensive experience in Database/Apps/Fusion Middleware (Weblogic, SOA, OIM, OAM, OMCS, WebSphere, Webmethod, MQSeries Tomcat, OBIEE), Cloning, ADOP/Patching, PCP configuration, Up-Gradation of database & application and Integration of non RAC to RAC. 
+Oracle Apps DBA Skill Set: 
+Installation and Design of Database 9i/10g/11g.x.x/12c single & multi Node 
+Installation and configure of RAC 11.XX versions 
+Installation of 11i/R12.1.3 and R12.2.X single & multi Node 
+Installation and configuration of Middleware 10g and 11g products 
+Database & Application of Patches 
+Installation of VCP 11i/R12.x (ASCP/APCC) and configuration Manage of load balancer (BIG-IP LTM) 
+Manage and configuration of workflow mailer tool (Appworx/Atomic) Installation and configuration of Discoverer 
+Maintenance on OMCS (Oracle Managed Cloud Services) 
+Installation and configuration of OBIEE10g/11g and upgrade Installation and configuration of Webmethod, MQSeries OBIEE admin task, performance tuning, configuration and integration with EBS 
+Installation and configuration of OIM/OAM/SSO 
+Installation and configuration of Agile PLM 
+Installation, configuration and upgrade of Demantra 7.1.x.x/12.2.5 Cloning (Application and Database) from Production/Non Production Servers 
+Maintenance of objects using AD Admin utility Maintenance of object space and table space in different tablespace 
+Troubleshooting for the production database & Application 
+Configuration of PCP & Integration of non RAC to RAC 
+Monitoring Server log and Domain log, Application Deployment, and performance tuning of WebLogic. Setting the JVM parameters like maximum and minimum heap size in WebLogic startup scripts. 
+Configured IIS Proxy Plug-in for WebLogic Servers. 
+Configured SiteMinderSSO (Single Sign on) on IIS as a web agent. 
+Installation and Configuration of LDAP and SSO for WebLogic based products such as OBIEE, BI Publisher and UCM 
+Configured and Maintained the WebLogic and CSS Load balancing Clusters. 
+Maintained Queues, Topics, in WebLogic JMS Server and MQ Series. Configured the Message Bridges between JMS Server and MQ Series. 
+Configured and administered JDBC Connection Pools/Multi Pools/Data Sources on Web Logic Server 7.0.1.0/6.1. 
+Involved in trouble shooting and fixing day-to-day problems of the applications in production, production-Fix and testing environment. 
+WebSphere Administration installation & configuration 
+WebSphere Performance Tuning 
+Technical Skills: 
+Expertise in enterprise and standard editions of Database 9i/10g/11g/12c, Oracle Apps 11i/R12.XX, MSSQL 200.x and Administration and Installation, Application and Database patch, monitor concurrent managers, user creation, Up- gradation and Configuration, Creating Databases, Tablespaces, Data objects, Users/Roles, setting Privileges, Indexes, user logins/passwords, 
+Good knowledge ASM, ADDM, and AWR 
+Installation and configuration of RAC and Data Guard 
+Installations, Implementations, upgrades, AD Utilities 
+Configuration RMAN 
+Installation and configure of RAC 11.XX versions Good knowledge of load balancer (BIG-IP LTM) 
+Good Knowledge of workflow mailer (Atomic) Installation and configuration hardware and Software RAID 
+Installation, Troubleshooting and Maintenance of IBM AIX, RHEL and SUN Solaris 
+Planning for the enhancement of the organizations IT infrastructure 
+Installation Windows servers 2003/08 and configuration Active directory. 
+Installation and managing EMC (Retrospects) Installation and managing VMware server (ESXI) Installing and configuring in various methods of the server (DNS, NFS, DHCP, DFS and NIS) Creating and maintaining the users and group accounts. Implementing securities All Administrative Tools, System Policies and Security Policies 
+Installation and Configuration of Antivirus (Symantec Enterprise Protection Management Server) and deploy the client with various policies, like blocking USB, Temper Protection, Application Control, Reporting and alert management 
+Set up the new site from scratch, worked out from designing to implementation, all networking, Server Room, Rack, UPS, Mux, Internet lease line, EPBAX System 
+Migration of office infrastructure from Systems, Servers, Rack, Switches, Router almost all inventory related to IT with zero downtime 
+Creating and maintaining the users and group accounts. Implementing securities All Dial Up, Cable Modem, ISDN Modem, Connection, Configuration And Troubleshooting. 
+Domain and Workgroup Network Environment Design Development and Troubleshoot 
+Various OS and Network Troubleshoot Monitoring 
+Employment Details: 
+Employer Position Period Location 
+Western Digital Technology Sdn Bhd. (Malaysia)(Payroll GMA Tech Consulting Sdn. Bhd.) 
+Senior Oracle Apps DBA July 2013 to till Malaysia (Selangor) DBA Lounge Pvt. Ltd. 
+Senior Oracle Apps 
+DBA Jan 2013 to June 2013 Delhi (PNG) 
+Rapidflow Apps Inc. Oracle Apps 
+DBA 
+Feb 2012 to Dec 2012 Noida (China) Surya Corporation Ltd. (Surya Pharmaceutical Ltd) Oracle Apps DBA December 2010 to Jan 2012 
+Chandigarh 
+BOSS International INC.(BOSS Computec Pvt.Ltd) System & Database Administrator March 2007 to November 2010 Noida 
+Responsibilities: 
+Organization 
+: Western Digital Technology Sdn Bhd. (Malaysia) 
+Duration 
+: July, 2013 to till date 
+Designation 
+: Senior Oracle Apps Fusion Middleware DBA 
+Website : http://www.wdc.com/en/ (http://www.wdc.com/en/) projects at Western Digital 
+Sdn. Bhd 
+Client: Western Digital Technology Sdn Bhd. (In-house Project). 
+Involved end to end VCP/Demantra/Rapid Planning implementation and upgrade 
+Involved to EBSR12.1.3 upgrade to R12.2.2/R12.2.3 and R12.2.5 
+Managing Asia specific DBA team (4 member team) 
+Maintenance and Support of Oracle 11i/R12.x.x instances, Prod and non-Prod 24/7. 
+Up-gradation oracle database 11g R1 to 11g R2 and 12c 
+Up-gradation EBS 11.1.5 10.2 to R12.1.3 and 12.2.3 to 12.2.5 Installation and Up-gradation VCP R12.1.3.9 to R12.2.3 
+Installation and Configuration Demantra and schema migration in EBS DB 
+Converting Database from Non RAC to RAC 
+Supporting functional and technical issues for ongoing up-gradations. 
+EBS 12.2.5 Production Support of 3 Node Apps Tier & 2 Node DB on AIX. 
+VCP 12.3.5 Production and Non Prod Support 
+Applying Patches for DB and 11i/R12.x.x instances. 
+RMAN Backup and duplicate database for Clone. 
+Troubleshooting Performance Issues for 11i/R12.x.x Application. 
+Troubleshooting Concurrent Request and Performance Problems. 
+Troubleshooting Performance Issues for Weblogic 10g/11g and OBIEE 10g/11g 
+Configuration of LDAP and SSO for WebLogic based products such as OBIEE, BI Publisher and UCM 
+Applying patches on production and non-prod Weblogic and OBIEE instances. 
+Created Custom Top and maintaining the custom applications 
+Migration of OAF pages in EBS 
+Involving in automating the system by writing UNIX Shell scripts at the OS and WLST scripts at WebLogic level to minimize repetitive manual tasks for better system monitoring and problem resolution. 
+Analyze and make tuning recommendations for JVM, JMS, Threading, and load balancing algorithms Responsible for recording/documenting information concerning failures & outages in Production and the measures taken to resolve them. 
+Responsibilities: 
+Organization 
+: DBA Lounge Pvt. Ltd. 
+Duration : Jan, 2013 to June, 2013 
+Designation 
+: Senior Oracle Apps DBA 
+Website : http://www.dbalounge.com/ (http://www.dbalounge.com/) projects at DBA Lounge 
+Pvt Ltd. 
+Client : DOW (Department of work) - Papua New Guinea) Onsite & Offshore Up-gradation and migration oracle database 7i to 11g. 
+Up-gradation EBS 11i to R12.1.3. 
+Configuration of PCP 
+Converting Database from Non RAC to RAC 
+Supporting functional and technical issues for ongoing up gradations. 
+EBS 12.1.3 Production Support of 3 Node Apps Tier & 2 Node DB on Linux. 
+Installation and configuration Weblogic 10g and upgraded 11g 
+Client: C&S Electronic Ltd. 
+Supporting functional and technical issues for ongoing Implementations. 
+EBS 11.5.10 Production Support of 2 Node Apps Tier & 1 Node DB on HP-Unix. 
+Maintenance and Support of Oracle 11i instances, Prod and non-Prod. Applying Patches for DB and 11i instances. 
+RMAN Backup and duplicate database for Clone. 
+Troubleshooting Performance Issues for 11i Application. 
+Troubleshooting Concurrent Request and Performance Problems 
+Applying hot patches on production and non-prod instances. 
+RMAN Backup and duplicating database for Clone 
+Supported WebLogic Server Clustering, Load balance, Failover and Performance tuning. Implemented standard backup procedures for both application DB and WebLogic administration DB. 
+Installing, Configuring and troubleshooting middleware server in Windows 2003 Server and integrating with Active Directory 
+Installed and Configured Apache Http Server Plug-In in order for the request to be proxied from Apache Http Server to WebLogic Server. 
+Organization 
+: Rapidflow Apps Software Solutions Pvt. Ltd. 
+Duration 
+: February, 2012 to Dec 2012 
+Designation 
+: Oracle Apps DBA 
+Website: www.rapidflowapps.com (C:\\Users\\nks\\Downloads\\www.rapidflowapps.com) project at rapidflow 
+apps 
+inc. 
+Client 
+1)- JR286 Inc. 
+USA, China and Hong-Kong (Onsite and Offshore)2)- DB Solar Inc. 
+USA 
+Offshore Tools & Technology 
+Oracle Database10g/11g, 11i/R12, RMAN, RAC, Oracle enterprise manager, DBCA/DBUA, oracle Net Manager tool, Configuration and Migration tool. 
+Server IBM Power, Dell, HP, Xeon, Operating System Windows 2008/AIX/Linux/Sun/HP-Unix 
+Team Size 3 Role Oracle DBA (Core/Apps) 
+Responsibilities: 
+Oracle 91/10g/11g.x.x databases support of 24X7productions servers 11i/R12.x.x support of 24X7productions servers. 
+Installation and configured VCP 12.1.1 and upgrade to 12.1.3 on Test and Production server Installation and configured of APCC (ASCP) using OBIEE 10g Test and Production Instance 
+Installation and configuration OBIEE 10g/11g Test and Production Instance 
+Installation and configured SSO/OID Test and Production Instance 
+Supporting Application development team (ASCP, APCC, and Demantra) Maintenance and Support of Oracle R12 instances, Prod and non-Prod. 
+Performing Backup of DB and application instances. 
+Applying Patches for DB and R12.x.x instances. 
+RMAN Backup and duplicate database for Clone. 
+Troubleshooting Performance Issues for R12 Application and RAC DB. 
+Upgrade from Oracle Applications from 12.1.1 to 12.1.3 Troubleshooting Concurrent Request, memory base plans issues. 
+Managing Responsibilities, Request groups, Concurrent programs, Workshifts, Applications, Customized Menus setup etc. 
+Load Balancing Configuration 
+Troubleshooting issues related to Techstack, PCP issues and Concurrent manager , Forms , Jserv , Concurrent Managers 
+Automation of routine activities using shell scripting. 
+Applying hot patches on production and non-prod instances. 
+Organization 
+: Surya Corporation LTD. (Surya Pharmaceutical Ltd.) 
+Duration : December, 2010 to Jan 2012 
+Designation 
+: Database Administrator (Core/Apps) 
+Websites: www.suryacrop.com (www.suryacrop.com), www.suryapharma.com (www.suryapharma.com), www.suryabiopharma.com (www.suryabiopharma.com), project description 
+Client 
+Surya Pharmaceutical Ltd. (Chandigarh) and Surya Bio Pharmacy Inc. (USA) Tools & Technology 
+Oracle Database10g/11g, R12, RMAN, RAC, Oracle enterprise manager, DBCA/DBUA, oracle Net Manager tool, Configuration and Migration tool, tomcat, weblogic Server IBM Power, Dell, Xeon, Operating System Windows 2008/AIX/Linux/Sun 
+Team Size 3 Role Oracle DBA (Core/Apps) 
+Responsibilities: 
+Involved to end to end R12 implementation 
+Installation Oracle Apps 11i/R12 and Database 9i/10g/11g, monitor concurrent managers, Up-gradation, Configuration, Patching and Migration of Oracle Server Software 
+Installations, Implementations, upgrades, AD Utilities (adpatch, Admerge, adadmin, adctrl,) 
+Working as Apps system administrator (User creation & Profile creation etc.) 
+Database Sizing, Tablespace Management and Rollback Tablespace Management, Security Administration 
+Execute scripts for data load and increase table space as required Review description of new database requests or changes to existing databases to understand and determine location and amount of space Monitor databases for operational availability and performance Configuration of listener.ora and tnsnames.ora 
+Creating Password file Design the capacity planning for disk space usage Space Management, which includes table space creation, adding new datafiles Multiplexing Control file, Redo log file and Data files 
+Monitoring the Data file growth and Log file growth 
+Design proper backup methods for daily database backup Taking Backup of database using Logical (Export & Import) and Physical (Hot & Cold) 
+Using User Managed (HOT and COLD) backup and RMAN Backup (Full database backup and incremental backup) 
+Restore and recovery database from any point of failure Configuration and Maintenance RMAN Repository 
+Creating Backup and Recovery Script 
+Database Performance Monitoring and Tuning 
+Organization 
+: BOSS Computec Pvt. Ltd. 
+Duration : 
+Feb 2007 to November 2010 
+Designation : 
+Database Administrator (Core & Apps) 
+Websites : www.bosscomputec.com (http://www.bosscomputec.com) 
+www.bossintl.com (http://www.bossintl.com) project description Client BOSS International USA 
+Tools & Technology Oracle Database9i/10g/11g, Apps 11i/R12, RMAN, RAC, Oracle enterprise manager, DBCA/DBUA, oracle Net Manager tool, Configuration and Migration tool. 
+Server IBM Power, Dell Xeon 
+Operating System Windows 2008/AIX/Linux/Sun 
+Team Size 4 Role System and Database Administrator 
+Responsibilities: 
+Installation and configuration Oracle Application 11i / R12. 
+Maintaining Oracle Application 11i / R12 Oracle 9i, 10g and 11g on Solaris, Linux, AIX, HP Unix etc Concurrent Manager Management 
+Database & Application Patching 
+Backup & Recovery Procedures 
+Performance Monitoring & Tuning 
+Database Reorganization 
+Administering Database and application Backup RMAN 
+Database health checkup and maintenance (Consistency Checks on tables/tablespaces, rebuilding the indexes, Schema analyze Dbverify etc). Calculates optimum values for database parameters such as amount of computer memory to be used by databases Specifies database access levels for users Tests, and corrects errors to databases Work with outside vendors to resolve database problems, take ownership and resolve to completion Responsible to resolve problems assigned per help desk queues Run statistics and indexing as required Monitor the Index fragmentation and rebuild the index Monitor the Raw migration and raw chaining problem and fix it Monitor databases for operational availability and performance Configuration of listener.ora and tnsnames.ora 
+Creating Password file Design the capacity planning for disk space usage Space Management, which includes table space creation, adding new datafiles Multiplexing Control file, Redo log file and Data files 
+Monitoring the Data file growth and Log file growth 
+Design proper backup methods for daily database backup 
+Backing up the Backed up files/folder into tape drive using Veritas Backup Exec 11.d for data security Database Performance Monitoring and Tuning 
+Optimizing queries, writing triggers and procedures 
+Education Qualification: 
+Qualification Percentage 
+MCA 70% BCA 68.09% 
+Certification: 
+Oracle RAC (Real Application Cluster) 11g2 certified professional Oracle weblogic 11g Certified Professional 
+Oracle EBS 12.x.x Certified Professional 
+Oracle Certified Professional (OCP) 10g/11g Oracle Certified Associate (OCA) Microsoft certified System Engineer (MCSE) 
+Personal Details: 
+Date of Birth 15th May 1982 Gender M 
+Marital Status Married 
+Nationality INDIAN 
+Present address 
+B-3A-7 Sri Jati 2, Off Jalan Puchong, 58200 Kuala Lumpur, Wilayah Persekutuan 
+Languages Known English and Hindi 
+Passport No. H3856979 
+Email neerajdba@outlook.com 
+PAGE 

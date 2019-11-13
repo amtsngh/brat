@@ -1,0 +1,113 @@
+ CURRICULUM VITAE RAKESH MATHUR 
+MOB.7218353784 
+E-mail-rakeshmathur07@gmail.com red_jod@yahoo.com 
+Professional Objective:- 
+An IT business professional with over 11 years of experience in business analysis, system design, technology project management and data analytics. Significant experience of delivering quality consulting services in Network Security domain. 
+Job Skills:- 1 Configuring site to site tunnel in Cisco PIX and ASA Firewall. 
+2 Configuring Remote Access VPN on Cisco PIX and ASA Firewall. 
+3 Configuring IPS to check the packets which are coming to our network. 
+4 Configure Remote Access VPN on server side and Cisco VPN Client on client side. 
+5 Configure Cisco ACS Server for Authentication of User, Authorization of Users and Accounting of User. 
+6 Configuring of TACACS+ server using Cisco Secure to provide authentication for users accessing various on-line devices. 
+7 Configure Failover between Cisco PIX and ASA Firewalls. 8 Managing device and finding the loopholes of the security threats via doing periodic health check. 
+9 Doing periodic recertification for devices to ensure security complaint as per the Company Policy. 
+10 Configuring WebVpn tunnel in Cisco PIX and ASA Firewall 
+11 Working with CA server using ASA and Router 12 Configuring GETVPN with ASA and Router 
+13 Working with Fort iGATE, Checkpoint and Palo Alto Firewall 
+14 Configuring RSA Envision and RSA Secure I.D 
+15 SSL VPN configure on F5 BIG-IP APM 
+16 Working with Radware link proof and IPS 
+17.Porxy Authentication through Blue Coat and ISA 
+18. Imperva WAF X2510 
+19 Symantec AV and HIPS 
+Professional Qualification:- 
+Completed CCNA(CSCO11467241) 
+Completed CCIE Written (CSCO11467241) Completed CCNP (Routing & Switching) 
+Completed CCSP CCIE Lab (Security) attempt given Completed RHCE (804007100925743) Work Experience:- (1) TECH MAHINDRA LTD: 17TH April-2015 TO Till Now. 
+Working as Associate Security architect Project: - Vodafone India Limited 
+Performed security design architecture activities i,e HLD and LLD. 
+Designed firewall zoning with WAF developed and Capacity Planning and analyze project allocation amongst all portfolios. 
+Developed business requirements documents functional templates, and defect tracker for Risk Services projects. 
+Designed and developed project charter for upcoming projects within Consulting 
+Practices 
+Led the planning, design and execution of developing new team site for global Enterprise Risk Services. 
+Responsible for implementing program management strategies for technology services Functioned as SME for developing the Data center. 
+Maintained technology standards & compliance reports and dashboard leveraging Symantec Datacenter and endpoint solution. 
+Managing SSL VPN and SSL offloading through Web access Firewall (Imperva 
+X2510) Monitoring and analysis the inbound and outbound threats through Web access Firewall (Imperva X2510), Symantec Data center security (6.5) and Symantec End- point security (12.5). 
+Managed Fortigate Firewall (1500 D and 800C) and leading the team for 8 Members. . 
+(2) HCL Technology LTD: 1ST Nov. 2010 to 10THApril 2015 
+Working as Associate Consultant-L3 Project: Johnson & Johnson and Indian Oil LTD. 
+Functioned as team leader for developing the Data center for Indian oil Corporation Ltd. 
+Designed Firewall, IPS, SIEM, RSA token, SSL VPN and Websense Security devices for Data center. 
+Involved in end-to-end project management and delivery translating business needs into technical specifications 
+Delivered business artifacts such as Business Requirements Document, Use-Cases and System Requirements Specifications. 
+Generated SIEM dashboard and varied executive reports for the client as well as internal management. 
+Implemented high volume data processing and analytical capabilities into the IT system. 
+Responsible for conducting the Daily Service Review Call acting as an interface between the Vendor and the Product Line Leads. 
+Review Incidents, Problems and ensure that Root Cause Analysis has been performed across the incident records for all priority levels. 
+Facilitate meetings, problem reviews, conference bridges, and online meetings to disseminate and drive problem closure. 
+Interaction with top management and functional heads regularly. 
+Closure of Major Incidents within the SLA, follow ups with the appropriate technical teams. 
+Sending detailed notification/update to the stakeholders and business leaders at regular intervals on the progress of the activity. 
+Handling Managed services (Problem Management, Chain management, Incident Management). 
+Demonstrated high success rate in providing appropriate solutions/ answers to the customers queries and grievances across the globe. 
+Responding to all Major input regarding unplanned service interruptions from customers and internal Team. 
+Assessing all business proposals for Compliance and Operational Risk in a timely fashion. 
+Handling & supporting Projects from Design and implementation based on requirement from project team. 
+Managing Cisco ASA (5550) Fortigate (800C) & Palo Alto (3020) Firewall and leading the team for 8 Members. 
+Managing Internet link through Radware L.B (202). 
+Managing internet connectivity through Proxy (Microsoft ISA PROXY), Websense 
+Web Security (7.5) and gate-way security IWSVA (TREND MICRO 5.6) 
+Monitor and Analyses the Alert through SIEM tool (RSA Envision-ES5060) Coordinated with the business to design the Data-Center. 
+Review Incidents, Problems and ensure that Root Cause Analysis has been performed across the incident records for all priority levels. 
+Managing SSL VPN through F5-APM (3600), RSA Secure ID(7.2). 
+Monitoring and analysis the inbound and outbound threats through CISCO (4260) , IBM Proventia (GX 5108) IPS and CISCO ISE (3315). 
+(3) HP India Sales Pvt. Ltd. Gurgaon( Dec 16th 2009 to Oct 31st 2010) 
+Working as Network Security Administrator 
+Project: ADECCO. 
+Demonstrated high success rate in providing appropriate solutions/ answers to the customers queries and grievances across the globe. 
+Proactively involved in Customer Meetings & Training Sessions. 
+Responsible for providing technical training on various products to the identified team members across geographies. 
+Support, Implementation, Ongoing Management and Troubleshooting of Cisco ASA 5520, including ACS (4.2) and RSA Secure ID (7.1) 
+Working on NIPS (Radware IPS 1016),Proxy (Microsoft ISA PROXY), VA Scanning (NESSUS),Antivirus (SOPAS) and IWSVA(TREND MICRO 5.1) 
+Member of Incident/Problem & Change team. 
+Reviewing Changes on IPT/IPCC environment before going to change management board for final approval. 
+Handling team of Onsite contractual engineers. 
+Working in Manage Operations team, need to do administration tasks whenever required and maintaining the SLAs. 
+Managing Port scanning through Nessus tool (5) 
+Worked on CISCO switch (3600) and Router (7200) 
+(4) Working with Networkers Home from 1st Sep. 2007 to 30th Nov.2009, Bangalore Email: info@networkershome.com (mailto:info@networkershome.com) as the Network Security Engineer Installing, Configuring and Troubleshooting of ASA-5510, Routers-7200, 3600, 2600, 2500 Switches-3550, 3560, 2950,2600 
+Project Accomplished: 
+1 Responsible for migration of Frame Relay customers to VPN using VPN concentrator & ASA device at client sites. 
+2 Configured, and Implemented ASA Firewall. Configured ASA for failover Using multiple context. 
+3 Implemented a Cisco Security Solution for using Cisco ASA Firewall 5510, 5520 with Fail over, Cisco IDS 4230/4210. 
+4 Implemented Dot1x Authentication for LAN using Radius and ACS server and other Projects with various companies. 
+5. OSWAL data processer (aug 2006-aug 2007) Working as an service engineer and Network engineer 
+Client: Jodhpur municipal corporation (Jodhpur) 
+Environment: H/w: Intel Pentium4, switches, Motorola canopy, Cisco router, STP, and UTP cable O/s: windows xp and Linux S/w: DNS, SAMBA, NIS 
+ROLE: Computer hardware and networking engineer: 
+Built networking connection on server client method Repair the system and trouble shooting on windows ,and Linux 
+Responsible for wireless networking 
+Responsible for Integration testing. 
+Testing and matinees Motorola canopy and other hardware 
+Looking all zone connectivity 6. G.T Computer hardware and networking college (Mar 2005-april 2006) (jaipur) Working as computer hardware ware and networking faculty Environment: H/w: Intel Pentium O/s: Win98, xp, 2000&Linux S/w: DNS, Printclient.squid Web server: apache 
+ROLE: Computer hardware and networking faculty 
+Responsible for developing and testing of Server and other hardware equipment 
+Responsible for system as well as acceptance testing. 
+Teaching work and repairing work Educational Qualification:- 10th Passed from RAJASTHAN Board. 
+12th Passed from RAJASTHAN Board. 
+B.A from Jodhpur University 
+Personal Details:- 
+Fathers Name:- Sh. Hari Prakash Mathur 
+Date of Birth: - 13th Jan 1981 
+Address: - 18/271 C.H.B Jodhpur 
+Gender: - Male 
+Marital Status: - Married 
+Passport no. H8096434 
+Languages Known: - Hindi & English. 
+It would be my conscious endeavor to constantly strive to hone as well as acquire skills and respect the practices and traditions of the organization to the best of my ability. 
+I affirm that the information in this document is accurate and true to the best of my knowledge. 
+Date:- 
+Place:- 
+(Rakesh Mathur) 

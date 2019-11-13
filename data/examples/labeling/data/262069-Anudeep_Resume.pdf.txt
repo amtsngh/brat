@@ -1,0 +1,99 @@
+ A Little About Me: 
+I am currently working as an Android Developer in Sify Technologies, where I am handling the application End to End which works on Supply Chain Management. Experience in developing RESTful based web services using Node.js and having knowledge on Virtual Reality Apps and Unity 
+3D . 
+Summary: 
+Page 2 Tools 
+Android Studio, Android Gradle, Android Eclipse, Android NDK, Git, JIRA, BitBucket, Asana, Google Analytics, GitHub. 
+Platforms 
+Android, Linux,Firebase. 
+Paradigms 
+User experience design, Object-oriented Design (OOD), REST, Web App Development, KISS, Procedural programming, Design Patterns, Rapid prototyping, Cross-platform Development, Plugin- 
+Based Architecture, Network programming, Unit Testing, Agile, Test-driven Development (TDD), Rule-based programming Storage 
+Realm, MySQL, MS SQL, Database Modeling 
+Libraries/APIs ActionBarSherlock, GSON, Firebase Android SDK, Facebook Open Graph API, Twitter API, Android API, Google Analytics API, OpenGL, Google Maps API, Google Calendar API, CITRUS API, SQLite, Picasso,Android Retrofit, Android OkHttp, WebSockets, NineOldAndroids, GitHub API, Jackson, Parse Android SDK 
+Misc 
+Database Design Skills & Abilities: 
+JAVA,Android SDK,Node.js,Angular.js,Express.js,Mongodb(MEAN),SQLITE,NPM,GIT,PHP, MYSQL,Virtual Reality. 
+Professional Experience: Project Title : BdayApp Maker Application 
+Programming/Scripting : Node js 
+Framework 
+: Express js 
+Database : 
+Mongo DB 
+Page 3 
+Role : 
+Software Developer 
+Description: 
+BdayApp Maker is an web application where you can store the videos of your friends birthday wishes and form that videos you will be creating an application and it will be sent to your birthday friend.This contains an admin dashboard where you can upload al l the videos and edit it and create the app. 
+Responsibilities: 
+Involved in Admin panel development using Keystone Js & Node.js. 
+Involved in Web service development to integrate multiple modules. 
+Involved in development using Angular JS. 
+Project: SpotAudit (Android app). 
+Description: SpotAudit is a desktop and mobile application.This Application is regarding the Audits. Generally after any building construction the inspector of the company goes for inspection and he will note the defects in a paper and he will forward tha t to the manager. As manager needs to approve some defects for reconstruction. The contractor once rebuilt, he will send a paper to the manager desk that the work is completed. Here again the manager will send the inspector again for reinspection. This is how the process.so we took further step to modify the things and make this process easier. 
+We developed an mobile and web application which is more easier, effective and paperless System. The mobile app is for inspector where a work will be allotted him by the manager through web app as WBS(Work BreakDown Structure).This means a Building data will be sent to him as Json data for inspection. The inspector will accept the task and goes for inspection. 
+Tasks Performed: 
+Developed complete product structure and Idea 
+UI Design and Development for the Mobile Application 
+Integrated Web services JSON Approach with the Front End Application. 
+Implemented Broadcast Receiver, Service, Alarm Manager, Pending Intent for GPS 
+Location. 
+Implemented push notifications for New Request sending to the associate and Gcm. 
+Used Retrofit for making the networking calls much easier, faster. 
+Used Recycler view which is more advanced version of ListView with improved performance and other benefits. 
+Complete idea developement and SRS preparation. 
+Developed splash screens with good animations. 
+Page 4 Used core php as a web service and MYSQL database and database is connected in PDO style at which it is used to connect to other database also. 
+The app works both in online and offline mode. So SQLITE has been used to store the data in offline mode and REST API is used to sync the data when it is connected to online. 
+Implemented GCM Services for push notifications. 
+Picasso,Android Retrofit, Android OkHttp, WebSockets, NineOldAndroids, GitHub API, Jackson, Parse Android SDK. 
+Project: OFFICE MANAGER (Android app). 
+Description: Office Manager is a mobile application. This Application is regarding the Punch IN Punch out Timings.This is used for attendance calculation,leave request,holiday plan and so many other features. So here the person who comes to the office should connect to internet and he needs to take the pic of his image and along with this his latitude and longitude will be taken in background to just ensure that he is in office. Along with this ,he can update the timesheet,work sheet. 
+Tasks Performed: 
+Used GCM services for push notifications. 
+Developed complete product structure and Idea. 
+UI Design and Development for the Mobile Application. 
+Used Push notifications, Webservices(REST,JSON,XML). 
+Strong in OOPS concept and good at java. 
+Good Knowledge of SQLITE,MYSQL and all the web service is written in PDO Style. 
+Picasso,Android Retrofit, Android OkHttp, WebSockets, NineOldAndroids, GitHub API, Jackson, Parse Android SDK 
+Project: SPOT AUDIT (WEB Application). 
+Description: SpotAudit is a desktop application. This Application is regarding the Audits. 
+Generally after any building construction, the inspector of the company goes for inspection and he will note the defects in a paper and he will forward that to the manager. As manager needs to approve some defects for re-construction. The contractor once rebuilt he will send a paper to the manager desk that the work is completed. Here again the manager send the inspector again for re-inspection. This is how the process.so we took further step to modify Page 5 the things and make this process easier. We developed a web application which is more easier, effective and paperless System. The Web app is for Assigning the task to inspector where he will go to the site and start his inspection with the help of WBS(Work Break 
+Down Structure).This means a Building data will be sent to him as Json data for inspection. 
+Ideas For Web and Mobile Applications: 
+Paperless Inspection and Automatic Servicing which is a futuristic idea to develop a web application and App to inspect the automobile in manufacturing industry and for servicing the automobile. 
+Personal Transport Check is an app for the Roadtransport. 
+Speed Board App for Automotive field. 
+Universal Servicing App for industrial Usage. 
+Digitalisation of IR for Indian Railways. 
+Achievements and Activities: 
+Won second prize in ELECTRONIC HACKERS in Vibha at Sastrauniversity. 
+Won second prize in IDEA PRESENTATION in Tech Masters at Sastrauniversity. 
+Won third prize in MAKE YOUR IDEA presentation in NIT trichy. 
+Won the best construction for the construction of transmission tower in Vibha tech fest. 
+Won the best design for the contraptions in the tech fest Pragyan in NIT TRICHY. 
+Pursuing scholarship from Andhra pradesh state government for scoring the good percentage in Intermediate board exams. 
+Attended event 
+Techmasters organized by Vibha at Sastra University. 
+Participated in mobile robotics organized by robotics club of Sastra. 
+Written Many Ideas for the Digital India for the Narendra Modi s mygov.in . 
+Page 6 
+Academic Details: 
+QUALIFICATION BOARD OF STUDY YEAR OF STUDY NAME OF THE INSTITUTION PERCENTAGE B.Tech(EEE) 
+DEEMED 
+2011-2015 
+SASTRA UNIVERSITY 
+7 CGPA SECONDARY(12TH) 
+STATE 
+2009-2011 
+SRI CHAITANYA 
+97.6% SSC (10TH) STATE 
+2008-2009 
+SIDDHARTHA EM SCHOOL 
+92% 
+Declaration: 
+I hereby declare that the above mentioned details are true to the best of my knowledge and belief. 
+Date: 15/01/2017. 
+NARASAPPAREDDYGARI ANUDEEP, 
+Place: Chennai. 

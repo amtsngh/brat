@@ -1,0 +1,87 @@
+ System Engineer Trainee 
+AMIT KISHOR PANDEY 
+Contact-8826456524,9584818769 
+E-Mail-itinfo308@gmail.com Address-C-40 Chandra Nagar, Ghaziabad (U.P.)-201011 
+Career Objective 
+Seeking a position to utilize my skills and abilities in the Information Technology industry that offers professional growth while being resourceful, innovative. 
+Profile Summery 
+B.Tech(Information Technology) from Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya, Madhya Pradesh 
+Successfully completed academic project on MGCGV Messaging Web Application for Messaging and Mailing Purpose 
+Sound knowledge of Windows XP, 7 & 8 Operating System. 
+Expertise in troubleshooting of PC and Window Server. 
+Abilities in analyzing & interpreting unique problems, with a combination of project experience and logical thinking to find the right solutions. 
+Proficiency in grasping new technical concepts quickly and utilizing them in a productive manner. 
+Focused & goal driven with strong work ethics and commitment to offer quality work. 
+Pleasing youthful personality with a zest for life, knowledge and sound understanding of technology. 
+Self motivated, good communication skills, ability to deal with people diplomatically, easily understood technical problem, Planning, organization, executing, documentation skills, Ability to handle customer by meetings and discussions. 
+ACADEMIC DETAILS 2015- Bachelor of Technology, Information Technology 
+Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya, Satna (M.P.) 
+Score- 7.127 in grade 
+2011-Higher Secondary Certificate Examination, MP Board Bhopal 
+School 
+VidyaDham Higher Secondary School, Satna (M.P.) 
+Score - 66.6%, first division 
+2009-Secondary Certificate Examination, MP Board Bhopal 
+School 
+VidyaDham Higher Secondary School, Satna (M.P.) 
+Score - 69.5%, first division Training Details 
+CMC Pvt. Ltd. (20/04/2015-18/05/2015) Learned PHP with MYSQL and develop a project. 
+Chandra Software Pvt. Ltd. (08/07/2014-07/08/2014) 
+Learned Website development and basic knowledge of Android Application Development. 
+UPTEC Computer Consultancy Ltd (29/06/2013-31/07/2013) 
+Learned C++ and Core Java programming. 
+Certification 
+Microsoft Certified Solution Expert(MCSE) Academic Project 
+Title MGCGV Messaging Portal to provide messaging and mailing service. 
+Objective- Thinking behind this project is to provide free open source mailing and messaging service for rural infrastructure based universities, colleges & organizations and as well as motivated and promoted to non-it user. 
+Description- The present modern culture is totally depend upon the IT industry and its appliances. But its has true after the independence the implementation of IT in rural based infrastructure is very poor, most of peoples in rural area are suffering with many problem because of negligible knowledge of IT use. The strive behind this project is to provide mailing and messaging services at very smooth manner and to motivate IT staff &non IT staff for use of IT services. This project is to provide paperless documentation conversation in different department in different universities between staff ,student and highest authorities. 
+Duration- 4 month. 
+Company- CMC Pvt. Ltd. Pitampura, New Delhi. 
+Information Technology Skills 
+Operating System- Window XP, 7, 8 and above. 
+Window server-2003, 2008, 2008 r2, 2012, 2012 r2 Application-MS Office 2007/ 03, Net beans 6.8, SQL Server, MYSQL, JUMLA, Cisco packet tracer and many others. 
+Languages- C++, HTML, JavaScript, PHP, Core JAVA 
+Database- SQL server & My SQL 
+Domain Skills 
+Installation and configuration of window server 2008 r2/2012 r2. 
+Installation and migration server core to GUI and vice versa. 
+Apply policy on client site with the help of window server. 
+Have knowledge and proper understanding of IIS Server, DHCP, and DNS Configuration. 
+Have knowledge to configure DC, CDC and RODC server. 
+Configuration and manage Split DNS. 
+Have knowledge and expertise in Active Directory and GPO configuration. 
+Expertise to maintain backup plan for window server. 
+Have knowledge of VPN server and FTP server and shadow copy configuration on window server. 
+Have knowledge to configure and manage user profile in server. 
+Complete knowledge of configuration ISCSI server. 
+Have knowledge to manage server storage volume and expertise to apply RAID configuration. 
+Have expertise to troubleshoot and configure different component of PC. 
+Have knowledge to configure Network Load Balancing (NLB). 
+Configuration of failure clustering with window server platform. Optimization, design, testing and audit of network to meet client and company requirement. 
+Working knowledge of optimization and design of services and policy deliver to end user. 
+Working Experience 
+Bharat Electronics Limited (Under Defense Ministry) 
+Role- System Engineer Trainee 
+Duration-Sep.2015 to till date 
+Responsibilities- 
+LAN , Management of Servers running SSH, Active Directory, DNS, DHCP, DNS, IIS etc. 
+Managing firewall, sever backup and VPN Network. 
+Wi-Fi network using CISCO Access Points and switches. 
+Installation and maintenance of software, hardware and network printer and PC in organization. Manage and configure outlook. 
+Installation and monitoring of antivirus and anti-malware software. 
+Installation and monitoring of IP camera with the help of KVC milestone software. 
+Personal Profile 
+Nationality 
+: Indian 
+Date of Birth 
+: 12/09/1993 Marital Status 
+: Single 
+Hobbies/Interest : 
+Net surfing, Playing Chess &Bolly boll 
+Languages written and spoken : English, Hindi. 
+Current address : C-40, Chandra Nagar Ghaziabad, UP-201011 
+Permanent address 
+: Vill.-Kamta, Post- Pilikothi, Satna, MP-485334 
+Declaration- 
+I hereby declare the above written particulars are true to the best of my knowledge and belief. 
+AMIT KISHOR PANDEY 

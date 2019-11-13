@@ -1,0 +1,94 @@
+ RAHUL SHARMA 
+Mobile: +91- 8527270275 
+E-mail: rsharmaji85@gmail.com 
+OBJECTIVE: 
+To work in a challenging environment where I can experience personal growth, development and to be in a responsible position where I can noticeably contribute to the organization s growth and success. 
+TECHNICAL PROFICIENCES: 
+ArcSight ESM 6.9 
+RSA envision 4.0/4.1 RSA AAoP 6.0.2.1 SP2 
+Structured Query Language (SQL) 
+ArcSight Enterprise Security Manager (ESM) 
+Ticketing Tools: BMC Remedy | E-Helpline | HP Service Manager. 
+RSA Authentication Manager 7.1/ RSA SecurID Two Factor Authentication. 
+PROFESSIONAL EXPERIENCE: 
+A professional with 5 Year 7 months of cross functional Experience as an IT Professional with appliances RSA envision 
+4.0/4.1, HP-ArcSight ESM 6.9, RSA Adaptive Authentication on Premises 6.02 sp2, RSA SecurID 
+Two Factor 
+Authentication. 
+Company: Wipro Technologies Designation: Senior Project Engineer 
+Time Period: June 2015 to Present | Worked at client side 
+Work Place: Gurgaon Responsibilities: 
+Responsible for Monitoring, alerts and integrated/implementation project requests for devices for different Clients of Wipro Technologies, Ticketing technology & other tools. 
+Troubleshooting problems pertaining to SIEM, RSA envision, RSA AAoP and RSA SecurID . 
+Preparation of Process Documents - SOC Process Manual, Incident Management and Knowledgebase. 
+Handling technical escalations and providing solution/workarounds. 
+Handling Security Operations (SOC) and coordinating with Client and team. 
+Company: Paladion Networks Pvt. Ltd. 
+Designation: Security Analyst 
+Time Period: From March 2011 to June 2015 | Worked at client side 
+I was an associate worked with Paladion Networks in the Information Security Domain from 4 year 2 months with multiple clients. Details of all projects are given. 
+Designation: Security Analyst | From April 2015 to June 2015 | worked at Paladion Office Tool: ArcSight ESM 
+Work Place: Bengaluru 
+Responsibilities: 
+Perform Daily activities. 
+ArcSight administration including health checks, backup. 
+Operations and maintenance of HP s ArcSight Products (ESM and Logger). 
+Responsible for SOC Operations including Log monitoring through ArcSight ESM. 
+Designation: Security Analyst |From Jan 2014 to March 2015 | worked at client Side 
+Tool: RSA Authentication Manager 7.1/ RSA SecurID Two Factor Authentication 
+Work Place: Bengaluru 
+Responsibilities: 
+Providing support to users across the world. 
+Support day-to-day all administration Activity. 
+Daily Check Primary and Replica instances status. 
+Using CT-KIP/.sdtid for software token distribution. 
+Monitoring the Logs and troubleshooting the issues. 
+Issuing Soft tokens with binding the token file with Device ID. 
+Performing Tasks Adding users Issuing Hard Tokens and Soft Tokens. 
+ID creation, privilege and Dataset access provisioning using RSA SecurID 
+Admin Tool. 
+Designation: Security Analyst | From March 2013 to December 2013 | worked at client Side 
+Tool: RSA AAoP 6.0.2.1 SP2 
+Work Place: Delhi NCR 
+Responsibilities: 
+Risk assessment and business continuity. 
+Resolve user s problem in the OLB transaction. 
+Daily basis device health checkup, create reports and maintain documents. 
+RSA Administration-RSA AAoP 6.02 sp2 health check and RSA AAoP 6.02 sp2 Backup. 
+Analysis of Fraud and manage the risk in the fraud in the On-Line Banking (OLB) system using the RSA AAoP 6.02 sp2 tool. 
+Designation: Security Analyst | From June 2012 to February 2013 | worked at client Side 
+Tool: RSA envision 4.0/4.1 
+Work Place: Mumbai 
+Responsibilities: 
+Timely updating Patches and ESU on enVision. 
+Preparing daily/weekly security reports as per client requirement. 
+RSA Administration-RSA health check, RSA Backup and restoration test. 
+Experience in log monitoring, filtering and report generation as per clients requirement. 
+Preparing the Knowledge Transfer document of Process and Technical specifications guide for the Transition/Internal purpose. 
+Designation: Security Engineer | From March 2011 to May 2012 | worked at client Side 
+Tool: RSA envision 4.0 
+Work Place: Gurgaon 
+Responsibilities: 
+Basic troubleshooting of RSA. 
+Timely updating Patches and ESU on enVision. 
+Sending a reports for daily basis as per client requirement. 
+Creating reports for daily, Weekly and Monthly reports on log monitoring. 
+Device Administration, configuration, fine-tuning, preparing correlation rules. 
+PROFESSIONAL CERTIFICATION: 
+ITIL 2011 
+ACHIVEMENTS: 
+Awarded as Paladion Silver Star for showing excellent performance at workplace. 
+Awarded as Paladion Champ for successfully migrate IB Application at workplace. 
+ACADEMIC PROFILE: 
+Degree University/Institute Passing Year 
+Master of Computer Application Rajasthan Technical University, Kota 2010 Bachelor of Computer Application IGNOU, Delhi 2006 Class XII (Intermediate) Govt. Boys Se. Sec. School, Delhi 2003 
+Class X (Matriculation) Govt. Boys Se. Sec. School, Delhi 2001 
+CAREER PROFILE: 
+Dates Organization Role 
+June 2015 to Present Wipro Technologies Senior Project Engineer 
+March 2011 to June 2015 Paladion Networks Information Security Analyst 
+PERSONAL DETAILS: 
+Date of Birth 18th August 1985 E-mail Address rsharmaji85@gmail.com Mobile Number +91-8527270275 
+Marital Status Married 
+Languages Known English, Hindi. 
+Reference As per request 

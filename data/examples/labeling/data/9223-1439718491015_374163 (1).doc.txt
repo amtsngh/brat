@@ -1,0 +1,130 @@
+SRINIVASAN RAMASWAMY 
+517, Ground Floor, Bhuvaneshwari Nagar 9th Cross, BSK III Stage, Bangalore-500086 
+Contact: (0) 7760876979 Email:nivas_interview@yahoo.co.in 
+Over all 10 years of experience in Software Industry. 
+4 Years of Experience in UNIX scripting, D2K & Oracle Apps 11i (support). 8+ Years of Development experience in Oracle SQL/PLSQL. 4 Years of Hands on Experience in Oracle Query Performance Tuning. Good experience in building complex SQL queries/Advance SQL queries. 
+Very good Analytical/Problem solving skills. 
+More than 5 Years of Team Leading experience. 
+Easily adapt to Technical Changes/Challenges. 
+TECHNICAL EXPERIENCE 
+Database Oracle 
+Tools/Utilities 
+Oracle Reports & Forms, Crystal Report ,Wherescape,Talend, Visual Basic,SQL Loader, ERWIN 
+Languages SQL & PL-SQL 
+Operating System UNIX 
+Internet Technology ORACLE APEX & Java Script 
+Functional Oracle Purchasing, Inventory and WIP ERP Oracle Apps 11i 
+( Purchasing , Inventory and WIP Modules) Other Products GRC ( MetricStream Governance, Risk, & Compliance ) 
+PROFESSIONAL EXPERIENCE 
+Senior Developer in IG Infotech (I) Private Ltd, Bangalore from 28 Jan 2015 Till date. 
+Tech Lead in MetricStream, Bangalore from 18 July 2012 to 24 Dec 2014 Team Leader in Polaris Financial Technology services from 14 Feb 2011 to 25 Jun 2012 Sr.Consultant in Doyen Systems Pvt Ltd from 18 Jan 2010 to 10 Feb 2011 
+Software Specialist in Patni Computer Systems Ltd from 19 Jul 2004 to 27 Aug 2009. 
+Worked as consultant in Ramco Systems, Covansys (I) Pvt Ltd and Zylog Systems from Mar2003 to Jun 2004. 
+KEY PROJECTS UNDERTAKEN 
+Company: IG Infotech (I) Pvt Ltd 
+IG Groupis a UK-based company providing trading in financial derivatives such ascontracts for difference (https://en.wikipedia.org/wiki/Contracts_for_difference" \o "Contracts for difference)andfinancial spread betting (https://en.wikipedia.org/wiki/Financial_spread_betting" \o "Financial spread betting)and stockbroking to retailtraders (https://en.wikipedia.org/wiki/Trader_(finance)" \o "Trader (finance)). To support customer dealing it has various source systems like mobile application, L2 dealing desk and 3G upstream systems. From these source systems the data will be Extracted, Transmitted and Loaded into Data Warehousing environment. 
+Client : IG 
+Role played : Senior Developer 
+Project Type: 
+L3 Support 
+Platform: UNIX 
+Technology: 
+Wherescape, Talend, BI, UNIX, SQL & PLSQL 
+Team Size: 4 
+Responsibilities: 
+IG In-house Customer Support 
+Analyzing the Incidents raised by In-House clients in service desk and providing solutions to clients. 
+Interacting with clients to resolve the issue. 
+Grooming Junior Team members 
+Working on the Problems addressed in the application Oracle SQL/PLSQL performance tuning Analyzing and resolving the job failures related to Wherescape and Talend. 
+Analyzing BI report issues and providing solutions. 
+Supporting week end releases with respect to DW whenever the DBA,Network Admin and UNIX team doing the RAC Migration, Switching Databases, MS Patching and Source system releases. 
+Company: MetricStream MetricStream is the market leader in enterprise Governance, Risk, Compliance (GRC) and Quality Management software, content, and consulting. MetricStream solutions and domain experts help companies thrive in today's increasingly mobile, social, global, and complex business landscape. MetricStream enterprise solutions are used by leading corporations in diverse industries such as financial services, healthcare, pharmaceutical, medical device, high tech manufacturing, energy, manufacturing, food and beverages and automotive to manage their risk management programs, quality processes, regulatory and industry-mandated compliance and corporate governance initiatives. 
+Project-1: Policy Document Management System 
+Client: LGH (Lancaster General Health) 
+Description: MetricStream Document Management Solution enables companies to adopt an electronic and automated approach to document management across the enterprise. This web-based electronic document management software provides a central repository to store and organize documents. Integrated collaboration and workflow tools in the system can be used to access, create, modify, review, and approve documents globally in a controlled manner. A powerful analytics and reporting capability with graphical dashboards helps track each document from origin to obsolescence, giving managers complete visibility into the system. 
+Project-2: Loss Management System 
+Client : GE 
+Description; Loss events are the circumstances that produce direct or indirect financial loss. Loss Event Management refers to managing the unforeseen loss and near misses caused by both internal system exposure and external events that may lead to a significant financial impact on an organization. 
+Project-3: Scenario Analysis Management 
+Client: NT (Northern Trust Bank) 
+Project Description: Scenario Analysis workshops are conducted to study the impact of Risk i.e. future events over a companys business, reputation and financial position. Scenarios are Risks i.e. future events arrived at based on either History data or logical data. The scenario workshops are held at organizational level, geographical region, functional level or a legal entity level. The scenario workshops can take a table top testing approach (participants gather together to discuss possible scenarios and record the outcomes in a template) or take a workflow based approach (participants provide their inputs on a scenario and a facilitator aggregates/ considers inputs to define the final scenario outcome). 
+The risks of all likelihoods are considered in a scenario i.e. high frequency - low severity and low frequency high severity events. The analysis helps companies to mitigate their exposure to Operational Risk and also in Operational Risk Regulatory Capital Calculation. 
+Role played in above three Projects: Tech Lead 
+Project Type: Development 
+Platform: UNIX 
+Technology: 
+MetricStream Framework, UNIX ,PLSQL & JavaScript 
+Team Size: 3 to 5 
+Responsibilities: 
+Understanding requirements Preparing Technical Design Document 
+Task Estimation 
+Grooming Junior Team members Code Review 
+Interaction & Responding to customer queries 
+Customizing the product as per customer requirements. 
+Customer Support after product live Oracle SQL/PLSQL performance tuning 
+Company: Polaris Financial Technology Services 
+Project Barclays Migration Project 
+Type Migration 
+Role Team Leader 
+Platform UNIX 
+Technology Oracle PLSQL 
+Duration 14 Feb 2011 to 20 Jun 2012 Client Barclays Corporate 
+Team Size 8 
+Description: 
+Corporate Client Information like Personal information, Services availed by the clients, Limits assigned to the clients for services availed and Account Information belongs to the clients will be available as Text files from source systems on periodic basis. Based on this information, Workflows, Client roles and Client Information are constructed in XML format and finally migrated into Target System. 
+Company: Doyen Systems (P) Ltd 
+Project CAMS DATA MIGRATION TO FCIS Product 
+Type Migration 
+Role Developer 
+Platform Windows 
+Technology Oracle PLSQL 
+Duration Jul 2010 to 10 Feb 2011 Client Sundaram BNP Paribas Team Size 3 
+Description: 
+CAMS (Computer Age Management Services) is a Mutual Fund Service provider for Sundaram BNP Paribas (SBFS). SBFS is an asset Management company. As SBFS wanted to take the control of Mutual fund service done by CAMS and wanted to migrate the data in to FCIS (Flexcube Investor Services). 
+Responsibilities: 
+Mapping CAMS data structure into FCIS data structure Developed Packages in PLSQL to migrate data from CAMS to FCIS Staging tables as pre the business requirements. 
+Testing 
+Oracle SQL/PLSQL performance tuning. 
+Project KARVY DATA MIGRATION TO FCIS Product 
+Type Migration 
+Role Developer 
+Platform Windows 
+Technology Oracle PLSQL 
+Duration Feb 2010 to Jun 2010 
+Client Sundaram BNP Paribas Team Size 3 
+Description: 
+Karvy is a Mutual Fund Service provider for Sundaram BNP Paribas (SBFS). SBFS is an asset Management company. As SBFS wanted to take the control of Mutual fund service done by Karvy and wanted to migrate the data in to FCIS (Flexcube Investor Services). 
+Responsibilities: 
+Analyze and Mapping Karvy data structure into FCIS data structure Developed Packages in PLSQL to migrate data from Karvy to FCIS Staging tables as per the business requirement. 
+Testing 
+Oracle SQL/PLSQL performance tuning. 
+Compay: Patni Computer Systems Ltd 
+Project L2 RTS SUPPORT FOR GET ESS APPLICATIONS (MRO) 
+Type Maintenance-Business Applications 
+Role Team Leader 
+Platform UNIX 
+Technology/Software Oracle Apps 11i 
+Duration Jul 2004 to Aug 2009 Client Leading Transportation (Aviation) Company 
+Team Size 6 
+Description: 
+MRO (Maintenance Repair and Overhaul) is a Powerful application, developed and customized in Oracle Apps 11i, which is interfaced with various external applications by sending and receiving transactions. It also provides powerful and extensive support to the users in Supply chain Environment especially in Purchasing, Inventory and WIP. 
+Responsibilities: 
+Performed Team Lead role for L2 Support Group. 
+Directly Interacted with end Users (Asian and US) for all issues and concerns related with application. 
+Solved the tickets raised by the customers according to the Service Level Agreement with LEADING Transportation (Aviation) Company. 
+Developed various Lean Projects to reduce tickets and reduce painful areas of the customers. 
+Created Solution documents, Design documents and Technical documents for all enhancements. 
+Created Change Requests to implement the changes in production with the help of other support groups and represented the change in the Change Address Meetings. 
+Coordinated the various Application teams and customers during year end Physical Inventory processes. 
+Developed Concurrent Programs in PLSQL and UNIX. 
+Performed Performance tuning for database procedures and queries. 
+EDUCATION DETAILS 
+M.C.A (Master of Computer Applications) in Bharathi Dasan University from Apr 1997- Apr 2000 
+B.Sc (Chemistry) in St.Johns College from Apr 1989 to Apr 1992 
+DISM (Diploma in Information and Systems Management) in Aptech Computer Education from Jul 1992 to Aug 1994 PERSONAL DETAILS 
+Marital Status : Married 
+Passport No. 
+: L2287076 
+Expiry Date 
+: 25/06/2023 

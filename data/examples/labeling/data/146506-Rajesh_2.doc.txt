@@ -1,0 +1,78 @@
+RAJESH OHRI 
+Bldg No. 20A, Flat No. 701, FAM CHS, Sec 11, Kopar Khairane, Navi Mumbai - 400709 rajohri@yahoo.com (mailto:rajohri@yahoo.com) 
+(M) +91-9150000899 
+(M) +91-9176651899 
+PP No.P-0293363 
+SENIOR MANAGEMENT EXECUTIVE 
+Innovative, influential, positive Senior IT Executive, and thought leader with superior business acumen, interpersonal skills, and technical expertise to align people, processes, and technology in support of strategic objectives for achieving cost reductions and improving client satisfaction in customer-facing operations and large, diverse organizations. 
+Expertise and Top performer in management and implementation of Mobile Technologies, managing Transformational Projects, Telecom Innovations, Value Added Service, and BSS/OSS/DSS Systems for world class Telecom organizations in India. 
+Areas of Expertise 
+Product Development Budget Management 
+Positive EBITDA Continuous Process Improvement 
+Cost Control / Reduction Tech Introduction / Enhancement 
+OEM Selection Team Management / Operations 
+PROFESSIONAL EXPERIENCE 
+SAP Labs India Pvt. Ltd. 
+Bangalore, India 06/2015 
+04/2016 Head of Operations Mobile Services 
+Recruited to spearhead the build and rollout of the Greenfield NOC Operations for SAP Mobile Services. This involved; creating and building of collaborative high performing teams, partnerships across divisional, departmental, and organizational lines. 
+Responsibility also comprise of Workflow coordination, Annual Budgeting, facility/process improvement initiatives for Operator & Enterprise Mobile Messaging 
+Responsibilities: 
+Technical leader across several local functional areas, including NOC, Application Support, Systems Engineering, Network Engineering, DBA, Sales & Marketing and other allied business units Oversee the day to day operation and execution of the activities of the above functions. 
+Successfully accomplished the rollout for the global NOC operations in a span of 50 days by integrating with the datacenter cloud. The DC infra is strategically spread across US, Singapore & Paris 
+Selected Accomplishments: 
+Implementing and managing globally distributed resilient and high available 4 - 9s systems. 
+Direct people management of global internal technology teams, MS provider teams, and technology vendor management. 
+MTS India (Sistema Shyam Teleservices Ltd) 
+Gurgaon, India 02/2009 
+11/2014 Dy. Director & Head Projects, NPD, O&M & DC Infrastructure 
+Engaged by CIO to identify and incorporate best practices to ensure seamless roll-out of Telecom Projects like IN, VAS, Systems, Networking and its seamless operationalization. Hold full accountability for the Division servicing more than 10 million customers. 
+Develop and incorporate pricing, product creation and development, customer service, cost reduction and technology strategies for facilitating end-to-end customer experience from the NOC. Devise and implement business process outsourcing methodologies to provide enhanced service at lower costs. 
+Selected Accomplishments: 
+Successful build and operationalization of the First Green datacenter and hosting OEM solutions and equipments of the likes of Huawei, HP, IBM, SUN, CISCO to name a few. 
+Successful launch of Postpaid services - Voice & Data 
+Drastically reduced storage and server farm footprint, creating the opportunity for secure collocation of a commercialized `IT Managed Services` to host 1.2PB capacity 
+Saved 11 Million by incorporating continuous process improvement, business outsourcing and cost reduction strategies. 
+Bharti Airtel Ltd 
+Gurgaon, India 04/2007 02/2009 General Manager 
+VAS- NPD & Operations (Mobility, Tele-media & Enterprise Services) Recruited to spearhead the new innovation division. Transitioned 50+ employees, conducted technology due-diligence for integration of SDP to ensure operability and achieved zero downtime during cut-over. Developed and incorporated solid processes for new technology incorporation, project management, billing, manpower planning and employee benefits. 
+Selected Accomplishments: 
+Service Delivery Platform rollout for Messaging, Content & Applications of mobile e-Commerce platform, servicing 100 Million + customers in India & Africa 
+Launch and operationalization of the DTH Application services for Pan India 
+New Product Development & Innovation for Mobile, DTH (Tele-media) and Enterprise services 
+ESSAR Tele-holdings Ltd 
+Mumbai, India 
+01/2006 03/2007 Dy. General Manager WCDMA Network - (3G & IP Switching, VAS) 
+Developed and executed strategic planning and tactical implementation of new internal controls, reporting and analysis methodologies for the WCDMA group. 
+Ensured optimal technical operations for $1 billion group Services Company, by overseeing all aspects of IT, including system security/information management, corporate project management, application development, infrastructure management, and data and call center operations, among other areas. 
+Selected Accomplishments: 
+Blackberry rollout for the BPL Mumbai circle 
+Heading a team for the strategy, program planning and roll out of 3G- Networking for the Pan India operations for WCDMA 
+Heading the IP planning for the switching and networking of the remote areas u Reliance Communications Ltd 
+Mumbai, India 
+11/2002 01/2006 
+Subject Matter Expert 
+HLR 
+Enhanced performance of HLRs in the Network Operations Center (NNOC) and the Service for the customer Help Desk for inbound calls. Oversaw and streamlined server/OS technology deployment, database administration, security administration, and telecommunications activity. Improved new business development with establishment of new HLRs for new business growth to attain 100Million subscriber base. 
+Selected Accomplishments: 
+Migration from 8 digit numbering plan to 10 digit Pan India migration of HLRs 
+Brought down the customer complaints from 22000 to @1200+ during launch Converge labs Software Technologies (I) Pvt. Ltd Gurgaon, India 
+07/2000 10/2002 Member of Technical Staff 
+Ensured the transfer of technology and project rollout for Greenfield Mobile Operator, FITEL, in Taiwan and the RF planning for Idea along with UTStarcom. 
+Selected Accomplishments: 
+Off-shore PHS network rollout for Fitel, Taiwan for 500K subscribers Affinity Systems Pte Ltd. 
+Delhi, India Systems Manager(India) 
+3/1999 06/2000 
+Ensured rollout and operations for IP Telephony and Business Communication Products related to IVR, Call Center, Message Center, billing for Tata, Nortel and Global Telesystems. 
+Enkay Telecommunications (I) Ltd 
+Delhi, India 
+(Sr. Engineer) 
+08/1995 02/1999 Led efforts to maintain continual and streamlined wire line and wireless operations for Delhi region with oversight of many large KTS switches Tacker Technologies Ltd. Delhi, India (Territory Head) 12/1993 07/1995 Managing and streamlining of PBX, FAX and KTS systems. 
+EDUCATIONAL BACKGROUND 
+Masters of Business Administration in Management 
+TASMAC, Canadian School of Management, Institute of Graduate Studies (1997) Bachelor of Engineering in Electronics and Telecommunications 
+University of Poona, Pune (1993) Diploma in Computers 
+NIIT, Delhi (1999) CERTIFICATIONS 
+PRINCE2 (Practitioner and Foundation) / ITSM / ITILv3 
+Selected Core Competencies: 
+~Project Lifecycle Management ~Strategic Planning/Execution ~Problem Solving ~System Development Lifecycle (SDLC) ~Information /Security Lifecycle ~Project Management Analysis ~ Telecommunications ~ NOC & Data Center Operations ~ Performance Management ~ IT Infrastructure & Architectures ~Capacity Planning ~Client Services ~ Root Cause Analysis ~IT Governance ~Customer Satisfaction ~Business Case ~RFPs ~Change Management ~Large Systems Integration & Implementation ~Contract Negotiations ~ Regulatory Compliance ~Security & Identity Management ~Conflict Resolution 

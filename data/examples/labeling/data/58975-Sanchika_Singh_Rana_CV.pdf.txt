@@ -1,0 +1,68 @@
+ Sanchika Singh Rana Building no 27, 29th Main, 4th B Cross BTM 
+2nd Stage, Bangalore Phone: +91 9686324111 
+Email:rana.sanchika@gmail.com Career 
+Objective 
+To actively contribute to the growth of an esteemed organization by using my skill-set and abilities to perform in challenging environments, thereby giving myself an opportunity to continuously evolve as a professional and an individual. 
+Profile 
+Working in a startup environment with 1 year 10 months of experience in Design, Development and Maintaining quality of Mobile applications 
+Currently spearheading efforts with Webyog Softworks 
+Pvt. 
+Ltd as Test Automation Engineer for CloudMagic 
+Automating test cases to span across the application end to end for maximum code coverage 
+Driving test driven development adapting to new releases and providing instant feedback for new builds to shorten release cycles 
+Leading team for delivering value by enabling support for Continuous Integration with build integrating tools 
+Facilitating the team by capacitating them with tools like mail sending scripts and MIME appending script to ease the workflow 
+Adept at all phases of SDLC, which includes: design, analysis, coding, testing, code reviews, implementation and system 
+support Technical 
+Skills Language: C, Objective C, Swift 
+Scripting 
+Languages: Java-Script,HTML,Python Development tools: Xcode, Kohana Key Strengths 
+Prioritizing tasks and manage multiple assignments 
+Identifying bottlenecks in processes that tend to kill productivity and removing them 
+Proficient with Swift and Cocoa Touch Experience with iOS frameworks such as Core Data, 
+Core Animation. 
+Familiarity with RESTful APIs to connect iOS applications to back-end services 
+Understanding of Apple s design principles and interface guidelines 
+Knowledge of low-level 
+C-based libraries. 
+Experience with performance and memory tuning with tools such as Instruments Work History Webyog Softworks Pvt. Ltd (September 2014 to Present) 
+Test Automation 
+Engineer Projects 1. CloudMagic Email (iOS) 
+Technologies: Objective C, Swift. 
+Description: An award winning email app for iPhone & iPad. 
+Works with Gmail, Exchange, Yahoo, Outlook, iCloud, Google Apps, 
+Office 365 and any IMAP account. 
+Accolades: Winner of the Internet's highest honour - The Webby Awards People's Voice 
+"The best mobile email app" - The Wall Street Journal 
+"With CloudMagic, you ll be amazed how much more productive your emailing on the go gets" TIME 
+"The email application that lets you complete your work right from your Inbox" TechCrunch Role and Responsibilities: 
+Test Automation Engineer 
+Handling the UI automation of application for both, iPhone and iPad application end to end. 
+Handling crash reports and critical client logs 
+Bug reporting and on spot simulation. 
+iTunes 
+Link: 
+http://goo.gl/H8c0U3 
+2. CloudMagic Email (MAC) 
+Technologies: Swift. 
+Description: Email Client that works with Gmail, Exchange, Yahoo, Outlook, iCloud, Google Apps, Office 365 and any IMAP account. 
+CloudMagic offers a clean user interface and an elegant solution for email management. 
+Role and 
+Responsibilities: Setup Mac App automation from ground up, planning and designing structure of swift 
+scripts to span across the app for maximum code coverage. 
+MAC App Store 
+Link: https://goo.gl/KyD23K Education 
+Graduation 2014 
+B.Tech (Computer Science & Engineering), UPTU 
+76.86% Class XII 2010 
+St. Paul s College, 
+Lucknow 
+(ISC Board) 
+91.75% Class X 2008 
+St. Mary s Convent 
+Inter College, Lucknow 
+(ICSE Board) 
+84.8% Declaration I 
+hereby declare that all the facts mentioned herein are true to the best of my knowledge and 
+I take total responsibility for the information provided. 
+Sanchika Singh Rana 

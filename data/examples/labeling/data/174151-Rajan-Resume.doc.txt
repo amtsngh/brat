@@ -1,0 +1,87 @@
+Rajan Singh Senior QUALITY ANALYST /Engineer 
+rajan.bpl@gmail.com (mailto:ucky.jain89@gmail.com)| +91 9620171000 Professional Summary 
+Over 5+ years of IT experience as Quality Analyst/Product Quality Engineer in both Manual & Automation testing.Involved extensively in End to End testing of mobile VAS applications and frameworks.Hands-on experience in employing SDLC Models- Agile, Iterative, Waterfall and RAD.Expertise on Software Testing Life Cycle (STLC) including Test Planning, Test Designing, Test Development, Test Execution and Test Evaluation for quality assurance.Proficient in Black-box testing that includes Functional Testing, GUI Testing, Sanity Testing, Smoke Testing, Integration Testing, Regression Testing, Ad hoc, Performance Testing, Load Testing, User Acceptance Testing (UAT) and Security Testing etc.Involved in Automation testing using automation tools such as Jmeter and Hudson.Provided maintenance & client support for self-tested applications.Extensively Involved in Enhancements including front end and back end changes to existing applications.Proficient in using bug tracking tool JIRA for bug reporting and bug tracking.Expertise in managing the Defect Tracking Lifecycle process logging defects, prioritizing defects, estimation, follow-ups, and generating summary reports using JIRA.Proficient in Code Review, reading Java code and debug problems using log files.Involved in reviewing and analyzing Business and Functional Requirement Specifications documents.Experience in testing Linux based applications.Participated in test review meetings, defect review meetings, walkthroughs to discuss requirements, test status, issues and open defects.Experience in Ozone3 Platform (AF+OMP), OCMP, AMOEBA, PACKS, MAS, MCA. Proficient in SQL, nested queries and good understanding of , indexes and generating SQL Queries for data validation testing and data analysis.Experience in NoSQL database like RedisDB & MongoDB.Used version controlling tool CVS (Concurrent version system). 
+Technical Skills 
+Testing Tools JMeter, Hudson, Jacoco, TestLink 
+Bug Tracking Tools JIRA 
+Languages JAVA, C++, Shell Script 
+Version control system 
+CVS (Concurrent version system), Git 
+Web Technologies HTML, XML, Vxml, CCXML 
+Database MYSQL/MariaDB, MAXDB, Mongo DB, Redis DB 
+Operating System Windows 2000/XP, Linux, Windows7 
+Work Experience 
+March 2011 
+Present 
+Organization 
+OnMobile Global Ltd 
+Bangalore 
+Designation Senior QA Engineer 
+PROJECT DETAILS: 
+1). MCA Daemon 
+Description of the Project: 
+MCA stands for Missed Calls Alert. A Daemon used to alert the subscriber about the missed call in case of not reachable/switched off if user is subscribed for MCA. For non-subscribed user Daemon will send the Promotional sms. 
+Daemon will also intimate the subscriber about the validity period & charging. Alert sms is sent to both parties calling plush caller based on the subscription service of MCA. For each miscall daemon writes the CDR containing information of caller party, calling party, sms type, Timestamp etc. Role Quality Analyst 
+Responsibilities Developed Test Plan and Test Cases to cover overall quality assurance testing after analysing the Functional Requirement Document.Performed Integration testing, Functional testing, Database testing & Load Testing. 
+Participated in the defect status meetings to discuss defects with developers and tracked till the closure of defects.Involved in preparing suggestion reports.Reported the test summary report to the management weekly.Actively participated in change requirement meeting and reviewed change request documents.Carried out regression testing to confirm that the application was out of any defects after changes being made in it. 
+Tracked defects using JIRA and interacted with developers regarding priority of bugs and update the status of bugs once they are fixed. 
+Involved in UAT testing phase to support clients by setting up the testing environment, reporting defects and notifying test lead of any issues impeding progress of testing. 
+Environment MariaDB, Tomcat-7.0.33, Java-1.6, Redis DB, CentOS5.3, CentOS6.1, CVS, JIRA, Telephony Server (OSP), Jmeter. 
+2). MAS Framework 
+Description of the Project: 
+MAS Studio is a Rapid Application Development tool, which is aimed at providing a UI which enables the user to generate the xml merely using a set of widgets. The widgets are draggable over a canvas where the actual flow is made .The flow on the canvas is published in the form of an XML. The XML is parsed by the Back-end (Renderer), wherein each widget is converted to a different state and handled by a separate wrapper which then dishes out the VXML. 
+Basically the Renderer is a web application with which the telephony interacts via HTTP to execute the necessary dialogs with the caller. The responses from renderer in these interactions is always a VXML document that the telephony can interpret and each VXML dished out contains the renderer URL that the telephony needs to hit for the next state dialog. 
+Role Quality Analyst 
+Responsibilities 
+Understanding the navigational flow of application.Developed Test Plan and Test Cases to cover overall quality assurance testing after analysing the Functional Requirement Document.Performed Integration testing, GUI testing, Functional testing, and Database testing. Participated in the defect status meetings to discuss defects with developers and tracked till the closure of defects.Involved in preparing suggestion reports.Reported the test summary report to the management weekly.Actively participated in change requirement meeting and reviewed change request documents.Carried out regression testing to confirm that the application was out of any defects after changes being made in it. 
+Tracked defects using JIRA and interacted with developers regarding priority of bugs and update the status of bugs once they are fixed. 
+Involved in UAT testing phase to support clients by setting up the testing environment, reporting defects and notifying test lead of any issues impeding progress of testing. 
+Environment MySQL/MariaDB, Tomcat-7, Java-1.6, Mongo DB, Linux, MemCached Server, CVS, JIRA, Telephony Server (OSP and OCMP), X-lite. 
+3). Application Framework 
+Description of the Project: 
+Platform to provide support for Vxml/Sovxml, PureVxml, Ccxml & Subdialog type of applications. User can deploy above types of applications in AF platform and Check the call flow. Flow might be an audio prompt, speech recognition, menu based selection etc. There are various filters to validate or authenticate the users. Handlers to control the call flow during pre-answer, pre-hang-ups, post-answer, post-hang-ups. AF writes the CDR for each call flow for reporting purpose.There are six components in the framework: O3AppServer, O3GrammerServer, O3PromptWebServer, O3Memchache, O3AxisWebserver and O3AWSProxy. O3AppServer is used to authenticate user, handling all vxml requests. O3GrammerServer generate grammars if required by an application. O3PromptWebServer to play the prompts of an application. O3Memchache to store the data or key-value pairs & session parameters. O3AxisWebserver for DB interaction. O3AWSProxy for load balancing. 
+Role Quality Analyst 
+Responsibilities 
+Communicating with the product managers and developers to understand the newly proposed enhancements/changes. 
+Developed Test Cases to cover overall quality assurance testing. 
+Performed integration testing, functional testing, backend testing, UAT testing, and Regression testing. 
+Participated in test review meetings, defect review meetings, walkthroughs to discuss requirements, test status, issues and open defects.Executing the test cases for Vxml/Sovxml, PureVxml, Ccxml & Subdialog type of applications.Testing Billing system for various operators.Various voice recognition engines like nuance 8.5, nuance9.0 or Telisma.Load testing the platform on various applications and hardware.Defect Logging and Defect Tracking in JIRA.Identifying and defining scenarios for the defects raised in each phase.Timely support to ops engineers during deployment of application on production. 
+Environment CentOS5.3, CentOS6.1, MaxDB/MySql/MariaDB, Telephony (OSP+OCMP), CVS, JIRA, X-lite, Hudson. 
+4). Amoeba Framework & Amoeba Daemon 
+Description of the Project: 
+Amoeba takes an XML file which contains the required state-definition, pre-conditions & the input, parses the given xml file and constructs the call flow dynamically. In any state, if there is a need to store the captured data, it stores it in the database using Amoeba frameworks API. There are various states(prompt state, recognition state, search state, menu based state, Recording state, DOB state, Listing state, sms state) used to developed the call flow.Amoeba Daemon is used for cleaning & reporting purpose i.e. will delete the old entries & generates the report of stored data. 
+Role Quality Analyst 
+Responsibilities Developed Call flows to test states functionality & properties.Test Cases to cover overall quality assurance testing. 
+Performed integration testing, functional testing, backend testing, UAT testing, and Regression testing.Executing test cases for developed Call flows & redirection of call flow.Monitoring the Daemon cleaning & reporting activity.Load testing the various call flows & applications.Defect Logging and Defect Tracking in JIRA.Identifying and defining scenarios for the defects raised in each phase.Timely support to ops engineers during deployment of application on production. 
+Environment CentOS5.3, CentOS6.1, MaxDB/MySql/MariaDB, XML, CVS, JIRA, X-lite, Kapanga Softphone, Hudson. 
+5). Open call media platform (HP product) Description of the Project: 
+HP OpenCall Media Platform is a scalable, carrier-grade media server enabling rapid development and deployment of applications ranging from playing audio files to advanced voice-enabled interactive services. The OpenCall Media Platform supports applications developed in VoiceXML, CCXML and Java. 
+Role Quality Analyst 
+Responsibilities Various voice recognition engines like nuance 8.5, nuance9.0, Telisma,Testing Billing system for various operatorsDeveloped Test Cases to cover overall quality assurance testing. 
+Performed integration testing, functional testing, Regression testing, Configuration testing.Participated in test review meetings, defect review meetings, walkthroughs to discuss requirements, test status, issues and open defects.Defect Logging and Defect Tracking in JIRA.Identifying and defining scenarios for the defects raised in each phase.Timely support to ops engineers during deployment of application on production. 
+Environment CentOS5.3, CentOS6.1, MaxDB/MySql/MariaDB, JIRA, X-lite, Kapanga Softphone, Hudson. 
+6). Packs Framework 
+Description of the Project: 
+Consumer receives a promotion with an offer to try out the voice portal for Free. The promotion could offer either N Minutes FREE (Time based). The Try and Buy application is configured to run on the Toll Free number. Consumer calls the toll free number, If this is a new user; the system set him for N mins of use and offers him the Trail Experience Portal. If this is a repeat call, the system sets up the call for the remaining mins of usage. Once the N free mins are up, the user is offered a choice of Voice Portal packs that he can buy. Consumer can purchase one or more packs. To use the pack, the Consumer calls the same number used for the trial. Once the pack expires, the Consumer is again offered a set of packs to purchase from. 
+Role Quality Analyst 
+Responsibilities Gathered requirements for testing by analysing BRDs and Use Cases.Developed Test Cases, Test Plan, Test Scenarios and Test Beds. 
+Performed Integration testing, Functional testing, Backend testing, Regression testing and UAT testing manually.Extensively Involved in Enhancements including front end and back end changes to existing applicationChecking consistency of data in the underlying backend tables of the database using SQL queriesTracked defects using JIRA and interacted with developers regarding priority of bugs and update the status of bugs once they are fixed. Escalation of high priority defects for a quick closure to enable the continuous testing avoiding impacts to other functionalities.Interacting with the Development team and tracking the defects to closure. Performed performance testing and analyzed the performance graphs in Jmeter.Actively participated in change requirement meeting and reviewed change request documents.Performed smoke test of the application post deployment on production server. 
+Environment CentOS5.3, CentOS6.1, MaxDB/MySql, JIRA, X-lite, Hudson 
+EDUCATION DETAILS 
+2010: MCA Agg. Percentage: 70% OIST-RGPV, BHOPAL 
+2006 
+B.SC Agg. Percentage: 67% IEHE, BHOPAL 2003: Intermediate/+2 Agg. Percentage: 67% 
+JNV SHD Vidisha 
+CBSC Board 2001: Matriculation Agg. Percentage 59% 
+JNV SHD Vidisha 
+CBSC Board PERSONAL DETAILS 
+Gender : 
+Male 
+Marital Status : 
+Married 
+Current Occupation : 
+Senior Product Quality Engineer at OnMobile Global Limited. 
+DOB : 02-07-1985 
+Address : #42, 5th - Cross, 33rd - Main, Dollar Scheme colony, Madiavala, Bangalore. 
+I hereby declare that all information given by me above are true and correct to the best of my knowledge. 
+Rajan Singh 

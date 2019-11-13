@@ -1,0 +1,50 @@
+DISHA JAIN 
+Flat-1420 Ashiana Palm Court, Raj Nagar Extension, Ghaziabad, U.P. -201003 
+Mobile: - +918860042472, +918077194334 E-mail: - smartdisha41@gmail.com Date of Birth: 29-11-1994 
+CAREER OBJECTIVE 
+To attain a position in development field to contribute my knowledge, skills and experience for the advancement of the company and making myself grow with the company. 
+Project : #2 Social Networking Website 
+Technology HTML/HTML5, CSS/CSS3, Bootstrap , PHP , JavaScript , JQuery Description Online application to interact and built the professional and social relations. Some features are: 
+Creates a user account. 
+Making friends by sending and receiving friend requests. 
+Chatting with friends. 
+Media uploading such as video, pictures. 
+Wall post objects. 
+Commenting and likes on wall post objects. 
+Project : #3 E-COPS 
+Technology J2EE, JSP,Servlet,JDBC,HTML/HTML5,Tomcat 5.0,MySQL 
+Description This is a remote web application which has been made for the betterment in the use for the police department and other security related organisations. It helps in proper and better interaction between the police and their local or global areas aloted to them . 
+TRAINING 
+Year Topic Place 
+March 2015 -May2015 Oracle Certified Java JSE Programming Infomatics , Agra 
+Nov 2015 Feb 2016 Oracle Certified Web Component Development with Servlets and JSPs 
+Java EE 6 Infomatics, Agra 
+March 2016 May 2016 Oracle Certified My SQL and PHP Developing Dynamic Web 
+Applications 
+Infomatics, Agra 
+June 2016 July 2016 Developing Dynamic Web Applications HCL Learning Ltd, South Ex-I, New Delhi 
+TECHNOLOGY AND SKILLS 
+Languages C, C++, Java (J2EE & JSEE), HTML/HTML5, CSS/CSS3, PHP, Bootstrap, JavaScript, JQuery Database MySQL Software NetBeans, Eclipse, XAMP, Dev-C++, MATLAB 
+Platforms Windows, Linux (Ubuntu) WORKSHOPS & SEMINARS CO-CURRICULAR ACTIVITIES PERSONAL TRAITS 
+Oracle certified C programming workshop at Infomatics on Feb 2016 IOT workshop conducted in Technocruise, Agra college on 2016 by Techkriti, IIT 
+Kanpur 
+Cyber Security and Mobile App 
+Development workshop at Agra College on March 2016 Importance of Oracle Certification at I.E.T. 
+College on April 2015 
+MATLAB workshop (hand on) learnt operations and functioning at I.B.S college 
+Feb,2017 
+Participated in 4th Kalawati Memorial 
+Science Talent Award at Raj Kumar 
+Goel Engineering College on April 14, 2012. 
+Kathak Dance at Prayag Sangeet 
+Samiti, Allahabad for 2004 2006. 
+Organized MATLAB 2017 in college Good presentation skills. 
+Self-motivated, focused. 
+Good conceptual, analytical and logical skills. 
+Ability to work individually as well as in group environment. 
+QUALIFICATIONS 
+Year Degree/Certificate Institute/School, City (%) 2017 B.E.(Bachelor of Engineering) I.E.T. (Dr. Bhim Rao Ambedkar University),Agra 75.71 (Till 7th Sem) 
+2013 Class XII [CBSE] K.D.B. Public School, Ghaziabad 85.4 
+2011 Class X [CBSE] K.D.B. Public School, Ghaziabad 9.4 CGPA PROJECTS 
+Project : #1 Library Management System 
+Technology C language Description Developed the library management system using C Language that enables an organization to maintain its library. 

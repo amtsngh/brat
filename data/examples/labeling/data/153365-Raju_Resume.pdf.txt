@@ -1,0 +1,63 @@
+Raju Kushwaha 
+Mobile: +91-8951250321 
+E-mail: rajukushwaha5890@gmail.com 
+LinkedIn Profile: https://in.linkedin.com/in/raju-kushwaha-bb39a08b 
+Seeking assignments in Software Engineering/Web Design/Web Development/ Analyst with an organisation of high repute preferably in IT industry. 
+Location Preference: Bangalore/Pune 
+Profile Summary 
+Offering 1.6 years experience in Business Analyst in IT industry. 
+Well versed with Technology/Platform: HTML, CSS and SQL with Oracle 10g. 
+Gained expertise in SQL queries on Oracle10g and SQL server. 
+Capable of developing software, designing and maintaining the software applications. 
+Abilities in handling multiple priorities with genuine interest in professional development. 
+Exposure in performing various projects based on Computer Software. 
+Employment details Associate Business Analyst Apr 5 present 
+Organization: Axisrooms Travel Distribution Solutions Pvt. Ltd. 
+Role: 
+Handling queries of clients with the keen focus on customer satisfaction. Interfacing with the client for business requirement gathering, conducting system analysis and finalizing specifications. 
+Updating and maintaining the CRM system. Creating booking window on hotel website which is fully customized tool based on hotel profile, and allows travellers to make quicker, easier and more practice reservations directly from hotel`s website. 
+I tegrati g hotel s ith cha 
+el 
+a ager, co ecti g ith 
+arious OTA s i 
+o e platfor , a d maintaining details with SQL queries as per client requirement. 
+Write and implement database queries, objects creation such as tables, views, user data types, indexes, stored procedures, functions. 
+Worked with relationship database models, schemas & entity-relationship diagrams (ERMs) to create technical/system design documents. 
+Ma agi g hotel s 
+ith PMS s ste to a age operatio s of a co ple hotel e 
+iro 
+e t, creating Booking engine and updating all details of hotel. 
+Technical skills 
+Programming/Web: HTML5, CSS3, C, JavaScript, XML, Jquery, Bootstrap. 
+Database: SQL, Oracle. 
+Operating Systems: Windows XP/7/8.1, Linux. 
+Education 
+B.E. in Computer science Engineering 
+Trinity Institute of Technology and Research, Madhya Pradesh, secured 72.8% 2014 12th Class, Silver Bells Convent H.S. School, Madhya Pradesh secured 65% 2010 
+10th Class, Tathagat High school, Madhya Pradesh, secured 79.6% 2008 
+Trained & certified 
+Training centre: Sapphire Solution Duration: 45 days. 
+Certification: Oracle-using SQL. 
+Learnt about SQL queries, worked with all database activities as like table creation, schemas, views, stored procedure etc. 
+Academic project Blood bank management system 
+Language used: Asp.net 
+Database: SQL 
+A project designed for blood database management that include all basic facilities like storing & retrieving patient details, search for available blood group in a given area etc. 
+University portal 
+Language used: Asp.net 
+Database: SQL 
+The project aimed to manage student database that include all basic needs to maintain student profile and search for the same as per different requirement. 
+Personal Details 
+Name: 
+Raju kushwaha Date of Birth: 
+05/08/1992 
+Sex: Male 
+Nationality: 
+Indian 
+Languages Known: 
+English, Hindi 
+Address: 
+10/24 ZK residency, 8th main road, BTM 1st stage, Bangalore 
+Declaration 
+I hereby declare that all the above information is true to the best of my knowledge and any information if found to be false is only due to my negligence. 
+Raju Kushwaha 

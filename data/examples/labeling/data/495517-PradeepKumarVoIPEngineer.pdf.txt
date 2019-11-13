@@ -1,0 +1,58 @@
+ PRADEEP KUMAR 
+VoIP network engineer 
+Mobile : +91-7406479464 
+Email : mailtopradeep201@gmail.com 
+CAREER OBJECTIVE 
+Aspire to acquire a strong job position as a VOIP NETWORK ENGINEER, where I can skillfully utilize my past experience in the networking environment, in order to achieve the company goals and objectives. Wish to gain more experience from this professional surrounding. 
+EMPLOYMENT HISTORY 
+PROFESSIONAL EXPERIENCE: 
+Organization : TECH MAHINDRA 
+Designation : VoIP network engineer Experience : 1.9 years 
+Duration : JULY 2015 till date SCOPE OF WORK THROUGHOUT THIS PERIOD: 
+Providing remote support for cisco VoIP infrastructure. 
+Configuring cisco call manager 8.x, 9.x. 
+Troubleshooting of IP phone and softphone registration issues. 
+Adding, moving, modifying and deleting users, cisco IP phone device profile and phone button template. 
+Configuration of Device pool, Region, Location. 
+Configuration of VLAN. 
+Knowledge on configuration of pots and VoIP dial peer. 
+Configuration of call manager user features such as speed dial, call transfer, Shared line, call pickup, call back. 
+Configuring voice mail user accounts and password resetting. 
+Bulk administration tool (BAT) for users, IP phones and IP communicator. 
+Configuration of extension mobility. 
+Handling of service calls (tickets). 
+Attending daily status report and incident management calls. 
+To work as a team and help team members if stuck with any issue. 
+Self-learning and periodically updating technical knowledge. 
+TECHNICAL SKILLS 
+Configuration of various features in CUCM and CME. 
+Troubleshooting and configuration of IP phones and softphones. 
+Bulk administration (BAT) of IP phone and IP communicator. 
+Configuring Call Manager user features and services. 
+Knowledge on configuration of ISDN PRI (E1 and T1) and FX trunks. 
+Moving, Adding and Deleting extensions. 
+Device pool, Region, Location. 
+Phone Button Template, Soft key Template 
+Understanding of various call control protocols like MGCP, H323, SIP and SCCP 
+Translation pattern, Route pattern, Route list, Hunt list. 
+Partitions, Call search Spaces (CSS) and Class of restriction. 
+Knowledge on Survivable Remote Site Telephony (SRST). 
+Media processing functions such as Music on Hold (MOH) and annunciator. 
+ACADEMIC PROFILE 10th from kumarn Tutorial center, Gudalur Tamilnadu (2009) Diploma in Electronics & Communication Engineering from Salem, Tamilnadu (2012) B.E. Electronics & Communication Engineering from Anna University,Tamilnadu(2015) 
+TRAININGS UNDERGONE 
+Cisco Certified Network Associate (CCNA R&S) Cisco Certified Network Associate -Voice (CCNA Voice) 
+Cisco Certified Network Professional -Voice (CCNP Voice) 
+PERSONAL DETAILS 
+Date of birth : 06-01-1992 
+Gender : Male 
+Marital status : Single 
+Nationality : Indian 
+Languages known : English, Malayalam 
+Address : S/O Nagarajan 
+Nambiarkunnu H.O 
+Nambiarkunnu P.O 
+Sulthanbathery, Wayanad 
+Kerala-673595 
+DECLARATION 
+I hereby declare that the above stated information is true to the best of my knowledge and belief. 
+PRADEEPKUMAR 

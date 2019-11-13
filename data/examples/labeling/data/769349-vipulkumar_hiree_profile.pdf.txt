@@ -1,0 +1,56 @@
+VIPUL KUMAR 
+Email: vipulstar.iitr@gmail.com Indian Institute of Technology Roorkee Mob: (+91) 7795665238 PROFILE 
+Experience working with Service Catalog, Cloudformation, Lambda, IAM, EC2, ELB, Autoscaling, RDS, S3, DynamoDB services in Amazon Web Services. 
+Worked on an open-source business intelligence tool based on MEAN (MongoDB, Express.js, Angular.js, Node.js) stack. 
+Experience in designing and implementing a website for Ship Reservation System based on Spring MVC framework. 
+Experience working in Java, J2EE, JDBC, Servlet, JSP, SQL. 
+Experience working in JavaScript, jQuery and d3.js. 
+Experience working in HTML, Bootstrap, CSS, client-side JavaScript. 
+Experience in working with Python for AWS lambda for supporting various features not supported by AWS Cloudfomration. 
+Experience in working in Agile Software Development. 
+Experience in working on MATLAB Simulink and development of hardware prototype of Unified Power Quality Conditioner from the scratch. 
+Completed Integrated Dual Degree in Electrical Engineering from IIT Roorkee with distinction. 
+Currently working as Developer-L3 on AWS to customize it for a large firm to avail several functionalities that cannot be achieved directly. 
+TECHNICAL SKILLS 
+Operating System Windows, Linux 
+Languages Java/J2EE, JavaScript, Python, ALP 
+Compilers/Editors Eclipse, Atom, Sublime, PyCharm EDUCATION BACKGROUND 
+Integrated Dual Degree in Electrical Engineering with specialization in Power Electronics, Indian Institute of Technology, Roorkee 2010-2015 (CGPA: 8.840) Class 12th from G.D.M College, Harnaut (Nalanda) 2010 (78.0%) 
+Class 10th from High School Yogipur Gosainpur, Nalanda 2008 (73.4%) PROJECTS 
+AWS Native Provisioning 
+Wipro Technologies (May 2016- Present) 
+Synopsis: The requirement of the project is to provide a secure, customized and restricted/special features for a large firm (Shell) with proper billing to different units of the organization using AWS native services. The project requires deep understanding of few AWS services such as Service Catalog, Cloudformation, Lambda, Identity and Access Management along with good knowledge of JSON and Python. It also requires basic understanding of AWS services such as EC2, S3, RDS, Cloudwatch, networking etc. 
+Responsibilities: 
+Providing ideas in finalizing High Level Design 
+Suggesting different approach for user management 
+Writing Cloudformation templates for various services such as EC2, EC2+ELB, EC2+Autoscaling, EC2+ELB+Autoscaling, RDS-Oracle, RDS-PostgreSQL, RDS-MSSQL, RDS-Aurora etc. according to the requirement of the client. 
+Designing DynamoDB tables to be able to dynamically read data for different environments in different accounts based on the portfolio (subscription). Also wrote lambda to read those data. 
+Writing lambda (in python) to do all the works which were directly not possible using Service Catalog with limited console access for the users such as EC2 manual start-stop, EC2 reboot, EC2 snapshot, EC2 volume resize, RDS manual start-stop, RDS snapshot etc. 
+Modified and improved basic user management lambda and templates provided by AWS. 
+Created/modified products to automate Admin workflow as well as subscription owner s workflow. 
+Created/modified transition products to add the capability to transition products available in Wipro portal to the AWS native portal. 
+Handling all the technical issues and improvements along with migration of resources available in Wipro portal. 
+Slate- A Visual BI Tool 
+Wipro Technologies and StackRoute/NIIT (October 2015- January 2016) 
+Synopsis: Slate is an agile business intelligence tool for easy analysis of multidimensional data from any XML server. It is designed using MEAN stack. The tool can be divided into two parts- Analysis page and Dashboard. For graphical analysis d3.js was used. The tool allowed users to save the query and share the widget to other users for creating a report. The development environment used was Vagrant on Windows. 
+Responsibilities: 
+Designing the single page web product with capabilities of analyzing multi-dimensional data coming from XML server. 
+Writing a code using jQuery to display multi-dimensional data in hierarchical tabular format with attractive presentation. 
+Including passport.js for authenticating the users. 
+Including capabilities of saving connections and queries as well as exporting widget to a separate dashboard for report building purpose. 
+Providing formatted data to be used by d3.js for displaying various graphs corresponding to each row in a table. 
+Ship Reservation System 
+Wipro Technologies (July 2015- October 2015) 
+Synopsis: The aim of the project is to learn basic of Spring-MVC framework. We, in a team of 4 members, have created a website for facilitating reservation for ships. There were two different views and functionalities for Admin and Consumers. The project needed knowledge of JDBC, HTML, client side JavaScript, hibernate, JSP, Servlet, Oracle SQL, Spring-MVC framework etc. 
+Responsibilities: 
+Designing database table structure along with creating required procedures 
+Designing webpages for Admin and Ticket Reservation part of customers. 
+Writing Java code to meet all the requirements of the project. 
+Performance Investigation of Unified Power Quality Conditioned (UPQC) 
+Thesis, IIT Roorkee (June 2014-May 2015) 
+Synopsis: The dissertation includes study of various power quality issues and use of UPQC to mitigate those issues. This includes simulation and analysis of UPQC for three phase three wires and three phase four wires system with unit vector template (UVT) generation techniques and p- q theory generation techniques in MATLAB Simulink. The dissertation also includes development and testing of hardware prototype for UPQC. 
+AWARDS 
+Awarded with 
+Hindustan Pratibha Samman in 2010 for securing highest marks in 12th (science). 
+Awarded with 
+Spotlight Award in March 2017 by Shell CTO and Wipro ADH (ENU). 

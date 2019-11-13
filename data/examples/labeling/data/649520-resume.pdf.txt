@@ -1,0 +1,69 @@
+Tejesvi Chadag #3AC 910, 3rd A Cross, 1st Block, HRBR Layout, Kalyan Nagar, Bangalore - 560043 +91 9945302933 ||tejesvi.chadag@gmail.com 
+SUMMARY 
+A recent graduate equipped with B.E and M.S.E degrees from R.V. College of Engineering and University of Pennsylvania respectively. I have acquired skills, expertise and knowledge in key areas like Data 
+Science, Distributed Systems and Full Stack development which are driving the industry. Experience gained from my numerous Research Assistantships and part- time work has given me the confidence to contribute to the industry in a novel way. I possess excellent analytical and communication Skills with an ability to work independently with minimal supervision while also being a great team player. 
+EDUCATION QUALIFICATION 
+Master of Science in Engineering from University of Pennsylvania, Philadelphia, USA (GPA: 3.39/4.0) Bachelor of Engineering from R. V. College of Engineering, Bangalore, India. 
+(GPA: 8.81/10.0) 
+TECHNICAL SKILLS 
+Languages : C++, SQL, NoSQL, Python, JavaScript, HTML, Bootstrap, CSS, 
+Technology: Node.js, REST API, Angular.js, Pandas 
+Databases: MySQL , MongoDB 
+Operating Systems: Windows, Linux 
+EXPERIENCE 
+THINX, Philadelphia 
+Data Analyst 02/2017-05/2017 Cleaning data and populating relational databases Implemented functionality to calculate repurchase rate based on a rolling window. 
+Performed segmentation analysis to isolate specific customers for a marketing campaign. 
+Integration with Amazon product advertising API to calculate market share of specific products in Women s hygiene 
+Technology Used : Python , SQL, Pandas, Docker MLab, University of Pennsylvania 
+Research Assistant 08/2016-12/2016 Responsible for Developing a cloud infrastructure for the integration of a pressure sensor based and a Meteor platform based entertainment application. 
+The application lets the user add videos and set effects for particular time stamps. These effects are transmitted to the mat and can be physically experienced. 
+Technology Used: JavaScript, HTML, NoSQL, MongoDB Grasp Lab, University of Pennsylvania 
+Research Assistant 04/2015-08/2015 Synthesized a controller using TuLip, that replicates the behavior of an automaton in a variable grid with dynamic obstacles. 
+Integrated the controller with the Ardupilot SITL simulator using Python. 
+Also designed and implemented a client-server based simulation for the automaton in collaboration with Galois Inc. 
+Technology Used: Python, Tulip 
+High Energy Physics Group, University of Pennsylvania 
+06/2015-08/2015 
+Research Assistant 
+Responsible for designing Low Noise, Low Power Reference, Shaper and Driver in IBM 7WL 180 
+nm BiCMOS process technology as part of electronics upgrade of front-end board of Liquid 
+Argon readout electronics (ATLAS Liquid Argon Calorimeter) 
+Technology Used : Cadence 
+PROJECTS 
+Distributed Chat System 
+Implemented a fully distributed centralized group chat system with arbitrary user size. It was implemented on top of UDP and fully ordered multicast protocol with one group member serving as the leader which is decided using Bully algorithm. 
+Also implemented a decentralized version of the system 
+Technology used: C++, Socket programming, Linux XLab Cloud Infrastructure 
+Developed an entertainment tool that lets the user play, add or delete videos and set physical effects (using physical devices like vibrating couch, vest and LED panel) for different time- stamps. 
+Integrated with database using Meteor platform. Real time communication between different devices using TCP server/clients. 
+Technology used: C++, JavaScript, HTML, NoSQL, Socket programming 
+Are you A Movie Junkie (Web based movie quiz app) 
+User had the option to select between 40 categories of varying difficulty Data sets were hosted as RDS instance on AWS and NoSQL instance on MongoDB 
+Node.js Server was implemented on AWS EC2 instance. 
+Client used jQuery and Bootstrap to perform Front end logic 
+Technology Used: Node.js, JavaScript, MYSQL, NoSQL, JSON 
+Full Fledged REST API Server 
+Server developed using Express, MongoDB and Mongoose 
+Used HTTPS server core node module to create and run a secure server Used Mongoose population to cross-reference documents and populate collections. 
+User authentication with JSON web tokens and the Passport module Server also supports user authentication based on OAuth providers(Facebook) 
+Technology used: Node.js, JavaScript, MongoDB Electronic Voting Systems 
+Designed and implemented a voting system using socket interface. The voting program running on the server aggregates the votes sent from multiple clients and categorizes them based on the voting candidates. 
+Technology used: C++, Socket programming, Linux 
+Elevator Control Algorithm 
+Developed an algorithm to serve an elevator model for five floors depending on user request and implemented it using a request buffer to take four floor requests at a time in the most efficient way possible using HCS12C micro-controller. 
+Technology used: C 
+Whack-A-Mole 
+Built my own version of the Whac-a-Mole game using a network of mbed microcontrollers.The project involved building a wireless network of mbeds using MRF24J40 ZigBee, programming the mbed with a single master- multiple slave configuration. 
+Technology used: Embedded C 
+Audio Morse Code Decoder 
+Built a Morse Code Detector circuit using HCS12C microcontroller. The decoder can hear audio messages encoded in Morse code and decode them in real-time. 
+The project involved building a detector circuit to receive pulses from the audio message, interfacing the circuit to the HCS12C microcontroller. 
+Technology used: Embedded C 
+GSM Based DAQ 
+A Data Acquisition system using the 8051 Micro Controller and a GSM Module was made. The 
+Micro controller was programmed to collect data (Temperature, Humidity, LPG presence etc.) and to send the information to a stored mobile number as a Text Message(SMS) when remotely requested using the GSM Module. 
+Technology used: C 
+Multivariate Predictive model for wind power using ANN 
+Using artificial neural networks, a multivariate wind speed prediction model was developed that can predict wind speed for every 10th minute of the next 24 hours. Using these predicted values, the power output of the plant was also determined. 
+Technology used: Matlab 

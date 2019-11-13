@@ -1,0 +1,70 @@
+Prathamesh kulkarni kulkarni.a.pratham@gmail.com, +919028972188 EXPERIENCE SUMMARY 
+Bechrole in computer Application with Higher Second class and having around 7 month of experience using web technologies. 
+Technical understanding and expertise in PHP, Cake PHP Wordpress CMS, HTML 5, CSS 3, Bootstrap, JavaScript, Jquery, 
+MySQL, PL/SQL 
+Depth knowledge on PHP MVC, PHP OOPS, RESTFul services. 
+Technical expert in development of E-Commers, Portfolio websites. 
+Excellent Team player, 
+Email Aticate, Phone Atiqates. 
+EDUCATIONAL QUALIFICATION 
+Bachelor in Computer Application, 
+Pune University 
+CERTIFICATIONS 
+Certification in 
+PHP 
+TECHNICAL SKILLS 
+Operating Systems MS Windows 
+Tools DreamWeaver,Notepad,Notepad++,Edit++,Subline, 
+Languages/Standards/ Protocols PHP, JavaScript, SQL, PL/SQL, HTML 5, HTTP 1.2, CSS 3 
+Frameworks WordPress Google Map JQuery, DataTable.js, Bootstrap CakePhp,CodingNighter Servers Apache, GoDaddy CPanel Databases MySQL, Oracle PROJECT EXPERIENCE MaxGen Technologies, Hinjewadi, Pune, Maharashtra 
+Jan29 till date 
+Project: 
+scmservices.online: 
+Date Jan29 to Feb'29 
+Role: Developer 
+Technologies : 
+Frontend: HTML,HTML5, CSS,CSS3, JAVASCRIPT, BOOTSTRAP frontend framework 
+Backend: PHP Database: Mysql 
+Description: 
+ScmServices provides various Direct to home services and to manage their organization they required website scmservice.online. This Application have mainly three modules are their. Admin 
+Employee 
+Client 
+Using Client Module, end user can do registration, login and request available service like cleaning, maintenance, security and pestcontrol.. 
+Employee of Organization can do registration and get username and password through email from admin then login and he/she can see all task assign by admin for particular day. Employee has to give all report of his particular task to admin everyday. 
+Admin can see all request from clients and manage them(Delete that request, Reply that request). Admin can assign work to employee and he can see all updates report of particular employees work 
+Responsibilities : 
+Coding various web pages using various technologies Deployment of website on service machine 2) Project: Maxgentechnologies.com: 
+Date March16 
+Role: Developer 
+Technologies : 
+Frontend: HTML,HTML5, CSS,CSS3, JAVASCRIPT, BOOTSTRAP frontend framework 
+Backend: PHP Database: Mysql 
+Description: 
+In this website I have done Online Exam module. in this module students select technology according to them choice (PHP, JAVA, .NET, ANDROID) and do registration. 
+After registration they have to login and exam will start according to them choice they have select technology. 
+After time is finished exam will submitted and they will get result. 
+3) 
+Project: www.proteinapasta.com: 
+Date April16 to aug13 
+Role: Developer 
+Technologies : 
+Frontend: HTML,HTML5, CSS,CSS3, JAVASCRIPT, BOOTSTRAP frontend framework 
+Backend: PHP Database: Mysql 
+Description: 
+www.proteinapasta.com is E-Commerce site for pasta product. 
+In this project user can see all pasta products with them details and they can add numbers of products in cart and view cart also. 
+But without login user can not buy that particular product . for purchase any product registration and login is must. 
+Once user buy the pasta user will get one Email from admin . email contains all the details of user and order details also. 
+User can find nearest pasta stores by them address and postal code also. 
+After that user can select payment type(credit card , debit card) and do payment with PSIPAYMENT Gateway. 
+PERSONAL DETAILS 
+Full Name : Prathamesh Avinash kulkarni 
+Nationality : INDIAN 
+Marital Status : UNMARRIED 
+Date of Birth : 24 July 1993 
+Phone No : 9028972188 
+Address : 696,Sadashiv Peth, Khalkarwada, Chitale Sadan Samor, Pune 411030 DECLARATION 
+I hereby declare that the above written particulars are true to the best of my knowledge and belief. If u given a chance to work with your company I will definitely do my best and learn a lot. 
+Date : 
+Place : Pune 
+Prathamesh Kulkarni 

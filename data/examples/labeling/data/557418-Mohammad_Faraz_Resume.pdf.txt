@@ -1,0 +1,50 @@
+ Amity School of Engineering And Technology (ASET) Amity University Uttar Pradesh (AUUP) Sector 125, Noida, Uttar Pradesh 201313 
+Email: placement@amity.edu| Website: http://www.amity.edu/aset/ Mohammad Faraz 
+Date of Birth: 21 June 1995 
+E-mail: mr.mohammadfaraz@gmail.com 
+Phone Number: +91-8860396322 ACADEMIC QUALIFICATION Year 
+Degree 
+Institute Board / University Specialization 
+Marks 2017 
+B.Tech 
+ASET 
+Amity University 
+Computer Science 7.3 CGPA (7th Semester) 2013 
+AISSCE DMA 
+CBSE PCM + Computer 
+Science 90% 2011 
+AISSE 
+DMA CBSE - 91.2% 
+INTERNSHIP PLAVAGA SOFTWARE SOLUTIONS Intern January March 2017 Key 
+Deliverables 
+Developed a smart lighting system Worked on IoT, Android, Java, MQTT, Embedded programming Hands on experience with hardware s like raspberry pi, ESP8266 Wi-Fi module 
+HATCHERY HUB 
+Intern 
+May June 2016 Key 
+Deliverables Worked as a Web Developer Got acquainted with various technologies, frameworks like: Spring, Hibernate, JSON, REST services 
+An understanding of the E-commerce industry PROJECTS Home Automation 
+System 
+Automate light Electronic appliances 
+Provides Remote Access through mobile phones Control appliance from anywhere in the world 
+Provides Two way communication Access through Cloud only 
+Technology Used: IOT, MQTT, Paho, Raspberry Pi, Java, Android, Embedded Systems 2017 E-Diagnosis 
+Provides online health care services Return nearby diagnostic centers using current location of the user Schedule a home collection request Technology Used: Java, JSON, Spring framework, Hibernate framework, Restful web services Team size: 4 students (Team Leader) 2016 Prepare360 Aims at providing all academic related material under one roof Provides Notes, Previous year question papers and Video tutorials Technology Used: HTML, PHP, CSS 2016 Android 
+Calculator 
+Basic and Scientific calculator Technology Used: Java, Basic concepts of Android, Special libraries like JEval Team size: 2 students 2015 3D Printing 
+Technology 
+Insight of what is 3D printing Basic Understanding of how printer works Future Scope of the technology 2014 Ticketing 
+Web based ticket management system 
+Keeps track of tasks and monitor their progress Technology Used: Java, Spring, Hibernate, JSP 
+Team size: 5 students 2016 
+COMPUTER PROFICIENCY Languages: C, C++, Java, Android, PHP, HTML, SQL Tools: Eclipse IDE, MS Office, Android Studio, Raspbian, Technologies & Frameworks: Spring, Hibernate, Restful Web services, MQTT, Eclipse Paho, JSON EXTRACURRICULAR ACTIVITIES Positions of Responsibility 
+Mic Coordinator, Confluence, Annual Conference Of Computer Science Dept, ASET 2016 Member, Alfaaz, Literary Club, ASET 2013 Mic Coordinator, Annual Cultural Festival, Dayawati Modi Academy 2011 Vice Cultural Secretary, Dayawati Modi Academy 2011 Awards and Merits Scholarship from Amity University 2014 Marker-cup holder for chemistry in AISSCE 2013 Certificate Of Participation, AMIMUN 13, Amity University 2013 2012 
+Best Anchor Award, Dayawati Modi Academy 
+1st Position, Technum-Opus, Techmania-2012, RBMI 2012 
+2nd Position, Samavesh, Techmania-2012, RBMI 2012 
+1st Position, Inter-School Competition 2011-12, R.A.N Public School 2012 Scholar Badge Holder, Dayawati Modi Academy 2011 
+KEY COMPETENCIES Open to new Technologies 
+Oratory Skills 
+Competent Result Oriented Adaptive Commercial Awareness 
+Team Player 
+Analytical Thinking 
+Client Service 

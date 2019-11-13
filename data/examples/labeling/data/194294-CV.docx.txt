@@ -1,0 +1,35 @@
+CURRICULUM VITAE 
+Shreya E. Nair B.E.(c.s.) 
+CAREER OBJECTIVE 
+To perform to the best of my potential, using all my knowledge, skills and abilities to perform well by being creative and competitive in the ever-challenging field of IT. 
+EDUCATIONAL QUALIFICATIONS 
+Course 
+Percentage Year of Passing Board of Education / University Name of Institution & place of study Degree B.E. in Computer Science & Engg. 
+72% June, 2015 (2011-2015) Visvesvaraya Technological University (VTU) Cambridge Institute of Technology, 
+Bangalore PUC/12th Standard 
+77% March,2011 P.U. Board of Govt. of Karnataka New Horizon P.U.College, Bangalore 
+S.S.C - Standard 10th 83% March,2009 
+C.B.S.E 
+ITI Central School, Bangalore 
+Diploma Course 
+Undergone course in Core Java (Oops, Collections, Strings, Exception Handling, Threads) from Soft Tech Solutions, Bangalore. 
+Undergone course in Advance Java (JDBC, JSP, Servlet) from Inventateq, Bangalore. 
+TECHNICAL SKILLS 
+Programming Languages : JSP, Servlet, JDBC, Core Java, C++ 
+DETAILS OF THE PROJECT UNDERTAKEN AT ACADEMIC LEVEL 
+Project 1 Project Title 3D Assisted Face Recognition: Dealing With Expression Variations 
+Environment Matlab Description 
+This project shows the implementation of a face recognition system which is used to identify a person by comparing the selected facial features from the image with that of a facial database. It also displays the varied expressions of the image. 
+Project-2 
+Project Title Mini project on Traffic Signal Implementation 
+Environment OpenGI Description 
+This project shows the implementation of a general traffic signal system, where the green light allows traffic to proceed in the direction denoted, the yellow light provides warning that the signal will be changing from green to red and the red light prohibits any traffic from proceeding. 
+Personal INFORMATION 
+Date of Birth & Age 
+26th October, 1993 
+Languages known English, Hindi& Malayalam 
+Residential Address (Permanent) # 3, New Manjunatha Layout, 1st Cross, Behind BalajiNusring Home, Off Shanti Layout Main Road, Ramamurthy Nagar, Bangalore - 560016 
+Contact Numbers Mob : +918867124205 E-mail id. 
+shreya.e.nair@gmail.com 
+I hereby declare that the information furnished above is true to the best of my belief and knowledge. 
+(Shreya E. Nair) 

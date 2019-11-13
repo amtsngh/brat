@@ -1,0 +1,55 @@
+Swift OOp s principle Framwork 
+Adobe Photoshop Xcode 
+Responsive Design iPhone Analatic Jailbreak Agile iPad Dev. 
+Wireframes 
+Print 
+Sketch 
+Objective-C 
+Xcode 
+SKILLS 
+Motivate Youngster to donate blood in the special events like 26th jan, 2nd Oct & others Work As a tech Support in Rotary 
+International bhubaneswar, During my college time Rotary International 
+VOLUNTEER 
+Red Cross Society 
+Abdul Karim 
+Hyderabad, India (+91) 7659-000580 github.com/abdulKarim002 abdul.karim002@gmail.com in.linkedin.com/in/abdulkarim002 
+iOS Developer 
+CONTACT CONNECT BACKGROUND 
+Friend n Fans is a chatting, sharing and Making Friends Application. 
+The main purpose of the app is to sell item within your friends. 
+Its a Dynamic Library which can be implemented on any iOS Project. 
+Written in Swift 2 and Support Multiple Device. 
+Webwing Technologies - Nasik, India 
+Friend n 
+Fans iDevice Information iOS Developer 
+EXPERIENCE PROJECT SEPTEMBER 2015 - PRESEN T 
+OCTOBER 2015 NOVEMBER 2015 
+Its a Dynamic Library which can be implemented on any iOS Project. 
+Written in Swift 2 and Support Multiple Device. 
+Can Be Easily Integrated with few line of code. 
+Activity Indicator 
+NOVEMBER 2015 
+Its a Geo-Location App. 
+Ability to plot a two different waypoint as source and destination. 
+Can Share and add friends to join. 
+Its a Online Authentication App . 
+Have the funcanality to scan qr code and shedule a session. 
+Talks to web server and send required data. 
+CONVOY COMMANDER DECEMBER 2015 
+DNA CR JULY 2016 
+Its a Online Medical Appointment and Sheduling App . 
+Have the ability to send medical reports and counsult doctor. 
+QUICKLY JUNE 2016 
+Its on development Now . KHADOOM 
+AUGUST 2016 Bachelor Degree in Computer Science and Technologies 
+BPUT, Odisha - (CGPA - 7.5) 2014 - 2015 EDUCATION 
+Responsible for design & development of iOS Application. 
+Testing iOS Application according to apple protocol. 
+Responsive Design to support all iDevice Screens. 
+Testing WebServices API s Making Application which talks to web services. 
+Web Sync/Device Sync Application Implementation. 
+Bug Tracking and Bug Rectifying in application. 
+Measuring User Engagement. 
+Monetization iOS Application. 
+Documenting App Analytics. 
+Keeping Updates about all iOS funcanality and added services Interaction with client to sort out their problem 

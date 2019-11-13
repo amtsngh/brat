@@ -1,0 +1,131 @@
+Sourav Biswas B 202, GR Queens Pride, Yelenahalli, Begur Koppa Road 
+Bangalore 560068 
+Karnataka, India. 
+Mobile: +91-9972863062 / +91 9902388850 
+E-mail: biswassou@gmail.com (mailto:biswassou@gmail.com) 
+Total Exp 15 Years in IT & Relevant Exp 13 Years as MSSQL DBA OBJECTIVE: - 
+To choose the work, I am interested in which I can perform at my level best. To deliver my duties very sincerely and regularly in the interest of the organizations. Also to utilize my skills and abilities to make successful career in the field of Service Management. 
+QUALIFICATION:- MBA from Sikkim Manipal University (DU) in 2016 BCA from Sikkim Manipal University (DU) in 2014 Diploma in Electrical Engineering from Hooghly Institute of Technology in 1998 under W.B.S.C.T.E. 
+H.S. (12th Standard - Science) from Chinsurah Deshbandhu Memorial High School in 1994 under W.B.C.H.S.E. 
+Madhyamik (10th Standard) from Garbati High School in 1992 under W.B.B.S.E. 
+PROFESSIONAL QUALIFICATION & CERTIFICATION:- DOEACC A Level (PGDCA) all the 10 papers and Practical passed. 
+(DOEACC Society is an autonomous body of Ministry of Information Technology Govt. of India). 
+MCTS 432 - Microsoft SQL Server 2008, Implementation and Maintenance 
+M102 - MongoDB for DBAs TECHNICAL ENVIRONMENT:- 
+Languages : D2K, C, T-SQL, PL/SQL and Visual Basic 6.0. 
+Operating System : DOS, WINDOWS 2000/2003. 
+Rdbms : MS SQL SERVER 2000/2005/2008/2012/2014. 
+NoSQL Database : MongoDB Technical Proficiency : MS SQL SERVER 2000/2005/2008, T-SQL, PL/SQL. 
+SKILLS: - Working as a Delivery Lead for 10 members team Planning, Commissioning and decommissioning of MSSQL Database Instances 
+Database Migration and Up-gradation 
+Worked in all High Availability solutions e.g. Clustering, AlwaysOn, Mirroring and Log-shipping 
+Worked actively in DR (Disaster Recovery) / BCP (Business Continuity Planning) 
+Worked on all kind of Replications and developed own merge replication for different SQL Server version 
+Done Automation of routine database refresh task 
+Strictly adhered to the process Microsoft Certified Professional MCTS (SQL Server 2008, Implementation and Maintenance) 
+Successfully completed NoSQL Technology Course: M102: MongoDB for DBAs 
+WORK EXPERIENCE: - HP GlobalSoft Pvt Ltd ------------------------ 
+(From Nov2010 to till date) Electronic City, Phase - 1, Bangalore 560100 1. Database Delivery Lead & L3 Support 
+Description Leading a 10 members team, handling Escalation, helping team in any critical situation and mentoring Role DBA L3 Consultant and Technical Team Lead 
+Operating System Windows Server 2000, 2003, 2008, 2012 
+Environment MS SQL Server 2000/2005/2008/2008 R2/2012/2014 (Including clusters) Contribution Planning & Server Build 
+MSSQL SERVER installation 
+Patching Capacity planning 
+Performance Tuning 
+All change management and problem management Actively took part in DR test with all other technical teams 
+Working on elevated incidents, if required need to open case with Microsoft and work till closure 
+Mentoring team members 
+Creating SOPs Preparing RCA when required Attend meeting with Clients 
+Period 62 months (Till date from Dec 2010) 
+Other Information 
+Clients: TNT, Unilever, Delphi, Metso, SeaDrill, Pepsico, Agilent MindTree Limited -------------------------- 
+(From Sept2009 to Nov2010) 
+Global Village, Mysore Road, Bangalore 59 2. Database Support 
+Description Production Support for 411 Databases in 66 Servers (Also more than 1000 Databases in 28 Development and 19 Test servers) 
+Role DBA 
+Operating System Windows Server 2000, 2003, 2008 
+Environment MS SQL Server 2000/2005/2008 Contribution MS SQL SERVER 2005/2008 installation 
+Backup and restore using Idera SQL Safe Transaction replication setup and maintenance 
+Log shipping setup and maintenance 
+User management 
+Space management 
+Creating and scheduling jobs 
+Executing Multi server query Period 13 months (Sep2009 from Nov2010) 
+Other Information Client: Costar (US) Wipro Technologies ------------------------- (From June2006 to Sept2009) Electronic City, Bangalore 3. Database and Infra Support 
+Description Production Support for 500+ Databases in 35 Servers and Migration of SQL Server 2000 to SQL Server 2005 
+Role DBA 
+Operating System Windows Server 2000, 2003 Environment 
+WINDOWS 2000 SERVER, MS SQL Server 2000, MS SQL SERVER 2005 
+Contribution MS SQL SERVER 2000 / 2005 installation 
+Database Designing as per Client requirement 
+Database creation, backup and restore 
+Merge replication setup 
+Migrating from SQL server 2000 to SQL Server 2005 
+MS SQL Service monitoring 
+User management 
+Space management 
+Creating and scheduling jobs Period 24 months (July 2006 to Sep 2009) 
+Other Information Client: Xerox (US) and Southern Waters (UK ) 
+Systems Incorporate (India) Pvt. Ltd. 
+------------- (Sept.2001 to June2006) 
+Salt Lake City, Sector II, Kolkata 700091 Systems Incorporate (India) Pvt. Ltd. is an organization which works on the concept of material management system and supply chain management system and involved in design and development of customized software solution enabling different business operation, especially in client server and web environment. 
+5. MCCS (Material Classification, Codification and Standardization) 
+Description MCCS is a materials management software used in stores for mainly codification purpose. It consists of Classification, Code Generation, Report etc. modules. The management can get detail information about the various spares parts of materials. 
+Role Programmer + DBA 
+Operating System 
+Windows 2000,Windows 3.1/95/98 Environment MS SQL Server 2000, Java, JSP, Developer 2000 Contribution 
+Involved in process flow study. 
+Involved in understanding business requirements and impact analysis for change requests. 
+Involved in PL/SQL coding 
+Involved in SQL Server 2000 installation, connectivity checking, database designing and user management. 
+Created Tables, Views, Joins, Indexes Configured Snapshot replication. 
+Wrote Stored-Procedures, Triggers, UDFs. 
+Wrote T-SQL using query analyzer to generate reports. 
+Involved in performance tuning. 
+Involved in implementation. 
+Period 28 months (Feb 2004 to May 2006) 
+Other Information Client NTPC LTD. 
+6. Immense (Integrated Materials Management System) Description IMMENSE is a materials management software used in stores. It consists of Issue, Receipt, Report etc. modules. The management can get detail information about the consumption of various spares parts of materials and various types of analysis. 
+Role Programmer 
+Operating System Windows 2000, Windows 3.1/95/98,Windows NT 
+Environment MS SQL Server 2000, Developer 2000 Contribution 
+Involved in understanding business requirements and impact analysis for change requests. 
+Involved in PL/SQL coding 
+Involved in SQL Server 2000 installation, connectivity checking, database designing and user management. 
+Created Tables, Views, Indexes, Joins and Indexes. 
+Configured Snapshot replication. 
+Used DTS for taking & restoring back-ups. 
+Wrote T-SQL using query analyzer to generate reports. 
+Involved in implementation. 
+Period 22 months (Feb 2002 to Dec 2003) 
+Other Information Client: Coal India Ltd. 7. OBBS (Order Booking and Billing System) 
+Description 
+The project aims to automate all the functions of a courier-booking agency. The daily consignment booking is entered through a user friendly data entry Screen at the end of the day a daily report is generated. Monthly report is generated at the end of the month. 
+Role Programmer 
+Operating System 
+Windows 3.1/95/98 
+Skills MS Access, MS Office, Microsoft Visual Basic. 
+Environment MS Access, VB 6.0, Windows 98 Contribution 
+Involved in Coding Designed databases in Access 
+Involved in query writing to generate report. 
+Period 4 months (Sep 2001 to Jan 2002) 
+Other Information KEYSTRENGTH & ACIEVEMENTS: - Excellent communication skills, good attitude and team skills. 
+Can absorb quickly and contribute productively. 
+Ability to meet deadlines and work well under pressure. 
+Strong motivation to learn new technologies. 
+Hard work, confident, self-disciplined and sincere. 
+PERSONAL DETAILS: 
+Age : 39 yrs Date of Birth : 23/12/1976 
+Phone No : 9972863062 / 9902388850 
+Nationality : Indian 
+Email-id : 
+biswassou@gmail.com (mailto:biswassou@gmail.com), bissourav@rediffmail.com (mailto:info@cybertechinfo.net) 
+OTHER DETAILS:- 
+Hobbies 
+: Listening to music. 
+Languages Known : English, Bengali and Hindi. 
+Date: 
+_________________ 
+(SOURAV BISWAS) 
+*
+********************************************************* 

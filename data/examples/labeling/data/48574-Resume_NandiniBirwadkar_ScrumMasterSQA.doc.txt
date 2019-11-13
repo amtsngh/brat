@@ -1,0 +1,155 @@
+Nandini N. Birwadkar 
+Address: 103, New Ganga Pooja CHS, Sudarshan Crosslane, Navghar road, Bhayandar (East), Thane 401 105. Contact: +918286507316
+, Email: 
+nandini.birwadkar@gmail.com 
+Career Objective: Software Testing & Quality Assurance Professional with 9 years Seek to contribute in a challenging work environment in area demanding technical expertise, customer focus and people orientation. 
+RESUME DETAILS 
+Professional Profile: 
+Certified Agile QA Professional with 9.3 years of experience in playing the role of Scrum Master & Module test lead. 
+Excellent Communication, Leadership, Team building, Technical & Analytical Skills with proven abilities in resolving complex software issues. 
+Worked in all areas of project execution including planning, business analysis, requirements gathering, design test deliverables, testing, sprint matrix reporting. 
+Experience in release planning, backlog grooming ,estimation techniques, facilitate prioritization, sprint planning, capacity planning, daily scrum meeting, retrospective, sprint reviews, Removing impediments, conflict management, make team collaborative to help achieve sprint objective Experience in writing and executing Test Process, Planning & Estimation, Test Strategies and test cases in structured and Agile development environments, performing all types of testing including functional, automation, load, performance, security, ad-hoc, installation, acceptance, sanity, browser and operating system compatibility, Internationalization/Localization, document and Bilingual testing with Japanese language for web based and Client Server applications. 
+Proficient in hands on and leading test activities for Functional, System, UAT testing of several Web based applications, Web services Testing & API testing using SOAP & REST in various domain as ecommerce, healthcare Insurance, Forex, Telecom, Mobile & Cloud Computing. 
+Skills Set: 
+Testing: 
+Leading testing efforts in end to end SDLC. 
+Functional and non-functional testing of web based & Client/Server applications Web service & API testing using SOAP & REST. 
+Test cases Management using Quality Centre, Jira, Rally & Bugzilla. 
+Functional testing of Cloud based web applications. 
+Large Production Data Migration testing. 
+Test cases and test data generation for Alpha and Beta testers. creation of Test Plan, effort estimation, scheduling and assigning tasks to team members, communication and coordination with client and teams, preparation of daily, weekly and monthly reports. Synergize with the Onshore Release Manager and Program Manager for any issues escalation and day-to-day activities. 
+Hold an expertise of bilingual testing with Japanese language. 
+Task performing as a Scrum Master: 
+Defining the scope of development of User stories of each Sprint/Release delivery. Organize the sprint planning meeting & capacity calculations, poker estimation. 
+Removing impediments to the ability of the team to deliver the product goals & deliverables. 
+Facilitating Daily Scrum, Sprint review, Sprint Demo & Sprint retrospective meetings. 
+Working with product owner on Artifacts such as Product Backlog, Sprint Backlog & Sprint Burn down. 
+Scrum of Scrum. 
+Sprint tracking via tools like Jira, Rally. 
+Publicizing the team progress & successes to make sure they are highly visible to Product owner/Stakeholders. Keeping the team together all the time to ensure successful sprints. 
+Tracking & managing the timeline/deadline/milestones of the project. 
+Initializing & implementing agile processes & practices in & across organization. 
+Automation tools: 
+QTP & Selenium Web Driver(Beginner level) 
+Platforms: 
+MS Windows (NT, 2000, XP, Vista), Linux (Basic) 
+Technologies: 
+Cloud Computing, Project tested built in Java, C++,Dot Net, HTML, JavaScript 
+Programming Languages: 
+VBScript & Java Basic Database systems Tools: 
+Oracle, MS-SQL Server 7.0/2000/2005,Ms-SQL 
+Testing Tools: 
+Quality Center, Jira, Rally & Bugzilla, Siebel 7.8,Siebel 8.1 
+Core Competencies: 
+Team Lead & Management StrategicPlanning & Execution Test Plans & E to E test Activities 
+Scrum Master & Quality Orientation. 
+Virtela Technology Services Incorporated (An NTT Communications Company (https://www.linkedin.com/company/14754?trk=prof-exp-company-name)) 
+Since July 2014 Senior Engineer 
+QA /Scrum Master 
+Deftly involved in planning, scheduling and ensuring completion of the project within the time; look after test planning, test designing, test cases and execution (complete testing cycle). 
+Accountable for Defect Management using Bugzilla & Jira to ensure the defects are fixed within the Turnaround time. 
+Efficiently provide Defect Summary Reports periodically; handle development of Testing Metrics to measure Defects, Variance, Test cases and several other parameters to improve the quality. 
+Exercise Effort Estimation using Test Case Point Method; meticulously involved in development of Testing Dashboard. Review the test case document, actively involved in requirement gathering phase to resolve queries. Environment setup for Selenium, test case scripting & execution. Escalate the issues about project requirements, to project manager. 
+Responsible for Web & mobile testing web application in Cloud Computing. 
+Assigning task to team member and tracking them. 
+Mentoring/motivating team member. 
+Managing End to End release. 
+Mastek service ltd. 
+Sept 2012July 2014 
+Sr. Software test Engg\Module Lead & Scrum Master 
+Responsible for monthly releases of Index and pricing module; Involved in Demand analysis, test scenario preparation, test scripting using Quality Centre. 
+Performed review of Test artifacts, Sanity testing, System Testing and Regression testing 
+Involved in functional testing of Forex application for wholesale Partners. Managed Database testing of backend (SQL Developer Database); responsible for updating Regression test pack based on new specifications. 
+Accountable for Daily & weekly status reporting to Client for team; maintained co-ordination with Business Analyst & Developers for individual Demands, analysis and test condition preparation. 
+Meticulously involved in preparing Test Metrics; performed effort estimation and assigned task to team members. 
+Efficiently created detailed test cases/scripts for technical and/or business clients; executed test scripts by comparing data in source files, transformation logic, data mapping, and analysis of documentation. 
+Effectively formulated a test strategy based on technical specification documents and business requirements. 
+Assisted business, development, and testing teams to troubleshoot problems identified in testing; worked with resources in a global workforce environment. 
+Cybercom Datamatics Information Solutions ltd. 
+Dec 2010Aug 2012 Associate Consultant & Scrum Master 
+Involved in creating test plan, data, procedures and component based manual scripts based on business function requirements using QTP. Accountable for ensuring test coverage and mapping of requirements to tests; ensured tests are self-contained, well documented, maintainable and reusable. 
+Handled test data analysis and created/mined test data for multiple or complex projects; deftly executed systems, functional and end to end test scenarios and cases. 
+Performed risk based analysis for test execution and ensured test environment reflects requirements for test execution. 
+Liaised with Business Analyst and Developer to resolve any defects found; analyzed and reported overall test status and results of test case execution. 
+Meticulously reviewed test results, applied analytical skills to identify when issues need to be escalated and identified associated risk and/or impact. Efficiently prepared automated test scripts for regression testing. 
+Attend demo, retrospectives and planning meeting in scrum. Represent test in daily scrum meeting. 
+Modifying & Maintaining Automation test cases using VB scripting in QTP 
+Creating test cases in automation pack which can be scheduled for execution automatically through QC and other frameworks. 
+Responsible for End to End sprint Module UAT testing using QC. Responsible for End to End Mobile testing simulator and emulator. 
+Actively involved in coordination & testing of bilingual testing in Japanese language & client interaction. 
+Attended & successfully done certification of Agile Tester from iSQI eClerx Service Ltd 
+Feb 2007 Nov 2010 Analyst 
+QA 
+Spearheaded efforts as QA Analyst; involved in developing Test cases/Test scripts for Administration & Security Modules. 
+Deftly executed Test Cases; performed Functional Testing (Manual) and Regression testing. 
+Responsible for bilingual end to end testing in Japanese language Interacting with the stake holders on mail & IM to get the teams queries resolved (including Japan stakeholders). 
+Requirement gathering, Collection & analysis of base line data is the core activity & based on the same creating user stories Test data verification in Japanese to English language g& vice versa Responsible for Defect tracking using customized tool, Project Issue Communicator. 
+Attended Green belt six sigma training 
+Rewards: 
+Received Stellar award for excellent performance & Team handing with successful release of sprint at Mastek. 
+Received Spot Award for performing extra management activities apart from core testing daily work at Mastek. 
+Achieved Best Analyst of the Quarter award twice for excellent performance, team handling and successful completion of Pilot Project which led to gain new business to company at eClerx. 
+EDUCATIONAL CREDENTIALS 
+B.Sc in Computer Science with Second Class from Mumbai University. 
+BA in Japanese language from TMV, Puna. 
+Successfully Completed Certified Agile tester course at organizational level. 
+Cleared JLPT 3 i.e. newly introduced N4. 
+Completed Certificate & Diploma course in Japanese language from Mumbai University. 
+Completed A certificate course of Web Designing from M.C.E.D. 
+Completed Certificate course of Manual & Automation Software Testing from I.D.E.M.I. 
+References: Available on Request 
+Projects Undertaken 
+Title Testing Web Applications, Email Message Components, Telecom & Mobile applications in Agile & on cloud env. 
+Client NTT Communications @Virtela 
+Technology JAVA, SQL Server, Siebel 7.8, Siebel 8.1, Soap UI, SQL Developer, Jira, Bugzilla, Selenium WebDriver 
+Team Size 
+20 members Review Virtela, an NTT Communications Company is mainly active in Telecommunication & cloud computing SAAS Based 
+Product based organization. 
+Project include enhancement of daily received change request from user in order to make smooth delivery of In house, virtual & NTT telecom devices. VCOM is an inventory application where as Sieble is a application through which user connect to customer via raising ticket & end to end business flow from providing pricing quote till closing the ticket of providing device & telecommunication & cloud network. 
+Title Wholesale and Partners 
+Client Travelex India Limited @Mastek 
+Technology JAVA, SQL Server, Talend, ETL, ESB, BPM, MDM, Jira, QC 
+Team Size 
+25 members Review The project aimed at providing one platform for online buying and selling of currencies across any region to utilize the resources efficiently and gain more market profits. 
+Data analysis: Verification of business data 
+MDM Testing: Verification of Business data loaded into MDM server 
+BPM Testing: Verification of Order flow from Order capturing application to BPM and then to downstream applications. 
+Title Oceanic Life Insurance (Insurance) 
+Client OLI@ Mastek 
+Duration 
+From 15th June 2011 till 31st August 2012 Environment 
+QTP10, QC 10.0, Java,.Net 
+Team Size 
+15 members Review 
+The project has been restructured to optimize the inherent opportunities within Group and positioned to deliver worldclass insurance services to the country and beyond. This is reflected in OLIs governance structure, management team and technology. 
+Title Bupa SWIFT (Health care insurance) 
+Client Bupa UK @Datamatics 
+Duration 
+From 15th June 2011 till 31st August 2012 Environment 
+QTP10, QC 10.0, WebEx 2.4, Swift tool (Application provided by client), PeopleSoft Team Size 
+15 members Review SWIFT is an endtoend Insurance Product Management tool for BUPA UK to Manage Insurance Products for the 
+UK Market. This includes, creating new products with their benefit heads and eligibility rules, maintaining existing products and if required tailoring products for a customer. Enroll new members, claim, finance, renewal member and manage existing members Sell insurance products to Individuals and Groups / Corporate/Company, Manage claim requests, Manage Tasks and events in document fulfillment. Manage Intermediary services/commissions. 
+Automation part of the smoke testing was done in HP QTP. It was executed using a hybrid framework which integrated HP QC and HP QTP together. 
+Title I shop & Buy now 
+Client Sony Ericsson @Cybercom Datamatics for Ecommerce Domain 
+Duration 
+From 2nd Feb 2011 to 15 June 2011 (9 sprints) 
+Review 
+The Project is aimed at developing a Web based application; Ishop is an ecommerce application through which the user can purchase the Sony Ericsson products like the mobile phones and accessories online. We use Commerce Manager Tool to manage online store and the customers. All items are added and administered through CM Tool. CM Tool is used for the basic operations to the fulfillment partner like adding the stock level, get order information, cancelling orders, set orders shipped etc. 
+The scope of the Buy now project is to implement the ecommerce system in place for clients existing website. 
+The feature was set to release in selected countries, for the rest a fallback solution had to be maintained which will let the customers to browse a different version of the buy now page. 
+Title Assa Abloy 
+Project Cosmic 
+Client 
+Assa Abloy @ Cybercom Datamatics for Ecommerce Domain 
+Duration From 1st December 2010 to 1st Feb 2011 (6 sprints) 
+Review ASSA ABLOY, the global leader in door opening solutions, dedicated to satisfying enduser needs for security, safety and convenience. Development of ASSA ABLOY project is represented in all major regions, on both mature and emerging markets, with leading positions in much of Europe and North America and in Australia. 
+Testing end to End ecommerce website from customer point of view in terms of online shopping.ASSA ABLOY require a selling solution capable of catering for the complex B2B selling environment using partners (Customers) and also capable of dealing with interactions with end users. The eventual scope will be a global roll out of the selling solution across multiple geographies and many brands. 
+Title 
+Online Offline Marketing & Quality Management of Dell Website 
+Client Dell for Ecommerce Domain 
+Duration 
+Feb 07Nov 10 Review eClerx has developed and maintains website for Dell i.e. 
+http://www.dell.com,which covers all product information across five regions i.e. Asia Pacific, Canada, Europe, Middle East and Africa, and USA. The website can be accessed through Internet in any country, which provides products sorted by customers needs like Home and Home Business, Small Businesses, Medium & Large Businesses, customer support by Dell 
+Technicians, solutions as per Business needs. After choosing the proper product category, the customer needs to choose the line of business i.e. Home, Small Business, Mediumsized Business, Public Sector and Large 
+Business. By selecting the required items and model, customer can buy any product online 

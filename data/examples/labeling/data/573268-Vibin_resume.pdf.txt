@@ -1,0 +1,62 @@
+Vibin M John 
+Email: vibinmjohn@gmail.com 
+Phone No: +91 7902476676 
+CAREER OBJECTIVE: 
+To secure a position in IT industry with challenges to sharpen my skills, upgrade my knowledge and give me satisfaction and sense of achievement while contributing to the overall growth and corporate goals of the organization. 
+INDUSTRIAL EXPERIENCE: 
+Software Engineer with overall 2.8 year of experience 
+Companies: 
+Ducon Industries FZCO, Dubai, UAE. (August 2016-December 2016). 
+Logiprompt Techno Solutions, Kollam, (May 2014-July 2016) SUMMARY OF QUALIFICATIONS: 
+Adept at overseeing all facets of project lifecycle, including initiation and planning; change, risk, and issue management. 
+Solid understanding of OOPS concepts, development web applications/products using Microsoft Technologies, having good knowledge in Asp.Net MVC. 
+Experience in developing Single page web applications in Asp.net MVC, AngularJS Experience in MSSQL SERVER 2008R2, 2012R2 along with Entity Framework 6.0 Experience in PHP development, also written test plans and test cases as a test team member. 
+TECHNICAL PROFILE: 
+Operating Systems :Windows 
+Languages Known : C#.net (Asp.net MVC), PHP 
+Web Technologies : HTML, CSS, JavaScript, AngularJS 
+Development tools : DreamweaverCS6, XAMP, Visual Studio 2012, 2015. 
+Databases : SQL SERVER 2008R2, MySQL. 
+WebServer : IIS. 
+Version Control : Tortoise SVN. 
+Other IDE : SQL SERVER Management Studio. 
+KEY SKILLS: 
+Able to successfully build strong working relationships with co-workers and clientele, while ensuring cooperation among company departments. 
+Excellent multitasking capabilities; able to efficiently plan and prioritize tasks Coordinating with team members in developing database structure Willingness to learn innovative methods and techniques. 
+PROJECTS HANDLED: 
+1) D800Blocks: 
+Summary: Building and maintenance of a web application that provided the customers of the company with an opportunity to order the concrete blocks and pavers, which are the core products of the company. Also added the features for tracking the order, history of purchases and some other functionalities. 
+UI Technologies : HTML5, AngularJS, CSS. 
+Others/IDE : Microsoft Visual Studio 2015. 2) Learning Engine: 
+Summary: Build a system to provide online tutoring, which includes building a new web application with Online live tutoring and transform it into a tutoring market-place. A single page web application in ASP.net MVC, SQL Server 2008R2 with Entity Framework 6.0 includes UI development in HTML5 and AngularJS Platform/OS : ASP.NET MVC, C#.net / Windows 
+Database : SQL Server 
+UI Technologies : HTML5, AngularJS 
+Others/IDE : Microsoft Visual Studio 2015, SQL Server Management Studio 3) Sinipix: 
+Summary: A website for an advertisement firm, which is about the moments in motion pictures and listed them in categories and also let users to post contents and blogs. 
+Platform/OS : PHP, WordPress / Windows 
+Database : MySQL 
+UI Technologies : HTML, CSS 
+4) AdonHolidays 
+Summary: Done the website for Adon Holidays, a south Indian tour operator. Handled the modules involving tour packages and destinations, also supporting in maintenance and updating activities. 
+Platform/OS : PHP, WordPress / Windows 
+Database : MySQL 
+UI Technologies : HTML, CSS 
+Course Done: 
+SAP-ABAP at Enterprise Logic (I) Private Limited, Bangalore. 
+ACADEMIC DETAILS: 
+Si no Qualification Year of Passing 
+Institution/Board Aggregate 1 B.E Computer Science and Engineering 2008-2012 
+Shri Angalamman 
+College Of Engineering and Technology, Anna 
+University, Chennai. 71.1% 2 HSE 2006-2008 St.Aloysious Higher 
+Secondary School, Edathua. 81.5% 3 SSLC 
+2006 D.B.H.S.S, Thiruvalla 80.5% PERSONAL PROFILE: 
+Gender : Male 
+Date of Birth : 02-05-1990 
+Address : Mundakathil (H), Eraviperoor P.O, Thiruvalla-689542. 
+Nationality : Indian 
+Languages Known : Malayalam, English, Hindi, and Tamil 
+DECLARATION: 
+I hereby declare that the above written particulars are correct. 
+Place: Thiruvalla. 
+Date: (Vibin M John) 

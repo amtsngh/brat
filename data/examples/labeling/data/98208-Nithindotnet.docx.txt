@@ -1,0 +1,55 @@
+Curriculum Vitae of Nithin 
+Nithin Nath P G B Tech (CSE) 
+EmailI : nithinpgopinath@gmail.com 
+Ottapalam, Palakkad, Kerala Mobile: +91-7034080934 
+Career Objective: 
+I am seeking a challenging position with an esteemed organization to leverage my technical and professional skills, while working for the organization serving them in all the ways I could. 
+Experience Summary: 
+Dot Net developer with 1 Year of development experience. 
+Have worked with Pvt. entities like Delphi, Shoranur tools for their IT developments. 
+Teaching faculty in a private diploma college CIAT for 1 year. 
+Education:- 
+B Tech in Computer Science and Engineering, 2014 Pass out from Jawaharlal College Of Engineering And Technology (University Of Calicut). 
+Career Profile 
+Company Start Date 
+End Date Role Location 
+Espina Software Solutions July-2 Aug-19 .net Developer Ernakulum, Kerala 
+CIAT June 1 
+Feb-1 Teaching faculty 
+Ottapalam, Kerala 
+Technical Skills 
+Platforms Windows XP/7/8/10 
+Technology 
+.Net (3/3.5/4.0), SQL Server 2008, WPF, MVC4 
+Programming Languages C, C++, C#. 
+Databases Sql Server, MS Access, Oracle 
+Scripting Languages JavaScript, HTML ,HTML5 (Bootstrap),CSS PROJECT PROFILE 
+Project #1 Project Delphi TAS 
+Client Delphi 
+Tools Visual Studio 2012, SQL 2008 Team Size 2 Member Team 
+Period September 2015 
+February 2016 
+Project Details: 
+This project is aimed at developing a Trading and Automation Software (TAS) for a departmental store. This system can be used to store the details of the inventory, update the inventory based on the sale details, produce receipts for sales, generate sales and inventory reports periodically etc. This is one integrated system that contains both the user component (used by salespersons, sales managers inventory managers etc.) and the admin component (used by the administrators for performing admin level functions such as adding new items to the inventory, changing the price of an item etc.). 
+This system runs on multiple terminals, offers a GUI interface to its users and connects to a common database(s). Project #2 Project 
+IYYM- Inventory 
+Tools Visual Studio 2012 Team Size 4 Members 
+Period March 2016 
+June 2016 
+Project Details: 
+IYYM-INVENTORY is an advanced affordable (alternative to SAP) ERP solution meant for large, medium and high end businesses used to collect, store, manage and interpret data from many business activities, including: 
+Product planning, cost Manufacturing or service delivery Marketing and sales Inventory management Shipping and payment 
+IYYM-INVENTORY is a customizable and sophisticated application enriched with user-friendly, attractive UIs. IYYM-INVENTORY runs on a variety of computer hardware and network configurations, typically using a database as an information repository. 
+Project #3 Project Inventory Management System Client 
+Shoranur Tools 
+Tools Visual Studio 2012 Team Size Myself 
+Period August 2016 
+Project Details: 
+The project was aimed at developing an inventory management system for Shoranur tools. This system can store details of inventory, raw materials, sales, stock and purchase etc. I undertook this project as a favor for a friend. 
+Reference: 
+Gopika 
+H R Manager 
+Espina Software Solutions 
+Phone: +91 484 -4032226. 
+Nithinpgopinath@gmail.com | +91-7034080934 
+Page 2 of 3 Dated: 08/25/16 

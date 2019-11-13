@@ -1,0 +1,74 @@
+Name: Rohit B. Tripathi 
+Address: 51, Jay Bajarang Soc, Azad wadi, Akurli RD, Damu Nagar, Kandivali(E), Mumbai 400101. 
+Contact: 8286743508/7718820378 
+Email: rohitbtripathi@gmail.com 
+CAREER SUMMARY 
+A skilled professional with an extensive experience of around 2 years and 10 months as Network Planning Engineer (Converged Core) and Integration/Production support Engineer in Nokia Networks and Reliance JIO. 
+Network Planning Engineer for NOKIA Converged Core services for products (CFX, HSS, HLR, ONE DNS, ONE MNP, and ONE EIR) on cloud and Bare metal platform. 
+Application installation, deployment, integration, and configuration. 
+Worked in Reliance (JIO) on Network Elements- PCRF, AAA, NSN-HSS, ALU-EMS, and WIT-ACS for services like MiFi, Wi-Fi, Volte, and FTTH. 
+Hands on integration and configuration experience on Products from various Telecom companies like Nokia IMS (CFX-5000), OpenTAS , HSS , NT-HLR, One NDS , Oracle/Teklec PCRF , Ericsson Activation & provisioning suite (EMA , CNUM , Order care, EPC) . 
+SOFTWARE SKILLS 
+Operating systems Middle ware RHEL(5,6) , Centos, Windows 7/Vista/XP 
+WebLogic 11.2 
+Database Tools Cloud Technologies 
+Oracle 10g and 11.2g Wireshark, SOAP UI (Web services), WINSCP, MYSQL,. 
+VMware 6.0 Product Suite 
+Scripting Protocols Programing Language 
+Shell Scripting , PL/SQL, Python SIP, SDP, Diameter, RTP, SS7, H.248, SCTP, HTTP etc. 
+JAVA ACADEMIC QUALIFICATIONS 
+Bachelor of Engineering (June 2013) 70% Electronics & Telecommunication, Atharva College of Engineering, Mumbai University 
+COURSES 
+CCNA ( Routing and Switching) 
+Linux (Red hat 6) Advance Admin course 4 months Wireless networking program at TELELABS WIRELESS TECHNOLOGIES PVT LTD CAREER HIGHLIGHTS 
+Since June-2016 : Nokia Networks as Network Planning and Integration Engineer (Converged Core) Jan-2014- June 2016 
+: Reliance Jio Infocomm ltd as Integration and Production support Engineer 
+Project# 1: Reliance Jio Infocomm ltd as Integration &Production support Engineer 
+(On Roll) Operation and Maintenance of Nokia IMS (CFX-5000), OpenTAS , HSS ,One-NDS, NT-HLR,ONE-EIR,ONE_MNP. 
+Deployment, Configuration, and up-gradation of LTE and IMS Nodes. 
+Troubleshooting and resolving issues related to call flow , Provisioning, Activation, Billing, Charging. 
+Application Backup and Monitoring of LTE and 
+IMS Nodes. 
+Integration and Production Support engineer for Provisioning and Billing application (Ericsson -> Order care, CNUM , EPC, Ericsson Multi Activator , Billing :-> Mediation Zone) Application installation, deployment, integration, configuration. 
+Taking WireShark Traces and analyzing the issue related to end to end call flow Was involved in server monitoring, application monitoring, database Monitoring 
+Writing Shell Scripts for application monitoring, day to day application issues and automation. 
+Hands on experience on integration and configuration of Products from various Telecom companies like Nokia IMS (CFX-5000),OpenTAS,HSS,One-NDS,NT-HLR,ONE-EIR,ONE_MNP, Oracle/Teklec PCRF , Ericsson Activation & provisioning suite (EMA , CNUM , Order care, EPC) . 
+Implementing SOAP and REST APIs Project# 2 : Nokia Networks Chennai as N/W Planning and Integration Engineer (Off Roll) Responsible for Network Design, Product IP Planning, Data fill, Support and consultancy for IMS and NGN networks Elements on Cloud Platform 
+Integration, Installation and configuration of IMS and SDM nodes on Cloud and Bare metal hypervisor. 
+Interaction with customer for freezing solution/Network architecture of the project Involved in IMS deliveries like data fill preparation & on site Integration, support for CSCF,HSS, SDM products on Cloud platform like VMware, Open Stack. 
+MOP preparation, reviewing for IMS elements. 
+OS and DB Skills 
+Red Hat Summary: 
+Installation, administration, troubleshooting of RHEL 6, Cent OS 5 REDHAT Cluster creation and configuration Creation of NFS, SAMBA, FTP, DNS servers Installation , Administration of DHCP, APACHE, DNS LVM HDD Partitioning in Linux & Cent OS 
+Linux Backup Utilities , User, Group creation and Administration 
+Apache , Tomcat (Integration) 
+Shell Scripting 
+RAID configuration 
+Database Skills: 
+Installing and Creating Database 
+DB user creation 
+All Admin related Day to day Activities 
+Ensure Daily DB Backup 
+RAC Administration 
+PL/SQL Queries 
+Programming Skills : 
+Core java & OOPs 
+Scripting Language : 
+Shell Scripting 
+Basics of Python 
+Cloud Technologies : 
+vSphere 6.0 vCenter Server vSphere Update Manager vMotion vReliase Operations Manager 
+vSAN DRS , SDRS LTE and Networking Skills 
+End to end 2G,3G, 4G (LTE & Volte) IMS architecture 2G ,3G nodes like HLR, SGSN,GGSN 
+Volte & LTE Network Elements like HSS , IMS(P/I/S-CSCF) , PCRF , HLR , EIR, MNP, ENUM 
+Protocols like SIP, Diameter, SDP, RTP, MEGACO, GTP, SIGCOMP, NAT, STUN, XCAP etc. 
+Good Understanding of 3GPP Specs and IETF RFCs. 
+4G Billing (OCS) End to End Architecture , Charging Flow etc 
+CCNA (Routing & Switching) PERSONAL SKILLS 
+Programming Logic 
+Quick Learner 
+Punctual 
+Sharp Memory 
+Place : Mumbai 
+Date : 
+(Rohit Tripathi) 

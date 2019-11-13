@@ -1,0 +1,194 @@
+Curriculum Vitae 
+Prakash S Address: No 7, North Street 1, Varadarajapuram, Coimbatore, Tamil Nadu, India, 
+Pin : 641 015 
+Email : mail.prakash.india@gmail.com Mobile : +91 97916 20104 
+Linked in : https://in.linkedin.com/in/prakash s 2b0412bb 
+Career Objective 
+To seek a challenging career in an organization having the environment that Encourages continuous learning and provides exposure of new technologies, so as to achieve professional and personal growth in the field of Information Technology. 
+Profile 
+Senior Software Engineer and Team Lead (Sep 2010 Present). 
+Over 6.5 years of experience in developing web applications and web tools using open source Web technologies (MVC,PHP, MySql, JavaScript, Jquery, Ajax & Css). 
+Possess team-based workmanship, good leadership skills, capable of adapting to new trends and technologies in a short period. 
+Work Profile 
+ompany : CoMakeIT, Hyderabad. 
+Duration : June 2016 Present 
+Role : Senior Software Engineer 
+Responsibilities : Working on a healthcare software with Symfony. 
+Company : Skyrocket Softwares Pvt Ltd, Cochin. 
+Duration : June 2015 
+Jan 2016 
+Role : Senior Software Engineer ( June 2015 Present) 
+Responsibilities : Working with Customer Relationship Management product with offshore team in Europe. 
+Company : Hiox Softwares Pvt Ltd, Coimbatore. 
+Duration : Sep 2010 June 2015 
+Role : Team Lead Developer (2014 Present), Senior Software 
+Engineer (2013), Application Developer (Sep, 2010) 
+Responsibilities : Designing projects and implementing them with the team. 
+Development and deployment of codes in the projects. 
+Managing a team of 2 members. 
+Managing the development and testing phase for the projects. 
+Development of web utility scripts that have been deployed in the company web resource websites. 
+Technical Skills 
+Web technologies PHP, AJAX, HTML, CSS RDBMS MySQL 
+Scripting Language Javascript, Jquery 
+MVC Symfony 2, Zend Framework 2, Codeigniter 
+Operating Systems Windows, Linux 
+Others OOPS, SugarCRM, Agile methodology (Scrum), Git, Phpunit, Doctrine 2 ORM 
+Academic Qualification 
+Msc. Software Systems (Integrated) in April 2010 from CMS College of Science and Commerce, affiliated to 
+Bharathiar University of Coimbatore 
+Tamil 
+Nadu. 
+Passed out with 71.6% (First Class). 
+HSC in April 2005 from CMS Matriculation Higher Secondary School, Coimbatore - Tamil Nadu. Passed out with 78.4%. 
+SSLC in April 2003 from CMS High School, Coimbatore - Tamil Nadu. Passed out with 82.4%. 
+Work Projects 
+Product : 
+Healthcare product 
+Duration : June 2016 Present 
+Role : 
+Senior Software Engineer 
+Team Size : 5 
+Development Module : Capacity management 
+Technologies Used : Symfony 2, Doctrine 2, Github, Jira 
+Description : 
+Working on capacity management with Symfony 2 and Doctrine 2 ORM 
+Product : Simplio.com 
+Duration : June 2015 
+Jan 2016 
+Role : 
+Senior Software Engineer 
+Team Size : 3 
+Development Module : Customer Relationship Management Software 
+Technologies Used : SugarCRM, Codeigniter, RabbitMQ, Git, Gitlab, Version One (Agile Tool), Symfony 2 
+Server : Apache, Nginx 
+Description : 
+Airticket booking website. Worked on the CRM backend part including CRM module creation, Migration, RabbitMQ message queuing etc. 
+Product : Withfriendship.com 
+Duration : Sep 2010 
+June 2015 
+Role : Project Management and Tech Lead (2013 Present), Developer (2010 - 2013) 
+Team Size : 3 
+Development Module : Video serving, Video manipulation, Images 
+Technologies Used : PHP, JavaScript, AJAX, Jquery, FFMPEG, Flowplayer, HTML 5 Video, JSON APIs 
+Server : Apache, Nginx 
+RDBMS 
+: MySql 
+Caching : Nginx cache, Memcache 
+Description : 
+Videos and images sharing 
+entertainment website. 
+Responsive website with 
+HTML5 videos. OOPS concepts and object oriented design patterns are implemented in this site. Multiple servers are used to serve the videos. JSON APIs implemented to communicate with multiple servers. Worked as the project manager and software architect for this website. 
+Made high-level design choices and dictated technical standards, including software coding standards, tools, and platforms. 
+Product : eluthu.com 
+Duration : Sep 2010 
+June 2015 
+Role : Project Management and Tech Lead (2013 Present), Developer (2010 - 2013) 
+Team Size : 3 
+Development Module : Social Networking concepts, Posts sharing 
+Technologies Used : AJAX, Jquery, PHP, JavaScript 
+Server : Apache, Nginx 
+RDBMS : MySql 5.0.91 
+Caching : 
+Nginx cache, Memcache 
+Description : 
+One of the top social networking and poems website in Tamil. It has more than 23000 registered users. Managed a huge database with millions of user submitted comments. 
+To manage huge traffic and simultaneous server requests per second caching concepts like Nginx server caching and Memache SQL query caching implemented. 
+Implemented social networking concepts like user wall, private messaging and chat. 
+Worked as the project manager and software architect for this website. 
+Product : fancygreetings.com 
+Duration : Sep 2014 June 2015 
+Role : Project Management and Tech Lead (2013 2015) 
+Team Size : 2 
+Development Module : Online Greetings 
+Technologies Used : PHP, JavaScript, AJAX, Jquery 
+Server 
+: Apache 
+Caching : Memcache 
+RDBMS : MySql 
+Description : 
+Fancygreetings.com provides wide range of popular online e-cards, greeting cards that include festival greetings, birthday greetings, friendship cards, seasonal greetings, and many more. 
+The website is developed within a few days because of the code we used in this project is already available from a previous project. So we reused most of the code. Worked as the project manager and software architect for this website. 
+Product : fr.fancygreetings.com , es.fancygreetings.com , ta.fancygreetings.com 
+Duration : Sep 2014 June 2015 
+Role : Project Management and Tech Lead (2013 2015) 
+Team Size : 2 
+Development Module : Online Greetings, Multi Language concept 
+Technologies Used : PHP, JavaScript, AJAX, Jquery 
+Server 
+: Apache 
+Caching : Memcache 
+RDBMS : MySql 
+Description : 
+Multi Language versions of fancygreetings.com. The website is converted to multiple languages using db based language converting concept. So we used the same code base for each language. Worked as the project manager and software architect for this website. 
+Product : Andriod Web API 
+Client Websites : 
+tufing.com , eluthu.com 
+Duration : Jan 2015 
+Team Size : 3 
+Development Module : Web API for Android Application 
+Technologies Used : AJAX, Jquery, PHP 
+Server : Apache 
+Description : 
+An Application Interface for an Android Application developed for to post user data in a website. The API deliver data when it is called by HTTP method using a security token. 
+Similarly an other Web API involves pushing the user notifications in an Android phone when a client receive comments for their posts or someone shared their posts. The android app queries the API in frequent intervals for swift user notifications. 
+Product : 
+HTTP Web API 
+Client Websites : 
+indianballot.com , eluthu.com 
+Duration : Jan 2013 
+Team Size : 2 
+Development Module : Integrating Election Results 
+Technologies Used : AJAX, Jquery, PHP, JavaScript 
+Server 
+: Apache 
+RDBMS : MySql 
+Description : 
+Developed an API for integrating Indian election results as posts like twitter feed. 
+The election results are fetched from the website indianballot.com and posted in eluthu.com. 
+Product : 
+Advertisement Service Tool 
+Duration : Jan 2015 
+Team Size : 2 
+Development Module : Advertisement service 
+Technologies Used : AJAX, Jquery, PHP, JavaScript 
+Server 
+: Apache 
+RDBMS : MySql 
+Description : 
+We developed an advertisement service where users can post their advertisement online. Client can create campaigns and advertisements in specified sizes to display on the client websites. Currently eluthu.com shows the ads. Other websites are also on the process of showing ads from this service. 
+Achievement 
+Got Best 
+Team Award for process in 
+Hiox 
+Softwares 
+Pvt Ltd under my leadership. 
+Got an award in Hiox Softwares Pvt Ltd for the high percentage of Attendance. 
+Worked in the same company (Hiox Softwares Pvt Ltd) for more than four and half years and became one of it top level members. 
+Given my suggestions and ideas to other team and company wide projects. 
+Got good feedback from the offshore team. 
+Personal Details 
+Father s name 
+: Shanmugham K 
+Date of Birth 
+: 11 August - 1987 Permanent address : No: 7, North Street 1, Uppilipalayam (PO), Varadarajapuram, Coimbatore, Tamil Nadu 641 015 
+Phone No 
+: +91 9791620104 
+Email : mail.prakash.india@gmail.com 
+Gender 
+: Male 
+Nationality 
+: Indian 
+Religion 
+: Hindu 
+Marital Status : Single 
+Languages known 
+: English, Malayalam and Tamil 
+Hobbies 
+: Badminton, Table Tennis, Cricket and Music. 
+I here by declare that the above information is true to the best of my knowledge and belief 
+Date : 
+Yours faithfully, 
+Place : 
+( PRAKASH S ) 

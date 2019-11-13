@@ -1,0 +1,63 @@
+ SHOBHA PV 
+Phone- 9880082355 
+Email: shobhabns@yahoo.in (mailto:shobhabns@yahoo.in) EDUCATION: Bachelor of Engineering from Industrial Engineering from RVCE Bangalore 
+COMPUTER SKILLS: 
+LANGUAGES: 
+C#, WPF OPERATING SYSTEMS: Windows 2000/XP, Windows , MS-DOS 
+RDBMS: 
+Oracle 10g/9i, SQL Server 2008, PL/SQL SOFTWARE TOOLS: Crystal Report , Perforce, clear case, clear quest, Biometric software, Coverity static analysis tool 
+CERTIFICATIONS: Scrum Master certified 
+WORK EXPERIENCE: 9 years 
+WORK Type in GE : 
+Most projects are Maintaince Projects Legacy product EMR and CPS running from 1999 WORK HISTORY 
+Nov 2006 
+Present 
+GE HEALTHCARE 
+Main Projects running from 1999 are CPS and EMR 
+Worked on CPS /EMR version 9.5 to 9.10 from 2006 to 2016 Centricity Practice Solutions 10 to 12.0.1 CPS 12 is a Practice Management system and an Electronic Medical Record system combined into a single product. My contribution involved work in the EDI, Billing, chart, link logic, Scheduling involving more of UI implementation 
+Centricity EMR 9.5 to 9.10 
+EMR is an Electronic Medical Record system that enables ambulatory care physicians and clinical staff to document patient encounters, streamline clinical workflows, and securely exchange clinical data with other providers, patients, and information systems. My work involved fixing issues and work on enhancement reported from client sites. 
+Involving more of UI implementation 
+CPS11.1.3 Rhio Olympics (March 2015 -Till now) 
+To support globalization of CPS 11 for rhio olympics in Portugues language Roles and Responsibilities - Prepared Detail technical specifications Developed the application Code Reviews 
+Managing 5 members Contractor team from hyderabad Involved in Unit Testing and System Testing 
+Team Size - 6 Role - Technical Lead 
+Technologies Used - C#, WPF,SQL Server 2008 
+EPCS (April 2013- March 2015) 
+To implement DEA recommended Electronic Prescription of controlled substances requirements in EMR product.Worked on the Chart module Roles and Responsibilities - Plan Document Review 
+Managing 5 members Contracts team from hyderabad Responsible for end to end project management activities 
+Team Size - 6 Role - Scrum Master 
+Technologies Used - C#, WPF,SQL Server 2008 
+Install BASE for all EMR , CPS 
+(April 2012- March 2013) 
+Managed the team and Fixed defect coming from field for EMR and CPS in all modules 
+Admin, scheduling, chart, EPCS, MIK 
+Responsibilities - Remove blocker of the team; coordinate between local and global stakeholders, Coding, UI implementation 
+Team Size - 12 Role - Scrum Master 
+Technologies Used - VC++, MFC, Oracle and SQL Server 2008 
+AARA (Jan 2010 March 2012) 
+Meaningful Use requirements implementation into core EMR product along with enabling interoperability between EMR-CE and EMR-CB applications. 
+Roles and Responsibilities - Prepared Detail technical specifications, Plan Document Review 
+Developed the application Involved in Unit Testing and System Testing 
+Team Size - 6 Role - Developer 
+Technologies Used - C#, SQL Server 2008 eRx (August 2009 
+Dec 2009) 
+To enable code EMR product for Electronic Prescriptions. 
+Roles and Responsibilities - Prepared Detail technical specifications, Plan Document Review 
+Developed the application Involved in Unit Testing and System Testing 
+Team Size - 3 Role - Developer 
+Technologies Used - VC++,MFC, SQL Server 2008 Install Base (Jan 2008 July 2009) 
+To implement/fix customer requests raised on base EMR and Practice management products. Roles and Responsibilities - Involved in coding and bug fixing Involved in testing various workflows of these modules on Citrix and Windows 2008 environments. 
+Team Size - 6 Role - Developer 
+Technologies Used - VC++, MFC, SQL Server 2008 Install Base & KB (Nov 2006 
+Dec 2007) 
+Knowledge Base contains monthly updates on ICD, CPT, Med codes, Info scan formularies Updates. 
+Roles and Responsibilities - Involved in coding and bug fixing Involved in testing various workflows of these modules on Citrix and Windows 2008 environments. 
+Team Size - 6 Role - Developer 
+Technologies Used - VC++, MFC, SQL Server 2008 
+Personel Information 
+Shobha 
+Married -2 kids Location near old airport road 
+Preferred location to work in India : 
+Bangalore 
+Date Signature 

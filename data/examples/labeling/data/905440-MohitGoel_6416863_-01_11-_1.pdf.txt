@@ -1,0 +1,38 @@
+ Mohit Goel +91-9663262419 https://www.linkedin.com/in/itsmohitgoel itsmohitgoel@gmail.com 
+https://github.com/itsmohitgoel https://hackerrank.com/itsmohitgoel https://profiles.udacity.com/u/mohitgoel1 
+Technical Skills Languages: Android, Core Java. 
+Computer Science: Data Structure & Algorithms, RDBMS, OOPS. 
+Database: MySQL, SQLite. 
+Others: Design Patterns, Git/Github, JUnit, UML, Axosoft. 
+Project Experience: 
+Popular Movies : https://github.com/itsmohitgoel/Popular-Movies 
+Built an app, optimized for tablets, to help users discover popular and highly rated movies on the web. 
+It displays a scrolling grid of movie trailers, launches a details screen whenever a particular movie is selected, allows users to save favorites, play trailers, and read user reviews. 
+This app utilizes core Android user interface components and fetches movie information using themoviedb.org web API. 
+Skills/Technologies: Android, Java, JUnit, SQLite, Picasso, Butterknife. 
+Dell Exceed: https://play.google.com/store/apps/details?id=in.bsharp.dell Worked on learning and reporting app in Android, that provides all information of Dell products. 
+The user can download the assets (pdf, video) for any product and maximize their learning. 
+Designed the customer profile module that allows user to update his/her profile details. 
+Skills/Technologies: Android, Java, Design Patterns, SQLite, Google Play Services, Push Notifications 
+GenPulse: https://play.google.com/store/apps/details?id=in.bsharp.genwork Worked on sales person companion app that provides customer profile based product pitch recommendations, product information and training. 
+Implemented code-search module that lists all products specific to logged-in user only. 
+Skills/Technologies: Android, Java, SQLite, Google Play Services, Bluetooth, Push Notifications. 
+Toit: 
+Developed distributed LAN based Point of Sales application in Java for use in Restaurants. 
+The user can use to perform day to day sales, and can store data in central database running on local server. 
+The users can concurrently place the orders from multiple systems and do other operations based on their roles. 
+Skills/Technologies: Core- Java, MySQL, iReport 3.0. 
+Work Experience: 
+Smart Commerce Solutions Software Engineer Bengaluru, IN | August 2015 Present 
+Worked on two apps in Android for Bsharp client of the company and published them on Google Play Store. 
+Wrote web services in Drupal7 to provide appropriate data to its corresponding Android apps. 
+Performed code refactoring for two Android apps as per the guideline of Google Material Design. 
+Supported the Android team in completing a project and successfully published it on App store. 
+Sysfore Technologies Trainee Software Engineer Bengaluru, IN | July 2014 July 2015 Developed UI for new modules in Java, writing SQL queries for compiling periodic transaction reports. 
+Analyze and purpose the effective solution, while performing concurrent actions on common database, to avoid deadlock and starvation issues. 
+Interacted regularly with clients to ensure proper development and obtain regular feedback. 
+Education Experience: 
+Android Developer Nanodegree, UDACITY April 2016 In Progress 
+Object Oriented Programming in Java, UC San Diego on Coursera 
+Novmber 28, 2015 Bachelors of Technology in Computer Science, IGCE Chandigarh 
+June 2012 Oracle Certified Professional(OCJP), Java SE 6 Programmer December 14, 2011 

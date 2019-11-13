@@ -1,0 +1,109 @@
+ Anjali Mishra 
+Java certified Technical/Development Manager with 13+ years of industry experience in various Large Scale 
+Enterprise J2EE Applications. Have vast experience in Architecture, Design of large scale J2EE enterprise applications using design patterns, development and testing of J2EE Applications. Experience in managing and leading global teams, built high performance scalable applications using best practices. Hands on expertise in building and deploying J2EE applications and have exposure to best practices in areas of performance, supportability, and scalability. Have solid leadership, problem solving approach and excellent communication skills. 
+TECHNICAL SKILLS: Unified Modeling Language (UML), Design Patterns, Object Oriented analysis and design Rational Rose, Open Office, Star UML, Umlet and MPP. 
+JSP, Servlets, Spring IOC, Spring MVC, Spring Webflow, Struts, Hibernate, EJBs, JMS, Web Services (SOAP and REST), Tag Lib, JQuery, XML and XSLT WebLogic, Tomcat, WebSphere, JBoss, Oracle 
+Eclipse, JBuilder, SoapUI, CVS, SVN 
+August 2011 April 2015 Ebay Enterprise (Toys R Us Portfolio) 
+Sr. Technical Manager 
+As a part of TOYSRUS portfolio team I handled below large projects: 
+Toys R Us Redesign 
+Website Redesign for ToysRUs online webstore including enhanced checkout options, UI advancement on shopping pages and additional shipping options with economy shipping. 
+Toys R Us Layaway 
+This project is being carried to provide customer the ability to create a layaway online on Toys r Us North America website and make layaway payments online for In Store or Online created Layaways. Layaways are very popular and a big revenue generator for Toys R Us. Application will utilize J2EE Spring MVC framework to integrate with Toys R Us web services for real time updates on payment schedules for in Store created Layaways. 
+Toys R Us Quickshop 
+Quickshop will provide an ability for customer for express checkout adding directly to cart from catalog pages rather than viewing individual product detail page. 
+Toys R Us Ship to Store 
+This project is being carried to launch Ship to store feature on Toys r Us 
+North America website. This project is providing ability to customers to ship to the nearest store for merchandise pickup instead of getting it shipped. Application will utilize J2EE Spring MVC framework to integrate with Toys R Us web services for real time updates on inventory updates for participating data centers for ship to store availability. 
+Toys R Us Proxy store pickup - 
+The purpose of this project is to feature In Store pickup functionality and ability to use a proxy shopper to be able to pick items from brick and mortar stores for online purchases. This application utilized Spring MVC and Spring web flow in the front end for UI as well as J2EE MVC framework for communicating with Toys R Us web services and backend database. 
+As a Technical Manager, I was responsible for: 
+Managing and coordinating with onshore and offshore teams for various development activities. 
+Participating in requirement gathering with client and coordinating with Business analyst for consolidation of functional requirements. 
+Participated in technical architecture and High Level Design including creating Use cases for new features flow on the site. 
+Coordinate with teams for design activities, created various UML diagrams including Class diagrams, sequence diagrams for system components designs. 
+Publishing daily dashboard reports to major stakeholders. 
+Participating with project manager to track schedule budget with respect to baselines, managing and controlling scope and managing CRs. 
+Participate in setting up teams, staffing requirements and managing onshore and offshore teams for technical deliveries. 
+Hands on with requirements analysis, designing, Coding, Unit testing, System integration testing, Bug fixing with User acceptance testing. 
+Coordinate with teams to design and develop UI Components in Spring MVC framework and spring web- flow framework for Front End. 
+Used Spring IOC framework in Business Layer to provide service components. 
+Used SOAP UI and apache axis for web service client development to interact with Toys R Us web services 
+Wrote stored procedures and complex SQL queries for data access from database and developed the persistence layer using Data Access Objects (DAO) using spring JDBC template for Data Access from Oracle database. 
+Code Review, Unit Testing and System Testing of application. 
+Technologies: M2Eclipse, SQL Developer, Oracle 10g, Maven, SSH, CVS, SVN, JDK 1.5, Java, Servlet, JSP, Spring 2.5, Spring MVC, Spring web flow, JSP, SOA, web service, Web Logic 10 Application Server 
+Jan 2008 
+Apr 2008 Comcast (Minuteman Captiveportal) 
+Sr. Developer /Tech Lead 
+Comcast Cable is leading Internet and digital cable and digital voice service providers in USA. Minuteman is a web based application which is used by subscribers of Comcast to configure cable modem, register device on to captive portal server and activate cable modem device through this application. 
+As a part of Comcast team I was responsible for Interaction with architect and business team for requirement gathering and analysis. 
+Solely Responsible for analyzing and finalizing design and consulting client for better technical solutions. 
+Front end is designed and implemented using Struts. Server side validation performed using Struts validation framework. Client side validations performed using Javascript. 
+Business layer is implemented using spring framework. Used Spring core module and Bean factory to dispense service beans in presentation layer. 
+Used Spring ORM module to integrate Hibernate with Spring framework for data access. Used HibernateDaoSupport Spring bean to access database using hibernate methods. 
+Implemented transactions in spring using aspect oriented programming (spring AOP) for decoupling of transactions related code with application business logic. 
+Consumed various web services for device activation and user account activation using WSDL 
+Definition and soap protocol for soap request and soap response. 
+Unit testing and successfully deploying changes at QA stage. 
+Code Review, Unit Testing and System Testing of application. Tested front-end to support multiple April 2008 July 2011 Ebay Enterprise (Toys R Us Portfolio) 
+Sr. Technical Lead 
+As a part of Ebay enterprise I handled below large projects: 
+Toys R Us Europe store launches (Germany and Austria) 
+Launched Toys R us Germany and Austria online stores using global webstore codebase. This was an achievement for GSI commerce as this was the first set of stores launched European market. This project is international (i18N) webstore launch based on 
+TRU global webstore codebase. Germany and Austria uses standard online shopping features available in global webstore (GWS) and having customized checkout features such as direct debit, open invoice etc. 
+TRUS Global Webstore 
+We built a reference store known as Store Reference Model. All the upcoming online store launches for Toysrus client will be supported on this base store. This was a huge project spanning across multiple modules including shopping modules (Category module, Family module, Product module), checkout module, my account module and order tracking module for order tracking purpose. 
+Toys R Us Baby Registry / Wishlist 
+Toys R Us Baby registry is one of the most popular functionalities on Toys R Us online store, where future parents can create a baby registry, add products, share registry online with friends and family. Customers have ability to search registries and purchase gifts from registry online or from store using baby registry. TRUS Wishlist is a web based application, which provides customers of Toys r Us website a feature to create wishlist for numerous events, add products to their wishlist and then share this wishlist with their friends and family. Gift giver can refer this wishlist to make a purchase for wishlist creator. This is a J2EE application, with the front end developed using Spring MVC 
+Framework and Spring Webflow framework. 
+As a Sr. Technical Lead I was responsible for: 
+Analysis and High Level Design for Use cases for various modules using UML Class Diagrams, Sequence 
+Diagrams and Deployment Diagrams like category, family, search, sitemap, product, checkout and my account. 
+Contributed in requirement gathering, requirements analysis, Coding, Unit testing, System 
+Coordinating with onshore and offshore teams for various development activities. 
+Integration testing, Bug fixing with User acceptance testing. 
+Designed and Developed UI Components in Spring MVC framework and spring webflow framework for 
+Front End. 
+Used Spring IOC framework in Business Layer to provide service components. 
+Developed the persistence layer using Data Access Objects for Data Access from Oracle database. 
+Backend for Registry/Wishlist projects is implemented using web services. Consumed webservices for various business operations to communicated with ToysRus webservices. 
+Troubleshooting of webservices issues and hosting mocking webservices using SoapUI during development phase. 
+Wrote stored procedures and complex SQL queries for data access from database and developed the persistence layer using Data Access Objects (DAO) using spring JDBC template for Data Access from Oracle database. 
+Remote server debugging using eclipse for troubleshooting. 
+Code Review, Unit Testing and System Testing of application. 
+Technologies: M2Eclipse, SQL Developer, Oracle 10g, Maven, SSH, CVS, SVN, JDK 1.5, Java, Servlet, JSP, Spring 2.5, Spring MVC, Spring web flow, JSP, SOA, web service, Web Logic 10 Application Server browsers. 
+Technologies: Eclipse3.2, Toad, Ant, SSH Secure shell Client, CVS, JDK 1.5, Servlet, JSP, Struts, JSP, Spring 2.0, Hibernate 3.0, JavaScript, XML, XSLT, SOA, WebServices, Apache HTTP Server 2.0.6, Web Logic 9.2 Application 
+Server,Oracle 9i Mar 2004 Apr 2007 Headstrong 
+(Gryphon Networks & Morgan Stanley) Technical Lead 
+Gryphon Networks is a leading provider of Do-Not-Call (DNC) compliance and worldwide leader in Contact Governance solutions, turning consumer contact preferences, compliance policies and corporate governance into safe and profitable consumer contacts. 
+Morgan Stanley is US based investment Bank and Transaction manager is one of the primary applications. Most trades of Prime brokerage (PB) flow through transaction manager. 
+As a Technical Lead, I was responsible for: 
+Direct Client interaction for understanding business requirements. 
+Responsible for analyzing and finalizing design of change requests/ enhancements and consulting client for better technical solutions. 
+Design, development and coding change requests in Transaction Manager (TM). Front end designed in Struts and business layer implemented using Session Beans. Data tier integrated with business layer using 
+DAO. 
+Testing and successfully deploying changes at client location. 
+Implementing database related changes / writing stored procedures for change requests. 
+Analysis and High Level Design (extensively used J2EE Design Patterns) for Use cases to create/maintain Organizations as Sellers and Servicer. 
+Developed web based front-end using Struts. 
+Extensively used Tiles Framework and Validation 
+Framework provided by Struts. 
+Coded the persistence layer using DAO pattern. 
+Developed Certification module using Stateless EJB (Stateless Session Beans, MDB) server side components. 
+Database Design, development of SQL scripts and stored procedures to certify numbers entered in system. 
+Unit testing of the Java APIs written using Junit 
+Technologies: Java/J2EE, JDK 1.4, JSP, Servlets, EJB, Struts, XML, Sybase, Eclipse, Toad, Perforce client, Unix, WebLogic 8, Oracle 9i 2002 2006 Java Development Senior Developer & Developer 
+Zodiac vessel planning operations for CSX world terminals client Web Interfacing for Order Management Order Management system for VF Imagewear implanted using EJBs and session beans 
+Safeway Shopper System Mystery shopper system developed for Safeway USA client using JSPs and servlets PRICER, ESL system developed electronic price label maintenance system for Pricer, Sweden client. 
+As a Sr. Developer/Developer, I was responsible for: Interacting with Client and Business analyst for understanding business requirements. 
+Participate in Analysis of requirements, coding and implementations of change requests. 
+Preparation of build scripts using ANT to Build the application and make executable jar to run the standalone application. 
+Initiative for Swing client framework for better design of UI flow Developed UI in swing components for Pricer project using JTables and other major components. 
+JSPs and servlets were used for Safeway shopper system. 
+Technologies: IntelliJ IDEA 3.0, Eclipse 2.1, Jdk1.4, Java, JSP, Swing, Servlets, XML, Weblogic 8.1, EJB2, Ant, Sonic MQ, Oracle 9i, Star,Team 5.2 EDUCATION 
+Bachelor of Technology (B.Tech.) from Harcourt Butler Technological Institute (HBTI), Kanpur,India CERTIFICATIONS 
+Project Management Professional (PMP) NRF Retail Certification (PBRC) 
+Java certifications SCBCD, SCWCD, SCJP PERSONAL DETAILS 
+Email:anjaliv.trivedi@gmail.com 
+Phone: 609.851.7774 

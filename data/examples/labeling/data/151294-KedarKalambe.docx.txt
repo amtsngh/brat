@@ -1,0 +1,58 @@
+Name: Kedar Subhash Kalambe. 
+D.O.B: November 3, 1994. 
+Mobile No: + 91 982 189 0663 
+Email: 
+kedar311kalambe@gmail.com 
+Address: HJK, Lok Darshan, J-603, Military Road, Marol, Andheri-East, Mumbai-400059. 
+--------------------------------------------------------------------------------------------------------------------------------------------------- 
+Objective: 
+To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective. 
+Qualifications: 
+Currently pursuing Post-Graduation Diploma in Data Science (Weekend Batch). From: St. Xaviers College, Mumbai. 
+B.Sc.IT Graduate 2015,Marks: 65%, From: Tolani College, Mumbai. 
+HSC Passed, Grade: B. Year: 2012, From: Mithibai College, Mumbai. 
+SSC Passed, Grade: A. Year: 2010, From: Marol Education Academys High School, Mumbai. 
+Academic Projects: i. Sentiment Analysis Application which powers on Twitter data and structured data (July 2016): 
+This is a newly started project wherein the agenda is to collect tweets from Twitter using R and store it if required in a MYSQL database for further analysis of collected information. The project also aims to find sentiments of people living in a specific region and their opinion on the current telecom service providers various services. 
+Team Size:3 
+Responsibilities currently in hand: Write the R code to collect tweets from Twitter API and further provide database assistance if required by the team analyst with either querying the database or troubleshooting issue in the database solution. 
+ii. Basic Web Crawler (May 2016): 
+A very small web crawler project , It should crawl the provided websites link and then display the websites content as output in a desired time interval and format to the user. It was initialized by me with the agenda of understanding and learning to use Python language along with the bunch of libraries provided for data analysis and manipulation and further applying the learnt Python skills in my post- graduation project. 
+iii. Android PC Controller (January 2015): 
+An application created with the agenda of reducing hardware cost using software. This application synchronizes android phone with pc, then phone can be used as a mouse and keyboard for the pc. The programming language used is Java and the IDE used is Android Studio, also XML was used for designing the frontend user interface. 
+Team size:4 
+Responsibilities handled: Assisting in deciding the frontend for the application to ensure a great user experience. Precise documentation for the application were handled by me, it included creating all the diagrams which are mandatory in a softwares development lifecycle. 
+Skills developed: Learnt about the technologies and skillset required for Android App Development. 
+iv. Research on Basic Antivirus Programs (July 2015): 
+Analysis of the pseudo logic of an antivirus program. Derived pseudo logic for creating simple anti-adware program. The aim of my project was to understand how an antivirus program functions in order to reduce the use of system resources by malicious third party applications. 
+Team size:1 
+Responsibilities handled: Understanding the working of a virus and finding methods to create simple yet efficient anti-virus programs to remove them from the system. 
+Skills developed: Learnt how a simple virus(adware) which is merely a program gets triggered at a certain event, also learnt to disable some commonly found adware programs hence reducing system resource allocation values. 
+v. Batch File Programs like E-Bombs (August 2014): 
+A batch file code written in notepad. It is a code with LOC (Line of Coding) sometimes less than 20 lines but capable of automating lots of ETL tasks. 
+Team size:1 
+Responsibilities handled: Creating a simple vba file with source received via internet resources and collating two excel sheets data into one and loading into Oracle Database. 
+Skills developed: Learnt about the basic concepts of batch file programming. 
+Industry Experience: 
+Company Name: Continuum Managed Services PVT LTD. 
+Designation: NOC L1 Support Engineer. 
+Duration of Service: 07Months and 17 Days (September 2015-April 2016). 
+Skills developed, responsibilities handled and opportunities gained:- 
+-Experience of working in the Cloud Model of providing SAAS (Software as a Service) and MAAS (Monitoring as a Service) using Web-Based Applications developed in Java (JSP) and remote access tools. 
+-Understanding towards data protection policies like HIPAA. 
+-Understanding towards IT Infrastructure and its management using various paid products provided by Microsoft and other free third party applications. Also understanding of providing IAAS (Infrastructure as a Service) of the Cloud Model. 
+- Experience in troubleshooting of servers installed with Microsoft Operating Systems server editions of 2012(2K12), 2008 and 2003 using system level applications like Event Viewer, Event Logs and other third party applications. -Understanding of Windows Registry, Management of virtual machines using Microsofts Hyper-V Manager and basic understanding of managing and monitoring of infinite number of user accounts within the domain via Active Directory. 
+-Exposure towards using of Citrix Server Applications for management of applications hosted on the servers and its use to assure optimal availability for the user. -Creating and hosting of FTP servers on Microsoft Operating Systems IIS (Internet Information Services) -Opportunity to get training for the certification of Microsoft Certified Solutions Associate. 
+Technologies learnt non-inclusive of BSc IT syllabus: 
+Basic concepts of Game Programming using C# & XNA Framework. 
+Understanding towards applying of concepts like Gamification in real life applications and services. 
+Cloud computing using Amazon Web Services, Microsoft Azure Cloud and Google Cloud provided virtual machines. 
+Basic concepts of Virtualization using VMWare VSphere. 
+Enrolled in Big Data and Hadoop Developer course at Edu Pristine Institute. (Week-End Batch) 
+Enrolled in Data Mining specialization course at Coursera.com. 
+Python programming and Django Framework via Coursera.com and content available on YouTube. Basics of MongoDB and JSON SQL Server Integration Services. 
+Hobbies: 
+Sports: Boxing, swimming and skating. 
+Learning about new technologies and creating DIY projects. (Most preferably related to Embedded Systems, IoT-Internet of Things and Data powered artificially intelligent programs). 
+Building creative, efficient and innovative desktop computers from scratch. (Also have self-made prototypes with documentation) 
+Languages Known: English, Hindi and Marathi. 

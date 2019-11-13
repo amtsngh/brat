@@ -1,0 +1,80 @@
+PRAYAS ARORA 
+Mobile: +91-7838383873 E- Mail: prayasaarora1993@gmail.com 
+Master of Computer Applications VIPS, GGSIPU 
+To work in a firm with a professional work driven environment where I can utilize and apply my knowledge and skills which would enable me as a fresh graduate to grow while fulfilling organizational goals. 
+QUALIFICATIONS 
+Examination/Degree Institute 
+Year % Master of Computer Application VIPS ,GGSIPU 
+2017 
+75 Bachelor of Computer Application SCCTM GGSIP University 2014 75 
+XII (CBSE) D.A.V.P.S,rohini 2011 65 
+X(CBSE) D.A.V.P.S,rohini 2009 75 TECHNICAL SKILLS 
+Languages : C, C++, J2SE ,Ruby 
+Web Technologies : 
+Server Side Framework: HAML,HTML, CSS, JavaScript ,Bootstrap,GIT 
+Sinatra, Rails(ruby) v 4.2 
+Databases : MySQL, Sqlite 
+Operating System : LINUX,Windows 8.1 ,Windows 7, XP Tools : Eclipse neon 2.0 , Net Beans, Ms 
+Word, 
+Ms PowerPoint ACADEMIC PROJECTS UNDERTAKEN 
+J2SE 
+Project Title : 
+Music Player 
+Language Used: Java 
+Description: 
+It's a desktop Application in which we can play, pause and resume a particular track. 
+RUBY ON RAILS 
+Project Title : Article Web app (Major Project) 
+Language Used: Ruby on Rails 
+Front End Technologies: HTML5, CSS3, Bootstrap, JavaScript 
+Description: It is like a blog application. Users can create their articles and can even associate a category with their articles. User can send friend request to other users and can even comment on other user s articles. 
+Project Title : Twitter App Clone(back end only) 
+Language Used: 
+Ruby on Rails 
+Front End Technologies: HTML5, CSS3, Bootstrap, JavaScript 
+Description: 
+Its functions are very much similar to the original twitter. User can Create a new tweet and can like other user tweets. User can even follow other Users of the application. 
+Project Title : Cabinet App 
+Language Used: Ruby on Rails 
+Front End Technologies: HAML, CSS3, Bootstrap, JavaScript 
+Description: Google docs look alike. It is a CRUD application in which a user Can create his docs and can update and delete them. 
+Project Title : Hip Time 
+Language Used: 
+Ruby on Rails 
+Front End Technologies: HAML, CSS3, Bootstrap, JavaScript 
+Description: To-do list look alike 
+Project Title : Instagram clone 
+Language Used: 
+Ruby on Rails 
+Front End Technologies: HTML5, CSS3, Bootstrap, JavaScript 
+Description: It a look alike of original instagram. User can upload his/her pics 
+And can follow other users. Picture of a particular user will only be visible to his Followees only. 
+JAVA SCRIPT 
+Arcade Game using canvas. 
+Ping pong using canvas. 
+All the above mentioned projects are available in my GitHub repositories. 
+(prayas1993). 
+Summer Internships/TRAININGS 
+Core Java from CMC. 
+Java foundations and data structures from Coding Ninjas. Six month internship on Ruby on Rails (R0R) from Coding Ninjas. 
+INTEREST/HOBBIES 
+Playing Football 
+Yoga and meditation 
+Workout STRENGTHS 
+Perspicacious person Great Team player that gets along with anyone. 
+Active Listener. 
+Ready to imbibe new Knowledge. 
+PERSONAL DETAILS 
+Date of Birth: 
+10th Dec 1993 Father s name: 
+Mr. SK Arora 
+Languages Proficiency: 
+English, Hindi 
+Gender: 
+Male 
+Marital Status: Unmarried Nationality : 
+Indian Present Address: F-17 /H. No-40, Sec-8, Rotini, New Delhi-110085 
+DECLARATION 
+I hereby declare that above-mentioned information is correct up to my knowledge and I bear the responsibility for any ambiguity of the above- mentioned particulars. 
+Place: New Delhi 
+Prayas Arora 

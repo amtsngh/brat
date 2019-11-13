@@ -1,0 +1,37 @@
+ Address: D: NO. 21-10/1-120 
+Street: Teacher s Colony 3rd Line Muthyalampadu, S. N. Puram 
+City: Vijayawada-520011 
+Cell: 8220540872, 9505603114 EMAIL ID:sasank.handsome.1@gmail.com KUCHIBHATLA SASANK 
+PROFILE Seeking challenging and Responsible position where my Educational abilities can be fully and effectively utilized with opportunities of Growth, Continues Learning and Enhancement of Professional Knowledge. 
+Firmly believe in PASSION=SUCCESS BRIEF OVERVIEW Educational Qualification, B-Tech, CSE Branch, at SRM University Chennai Taken Computer Science Branch as an Interest in gaining Professional Computer 
+Skills and development 
+As a determined person I put all my efforts and complete given Task successfully EDUCATION 
+Class Board 
+Percentage B. Tech., Computer Science SRM University 7.87/10.00 (TILL DATE) 
+12th 
+BIEAP 
+69.10 
+10th 
+APBSE 83.33 
+STRENGTHS Team Player , Learning agility, Creating Ideas, Self-Motivated 
+Positive Attitude with openness 
+SKILL SET Programming Languages C, 
+Js, Html 
+Database 
+Oracle, MySQL Software 
+Android Studio, Photoshop, Mat lab, MS-OFFICE INDUSTRIAL EXPERIENCE 
+Employee Management (ELS) - South Central Railway (SCRWWO) 
+Jun, 2016 - Jul, 2016 
+This ElS system is developed by using Html ,Js in Net beans as Front end and oracle and MySQL as database. This system provides the employee database with their work time. 
+Warehouse Management - Electronics Corporation of India Limited (ECIL) 
+Jun, 2015 - Jul, 2015 
+The main objective is to develop a warehouse managing page where the details of the stocks or items available in the warehouse will be updated to admin by the staff and the details of loading and unloading can be seen by Dealers, Retailers, Consumers. 
+PROJECTS(ACADEMIC) Data Mining with Big Data - Ms. Aruna 
+Jan, 2016 - Apr, 2016 
+The main objective is to apply the Data mining techniques to big data storage where the time response will be quick. This project presents a HACE theorem that characterizes the features of the Big Data revolution and proposes a Big Data processing model, from the data mining perspective. 
+Face Detection Using MATLAB - Mrs. Poonkodi Jan, 2015 - Apr, 2015 
+Face Detection is part of bio-metrics. It is used to detect the faces in a video or photo or live CCTV footage. This Face detection system project was developed by using Mat lab to detect the faces. 
+ACHIEVEMENTS Presented a paper on "Man Less Railway Crossing System" on the Research Day of SRM on 28 FEB 2014, at SRM UNIVERSITY Kattankulathur. 
+Developed a "LINE FOLLOWER ROBOT" using Arduino board at the Robotics Workshop in Srm University. 
+Personal details Date of Birth 06-07-1996 
+Languages English, Hindi, Telugu and Tamil Hobbies Swimming and playing pc games 

@@ -1,0 +1,153 @@
+Ganesh Y D, QA Lead/Specialist 
+Summary: 
+12 years of genuine/proven IT experience as a Lead/Specialist in Quality Assurance for Web, Mobile Application Testing, Mobile device firmware testing, e-commerce Testing, Web service testing using SOAP UI, Performance testing using Jmeter, SAP BW Report testing, Client/Server applications using Manual and Automated testing tools. 
+Proficient in gathering and analyzing the Business Requirements, documenting System Requirement specification, Functional specifications, Requirements Traceability Matrix. Given inputs from previous project and general business experience during the preparation for design documents. 
+Strong SQL experience in testing Database applications (Using Joins, Alias, Stored Procedures, Triggers). Export - Import of Data and test data creation. 
+Experience using adhoc query tools for Oracle, Toad, MS SQL Server to validate reports and troubleshoot data quality issues 
+Expertise in translating design specifications of application into functional test cases and test plan & Test strategy 
+Performed backend testing for Database integrity by executing complex SQL queries for validating the data in the backend database tables Expertise in working in Agile (Scrum) and Waterfall methodologies 
+Proven track record in test automation also. 
+Proficient experience in Automating with QTP(UFT 11.5) and have successfully lead and automated website and validated the reports generated. 
+Hands on experience in open source performance testing tools like Jmeter. 
+Performed Web service testing using open source tool Soap UI. 
+Functional Testing of Mobile Application on Android Operating Systems. 
+Experience in Device Tested. (Tested the Sony Device Firm ware) 
+Hands on experience in Ecommerce Testing( Tested Sony eBook Store) 
+Reviewed and feedback the Functional, Regression, Integration and Automation pack for each release. 
+Performed Functional, Regression, Integration, End to End and Compatibility Testing for each release. 
+Worked on Tridion Tool for organizing the CMS of Sony eBook Store. Proficient experience on Web Page testing, Mobile Application Testing, Ecommerce Testing, Device testing, BW report testing [Data Reconciliation]. 
+Extensive experience in Preparing Test plan, Test Engineering, Test Execution, Test Summary Report, Daily status report and Defect/PM Management 
+Excellent communication & interpersonal skills with proven abilities in resolving complex technical and functional issues. 
+Experience in creating and presenting the PPT with the project metrics to the Higher Management for the project review. 
+Interacted with all levels of personal from technical to high-level executive management within the information technology community. (For requirement gathering, Project Review, Presenting the Project data including the quality metrics etc..) 
+PROFESSIONAL EXPERIENCE 
+Worked as QA Lead in MindTree, US from 29th August 2007 
+Worked as a QA Engineer in Wipro Technologies, Bangalore India from 24th April 2006 to 17th August 2007 EDUCATION 
+Master of Science in Information Technology, Madras University. 
+Bachelor of Computer Applications, Osmania University 
+ACHIEVEMENTS & AWARDS 
+Best Performance award for contributing for the success of Sony Project. 
+Received Spot award in Mindtree 
+TECHNICAL PROFICIENCY 
+Testing Tools 
+: QTP (UFT 11.5) Test Complete, Soap UI 5.2, JMeter, Java 
+Test Management Tools : HPQC, Test Director 
+Web Technologies : HTML, VB Script, Java Script 
+Database : Oracle, Ms-Access, SQL 
+Development Methodologies : Agile Methodology, Waterfall Model 
+Operating Systems : Windows XP, Imac, Windows 7, Windows 10 Defect Tracking Tools : Bugzilla, Jira, Ivalsun, Radar 
+PROFESSIONAL ASSIGNMENTS: 
+Title : Xnapp Foundation. (March 2015 May 2016) 
+Client :Unilever, US Environment : Windows 7, Windows 8, IE 11, Google Chrome, UFT 11.5 (QTP), JMeter, Blue Stack (Emulator), Bugzilla, .Net, back end (SAP MM,SD, ABAP, BW) , Soap UI, Toad, SQL, Oracle , IBM Rational Appscan Description 
+Xnapp Foundation is a Web based Application plus Anroid Application. This applications is used by Unilever F&G product Distributors plus salesman on his hand held device. Main Purpose of this Website is to track the Sale Man and monitor the stock in the ware house. 
+Responsibilities 
+Used to interact with the stakeholders in terms of sending daily and weekly reports, coordinating status calls, updating the stakeholders with any bottlenecks and discussing workarounds. 
+Successfully managed and automated the application using QTP. Figured out around 31 Combinatorial test cases covering all the major functionality for automation 
+Wrote complex SQL queries Testing Database(Using Joins, Alias, Stored Procedures, Triggers). Export - Import of Data 
+Used to prepare the Test Plans, Roll out plans and Test Strategy 
+Verified and validated the Web Service calls using SOAP UI tool Testing the application in 4 languages (VN, Th, PH & ID) 
+Reviewed and feedback on the Functional and Regression suites for each releases. 
+Followed up with the Infrastructure team for acquiring the project related hardware & software requirements. 
+Track and Update the defects in the defect tracking tool. Extracted and consolidated defect report from the tool, and share across the analysis to different stakeholders of the project. 
+Conducted Browser Compatibility Testing on various browsers IE, Firefox, Chrome, Safari. 
+Worked in Release Management Activities including preparation of release notes and coordinating with the team for timely and proper release. Used IBM Rational Appscan for enhances web application security and mobile application security 
+Used to figure out the Regression suite post each release and ensure to automate using the Automation tool Knowledge transfer and training to new members introduced in the team. 
+Assignment -2 
+Title : Desktop Migration (January 2014 to February 2015) 
+Client : Cameron, US 
+Environment : Windows XP, Windows 7, VM Ware, Damware, Oracle, SQL 
+Description 
+Desktop Migration: Collectively migrate settings to groups of users without touching any machines directly. Desktop Migration allows admins to schedule regular backups of settings and to quickly migrate them to a new machine in the event of failure or upgrade. 
+Responsibilities 
+As a Onsite Coordinator I was interacting with the client and setting up the pre requisites on a daily basis so that offshore team can start the migration during night time. 
+Worded in Project Management and Project Coordination activities, those activities are like planning, distributing, tracking and consolidating testing activities with the resources. Used to handle multiple teams from testing aspect from various Scrum teams. 
+Delegate work to the team and follow up on any issues and send across the daily status update to all stake holders Worked in Release Management Activities including preparation of release notes and coordinating with the team for timely and proper release. 
+Used to collect and present the Test Metrics to Management. 
+Provided the multiple sessions on Agile methodology. 
+Knowledge transfer and training to new members introduced in the team. 
+Assignment -3 
+Title : iFinance (Unilever) (January 2013 to December 2013) 
+Client : Unilever, US 
+Environment : SAP, Citrix, HPQC Description 
+Unilever iFinance Project deals with Financial and Management reporting. Data upload and validation verification at different stages like Upload validations, business rule validations will be done through SAP-BCS. Data transfer will be taken care by different process chains to the corresponding cube. Once the data is moved to the cubes, the same will be verified through reports in SAP-BW and SAP portal. Formula verification and the data validation across the reports will be done This project handles: Financial Reporting, Management Reports, ICR Reporting and BCS system Responsibilities 
+Worked in Project Management and Project Coordination activities, those activities are like planning, distributing, tracking and consolidating testing activities with the resources. 
+Delegate work to the team and follow up on any issues and send across the daily status update to all stake holders 
+Written good number of test cases that covers all the functionality Preparing data using DIT tool. 
+Uploading and validating data using SAP BCS system. 
+Moving the data from Raw cube to Final cube by triggering and running the process chain. 
+Reporting Defects bugs through HPQC 
+Attending the review meetings for the change request 
+Done the Defect Regression 
+Modified the existing Test Plan 
+Knowledge transfer and training to new members introduced in the team. 
+Interacted with client and Development Team to understand changed requirement. 
+Reviewing the test cases written by team members before sharing with the stake holders Assignment -4 
+Title : Sony Digital Reader (May 2008 to December 2012) 
+Client : Sony, US 
+Environment : C, Ecma Script, FSK & QT Frame Work and Adobe Digital Edition, CMS, Symantic Ghost, Test Cycle Management and Ivalsun (Bug Filling Tool), IBM Rational Appscan Description 
+The Reader digital book by Sony PRS-500/505/700/600/300/350/650/900/650/350/950 is an impressive platform for reading e-books along with Audio and Pictures Supports. Books can be downloaded from Websites like Waterstone, FNAC, Thalia etc. and can be transferred to device using PC interface, via USB. With the Reader digital book by Sony, you can check out eBooks from your local public libraryall from the comfort of your own home. 
+Responsibilities 
+Worked in Project Management and Project Coordination activities, those activities are like planning, distributing, tracking and consolidating testing activities with the resources. 
+Tested CMS and eBook store Written Test Case for eBook Library and Device 
+Written Test Cases for French and German Strings (UI Testing) 
+Performed Installation Testing, Functional Testing and preparing Test Beds. 
+Executed Test Cases, Performed Adhoc, Smoke testing, Performance and Compatibility Testing. 
+Performed French and German Testing for PRS-505 Device. 
+Reporting bugs through Ivalsun. 
+Performed Defect Regression on new Build. 
+Used IBM Rational Appscan for enhances web application security and mobile application security 
+Modified the existing Test Plan for Vancouver Release. 
+Assignment -5 
+Title : Yahoo! Toolbar (Sep 2007 to April 2008) 
+Client : Yahoo, US 
+Environment : VC++, PHP, Internet Explorer and Mozilla Fire Fox, Test Complete, VM Ware Work Station and Bugzilla 
+Description 
+Yahoo! toolbar lets you navigate to your favorite sites and search the web from anywhere. Yahoo! Toolbar also includes features like Pop-Up Blocker and Anti-Spy. Customize your toolbar and save your bookmarks online for one-click access from any computer. Latest version of Yahoo! toolbar allows you to personalize your Yahoo! Toolbar without signing in with your Yahoo! ID. You can create your own personal buttons linking to your favorite Web site. Yahoo! Toolbar for Internet Explorer supports 24 Languages. Yahoo! Toolbar for Mozilla Fire Fox Supports 7 languages. 
+Responsibilities 
+Well collaborated with Development team and Business owners and have ensured to release the application in given time frame with high quality. 
+Document the test cases with focus on product adhering to the application requirements. 
+Done the Peer Review of the test cases and provide the review comments accordingly. 
+Perform functional and regression testing for the application. 
+Track and Update the defects in the defect tracking tool. Extract and consolidate defect report from the tool, and update the same to different stakeholders for the project. 
+Create, track and update project related documents as per the set SQA guidelines. 
+Reporting Defects through Bugzilla and verifying the defects once fixed. 
+Assignment -6 
+Title : Citrix Presentation Server, OHIO Release & Vanport Release (May 2006 to August 2008) 
+Client : Citrix System, Florida 
+Environment : MS servers and Client Technologies in conjunction with ICA Protocol Access, DotNet 2.0, JRE 1.5, JSharp 2.0, Access, SQL, SQL 2005, Oracle 9i, Oracle 10g, Vantive a People soft CRM system, Symantic Ghost and VM Ware WorkStation, Citrix problem Tracking System 
+Description 
+The Citrix Presentation Server suite of products provides integrated management capabilities for system administrators, along with ease of use and productivity enhancements for users who access applications using Citrix Presentation Server Clients. The new features in this release are Configuration Logging Report, Report Center, IMA Protection, Health Check Agent, RADE, Enhanced support for 3D Graphics and Trusted Server Configuration. 
+Responsibilities 
+Document the test cases with focus on product adhering to the application requirements. 
+Verified the business functionality and verifying the Regression Test Suites. 
+Installation Testing and preparing Test Beds. 
+Reporting bugs through Vantive a people soft CRM system and verifying bugs. 
+Performed Peer Review of the test cases and provide the review comments accordingly. 
+Perform functional and regression testing for the application. 
+Track and Update the defects in the defect tracking tool. Extract and consolidate defect report from the tool, and update the same to different stakeholders for the project. 
+Create, track and update project related documents as per the set SQA guidelines. 
+Assignment -7 
+Title : SMART (April 2005 to April 2006) 
+Client : Bellsouth, USA 
+Environment : Java, Servlets, JSP, HTML, Java Script, Oracle 8.0, SQL 
+Description 
+SMART is an application which is designed for ITES sectors. This application enables to validate account holder, place orders related to telecom products, rental details, account conversions, taking online payments, viewing bills, documenting the call and escalating the issue to different departments either automatically or manually, sending counter foils, fixing engineer appointments, directory entries, placing orders for user guides, family & friends, duplicate invoice, home movers, address matcher. 
+Responsibilities 
+Designing, prioritizing and execution of Test Cases. 
+Documenting and executing the test cases that ensure the product adheres to the application requirements. 
+Reviewing the Test Cases. 
+Performed functional, regression and Database Testing. Analysis and preparation of defect report and reporting bugs. 
+Assignment -8 
+Title : 
+Admin Tool (May 2004 March 2005) 
+Client : Bellsouth, USA 
+Environment : Servlets, JSP, HTML, Java Script, Oracle 8.0, SQL 
+Description 
+Admin Tool is a Web based application. Which enable us to create profile on behalf of the customer. It is used to reset the password, to subscribe for E-Billing or dual billing service, monitor recent calls and can view maximum two quarters bills or 6 months bills. 
+Responsibilities 
+Documenting and reviewing the Test Cases. 
+Performed in functional and regression testing. 
+Preparing test cases that ensure the product adheres to the application requirements. 
+Analysis and preparation of defect report, reporting bugs. 
+Documenting gained in Knowledge 
+Ganesh Y Daddala 

@@ -1,0 +1,88 @@
+SAKSHI JAIN 
+Permanent Address: Jain Bhawan, Near Post Office, Samana-147101, Distt: Patiala (Punjab),India 
+Contact No.: +91 9915007861 (M) 
+Current Address: Jayanagar, Bengaluru-560069,India 
+E-mail -: sakshi.jain.041@gmail.com https://in.linkedin.com/pub/sakshi-jain/55/699/310 http://stackexchange.com/users/1470449/sakshi https://github.com/SakshiJain24 
+Sr. SOFTWARE ENGINEER MOBILE APPLICATIONS (iOS) Results-driven professional with 5.9 years of verifiable career track for mobile application development field using Objective-C,Swift, iOS, Xcode, Sqlite & related technologies, develop, enhance and maintain mobile applications. Work involves development & implementation of reusable, sustainable, maintainable algorithms & code logics for long-term use. Sound inter-personal and analytical skills. Ability to accurately determine needs, understand risk tolerances, offer alternatives to current situations, develop action plans, and cultivate result driven solutions. Aggressively identify opportunities, develop focus and provide tactical business solutions. 
+RESPONSIBILITIES 
+Developing innovative mobile app solutions for iPhone, iPad & iPod. 
+Understanding business requirements and working on algorithms & business logics. 
+In depth coverage of project modules & their interactions. 
+Brain storming sessions. 
+Provisioned, compiled, and managed apps for ad-hoc and app store distribution & approval. 
+Testing the app extensively. 
+TECHNICAL SKILLS 
+Languages/Methodologies: Swift, Objective C, Cocoa Touch Classes, COCOS2d 
+Database Technologies: SQLite 
+Operating System: iOS4 onwards till date InBuilt Frameworks: Quartz core, Game Kit, iAd, Quartz Core, Storekit, Social, MapKit, Core 
+Location, Storyboards/Xib,Core foundation, UIKit 3rd Party Frameworks/API s: Facebook, Twitter, YouTube, Core Plot, Core Data, Core Animation, Google Auto Complete, Alamofire Network, Alamofire Image Downloader, Alamofire Object Mapper, SDImage downloading caching classes, Reachablity, Crashlytics (Fabric), Symbolicated breakpoints, Google Analytics, MixPanel, Swiped TableView Cells, Interactive push notification integration, Cocoa 
+Pods (dependency tool) IDE s: 
+Xcode IDE SPECIAL CONSIDERATIONS Atom Sage, Inc. , 12463 Rancho Bernardo Rd. San Diego, CA 92128 ... Atom Sage 
+Inc, San Diego, CA - Worked Offshore Punned IT - https://itunes.apple.com/in/app/punned-it/id845115055?mt=8 Description Lets Say Punned It! Now Playing puns with your friends are official. It gives you to play puns with friends and invite friends. You can play various Riddles as well. 
+Green House Plantation/Irrigation (IOT - Internet Of Things) 
+Developed a project in IOT in a hackthon, BitTwister. Green house project is based totally on automating plantation and irrigation of crops/plants.It developed in python with the help of various sensors like rain sensor,moisture sensor,temperature sensor, PH sensor, relay boards,breadboard,raspberry pi3,camera,solenoid valve.When it comes to functionality,there are some fix range for all the crops/plants what it suits to them and on basis of same rain,moisture,temperature sensor senses on continuous basis and our script compares whenever it crosses that fix range then moisture increases then water sprinklers and fan will be working position with the connection relay boards.Camera helps you to monitor your garden/field remotely. 
+Compassites Software Solutions - 
+Bangalore, Sr. iOS Developer (August 2015 
+Till date) Isha Foundation - Sadhguru Port 
+Roles & Responsibility 
+Implemented major modules in the project and done maintaince for various modules. 
+Description This app is all about Isha Foundation based in Coimbatore India and contains all the information about Isha foundation like Daily Mystic Quotes, Articles, Spots, Videos, Podcast, Sounds of Isha, Meditation Methods and Yoga. 
+Roles & Responsibility 
+Developed the application from scratch. 
+Implemented major modules in the project. 
+As a senior member in the team was responsible for work distribution. 
+Ensuring code quality, best coding practices at each code commit level. 
+Achievements Took the initiative to implement code review process (peer & senior level) from this project in the iOS Team. 
+Description This application is for carpooling i.e. to share your ride. The app allows the user to share his ride with others or a user can search if someone is sharing a ride and can pick the same. 
+Roles & Responsibility 
+Active participation in gathering requirement and prototyping. 
+Monitored sprint release. 
+Ensuring that deliverables were on time as per the sprint deadline. 
+Achievements Drove the project discovery phase to define business objectives, existing system capabilities & mobile requirements. Took lead in UAT phase of the project. 
+Took the initiative to develop this project in SWIFT programming language. 
+Factory Snap (Enterprise App) 
+MARA INNOVATION LABS Bangalore, Sr. iOS Developer Dec 2014 
+Aug 2015) 
+Mara Mentor - https://itunes.apple.com/in/app/mara-mentor/id763362544?mt=8 
+Mara Mentor is an online community that connects ambitious entrepreneurs with experienced and inspiring business leaders. The initiative encourages idea and knowledge sharing among Africa s most promising young entrepreneurs, inspiring a collaborative approach to business start-up and growth. Mara Mentor has been created to empower Africa s youth in their business endeavours, in recognition that they are the driving force behind the continent s growth and future prosperity. Mentees can use the platform to showcase their business ideas and seek out like-minded individuals to identify new business opportunities 
+IMPINGE SOLUTIONS- MOHALI, iOS Developer (Nov 2013 
+Nov 2014) Eczamen (Enterprise App) 
+Deemz - https://itunes.apple.com/sg/app/deemz-it/id803688066?mt=8 
+Count Doku 
+- https://itunes.apple.com/us/app/count-doku/id550166608?mt=8 
+Tom Pang 
+- https://itunes.apple.com/hk/app/tompangsg/id793787701?mt=8 
+INTERWORLD COMMNET- MOHALI, Mobile Applications Developer (May 2011 Nov 2013) 
+Raag-FM - https://itunes.apple.com/us/app/raagfm/id670571687?ls=1&mt=8 Hot Alert - https://itunes.apple.com/us/app/hotalert/id692670391?ls=1&mt=8 
+Riotix Organizer - https://itunes.apple.com/us/app/riottix-organizer/id669380012? 
+mt=8 
+Riotix 
+- https://itunes.apple.com/us/app/riotix/id669373489?mt=8 Aus Explorer - https://itunes.apple.com/us/app/aus-explorer/id649817228?mt=8 Description An image modification app, users can upload multiple images and then modify these images. All the images were uploaded on server and also the images can be sent to multiple users. 
+Roles & Responsibility 
+Implemented multiple image upload functionality. 
+Image print functionality (portrait & landscape). 
+Database integration. UI changes. 
+Ensuring that deliverables are on time. 
+Achievements Developed the project using SWIFT programming language.(worked on phase 2 & 4) IEM done for Toyota and Lexus (Exclusive Enterprise App for Toyota) 
+This iPad app was made to keep track record of attendance and update attendance according to defined category of each attendee of any event which is organize by respected company. 
+Cayman Group Singapore PR - https://itunes.apple.com/us/app/cayman-group/ id610333609?ls=1&mt=8 
+MMA Diet - https://itunes.apple.com/us/app/id589386138 
+ANS (African New Stand) - https://itunes.apple.com/us/app/african-newstand/ id582903967?mt=8 Vitalize - https://itunes.apple.com/us/app/vitalize/id575088936?mt=8 i-Share Rides - https://itunes.apple.com/us/app/isharerides/id532649580?ls=1&mt=8 i-Romance 
+- http://itunes.apple.com/sg/app/iromance-app-date-without/ id535098619?mt=8 Sports Bar - http://itunes.apple.com/us/app/sgsports bar/id540385797?ls=1&mt=8 
+SMS my car - http://itunes.apple.com/ae/app/sms-my-car/id510536360?mt=8 
+EDUCATION 
+M.C.A. Chitkara Institute of Engineering and Technology (80%) EXTRA-CURRICULAR ACTIVITIES Head-Technical Activities (Matrix Club Department of Computer Applications) 
+Active participation in various Quiz Competitions during academics Participation in organizing Fresher s and Farewell Parties 
+PROFICIENCY 
+Flexible 
+Team Player 
+Enjoy good interpersonal skills 
+Quick learner 
+PERSONAL DETAILS 
+Date of Birth 
+: 24th Sept. 1987 
+Sex : Female 
+Nationality : Indian 
+Languages Known : English, Hindi and Punjabi 
+Passport No : J8069531 (Validity 09/21) PAN No : ANPPJ0878H 
+Sakshi Jain 

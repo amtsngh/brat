@@ -1,0 +1,93 @@
+ S.RANJITH KUMAR 
+Ph No: 98407 65672 
+Email : ranjith.nim75@gmail.com 
+CAREER OBJECTIVE 
+To achieve the career growth by facing new challenges and showing performance by constantly learning and applying the new technologies, continuously dedicating myself which will help to improve the Organization Growth by implementing the new skills. 
+STRENGTH 
+Commitment towards work. 
+Strong interpersonal skills. 
+Continuous desire to move up on the learning curve Positive attitude. 
+AMAZON WEB SERVICES [AWS] Mount S3 into Amazon Linux instance. 
+Amazon RDS use into launched Amazon Linux instance. 
+Hands on experience in Amazon Elastic Map Reduce 
+Configured cloud watch monitor to an Amazon instance. 
+Hands on experience in auto scaling. 
+Identity and Access Management (IAM) did in AWS. 
+Create a virtual network topology, including subnets and route using VPC. 
+Bundling AMIs (Amazon Machine Image) in AWS 
+Install and Configure Apache and MySQL database on Linux system. 
+Working with GUI and Command line API tool. 
+Import / Export data and hosting S3 sites on S3(Simple Storage Service) 
+Cloud Search manages all the server resources to build and deploy search indexes. 
+Simple Notification Service is web services that send notifications in the cloud. 
+Using AMI Launched Amazon EC2 instance for Linux & windows. 
+Elastic IP address allotted for created instance. 
+Using Snapshot concept get backup of the instance. 
+Elastic IPs been created and used in AWS. 
+Elastic Block Store (EBS) storage used with EC2 instance. 
+TIVOLI STORAGE MANAGEMENT 
+Remarkable experience using TSM (Tivoli Storage Management) Wide knowledge of TSM database schema and reporting techniques Data Migration and multi-site data replication 
+Ability to Install, configure & manage TSM servers 
+TECHNICAL SKILLS 
+Framework : J2EE, Struts 
+Languages : JDK1.4, C, C++, PL/SQL 
+Web Technologies/Tools : Java Servlets, JSP, EJB, JDBC 
+Relational Databases : Oracle 9i, SQL Server2000 
+Cloud Technology : ESX 4.1, Esxi 4.1, VSphere 
+Full and Para virtualization- Tools ESX, ESXi, KVM, QEMU 
+Cloud Computing: 
+Public Cloud: 
+Open Stack and Amazon AWS ACADEMIC QUALIFICATION Examination Institute/Board Year %AGE Major Subjects 
+B.E (ECE) 
+Bharat Engineering College,University of Madras 1993-97 60 Electronics and Communication. 
++2 Gill Adarsh Mat,Hr,Sec School 1993 61 Mathematics, Physics, Chemistry &Statistics 10th -do- 1991 
+62 All 
+CAREER SUMMARY 
+Started my career as a Project Trainee in Amrutanjan InfoTech in which I was involved in the development of Advertisement module them. 
+I joined as a Software Engineer in Origin Infosys and later on joined in NIIT as Faculty were I was involved in corporate training assignments. I have given training for many Government and non-Government Organization. Some Of the organization are ; Airports Authority of India 
+ISRO Sriharikota 
+BHEL Trichy 
+TPL CITICORP POLARIS 
+Indian Bank 
+I was running an Institution on my own in the name of ICA in which we were involved in the training and development of J2EE Packages, C++ and some accountancy Packages .But due to the sudden fall down in the global market the institution got closed. 
+I was working as Customer Relationship Manager in Vaahoo Net Private Limited were I am involved in solving all the customer related queries either on line or off line. 
+I was working as Team Leader in CLS Group BPO in which I have to handle a team of 5 members and to get the sales done by the team members and to meet the targets given by the client. 
+At present working as QUALITY SPECIALIST in Sutherland Global Services serving MCAFEE VERIZON QUEUE .Auditing the calls taken by the Consultants and then providing their Quality Scores and also Providing Coaching to the consultants to improve the Quality. 
+Taking care of all the Fatal and Non Fatal Parameters. Doing the DSAT Analysis for the Entire Month. Taking care of the Case Code Compliance 
+Current Role : 
+Auditing the calls taken by the Consultants and provide them their Quality Scores based on their performance in the calls and taking care of all the Fatal and Non- Fatal parameters Providing coaching to the Consultants based on their Mark Down in their Quality Scores 
+Conduct Huddle Session to the Consultant and keep them updated about the changes in the Process and Product which in turn will increase their Quality Scores and also make them correct their mistakes that they have rendered in the calls. 
+Publishing the Monthly Quality Scores of all the Consultant for the Whole Queue 
+Publishing the Monthly DSAT Analysis report. 
+Providing the Product and Process Update for the whole McAfee Queue in all Locations 
+Conducting the Dip-Stick Session about the new Product and Process Update and publish the Compliance Report. 
+Conduct Calibration Session on weekly Basis and Publish the report to the corresponding SD team. 
+Taking Care of the Case Code Compliance of the Whole McAfee Verizon Queue 
+Scrub the cases handled by the Consultants and do the Root Cause Analysis for the wrong CCC selected and also provide Coaching to avoid the same. 
+WORK EXPERIENCE 
+Employer : Amrutanjan Infotech Designation 
+: Project Trainee 
+Duration : June 97 to May 99 Employer 
+: ORIGIN INFOSYS PVT LTD Designation : 
+Software Engineer 
+Duration : May 99 to April 2000 
+Employer : 
+NIIT 
+Designation : Faculty 
+Duration : May 2000 to Aug 2002 
+Running an Institution on my own in the name if ICA from September 2002 to Dec 2007. 
+Employer : 
+Vaahoo Net Private Limited Designation : Customer Relationship Manager 
+Duration : Jan 2008 to Oct 2011 
+Employer 
+: CLS Group Designation : Senior Call Center Executive (Team Leader) 
+Duration : Oct 2011 to Dec 2011 
+Employer : 
+Sutherland Global Services 
+Designation : Consultant 
+Duration : Jan 2012 to Till Date 
+PERSONAL INFORMATION 
+Fathers Name : M.A.SHANMUGAM 
+Date of Birth : 09/11/1975 
+Address : No: 10/1, 2nd Floor Goivindhasamy Street, 
+Vetri Nagar, Chennai-600 084 Languages Known : English, Tamil & Hindi. 

@@ -1,0 +1,47 @@
+116/7 Sec.1, Pushp Vihar Saket,New Delhi 110017 NEERAJ YADAV +91-8130725084 
+Srm.neeraj25@gmail.com Employement 
+Project Engineer 
+Wipro 
+Oct15-Present 
+EXPERIENCE SUMMARY 
+In depth Knowledge of BI Visualization Technology, Turning dull data into meaningful data to help in Decision making, professionally focused on Tableau Development besides hands on 
+SAP BO Admin, Teradata and ETL Tool Informatica with experience of working in Health and life style domain and Consumer domain. Good understanding of BI and Data warehousing concepts along with testing concepts. 
+Currently working on Tableau 
+Experience of working on Tableau (Tableau Desktop and Tableau Server) with Strong Technical Expertise in Data visualization using Tableau Desktop. 
+Data Visualization and complex report building using Tableau Desktop. 
+Experience in creating aggregates, hierarchies, charts, actions, filters, quick filters, table calculations and trend lines calculated measures Designed and deployed reports with Drill Down, Drill Through and Drop down menu option and Parameterized and Linked reports using Tableau 
+Proficiency in Creating Users, Groups and Projects on tableau server. 
+Experience of working on SAP BO ADMIN 
+Daily Monitoring of the server status in all the environments. 
+User creation and providing the access as basic or super user based on the request. 
+Scheduling the task which are repetitive and requires regular refreshing. 
+Project Engineer Trainee Wipro 
+Mar15-Oct15 
+3 months Internship Training in Data Centric Testing. 
+Trained and Worked on Teradata BTEQ. 
+Completed the following for the same: 
+Written Test cases and Executed as per the Requirement. 
+Imported xml file to load data into tables in the database. 
+Trained and Worked on ETL tool Informatica. 
+Hands on Creating mapping between Different types of source File(Flat files, Oracle Database Etc.) to Different types of Target File(Flat files, Oracle Database Etc.) 
+Using Different Types of filters in mapping. 
+Implementing SCD. 
+Database Concepts 
+DWH , RDBMS 
+Tools 
+Tableau, Informatica , SAP BODS, Informatica 
+Languages 
+Core Java , SQL , BTEQ 
+Testing Concepts 
+Fundamentals of Testing, Levels Of Testing 
+Education 
+Modinagar, Delhi SRM University 
+Aug 2011-May2015 
+B. Tech in Electronics and Communication, May 2015. 74.16% 
+Undergraduate Coursework: Data Communication Networks, Basic Electronics, Linear Integrated Circuits, C, Analog Communication, Digital Communication, Signal and Systems, DSP 
+Jammu, J&K Kendriya Vidyalaya 
+April 1997-May 2010 AISSCE May 2010. 74.00% AISSE 
+May2008. 75% Accomplishments 
+Member of Disciplinary Committee in Technical Festival13. 
+Class Representative from Aug 2011-May 2012. 
+State Rank 2nd in 6th and 10th National Science Olympiad in class 6th and 10th resp. 

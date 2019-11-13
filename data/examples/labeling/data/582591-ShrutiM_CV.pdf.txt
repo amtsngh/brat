@@ -1,0 +1,55 @@
+CURRICULAM VITAE SHRUTI.S.M Email: manta.shruti6@gmail.com 
+Mobile: +918867674475 
+Career Objective : 
+Seeking a responsible role where I can apply my skills and capability combined with experience that will bring growth and value addition to both the organization and me. 
+Technical Skills : 
+Programming Languages : C, C++, C#, ASP.Net, HTML 
+Basic Languages : Core JAVA, CSS. 
+DBMS Packages 
+: SQL 
+Operating Systems : Windows 7,Windows8 
+Academic Qualification : 
+Course Institution Percentage Year Of Passing 
+MCA BVBCET, Hubli 
+8.20(CGPA) 2015 
+PUC SSLC 
+S K Bhandari Science College, Guledagudd 
+Govt Girl s High School, Guledagudd 60.16% 89.60% 2009 2007 
+Professional Experience : 
+Company Name 
+: Essel Synergy Tech Pvt Ltd 
+Project Name : 
+Interactive Electronic Technical Manual (IETM) 
+Role : Junior Developer 
+Client 
+: Bharat Electronics Limited, Hyderabad 
+Technologies Involved : o Front end used - Microsoft Visual Studio2010 
+o Back end used - MS SQL Server 2008 
+o Language - C# Project Scope: 
+The scope of the current assignment is to design and develop a technical manual for a Government organization which deals in Electronics Engineering areas. The manual has two modules one each for admin and the viewer respectively. Admin options include adding different manuals into project. Admin also assigns privileges to users based on the data access norms. 
+Project Name : 
+Dental Care System Role 
+: 
+Programming 
+Duration : 5 months Technologies Involved: o Front end used 
+- Microsoft Visual Studio 2010 
+o Back end used 
+- MS SQL Server 2008 
+o Language - C# Implementation Details: 
+To design and develop an online dental care portal where patients can take online appointment that reduces the patient waiting time. This software stores the patient personal information, dental history and medical treatment details. 
+The portal supports all the processes including billing aspects. 
+HOBBIES: 
+I like Listening to good music, and also like singing and dancing. 
+Personal details : 
+Father s Name : 
+Shivanand 
+Mother s Name 
+: Savitri Date of Birth : 01-Aug-1990 
+Permanent Address : Tippa peth, Manta Street, Guledgudd-587203 
+Languages Known 
+: English, Kannada, Hindi 
+Declaration 
+I hereby declare that the information provided above is true to the best of my knowledge. 
+Place: Bangalore 
+[Shruti Manta] 
+Academic Projects: 

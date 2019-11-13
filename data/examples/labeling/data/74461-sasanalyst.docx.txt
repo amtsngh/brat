@@ -1,0 +1,41 @@
+Santosh 
+santosha065@gmail.com 
+SAS ANALYST 
+Mobile: 7996425195 Career Objective 
+Become a solutions architect and Analyst of value for money solutions, by attaining knowledge on a wide range of platforms and technologies. 
+Professional Summary 
+SAS Professional with nearly 2 years of experience in different SAS tools in highly-competitive market environments, Banking, Finance and Retail domains 
+Expertise in SAS/BASE, SAS/MACROS, SAS/STAT, SAS/SQL. 
+Experienced in using proc sql, proc report, proc tabulate, proc freq, proc format. Proc means, proc import, proc export and merge statement. 
+Experienced in generating listing, summary and HTML reports using SAS technologies. 
+Productive self-starter with a strong work ethic, consistently achieving goals and Result Oriented. 
+Work Experience 
+Currently Working with TCS as SAS Analyst from July 2014 to Till Date. 
+Education 
+Bachelor of Engineering from SCSVMV University. 
+Technical SKills Statistical packages : SAS/Base, SAS/Macros, SAS/SQL. . RDBMS : MySQL. 
+Languages : C, Java. 
+Graphics : Excel and Power Point. 
+Utilities & Tools : SQL and MS Office Project Details 
+ANALYST (SAS Analyst) 
+CLIENT: GE 
+Title : Collections 
+Skip Process 
+SAS NA Region 
+In Collections, Skip process is generally used to find out the contact information of an account. Contact information can be anything like finding out the phone numbers, address etc. 
+Responsibilities: 
+Generating reports Using Data step programming and Macros. 
+Dataset Creation and support. 
+Checking the SAS datasets for Monthly updating and sending the reports to client for verification.. 
+Monitoring the log files for Weekly & Monthly data loads. 
+Creating of sales statements using base sas procedures. 
+Creation of datasets using Data Management steps in SAS. 
+Generating reports by using procedures like Proc Means, Proc Freq, Proc Sort, Print,Proc Tabulate and Proc Report. 
+Ad-hoc reporting. 
+Reading the data from flat files using SAS Base with informats. 
+Involved in analyzing the data 
+The analysis representation describes a usage scenario from the end-users perspective. 
+Declaration 
+I hereby declare that the information provided above is true and fair up to the best of my Knowledge. 
+Place: Bangalore 
+Date: 

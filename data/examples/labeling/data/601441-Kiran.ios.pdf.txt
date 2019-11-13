@@ -1,0 +1,45 @@
+ KRANTHIKIRAN (iPhone application developer) 
+Email-ID: contactkiran.ios@gmail.com Contact no: +91-9182540363 
+CAREER OBJECTIVE: 
+To strive for excellence, to work in such an environment that will enhance my knowledge and career, where I can perform my management skills according to my strong Caliber and efficiency. 
+PROFESSIONAL SUMMARY: 
+Ability to develop applications using iPhone SDK 
+Strong analytical skills combined with experience Object Orient programming (OOPS) techniques. 
+Quick learner for adopting new technologies. 
+TECHNICAL 
+BACKGROUND: 
+Programming Languages : C, Objective-C 
+Frameworks : 
+Cocoa Touch 
+IDE : 
+X-Code 
+Operating system : MAC-OS X, Windows 
+Web Services : XML, JSON 
+Database : SQLite, Core Data 
+WORK EXPERIENCE: 
+Having 1.7 year of experience in developing iPhone applications. 
+Working as iOS/iPhone Developer Systel Communications Pvt Ltd, From 
+October 2015 to till date. 
+PROJECT DETAILS: 
+Project 1 : BIG MIKES SOUL FOOD 
+Description : BIG MIKE'S SOUL FOOD "Soul Food the way your momma made it." Big Mike's Soul Food proudly serves the best Soul Food to the Grand Strand community. A visit to Big Mike's Soul Food makes you feel right at home - from the service to the music, d cor and food, everything is made on sight, we believe in quality Soul Food , we try to distance ourselves from the canned foods and high cost. 
+The food is very affordable and delicious. Big Mike's Soul Food has been rated best inexpensive downtown restaurant as well as one of the best Soul Food restaurants serving the Grand Strand. Big Mike's has quickly become a favorite "local" place to eat. 
+We serve lunch and dinner, and with just one visit to Big Mike's Soul Food you will know that everything is made with love and soul. 
+We are the place where Family and Food Matter. 
+iTunes URL :https://itunes.apple.com/us/app/big-mikes-soul-food/id1089653640?mt=8 Project 2 : MARIE WALSH BEAUTY 
+Description : Mari Walsh Beauty provides a great customer experience for it s clients with this simple and interactive app, helping them feel beautiful and look Great. 
+App Features: 
+* Book an appointment 24/7 
+* Meet our team 
+* Keep a record of your service history 
+* Get exclusive special offers * View Our Gallery 
+* Get Directions iTunes URL :https://itunes.apple.com/us/app/marie-walsh-beauty/id1159343853?mt=8&ign- mpt=uo%3D2 
+Project 3 : UNCLE TETSU 
+Description : 
+Uncle Tetsu is a world famous Japanese Cheesecake franchise known for their delicious cheesecakes, bakery goods and many other items. 
+Pre-order our famous cheesecake and other goods with the official Uncle Tetsu app! This app has everything you need to know about our stores,including: 
+-Menu and pricing -Item pre-ordering -Current events and promotions 
+-Future Updates 
+-Contact info -Many more! 
+iTunes URL : https://itunes.apple.com/ai/app/uncle-tetsu/id1195483610?mt=8&ign- mpt=uo%3D2 
+KRANTHIKIRAN 

@@ -1,0 +1,104 @@
+ Apoorv Bhargava apoorvbhargava22@gmail.com 
+Mob : +91-9987538199 
+Location : Pune (MH) IT Experience : 3.3 years 
+ABOUT ME 
+3+ Years of IT experience in Integration field via IBM 
+Integration BUS/WMB and IBM MQ with domain experience in 
+EU and the UK, Canadian financial and insurance service providers. 
+SKILLS WORK 
+IIB/WMB 
+IBM MQ ESQL 
+Web services 
+SOAP-UI PERSONAL COMMUNICATION PRESENTATION PROBLEM SOLVING TEAM PLAYER SOCIAL APOORV BHARGAVA 
+Tata Consultancy Services (February 2014 Till Date) 
+EXPERIENCE SUMMARY 
+3+ Years of development experience in Integration services with 
+IBM Integration Bus, IBM Websphere Message Broker, and IBM MQ. 
+Sound Experience in client discussions, presentations, high level and low level designing. 
+Domain experience in financial sectors, such as retail banking, insurance in European (EU and the UK) and Canadian geography. 
+Experienced in writing software codes via ESQL. 
+Knowledge of web services and their implementation via SOAP, REST. 
+Creation and implementation of WSDL 
+Knowledge and implementation experience with multiple data transport languages such as XML and JSON. 
+Good experience in the Web Services by using SOAP UI. 
+Worked on Windows Operating system and UNIX. 
+Having sound knowledge on enhancement, error handling, and trouble shooting. 
+Hands on experience in Agile model methodology. 
+Possess knowledge on SDLC. 
+Experience in repository tools such as SVN 
+Familiar with the concepts of different integration applications such as IBM Data power, Web methods, Mule ESB and cognitive system IBM Watson 
+CERTIFICATIONS 
+IBM WebSphere Message Broker 8.0 Solution Developer 
+IBM WebSphere MQ Administrator 7.0 AWARDS and ACHIEVEMENTS 
+Applause for cloud migration Activity. 
+Appreciation for SSL-TLS poodle vulnerability change. 
+Beyond Performance Awards 
+Service Commitment Award. 
+EXPERIENCE DETAILS 
+Tata Consultancy Services- Systems Engineer 
+Role: Developer (WebSphere Message Broker V8.0/IIB9.0) Design and develop Business workflow using IBM Family tool sets including IBM Message Broker 
+V8.0/V9.0 
+Worked on Service oriented and Restful oriented architecture. 
+Integration with MQ, SOAP, XML, WSDL, HTTP, DFDL, Database, Construction nodes. 
+Experienced in transformations involving ESQL. 
+Knowledge of integration patterns and the role of IBM Message Broker in integration. 
+Extensively worked on multiple projects involving various third party applications. 
+Designed multiple integration applications involving Web Services, HTTP, MQ, Construction, Timer, Filter, File nodes. 
+Debugging of a message flow via broker debug perspective Integration with sub flows for error handing Extensively worked on timer and timeout control nodes for scheduling a message flow Experienced in label and router nodes for routing messages between source and consumer. 
+Worked on Record Oriented parsing and transformation of files. 
+Up-gradation of IBM message broker from version 8.0.0.2 to 8.0.0.6 and installation of fix patches. 
+Experienced in different web applications to trace Web Traffic. 
+Tata Consultancy Services- Systems Engineer 
+Role: Administrator (Websphere Message Broker V8.0/IIB9.0,IBM MQ 7.0/7.5) Creating and deploying BAR for target environment (message flow properties including queues, database names etc.) 
+Experience in security certificate changes on broker level and security protocols such as SSL-TLS. 
+Installing fix patch to test and live environments. 
+Creation and administration of a Broker 
+Knowledge and hands-on for various mqsi commands Managing execution groups, workload management and troubleshooting Overview of clustering concepts Triggering in MQ 
+Publication and Subscriptions 
+Ramp-up and Ramp-down of Broker and MQ services during scheduled Windows patching. 
+Un-installation of MQ on aix Worked on SIT, UAT, DEV, Pre-Prod, Live environments. 
+Major projects handled Project (a) 
+Client : Leading financial service provider in Europe 
+Model : Agile-Scrum Duration : 2016-2017 Domain 
+: Banking and financial services Project Infinity is designed to extract data from SQL based database create multiple webservice calls to POST, GET and UPDATE the data via SOAP calls. It also involves MQ to store and update data at various stages. Conversion of JSON XML and vice-versa. Responsibilities: 
+Requirement Analysis 
+Client discussions via Change Advisory Board 
+Design and Development 
+Release Coordination and warranty support. 
+Project (b) 
+Client : Leading financial service provider in Europe 
+Model : Agile-Scrum Duration : 2016-2017 Domain 
+: Banking and financial services Custom delimited file need to be parsed and data need to be geo-coded via external API calls. 
+Responsibilities: 
+Requirement Analysis 
+Client discussions via Change Advisory Board 
+Design and Development 
+Release Coordination and warranty support. 
+Project (c) 
+Client : Leading financial service insurance provider in UK and Canada 
+Model : Agile-Scrum Duration : 2016-2017 Domain 
+: Banking and financial services Data need to be extracted from SOAP input and transformed to call REST services. 
+Responsibilities: 
+Design and Development 
+Writing and running test cases Release Coordination 
+Warranty Support. 
+Project (d) 
+Client : Leading financial service insurance provider in UK and Canada 
+Model : Agile-Scrum Duration : 2016-2017 Domain 
+: Banking and financial services 
+The Drive 4 Business service provides a single application with multiple flows which involves FTP, Web service calls, updating database. 
+Responsibilities: 
+Requirement Analysis 
+Client discussions via Change Advisory Board 
+Design and Development 
+Release Coordination 
+Warranty support 
+EDUCATION 
+Qualification University/ 
+Board 
+Specialization Percentage (%) Year 
+BE RGPV ECE 70% 2013 12th C.B.S.E. NA 76% 2009 
+10th C.B.S.E. NA 84% 2007 DECLARATION 
+I hereby declare that the information furnished above is true to the best of my knowledge and will be made available on request. 
+APOORV BHARGAVA 
+DATE : 

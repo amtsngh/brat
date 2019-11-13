@@ -1,0 +1,115 @@
+Durgesh Thapliyal 
+Mobile: +91 9899373263 ~ +91 8800121132 
+E-mail: durgeshth@rediffmail.com ~ durgeshthap@gmail.com 
+Seeking middle level assignments in Project Management ~Operations & Maintenance ~Vender Management~ Production Management with an organization of high repute in the Telecom / IT Sector 
+PROFESSIONAL SUMMARY 
+A technology driven professional with nearly 17 years of experience in Project Management, Operations & Maintenance, Vender Management, Production Management in the Telecom and IT sector. 
+Hands-on experience in GSM network, Microwave links, Wi-Fi, Wi-max, Satellite Communication (VSAT) and Information Technology. 
+Proficient in managing overall project while ensuring high quality standards and meeting KPIs. 
+Exposure in conducting RF studies and designing networking layouts with proven ability of planning and executing network expansion & network swapping projects. 
+Experience in coordinating for the swift ramping up of projects through effective monitoring and analysis of project status; exposure in installation, operations and maintenance of Telecom Systems. 
+An effective communicator with strong analytical, problem solving & organizational abilities. 
+EDUCATION 
+MBA-IT (PGDIT) from Symbiosis Centre for Distance Learning, Pune in 2011. 
+Three Years Diploma in Electronics Engineering from Govt. Polytechnic, Srinagar, Garhwal, Uttaranchal in 1995. 
+AREAS OF EXPERTISE 
+Project Management 
+Inspecting field sites to observe and evaluate condition and operability of facilities/ structures, collect field survey data and measurements. 
+Designing and implementing stringent systems and quality plans / manuals to ensure high quality standards during all the stages of project. 
+Providing site engineering support for installation of equipment to maintenance of the network. 
+Tracking the project work till delivered to customer. 
+Operations & Maintenance 
+Providing telecom network & extending communication facilities through planning, engineering, commissioning, operations & maintenance of various telecom systems. 
+Managing the complete range of activities from installation, testing, maintenance and troubleshooting of telecom equipment. 
+Highlighting the quality issues of the project for all OEM elements and other related activities. 
+RF Planning / Network Management 
+RF Planning for Wi-Fi Project with help of EDX SignalPro8wireless planning tool. 
+Ensuring network optimization by conducting interference tests, antenna tilts, antenna orientation changes and tuning the cell RF parameters. 
+Designing and planning radio network including nominal planning, site selection, final design and frequency planning; optimising radio network& performance engineering including BSS parameter. 
+Resource Planning & Control 
+Responsible for materials planning & developing vendors for obtaining timely procurement of materials & equipment at cost effective prices to ensure smooth execution of projects. 
+Ensuring suitable deployment of manpower & timely availability of manpower. 
+CAREER CONTOUR 
+Jan 
+15- Present With Ericsson India Pvt Ltd. (On payroll of NR Switch Pvt Ltd) As Integration Lead/IWAN Project Lead 
+Presently working as IWAN project lead. 
+Responsible for managing E2E delivery of P2P, P2MP links for Bharti for South India circle. 
+Gap analysis on DPR of each circle and resolve the same. 
+Central interface between Customer and Ericsson team for IWAN project. 
+Vendor management and tracking of PO/GRN for vendor. 
+Supporting circle team for SACFA, MAPA data and other technical and administrative issues. 
+Tracking project from RFI till customer sign off of project. 
+End to End responsibilities of completing 2G Ericsson BTS rollout and complete the Site Integration 
+(2G+3G) target on times. 
+Planning and forecasting the resources required from the engineering pool for completing the Site routes and rings in time. 
+Responsible for managing telecom implementation partners for site allocation and ensuring routing of teams to sites as soon as site is declared RFI and material is dispatched from Warehouse. 
+Coordinating with network & transmission planning and partner teams for providing necessary SDH &PDH link budgets and TND required for implementation of SDH &PDH routes/rings. 
+Coordinating with CERAGON, ECI networks (MUX) for providing necessary Plan for the sites. 
+Ensuring removal of all punch points brought forward by O&M and quality teams and completion of site AT for smooth hand over of BTS to customer. 
+Coordinating with cost and progress manager, partner manager on vendor purchase orders and payments. 
+Coordinating with warehouse manager on warehouse inventory status and proactively highlight shortages of installations materials if any based as material demanded through MRN. 
+Supporting the Project Manager to prepare and update rollout schedule for deciding priorities of MW links/routes and assigning targets of completion. 
+Nov 
+12- Jan 14WithGeoCart Mapper Pvt.Ltd, New Delhi 
+As Production Manager 
+Planning and organizing production schedules & overseeing production processes. 
+Assessing project and resources requirements. 
+Determining quality control standards. 
+Re-negotiating timescales or schedules as necessary. 
+Organising the repair and routine maintenance of production equipment. 
+Selecting, ordering and purchasing materials. 
+Liaising among different departments, e.g. suppliers, managers. 
+Working with TL to implement the company's policies and goals. 
+Ensuring that health and safety guidelines are followed. 
+Sept 
+12(One Month) With SRAOSS Inc. Bangalore 
+As Senior RF Planning Engineer/Consultant 
+Macro Wi-Fi Coverage planning to offload LTE network with Outdoor Access Point. 
+Performing different area (Coverage) studies and Mesh (Point to Point) studies using EDX Signal 
+Pro8.0. 
+Designed RAPs (Remote Access Point) and MAPs (Mesh Access points) on 5.8 GHz and 2.4 GHz respectively. 
+Coverage Simulations performed on MCS0 (Cell edge) and backhaul simulations on MCS11 and MCS13. 
+Mar 09 Dec 11 with Trigyn Technologies Ltd., Mumbai 
+As SeniorTelecom Engineer (VSAT) 
+Worked with United mission in Sudan(UNMIS) and South Sudan(UNMISS) as a Trigyn employee. 
+Handling the: 
+o Installation, maintenance and monitoring the VSAT network and Earth Stations. 
+o Installation of Telecommunication and IT infrastructure at remote locations. 
+Providing support to other CITS member in installation of microwave, VHF/HF, PABXand ITproducts. 
+Analysing KPIs for entire telecommunication setup. 
+Looking after installation and maintenance of Switches and Router. 
+Organising site survey for new ISP sites and coordinated for the same. 
+Handling the entire asset for CITS. 
+Responsible for inventory for spare parts and consumable items for CITS. 
+Successfully maintained and lead the projects for VSAT, IT, VHF/HF and PABX Department. 
+Mar 08 Jan 09 with R.B. ComtecPvt. Ltd., New Delhi 
+As Sr. Engineer (RF Product Support) Headed a team of R.F. Engineers to conduct the demo, installations and maintenance, site survey, projects, and self-engaged in typical installation and support activities (Products- Motorola, Proxim, Kbest, Axlwaveetc). 
+Prepared technical compliance report, BOM, Pre sales and tendering documents, participating in pre- bid for R.F. products. 
+Looked after design of Wireless network; network planning, implementation and optimization. 
+Imparted training to customers and R.F. team members for new R.F. products. 
+Evaluated testing of R.F. products (Broadband wireless, Wi-fi, Pre- Wi-max) for different interface and application. 
+MW links (15 Ghz) installed for Intracom, to connect GSM BTS sites at various location of Rajasthan. 
+Nov 01 Mar 08 with Adino Telecom Ltd., New Delhi 
+As Sr. Engineer (Broadband Wireless Network) Conducted site surveys for R.F. Link feasibility including the activity of network optimization, link budget, RF planning, equipment and antenna selection, frequency planning depending on the R.F. environment and site location. 
+Handled the: 
+o Installation & commissioning of various topology wireless network (PMP, P to P, P to AP, Cell etc.) and integration with different interface i.e. V.35, G703, Ethernet and application i.e.VoIP, IP EPABX, and Video. 
+o Installation and commissioning of Wi-Fi products of RoamAD. 
+o Configuration of Router, Switch ,VoIP etc as per requirement of wireless network Managed customer services activity as service compliant, queries, and upgradation, etc. for Eion-Wi- 
+Lan, Radwin, Maksat BTS & CPE and MrotekWireless Broadband Network in Northern India. 
+Prepared daily report, AMC quotation; service spares quotations, etc. 
+Jul 98 Sep 01 with Franchisee of Hughes Escorts Communication Ltd., New Delhi 
+As Customer Support Engineer (VSAT) Organised site survey for VSAT network. 
+Looked after installation & commissioning of VSAT equipment for TDMA, DAMA &PAMA network. 
+Responsible for maintenance of VSAT equipment & network and system software installation for various type of client. 
+Handled the troubleshooting and modification of existing network with VSAT network. 
+Resolved customer query & forwarded the proposal as per requirements. 
+Jan 96 Jun 98 with XEREXEX (India) Pvt. Ltd., New Delhi 
+As Service Engineer (IT) Looked after maintenance, testing & troubleshooting of Personal Computers. 
+Handled the installation of LAN networking and troubleshooting the network problems. 
+Assisted the engineer at service center for rectifying the fault and assembling the different configurations PC s. 
+Responsible for installation of operating systems, various applications software, mail application software like Outlook Express, Lotus Notes client and configuration of peripheral devices, Modem, Fax and web camera, etc. 
+PERSONAL DETAILS 
+Contact Address : RZ-G-271, Street No.7, Raj Nagar-II, Palam Colony, New Delhi, PIN - 110077 Date of Birth : 29thJuly 1975 
+Languages Known : Hindi, English 
+Marital Status : Married 
+Expected salary : Negotiable. 

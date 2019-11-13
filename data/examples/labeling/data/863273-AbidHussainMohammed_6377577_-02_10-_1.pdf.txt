@@ -1,0 +1,113 @@
+abid hussain mohammed " 3 years experience in Ab Initio " abid.etl0402@gmail.com 9550014873 
+Current Designation: Abinitio Developer 
+Current Company: Star Bright Informations Pvt. Ltd 
+Current Location: Bengaluru / Bangalore 
+Pref. Location: Bengaluru / Bangalore, Chennai, Hyderabad 
+Functional Area: IT Software - DBA / Datawarehousing 
+Role: Software Developer 
+Industry: IT-Software/Software Services 
+Key Skills: Ab Initio 
+Total Experience: 2 Year(s) 10 Month(s) 
+Annual Salary: Rs 4.2 Lakhs 
+Expected CTC: Not Mentioned 
+Highest Degree: MBA/PGDM 
+Notice period: 1 Months 
+Work Experience 
+Star Bright Informations Pvt. Ltd (Current Employer) 
+Abinitio Developer | Nov 2013 
+Ab Initio developer 
+Notice Period : 1 Months TeamLease Services 
+Operation Executive | Oct 2012 To Oct 2013 Education 
+Post Graduates ( Full Time ) 
+MBA/PGDM (HR/Industrial Relations) 
+Jawaharlal Nehru Technological University (JNTU) | in 2012 Undergraduates ( Full Time ) B.Tech/B.E. (Electronics/Telecommunication) Jawaharlal Nehru Technological University (JNTU) | in 2009 IT Skills 
+Skill Name Version Last Used Experience 
+Ab Initio 3.1.5 2016 2 Years 10 Months 
+Language Known 
+Language Proficiency Read Write Speak hindi Expert 
+English Expert telugu Expert 
+Projects 
+No Projects Added 
+Other Details 
+Personal Detail 
+Date of Birth: 25 Apr 1988 
+Gender: Male 
+Marital Status: Married 
+Address: 
+kotamitta nellore 524001 
+Home Town: Nellore 
+Desired Job Details 
+Job Type: Permanent /Temporary/Contractual 
+Employment Status: Full Time 
+Work Authorization 
+US Work Status: Not Mentioned 
+Countries: Not Mentioned 
+Affirmative Action 
+Category: Not Mentioned 
+Physically Challenged: No 
+Attached Resume 
+Md. Abid Hussain Email: abid.etl0402@gmail.com Mobile: +91-9550014873 -------------------------------------------------------------------------------- Professional Summary * 3 years of IT Experience in Data Warehousing 
+* Having 1 year of experience as HR-Operations Executive in Teamlease, Bangalore. 
+* Extensive knowledge in Ab Initio, Oracle and UNIX. 
+* Data warehousing ETL experience using Ab Initio . 
+* Experience in the Data Warehousing using Data Extraction, Data Transformation and Data Loading (ETL) using Ab Initio. 
+* Database experience using Oracle 10g/11. 
+*
+Well versed with various Ab Initio Parallelism techniques and implemented Ab Initio Graphs using Data Parallelism. 
+* Created and maintained Ab Initio graphs using various components like Join, Rollup, Reformat, Filter By Expression, Scan, Lookup, data base , Partition and Departition Components. 
+* Develop the application according to organization(SDLC) standards. 
+* Ability to adapt any new technology quickly. 
+* Excellent interpersonal skills and worked as Independent Contributor. 
+-------------------------------------------------------------------------------- 
+Employment Summary 
+*
+Working as a Software Engineer in TCS Bangalore under the payroll of Star Bright Information's system pvt ltd., Jan' 2015 to 
+Till date. 
+* Worked as a Software Engineer in Tech Mahindra, Bangalore under the payroll of Star Bright Information's system pvt ltd., Nov'2013 to Jan'2015 . 
+-------------------------------------------------------------------------------- 
+Technical Experience 
+* Operating Systems : UNIX, Windows 
+* ETL Tools : Ab Initio (GDE 3.1.5) 
+* Databases : Oracle 10g/11 
+*
+Languages : SQL -------------------------------------------------------------------------------- Summary of Qualification 
+* Master of Business Administration from JNT University, Anantapur. 
+* B-Tech from JNT University, Anantapur. 
+-------------------------------------------------------------------------------- 
+Project Experience 
+Project # 1: 
+Project : Integrated Financial Solution 
+Client : Allied Irish Bank 
+Employer : TCS 
+Environment : Ab Initio, Oracle and UNIX. 
+Description: 
+The Bank has products like Accounts Management, Mortgage loans, Investment loans, Personal Loans, credit card and safe- deposit lockers etc. The main Objective is to build a data warehouse particularly household, where the individual account holders are traced along with their residential and commercial household groupings to which they belong. The major goal of the bank is to market more effectively to its households and after additional services to household that already have one or more accounts. 
+Accomplishments: 
+* Development of Graphs in Ab Initio. 
+*
+Worked with Partition components like partition by Expression, partition by range, Partition by Round Robin. 
+* Performing transformations of source data with Transform components like Replicate, Denormalize, Redefines, Reformat, Filter-by-Expression, Rollup etc. 
+* Used Sort component to sort the data, and used Dedup Sort to remove duplicate values. 
+* Worked in a sandbox environment while extensively interacting with EME to maintain version control on objects. Sandbox features like Checkin and checkout were used for this purpose. 
+*
+Worked with Departition components Gather, concatenate which will be used for add the files which is done partition for fast process of data files. 
+* Used Lookups with Reformat Component to fetch matching records. 
+*
+Involved in Unit Testing. 
+Project # 2: 
+Project : Mutual Life Insurance 
+Client : Northwestern Mutual Life Insurance 
+Employer : Tech Mahindra 
+Environment : Ab Initio, Oracle and UNIX. 
+Description: 
+Northwestern Mutual Life Insurance Company, the US's oldest mutual insurance of automobiles. The company is a national writer of automobile, homeowners, marine and personal excess liability insurance. It has 42 offices across the country. The project's goal was to migrate a legacy system for issuing bond insurance quotes from a flat file system to client/server architecture. Build a Data Warehouse for auto insurance application. The focus is to provide the system with greater control, user functionality, robustness, scalability and security. 
+Accomplishments: 
+* Understanding the business & technical requirement. 
+* Development of Ab Initio graphs. 
+* Using Partition Components for Partition the Data and load it into different targets. 
+* Using Sort, Dedup Sort, Join, Lookup and Filter By Expression components for performing the calculations based on requirements. 
+*
+Applying many transformations techniques according to the client requirement. Worked efficiently with the offshore support team in transferring the support related activities. 
+* Worked in a Sandbox environment while extensively interacting with EME to maintain version control on objects. 
+*
+Involved in Unit Testing. 

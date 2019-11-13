@@ -1,0 +1,72 @@
+PRACHI AGARWAL 
+E-mail: y13uc195@lnmiit.ac.in, Phone: +91-9782880973, Nationality: India, DOB: 13 Aug. 1995 
+Learning New Technology and Building Smart Systems. 
+EMDB ID "EMDB211471333696" EDUCATIONAL QUALIFICATIONS 
+Year Degree/Certificate(Board) Institute/School CPI / % 2017 
+B.Tech in Electronics and Communication The LNM Institute of Information Technology 8.41 
+(expected) Engineering Jaipur, Rajasthan ,India (VI SEMESTER) 2013 Class XII (ICSE) St. Fidelis College,Lucknow,U.P, India 91% 2011 Class X (ICSE) St. Fidelis College,Lucknow,U.P, India 89% INTERNSHIP 
+1: Development of a battery degradation model for Plug-in Hybrid Electric Vehicles. 
+Organisation: SYSU CMU Joint Institute of Engineering, Guangzhou, China 
+May 16-July 16 Worked on battery degradation model for Plug-in Hybrid Electric Vehicles. 
+Test the state of charge estimation and cell balancing algorithms using battery-in-the-loop research setup. 
+2: Development of a Fingerprint Biometric Based Classroom Attendance Management System 
+Organisation: Indian Institute of Information Technology, SriCity, Andhra Pradesh, India 
+May 15-June 15 
+A prototype Classroom Attendance Management System (CAMS) is developed that uses fingerprint biometric for recording the students attendance. 
+The biometric data is stored dynamically in a database that is linked to web-based user interface. Different statistics can be computed and presented on web-page, such as month-wise or semester-wise attendance. 
+KEY PROJECTS 
+1: 
+Soul for Life HAPTIC SHOES 
+This project proposes to trace the person s path by interfacing smartphone s Bluetooth and controller board using his/her coordinates, which in turn can be used to visualise its path in google maps. 
+Furthermore, the maps formed can give direction through blind person using vibrations in his/her shoes. 
+The Bluetooth-enabled smart shoes vibrate to give people directions and tell them where to turn as they travel along. 
+2: 
+Fire Alarm System Using VHDL 
+The objective is to detect fire in an area. 
+Initiate automatic fire control and suppression system and to fire the alarm immediately. 
+The project is implemented on Spartan 3E FPGA board and makes use of smoke sensor to detect the fire. 
+3: 
+Home Automation based on Internet of Things 
+The basic aim of project is to control or monitor signals from different appliances, or basic services. 
+A smart phone or web browser can be used to control or monitor the home automation system. 
+There will be a web socket which will have different toggle buttons for different appliances. 
+TRAININGS 
+1: Worked on ARM Cortex-A8 
+Organization: TEXAS Instrument, India December 14 
+Worked on ARM Cortex-A8 (AM3358) using TI Beaglebone Black 2: Worked on ATMEGA16 development board 
+Organisation: Hewlett Packard Education Services, India May 14 June 14 Training on embedded and robotics 
+Worked on ATMEGA 16 microcontroller 
+Software used- AVR studio, CVAVR, Proteus 
+WORKSHOP 
+1: Control System and Automation 
+Organization: The LNM Institute of Information Technology, Jaipur in association with IIST, Trivendrum, India 
+August 15 Undergone a workshop on Control Systems and Automation using MATLAB and Simulink 
+RESEARCH WORK 
+Development of a Fingerprint Biometric Based Classroom Attendance Management System 
+June 15-July 15 
+A prototype Classroom Attendance Management System (CAMS) is developed that uses fingerprint biometric for recording the students attendance. 
+Research paper published in IEEE conference INDICON 15. 
+SKILLS 
+Electronic Circuit Development & Simulation Packages : Xilinx-Vivado, LTSpice, Microwind, Electric, AVR, Proteus and Simulink 
+Programming Languages : C, Python, Java(amateur) Languages : VLSI, Embedded-C Technical Computing Tools : MATLAB 
+POSITION OF RESPONSIBILITY 
+Teaching Assistant, Python course, Beijing Jiaotong University, China. 
+Teaching Assistant, Basic Electronics Lab, The LNMIIT, Jaipur, India Teaching Assistant, Digital Circuits and Systems, The LNMIIT, Jaipur, India Head of Science and Technology Club (Phoenix), 2015-2016, The LNMIIT, Jaipur, India. 
+Member of counselling cell,2014-15, The LNMIIT, Jaipur, India Organizer of Robotics event in Plinth-15 and Plinth-16(Annual Technical Fest). 
+ACHIEVEMENTS AND CO-CURRICULAR Selected for Quarterfinals round of Texas Instruments (INDIA) Innovation Challenge 2015 Academic Project-HOME AUTOMATION qualified in finals for presentation in technical fests of NIT-TRICHY, IIT-BHU and IIT-Kanpur. 
+COURSES 
+Electronics I & II 
+Digital Circuits and Systems 
+Digital System Design with FPGA 
+Embedded Systems 
+Microprocessor Interface 
+Signal Systems and Control 
+Semiconductor devices and Circuits 
+Digital Communication 
+Digital VLSI Circuits 
+Operating Systems 
+Probability theory and Stochastic Process 
+Engineering Electromagnetics 
+Computer Programming 
+Computer Networking 
+Biomedical Engineering 

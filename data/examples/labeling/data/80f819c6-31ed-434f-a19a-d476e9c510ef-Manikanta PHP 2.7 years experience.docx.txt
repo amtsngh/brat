@@ -1,0 +1,62 @@
+2 3 
+VISHNU CHAKRA MANIKANTA P 
+E-mail : vcmanikanta@hotmail.com 
+Phone No: 9666509290 
+________________________________________ Resume 
+PHP/MYSQL Developer with 2.7 Years Experience in CMS, Frameworks 
+Objective: 
+To obtain a position with a progressive web development or software development company with a strong focus on creativity and problem solving. To find a position that is challenging, rewarding and provides an opportunity to expand my knowledge and abilities in creating client centric solutions 
+Education: 
+Graduate in Computer Science Engineering ( 2009-2013 ) from KITS Engineering College affiliated to JNTUniversity ,Kakinada with 68% Intermediate (2006-2008 ) from Sri Chaitanya Jr. College with 85.9% SSC (2005-2006) from Mohan Convent Public School with 87% Areas Of Profession: 
+More than 2 years and 7 months of experience in software development. Created complex back-end management systems including content management, e-commerce, customer relations and communication interfaces. The projects based on PHP in conjunction. PHP, SQL, JavaScript, XHTML, CSS, Rest Api and XML are used. Designed layouts and templates for various companies and individuals 
+I have worked in the following Areas: 
+web site development with security access, order form, and registration forms user software support dynamic content applications e-commerce applications multi-level affiliatesystems content management systems file upload/download management systems management systems in general 
+Professional Skills: 
+Operation systems/platforms Windows NT/2000/XP/7/8/10 ProgrammingLanguages HTML & CSS ,PHP, JavaScript, jQuery, CMS (Wordpress, Joomla, Magento-Basics) Databases MySQL, MySQLi Frameworks 
+Codeigniter AngularJS(1.X) Bootstrap 
+Phonegap ProfessionalExperience: 
+2013 NOV 
+Present : PHP/MYSQL Web Developer - Nueve IT Solutions Pvt Ltd , Vizag, India. 
+For more detail website : http://www.nuevesolutions.com. 
+Total Experience : 2 Years and 7 Months 
+Contact: 
+Email Id : vcmanikanta@hotmail.com 
+Mobile No : +91-9666509290 
+Personal Information: 
+Date of Birth: 03/08/1992 
+Age: 24 
+Sex: Male 
+Marital Status: Unmarried WorkExperience: 
+2) Votalize : 
+Votalize is a social platform that connects citizen to politicians.It helps citizens to aggregate and direct their concerns to politicians in a modern and efficient way. The aggregation process eliminates the feeling that ones voice is lost in the larger background, as with traditional communication methods.It helps politicians as it provides a synthesis of their constituencys opinions. 
+JobResponsibilities:Creating components for polls, reviews, politicians gallery for listings page. 
+Duration: 3 Months 
+Technologies Used: HTML 5, Bootstrap, CodeIgniter Framework, MySQL http://votalize.com/ 3) Envirocertintl: 
+EnviroCert International, Inc. (ECI)offers internationally recognized professional certifications, which can be earned by demonstrating certain qualifications based on a combination of education and experience, and passing an exam. These certifications cover the regulations, design, and inspection for the construction, municipal, stormwater modeling and hydrology, and multi-sector/industrial fields. 
+Job Responsibilities: Customized the plugin Event Booking PRO, added some new functionalities based on the clients requirement. 
+Duration: 3 months 
+Technologies Used: Wordpress Plugin Development, MySQL. 
+http://www.envirocertintl.org/ 1) Texas Diversity: 
+TexasDiversityFund.com is a Texas crowdfunding portal owned and operated by Diversity Fund, LLC (Diversity Fund), a Texas limited liability company, for the purpose of offering and selling securities to residents of the State of Texas. 
+JobResponsibilities: Creating Shopping cart, Integrated Crowdpay Payment gateway and Docusign. 
+Duration: 3 Months 
+Technologies Used: HTML5, Core PHP , Bootstrap, MySQL, CrowdFund payment Gateway, REST API 
+4) Moralefund.com: 
+Moralefund is campaign organiazing and crowdfunding website Which gets the money from the users, based on the type of campaign. 
+JobResponsibilities:Developing both front-end and admin part of the website 
+Duration: 3Months 
+Technologies Used: CodeIgniter, Wordpress, WePay Payment Gateway http://www.moralefund.com/ 5) Geo Synthetica: 
+Geosynthetica.net is a worlds leading source for synthetics news and technology. This website is developed in Wordpress. 
+JobResponsibilities: Worked as a part time developr for that. Creating plugins based on client needs. 
+Duration: 2Months 
+Technologies Used: Wordpress, Mysql. 
+http://www.geosynthetica.net/ 
+Except these i have created so many PHP, Wordpress and joomla sites. I have good Under standing in Payment Gateways also. 
+Apart from these I have good understanding in Bootstrap framework. I have converted a normal PHP site in to responsive Wordpress site. 
+http://ccimaindia.org/ 
+Some of the PHP sites i created. http://clicktovote.com http://moralefund.com http://senioranswer.org http://pennyauctionwizards.com 
+DECLARATION 
+I here by declare that all the details furnished are genuine and can be subjected to verification at anytime. 
+Place : VIZAG 
+Your Sincerely 
+Date : ( P. MANIKANTA) 

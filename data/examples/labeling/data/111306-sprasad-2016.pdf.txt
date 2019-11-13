@@ -1,0 +1,73 @@
+SRINIVAS PRASAD 
+140 5th west main ITI Layout, BSK III stage Bangalore 560085 Karnataka 
+Contact: +91
+99805 42792 E-mail: sprasad83@gmail.com 
+A leader with 20 + years of experience [10 Years in US and 4 Years in Singapore] in operations, program management, business transformation and business development, solutions development. Innovative, change agent ready to solve your complex business needs bringing my experience and commitment to guide, create, build and operate your business to exceed business and revenue goals. 
+Interface between Engineering and IT team that is my core strength. Leader with business visions right from executing to sustaining, who leads teams to outperform by collaboration and influence. 
+An experienced professional in high-demand, fast-paced, engineering, business, IT and operations in Hi-Tech, PMO Who can work with multiple teams to achieve organizational Goals & interface the Engineering and IT Divisions/Domains. 
+PMP,CAP,Six-SIGMA GreenBelt Certified. 
+Key Areas of my work Business Process Management (BPM) Managing Global Operations 
+Business Process Re Engineering (BPR) Engineering Services 
+Software testing methods. 
+Engineering Software Support/Training 
+Software Product Management 
+Business Development /Global Partnership/International Marketing 
+Program management /PMO. Highlight Risks in projects & Revenue leakages towards initiatives to stakeholders/Leadership Teams. 
+Process Management/Standardize Process Templates 
+Tracking Project Metrics/Performance Dashboard/Review Technical Proposals 
+Knowledge management Innovation management 
+ACADEMIA 
+r M.S. (Mech. Engg.) Florida Atlantic University U.S.A. - 
+r B.E. (Mech. Engg.) from U.V.C.E. Bangalore University - I.T. SKILLS CRM tools, Project management tools (MS Project), Regression analysis tools, CAE Tools. AGILE, SCRUM, WATERFALL SDLC Process, Business Process Re-engineering (BPR), Software Manual and automated testing using SELENIUM, SQUISH, QTP tools, CAE Services Marketing and Sales/Business development (10 Years) 
+Training: PMP, GB (Green Belt) Certified, CAP (change acceleration Process certified.) 
+Skill Set: 
+Conversant with CRM tools, Project management tools (MS Project), Regression analysis tools, CAE Tools. OS: Windows, UNIX & Linux 
+_________________________________________________________________________ 
+PROFESSIONAL EXPERIENCE 
+Aggrigator 
+- PM Oct 2015 
+Aug 2016 Product management /Resource management/Vendor Management 
+Project Planning, budgeting WBS , Software Quality , Regression Testing 
+Business Process Improvement 
+GE JWTC White Field Bangalore-66 from June 2010 
+August 2015 IM Project Manager Business Solutions 
+Managing the development team through Agile process, conduct daily update meetings Managing the high priority tasks and work towards the Development team deliverables on time. 
+Managing Global Teams & Vendors to deliver High quality software products. 
+PMG CRANES SOFTWARE INTERNATIONAL LTD., BANGALORE SENIOR MANAGER from APR 2008 April 2010 
+Overall responsible for managing various functional groups QA, QC, Development and Support team and manage the products as per the demands from the global market. 
+Actively involved in Product Management and Product Marketing (International). 
+Ensuring strict observance of set quality standards and monitory delivery as per Project Plan and the Contractual Agreement 
+SIMULIA-ABAQUS (DS) PROVIDENCE RI, USA PRODUCT RELEASE COORDINATOR OCT 2006 
+MAR 2008 
+Accomplished responsibility for developing testing process methodology, which involve remote testing team (offshore). 
+Proactively involved in planning software release management for DS Products (ABAQUS) and writing test cases, which will be executed in office in India. 
+Contrived Tier 
+2 level testing requirements such as OS, Hardware, and compiler requirements. 
+HW 
+INTERFACE SUITE OF PRODUCTS ALTAIR ENGINEERING, INC TROY MI USA 
+TESTING CO-ORDINATOR AUG 2002 OCT 2006 
+Assumed responsibility for developing test plans and test-matrix for HW suite of products to cover the entire solver interfaces (Ls-Dyna, Nastran, Abaqus, Radioss, Optistruct etc). 
+Co-ordinate and managed customer feedback during beta testing with the developers to implement the enhancement of the product features. 
+ALTAIR ENGINEERING, INC TROY MI USA PROJECT ENGINEER AUG 2000 - MAR 2002 
+Jeep 2004 Xenoy EA Development: Analyzing the Xenoy EA Bumper system in comparison with Foam EA system to compare the Energy dissipation, Intrusion, Barrier displacement & Force vs Displacement curve using Ls-Dyna. 
+Stainless Steel Frame Concept: Project involves comparative study of the new truss frame design made of stainless steel with the Low carbon steel model of F-150. 
+CSM (I) LTD. BANGALORE, INDIA MANAGER - TECHNICAL SERVICES JUL 1999 
+JUL 2000 Penning Proposals for overseas customers, promoting MSC products all over India. Executing simulation projects for Aerospace, Automotive and consumer electronics industry. 
+Interfaced & coordinated with various internal and external vendors. 
+IHPC, SINGAPORE CONSULTANT JUN 1996 
+MAY 1999 Solely responsible for promoting CAE on Super computer to the Industries in Singapore that included conducting Benchmark CAE software s available on super computer. 
+FAR EAST COMPUTERS PVT. LTD. (FEC) CONSULTANT MAY 1995 JUN 1996 
+Organized training for the customers in the field of Aerospace, Automotive and Consumer electronics. Products :SDRC I-DEAS, ANSYS, PROCAST EMRC INDIA, BANGALORE SENIOR PROJECT ENGINEER JAN 1993 MAY 1995 Creditworthy for deciphering of various consulting projects for the private sector industries. 
+Drove the efforts for contact analysis of a shear pin employing 3-D GAP elements using non-linear static module in NISA FEA Software. 
+Implied in technical support of NISA FEA Software, Pre-Sale activity and Post Sale training. 
+Details of major projects executed are placed at Annexure-'A' ANNEXURE - A 
+PROJECTS HANDLED 
+Performance of benchmarking CAE/ FEA software on HPC platforms like CRAY super computer. 
+FSI Qualification and reporting 
+Tier 2-qualification process & Project Testing 
+Abaqus 6.7-2 Student Version Release 
+Productization of DFA 
+Sienna 2003 Xenoy EA Development: Analyzing the Xenoy EA Bumper system to calculate the Energy dissipation, Intrusion, Barrier displacement & Force vs Displacement curve using Ls-Dyna. Jeep 2004 Xenoy EA Development: Analyzing the Xenoy EA Bumper system in comparison with Foam EA system to compare the Energy dissipation, Intrusion, Barrier displacement & Force vs Displacement curve using Ls-Dyna. 
+Stainless Steel Frame Concept: Project involves comparative study of the new truss frame design made of stainless steel with the Low carbon steel model of F-150. 
+Prediction of Sound pressure in a Chain-Sprocket System using Ls-Dyna solver for SUNSTAR Co. from Japan Dynamic analysis of an Engine component For DELCO (A GM Company), Dynamic Analysis of components from ASM Technology Thermal Analysis of electronic consumer products from Philips 
+Singapore. 

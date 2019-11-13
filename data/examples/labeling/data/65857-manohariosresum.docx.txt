@@ -1,0 +1,57 @@
+T. Manohar 
+iOS Application Developer 
+Email:-manohar.ios.mail@gmail.com Mobile No: - +91-8147144543. 
+OBJECTIVE: - To obtain iPhone Developer position that will allow me to utilize my skills and has potential for growth. 
+EXPERIENCE SUMMARY:- 
+0.6 Year(s) of Intership experience in iPhone & iPad application development and design 
+I am Proficient in XCode 4.2, 4.5,5, 6 & 6.4 Objective C, Cocoa Touch, C, SQLite, Web services, XML parser. 
+Experience with development of UI with Interface builder as well as custom UI development Experience on web service integration (JSON Social Networking [Facebook, Twitter integration]). 
+Good knowledge of iOSApp Provisioning (publish applications on App store andAd hoc distribution). 
+Web technologies: HTML5, CSS, Jquery, JavaScript, Ajax,User Interface Design. 
+Data base: mysql, SQLite, Coredata. 
+Excellent debugging and optimization skills 
+Think creatively and innovatively to make a difference. 
+Ability to work in groups as well as independently with minimal supervision 
+Good Interpersonal skills, commitment, result oriented and always inclined to learn new technologies and undertake challenging tasks. 
+Professional Experience: - 
+Working as a iOS Developer in Stylezit Pvt Ltd.from Dec 2015 to till date. 
+Academic Profile:- 
+B.Tech in INFORMATION TECHNOLIGY (IT) from JNTUK University. 
+Academic Details: 
+B.Tech 
+in INFORMATION TECHNOLIGY (IT) (2016) from JNTUK with 70.45% marks. 
+10+2 in MPC(2012) from A.P.board with 70.5% marks. 
+High School(2010) from A.P.board with 68.66% marks. 
+TECHNICAL SKILLS: - 
+Language :Objective C,C,JAVA(J2SE). 
+Database : SQLite, Coredata. 
+Operating Systems : Mac OS X and Windows. 
+Web Services : SOAP, REST, JSON, XML,XAMPP,WAMPP(SERVERS). 
+I.D.E : X Code ( 4.2 , 4.5.1,4.6,5, 6& 6.4). 
+PROJECT DETAILS PROJECT 1:- 
+Title : Restaurant Bar Management 
+Environment: Objective C, iPhone SDK, MAC OS X. 
+Duration : Currently Working Application 
+Role : Team Member Team 
+Size : 3 
+Project Description: 
+Developed an intuitive application for efficient management of restaurant bar. This iOS app works in tandem with the equivalent web application. When users sign up using the web application, they can sign in with the same credentials in the iOS app. 
+The Profile section displays the user details which can be updated as required.The Manager/User can create a new order by searching for items in the database and adding them to a new order, adding items from old orders from history section or by scanning barcode of the item. If created by manager, order is directly sent to sales representative otherwise to the manager for final confirmation. 
+When the placed order has been processed by the distributor, it is shown on the receiving list. The Manager/User can mark an item as received or notify it for discrepancy.Once all the items are received the whole order can be marked as received and it goes to the history section. The App user can register a new restaurant through the application. 
+Roles/Contribution in the project: 
+As a Team Member, was responsible for Understanding the requirements of the current project. 
+Designing the views using interface builder. Involving development of data delegate coding. Making connections and Application Coding using Objective C 
+PROJECT 2: 
+Title : Muzeit 
+Environment : Objective C, Cocoa Touch, and Xcode . 
+Role : Team Member Team Size : 2 
+Project Description: 
+With Muzeit, music is taken to another level.. Enabling you to find out what all of your friends are listening to instantly. Muzeit provides you with instant recommendations to an extent that might surprise you in terms of accuracy. Browse through your friend's music library and instantly download the songs Roles/Contribution in the project: 
+As a Team Member, was responsible for Understanding Functional, Design and Technical specifications documents. Active Participation in the weekly status update meeting. 
+Designing the Views Using Interface Builder Making connections and Application Coding using Objective C. 
+Install the provisional profile in the iPhone to test Application while developing. 
+Personal Details: 
+Date of Birth:1th JULY 1995 Sex & Status:Male & Single 
+Nationality:INDIAN 
+Languages Known:Telugu,English. 
+Declaration: I here by declare that the information given by me is true to best of my knowledge 

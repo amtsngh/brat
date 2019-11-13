@@ -1,0 +1,44 @@
+ ANAND.T 
+Address: C-17, Saisukrithi, Hillview Nagar, Pudupariyaram, Palakkad-678731 
+Email ID:anandprince100@gmail.com Mob: 9446454725 (or) 7012758503 CAREER OBJECTIVE 
+Looking for a technically challenging position which provides highly motivating and friendly environment that can help me prove my leadership qualities and leverage my pursuit of career advancement and expansion of my skills. 
+ACADEMIC PROFILE 
+2016: Completed B.Tech(CSE) from Cochin University of Science and Technology,CGPA-7.03 
+2012: Completed 12th from Kendriya Vidyalaya Kanjikode with 76.5% 2010: Completed 10th from Kendriya Vidyalaya Kanjikode with CGPA of 9.0 TECHNICAL SKILLS 
+Languages known : C, C++, Java, JavaScript, HTML5, CSS, PHP, ASP.NET, Ajax Packages and applications 
+: MS Office, Visual Studio, Dreamweaver 
+Databases : MySQL, SQL Server 
+Frameworks known 
+: jQuery, Bootstrap 
+Operating System 
+: Windows, Linux/Unix 
+ACADEMIC PROJECTS 
+B.Tech Main Project- Smart Drip Irrigation System using Raspberry pi and Arduino 
+Based on IEEE paper published at International Conference on Communication, computing and Automation Uses Raspberry pi to poll email to check for the amount of time to irrigate the plants Uses Arduino to control relay switches that turn on the Motor pump. 
+XBee module is used for communication between pi and Arduino B.Tech Mini Project- 
+Optical Character Recognition Application 
+Java desktop Application capable of recognizing characters drawn on the screen 
+Based on an IEEE paper on Optical Character Recognition using Kohonen Networks 
+Algorithm 
+Uses JDBC to connect to MySQL for login credentials 
+CERTIFICATIONS 
+Completed a certification course in Master in Software Administration which include C, C++, PHP, ASP.NET, JAVA and MYSQL. 
+ACHIEVEMENTS 
+Represented Palakkad District in Cricket 
+Represented KVS in Nationals in Cricket and Athletics 
+Organized competition in the Tech fest (CUSAT) PERSONAL SKILLS 
+Positive attitude Flexible and adaptable to situations 
+Goal oriented 
+Excellent communication skills 
+Leadership skills 
+Team Player 
+PESONAL DETAILS 
+Date of Birth 
+: 12-09-1994 
+Gender : Male 
+Languages known 
+: Malayalam, English, Tamil, Kannada, Hindi 
+Leisure Interests : Cricket, Music, Internet Surfing, Blog Reading, Movies. 
+DECLARATION 
+I hereby declare that the information furnished above is true to the best of my knowledge and I am confident of my ability to work in a team. 
+ANAND T 

@@ -1,0 +1,65 @@
+G. ARUN KUMAR, No.2A Lakshmi Avenue, IAF Road, Selaiyur, 
+E-mail: arun.ceg2015@gmail.com Chennai 600 073. 
+Phone: +91-9940100922 
+CAREER OBJECTIVE: 
+To pursue a highly rewarding career, seeking for a job in challenging and healthy work environment where I can utilize my skills and knowledge efficiently for organizational growth. 
+COMPUTER SKILLS: 
+Software design Application : 
+Pro E, SOLID WORKS. (Modeling & detailing) Software meshing Application : HYPERMESH. (Meshing & apply boundary condition) Software FEA Application : ABAQUS, ANSYS WORKBENCH. 
+ACADEMIC PROFILE: 
+M.E (Computer Integrated Manufacturing) 8.4(3rd sem), College of Engineering Guindy, 2015-2017. 
+B.E (Mechanical) 7.616, Balaji Institute of Engineering and Technology, 2014. 
+PROFESSIONAL EXPERIENCE: CAD engineer at CADD Centre training service, as a part time employee from July 2015 - till date. 
+Design Engineer at Sree Krishna Power Engineering & Consultancy Pvt. Ltd. from July 2014 June 2015. 
+Project 1.: HEDC SDD projects for CATERPILLAR. 
+Roles & Responsibilities: Detailing for sheet metal, machine parts, and assemblies in the CREO package. 
+Updating EDN for the drawings. 
+Providing Geometric tolerance for appropriate places. 
+Updating Drawings with Latest CAT Standards. 
+Applying weld symbols in the required areas. 
+Project 2.: Reverse Engineering of Pocket Envelope Making Machine for REDLANDS 
+Roles & Responsibilities: Measurement of the dimension & creating input sheet. 
+Converting 2D to 3D cad model in solid works environment. 
+Assembling of the parts to build the machine with form & fit functions. 
+Drafting the 3D cad model, with tolerance for manufacturing. 
+Project 3.: 
+Cup-insert design for TAFE. 
+Roles & Responsibilities: Concept discussion with customer & knowing their requirements. 
+Develop varies proposals which meets the mating part. 
+Presenting the proposals to customer. 
+Enhance the design of selected design according to FEA analysis. 
+ACADEMIC PROJECTS: 
+Topology optimization for additive manufactured engine bracket. 
+An engine bracket of a passenger car was taken and redesigned for the objective function of minimal weight and good damping effect using Optistruct and the fabrication was done on the additive manufacturing technology (Selective Laser Sintering) using glass-bead filled polyamide. 
+Prototype of Bidirectional Gear Ram. 
+An innovative mechanism which convert rotational motion into linear motion, compact and portable one which replaces traditional crank and slider mechanism. 
+Finite element analysis on particle impact behavior in abrasive jet machining with varying the process parameter in en24 steel. 
+The interaction mechanism between a work piece and high-velocity abrasive particles was studied using a new computer simulation model to understand the micro impact behavior of high- velocity micro-sized abrasives in AWJ cutting. 
+TRAININGS: 
+3D printing & Additive manufacturing 
+course @ NIT Warangal, by Ian Gibson (Australia). 
+Finite element in fluid 
+course @ IIT madras, by P. Nithiarasu (United Kingdom). 
+In-plant training at 
+Hyundai Motors India Limited (CHENNAI) for one week. 
+In-plant training at 
+Tuticorin Thermal Power Station (TUTICORIN) for one week. 
+One-day workshop on 
+Rubber technology at Madras Institute of Technology. 
+One-day workshop on 
+Wire cut EDM , at Madras Institute of Technology. 
+Two days workshop on 
+Line Following Robot , by Robosampians & IIT Kharagpur. 
+AREAS OF INTEREST: 
+Additive Manufacturing. 
+Geometrical Dimensioning & Tolerancing (GD&T). 
+ACHIEVEMENTS & EXTRA CURRICULAR: 
+Presented a paper on MULTI OBJECTIVE OPTIMIZATION of ELECTROCHEMICAL MICRO DRILLING of TITANIUM ALLOY in AIMTDR-16 (International conference). 
+Presented presentation on Rapid Prototyping and won second place in symposium. 
+Taking leadership qualities like Public relation officer roles in college. 
+Organizing and coordinating symposium. 
+Active participation in Inter School Competitions like Football, Handball. 
+DECLARATION 
+I hereby declare that the information given above is true to my knowledge and belief. 
+Place: chennai 
+Date: (G. ARUN KUMAR) 

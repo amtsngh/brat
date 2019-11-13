@@ -1,0 +1,30 @@
+Ketkee Masade No. 14, New BBMP no.37, 
+ketkee09@gmail.com 2nd cross,Ankappa reddy layout, 
+Cell Phone: 9481126910 Kaggadaspura, CV Raman Nagar, Bangalore 560093 
+SUMMARY: 
+Total 2 years of experience in Software testing. Hands on experience in preparing Test plan, Test cases, Test Data and execution. Well versed on Defect tracking. Good knowledge on SQL and test management tool like Quality Centre. 
+EDUCATION: 
+Bachelor of Engineering in Electronics 
+Graduated June 2009 Nagpur University, India 
+73.87% 
+TECHNICAL SKILLS: 
+Databases: MySQL Tools: 
+HP QC PROFESSIONAL EXPERIENCE: 
+Volunteer 
+May 2013 Jan2015 Independence Regional Library, Charlotte, NC Profile: Technology Helper (Volunteer position) 
+Responsibilities: Assisting patrons in computer lab with job application and other forms, Resume building, online assessment tests, technical tuitions etc. 
+Technical Associate 
+Feb 2011 
+Feb 2013 Tech Mahindra Ltd, Pune. 
+Profile - Testing, Software Quality Assurance 
+Project: GCAS (Global Craft Access System) GCAS is the integrated systems for all the dispatch orders within ATT. The system takes input from the OSS layer applications and analyzes data. It tracks work assignments for technicians working inside central offices. It provides different services to Technicians like driving directions, perform Billing, Time Reporting, Materials and multitude other functions like look up of facility assignments, perform cable pair change, sales referrals, Stock Ticker etc. Role: Manual/Automation Testing Responsibility: Requirements: Understanding Business and Functional Requirements and ensuring those in test cases with zero slippage. 
+Test plan design: Provides input on test plans for features and designs. 
+Quality validation: Ensuring proper execution of designed test cases. 
+Defect Reporting: Reporting Defects during execution and tracking them. 
+Test Results: Uploading Test Results in QC. 
+Coordination: Communicated with developers and helped them in getting fixes on time. 
+Experience in executing SQL queries in order to view successful transactions of data and for validating data. 
+Automation: Used Selenium based framework to perform automation testing of Web application. 
+Others: Manual testing of GCAS application on Android and Apple devices. 
+Others: Familiar with Web service Testing using Soap UI and Performance Testing Activities. 
+References: Available upon request. 

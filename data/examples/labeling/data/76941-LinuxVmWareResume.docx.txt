@@ -1,0 +1,63 @@
+ Krishna Reddy.C Email: krishna.redhat6@gmail.com 
+Mobile: 91-9945489103 
+Objective: 
+To be associated with an organization that gives me scope to update my knowledge and skills in accordance with the latest trends in IT industry and be part of a team, which works in a competitive environment on challenging assignments that shall yield the twin benefits of the job satisfaction and a steady-paced professional growth. 
+Professional Experience: 
+A technology driven professional with 4 years of experience in Vmware and Unix System Administration with technical expertise in implementation, operations & support functions. 
+Expertise in UNIX system administration tasks such as installation and upgrade of software on Linux, Solaris servers. 
+Experience in creation and maintenance of file systems and other day-to-day activities for a system administrator. 
+Excellent understanding of incident and change management process. 
+Possesses basic knowledge on shell. 
+Proven abilities in administering division-wide system administration of UNIX systems. 
+Has excellent communication, analytical and troubleshooting skills. 
+Experienced in installation of ESXi host and virtual machines. 
+Organization: 
+Currently working for Capgemini Pvt Ltd, Bangalore as a Linux System Administrator from 2012 to present. 
+Education Qualification: 
+B.Tech with EEE in Sri Krishna Devaraya Engineering College, Gooty affiliated to Jawaharlal Nehru Technological University in the year of 2011 with 61%. 
+Technical Summary: 
+Operating Systems 
+: RHEL5/6, Sun Solaris, Windows Server 2003 and 2008 
+Virtualization Technologies : 
+VMware ESX, ESXI 
+Tools : 
+Veritas Volume Manager(VxVM), 
+Languages : Shell Script (Bash) S/W Configuration & Management 
+: rpm, YUM, Kickstart. 
+Unix/Linux Services : FTP,NFS,DNS,Sendmail,Telnet,SSH,DHCP,NIS,SAMBA,SQUID 
+Web/App Server : 
+Apache. 
+Storage Management : RAID, SAN, LVM, MULTIPATH. 
+Roles and Responsibilities: 
+Installing and maintenance of Linux (RHEL) OS version 4, 5 & 6. 
+Troubleshooting on day-to-day problems via opening and closing tickets. 
+Installation of OS patches, updating the maintenance levels when required. 
+Monitored the performance of the server using top, vmstat, iostat, free. 
+Checking ofCPU Utilization, memory usageandnetwork traffic. 
+Monitoring Virtual memory, adding additional swap space as needed. 
+Coordinating with Storage team for LUN allocation, creating new file system, Increase the existing file system. 
+Troubleshoot and Maintenance on remote server using telnet, Ssh. 
+Troubleshoot on booting issue like MBR, GRUB ...etc. 
+User and Group Administration in Creating, Modification, Monitoring, Password Aging, System Security, Access Control List (ACL). 
+Managing file system like creating Partitions, Mounting and Monitoring file system. 
+Management of LVM like creating, resizing, importing and exporting of disk groups. 
+Package Configuration and Management using RPM and YUM services. 
+Configuration and Maintenance of FTP, NFS, Crontab and IP Bonding. 
+Configuring and Maintenance of Samba, mail Servers. 
+Client configuration and Maintenance of DNS 
+Performance Monitoring on Linux and Solaris. 
+Kdump Configuration on Linux servers. 
+VMware:- Designing, Installing and Implementing VMware ESXi Servers 5.5, vCenter Server 5.5 setting up HA, DRS, SDRS, vMotion, SvMotion, FT and related VMware products such as, VMware vCenter Converter Standalone 5.0, Dell EqualLogic PS6500 / HP P2000 G3 iSCSI SAN Storages and other virtualization products. 
+Working experience with vCenter Server 5.1, 5.5 and VMware ESXi 5.1, 5.5 Servers to Install and Manage the Virtual Machines through VMware vSphere client 5.1. and 5.5 Good experience on configuring and managing HA, DRS for Resource load balancing & High Availability of VMs. 
+Working experience with VMware vCenter Standalone Converter 5.1 for P2V, & V2V migration. 
+Working knowledge with virtual machine Snapshots & Templates, and migration of VMs between ESXi Servers & Datastores. 
+Migrate existing physical and virtual machines from obsolete version to current versions Troubleshooting issues related to Virtual Machine, vMotion, snapshot, clone and converter Configure and firmware upgrade the Virtual-Connect and ILO of HP enclosures Installing and configuring Rack-mount server & blades from HP 
+Configuring Clusters for High Availability, DRS and Fault Tolerance (FT) Creating and Managing Virtual Machines and Templates. 
+Installing VMware Tools for Virtual machines. 
+Migrating VMs through vmotion, cold migration Experience on converting physical to virtual and configuring and bringing the Vm servers into production. 
+Design, implementation, and documentation of VMware vSphere 4 and 5.5 and 5.1 Setting up Alarms for various performance reasons like Host, VMs, Datastores status, CPU and Memory usage Troubleshooting ESX and VM related issues. 
+Raising case with product vendors if any hardware found failed. 
+Creating VMs by cloning and configuring the same Managing Snapshots 
+Worked on features like HA, DRS, SDRS. 
+Creating and maintaining Resource pools Worked with SAN and NAS storage domains Working knowledge with virtual machine Snapshots & Templates, and migration of VMs between ESXi Servers & Datastores 
+Creating & Managing vSwitches, Port Groups and Distributed vSwitch for virtual network 

@@ -1,0 +1,26 @@
+Akshay Kumar S/O Sundara Acharya, Kalika Prasad, Near Babbu Sana, Sadadi, Pangala, Udupi taluk , Udupi Dist. 
+Contact No.:- +918277403640 E-mail:-akshaykumarr00894@gmail.com CAREER OBJECTIVE 
+To work in a firm with a professional work driven environment where I can utilize and apply my knowledge, skills which would enable me as a fresh graduate to grow while fulfilling organizational goals. 
+BASIC ACADEMIC CREDENTIALS 
+Qualification Board/University Year Percentage 
+BE (Computer Science Engineering) VTU board 2016 60.68 
+PUC Karnataka PU Board 2012 62.16% High School Karnataka Secondary Education Examination Board 2010 83.57% PROJECT 
+Mini Project on Graphical Editor The project aims on utilizing few concepts from Computer Graphics to demonstrate Graphical Editor. The project demonstrate that by using OpenGL functions, we can create different kinds of graphics and animations. The designed editor is a mouse and menu driven graphical interface editor. The end users of the editor need not be well versed in all commands and have prior knowledge of how to work on the editor. 
+Project on PRO-key Generator 
+Team size: 4 
+Software used: Visual studio 10 and MySql 
+Project Description: Software piracy has been a great issue that has been discussed over the past few years. A lot of big companies and software developers have lost a lot of money due to the abundance of software piracy, so in our project we are developing software to over come this problem as well launch this product worldwide through internet. In this project a product key comes with the software that you buy. Before fully installing the software on your computer, you must provide the specific code key that came with the software. After providing the product key you can run the software on your computer. The product key also locks after it has been used since it is a machine dependent lock. This is so that the software cannot be installed on other computer after it has been installed on one. You will have to call the manufacture of the software to be able to use the code key again. The process is done by encryption which uses various encryption methods. 
+COMPUTER SKILLS 
+Language: C,C++ HTML HTML 5 Bootstrap MySQL CSS3 JavaScript Php 
+INTERPERSONAL SKILL 
+Interacting skill Team Building Capacity 
+Good communication skill 
+PERSONAL DETAILS 
+Fatherss Name :- Sundara Acharya 
+Mothers Name :- Kushala S Acharya 
+Date of Birth :- 08 October 1994 
+Language Known :- English ,Hindi, Kannada,Tulu Interest & Hobbies :- Watching Inspirational movies, listening music 
+DECLARATION 
+I do here by declare that the above information is true to the best of my knowledge. 
+Place: Udupi 
+Date: Akshay Kumar (Signature) 

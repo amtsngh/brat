@@ -1,0 +1,32 @@
+Lokesh K 29 Years, PGPM (Information Management) 
+pgpm2016.lokesh@spjimr.org | +91 9884694976 SUMMARY IT product management certified professional, around 6 years of work experience in Telecommunication, Networking and Security products with exposure to Software Design, Development and Quality Assurance 
+About to complete one year full time MBA from SP Jain Institute of Management and Research, Mumbai 
+EDUCATION 
+Course Institution Year Remarks 
+Advanced Information Management Program McCombs School of Business, UT Austin 2016 
+Completed 
+Post Graduate Program in Management [One year full time MBA] 
+SP Jain Institute of Management & Research, Mumbai 2016 Ends November16 
+Bachelors of Technology BSA Crescent Engineering College, Chennai 2009 75% Product Management Internship 
+Instasafe 
+Cloud Security [Backed by Microsoft Ventures], Bangalore April, 2016 - Present 
+White paper to calculate TCO for cloud security products Whitepaper on advantages of cloud security and Security-as-a-Service solutions. 
+Creating product data sheets for Instasafe Cloud Secure Access product 
+PROFESSIONAL EXPERIENCE 
+Associate Software Quality Assurance Engineer, Symantec Software 2012 2015 
+Worked for different Norton consumer products under Macintosh Operating System portfolio Product Innovation 
+Submitted 6 software innovations to Symantec - Patent Review Committee. Recognised with "Inventor and Innovator award for filing highest number of inventions in Symantec Patent Program- 2013 
+Recommended 23 valuable enhancements to Norton Mac products based on competitive analysis and customer complaints. Silent mode feature was appreciated by customers and other stakeholders. 
+Recognised with Symantec level 1 Applause award for innovation and customer driven approach Software Design and Development 
+Responsible for Design and Development of the Automation framework of 150+ cases for Norton Products which significantly replaced manual testing effort by 1800 man hours per month. 
+Recognized with Symantec Level 4 Applause Award from senior test manager for good teamwork Quality Assurance 
+Reported 568 quality defects and got recognition with Symantec Level 2 Applause Award 
+Posted Live-Update patches in Test/Production servers benefiting 5 million customers 
+Tested 
+Norton One-Mac product and recognized in MacWorld magazine as Best Consumer Software 
+Software Engineer, Accenture Services Private Limited 2010 2012 Worked for one of top telecommunications client in UK. Regression test lead for managing 320+ regression test cases for billing system and broadband services with zero high severity incidents reported Automated test data system selenium (python) saving manual testing effort 1050 hours per day 
+CERTIFICATIONS 
+Product Management Specialisation 
+Introduction to Software Product Management - University of Alberta 
+Agile Software Practices - University of Alberta 
+Client Needs and Software Requirements - University of Alberta 1 | Page 

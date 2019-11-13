@@ -1,0 +1,81 @@
+ Pranshu GuptaNoida(+91) 9540569099 pranshugupta18@gmail.com MC ID: 10232554 
+Career Objective: 
+To be a part of an organization that can give me anopportunity to utilize and enhance my software skills and thereby contributing to the growth of theorganization. 
+Professional Summary: 
+Total 2.8 years ofcompetitive experience in IT industry usingMicrosoft Technology(C#, WPF, WCF). 
+Successfully completed Windows Applications Development with Microsoft .NET Framework 4 (70 -511) Certification. 
+Experience of working in the complete Software development life cycle involving requirement analysis, design, development, documentation, testing and maintenance. 
+Solid work experience in globally leading, CMMI Level 5 accredited Retail/Core banking software product IT Company. 
+Have the motivation to take independent responsibility as well as ability to contribute and be a productive team member. 
+Technical Skills: 
+Languages: C# 
+Technologies: .Net Framework 4.0, XAML, WPF, WCF, XML 
+O/S: Windows 
+Tools: Visual Studio 2012, Team Foundation Server (TFS), NCOVER, MKS Integrity (PTC), SVN 
+Work Experience: 
+Working as a Software Engineer in Fiserv India Pvt Ltd. from 21st Oct 13 till date. 
+Having 2.6 years of strong IT experience as windows application developer. 
+Currently working in DataSafe Project Team at Fiserv, Noida as Software Engineer which serves various credit unions worldwide. DataSafe provides complete solution to banking needs, be it home banking, teller, commercial lending, retail loans, etc. 
+Project Details: 
+Back Office Manager Integration 
+Environment C#, .Net, WPF, WCF, Visual Studio 2012, TFS 
+Description 
+This is about integration of multiple existing modules/ functionalities to newly developed DataSafe product. This provide single signon feature to datasafe so user doesnt have enter his/her credentials each time he/she opens a new feature. 
+Responsibility Understanding Business logic.Fixed backward compatibilities issues. 
+Integration with new system. 
+Providing production support for the live system. 
+Reports 
+Environment C#, .Net, WPF, WCF, Visual Studio 2012, TFS 
+Description 
+Reports are generated as part of end day process in every financial institution.Whether it is Account specific/ Teller specific. 
+Responsibility Reverse engineering the existing VB Product and create trailblazing document and User Interface document (UID). 
+Preparing UTM (Unit Testing Memo). 
+Implementing business logic and coding using SRS and User Interface document (UID). 
+Verify the functionality and unit testing of the product by creating UTC. 
+Followed all the required processes as per CMMI guidelines for e.g. FIR of all the deliverables etc. 
+Courtesy Pay Manager 
+Environment C#, .Net, WPF, WCF, Visual Studio 2012, TFS 
+Description 
+Courtesy Pay is a service that allows us to pay an item presented for payment against your checking account even if it causes the account to become overdrawn. This may include checks, ACH, ATM withdrawals, PowerCheck (Debit Card) and Bill Pay transactions. Members must opt-in to Courtesy Pay coverage for Debit/ATM transactions Responsibility Reverse engineering the existing VB Product and create trailblazing document and User Interface document (UID). 
+Preparing UTM (Unit Testing Memo). 
+Implementing business logic and coding using SRS and User Interface document (UID). 
+Verify the functionality and unit testing of the product by creating UTC. 
+Followed all the required processes as per CMMI guidelines for e.g. FIR of all the deliverables etc. 
+Year to Date Adjustment 
+Environment C#, .Net, WPF, WCF, Visual Studio 2012, TFS 
+Description Year to Date Adjustment module allows teller to adjust interest/dividend of an account from starting of the year to present date.Originally interest/dividend is calculated and processed at the end of the day of any financial institution which is based on the product the customers account is mapped to. But this module helps to override subtract/add interest/dividend to existing amount. 
+Responsibility Reverse engineering the existing VB Product and create trailblazing document and User Interface document (UID). 
+Preparing UTM (Unit Testing Memo). 
+Implementing business logic and coding using SRS and User Interface document (UID). 
+Verify the functionality and unit testing of the product by creating UTC. 
+Followed all the required processes as per CMMI guidelines for e.g. FIR of all the deliverables etc. 
+Receipt print and Reprint 
+Environment C#, .Net, WPF, WCF, Visual Studio 2012, TFS 
+Description Receipt Print and Reprint module contains several printing functionalities.It helps to print Account owners address information. This is needed in case any notice/letter is to be sent to member.It also helps to print checks that have been obsolete due to damage. This helps to reprint the checks with same routing number and preserving the existing information on check. Through this screen user can print all kind of checks. Tellers Checks, Travelers checks, bankers check. 
+It also helps to print reports based on transaction for individual teller. 
+This also deal with documentation/forms submitted by any customer. Firstly it stores the data to local server then after completion it transfer completed document to optical servers. 
+Responsibility Reverse engineering the existing VB Product and create trailblazing document and User Interface document (UID). 
+Preparing UTM (Unit Testing Memo). 
+Implementing business logic and coding using SRS and User Interface document (UID). 
+Verify the functionality and unit testing of the product by creating UTC. 
+Followed all the required processes as per CMMI guidelines for e.g. FIR of all the deliverables etc. 
+DNA - Extension 
+Environment C#, .Net, WPF, WCF, Visual Studio 2010, Description 
+DNA is newly developed product to serves various Financial Institution worldwide. It provides complete solution to banking needs, be it home banking, teller, commercial lending, retail loans, etc.It a customer centric product and very much interactive where no customer needs to carry any document to verification all of it done at real time with biometric help. 
+One of the important feature of this product is the extension apps which can be developed at any FI and integrated with the existing system. FI can also purchase existing apps from app store if they wish to. 
+Responsibility Understanding Business logic.Interacting with clients to find gaps if anyIntegration of extension module with DNA productProviding production support for the live system. 
+Academic Profile: 
+EXAM PASSED COLLEGE/SCHOOL 
+UNIVERSITY /BOARD PERCENTAGE OBTAINED YEAR OF PASSING 
+B.Tech 
+Ajay Kumar Garg Engineering College Gautam Buddh Technical University 73 2013 
+12th Tathagat Gyansthali Senior Secondary School C.B.S.E. 72 2008 
+10th Tathagat Gyansthali Senior Secondary School C.B.S.E. 
+84.2 2006 
+Personal Details: 
+Marital Status: Unmarried 
+Date of Birth: 08/05/1991 
+Passport: N3513506 
+Permanent Address: 11/156, Ramnagar Colony, Naraini District Banda 
+210129 
+[3] 

@@ -1,0 +1,48 @@
+ Education 
+IIIT-Delhi M.Tech(CSE) 
+2015-2017 SSCET-Junwani,Bhilai B.E(CSE) 2010-2014 
+CGPA:7.5 CGPA:8.45 BSP Sr. Secondary School Sec-10, Bhilai (C.G) CBSE AISSCE(XIIth) 2009-2010 
+Percentage: 
+81.8% BSP Sr. Secondary School Sec-10, Bhilai (C.G) CBSE AISSE(Xth) 2008 2009 
+Percentage: 
+82.4% 
+Skills 
+Expertise Area Data Structures, Operating System, Databases, Computer-Networks 
+Programming 
+Language 
+C,C++, Java 
+Tools and Technologies 
+Android-Studio, Eclipse, MySQL-workbench, Dev-CPP, Code::Blocks, Ionic-Lab, Linux, Raspberry-Pi, AWS, ODK(Open Data Kit) Technical 
+Electives 
+Mobile-Computing, Databases, Information-Retreival, Data-Mining, Internet Of Things, Graduate-Algorithms Projects 
+Smart Plug Development of Smart-Plug which monitors the power consumption of a device and prompts the user to switch the device ON/OFF through the Android App. 
+Technologies Used: Raspberry-Pi, AWS-IOT, AWS-EC2, Mongo-DB, Google GCM, Android Studio. 
+Search Engine Development of Basic Search engine with features query feedback and query expansion using the concept of Information-Retrieval on the basis of tf-idf score and Bm25 score. 
+Technologies Used: Eclipse(mars) for Java 
+JYOTI SHUKLA 
+Email: jyoti15022@iiitd.ac.in 
+DOB: August 30, 1992 
+Address: Qr No.-2/K ,Street-37,Sector-6,Bhilai(C.G) Voice-Based Personal Assistant 
+Developing a voice based personal assistant tool like Amazon Alexa providing assistance to the users for many features like playing music, web-automated online- shopping, getting top-news of the day by giving input as speech etc. 
+Technologies Used: Eclipse(mars) for Java, Selenium 
+Mobile App for EEG Sensors Development of hybrid mobile App for EEG sensors-collecting the data for Meditation and showing it in App focusing on UI. 
+Technologies Used- Ionic-Framework, Cordova, Angular-JS, HTML, CSS, Android 
+NGO- Project (GRAM VARTA) 
+Developed Mobile data collection solutions (electronic forms) through Open Data Kit for the survey project GRAM VARTA . 
+Technologies Used: ODK Collect(Android App), ODK Build, ODK Aggregate, XML 
+IIIT-D BOOK-HUB 
+Developed Mobile Hybrid App for IIIT-D library focusing on the front end of the App. 
+Technologies Used: Ionic-Framework, Cordova, Angular-JS, HTML FoCoM (FOOD COUPON MANAGER) 
+Developed Android App for IIIT-D for efficient Mess Management by using the App instead of paper coupons. 
+Technologies Used: Android-Studio, SQLite Positions of Responsibility 
+Event coordinator at the techno- cultural FEST 
+SAMVID of SSCET Bhilai. 
+Judged Google India Code to learn Contest 2016 co- organized by ACM India and IIIT-Delhi. 
+Awards and Achievements 
+Represented College (SSCET-Bhilai) in University level Badminton tournament. 
+Represented BSP Sr. Secondary School in Inter- School cultural fest 
+UTSAV in singing event. 
+Qualified Gate-2015 with 98 percentile. 
+Interests and Hobbies 
+Singing 
+Playing Badminton 

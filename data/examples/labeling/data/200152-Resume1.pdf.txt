@@ -1,0 +1,50 @@
+Basic Information ---------------------------------------------------------------------------------------------------------------------------------------------- 
+Name : 
+Shubham Sharma CCPP ID 
+: Not Assigned 
+PRN : 160251920082 
+Course : 
+PG - DAC,Feb16 
+Address : 
+Flat No: D909 Ajnara Integrity Raj Nagar Extension Rajendra 
+Nagar., Ghaziabad, Uttar Pradesh 
+Academic Details 
+---------------------------------------------------------------------------------------------------------------------------------------------- Level Stream Institute Board/University Passing Year Degree % Division BTech Computer Science & Roorkee Engineering & Dr. A.P.J Abdul Kalam 2015 71.58 % I 
+Engineering Management Technology Technical University,Uttar 
+Institute Shamli,Uttar Pradesh Pradesh 
+XII PCM LLR Inter College UP Board 2011 67.6 % I 
+Thanadhawan Shamli 
+X General M D Inter College Dudhli UP Board 2009 55.5 % II MuzaffarNagar Academic Projects ---------------------------------------------------------------------------------------------------------------------------------------------- 
+Title : 
+PKI Based Mobile Authentication System 
+Platform : Android Programming Duration : 1 Month 
+Description : 
+We developed PKI Based Mobile Authentication System. In this,The mobile device will connect to a validation server to authenticate the client. Client sends registration details along with public key to the server.The server will generate a encrypted random number and sent it to the mobile device.Client will decrypt that number using the private key, and send it to server. Server will match clientside received number , if it matches client will be authenticated. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+Title : 
+Online Banking System 
+Platform : 
+J2EE Duration : 6 Months 
+Description : 
+The online banking is an application that has been developed for a well-established regional bank operating.The bank has several branches in key cities and towns. In the world of this competitive environment and technological development, the bank has been totally computerized, and to increase its customer base has started planning, for a concept called as e-banking.So that we implemented that concept through that project called Online Banking 
+System. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+Title : Hospital Management 
+Platform : J2SE Duration : 3 Months 
+Description : Hospital Management system includes registration of patients, storing their details into the system, and also computerized billing in the pharmacy, and labs. Our software has the facility to give a unique id for every patient and stores the details of every patient and the staff automatically. User can search availability of a doctor and the details of a patient using the id. ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Other Information ---------------------------------------------------------------------------------------------------------------------------------------------- 
+Extra Curricular : 1. Successfully completed java Coaching from Ducat Noida. 
+2.Successfully completed .NET workshop by passing an online exam conducted by IIT BOMBAY. 
+3.Awarded 1st positions in computer quiz championship. 
+4.Coordinator for sports and extracurricular activities in Roorkee Engineering &Management 
+Technology Institute. 
+5.Awarded 2nd position in ppt,quizs in Roorkee Engineering &Management Technology 
+Institute. 6.Awarded 1st position in scout guide camp. 
+Personal Information ---------------------------------------------------------------------------------------------------------------------------------------------- Date of Birth : 07/01/1995 Gender : 
+Male 
+Nationality : Indian Foreign Languages : 
+English 
+Languages Known : Hindi Contact No:7847813528 
+Email Id 
+: senttoshubham123@gmail.com 
+I hereby declare that the information given above is true to the best of my Information knowledge belief. 
+Date : Signature : 

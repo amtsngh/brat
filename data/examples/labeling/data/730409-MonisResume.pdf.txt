@@ -1,0 +1,99 @@
+m o n i s . a h m e d 3 3 @ g m a i l . c o m 
+m o n i s . a h m e d 3 3 1 6 @ g m a i l . c o m 
++ 9 1 - 9 7 8 2 7 0 7 3 2 8 
+I have Total experience 1.9 years' and I am Oracle Certified Professional DBA with 1.2 years' experience in Database 
+Administration in large production environment and in Red Hat Linux. Experience in Installation, Creation, Configuration, Backup and Recovery, Cloning, Auding, ASM, Import/Export, Expdp/Impdp (Data Pump), User, Roles & Profile Management. 
+As an Employee of ERP Ocean (B.A.V. Infotech Pvt. Ltd., Ghaziabad), Working as Oracle DBA since 20th May 2016 to Till Now . 
+P R O F I L E 
+P R O F E S S I O N A L E X P E R I E N C E 
+ORACLE 
+CORE DBA ERP OCEAN (B .A .V . 
+INFOTECH PVT. 
+LTD. ) 
+MAY 2016 - 
+T i l l 
+Now 
+DOT NET TRAINEE 
+TEKNOMICS 
+SYSTEM PVT. 
+LTD. 
+OCT 2015 
+- MAY 2016 E D U C A T I O N 
+2011 - 2015 B-TECH (CS) 2011 
+12 th Arya College Of Engg. & IT 
+Rajasthan Technical University (RTU) 
+Percentage: 65.46% Shree Mahaveer Digamber Jain Sen. Sec. School 
+Rajasthan Board 
+Percentage: 64% Orac le 1 1g 
+DBA, SQL 
+Server 2012 , PL/SQL,HTML CSS Database 
+Arch i tec ture , 
+User , 
+Ro les & 
+Pro f i l e Management , 
+Admin is t ra t ion , 
+Backup & Recovery , Ins ta l l a t ion , Creat ion , Conf igura t ion . 
+L inux 
+(Red Hat & Orac le ) , Ubuntu , 
+Windows 7 /8 /8 . 1 / 10 . 
+Expor t / Impor t , 
+Expdp/ Impdp 
+(Data Pump) , DBCA, 
+NETCA, 
+NETMGR, 
+Orac le 
+Enterpr i se Manager , 
+RMAN. 
+E X P E R T I S E 
+Oracle Certified Professional 
+(OCP) Oracle Certified Associate 
+(OCA) S K I L L S A F F I L I A T I O N S 
+Member of Computer Society of India. 2012 - Present MONIS AHMED ALVI 
+h t t p s : / / w w w . y o u r a c c l a i m . c o m / b a d g e s / 8 e 5 9 9 8 1 2 - 1 8 7 d - 4 6 3 4 - b 8 2 3 - 5 7 4 0 7 1 d 3 7 9 b 4 
+h t t p s : / / w w w . l i n k e d i n . c o m / i n / m o n i s - a h m e d - a l v i - 2 0 2 6 a 3 9 b / h t t p s : / / m y . n a u k r i . c o m / P r o f i l e / v i e w ? i d = 
+h t t p s : / / w w w . f a c e b o o k . c o m / Database/DBMS 
+Database 
+Admin is t ra t ion P la t fo rms Too ls & 
+Ut i l i t i es PROJECT 1 : DISYS 
+P R O J E C T 
+D E T A I L S 
+I hereby dec la re that 
+the in format ion fu rn i shed above 
+i s comple te and t rue to 
+the bes t 
+o f 
+my knowledge . 
+Date : P lace: (MONIS AHMED ALVI ) 
+P E R S O N A L 
+I N F O R M A T I O N 
+Father s Name: Mr. Anees Ahmed Alvi 
+Father s Occupation: Administrative officer, Rajputana Unani Medical College 
+Sex & Marital Status: Male & Unmarried 
+Age & DOB: 23 years, 5th July 1994. 
+Nationality / Citizen: Indian 
+Passport No.: N1783321 
+Expiry date: 29, 07/2025 
+Relocation: Willingness to relocate both Domestic and International. 
+D E C L A R A T I O N 
+Oracle Server & Client Installation on Linux environments in version 11g. 
+Configuring and Managing Physical Standby Database Server, Cloning an Oracle Databases in Test environment from production database. 
+Configure the database in not Archive log mode to Archive log mode, Added Disk and REBALANCED, Done a migration from NON-ASM to ASM. 
+Create ASM Disk & Disk groups and Maintaining Oracle ASM instance. 
+Working knowledge of User Management, Table space Management & Flashback Technology. 
+Working knowledge of Control Files Management, Redo Log Files Management and Archive Log Management. 
+Perform logical backups (using Export/Import or expdp/impdp utilities). 
+Scheduled backups (like Expdp, RMAN, and Archive log). 
+Taken COLD & HOT Backup using RMAN & Manual method, Planning and Perform using online Backups (RMAN). Done a Recovery using RMAN & Manual method. 
+Routine DBA duties like analyzing schemas. 
+DDL : Create, Alter, Drop, Truncate, Rename 
+DML: Insert, Update, Delete 
+TCL: Commit, Rollback 
+DCL: Grant, Revoke 
+Constraints : Primary Key ,Foreign Key, Not Null, 
+Unique, Check ,Disable & Enable, Views: Simple & Complex 
+View (With Check Option,With Read Only), Sequences (NEXTVAL, CURRVAL), Synonym, Index, Procedure, Trigger. 
+Function : Single Row Function, Multiple Row Function, Joins : Equi, Natural Join, Self Join, Outer Join (Left, Right, Full) 
+Subquery: Single Row Subquery, Multiple Row Subquery, Pairwise Subquery, Non-Pairwise 
+Subquery, Correlated Subquery (Update,Delete using Correlated Subquery), Scalor Subquery . 
+Multitable Insert : Unconditional Insert All,Conditional Insert All,Conditional Insert First, Pivoting Insert 
+Set Operator: UNION & UNION ALL, INTERSECT, MINUS. PROJECT 2 : LOGISTICS 

@@ -1,0 +1,61 @@
+Chintan Patel Chintan089@gmail.com 
++918154948621 3+ year work experience in Support Industries. 
+Good Working knowledge in Product Support, Technical Support and Customer Care Support 
+Process. 
+Good knowledge of MS SQL and Windows server. 
+Excellent troubleshooting techniques. 
+Participate in Product functional reviews, test specifications, documentation. 
+Polished and professional communication and collaborative ability. 
+Good knowledge on Ticket (Issue) Ticketing Tool like Jira, House on Hill, GitHub, Freshdesk. 
+Education: 
+Bachelor of Computer Application 
+Bangalore University 
+Bangalore 
+Project Details: 
+Credit card Management System 
+o Project Based on VB 6.0 and Oracle 9.0 as Backend 
+Online Share Trading System 
+o Project Based on Asp.Net and MS SQL as Backend 
+Work Experience: 
+The Beast Apps (India) Pvt Ltd April 2017 till now o Provide applications and product support to client via E-Mail, Chat, Call and WebEx. 
+o We can primary investigate the issue and create the ticket based on the information provided by customer. 
+o Researching, troubleshooting and identifying solutions to resolve system issues Ticket to in a timely manner. Will consult with product experts to advance the resolution of the issue. 
+o Following standard procedures for proper escalation of unresolved issues to the appropriate internal teams and will follow through until the Ticket has been closed. 
+o Work closely with the development team to analyze, debug and resolve any issues. 
+o Participate in daily system health monitoring and perform checklists to test end user functionality testing. 
+o Participate in product functional reviews, test specifications, documentation. 
+o Occasional travel to Client sites for Software support or on-site troubleshooting. 
+o Ability to multi-task, to organize and prioritize a busy workload and work to tight deadlines o User account administration, i.e., account creation and management and password resets on define platform. 
+Paul Mason Consulting Retail - April 2015 to April 2017 
+o Acting as the first point of escalation for operation support issues. 
+o Working on Retail management system to execute the jobs & batches. 
+o Day to day responsibility for assigning incidents through the incident management system. 
+o Proactive performance monitoring and analysis, Log files Monitoring. 
+o Polling to all stores server, collecting all transaction logs and processing all records systematically on main server. 
+o SQL queries and stored procedures on data server and to generate reports using the data collected through polling. 
+o Reporting of application issue to customer within defined SLA and also daily review meeting with client on phone & creating roadmap for operations improvement. 
+o Monitoring, Process delivery & resolve the issue which may have impact on SLAs. 
+o Tracking and maintaining proper work logs for the given issue. 
+o Quality Audit for operation process deliverables. 
+o Read and improve all process related documents and validate with clients for better visibility. 
+o Undertaking technical resolution of incoming issues, within expected technical capability. 
+o Ensuring all incidents managed directly are logged, investigated, resolved and closed. 
+Motif Inc. - Oct 2013 to April 2015. 
+o Worked as CCR (Customer Care Representative). 
+o Providing Back-End support to MakeMyTrip. 
+o Updating data to the website and handle the client and customer. 
+OPTIME Services- June 2008 - April 2010. 
+o Worked as TSO (Tele-Sales Officer). 
+o Generating leads of the interested customer from the data base provided by the company. 
+o Was selling insurance policies for Bajaj Allianz. 
+o Dialing for the numbers provided by the company and explaining the customer about insurance policies and convincing them over the phone, fixing an appointment with the Sales 
+Executive for the closing of lead. 
+Technical skills: 
+Windows XP, Windows 7, Windows 8.1/10, MS Office, Basic Networking 
+Language: C, C++, VB 6.0, Asp.Net, Html 
+Database: SQL, Oracle 
+Installation, Configuration, Administration & Maintenance of Windows XP & Windows Vista, Windows 7, MS Office 2007, 2010 and Remote location . 
+Declaration: 
+I hereby declare that all the information furnished above is true and correct to the best of my knowledge. 
+Date: Name: Chintan Patel 
+Place: 

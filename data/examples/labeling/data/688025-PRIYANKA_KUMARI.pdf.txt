@@ -1,0 +1,30 @@
+Priyanka Kumari 
+BTM Second Stage, Baneerghatta Road +91-7838273690 
+pk470@snu.edu.in 
+LinkedIn OBJECTIVE 
+I intend to work in prestigious IT organization with a goal of developing my technical acumen as well enhancing the skill set I possess. 
+EDUCATION SHIV NADAR UNIVERSITY, Greater Noida, India Bachelor of Technology, Electrical Engineering, May 2017, CGPA: 6.78/10. 
+Merit Scholarship. Undergraduate Researcher in Fintech and digital transactions. Received distinguished research grant from university. 
+ADWAITA MISSION HIGH SCHOOL, Banka, India 
+12th Board Examination, CBSE, May 2013, Percentage: 89.8 SAINT JOSEPH S SCHOOL, Banka, India 
+10th Board Examination, ICSE, May 2011, Percentage: 89.57 PROFESSIONAL EXPERIENCE 
+ABSOLUTDATA RESEARCH AND ANALYTICS 
+Gurgaon, IND,2016 Data Analyst Data analytics (ETL tools based) of Dubai based luxury hotel chain- Jumeirah Software testing of ANZ (top public-sector bank of New Zealand) bank s digital mobile app Survey design and analysis of Western union (P2P money transfer). 
+YAMAHA MOTORS Faridabad, IND, 2016 Technical trainee intern Worked with project management team on external site projects outsourced to Yamaha Motors Learned about the blue-chip technology used by Yamaha Learned designing and assembling of vehicular parts. 
+MOSERBAER PRIVATE LIMITED 
+Technical trainee intern 
+Greater Noida, IND,2015 Learned about automation in Industry Created optical storage device and solar lamp Learned about various typed of sensors. 
+LEADERSHIP AND INVOLVEMENT HELP AGE INDIA (Social service), Bihar Fund Raiser Collected donation from private, public departments and individual as well to help old people. 
+Active campaigning through street skits, radio and other medium of communication PROJECTS KPIT INC. SPARKLE 
+Developing a concept smart city model Optimization of money inflow and outflow for infrastructure based projects in the pursuit of a smart city using large datasets region wise Analyses of potential factors attributing to smart city, designed a self-sustaining model having people, government and world financial institutions as the key players ANALYSIS OF SANSAD ADARSH GRAM YOJANA SOCIAL COPS DATA ENTHUSIAST COMPETION 
+Created 45,000 unique ID s for people residing in 1071 villages and blocks of UP based on data provided for each block using R and python. 
+Effectively estimated the time it would take SAGY to be implemented in the potential areas of India, the future scope. ways to make this program more effective and have a long-lasting impact. 
+FINGERPRINT RECOGNITION SYSTEM 
+The project mainly aimed at sensing the miniates of fingerprint and matching the same with database of fingerprints stored in software(MATLAB) DATA ANALYSIS AND SURVEY METHODOLOGY 
+A small survey was conducted in different localities of Delhi, to understand the water usage pattern of habitants with the help of Delhi economic survey forum, the data was logged and tabulated, analysis was done based on survey to understand the needs and demands of several localities to have equitable distribution CONSUMER BASED ANALYSIS OF FMCG PRODUCTS (MARKET BASED) 
+A complete analysis of the sales promotion techniques used for FMCG products, their impact on consumer buying services and the way these marketing strategies eventually lead to the increase of sales promotion in India. 
+Technology used: R and Excel 
+ADDITIONAL INFORMATION 
+________________________________________________________________________________ 
+Software Known: C/C++, Data Structure, DBMS, OOPS, Basics of JAVA, VM LABS, MATLAB/Simulink, Ansys, Excel, power point, word, R, WordPress, HTML/CSS, GEPHI, FEMM, Magnet 3-D, Adobe Photoshop. 
+Other interests: Socializing, TED talks, music, travelling Languages known: English, Hindi 

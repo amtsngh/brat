@@ -1,0 +1,49 @@
+ Venkateswara Reddy M 
+Hyderabad| +917893847511 
+venky5007.ror@gmail.com Summary of Qualification: 
+Having 1 year experience in Ruby on Rails. 
+Good knowledge on object oriented principles and techniques. 
+Quick learner and work under pressure. 
+Education: 
+Bachelor of Technology in Electrical and Electronic Engineering, JNTU, Anantapur. (2010- 14) PERCENTAGE 
+: 66% Intermediate in Mathematics and Sciences, Nandyal, AP (2008 -2010) PERCENTAGE : 70.4% SSC Board (2007-2008) PERCENTAGE : 75% Skills & Abilities : 
+TECHNICAL Ruby 2.0.x Rails 
+4.0.x JavaScript, JQuery, Ajax, Html, Css, Bootstrap. Project Management JIRA and Atlassian tools Deployment 
+AWS Elastic Beanstalk,S3 SES, RDS 
+Operating systems Linux -Ubuntu. 
+Databases 
+PostgreSQL 
+Version control systems GIT IDE Ruby Mine, Sublime text Experience 
+SOFTWARE DEVELOPER | KYNATECH SYSTEMS |SEPTEMBER 2015 - Present 
+Kynatech systems pvt Ltd is fully owned subsidiary of Allwyn Corporation. 
+Allwyn Corporation was founded with a mission to help companies solve complex technology problems by bringing tools, technologies, experienced resources, processes, methodologies and project delivery expertise to the table Projects 
+I. 
+HR-SOLUTIONS 
+(I phase) - (http://hrsolutions.elasticbeanstalk.com/) 
+Team 2 Role Developer Period 2 Months 
+Description 
+Hr solution is a web application which generates the pay slips to accounts team. It accepts the data in both ways upload xlsx file and manual entry in to the system. Once it uploads the data it stores in to S3 bucket. And it also has search functionality to get the employee details. 
+II. 
+ALLWYN LOGIN (I phase) - (http://www.employee.allwyncorp.com) Team 3 Role Developer Period 2 Months 
+Description 
+This application is developed for Allwyn employees it has employee and admin logins. In employee login user can download the files that are begin uploaded by admin and send query or request to management, and admin has ability to upload the files and user management like user creation. 
+III. 
+MIHOME (http://mihome-qa.elasticbeanstalk.com/) Team 
+3 Role Developer Period 2 Months 
+Description 
+Mihome is a unique way to save the home related information in to application and sends notifications on expiry of any products, reminder dates. It has two logins homeowner login and builder login. 
+IV. 
+PERITUS (http://www.edgeaffinity.com/) Team 2 Role Developer Period 3 Months 
+Description 
+Peritus is my challenging work among all the projects and it has four logins super admin login, admin login, association admin and end user login. Super admin and admin creates particular mentioned acronym with association admin role in benefits, notifications, news, surveys, ads and events was created. Association admin creates end user role with particular that acronym. 
+Personal Profile 
+NAME Venkateswara Reddy M 
+FATHER NAME Venkata Subba Reddy M 
+DATE OF BIRTH 14th June 1993 
+GENDER 
+Male 
+LANGUAGES English, Hindi, Telugu 
+MARTIAL STATUS Single 
+Declaration 
+I hereby declare that the information furnished above is true to the best of my knowledge and belief. 
+Venkateswara Reddy M. 

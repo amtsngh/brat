@@ -1,0 +1,74 @@
+Gulshan Kumar 
+Software engineer(Android) 
+Address - #1280A Sector 41B - Chandigarh 
+T 9467877621 
+/ gulshansutey@gmail.com 
+I Am an Android Application Developer with 2+ years of experience in this position, where I am responsible to design and build advanced applications, collaborating with cross functional teams to define, design and ship new features. Bug fixing, code optimization and to use best possible approaches for development to retain apps more user and mobile friendly. Apart from this I am a very curious person with a keen interest to learn new things, executing new ideas and techniques and all technology related things. 
+EXPERIENCE 
+Mar 2017 - Present 
+XICOM TECHNOLOGIES LTD. Chandigarh 
+ANDOID DEVELOPER 
+Responsibilities: 
+Working as Android developer here i am in charge of all phases of the project including design, development, testing and deployment. Also providing suggestions and support to team members, preparing project archetechture and api documents. 
+Nov 2015 - Fab 2017 DAKSHA WEB TECHNOLOGY PVT LTD. Mohali,PB ANDROID DEVELOPER Responsibilities: 
+Working as an Android developer I am also in charge of defining UX and designing UI for apps, which relies on material designs guidelines and Google android standards. 
+I have done more than 10 projects here which includes- 
+Social media, Dating, Security, Shopping, Business, Food and drinks related apps. 
+April 2015 - Nov 2015 APPSMAVEN PVT LTD. Mohali,PB SOFTWARE ENGINEER 
+Responsibilities: 
+I joined as a fresher here, working as a android developer I was responsible to design, develop apps and assisting other developers, learning about the technologies and programming techniques from seniors. 
+I have done 2 projects here which includes Communication and event sharing apps. 
+EDUCATION 
+2010 - 2014 
+ICL GROUP OF COLLEGES -KURUKSHETRA UNIVERSITY Ambala,HR BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND ENGGINEERING) 
+SKILLS 
+Java 
+Android SQLite 
+RESTful web services, JSON. 
+Third party libraries , social media integration, payment gateways and APIs. 
+Git 
+CERTIFICATIONS 
+2015 AMCAT Chandigarh 
+AMCAT CERTIFIED SOFTWARE ENGINEER. 
+2015 HCL Chandigarh 
+HCL CERTIFIED SOFTWARE ENGINEER - ANDROID WITH JAVA. 
+SOFT SKILLS 
+Adventurous 
+Critical Thinking 
+Dependable 
+Motivated 
+PROJECTS 
+Live ORGANO FRESH HTTPS://PLAY.GOOGLE.COM/STORE/APPS/DETAILS?ID=COM.AGROFRESH 
+Functionality: 
+This is a fruits and vegetables shopping application, which will be used by some particular hoteliers and retailers only. With one time loaded database this app provide searching , dynamic products list and categories offline. 
+Live SEEKLY HTTPS://PLAY.GOOGLE.COM/STORE/APPS/DETAILS?ID=SE.SEEKLY.ANDROID Functionality: 
+A lifestyle app which used for discovering the local events and activities based on your interests on your location. One can share or create an event of common interests and anybody having the same interest can join or request to join the event. All of the interest visible on the map to all persons having same interest. After subscribing a event user can send friend request to others and can chat in the group also including - invitation to event , profile posts, comments, searching users, photo sharing. 
+Live MYBUDDY 
+https://play.google.com/store/apps/details?id=in.mybuddy.mybuddyn Functionality: 
+MYBUDDY provides features like quick order placement, easy payments, real time tracking, and friendly customer support, This app making on-demand deliveries simple and safe. 
+someone who can come to your rescue when you forget that important file at home? 
+Or someone who can buy those medicines for your mother when you are out of the town? We all deserve that special one, and that s why we made MYBUDDY. 
+Not Live STT CORPORATION 
+(Seguridad tarea de todos) 
+Functionality: 
+It is a very beautiful and useful family locator application. It is used to locate family members or friends on map having some options like to send SOS alerts to police , fire department, nearby police station. It also has a option like smart SOS by activating this user can send a SOS by just pressing lock screen button and shaking the phone. Also it contains safe and danger zones to keep a watch on the members. 
+Live CARDLIS https://play.google.com/store/apps/details?id=com.cardlis 
+Functionality: 
+Cardlis offers a Safe, Easy, Reliable and 100% Free App to keep you connected to your Local Retailers! - Create an account using only your Name and Email. - Search Local stores and Join Local loyalty programs instantly - Purchase Gift Cards for yourself or Gift them to someone Special - Scan Physical Cards from your Wallet and add them to your APP 
+- Stores scan your Mobile device, No more digging to find a Card - All Participating Merchants have abilities to scan your Device, No being turned away for e-Card attempts. 
+- Cardlis is optimized for connecting Customers with Local business by GPS* or user address 
+Some other app I have developed till now. 
+Live RIDER (MYBUDDY.IN) 
+https://play.google.com/store/apps/details?id=design.daksha1.riders 
+Live WEBILD APP 
+https://play.google.com/store/apps/details?id=com.webild 
+Live QUALMED.IN https://play.google.com/store/apps/details?id=com.qualmed 
+Live STC https://play.google.com/store/apps/details?id=org.stc 
+Live TASTEAVORE 
+https://play.google.com/store/apps/details?id=com.aeon.tasteavore 
+Live SHOP APNI 
+https://play.google.com/store/apps/details?id=com.androidShopApni Live ALOO TAMATAR https://play.google.com/store/apps/details?id=com.alu_tamatar 
+Live MY FRESH BAG 
+https://play.google.com/store/apps/details?id=myfreshbag.com.myfreshbag 
+Live GHAR WALA TIFFIN 
+https://play.google.com/store/apps/details?id=gharwaalatiffin.com.gharwaalatiffin 

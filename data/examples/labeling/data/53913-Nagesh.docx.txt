@@ -1,0 +1,51 @@
+Nageshwar P 
+E-Mail: puvnages@gmail.com 
+Mobile: +91-7026000160 
+Having 4.6 years of total experience in Tivoli Storage Manager 
+Technical specialist who can support multiple platforms and applications. Performed Installation/up gradation/Administration of TSM Server/Client on AIX, Windows Servers. 
+Managed storage solutions for customers and developed winning strategies for improving technology infrastructures with special consideration given to maximizing resources and reducing costs. 
+Knowledge and Experience on tape libraries such as IBM System storage IBM 3584, STK 8500 libraries for daily operations and troubleshooting techniques. 
+Working Knowledge on administration of IBM AIX, MS Windows 2003&2008, LINUX and also Active directory services. 
+Have good communication skills, self-motivated with a high degree of attention, a good Team Player, committed to work and has sound leadership qualities. 
+EDUCATIONAL QUALIFICATION: 
+MCA from Anna University in 2011. 
+PROFESSIONAL EXPERIENCE: 
+Currently working for IBM India, Bangalore from Apr 2013 - till date. 
+Previously worked for FCS Software Solutions Limited, Noida from Oct 2011 to Feb 2013. 
+TECHNICAL SKILLS: 
+Hardware IBM 3584, STK 8500, IBM VTL Library 
+Operating Systems 
+Win NT 2K/2K8 server, AIX, Linux (REHL 6.5) 
+Backup Applications TSM 7.1 & 6.3, and TDPSql. TDPOracle, TDP Mail(Domino, Exchange) 
+Communication Protocols TCP/IP , DHCP CURRENT ASSIGNMENT: 
+Organization : IBM India, Bangalore 
+Designation 
+: Systems operations lead specialist 
+Period 
+: April 2013 - till date Roles and Responsibilities: 
+Configuration, Administration of IBM Tivoli storage manager servers. 
+Installation Configuration and Up gradation of client Nodes on windows, Linux & Solaris platforms. 
+TSM database and Recovery log management like defining additional volumes and mirroring of TSM data base and recovery log. 
+Tape Management [check-in check-out, Audit volume, restore volume, Scratch Maintenance], Library Management [Drive status, cleaning and power cycling, Audit Library] and Health Check of all TSM SERVERS. 
+Defining Policy domain based on client requirements with required retention periods. 
+Planning TSM schedules to take periodic backups of production and Test servers. 
+Restarting of TSM servers when recovery logs 100% full. 
+Tuning of TSM Server and client parameter to improve backup performance. 
+Install, configure and testing of Backup Archive Client 6.3 &7.1 in windows, AIX Linux servers. 
+Support Opening file support and Image backup in windows server. 
+Restoring data for full servers as requested through Incident management. 
+Installation and configuration of Storage agent for LAN free backup. 
+Installation and Configuration on Tivoli Data Protection (TDP) products such as TDP for SQL and Oracle, TDP for domino,. Knowledge on CLUSTERS. 
+Ensuring production servers and other servers data protection with different retention periods as required Working on missed, failed backups with solutions to respective teams. 
+Tickets handling using incident, problem and change management Resolved the issues based on priority and within the SLA DRM using Tivoli Storage Manager 
+Trouble shooting Hardware Issues 
+PREVIOUS ASSIGNMENT: 
+Organization : FCS Software Solutions Limited. 
+Designation : TSM Administrator 
+Period : Oct 2011 
+Feb 2013 Roles & Responsibilities 
+Installation and configuration of TSM 5.5, LINUX 
+Installation and configuration of Backup Archive client on the file server and clients to take online backup of users files with open file support, journal based backup Installation and configuration of IBM Tape Library 3582 with barcode reader Defining disk storage pools disk, sequential storage pools and copy storage pool for sending the data offsite. 
+Defining policies to keep the 7 days for daily oracle db backup and 5yrs for monthly offsite copy. 
+Defining schedules for automatic backup of Oracle database, log backup, fileserver data backup clients data backup Defining administrative schedules for migrating data, backup storage pools, TSM database and run expire inventory process. 
+Page 1 

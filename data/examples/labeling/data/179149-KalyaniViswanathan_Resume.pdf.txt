@@ -1,0 +1,140 @@
+Kalyani.V jaansow@gmail.com 
+7899602778 
+Professional Objective: 
+Hands on experience in handling technical QA process, developing software testing procedures and implementation of test cycles. Seeking a long term position as a QA analyst manual tester in a dynamic environment. 
+Summary: 
+With 1.9 years of experience in Testing. 
+Total Experience of 4 Projects including 
+Manhattan TMS 
+Have good knowledge in Retail 
+Supply Chain management, Transportation Management (TMS) domain. 
+Involved in testing activities like System testing, Integration Testing, End to end Testing and Regression Testing. 
+Good exposure on System study & Analysis, Testing and Implementation. 
+Good Knowledge on SDLC, STLC & Bug Life Cycle processes. 
+Experienced in designing the detailed test cases from the functional and technical specifications. 
+Experienced in Test planning, Test case development, Test execution, Review of Test cases and Test Result analysis. 
+Instrumental in communicating and coordinating tasks among teams. 
+Quick learner with ability to grasp new technologies, software & hardware. 
+Excellent communication, interpersonal, intuitive, technical & team skills. 
+Can work independently, lead or work within a team environment. 
+Achievements & Appreciations: 
+Got Client Appreciation for 0 defects in UAT in Market Group Tool, SC Sync 
+Technical and Tool Awareness: 
+Defect Management : 
+HP Quality Center 10.0 
+Professional Experience: 
+Organization Duration Designation 
+Syntel Inc June 2013 
+Mar 2015 Testing Engineer 
+Domain: Retail 
+Account: The Home Depot (THD) 
+Area: Retail 
+Project: Pricing Engine, Market Group Tool and JDA 
+Duration: 1 year 
+Area: Supply chain 
+Project: SC Sync 
+Duration: 9 months 
+Projects Details: 
+1. SC Sync: 
+Client The Home Depot(USA) 
+Role Testing Engineer 
+Duration Aug 2014-Mar 2015 
+Team Size 4 
+Project Description: 
+The main objective of this project is efficient utilization of carriers. In TMS shipments will be created and tendered to carriers before final purchase orders are cut to secure carrier resources. Initially user uses dummy PO and create shipments and once the correct or true PO is available, the dummy PO gets removed and replaced by true PO. The TMS Reconciliation Batch application handles to re-organize the data via Reconciliation Request . 
+Responsibilities: 
+Understanding the Business Requirements 
+Designing and Reviewing Test cases. 
+Executing Test cases and logging defects in QC. 
+Taking Defect and status calls with development team and Onsite Coordinator. 
+Got appreciation from Reporting Manager for internal audit. 
+Stretched to delivered the project right on time with the extended support. 
+Got client appreciation for extensive work and stretching to deliver the project right on time. 
+2. JDA: 
+Client The Home Depot(USA) 
+Role Team Member 
+Duration July 2014 - August 2014 Team Size 2 
+Project Description: 
+Home Depot uses JDA tool for creating Planograms as this is one of the leading space Planning tool available now in Market. JDA Space Planning helps construct, manage and optimize detailed retail planograms. JDA Space Planning helps you determine how much product to sell, how long it will take to sell it and how much to keep in stock 
+Responsibilities: 
+Handled the project alone from the off-shore 
+Understanding the Business Requirements 
+Designing and Reviewing Test cases. 
+Executing Test cases and logging defects in QC. 
+Consolidating daily status report and sending to onsite counterpart. 
+Status Update to Management and Onsite Counterparts on Daily, Weekly and Monthly Basis. 
+Taking Defect and status calls with development team and Onsite Coordinator 
+Regular interaction with onsite coordinators Involved in Test reviews and weekly walk-through Got appreciation from Reporting Manager for internal audit Stretched to delivered the project right on time with the extended support 
+Got client appreciation for extensive work and stretching to deliver the project right on time 3. MGT: 
+Client The Home Depot(USA) 
+Role Team member Duration Oct 2014 June 2014 
+Team Size 2 
+Project Description: 
+Market Group Tool application is part of Pricing Engine application. This application helps the user to create markets, edit and copy markets. Once market is created, user will be able to filter based on certain criteria. The key objective of this application is to group the markets irrespective of its location. 
+Responsibilities: 
+Handled the project alone from the off-shore 
+Understanding the Business Requirements 
+Designing and Reviewing Test cases. 
+Executing Test cases and logging defects in QC. 
+Consolidating daily status report and sending to onsite counterpart. 
+Status Update to Management and Onsite Counterparts on Daily, Weekly and Monthly Basis. 
+Taking Defect and status calls with development team and Onsite Coordinator 
+Regular interaction with onsite coordinators Involved in Test reviews and weekly walk-through Got appreciation from Reporting Manager for internal audit Stretched to delivered the project right on time with the extended support 
+Got client appreciation for extensive work and stretching to deliver the project right on time 4. Pricing Engine: 
+Client The Home Depot(USA) 
+Role Trainee - Test Engineer 
+Duration Aug 2013 
+Sep 2013 
+Team Size 2 
+Project Description: 
+Pricing Engine (PE) is introduced by The Home Depot. Joined as Trainee and learnt the domain and got wide knowledge from retail and mainly on Pricing Engine from the scratch. Learnt parallel with the seniors and onsite coordinator about PE application and functionalities. Within short period of time able to match with the senior member from the team 
+Responsibilities: 
+Understanding the Business Requirements 
+Designing Requirement traceability Matrix and Test cases 
+Attending Knowledge Transition with my Team members. 
+Executing Test cases and logging defects in QC. 
+Attending Defect and status calls with business and development teams. 
+Got internal appreciation from offshore managers on successfully completing the big project. 
+Academic Qualification: 
+Year Course Institution Class/% 
+2013 Bachelor of Computer Applications 
+MOP Vaishnav College for 
+Women(Autonomous) 
+1 st /79 2010 +2
+Higher secondary GRT Mahalakshmi Matriculation Higher Sec.School 1 st 
+/89 2008 10 
+th 
+Higher secondary Chethana Matriculation Higher 
+Sec.School 1 st /88.4 
+Trainings: 
+Soft Skill Training: 
+Corporate Etiquettes, Interpersonal Effectiveness, Presentation Skills, Working in a Team. 
+Software Skill Set 
+Microsoft office Basic concepts of SQL ACTIVITIES AND AWARDS 
+Received a merit Certificate for Preparatory Examination conducted by Chennai Science 
+Forum. 
+Won 1 st Prize in Painting at School level and achieved a Calendar with own painting in it from Dr. A.P.J. Abdul Kalam for Title 
+INDIA 2012 
+Won prizes in Treasure Hunt. 
+Mind map (Technical), Crossword (Technical) Won 2 nd Prize in Dance Competition in College. 
+Won 1 st Prize in Sports (Carom & Shuttle) at School Level. 
+Personal Details: 
+Date of Birth : 
+31st Jul, 1992 
+Languages Known : English, Tamil 
+Father s Name : 
+N.Viswanathan 
+Sex : 
+Female 
+Marital Status : 
+Married 
+Nationality : 
+India Interests : Reading books, Dance and Painting, Listening Music, Playing Sports 
+E- Mail Id : jaansow@gmail.com 
+Mobile : 7899602778 
+Permanent Address : F-10, A Block,Gayatri Ocean Blue Apartments, Varthur Main road, Thubarahalli, Bangalore - 560066 
+Declaration 
+I hereby declare that the information stated above is true to the best of my knowledge. 
+Date: 
+Thanks, 
+Place: Kalyani.V 

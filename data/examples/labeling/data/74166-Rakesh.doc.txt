@@ -1,0 +1,51 @@
+ RAKESH SINGH 
+Mobile: 8802127475 
+Email: singhrravi2013@gmail.com 
+Address: H. No. 3 Block b Roshan Vihar, Old Kakrola Road, New Delhi-110043 
+L.P-DELHI/NCR, BENGALURU CAREER OBJECTIVE 
+To use my skills in the best possible way for achieving the companys goal. 
+IT SKILLS 
+Programming languages: 
+Basic Knowledge of C,Core Java(Intermediate), 
+Big Data: Hadoop (HDFS, MapReduce, , Sqoop,). 
+Scripting language: Basic knowledge of JavaScript. 
+Framework : Struts 2. 
+Web related languages : HTML, CSS, J2EE(Servlets, Struts,). 
+Database : MySql. 
+ACADEMIC PROFILE 
+B.Tech 
+Degree/ Diploma/Certificate Board / University Institution Name Year of Passing Aggregate Marks in % age / CGPA 
+Graduation GGSIPU Ch. Brahm Prakash Govt. Engg. College 2016 66.88 12th 
+CBSE 
+Spring Meadows Public school,dwakra Mor 2011 
+74.6 10th 
+CBSE 
+Ekta Model Public School 2009 76.6 TRAINING 
+Completed Hadop and Big Data Croma Campus, Noida. 
+Module Completed: HDFS, MapReduce, Yarn, Pig, Hive, Sqoop, Zookeeper 
+TRAINING PROJECT PROJECT TITLE : 
+Implementation multi node Cluster using Hadoop(HDFS/MapReduce/Hive/Yarn) TOOLS : 
+Hadoop Roles and Responsibilities: Storing Data in HDFS 
+Processing Data using MapReduce 
+Compared actual & expected results. 
+Fetching data using Hive and Pig TRAINING 
+Completed J2EE with Strut2 Framework ,HPES,Noida TRAINING PROJECT PROJECT TITLE : 
+Online Entertainment World TOOLS 
+: J2EE using struts 2 Framework FIELD OF INTEREST 
+Linux-Ubuntu, Java 
+Data Structure and algorithms 
+Coding 
+PERSONAL DETAILS 
+Date of Birth 
+: 10/08/1993 
+Nationality 
+: Indian 
+Language known : Hindi, English 
+Alternate Number : 8802127475 
+Permanent Address 
+: H. No. 3, Roshan Vihar Old kakrola Road ,New Delhi-110043 
+Declaration: 
+I hereby declare that all the information provided is true to the best of my knowledge and belief. 
+RAKESH SINGH 
+Date: 
+Page 1 of 3 

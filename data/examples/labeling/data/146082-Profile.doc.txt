@@ -1,0 +1,126 @@
+AMIT ANAND 
+Sr.Software Engineer 
+Mobile No: +91-8762677061 amitmca.blr@gmail.com (mailto:Amitmca.blr@gmail.com) EXPERIENCE HIGHLIGHTS 
+Working was a Sr. Software Engineer with VANG Technologies Pvt Ltd Bangalore, Karnataka from Jan 2016 to till date. 
+Willing to accept new challenges and focus on work for smart solutions in less time. 
+SUMMARY 5.2 years of experience in .NET(C#, VB.Net, ASP.Net) and VB 6.0. 
+Database Experience in Sql Server, MS Access. 
+Experienced with client interaction, understanding requirements and developing effective and optimal solution. 
+SKILLS SUMMARY 
+Operating System 
+: MS Windows XP/Vista/7/8. 
+Languages 
+: C#, Visual Basic,VB.Net 
+Database 
+: Sql Server, MS Access. 
+Web based : ASP.NET, JavaScript, Ajax, Html 
+Framework : .NET 3.5 Tools & IDEs : Crystal Reports 8.0 Academic Credentials and Certifications 
+Academic 
+MCA from Bangalore University in 2011 with 74.45%. BSc. Math Hons 63 % +2
+With 60 % 10th With 59.63 % Employment Details 1. Unify Infotech Pvt Ltd 
+From July 2011 To April 2012 2. IFACT Technologies 
+From July 2012 To June 2013 3. Cogwave Technologies Pvt Ltd 
+From June 2013 To Dec 2015 4. VANG Technologies Pvt Ltd 
+From Jan 2016 To Till Date. 
+Certification 
+DOEACC A LEVEL. VT NET CENTRE . PATNA 
+Projects 
+Invoice Manager 
+Client SRS Client of Infosys [ Bangalore ] 
+Duration 3 Months 
+Title Software Engineer 
+Platform ASP.NET 
+Environment C #, Sqlserver, Javascript, Ajax, Asp.Net 
+Role Developer 
+Team Size 2 Responsibilities 
+Understanding the System Requirements 
+Coded using CSharp Coding for the Specified Modules 
+Description: IM (Invoice Manager)This project is based on invoice generation system like sales, purchase and salary operations. Here we are keeping track of employee also, maintaining employee and branch detail. 
+IBS 
+Client Saptharishi Credit Co-Op Society Bangalore, Agastya Credit Co. Operative Bank Mysore 
+Duration 6 Months 
+Title Software Engineer 
+Platform Windows 
+Environment Oracle 9i, Visal Basic. 
+Role Developer 
+Team Size 5 Responsibilities 
+Understanding the System Requirements.Coding for the specify modules 
+Description: IBS (Integrated Banking Solution) project is basically based on banking operations in small co-operative societies and agriculture societies. The modules of the projects are like SB (SAVING BANKS), LOANS, DEPOSITS (FD, RD). 
+KPRO 
+Client WADO INTERNATIONAL 
+KARATE SOFTWARE (Karnataka) 
+Duration 11 Months 
+Title Software Engineer 
+Platform Windows 
+Environment VB.NET, SqlServe 2008 R 
+Role Developer 
+Team Size 2 Responsibilities Development 
+Designing Data Base Designing 
+Description: KRPO (KARATE SOFTWARE), Here in this project we are storing detail of all contenders with their photos and later marks cards printing option is there. We were also generating ID CARDS for each contender using crystal reports. We keep records of each tournament and fight details such as Individual and Team Fighting. 
+BIOMETRIC MEMBERSHIP 
+Client BANGALORE TAMIL SANGAM 
+Duration 4 Months 
+Title Software Engineer 
+Platform Windows 
+Environment C#, SqlServer 2008 R 
+Role Developer 
+Team Size 2 Responsibilities Development 
+Designing Data Base Designing 
+Description: This is newly advance Membership Management software integrated with many tools and operations. We keep details of all members of Bangalore Tamil Sangam. Making Storing Biometric information of Member such as figure print and barcode printing of Membership card. We search Member via Secugen Hammaster Pro. Scan barcode from Id-Card and track the Member details. Generating several reports. Voting of members for President election and other operations has been approved only after verification of biometric details of general members. 
+Online Reservation System 
+Client HOTEL SILVER STAR MYSORE 
+Duration 3 Months 
+Title Software Engineer 
+Platform ASP.NET 
+Environment C #, SqlServer,Javascript,J Query,Asp.Net 
+Role Developer 
+Team Size 1 Responsibilities Development 
+Designing Data Base Designing 
+Description: Here in this project I purchase domain and server space and store database to remote server. In this project we are booking online hotels rooms and also integrated with e-payment tools such as payu.com. 
+Advance HMS 
+Client HOTEL SILVER STAR MYSORE 
+Duration 9 Months 
+Title Software Engineer 
+Platform Windows 
+Environment VB.NET, SqlServer 2008 R 
+Role Developer 
+Team Size 2 Responsibilities Development 
+Designing Data Base Designing 
+Description: This is one of the most challenging work of my carrier. We are converting the old VBA(6.0) software to .NET. This is newly advance Hotel Management software integrated with many tools and operations. We book rooms as checking or reservations. Making dynamic staying details of guest. Storing Biometric information of guest such as figure print and barcode printing of guest card. We search guest via Secugen Hammaster Pro. Scan barcode from guest id and track the guest details. Generating server reports and Tax calculations. 
+Advance HMS 
+Client HOTEL MALLIGI [ 3 STAR HOTEL ] 
+Duration 16 Months 
+Title Software Engineer 
+Platform Windows 
+Environment VB.NET, SqlServer 2008 R 
+Role Developer 
+Team Size 2 Responsibilities Development 
+Designing Data Base Designing 
+Description: This is one of the most challenging work of my carrier. We are converting the old VBA(6.0) software to .NET. This is newly advance Hotel Management software integrated with many tools and operations. We book rooms as checking or reservations. Making dynamic staying details of guest. Storing Biometric information of guest such as figure print and barcode printing of guest card. We search guest via Secugen Hammaster Pro. Scan barcode from guest id and track the guest details. Generating server reports and Tax calculations. 
+BarSoft Client WINE BARRON GROUPS 
+Duration 6 Months 
+Title Software Engineer 
+Platform Windows 
+Environment C#, SqlServer 2008 R 
+Role Developer 
+Team Size 3 Responsibilities Development 
+Designing Data Base Designing 
+Personal Information 
+Nationality : Indian 
+Date of Birth : 24 Feb, 1987 
+Sex : Male 
+Marital Status : Married 
+Languages Known : English & Hindi 
+Permanent Address : AMIT ANAND 
+S/o Sir ARUN KR PANDEY 
+Vill. Khurmabad 
+Distt. Siwan 
+Bihar 
+Pin 841226 
+Alternate E mail : amit240287@gmail.com (mailto:amit240287@gmail.com) 
+Date:__/__/_____ 
+Place:__________ 
+_____________________________ Signature 
+AMIT ANAND 
+Mobile No: +91-8762677061 
+Email-Id: amitmca.blr@gmail.com 

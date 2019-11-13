@@ -1,0 +1,114 @@
+AVINASH SHARMA 
+Contact: +91-9509780329 
+E-Mail: Avinash.Sharma.cet@gmail.com 
+LinkedIn: https://in.linkedin.com/in/avinashsharma3 
+OBJECTIVE 
+Scaling new heights of success and leaving a mark of excellence in assignments which involve analytical capabilities, professional growth. This will surely endeavor my strengths with which I can constantly learn and improve my technical abilities. 
+ACADEMIC DETAILS BCA, 2013 College of Engineering and Technology, Bikaner, Raj 
+Graduated from Maharaja Ganga Singh University, Bikaner (Raj.) 
+Aggregate 70.07%. 
+Senior School, 2010 Rajasthan Board of Secondary Education 
+Obtained 56.46% Secondary School, 2008 Rajasthan Board of Secondary Education 
+Obtained 51.50% WORK 
+EXPERIENCE 
+Currently working at Chimera Technologies as Software Engineer 
+Feb 2017 to Present (0 year(s) - 6 month(s)) Working with online team, working on core product, working on ReST API in Laravel 
+PHP framework, working on agile methodology, Code review and analysis, sprint planning meeting, sprint grooming meeting. 
+Previously worked with CoreTechies as Team Leader 
+Apr 2016 to Jan 2017 (0 year(s) - 9 month(s)) Manage team, Manage Projects, Project Analysis, Create Technical Analysis report, Daily and Weekly tasks allocations to team, Client communication, Module confirmation with client or take feedback on per module from client. Manage task status of every team members on daily and weekly basis. Create ReST API and Web Development. 
+Previous Employment(s)/Designation(s) CoreTechies as Senior Software Developer Dec 2015 to Mar 2016 (0 year(s) - 3 month(s)) CoreTechies as Project Engineer 
+Jan 2014 to Nov 2015 (1 year(s) - 10 month(s)) SUMMARY: 
+Around 3 and half years of IT experience in multi-tiered architecture based enterprise application Development. 
+Proficient working experience in, CI code igniter, Laravel, PHP 5.5.9 and Apache/Nginx | 
+cURL 7.35.0 
+Strong exposure on complex SQLs for complex scenarios using joins, case statements /functions and experience of Relational Database systems (Oracle, MySQL). 
+UI Development experience with HTML, JAVASCRIPT, CSS, JQUERY Experience on jdk 1.7 and below versions. 
+Experience on Application server like Apache, Nginx, Wamp ,Xampp 
+Work Experience on HTML5 & CSS3 for web Development. 
+Experience of responsive work with Bootstrap.js Working experience with Chart JS like : Jqplot.js, HighChart.js IT SKILLS 
+In the time span around 3 and half years of work experience I am familiar with the technologies: 
+Database : SQL SERVER 2000 / 2005, MYSQL, ORACLE 
+Language : PHP(CodeIgniter, Laravel, Phalcon - MVC Frameworks), Core Java 
+CMS : 
+Wordpress, Magento (Scholar) 
+Web Technology : HTML, CSS, 
+JavaScript(JQuery, AngularJS, Bootstrap) 
+Platform : Android, Linux(Ubuntu), Windows XP, Windows 7, Window 8 IDE : PhpStorm, NetBeans, Android Studio 
+Tools : Android SDK Platform Tools, Adobe Illustrator, Gantt Chart, StarUML, Bitrix24, Wunderlist, Trello 
+Others : JSON, XML, ReST PROJECTS 
+Project Title: Roll.On.Road | ROR Client: Sourabh Agarwal 
+Employment Type: Full-Time Duration: Jan 2015 - May 2016 
+Project Location: Bikaner Site: Off Site 
+Role: Project Leader Team Size: 6 
+Skill Used: Team Leading, Team Handling, Team Management, Web Development, Cloud 
+Computing, Gps Tracking, MIS, Google App Engine, Google Maps, Google Api, Database, Query 
+Optimization, Indexing, Views, Server Administration, Configuration, Application Deployment, Data Migration, SQL Development, Ubuntu Linux, SMS APIs 
+Role Description: Manage Project, Daily and Weekly tasks allocations, Client communication, module confirmation with client, take feedback per module from client and discuss with team and allocate new time line sheet to team and client, Server hosting, manage team 
+Project Details: A Vehicle Tracking system. 
+Project Title: Buxaah 
+Client: kiran Nagare 
+Employment Type: Full-Time Duration: Oct 2015 - Mar 2016 
+Project Location: Mumbai Site: Off Site 
+Role: Sr. Programmer Team Size: 6 
+Skill Used: Team Leading, Team Handling, Team Management, Web Development,PHP, CodeIgniter,MIS, Database, Indexing, Views, Server Administration, Configuration, Application 
+Deployment,SQL Development, EBS Payment Gateway, API for Mobile Application, SMS APIs, Javascript, JQuery, JSON, XML, Facebook API, Google Api 
+Role Description: Manage Project, Daily and Weekly tasks allocations, Client communication, module confirmation with client, take feedback per module from client and discuss with team, Server Configuration, Application Deployment, manage team,Code 
+Project Details: A online system for Secure Self Storage Solutions for Home & Office Further Projects PeaceChocs 
+It is an Ecommerce Portal which consist of features primely product management, transaction and payment management along with inventory management. A unique feature of Image customization was also developed under this. 
+This project developed in CodeIgniter and Mysql. 
+https://www.peacechocs.com MyBodhitree 
+It is a website developed for aspirants to book time slots of experienced faculty for the need of consultance. It involves primely session and booking management. 
+This project developed in CodeIgniter and Mysql. 
+https://www.mybodhitree.com/ 
+Expense Manager 
+It is a software handling the management of expenses as the name defines. Totally based on calculations and record of transactions done. 
+This project developed in CodeIgniter and Mysql. 
+http://ctworkplace.in/expense_manager/home BullnBar 
+It is again a booking management but in different context of table booking at bar which has a feature of SNS that is inviting a friend to join. 
+This project developed in PHP and Mysql. 
+http://bullnbar.com/ Coretechies Website 
+The Company s official website was developed 
+Its in PHP and Mysql embedded Wordpress CMS 
+I used many optimization plugins and learnt use of plugins http://coretechies.com/ 
+MISA 
+It is a Property search application used for client and dealer 
+A real estate website showing listings over map based totally on user search.. 
+This project is developed in PHP and Mysql embedded Wordpress CMS http://misaltd.com/ Forex economic calendar widget for website 
+It is a wordpress widget used for forex economic calendar and This project developed in PHP and Mysql embedded wordpress and Jquery 
+Work on benzinga API and forex transaction Jqplot.js Chart plotting , http://www.forexunit.com/forex-eco-calender/ Forex App for facebook 
+Its a facebook Game application used for forex Game purpose. 
+This project is developed in PHP and Mysql embedded JAVA technology Work on quickFix API and forex transaction Jqplot.js 
+Chart & Highchart.js SimpleTrade ,FXCM,Spotex API http://apps.facebook.com/fx-club/check_app.php Banking Project 
+In this project i work on report module using PHP for pdf generation and generate client side reports various aspects Use of fpdf for pdf report generation http://kabureau.fundnfinance.com/NEW_KABUREAU_SYSTEM/index.php 
+ClientConnect 
+It is a Client management project for user hierarchy and admin purpose 
+This project developed in PHP and Mysql. 
+http://clientconnectbds.com/test1/finance/ Trapnation 
+It is a Radio streaming website developed in Wordpress 
+In this project I used REST webservice for getting database information . 
+http://trapnation.demskigroup.com/ Farm Tree Tool 
+It is a farming tool project built in CodeIgniter 
+This project is developed in PHP Framework (CI) and Mysql http://ftt.fundnfinance.com/FTT_v2/ CT team management project (CRM) Php And Mysql Project 
+Small Projects : 
+Vitrina22 Shoping cart (magento) http://deliverytat.com/vitrina22/index.php/ 
+FB integration (Login using facebook ) http://gustavoadolfomonroy.com/ 
+For more project detail, would request you to go through the LinkedIn profile. 
+ASSETS 
+Self-confident. 
+Easily adaptive to new environment. 
+Time management. 
+Optimistic. 
+Quick learner, Proactive 
+Candid 
+PERSONAL 
+DETAILS 
+Father's Name: 
+PRABHU DAYAL SHARMA Gender: 
+Male 
+Date of Birth: 10th March 1993 
+Nationality: Indian 
+Languages: 
+Hindi, English 
+DECLARATION 
+I hereby declare that information given by me is true to the best of my knowledge. 
+(Avinash Sharma) 

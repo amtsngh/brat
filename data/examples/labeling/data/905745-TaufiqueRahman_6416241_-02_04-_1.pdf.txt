@@ -1,0 +1,69 @@
+Taufique Rahman (IIB (WMB V9) and IBM DataPower XG45 & XI52) MIG - 102B, Ujjwala Comfort Complex, Opposite - CityCentre 2, Rajarhat, Newtown, Kolkata, 
+West Bengal - 700157 +91-9007147496 rahmantaufique3049@gmail.com 
+Career Objective 
+A challenging career in Software Development with an organization that provides me an opportunity to show my techno-proficient skills, to improve my knowledge with the latest trends and to be a part of the team that works dynamically towards the growth of the organization. 
+Professional Summary 
+Tata Consultancy Services (WMB V9 & DataPower Developer 3 Years) 
+Currently working on IIB (WMB V9) at Tata Concultancy Services. 
+Worked on IIB DataPower tool (XG45 & XI52). 
+Use MQSeries to create queue. 
+Use ESQL to develope the WMB service. 
+Use XSLT for datePower. 
+Worked on tools such as RFHUtil, SQL Server 2012. 
+Good interpersonal skills, result oriented, efficiently working capability, believe in quality, adaptable in nature. 
+Professional Experience 
+I am working as developer. 
+Projects at TCS : ASDA (e-commerce company) 
+IIB (WMB V9) : 
+Created complete messaging model including schemas for middleware layer to back end business partner's APIs. 
+Developed complete integration flows. 
+Developed Message flows using Timer nodes. 
+Designed and developed message flows to handle large files. 
+Developed message flows to interact with Back end Databases. 
+Written reusable ESQL procedures which used by services. 
+Routing of the messages through broker cache memory. 
+Routing of the messages according to message content. 
+Responsible for Detailed Technical Design Documents for services. 
+Develop and unit testing of message flow flows using IBM Integration Bus(IIB)v9. 
+Developed message broker flows using ESQL. 
+Created queues for message flow. 
+Used RFHUtil to perform different tasks on WMQ and WMB. 
+Projects at TCS : ASDA (e-commerce company) 
+IBM DataPower : 
+I worked on XG45 & XI52. 
+Developed complete integration flows. 
+Developed services using XSLT. 
+Developed 2-way SSL services. 
+Creating Application Domains, objects (Multi-Protocol Gateways as per the requirements). 
+Created AAA policies to authenticate and authorize user requests. 
+Worked on XSLT and used transformation node to transform the message. 
+Academic Credentials 
+Technical Skills Set 
+Personal Skills 
+Comprehensive problem solving abilities, good verbal and written communication skills, 
+willingness to learn, team facilitator and smart worker. Always ready to face challenges. Good decision making skills. 
+Extra-Curricular Activities 
+Selected best performer in project. 
+Personal Details 
+Name : 
+Taufique Rahman 
+Date of Birth 
+: 04-10-1990 Father s name : Mojibur Rahman 
+Mother s name : 
+Shahnaz Bano 
+Sex : 
+Male 
+Marital Status : 
+Single 
+Languages Know 
+: English & Hindi. 
+Passport : 
+Available. 
+Nationality : 
+Indian 
+Notice Period : 3 months 
+Permanent Address : 565/229, Bazidpur, Barh, Patna, Bihar, India -803213. 
+Declaration 
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 
+Place: Kolkata Date: 01/05/2017 
+(Taufique Rahman) 

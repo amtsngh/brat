@@ -1,0 +1,51 @@
+Prabhjeet Kaur 
+Mobile: +91-7676255047 
+(Bangalore, India) 
+Email:jeet.deol9433@gmail.com 
+Objective 
+To pursue a progressive career in today s challenging and competitive environment by enhancing my skills, knowledge and contributing towards the growth of the Organization with full dedication and commitment. 
+Technical Skills 
+Web Based Technologies: HTML5, CSS3, JavaScript , JQuery, underscore.js, D3.js 
+Database: MySQL, Kinvey 
+Tools: GIT, Gulp, Jira, Trello 
+Operating Systems: Linux, Windows 7,8, 10 
+Framework: Bootstrap, Jira, Eclipse, Android Studio, NetBeans, Experience Summary 
+UI Developer, 05/16 current 
+75F - Bengaluru, Karnataka, India 
+Developed the front-end web pages using by using JavaScript, HTML5, CSS3, underscore.js by taking advantage of the framework Backbone.js. 
+Worked on D3 Visualization charts like Bullet chart, Line Chart, Band Chart etc. 
+Responsible for creating different modules throughout different Apps. 
+Implemented tooltips for the different graphs to show every minutes data of various parameters. 
+Strong experience working in Agile/Scrum environments. 
+Technologies Used - JavaScript, HTML5, CSS3, underscore.js. 
+Android Developer Intern, 01/16 04/16 Profile Quest Management Services, LLP Bengaluru, Karnataka, India 
+Developed a Smart Transport Platform in line with public transport integrated service model to provide better experience to passengers at lower price. 
+Worked on web apis like Google map API. 
+Responsible for the front-end UI of the App. 
+Technologies Used Java(Android), MySQL, Eclipse 
+Software Engineer Trainee, 06/14 08/14 Training and Placement Consultancy Cell (TCC) 
+Ludhiana, Punjab 
+Developed a Desktop application using core Java and MySQL. 
+Responsible for developing a Weather forecast Android App using Yahoo weather API. 
+Technologies Used Java, Java(Android), MySQL, Eclipse 
+Some Other Links: 
+1. http://support.75f.io/ (JavaScript, HTML, CSS, jQuery, Bootstrap, D3.js) 2. http://facilisight.75f.io/ (JavaScript HTML, CSS, jQuery, Bootstrap, D3.js) 
+3. http://installer.75f.io/ (JavaScript HTML, CSS, jQuery, Bootstrap, D3.js) 4. https://github.com/Prabh-jeet94 ACADEMIC QUALIFICATION 
+S.No Institution Board/ University Course Year of Completion Percentile 
+1 Guru Nanak Dev Engineering 
+College, Ludhiana 
+B.Tech 
+(ECE) 2016 
+76 2 Spring Dale Senior School 
+Amritsar(CBSE) 12th 2012 
+76 
+3 St Francis Convent School 
+Fatehgarh Churian(ICSE) 
+10th 2010 82 
+PERSONAL STRENGTHS 
+Fluency in Verbal and Written English, Problem Solving Ability, Responsible, Good Team Person, High 
+Level of Patience. 
+Declaration 
+I consider myself familiar with all Advance IT Skills/Technology & Software Engineering aspects. I am also confident of my ability to work in a team. 
+I hereby declare that the information above is true to the best of my knowledge. 
+(Prabhjeet Kaur) 

@@ -1,0 +1,74 @@
+ M SRINIBAS DORA +91-8123730371 
+Email: srinibas.dora@gmail.com Objective 
+Intend to build a career with the leading corporate of Hi-tech environment with committed & dedicated people, which will help me to explore myself fully and to realize my true potential. Willing to work as a key player in a challenging & creative environment. 
+Core Competencies and Skills 
+Total 5+ years of experience in IT industry (AIX System Admin, TSM Backup, Symantec Backup Exec 2012/2014/2015, Linux (RHEL) MS Exchange Server Management, Vsphere Management and Incident Management) 
+Profound experience in AIX System Administration 6.1/7.1, HACMP, VIO, HMC, NIM 
+Profound Experience on Migration from Vsphere 5.1 to 6 Profound Experience on Symantec 
+Backup Exec 2012/2014/2015, Tape Library management Good Understanding and knowledge on Redhat Linux 
+Good Understanding of Exchange Architecture services that run on Exchange 2010 Server Roles Edge, and Mailbox 
+Knowledge on Tivoli Monitoring tool , SFG (Sterling File gateway), TSRM and SCCD ticketing tool Ability to work on various ticketing tools (Tivoli Integrated Portal,SCCD,OTRS) Experience in providing Technical support to global users, earning a solid reputation for productivity, complex problem resolution and professionalism 
+Good Understanding of ITIL process, Incident management, event management Technical Skills 
+Concepts DNS, DHCP, AD, Backup, Operating System Concepts, Networking Concepts 
+Operating system AIX, RHEL ,Windows XP, Windows Vista, Windows 7, Windows 8, Windows 2012 
+Packages AIX 6.1/7.1, Vsphere 5.1, Symantec Backup Exec 2012/2014/2015 MS-Office 2010 
+Servers Microsoft Windows Server 2003/2008/2008R2,2012, AIX 6.1/7.1 ,Symantec Backup Exec 2012/2014/2015 , Exchange 2010 
+Experience: Currently working at Robert Bosch Engineering and Business Solutions Designation: Senior Software Engineer 
+(April 2015 to till date) 
+Working as Infrastructure Specialist for European External customer as well as internal BOSCH project 
+Increased revenue of the project by getting projects on new domains (Symantec Backup Exec Administration and Tape library management ,VMware Migration and support), AIX new setup Designing Backup document and tape library management for all the datacenters 
+Working on SOW for new domains 
+Build Templates for Windows server 2012 for VMware Creation and deployment of new VMs as per business requirement 
+Automation of Tape Library inventory for every datacenter and 
+Handling 
+Symantec Backup Exec Infrastructure Support 
+Built the procedure document to onboard new employees for client Restructure of Databases to optimize the load on server and reduce the time to reseed the database Migrated VMs and VCenter from 5.1 to 6 
+Working on new RFC and interactive with client to assess the current setup and suggest and implement standard operating procedure 
+Optimized the backup methods for servers and applications 
+Monitoring and delivering day to day operations agreed as per SLA 
+Working as an AIX System Administrator for Internal Bosch Project 
+Working on AIX 6.1 and 7.1 ,HMC,VIO,HACMP 
+Achievements: 
+Received Best Employee of the Quarter for Customer Engagement in July 2016 Travelled to Europe(Belgium) for 
+New Symantec Backup Exec setup Travelled to Germany for New AIX implementation 
+Company: Tata Consultancy Services Pvt.Ltd. 
+[Nov 2011 April 2015] 
+Designation: System Engineer 
+Key Functional Areas: 
+Worked on UK Based insurance project 
+Monitoring the CPU Load of the AIX Server so as to keep a check on the threshold limit located at Swindon and Parkroyal through tool known as Tivoli Integrated Portal (IBM Proprietary Tool) 
+Doing Health Check reports for different AIX Servers on different environments. Resolving different AIX L1/L2 issues such Monitoring, Connectivity Issues, Issues like not able to connect to remote servers, Space Management-Disk Space, Paging space critical Resolving Tickets based on SLA assigned request on IBM Tivoli Service Request Manager (TSRM) which is a IBM proprietary ticketing tool User Management, file system creation, backup management, Device management. 
+Software installation and management, TL and SP up gradation .Troubleshooting, Mail flow, database and replication issues 
+Assigning the application and database jobs in the Crontab 
+Some part of HACMP configuration and working on HMC during restart, creation of LPARS 
+Providing the permission to the files and directories based on the requirement Preparing documentation and doing the SLA calculation graph and bar representation in Excel 
+Working on TSM backup, Tape movement allocation in DC 
+Key Achievements: 
+Got appreciation from IT director for the dedicated work and excellence delivery. 
+Best Performer Award from Client on 6th Nov 2013, 24th Nov 2014. 
+Educational Qualifications 
+Year Institution/University Qualification Percentage of Marks/C.G.P.A 
+2007-2011 
+Gandhi Institute of Engineering and Technology, Biju Patnaik University of technology, Gunupur,Odisha B.Tech(ECE) 8.2 
+2004-2006 
+Khalikote junior college, C.H.S.E Berhampur, Odisha 12th 81% 2003-2004 
+Peoples 
+High School,H.S.C, Buguda, 10th 87.8 % 
+Certifications/Training: 
+ITIL 2011 Foundation Certified from APMG-International, License 13061-739964 
+High Availability of AIX Technical support and administration 
+AIX 7 Administrator, Series 221,Registration ID: X0ASYD5231 
+Business English Certificate from Cambridge University 
+Completed 
+Symantec Backup Exec 2015 training at RBEI 
+Personal Information 
+Date of Birth 
+12th July 1989 Marital Status 
+Married (Male) Linguistic Abilities English, Hindi, Odiya,Telugu 
+Passport Number K0999655 
+PAN Card BDKPD5960L 
+Permanent Address Aurobindo nagar , Buguda ,PO:Buguda, Dist:Ganjam, Orissa:761118 
+Present Address #126, Block B3, Sri Sai Acropolis Apartment, Central jail road , Nagnathpura, Bangalolre,Karnataka-560100 
+Place: Bangalore 
+(M Srinibas Dora) 
+Page 1 of 3 

@@ -1,0 +1,52 @@
+CURRICULUM VITAE 
+Mrs. VAIBHAVI BHATT UI Developer (M): + 91- 8511128230 (@): vaibhavivyas305@gmail.com 
+CAREER OBJECTIVE : 
+Aiming to achieve a challenging & successful career where I can make a significant contribution using my innovative ideas, knowledge, skills and experience with the objective of development & growth of the Organization. 
+EDUCATION DETAILS : 
+QUALIFICATION SCHOOL/INSTITUTE BOARD / 
+UNIVERSITY Year Aggregate % / CGPA 
+B.E. 
+(CE) Vadodara Institute of Engineering, Kotambi. 
+Gujarat Technological 
+University 2014 7.23 HSC Nutan Vidhyalaya, Sama road, Vadodara. 
+Gujarat Higher Secondary Education Board 2010 61% SSC Nutan Vidhyalaya, Sama road, Vadodara. 
+Gujarat Secondary Education Board 2008 79.69% CORPORATE EXPERIENCE : 
+1. INNOWYN BUSINESS SOLUTIONS UI Developer (OCT14 to APR16) 
+Working as UI developer since Oct 2014 in Innowyn Business Solutions located in Racecourse area, Vadodara. 
+Where my role and responsibilities are to Analyze clients requirements, to Generate proper guidelines for designers as well as back end developers; Planning, Time management, Image slicing, to Develop Responsive HTML websites from PSD, challenging jQuery Work, Testing with online tools, cross browsers and available devices. 
+2. INFRIRAYS TECHNOLOGIES 
+UI Developer (MAY16 to Currently working) 
+Where my role and responsibilities are to clear the business logic for the direct implementation, to provide proper solutions to developers; Working on huge product with pixel perfect development and testing. Self challenge work like creating HTML ready pages without Photoshop designs. More challenging JQuery Work and lastly Team lead. 
+TECHNOLOGIES & SKILLS : 
+HTML CSS jQuery Javascript 
+Bootstrap 
+Mobile jQuery WordPress Photoshop 
+Dreamweaver 
+CURRICULUM PROJECT : 
+eClaim Processing System : 
+Successfully developed project in a team of 3 members with .NET language using SQL server for database. 
+eClaim Processing System (eCPS) is web based so that the employee can fill the form online and submit it so that the form is sent to eCPD(eClaim Processing Department) through Internet. At eCPD, the form needs to be checked automatically by an application which will compute the amount that needs to be reimbursed to the employee for the treatment undertaken. After checking the documents, the bank will credit the amount to the account of the employee based on the mail. 
+KEY SKILL : 
+Good Leadership. 
+Team Work. 
+Good Computer Skills. 
+Hard Working. 
+HOBBIES : 
+Internet Browsing 
+Listening songs. 
+Travelling 
+PERSONAL INFORMATION : 
+Name : VAIBHAVI BHATT 
+Mobile no. : +91-8511128230 Marital status 
+: Married 
+Permanent Address : 81, Pratham Paradise Society,Nr Somnathnagar, Tarsali road,Makarpura,Vadodara. 
+DOB : 
+30/ 05 /1992. 
+Language Known : 
+English, Hindi and Gujarati 
+DECLARATION : 
+I hereby declare that the above information is true to the best of my knowledge. 
+Place : Vadodara 
+Vaibhavi 
+Bhatt. 
+1 1 

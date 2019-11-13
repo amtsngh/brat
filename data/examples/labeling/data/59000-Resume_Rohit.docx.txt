@@ -1,0 +1,86 @@
+ Contact No:+8089218385 
+Phone:04802701369 Email: rohitjose@outlook.com 
+Permanent Address: Poovan House Shah Road, Near RLY Station, Chalakudy 
+Pin code : 680307 Thrissur , Kerala Personal Data Date of Birth: 13/02/1989 
+Sex: Male Nationality: Indian Marital Status: Single 
+Key Skills Specialized in 
+Linux & Windows Web servers 
+Server Management 
+System Troubleshooting 
+Migrations / Upgrades 
+Firewall Configuration 
+System Security 
+Performance Analysis 
+Rohit Jose 
+Objective Seeking a challenging position as a System administrator in a well reputed company where I can be a part of a team that not only provides a professional challenge but also can furnish me with my job profile in a most efficient way. 
+Experience Summary 4+ years of working experience in the IT industry. 
+4+ years of working experience in Linux (RedHat/CentOS/Fedora/Debian), Windows Server ( 2012/2008 & 2003 ), 
+and Web hosting control panels like cPanel, Plesk, Virtualization softwares like virtuozzo and Vmware Ability to identify risks on time and mitigate them. 
+Experienced with a broad range of software, utilities and protocols. 
+Control Panels: cPanel.Plesk, BSM,WhatsupGold, DRAC/ILO 
+Web Servers : Apache , IIS 
+Virtualization : Virtuozzo, Vmware 
+Networking - TCP/IP, DNS, netstat Mail - SMTP, POP, IMAP, Exim, MailEnable FTP servers - Proftpd, pure-ftp 
+Backup - tar, zip, mysqldump, Veritas, Cpanel and Plesk backups via SSH Access Security - SSH, SFPT, SSL, IPtables, CSF Office - MS Office Databases MySQL , MSSQL 
+Certifications: 
+Red Hat Certified Engineer (RHCE) 
+Certification ID : 
+( 111-174-025 ) Date : 25-10-2011 
+ITIL Certified Work Experience 
+Company: Admin-Ahead Server Technologies, Kakkanad, Cochin 
+Time Period: from Aril 2nd 2012 
+March 3rd 2014. 
+Role: System Engineer 
+Responsibilities: 
+Providing technical support to our client via ticket and chat. 
+Supporting both Windows and Linux servers running in virtualized environment. 
+Hands on experience in virtualization technologies such as Parallels Virtuozzo. 
+Experience on working with Web hosting control panels such as cPanel and Parallels Plesk. 
+Managing Apache and IIS7 web servers. 
+Managing mail servers such as Qmail, Exim and Postfix. 
+Work includes installation, maintenance, configuration and troubleshooting of different Server operating systems such as CentOS 5/6, Debian 5/6, Windows Server 2003, 2008 and Windows 2012). 
+Firewall Configuration (Windows Firewall, IP tables and CSF in Linux). 
+Performance monitoring and optimization of Web Servers. 
+Experienced with database servers such as MySQL and MSSQL. 
+Company: 
+Ernst & Young, Athulya IT Complex, Infopark, Kakkanad, Cochin 
+Time Period: from March 31st 2014 till date. 
+Role: Infrastructure Support Engineer 
+Responsibilities: 
+Monitoring entire EY global infrastructure which consists of servers, switches, routers and all the network equipments using BSM tool, NNMI, SCOM 
+Working on incidents in Service-Now ticketing portal. 
+Troubleshooting Windows and Linux servers remotely. 
+Troubleshooting and correlating Network related issues and if required, contact and escalate the incident to the appropriate team within predefined SLA. 
+Handling VMware VSphere client to rebuilding the Connectivity/reboot of Servers. 
+Experienced in migrating VM servers hosted in ESXi hosts. 
+Troubleshoot the Backup failures and coordinate with Global and Local Operations team for resolving the issues, working with globally distributed teams. 
+Troubleshooting Lotus Domino Servers which are responsible for mail and database handling in EY. 
+Performing Microsoft monthly patching activities for Windows 2003 / 2008/2012 Server and ESXi servers. 
+Preparation of various monthly reports; ME Backup, AD & Domino server availability & DDC critical server availability reports. 
+Investigating on the latest issues in servers and document the troubleshooting steps for those issues. 
+Technical Support/Troubleshooting Skills 
+Provisioning of Linux based Servers using Virtuozzo commands. 
+Responsible for Maintaining and Monitoring the status of each physical servers located in different Data centers. 
+Responsible for Auditing/taking counter measures against different Illegal Activity on servers including Spamming, DoS Attacks and checking for any vulnerabilities. 
+Responsible for performing Server hardening and scanning in both Linux and Windows servers Responsible for monitoring Linux and Windows servers using PRTG monitoring tool. Using SNMP service for monitoring Windows and Linux servers. 
+Responsible for adding Linux and Windows servers in PRTG monitoring tool and set notification for each sensors. Sensors refer to Server load, CPU, Disk Usage, Memory and HTTP service. 
+Management of Linux and Windows Servers which serves the role of various application servers in the Internet industry. 
+Installing, configuring and maintaining ApacheWeb servers. 
+Administering mail servers like Lotus Domino, Exim, Qmail, Hmail and Mail Enable 
+Configuring FTP and SFTP Servers and troubleshooting related issues. 
+Managing DNS Servers. 
+MySQL database and user creation, Tweak MySQL for optimum performance, Repairing crashed databases and tables, Database backup and Restoration. 
+Migrating web server contents from one server to another server including Mails, SSL and other applications Backing up data using tar, dump, configuring remote backup, rsync. 
+Responsible for managing Junior Staffs and providing proper guidance & training. 
+Security Administration 
+Firewall and Server Security: Configuring firewall like iptables, APF and CSF. 
+Exploits detection and prevention, Server scan/ security updates for possible exploits. 
+Perform Server hardening and scanning in both Linux and Windows. 
+Education: 
+B.Tech Information Technology from College of Engineering Thalassery, CUSAT University 
+Plus Two from Government of Kerala. 
+S.S.L.C from Government of Kerala. 
+Declaration: 
+I hereby declare that the information given above is correct as per my knowledge and belief. 
+Rohit Jose 
+Place: Kochi 

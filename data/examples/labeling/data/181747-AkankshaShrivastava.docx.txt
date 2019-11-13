@@ -1,0 +1,71 @@
+ Career Objective 
+To work in a growth oriented organization, which could provide me with challenging work & where I can give my full potential for the mutual growth. 
+Roles & Responsibilities 
+Team lead with a team of 4. 
+Designed and built advanced applications for the iOS platform. 
+Collaborated with cross-functional teams to define, design, and ship new features. 
+Unit-tested code for robustness, including edge cases, usability, and general reliability. 
+Worked on bug fixing and improving application performance. 
+Aimed at continuously discovering, evaluating, and implementing new technologies to maximize development efficiency. 
+Good knowledge of the general mobile architectures, trends, and emerging technologies. 
+Direct client communication and daily status reporting to clients. 
+Soft Skills Problem solving ability Team player Conflict management ability Planning and organization Leadership and motivation skills Technical Skills 
+Software Objective C, SWIFT, SQLite DB, MS-Office, Netbeans 
+Tools Xcode, JIRA, SQLite, Cocoa Touch, Core Data 
+Architecture ARC, MVC 
+Domain Experience HiTech, Mobility, Healthcare 
+Experience Summary 
+Project NetRemoteClient Customer Bang&Olufsen (Denmark) Organization Tata Consultancy Services 
+Period 15/March/2012-15/December/2012- 9 Months 
+Role iOS Developer 
+Description Client interaction, managed design, development, Apple Documentation, Unit test case execution. The project as all about net radio fetching and play in to player. 
+Skills iOS Development 
+Project BeoRemote1.4 Customer 
+Bang&Olufsen (Denmark) Organization Tata Consultancy Services 
+Period 15/December/2012-15/March/2013- 3 Months 
+Role iOS Developer 
+Description Client interaction, managed design, development. Project was the next version of BeoRemote1.0 with extra feature. 
+Skills iOS Development 
+Project 
+BeoMusic Customer 
+Bang&Olufsen (Denmark) Organization Tata Consultancy Services 
+Period 
+15/March/2013-15/June/2014- 1 Year 3 Months 
+Role iOS Developer 
+Description Planned and developed detailed project plans. 
+Involved in full product life cycle from design and development to deployment. 
+Observed best practice standards in Objective-C. Helped to generate mobile-friendly versions of existing websites. 
+Developed and debugged via XCode and Instruments. 
+Responsible for bandwidth, memory and performance optimization to reduce total data costs. 
+Worked with third-party libraries and APIs. 
+Skills iOS Development 
+Applications PlanQ, HemMobile, Vaximate NZ 
+Customer Pfizer (US) Organization Tata Consultancy Services 
+Period 15/June/2014-Till date 
+Role Team Lead, Developer 
+Description Planned and developed detailed project plans. 
+Involved in full product life cycle from design and development to deployment. 
+Observed best practice standards in Objective-C. Helped to generate mobile-friendly versions of existing websites. 
+Developed and debugged via XCode and Instruments. 
+Responsible for bandwidth, memory and performance optimization to reduce total data costs. 
+Skills Team leadership, iOS Development 
+Experience Details 
+TCS Experience 4 Year 10 Months 
+Prev. Experience NIL 
+Total Experience 4 Year 10 Months 
+Passport Details 
+Name Passport Number Date of Issue Expiry Date Place of Issue 
+Akanksha Khare J7995874 07/01/2011 06/30/2021 BHOPAL, INDIA 
+Education Details 
+Course 
+College/School Board/University Year of passing Marks (%) BE (CSE) 
+SATI, Vidisha RGPV June 2011 
+76 10+2(HSC) 
+Govt Higher Secondary School, Bagbahar CG Board March 2005 78 10 th (SSC) AGBVM, Bagbahar CG Board March 2003 78.7 Personal Information 
+Date of Birth 21-September-1988 
+Gender Female 
+Spouses Name Ankur Shrivastava 
+Hobbies Listening songs, watching movies Nationality India 
+Languages Known English, Hindi 
+Address 58, Gandhi Nagar 
+Near Old RTO Office Agyaram Colony Vidisha (MP) - 464001 

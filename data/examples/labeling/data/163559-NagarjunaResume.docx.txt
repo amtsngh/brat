@@ -1,0 +1,32 @@
+ NAGARJUNA.V E-mail: veeramallanag@gmail.com 
+Contact No: +91-9912581303 
+Career Objective: 
+To work in a technically challenging environment and serve to the best of my abilities, contributing towards the growth of the organization as well as my own growth as an individual in all aspects. 
+Professional SUMMARY: 
+Developing android applications by using Android SDK, Eclipse IDE, and Java. 
+Good Knowledge on Mobile Development Life Cycle. 
+Familiar with backend web services (REST) using Php & Mysql. 
+Familiar with Mysql and SQLite Database concepts. 
+Knowledge on HTML, CSS, JavaScript, Jquery and Jquery mobile. 
+Knowledge on cross platform mobile application development (Phone gap). 
+Working Experience: 
+Currently working as an Android Mobile Application Developer with Renown Analytics Private Limited, Hyderabad, India, From August 2016 to till date as a Intren. 
+ACADeMICS: 
+Bachelor of Technology in Electrical and Electronics Engineering from JNTU Hyderabad with an aggregate of 68.8%. Diploma in Electrical and Electronics Engineering from Trr college of technology, Hyderabad with an aggregate of 74.83%. 
+SSC from Green Wood High School, Warangal with an aggregate of 90.83%. 
+Technical Skill Set: 
+Operating Systems : Windows. 
+Languages : Java. 
+Mobile technologies : Android 
+Web Technologies : 
+HTML5, Css3, JavaScript, JQuery. 
+Tools : Eclipse IDE & Adobe Dreamweaver. 
+PROJECT SUMMARY: 
+PROJECT: 
+Title : Hospi Asset. 
+Environment : Android 
+Google PlayURL : Not yet on Play Store 
+Description: 
+This Application is a very good friendly tool for hospital management system and which helps them for asset tracking. 
+I hereby declare that the information furnished above is true and correct to the best of my knowledge. 
+Nagarjuna.v 

@@ -1,0 +1,110 @@
+Ashish Srivastava 
+E-Mail: ashish97959795@gmail.com Contact: +91+7827536174 
+Aspiring to scale heights in Software Developer with a good Organisation 
+(Kaaryaa Labs Private Ltd.) 
+Preferred Location: 
+Delhi/NCR 
+Professional Preface 
+A dynamic individual with 2+ Years of work experience. 
+Till worked on Kaaryaa Labs Pvt Ltd as Software Developer. 
+Possess highly motivated & positive attitude towards life. 
+Exceptionally organised with a track record that demonstrates creativity and initiatives to achieve set goals. 
+Conversant with C# [4.0, 5.0, 6.0], visual studio 2010, 2013, SQL Server 2012. 
+A proactive learner with a flair for adopting emerging trends & addressing industry requirements to achieve organisational objectives & profitability norms. 
+Holds exceptional team spirit thereby helping in easy achievement of organisational & personal goals. 
+Resourceful team player and capable of delivering tasks within stringent timelines. 
+An effective communicator with excellent relationship building & interpersonal skills. 
+Scholastics 
+Working company is Kaaryaa Labs Pvt Ltd. 
+From June/2016 till present B.Tech. (Computer Science) From Saroj Institute Of Technology and Management(Lucknow) 
+UPTU. Lucknow in 2012 . Secured 64% marks. 
+Intermediate (PCM) and High School (PCM) 
+From Sacred Heart Inter College(UP Board) with 69% and 70% respectively. 
+Currently associated with Kaaryaa Labs Pvt Ltd. as Software Engineer. 
+-------------------------------------------------------------------------------------------------------------------------------- 
+Project Title-: Occ Finance 
+Web Url -: Secure.occfinance.com 
+Description: Occ Finance Technology is a UK based financial Project. Its a finance related huge project. This project is mainly for providing mortgage loans to the users. Currently Occ Finance is sharing 3% of the Total London market of 45 billion Pound. Apart from website, project provide its own calculator(intellicalc) for calculating loans user is eligible for, Bulk Email Schedular for mail sending, Several reports and graph are used to demonstrate monthly and yearly target of brokers, Clients and Introducer achieved and to be achieved, pdf generation facility, etc 
+Technologies Used: MVC 5, C#.NET 4.6, LINQ, JQuery, JavaScript , Ado.DotNet, DB first, web Services, SVN , VS2015, Razor Engine, HTML, CSS, SQL Server 2014. 
+Duration: From June 2016 till present 
+Role: 
+Dot Net Developer 
+Worked with the team for the project. 
+Requirement understanding w.r.t Process and development accordingly. 
+Developing Code and developing the required functionality. 
+Responsible for creating various modules of Engagement which includes UIs as well as Controller,Models through different layers. 
+Maintenance of Entire project as per the requirement from Client. 
+Work Description: 
+Worked on web services to provide website data to mobile team. 
+Uses Database First approach with ado.dotnet for database. 
+Written many of the Controller codes, uses LINQ, View Models extensively. 
+Worked on flot.js and highchart.js to show information in various interactive graph. 
+Uses stored procedures and functions extensively. 
+Uses dataset and datatable to show data fetched from database. 
+Uses Ajax, Json with javaScript for rich user experience. 
+Uses various optimization techniques and deploying to server as per the requirement. 
+Project Title-: Travels.com 
+Description: Flights and hotel booking e-commerce web application built with asp.net mvc, web api and entity framework. The core feature includes flights booking for indian and international flights, hotels booking and package booking and car and train booking. Portal is using tek travels rest api which provide data in json format for showing all flight details and hotel details available for booking on particular date in particular city. There is an admin panel which can see all the booking agent registered on site along with normal users and admin can manipulate prices for flights and hotels for different agents according to their packages registered on site. 
+Technologies Used: MVC 4.0, C#.NET 4.5, Web Api, JQuery, Javascript, VS2012, LINQ, HTML, CSS . 
+Duration: From february 2016 to may 2016. 
+Role: 
+Dot Net MVC Developer Worked on External rest api to fetch flight and hotels data for booking. 
+Prepare views and corresponding MVC controller actions and respective functionalities. 
+Written Code using Web api to fetch data from rest api in json format. 
+Meeting documented UI guidelines with CSS implementation. 
+Tracking defects and recommendations and Provide quick resolutions to all open work items and delivers the releases with zero defect count as per plan. 
+Project Title-: GalaLaw 
+Web :- Devgalalaw.mediathree.net 
+Description: GalaLaw is a global advertising Lawyers Alliance located through out the world. This project has been completed and currently live. This application is mainly divided into two parts Admin Section and front End Section. Each of these modules is developed as an individual Use cases. 
+Technologies Used: MVC 5.0, C#.NET 4.5, JQuery, Javascript, VS2013, Entity Framework, LINQ, HTML, CSS ,Unity Container. 
+Duration: From aug 2014 to march 2015. 
+Role: 
+Dot Net Designer and Developer Requirement understanding w.r.t Use Case, analysis and effort estimations. 
+Prepare views and corresponding MVC controller actions and respective functionalities. 
+Writing Code using repository pattern and unit of work pattern providing separation of concern. 
+Meeting documented UI guidelines with CSS implementation. 
+Tracking defects and recommendations and Provide quick resolutions to all open work items and delivers the releases with zero defect count as per plan. 
+Project Title-: Qluto Description: Qluto is a web based modern Real Estate Conversations platform, allowing users to participate in conversations about Real Estate from anywhere. Its primary motive is to expose the lies from Builders and give users an opportunity to explore the truth behind every projects through conversations between users. It is still in development phase currently. 
+Technologies Used: MVC 5, C#.NET 4.6, KnockOut, LINQ, JQuery, JavaScript ,Entity Framework 6, Google Map Api, 
+Facebook Graph Api, VS2013,Razor Engine, HTML, CSS, SQL Server 2012. 
+Duration: From april 2015 to january 2016 
+Role: 
+Dot Net Developer 
+Worked as a single resource for the entire project. 
+Requirement understanding w.r.t Process and developed entire code from Scratch. 
+Developing Code and developing the required functionality. 
+Responsible for creating various modules of Engagement which includes UIs as well as Controller,Models through different layers. 
+Maintenance of Entire project as per the requirement from Client. 
+Work Description: 
+As a single resource, developed the entire project from Scratch . 
+Extensively Uses Entity Framework Code First as an ORM tool for generating required database. 
+Written all the Controller codes, uses LINQ, View Models extensively. 
+Uses Knockout and Jquery UI for two way message Binding for smooth user experience. 
+Uses various third party tool like Google Map Api, Facebook Graph Api, Twitter api, 
+google+ api, Linked In api. 
+Uses Ajax, Json with javaScript for rich user experience. Uses triggers in database. 
+Uses OAuth 2.0 with latest Asp.Net Identity for authentication, authorization. 
+IT Skills Languages : 
+ASP.Net Mvc (Using C#). 
+DBMS Packages 
+: SQL Server. 
+Operating Systems 
+: Windows 98, 2000 & XP,7/8. 
+Other Knowledge 
+Important Point Project 
+Knowledge In MVC 
+Entity Framework, Ajax, Json , Linq ,Various Design Patterns, Routing, Partial View, Asynchronous , DI, Inversion of Controls, Caching, Bundling, 
+Layered Architecture , Lazy Initialization, View Models, Filters, Various IOC container(Unity, Ninject, Structure Map , Autofac), Glimpse , Repository Pattern, Unit of work Pattern, Single Page Techniques. 
+Knowledge in C# Collections and Generics ,Arrays, Generics lists And Dictionaries, Generic Interfaces, Asynchronous, Extension methods, Flow Control, OOP 
+Knowledge in Sql Server 
+Constraints,Joins,Stored Procedures, Functions. 
+Extra Curricular Activities 
+Participated actively in Lan Games(NFS) at College level. 
+Have Won State level Map Quiz defeating 500 schools and secured first prize and a certificate. 
+Have Won several Quiz competition at school level. Elected Class Representive at college level. 
+Actively participated in various seminars at college. 
+Personal Dossier 
+Address: B-16 Pandav Nagar, New 
+Delhi. 
+Mb No-7827536174 
+Linguistic Abilities: English, Hindi 

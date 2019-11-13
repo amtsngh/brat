@@ -1,0 +1,3 @@
+ MCSE winXP 
+Database: Oracle, MySql 
+Languages: C , C++ , JAVA , VB.NET , C# 

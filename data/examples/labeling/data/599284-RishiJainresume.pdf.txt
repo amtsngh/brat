@@ -1,0 +1,50 @@
+RISHI SANJEEV JAIN 
+Personal Profile 
+Pursuing Computer Engineering (Final year), from the prestigious Maharashtra Institute of Technology, Pune. 
+Looking for opportunities in IT firms where I could serve to the max of my potent. 
+ALMA MATER: 
+YEAR INSTITUTE PERFORMANCE 
+2011 
+[S.S.C] 
+J.N.PETIT TECHNICAL HIGH SCHOOL 
+82% 2013 
+[H.S.C] 
+S.M.CHOKSEY HIGH SCHOOL & JUNIOR COLLEGE 
+68% CET 
+146/200 2017 
+MAHARASHTA INSTITUTE OF TECHNOLOGY,PUNE 
+55% as of 7th semester Technical Skills Software Experience 
+Languages: C, C++, HTML, Python 
+(Basic), mySQL. 
+Documentation: Ms Office,Prezi,LaTex 
+Operating System: Linux-Ubuntu, Windows 2000NT, Windows XP, Windows 7,8,10. 
+Areas of Interest 
+Web Development 
+Internet of Things 
+Data Analytics 
+Marketing 
+rishi.j21@gmail.com 9890051459 
+Final Year Project: 
+Performance Enhancement of Android Applications Testing Using Android Devices As a Service Cloud Model. 
+It was a twofold project. 
+In the first part we have built a system that can extract and store Android sensors values like Accelerometer, Magnetometer and Gyroscope in an Excel sheet. This data is valuable for analysis of movements which forms as the base of all movement tracking applications (Nike plus). 
+The second part consisted of an Android application that tracks resource consumption of all applications residing in an Android device, more like a task manager for Android which helps in analyzing apps which are heavy on resource consumption and their impact on the device. 
+Paper published: http://www.ijritcc.org/browse/volume-5-issues/may-17-volume-5-issue-5/103 
+Amcat Score: 605/900, 90.3 Percentile (Taken in Oct 2016) 
+Non Technical 
+Good communication skills. 
+Fluent in English, Hindi, Marathi. 
+Can persuade people to get the job done Good management skills. 
+Additional Information 
+Proactive participation in organizing our annual department tech fest 
+Texephyr which taught me to be a team player and work within an allotted budget which can come in handy while working in a professional environment. 
+2nd rank holder in IOEL conducted by ESEL.(English Olympiad) 
+5 Year Plan: 
+Get an MBA degree from a reputed B-School in the country. 
+10 Year Plan: 
+Business Analyst. 
+Leisure Pursuits 
+Gaming 
+Travelling 
+Playing Tennis 
+Spending time with family 

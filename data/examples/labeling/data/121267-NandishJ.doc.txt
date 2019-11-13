@@ -1,0 +1,62 @@
+ J.Nandish 
+Mob:+91 9677362968 
+E-Mail: nanninandish@gmail.com 
+Objective: 
+Challenging career in IT industry, in an organization, which offers abundant opportunity to innovate, grow and develop. 
+Academic Credentials: 
+Examination Percentage Board/University Year 
+MCA 78% Anna University 2016 BSC 72% Anna University 2012 HSC 
+60% State Board 2009 SSC 
+66.50% State Board 2007 
+Technical skills: 
+Operating Systems : Windows XP, Windows 7,8 Programming Languages 
+: C,C# 
+Databases : MS-SQL Server 2012 
+Web Technologies 
+:Asp.net,Html 
+Academic projects: 
+1. Project Name : Motion Based Signature Login(MCA) 
+Role : Designer 
+Duration : June 2015-Nov 2015. 
+Team Size : 1 
+Technology Used : VB.Net, MS-Access. 
+Description 
+: This system is full base on signature verification for passport verification and its kindly use of recognize signature of particular person based on also view signature when the signature is viewed it the person of the signature 2. Project Name : Unauthorized access point using clock skews (BSC) 
+Role : Designer, Developer 
+Duration 
+: Dec2011-Mar 2012. 
+Team Size : 4 
+Technology Used 
+: C#. 
+Description : This is used by client and server while accessing point it connected through network based on client side connecting to the server but the particular access point address its not easily access by the unauthorized person when the person needs my port address 3. Project Name : Resolute Authentication of Data Into The Cloud(MCA) 
+Role : Designer, Developer 
+Duration : Dec2015-Mar 2016. 
+Team Size : 1 
+Technology Used : C# and Asp.net 
+Description 
+: This is used to the storage at the client side is minimal.As the data is physically not accessible to the user to check if the integrity of his data is maintained.this can be agreed upon by both the cloud third party and the customer and can be incorporated in the SLA 
+It is safe or not so our datas can be easily hacked by others 
+Certification: 
+Niit Certification course in .NET 
+Curricular Activities: 
+Participated Code ContestDuring 24 July 2015 in Nucleus Software,Bangalore 
+Completed Network Simulator 3(Ns3) During 26-27 June 2015 in Adhiyamaan college of engineering,hosur Participated Web Designing Using SharepointOne Day National level siminar 3rd October 2015 in Adhiyamaan college of engineering,hosur 
+ParticipatedOpenstack-The future of cloud One Day National Level Workshop 15th September 2015 in jyoti nivas college autonomous,bangalore 
+Personal Information: Name 
+: Nandish J 
+Contact No 
+: 9677362968 
+Address 
+: 9a 2nd Cross Prakash nagar,Hosur 
+Nationality 
+: Indian 
+Birth Date : 01/01/1992 
+Languages : English,Tamil,Kannada 
+Hobbies 
+: Music,Playing Computer Games,Travelling 
+Declaration: 
+I here declare that all statements made in this application are true, complete and correct to the best of knowledge and belief. 
+DATE : 
+PLACE 
+: Nandish J 
+Resume 

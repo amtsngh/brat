@@ -1,0 +1,83 @@
+Ashvith B L 
+Mobile | 9686100878 
+Email | ashvithrai07@gmail.com 
+Career Objectives 
+To be a Successful professional in a Globally Respected Company and to achieve the objectives of the company with Honesty and Fairness and to Continuously Upgrade My Knowledge and Skills. 
+Profile Summary 1.5 Years of experience in area of Web Development, Design & Maintenance of websites using PHP technologies. 
+Skilled in client side web technologies like HTML, CSS, JS, Bootstrap. 
+Excellent knowledge in relational databases. 
+Developed dynamic and interactive websites and User Experience. 
+Good in managing time and organizing tasks Career oriented, hard working and ability to handle multiple tasks Quick learner and ability to learn new concepts 
+Professional Experience 
+1. Web development (freelancer) 
+Period: Dec 2016 - Present 
+Roles and Responsibilities: 
+Worked on Creating a Complete Website for the client. 
+Languages used for Front-End : 
+HTML, CSS, Bootstrap, JavaScript, jQuery. 
+Languages used for Back-End : 
+PHP. 
+Projects: I) Green Irrigations (www.greenirrigations.com) 
+Description: Green Irrigation is a commercial Landscape architect & Gardening design Company in Bangalore 
+II) Ever Green (www.evergreenstay.com) 
+Description: Ever Green is HomeStay located in coorg provided with advanced booking. 
+III) CoorgTravels (www.greenirrigations.com/Project_2/home.html) 
+Description: CoorgTravels(In Process) Provides advanced booking system to the Taxi Cab in Kushalnagar coorg. 
+2. EmQos Embedded Engineering Pvt.Ltd. (CivicSmart) (www.emqos.com) 
+Designation: Technical Team Member. 
+Period: Feb 2016 Dec -2016 Roles and Responsibilities: 
+Involved in managing and updating the website 
+Involved in developing parking related application. 
+Involved in building SQL queries to extract data from different databases. 
+Helping the team in developing excel based reports. 
+Project 1: Parking Management System (PMS) 
+Description: PMS is amid to be a good easy to use and manage web based Parking management system. It will include all possible features that a web application can have like web portal. It will have good administration features. 
+Skills & Tools: PHP, SQL, HTML, CSS, JavaScript. 
+Roles and Responsibilities: 
+Involved in Development of PHP pages & DB queries for application. 
+Performing the Create Read Update Delete (CRUD) actions to the navigation bar and to the content in Pages. 
+Providing the Visibility and the Position of Navigation to the end users. 
+Create and Edit system users which have different permission levels. 
+3. Wire Delta Pvt.Ltd (Internship). 
+Designation: Trainee Back-end team. 
+Period: Aug 2015 Dec-2015 
+Roles and Responsibilities: 
+4 Months of Internship in HTML, CSS, JavaScript, jQuery and node.JS at WIRE DELTA 
+Web Development pvt.ltd. 
+Developing Server Side Script using PHP and node.JS. 
+Using MySQL, MongoDB to create tables, views, inserting data etc. 
+Educational Qualification: 
+Qualification. College. Year Percentage. 
+BE(cse) Government Engineering 
+College, Kushalnagar. 2015 59.33% XII class Vivekananda PU college, Kushalnagar. 2011 60.0% X class Fathima High School, ,Kushalnagar 2009 78.08% 
+Skills: 
+Languages / Scripts : C, C+, JavaScript, jQuery, PHP 
+Technologies : HTML, CSS, Bootstrap, Laravel, XAMPP 
+Application Software : MS Office. 
+Database : SQL, MYSQL. 
+Operating System 
+: Windows. 
+Academic Project: 
+BE Final Year Project: MOBILE HEALTH CARE SYSTEM 
+In this project we present several techniques that can be used to monitor patients efficiently and enhance functionality and confidentiality, we designed specifically for Hospital Management. 
+Duration: 6 months. 
+Technologies used: JAVA, JSP, MS-SQL, HTML, CSS. 
+Personal Skills: 
+Comprehensive problem solving Abilities. 
+Excellent Verbal and Communication Skills. 
+I am self confident and can mould myself into any work Environments. 
+Personal Profile: 
+NAME : 
+Ashvith b l 
+DATE OF BIRTH : 07th June, 1993. FATHER S NAME 
+: 
+Leeladhara b 
+NATIONALITY : Indian. GENDER : 
+Male. 
+LANGUAGES KNOWN : English, Kannada & Hindi. HOBBIES 
+: News paper reading, net browsing, listening music, Playing & Watching Football. ADDRESS : #34, 3rd cross, Basweshwara extension, 
+Kushalnagar 571234, Kodagu district. Karnataka. 
+Declaration: 
+I hereby declare that above furnished particulars are true to the best of my knowledge and belief. 
+Date: Place: Kushalnagar 
+(Ashvith b l) 

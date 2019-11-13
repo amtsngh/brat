@@ -1,0 +1,96 @@
+CURRICULUM VITAE 
+Manoj Kumar Email : manojthecareer@gmail.com 
+Skype Id: manojkumar.hyd 
+Mobile No. : +91 8106433217 
+Summary: 
+Software Engineer with 2.6 years of professional experience in the IT industry. 
+Development experience in social networking api, aggregations in mongodb and spring data document. 
+Expertise in developing Web applications using Java, J2EE, Spring 3.0 (Spring IOC, Spring MVC, Spring Integration), REST, Rabbit Mq, Activiti Workflow(Spring Activiti). Development experience using relational (Oracle and Mysql), document (mongodb) oriented databases. 
+Ability to work in a complex, deadline oriented environment. 
+Extensively used Spring in web applications. 
+Profound Knowledge on Maven 3.0, Git, and Apache POI Reporting Tool. 
+Strong debugging and problem solving skills with excellent understanding of system development methodologies, techniques and tools. 
+Energetic and perseverant self-starter with excellent analytical, organizational and problem solving skills. 
+Strong Analytical skills with excellent Interpersonal and Communication skills. 
+Experienced team player but also very accomplished at working as an individual. 
+Have been actively involved in deploying the application in servers and checking the logs and performances. 
+Have been actively involved in development, testing and production environments. 
+Have been involved in designing phase of application. 
+Professional Experience (2 years 6 months) : 
+Working as a Software Engineer in LSN Software services, Hyderabad from May 2014 to till Date. 
+Educational Qualification: 
+M.C.A with First class in 2013 from University of Pune, Maharashtra. 
+Professional Training 
+CORE JAVA,J2EE Technology(JSP(2.1),servlets(3.0)),JDBC(4.0),Spring(3.0) and STRUTS framework from Naresh Information Technology, Hyderabad 
+Technical Skills: 
+Operating Systems Windows 
+Languages Java 
+Web Skills J2EE,HTML,JSP,Servlets,Spring3.0, Spring Activiti Workflow,Spring social,Hibernate, RESTful web services, javascript, log4j, Rabbit MQ IDES STS, Eclipse 
+Database Mongo db, mysql , Oracle 10g Web Servers Tomcat Web Server 
+Tools Maven, GIT, Apache POI,SendGrid and 
+Jenkins 
+Projects and Responsibilities: 
+Project #1 
+Intella Sphere 
+Title : IntellaSphere(www.intellasphere.com) 
+Duration : 
+May 2014 to till Date 
+Environment : Java,J2EE, Spring 3.0, Spring Activiti Workflow, Spring Security, Spring social,RESTful web services,Rabbit mq,GIT, Maven, Mongo db 2.4.6, Mysql , Apache POI,SendGrid and Jenkins. Organization 
+: LSN Software Services Pvt.Ltd.Hyderabad 
+Role : Developer 
+Responsibilities: 
+DAO Created for all 
+DB operations using Spring and Mongo Db api. 
+Worked on Spring Injection for all Dependencies in the product. 
+Used to design spring configuration for web api. 
+Worked on Designing phase of application using Visual Paradigm tool. 
+Implementing social oauth configuration. 
+Using social api for social networks(Facebook,Twitter,LinkedIn, Youtube ,Instagram, Tumblr, Blogger ,Wordpress,Google Plus,Google Analytics). 
+Implementing schedulers for periodic updates using Spring Integration module. 
+Implementing Spring Activiti workflow. 
+Implementing aggregations for calculating metrics. 
+Implemented Spring Security for the http services. 
+Worked on development, testing and production environments. 
+Description: 
+The brand essence of IntellaSphere is direct, analytical and engaging. It's all about empowring business to gain the intelligence they need to grow and improve their brand in the new age of marketing. IntellaSphere is the ultimate marketing tool, giving a company the devices they need to gain market share, beat the competition and get true results. Intella Sphere understands these challenges better than anyone and uses experience and innovation to create the right tools for a business to clearly understand its audience and empower them to grow and engage with their community! 
+Project #2 Online Mobile Shopping 
+Project Name:- Online Mobile Shopping 
+Company Name:- REVENIR DEVELOPMENT SYSTEM PVT.LTD,PUNE 
+Technology Implementation:- Core Java,J2EE(Servlet 3.0,JSP 2.1) ,JDBC(4.0) 
+Database: - MySql 5.1 
+Team Size :- 5 
+Duration :- 5 Months 
+Role :- Software Developer 
+Responsibilities: 
+Written JSPs pages (e.g. Registration page, Login Page). 
+Written Servlet classes as per requirement. 
+JDBC implementation classes for database connectivity. 
+Description: 
+Online Mobile Shopping enables customer to buy mobiles or accessories from anywhere through online. This application advertises some of the products for shopping. To buy products, customer has to create an account. Those who does not have an account, they can only view the available product. They cant buy it. Once the customer has created account, not only he can view the products, he can also add the product to the cart and also he can place an order to buy those products. 
+Project #3 Job Matching For Migrants 
+Project Name:- 
+JOB MATCHING FOR MIGRANTS 
+Company Name:- NARESH INFORMATION TECHNOLOGY,Hyderabad 
+Technology Implementation:- Core Java,J2EE(Servlets 3.0,JSP 2.1),JDBC(4.0) 
+Database: - MySql 5.1 
+Team Size :- 5 
+Duration :- 5 Months 
+Role :- Trainee 
+Responsibilities: 
+Written JSPs pages (e.g. Registration page, Login Page). 
+Written Servlet classes as per requirement. 
+JDBC implementation classes for database connectivity. 
+Description: 
+Job Matching for Migrants is an online based web application system to handle non formal jobs. This system deals with the Universal ID based posting of informal sector jobs for illiterate or migrant users/laborers.. This system facilitates employers to engage labors easily and also it helps to assisters in the local area to maintain migrant laborers details based on Universal ID. Users of this system; assisters and employers should be register, then he/she can maintain the data about his/her company. Assisters can also store the details of the laborers on his/her hand. This system also provides the email communication among the users of this system. 
+PERSONAL DETAILS Name : 
+Manoj Kumar 
+Date of Birth : 10-05-1985 
+Languages known : English, Hindi 
+Marital Status : Married 
+Nationality : India 
+Current Address 
+: 3-610,S.C.B Nagar,New Hafeezpet, Hyderabad -500049 
+Declaration: 
+I hereby solemnly declare that all the statements made in the above application are true correct to the best of my knowledge and belief and nothing has been concealed, suppressed or fabricated. 
+Date: 
+Place: (Manoj Kumar) 

@@ -1,0 +1,83 @@
+ Tani Ray 
+Phone No 9037134107 Email Id 
+tani.ray14@gmail.com 
+SUMMARY 
+More than 4 years of IT experience in MAGENTO, Core PHP and leading a team at Poornam Infovision and PM Health and Lifecare. 
+Knowledge in development of Magento, Wordpress and ZEND. 
+Analyzing and translating business requirements into technical requirements. 
+Core areas of competence include MAGENTO, MYSQL, PHP. 
+Setting up and maintaining complex deployment architecture. 
+Passionate to update my knowledge and skills though continuous selflearning. 
+TECHNICAL SKILL 
+Languages/Frameworks: Magento,Wordpress,ZEND,Core PHP. 
+Database Management System: MySQL. 
+UI Technologies: HTML, CSS, Jquery, Java Script, Ajax. 
+Development Environment/Tools: Windows, Linux 
+QUALIFICATION 
+Course University/Board Year of Passing Percentage 
+B.E. (Computer) 
+Biju Pattnaik University Of Technology 
+2012 82.00% H.S.C.C CHSE 2008 72.00% S.S.C. ICSE 2006 82.08% ACHIEVEMENTS 
+Devteam leader for Branding & Establishment team for Bobcares. 
+Awarded as Best Bob for the interval of Jan14-Apr14 for achieving 0 QC. 
+PROFESSIONAL EXPERIENCE 
+Current Project 
+Client : For Zigy, India 
+Role : Developer, Team Lead 
+About Zigy: 
+Zigy.com takes healthcare online, links people to chemists. There health exchange uses technology to efficiently connect Indians needing health products and services with doctors, clinics, hospitals, pharmacies, diagnostic labs, and providers of wellness products and services, insurance, home-care services and alternative medicines. 
+Sub-Project 1 Project Title : HealthWallet Feature Implementation 
+Project Description 
+: HealthWallet is a virtual money wallet comprising of UrMoney(which is pre-loaded with money allowed towards customers monthly reimbursement) and ZigyMoney(reward component by Zigy, based on your UrMoney transactions). Every HealthWallet number is linked to a PIN, using which customers can login and make there transactions with Zigy and earn benefits. This entire flow was build in the project. 
+Responsibilities : 
+Planning and architecting the solution. 
+Designing the database structure. 
+Building APIs for the same. 
+Implementing secure signing process(ADFS) for specific corporates. 
+Sub-Project 2 Project Title : Payphi integration 
+Client : for Zigy India. 
+Project Description 
+: PayPhi is a service from Phi Commerce which will take away the hassles of cash management in COD for both merchants and consumers while providing consumers with the same surety as that of COD with enhanced convenience. This project invloved integration of Payphi payment gateway with Zigy. The entire flow of order delivery post payment via Payphi was handled in this project. 
+Responsibilities : 
+Pro-actively Co-ordinating with client on the requirements of the project. 
+Building APIs for the delivery app integration, and integrating Zigy with Payphi. 
+Sub-Project 3 Project Title : Partner integration with Zigy order processing and delivery Project Description : Exposing and connecting to partner APIs for information flow from and to Zigy portal for the purpose of order processing and delivery. 
+Responsibilities : 
+Pro-actively Co-ordinating with client on the requirements of the project. 
+Building an efficient payload hashing technique(using secret/API key) to access/expose all the partner APIs. 
+Defining API architecture and building the same. 
+Project 4 
+Project Title : ERP Integration 
+Project Description : 
+The ERP, CSquare integration with Zigy enables hassle free order and inventory management for pharma products. 
+Responsibilities : 
+Designing the database structure keeping in mind the different fulfillment centers served. 
+Establish data flow architecture between CSquare and Zigy. 
+Develop interaction between Magento and the ERP during various stages of order lifecycle.. Project 5 
+Project Title : Delivery app integration Project Description : 
+The project includes building APIs for integration of a delivery app being used and specifically designed for medicine delivery including collecting prescriptions, keeping track of delivery guy's location and enabling card on payment facility. 
+Responsibilities : 
+Designing database structure for efficient tracking of delivery packets. 
+Creating API's for the same. 
+Also involved in training the delivery guys on how the app works. 
+Project 6 
+Project Title : Mobile app API (cart persistence) Project Description : 
+The project revolves around cart syncing across various platforms(web/IOS/Android) and multiple user logging maintained using Redis session. 
+Responsibilities : 
+Co-ordinating with app team for making the entire flow feasible. 
+Creating API's for the same. 
+Past Projects 
+Client : For Bobcares, India 
+Role 
+: Developer 
+About Bobcares: Bobcares provides server management and outsourced technical support over helpdesk, phone and live chat for web hosting companies. 
+Project 1 Project Title : Quote2Sales module Project Description : 
+This plan was yet another easy support plan, which was a customized configurable product, purely built on Magneto. The plan had custom options, which were build into grid like matrix, which the user from frontend, can manually set, and they are good to go. All business logic was implemented using Prototype framework. The core modules were overridden in order to implement the calculation logics, and general display settings. With this the user can dynamically see the price change, according to there selections and proceed to checkout. The payment gateways supported where Paypal, Worldpay. For Paypal , the core module of Magento was overridden to add setup fee. 
+Responsibilities : 
+Doing a thorough research and analysis on the requirements from the client. 
+Followed by preparing SRS and prototyping it. 
+Developing the entire module. 
+Apart from these major projects I was involved in other smaller projects like report automation for various sales activities, creating plugins for Wordpress and training magento support guys. 
+AREAS OF INTEREST/STRENGTH 
+Watching movies, maintaining a diary, exploring new food joints. 
+Passionate to update my knowledge and skills though continuous selflearning. Focussed and goal driven with excellent work ethics. 

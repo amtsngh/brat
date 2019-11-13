@@ -1,0 +1,123 @@
+Manish Parashar 
+B . E ( E l e c t r o n i c s ) CDCP, LEAN and ITIL Certified 
+PMP and Six Sigma Trained +91-9654929521 Parashar.manish79@gmail.com 
+K E Y 
+S K I L L S 
+A N D 
+S T R E N G T H S 
+Leadership 
+Adept at leading/managing cross-functional programs. 
+Capable of leading high performing teams under tough deadlines, to meet expectations of multiple customers. 
+Strong communicator skills (verbal and written). 
+Organizational ability and multi-tasking skills. 
+Service orientation 
+People person and a team player. 
+P R O F E S S I O N A L 
+S U M M A R Y 
+14+ years of extensive exp rience in various areas of IT Service Management & Infrastructure 
+Management into Project & Transition Management, Data Center Hosting and Migration, Process 
+Management, Crisis and Risk Management, Operations & Service Delivery, Customer Relationship and Quality Management. 
+Adept in End to End Service Delivery including Service Level Management to ensure Customer Satisfaction and deliverables as per SLA. 
+Demonstrative capabilities in managing process verticals with strong background in implementing process improvements, Quality initiatives and configuration tools to meet the defined SLAs Provides technical leadership and guidance to the IT teams for project level architectures and design work 
+A complete manager with proven competencies in building, training, motivating and retaining a team of cohesive performers; successful track record in ensuring optimal utilization of available resource 
+E X P E R I E N C E 
+2015 present Location Gurgaon, Noida 
+P r o g r a m M a n a g e r 
+I T I n f r a s t r u c t u r e 
+Managing a team of 30+ comprising of Service Desk, Domain Leads (Network, Server, Storage, Backup, Database, Security) & Project Managers 
+Responsible for end to end Contract Ownership to meet the KPI target. 
+Responsible for P&L and help in the preparation and administration of departmental budget and business plans and metrics 
+Engineer- Voice 
+GTL Limited 2002-04 
+Senior Engineer - Voice Wipro 
+Limited 2005-2007 
+Practice Lead - Voice and Data 
+Wipro Limited 2007-08 
+Major Incident 
+Manager Wipro 
+Limited 2008-09 Transition 
+Manager Wipro 
+Limited 
+2009-2010 Program 
+Manager Wipro 
+Limited 
+2010-till date 
+Assisting in professional and technical development of Team Leaders by mentoring them to set/meet technical goals, monitor, and coach and assist team members to deliver quality support. 
+Responsible for enhancing cooperative interdepartmental and vendor relationships and communications. 
+Responsible for Training Program for continual improvement in Customer 
+Service, Communication, and Technical skills, in order to enhance the quality of delivery. 
+Interfaced daily with client users worldwide to address a range of technical issues and concerns. 
+Compliance Management like VAPT, Configuration Management, SLA, Patch and AV 
+Publishing Daily, Weekly, Monthly & Governance reports to Client along with presentation of Quarterly Governance PPT 
+Responsible for RCA/Problem management and ensuring minimum repeat issues 
+BFSI, Energy & Airport domain account 
+Successfully completed the three cycles of VA, PT and Configuration Audits 
+Successfully carried out the AD & Exchange Migration 
+Successfully carried out the migration of EMC to HP 3PAR Storage, Oracle 
+12C 
+Successfully carried out the ISO 27K Audits 
+Annual PM of DC and DR have been carried out successfully without any impact to customer infrastructure Integrated DR Drill have been carried out successfully 2010-mid of 2015 Location Pune & Mysore 
+D a t a C e n t e r M a n a g e r 
+H o s t i n g S e r v i c e s & F a c i l i t i e s Management of Wipro s own Enterprise Data Center (Tier 3) with the server farm capacity of 40000sqft located at GNDC, Pune and Mysore 
+Ensuring the uptime (Power, Cooling and IBMS Infrastructure) of 99.982% of all the Data Centers as per Uptime Standards 
+Management of all the customers hosted in these Data Centers with respect to Hosting Deliverables. 
+Carried out various certifications like TIA 942, ISO 27001, 9001, 14001, 18001 with zero NCs 
+Successfully completed the project to get OSP License for Pune DC from TRAI 
+Successful rollout of 2 Active-Active Data Centers for the first commodity exchange client in Mumbai 
+Maintained 100% Uptime of Pune DC since inception Built Data Center for Wipro Internal in less than 3 months at Mysore with server farm capacity of 1200sqft Involved with Project Team with Civil Work in Building of Pune DC. 
+Appreciated by Mr. Azim Premji twice (YoY) by proper maintenance of Pune 
+DC 
+2009-2010 T r a n s i t i o n M a n a g e r Developing project plans and managing various aspects of Project 
+Management. 
+Location - Mysore 
+Formulating and implementing a standard transition plan for all current and future transitions. 
+Conduct business analysis, identify the requirement, carry out the requirement fulfillment from customer and translate into project task. 
+Customize standard project framework according to the targeted results inline with the SOW. 
+Identify the scope of the project and create optimized resource plan to ensure the project timelines are met. 
+Work as single point of contact between stakeholders in customer organization and business representatives. 
+Hands on experience in ITIL Process Implementation in line with contract 
+SOW typically Incident, problem & Change mgmt, CMDB with integration of ticketing tool. 
+Define RACI matrix for all the roles involved in the Projects. 
+Customers include of BFSI, Manufacturing, Energy, Telecom domain 2008-2009 Location - Mysore 
+M a j o r I n c i d e n t M a n a g e r 
+SPOC for all Major Incidents (Top 25 customers) 
+Provided training to all DM, PM, OM, DL on the process before launch. 
+Helped all stakeholders to update major incident register along with Risk register 2005-2008 Location Chennai, Bangalore and Mysore 
+S e n i o r E n g i n e e r - V o i c e Management of PAN India Telecom customer Airtel with deliverables include Nortel Meridian PBX (11C, 81C), IVR, Call Pilot and Verint Call 
+Recorder 
+Implementation & Management of Unified Communication products like Cisco CCM to various clients like E & Y, EXL Services etc. 
+Implementation of Nortel PBX products for the Aircel account before the launch of their services in India 
+Successfully completed the Cisco IPCC Express Certification 2002-2004 Location Mumbai and Pune 
+E n g i n e e r - V o i c e Monitoring and Management of customers on Nortel products like 11C, 61C, 81C, MICB, Call Pilot, Passport 
+Have awarded the Best Performer for the Year 2003 E D U C A T I O N 
+2001 B . E . ( E l e c t r o n i c s ) - U n i v e r s i t y o f P u n e College 
+D. Y Patil College of Engineering 
+1997 H . S c 
+K V A r m y A r e a , P u n e 1995 S S C 
+K V A r m y A r e a , P u n e 
+S K I L L S 
+Operating Systems 
+Virtualization 
+OEM Hardware 
+Telecom 
+Storage 
+Backup 
+Network Security 
+Antivirus 
+Tools 
+Cloud 
+Windows, RHEL, Solaris 
+Citrix, Hyper V and VMware Dell, IBM, HP, SUN 
+Nortel or Avaya, Verint and Cisco 
+EMC, HP, Hitachi 
+Veritas Netvault, EMC 
+Routers, Switches, Firewalls, Websense 
+Mcafee, Symantec, Trend Micro 
+DCIM, Compuware, HPOV, HPNNM, Sitescope 
+Azure and AWS at entry level 
+P E R S O N A L 
+D E T A I L S : 
+Name: Manish Parashar 
+DOB: 5th June 1979 
+Marital Status: Married 
+Location: Delhi 

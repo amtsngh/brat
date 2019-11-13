@@ -1,0 +1,64 @@
+SHAAN HUSSAIN Phone: +
+91 9961 444 347 
+shaanhussain@gmail.com 
+OBJECTIVE 
+Contribute to organization s effectiveness and meet business requirements by managing Information systems such as computer systems, networks, and data systems. 
+SUMMARY- A Computer science graduate with 7 years of experience in IT Service Desk & Infrastructure management 
+Need analysis, recommendation, vendor interaction, deployment and maintenance- in diverse industries & global organizations. Hands on experience in software installation, computer configuration, Local Area Network, network printers and other peripherals. 
+KEY COMPETENCIES 
+Technical System Analysis, Technology Deployment, Integration, Installation & Support. 
+Professional Analytical Thinking, Judgment and Decision Making, Problem Solving, Interpersonal Skills, Resource Management. 
+AREAS OF EXPERTISE 
+Design, set-up, maintain and administer computing environments including computer hardware, systems software, applications software, and all configurations. 
+Perform data backups and disaster recovery operations. 
+Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary. 
+Configure, monitor, and maintain email applications and virus protection software. 
+KEY RESPONSIBILITIES 
+Responsible for building and maintaining standard desktop hardware and software configurations including workstation images and application packages that will be used across the enterprise. This includes building, testing and deploying both custom developed and 3rd party applications and patches. Responsibilities also include assisting and supporting other initiatives including Software 
+Change Management, Deployment and Support, Hardware selection and deployment, and desktop operating system support and deployment Responsible for ensuring the interoperability, standards and quality on all desktop deployments on supported Windows desktop platforms following defined company processes. Creates long term strategies for the Desktop team Assists the team in resolution of issues submitted to the IT Service Desk to ensure effective operations and resolution Provides leadership and mentors less experienced team members on more complex issues on a daily basis Responsible for researching and analyzing technical industry trends to formulate business relevant technology ideas that support BC s strategic plan and business objectives Takes the lead on researching current technical trends. Keeps management and the Desktop team current on these trends. 
+JOB RESPONSIBILITY 
+Worked as Senior Service Desk/Senior helpdesk/Regional Support Engineer 
+Determines the most effective manner to resolve user's technical issue. 
+Engages in research and in-depth troubleshooting to resolve technical issues. 
+Consults with senior staff when necessary Solve complex, non-routine problems and determine innovative solutions through cost/benefit analysis. 
+Initiate escalation procedures to ensure Service Level Agreements are met Ongoing documentation and improvement of processes Perform and monitor daily, weekly and monthly scheduled and automated tasks Provides work direction, problem resolution, and training to other junior members in the team. 
+Own IT incidents regardless of assignment and chase / escalate as necessary to ensure adherence to SLAs and users expectations 
+ORGANIZATIONAL EXPERIENCE IT Officer, Gulf International Bank, Jeddah, KSA 
+May 2014 to present Provide support for computer hardware and peripherals which include but not limited to, configuration, deployment, installation, relocation, testing, assessment and security. 
+Verifying checklist on all desktops and laptops as per Bank Requirements 
+Creating and deployment of Images using Acronis Backup & Smart deploy. 
+Attending calls and managing incidents on HP QC. 
+Assisting staff for BYOD (Bring your own device) Outlook setup on all machines. 
+Vendor management for warranty and licensing issues. 
+McAfee Agent Installation on all devices attached to the network. 
+Attending and completion of tasks as per SLA (Service Level Agreement) 
+Coordinating with HR & Admin while on boarding and resignation of staff, IT data clearance after backup of user s PC 
+Key achievements: Migration of Office from 2003 to 2007 for around 300 Users using Volume Licensing. 
+Key tools used- HP QC with HP ALM Explorer Add-In, Bank Proprietary System to log calls 
+IT Administrator, Protiviti Member Firm, Kuwait Bahrain 
+April 2012- April 2014 Render technical support to 300+ users in the Middle East (Kuwait, Saudi Arabia, Bahrain and 
+UAE). 
+Involved in administration of laptop, management of Active Directory and troubleshooting of hardware & software issues. 
+Configure, install & support desktops, laptops & printers including installation of operating systems & antivirus packages. 
+Upgradation of Office 2003 to Office 2007 on all systems. 
+Asset tracking and inventory management Hardware signoff of outdated systems 
+Creating Image of desktops and laptops and deploying it using Acronis. 
+User account creation in Active Directory and assigning respective folder rights. 
+Ensuring all machines are up to date on Symantec Endpoint Protection 12 Maintain and monitor Domain Users. 
+Stabilized, expanded and protected client network and PC environment. Built new file servers to maximize Web hosting, terminal server, file/print sharing and domain control performance. 
+Researched, recommended and implemented network enhancements that improved system reliability Primary duties included installing and configuring Windows Servers 
+Generate Purchase Orders; update Asset Registry and create users in the active directory Key Achievements- Upgrading all Windows 7 Machines to Service Pack 1 
+Key tools used- Microsoft SharePoint 2003, Manage engine, Symantec Endpoint Protection Computer Engineer, Al Dhahry Group, Saudi Arabia 
+Aug 2010 Mar 2012 Supported and maintained servers and backups 
+Supported Microsoft Office 2007/2010 Shared knowledge with new recruits. 
+Helped migrate services from Windows Server 2003 to Windows Server 2008 R2. 
+PC Support Engineer, Fedora Technologies, India 
+Sep-2008 July 2010 Managed and Administered Windows XP workstations and laptops. 
+Supported and maintained servers Primary duties included installing and configuring Windows Servers. 
+Implementation of McAfee Antivirus 
+Added, maintained and removed objects within Active Directory. 
+IT Helpdesk, Cyber Gace Systems, India 
+June-2007 
+Aug 2008 PROFESSIONAL QUALIFICATIONS 
+B Tech Computer Science & Engineering 
+Certifications - MCSE, MCITP & CCNA . 

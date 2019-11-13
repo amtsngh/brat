@@ -1,0 +1,55 @@
+THIRUMARAN K 
+Sarjapur Road, Bangalore, Karnataka. Ph.: +91 7259 101 101; Email: animaran@gmail.com 
+Summary 
+More than Eighteen Years of progressively responsible lines including Account & Program Management. 
+Responsible for managing large engagement including growth & sustenance, demand forecasting, planning, execution & delivery management, customer interaction and resource management. 
+Strong technical understanding (Java/J2EE) and experience in developing, implementing turnkey software solutions for major software consultancy organizations, with significant record of achievement in advanced technology settings and SEI CMM Level 5 standards using Agile, Scrum. 
+Strong consulting background and experience in selling consulting services to senior executive level. Worked on several proposals with a good win ratio. ITIL trained and COBIT certified. 
+Spearheaded several key initiatives including process improvements initiatives, knowledge management, building & delivering quality & customer service. 
+More than 7 years of international experience; worked with reputed clients like Union Bank of Switzerland (UBS), Aviva Insurance UK, MasterCard International US, Nationwide Insurance US, General Motors US, and Prudential Insurance UK. 
+Education & Certification 
+Master in Business Administration (M.B.A) from BSMED (Bharathiar School of Management), Coimbatore, India, 1995 Bachelor of Science in Physics from Madurai Kamaraj University, India, 1992 Sun Certified Programmer, SCP Scored 93 % in 1999. 
+COBIT 4.1 (Control Objectives for Information and Related Technologies) Certified. 
+Technology / Competencies 
+Programming Languages & Methodologies 
+o Java, JavaBeans, J2EE, EJB2.0, C, XML, HTML, SQL, UML, RAD, .Net, ASP 
+Software/Tools/Applications 
+o Rational Rose, BEA WebLogic Application Server, IBM Websphere, JBoss, Apache, Oracle 8i, Databases & Platforms 
+o Oracle, DB2, SQL Server, UNIX, NT, IBM Mainframes, Windows 2000/NT, RedHat Linux 
+Experience Chronology 
+Cognizant Technology Solutions, Bangalore August 2014 till May 2017 BIRLASOFT Limited, Bangalore, India - 
+July 2011 till July 2014 WIPRO TECHNOLOGIES, Bangalore June-2002 till July-2011 
+Pipal Software, New Delhi Sep-2000 till May-2002 
+Nexus Computers, Global InfoServ Oct-1997 till March-2000 
+Experience Details 
+Sr Manager- Delivery Cognizant. Bangalore (August 2014 May 2017) 
+Managing one of the leading Banking customer from the US with ODC spread across Bangalore, Chennai. 
+Responsible for P&L management for key accounts, including Gross Margin Tracker, Span of Control, Revenue target achievement. 
+Responsible for 
+Consumer Channel program from offshore which includes, Digital Analytics, SFDC, Touch 
+Apply and Secure Xchange, etc. 
+Managing multiple programs which includes technical expertise in Java and .Net projects based on the customer needs. Analysing and approving the technical artefacts and participate and discussions to obtain customer approval. 
+Report generation and chair periodic customer monthly reviews. 
+THIRUMARAN K 
+Account Manager Birlasoft Ltd., - Bangalore (July 2011 July 2014) Client Strategic Accounts for Birlasoft Account Manager of a leading Banking / Insurance customer for Birlasoft. 
+Initiated the project; prepared project plan, resource ramp up plan, execution plan, risk management plan, quality control plan. 
+Also Responsible for P&L management for key accounts, including Gross Margin Tracker, Span of Control, Revenue target achievement. 
+Program / Delivery Manager Wipro Technologies (June 02 July 11) Clients 
+MasterCard International: Responsible for managing the entire engagement for ITRS worth more than $5 million. Driving business growth & the engagement. Recorded a significant percentage of increase in growth in last half year. Managed delivery & escalation. Responsible for demand forecasting. Resources & attrition management Involved in educating & hand holding customer in driving work offshore & taking the engagement level from L1 to Managed Services Model. 
+Union Bank of Switzerland (UBS): Responsible for managing the Legal & Compliance program as Program 
+Delivery Manager. Driving business growth & the engagement. Managing delivery & escalation. Responsible for demand forecasting & Supply Others - status reporting, proactive proposals, showcasing Wipro s capability, by engaging with different practices in Wipro, to mine the account. 
+Aviva Insurance (UK): Responsible for managing the entire Project Stream for FASAT as a Client Program 
+Manager. Driving business growth & the engagement. Managed delivery & escalation. 
+Nationwide Insurance (OH): Involved in writing the proposal to the customer, which was won. Involved in preparing work & cost estimation. Involved in Requirement Gathering & Analysis at onsite. Prepared Project 
+Plan, Configuration Management Plan, Project Execution Plan, Risk management & mitigation/ contingency planning and Quality Control Plan. Involved in design, implementation, testing & deployment. 
+Prudential Plc (UK): Involved in the entire project life cycle. Ensuring the functional correctness and completeness of the product being developed. Involved in the design, implementation & testing. Worked as an Environment Manager managing 16 different environments. 
+Senior Developer Pipal Software Solutions (Jul 01 May 02) 
+Client - Work Station, UK Workstation was a mini ERP application based on the business framework. The front end was developed in java and, components in ejb, Database is SQL Server. 
+Worked on the Server side developing Xml files on the flow from the Database validating it with the Schema s and also on the Component development in ejb and deploying it in Weblogic. 
+Project Engineer Pipal Software Solutions (Sep 00 
+Feb 01) 
+Client - Health Partners, UK: The Client caters to the Health Claims of Football players playing for the various clubs. 
+The players are registered under various schemes (Full/Academy/Professional). 
+Designing the user interface and also involved in server side programming and establishing a connection to the database by using IDS-JDBC Driver. 
+Developer Global Info Serv, Nexus Computers (Oct 97 Mar 00) 
+Client, Multiple Worked in multiple companies as a developer on various technologies including Oracle, Java, and J2EE. 

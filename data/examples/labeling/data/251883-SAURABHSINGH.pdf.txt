@@ -1,0 +1,66 @@
+SAURABH SINGH 148 DDA SFS Flats, Pocket 1, Sector 5, Dwarka Email: saurabh.jamia@gmail.com 
+NEW DELHI 110075 
+Mobile: +91-9718450364 
+EXPERIENCE 
+Junior Associate, Technology at Nagarro Software Pvt Ltd, Gurgaon (since February 2016). 
+EDUCATIONAL QUALIFICATION 
+TECHNICAL KNOWLEDGE 
+Languages: C, C++, Java & Python. 
+Operating System: Windows XP/7/8/8.1 & Ubuntu. 
+Application Software: Microsoft Office & LibreOffice (Ubuntu). 
+Database Server: PostGreSQL & MySQL. 
+Web Framework: Django. 
+Web Server: nGinx. 
+Version Control System: SVN. 
+Message Queue: RabbitMQ & Celery. 
+PROJECTS UNDERTAKEN 
+Project title 
+Weekend Working Application (Ongoing) 
+Python Technology 
+The purpose of this application is to help the Managers in creating a weekend working plan on upcoming Saturdays/Sundays. It makes provision to select different project followed by employees in the project. Manager needs to choose the building/room where the employee needs to come and also whether he requires cab facility or not. It also sends a reminder on Wednesday to all the managers to plan their coming and also sends them the available rooms for the coming weekend. 
+Project Title Entrada Visitor Management System Python Technology 
+The purpose of this application is to manage the visitors/appointments in the organization and also marking the attendance of the employees of the organization. It downloads the data from the Biometric database, performs the calculations and then marks the attendance into the Portal, from where the employees can view their attendance. Entrada enables the HR team to create an appointment for a visitor and enables the guard to create a new visitor and printing a visitor card for the same. Whenever a visitor arrives, his on-the-spot clicked photograph is printed on his Visitor 
+Card. 
+Implemented two-pass Assembly Language Macro Processor Java Technology 
+This project consisted of creating equivalent machine code in two phases namely pass 1 and pass 2. 
+In pass 1, four tables are created namely Symbol table, Literal table, Register Table and Machine 
+Mnemonic Code Table. In pass 2, the missing values in Mnemonic Code Table are filled using the other three tables. 
+Year of Passing Degree/Examination University/Board Marks/CGPA 
+2016 MCA Jamia Millia Islamia 8.5 CGPA 
+2013 B.Sc (H) Computer Science University of Delhi 69.07 % 2009 XII Standard ISC 81.14 % 2007 X Standard ICSE 82.42 % ACHIEVEMENTS AND EXTRA CURRICULAR ACTIVITIES 
+Got 93 and 88 percentile in Aptitude section test conducted by E-litmus and AMCAT respectively. 
+Won 1st prize in 
+Tech Quiz an inter-university event NERDZ 2014 organized by Jamia Hamdard. 
+Won 1st prize in 
+Tech Quiz organized by BACA department of Jamia Millia Islamia. 
+Won 1st prize in Technical Crossword in the annual departmental fest in BCAS, 2013. 
+Won 1st prize in 
+Interface Times event organized by CS.NET society of BCAS, 2012. 
+Won 1st prize in 
+Chhayachitran event organized by CS.NET society of BCAS, 2012. 
+Won 2nd prize in 
+Poster Making Competition organized by Yoga Club of BCAS,2012. 
+Won 3rd prize in AD-MAD competition in the annual inter-college festival 
+SRIJAN 2011 . 
+Won 3rd prize in 
+Poster Making event organized by Z-Gravity society of BCAS, 2012. 
+RESPONSIBILITIES TCS Campus Ambassador for session 2015 2016. 
+Student Placement Co-ordinator in the Placement Team of JMI, 2015. 
+Treasurer in Literary Club of BCAS, University of Delhi -Lyrix 2013. 
+Coordinator in Debate organized by Jamia Millia Islamia War of Words 2014. 
+Coordinator in Treasure Hunt organized by BCAS, University of Delhi Treasure Hunt 2012. 
+OTHER INTERESTS 
+Playing Cricket, Tennis and Carrom. 
+Car-racing games. 
+Watching Movies. 
+PERSONAL INFORMATION 
+Father s Name Mr Fateh Bahadur Singh 
+Mother s Name Mrs Sunita Singh 
+Nationality Indian 
+Date of Birth 01-07-1991 
+Marital Status Single 
+Gender Male 
+Linguistic Proficiency English, Hindi 
+I hereby declare that the above mentioned information is true to the best of my knowledge and I will discharge my duties to the best of my ability and satisfaction of my official superiors. 
+Date: Place: 
+(SAURABH SINGH) 

@@ -1,0 +1,49 @@
+G.BHUVANACHANDRA, #9-5-285, champapet, hyderabad, 500079. 
+Mobile: +91- 8897555639 
+E-mail: gouni.bhuvanachandra@gmail.com Career Objective and Professional Summary 
+Seeking a challenging position where my knowledge and commitment can be best utilized in the successful completion of the tasks assigned. These accomplishments and will-to-work to fullest would drive both me and the company to the apex. I am a web developer, with 1+ years of experience in Web Development using PHP-MySQL, PHP MVC frame works, User interface and WordPress . 
+Summary of Experience 1+ years of experience as Software Developer in PHP-MySQL & Web Technologies. 
+Professional Experience 
+Currently working as Associate Software Engineer in ICE PVT LIMITED from June 2015. 
+My Personal Blog 
+URL 
+: http://phpmake.wordpress.com/ Technical Exposure 
+Languages : C-Language, PHP 
+Web Technologies : HTML, CSS, JavaScript, jQuery, Bootstrap 
+Database : MySQL 
+Frameworks : Codeigniter, WordPress Educational Qualifications 
+B.Tech in April 2014 from Jawaharlal Nehru Institute of Technology, Hyderabad with 75.56%. 
+INTER in March 2010 from Narayana Jr College, Hyderabad with 90.80%. 
+SSC in March 2008 from S.S.S.M. School, with 88.83%. 
+Hobbies 
+Interest to spend my time on internet to get gain knowledge about technical updates. 
+Cooking, Interested in spending time with kids, playing games, singing and listening music Projects Experience Summary: 
+Projects#1: 
+Project Title : Praiseinnovations 
+Environment : PHP, MySQL, jQuery, JavaScript... 
+Team Size : 2, 
+Role : 
+Involved in gathering requirements, Coding, Development 
+Duration : 4 Months, URL : www.praiseinnovation.com, 
+Discription : 
+Praise Innovation Pvt Ltd head quarters is in Hyderabad, This company is established in 2012.we are having branches in Kurnool and Guntur. This Is into Web development and web designing company who is having good experience in the field of Web development. 
+Projects#2: 
+Project Title : Avvao, 
+Environment : PHP, MySQL, JavaScript... 
+Team Size : 4, 
+Role : 
+Involved in gathering requirements, Backend Development By Using Codeigniter In MVC Architecture, 
+Duration : 5 Months, URL : www.avvao.net, 
+Discription 
+: Avvao Is A Marketing website Where Companies That is Public Or Private Can Add There Pots And Marketing Advertisements,So That User Can Able To See There Posts Like Comment And Bookmark That Posts . 
+Projects#3: 
+Project Title : potenzacreative, 
+Environment : Wordpress 
+Team Size : 2, 
+Role : Involved in developing website in backend and creating menus,categories etc 
+Duration : 2 Months, URL : www.potenzacreative.com, 
+Discription : Potenza began as graphic design agency with intensions to provide effective way to brand themselves. 
+DECLARATION: 
+I hereby declare that above information is correct to the best of my knowledge and belief. 
+Place: Hyderabad Signature 
+Date: Gouni Bhuvanachandra 

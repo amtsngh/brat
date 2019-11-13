@@ -1,0 +1,28 @@
+ LAKAVATH RAMMURTHY NAIK rmurthyiitk@gmail.com 
+(+91)-7271065165 Year Degree/Certificate Institute/School CPI/Percentage 2011-2016 BS-MS Dual Degree (Mathematics and Statistics) Indian Institute of Technology, Kanpur 
+6.8/10 2009 Senior Secondary, AP State Board Narayana Educational Institute, Hyderabad 81.20% 2007 Secondary, AP State Board Krishna Veni Talent School, Nalgonda 71.50% Recipient of Innovation in Science Pursuit for Inspired Research 
+Scholarship awarded by Dept. of Science and Technology 
+Presented talk at Ramanujan Memorial Symposium in Mathematics and its Application 13 organized in IIT HYDERABAD Completed Minor in Management with CPI: 7.3/10 Cluster Analysis towards Selection of Panel, Magic9 Media and Analytics Pvt. Ltd, Mumbai 
+May 16 Till date 
+Worked on selection of 33,000 panels among Television owing households for Broadcast Audience Research Council, India Handled the large data sets on day to day basis to build business insights by using statistical tools such as SAS and MS Excel Hands on experience on Census 2011 and IRS 2013 database while installing panels across all over India 
+Analysis of Television Viewing Behaviour, Magic9 Media and Analytics Pvt. Ltd, Mumbai 
+May 16 Aug 16 
+Analysed the time-series data of All Indian Television Viewership from 15 different state groups Decision tree based technique, CHAID was used to infer variable significance on SPSS platform Viewership behaviour of television was monitored and client queries were handled Analysis of Spatial Geometry for Femur Head s Motion, National Taiwan University, Taiwan 
+May 15 July 15 
+Objective was to find the best range of various motions of the femur bone with respect to the centre of the femur head 
+Optical Tracking System was employed to get data of femur movements (Flexion - Extension, Abduction - Adduction, Circumduction) and probe tracking was used to get data from femur head surface Applied algorithms of K-means clustering and Spatial Geometry such as Sphere Fitting and Fitting Circle, Matlab was used for conducting the project Analysis and Optimization for Kinetic Oxidation reaction, Bashkir State University, Russia May 14-July 14 Optimized the performance of module for the reaction: 4-tert-butyl phenol by aqueous solution H202 in presence of titanosilicates Applied Genetic Algorithm and Simulated Annealing based-methods for solving the optimization problems Performed many trials for optimizing the values with respect to time, using MATLAB 
+Language Detecting Software, IIT Kanpur May 13-July 13 
+Analysed the graphs and histograms of Audio signals of different language on MATLAB 
+Studied the behaviour of these signals using Wavelet Toolbox of MATLAB by decomposing the signals into approximations 
+Used different statistical properties of coefficients of approximations and details of wavelet transform of these signals to distinguish between different languages 
+Accolade: Presented in Ramanujan Memorial Symposium in Mathematics and its Application 13 organized in IIT HYDERABAD MATLAB, SPSS, R, SAS, Advanced EXCEL 
+Head, Show-Management - Spectrum (Intra - Film and Media Festival, IIT Kanpur) 14 
+Led a team of 14 students and organized various events with FMC club for the smooth conduction of events during Spectrum Organised lectures and workshop attended by more than 150 students to learn various kinds of Pre and Post-production 
+Ensured the event is promoted to the public as notice board and by regularly updating the website 
+Organized numerous film screenings for entertaining crowd of around 1000 people consisting professors, staffs and students 
+Managed and executed all the event plans at one of the busiest venues and ensured their timely and proper conduction Coordinator, Creative Team - Antaragni (Cultural Festival, IIT Kanpur) 14 
+Led a team of 30 members to organise and embellish one of India s biggest cultural festival Antaragni Coordinated with Show Management and Fine arts club to furnish Student Activity Centre, Auditorium and other event sites 
+Successfully organised shows and creativity profoundly praised with blazing event theme land of wars Executive, Media and publicity - Techkriti (Technical Festival, IIT Kanpur) 13 Jan 14-March 14 Spearheaded operations by recruiting and leading a three-tier team of 15 junior executives and 40 secretaries Scaled up the advertisement of the festiv l by partnering with newspapers like HT, Times of India and Dainik Jagran 
+Collaborated with different electronic media like FM 98.3 and National channels to ensure live coverage of fest for the first time Participated in IEEE workshop on Computational Intelligence: Theories, Applications and Future Direction at IIT Kanpur 
+Won 2nd Place in Photography competition in the Flora Category conducted by IIT Kanpur Alumni 
+Won 2nd Place in the Morse code competition under the Fox hunt event of Techkriti 14 Participated in Mass Number Simultaneous Rubik s cube Solving held by the prestigious Guinness World 

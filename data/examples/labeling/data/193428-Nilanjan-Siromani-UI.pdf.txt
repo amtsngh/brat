@@ -1,0 +1,77 @@
+ Nilanjan Siromani siromani.n@gmail.com 
+Mobile : 9916203934 UI developer with experience in designing, developing and deploying business facing applications. Experience in building both the UI and backend APIS. 
+Competencies UI / frontend technologies 
+Object-Oriented JavaScript programming and developing and working in moules. 
+Writing testable javascript code and using testing frameworks : karma and tape . 
+Knowledge of AngularJs (1.6) and experience in developing business facing responsive client side applications on it. 
+Developing single page applications on 
+Node Js. 
+Developing cross-browser and cross-platform compatible solutions using google material design , bootstrap and css frameworks. 
+Knowledge of hybrid android application development using 
+Ionic Framework and hardware interactions using cordova plugins . 
+Ruby on rails Designing , developing and deploying restful applications in ruby on rails. 
+Designing highly available APIs and integration with front - end to deliver responsive user interactive applications. 
+Designing models and relationships for providing data in form of APIS. 
+Test driven development using rspec and relevant testing frameworks. 
+Setting up apache as reverse proxy for rails based applications running on thin or puma servers. 
+Elasticsearch & kibana Setting up ElasticSearch and Kibana consoles for analytical uses and data visualization. 
+Working knowledge of querying using Apache Lucene. 
+Databases Setting up mysql servers, replication servers and maintenance of the same. 
+Retail Supply Chain 
+Management 
+Sound functional knowledge of the Indian retail industry. 
+Knowledge of the supply chain model as applicable to the implementation worked on for Apple Inc. 
+Knowledge of building application for demand forecasting using mathematical models 
+Work experience 
+5 years , 3 months 
+(Sep 2011 Present) 
+Product Solutions 
+Engineer 2 Flipkart Internet Pvt 
+Limited 
+Aug 2014 - Present 
+2years 1 month Design and development of the primary pricing console that helps business developers apply policies to achieve automated pricing. 
+Design and review of mockups for UI and incorporation of user feedback. 
+Designing and developing rails based systems and user interactive consoles for achieving intelligent automated pricing. 
+Designing and developing REST ful applications and integration of apis Built android application using Ionic framework for monitoring application health 
+alerting and price approval mechanisms. 
+Setting up analytics views over elasticsearch using kibana for data visualization. 
+Senior Systems 
+Engineer 
+Infosys Limited 
+Sep 2011 - Aug 2014 3 years. 
+Part of the implementation and upgrade of the supply chain implementation of Apple 
+Inc, using Oracle Demantra Demand Management. 
+Worked to solve problems related to demand forecasting Implemented self served client based application to show variance of inventory over stock. 
+Rails based job scheduler and user interface for workflow management. 
+Various application monitoring tools Github Projects and contributions. 
+Tasker 
+Task Management System 
+Single Page application for priority based task management , built on AngularJs 1.6 
+Add a new task Set a priority , urgent tasks go on the top of your list. Mark a task as low priority , normal priority or high. Start progress on a given task. Once you complete work , mark it as completed and grab a cookie ! And at any point of time delete a task no longer relevant to you 
+URL : https://github.com/nilanjansiromani/Tasker Valet 
+Automated android app based valet service Android app based car parking valet service. 
+A client app for generation of QR code and another for the valet to scan QR code and maintain a status of parked cars and their locations for easy retrieval. 
+URL : https://github.com/nilanjansiromani/Valet Awards and recognition Flipkart Hackday 7 finalist Built automated car parking solution on android with QR code scanning and status updation, using Ionic and cordova plugins. 
+Infosys Quarterly Awards for performance 
+Sep 2012 Received the Quarterly award and multiple appreciations for stabilizing offshore support and incident resolution for the project on supply chain integration. 
+Extra Curricular Activities 
+Campus Ambassador 
+Open Source University 
+Meetup 
+Sun Microsystems Served as the campus connect ambassador for Sun Microsystem s Open Source University 
+Meetup initiative. 
+Open Web Initiative 
+Mozilla Corporation 
+Involved a large mass of the coding community of the college to contribute to the OPEN-WEB initiative of Mozilla Inc. 
+Vice President Students Council 
+Served the post of the Vice President of the Students Council to organize various cultural events and collaborating with social organizations to promote social responsiveness. 
+Education 
+B.Tech 2007-2011 Computer Science and Engineering. 
+Heritage Institute of Technology , Kolkata , CGPA : 8,17 ISC 2007 , ISC , Science 
+M.C.Kejriwal Vidyapeeth 
+Accumulated an aggregate of 90% in the Science Stream 
+ICSE 2005 
+M.C.Kejriwal Vidyapeeth 
+Accumulated an aggregate of 92.4% 
+Address : 
+#20 , Second main , first cross JCR Layout.Kadubeesanahalli Bangalore 560103 

@@ -1,0 +1,70 @@
+Ramya Shree M S Email :ramyams08@gmail.com 
+Phone : +91-9060079605 
+EXPERIENCE SUMMARY 
+Having 3+ Years of experience in the field of Software Testing (Manual and Automation) with solid understanding of Test Planning, Test Design, Test Execution, Defect Reporting and Tracking. 
+Well acquainted with all phases of SDLC and STLC. 
+Proficient in performing different types of functional testing and non- functional testing. 
+Strong experience in automating Web application using Selenium WebDriver with TestNG framework. 
+Performed continuous integration of automation scripts with Jenkins. 
+Experience in testing SOAP Web Services using SoapUI. 
+Experience in Database testing using Oracle. 
+Good exposure to bug management tools like Bugzilla, Trac. 
+Experience in Agile Scrum framework and V-Model Testing Methodology. 
+TECHNICAL EXPERTISE 
+Bug Management Tools : Bugzilla, Trac. 
+Test Tools 
+: Selenium, SoapUI Web Technologies : HTML, CSS 
+Programming Language : Java 
+Operating System : Microsoft operating system - Windows XP/7/8 
+Database : Oracle , SAP Hana 
+Version Control Tool : Tortoise SVN,GIT WORK EXPERIENCE 
+Currently associated with Tangoe Softek India Pvt LTD as QA Engineer. 
+Worked at IGATE Global Solutions pvt Ltd as Software Engineer from November 2013 till December 2015. 
+EDUCATIONAL CREDENTIALS 
+Pursued Bachelor of Engineering in the field of Information Science from HKBK College of Engineering (affiliated to VTU) with an aggregate of 76%. 
+ORGANISATIONAL EXPERIENCE 
+Project#1 Expense Management 
+System (EMS) 
+Organization: Tangoe 
+Duration: March, 2016 - Present 
+Project Description: Matrix is an IT Asset Management system and services platform designed to transform the management of IT assets, services, and costs to create business value, enable innovation, enhance IT strategies and processes. 
+This IT Asset Management Platform delivers a transformative ROI by enabling visibility, control, and financial management of crucial IT assets, services, and usage to drive down costs within an organization 
+Responsibilities: 
+Involved in test planning and requirements streamlining. 
+Involved in preparation of test scenarios, test cases, test data based on user. 
+Executing test cases per test plan and document test results. 
+Involved in performing GUI and different types of functional testing using black box testing techniques. 
+Involved in Automation framework development using selenium. 
+Writing test cases using element locators, WebDriver methods, Java programming features and TestNG annotations. 
+Perform Database testing using SAP Hana. 
+Automation Scripting for the identified set of functionality test cases from the Regression test suite using Selenium WebDriver. 
+Involved in defect management using Trac. 
+Daily status reporting and attending client calls. 
+Skills : Selenium WebDriver with TestNG framework, Java, Maven, SAP Hana, GIT . 
+Project#2 Risk Management system Organization: Igate Duration: Aug. 2014 Dec.2015 
+Project Description: IBM Open Pages Grace is a Risk Management platform. It is an integrated, risk and compliance platform that enables users to manage risk and regulatory challenges across the enterprise. 
+Responsibilities: 
+Involved in understanding the requirements and getting clarifications from client. 
+Generating test scenarios, test case documentation. 
+Involved in test execution and report defects. 
+Involved in performing different types of functional and system testing. 
+Performed testing of SOAP web services using SOAPUI. 
+Performed testing of mobile applications (Andriod/IOS). 
+Performed Database testing using Oracle. 
+Involved in peer reviews (Test Design). 
+Involved in bug reporting life cycle process using Bugzilla. 
+Skills: Insurance Domain knowledge, Manual testing concepts, Oracle, SoapUI. 
+Project#3 Teammate Organization: Igate Duration: Jan. 2014 Dec.2015 
+Project Description: Teammate 
+An audit management software system. It empowers audit departments of all sizes to spend less time documenting and reviewing and more time providing value-added services. 
+Responsibilities: 
+Understand data models, transformations, source to Target mapping. 
+Performed data validation testing writing SQL queries using Toad. 
+ETL process testing using Informatica ETL tool. 
+Developing Test Matrix to give a better view of testing effort. 
+Skills: Manual testing concepts, DWH/ETL process, Toad, Informatica. 
+PERSONAL PROFILE 
+Name : Ramya Shree M S Date of Birth : 08 March 1992 
+Phone : +91-9060079605 
+Email-id 
+: ramyams08@gmail.com 

@@ -1,0 +1,99 @@
+Shreyas Kumar Mehta Email:mehtakshreyas@gmail.com 
+Mobile: +91 8904116129 CAREER SUMMARY 
+Overall 2.8 years of experience in development of Web & Enterprise applications using Core Java and J2EE Technologies and Web Services. 
+Having extensive experience in API Management and Web services. 
+Deep knowledge of developing Rest services. 
+Good time management skills. 
+To work at my best to quickly and creatively achieve the desired outcome on a project. 
+Excellent communication and interpersonal skills, handling responsibilities independently as well as a proactive team member Strong desire to understand and master new technologies. 
+TECHNICAL EXPERIENCE 
+Programming Languages: 
+Core Java/J2EE 
+Technologies: HTML, CSS, JSP, JDBC, Spring MVC, Spring, Hibernate, XML, Servlet, JUnit 
+Operating Systems: MS Windows XP/7/8 
+Servers: 
+Apache Tomcat 8.0, JBoss, Web Sphere 
+Databases: 
+Oracle 11g, SQL Developer 
+Tools: 
+Eclipse, Maven 
+PROFESSIONAL EXPERIENCE 
+INCTURE TECHNOLOGIES, BANGALORE June 2016 Present 
+Consultant 
+PROJECT 1 TEAM SIZE: 6 
+Project Name: 
+Credit Process 
+Environment: SAP UI5, JavaScript, Rest services, UME services, Web Services, Hibernate, Servlet 
+Detail: 
+Credit Process is a project for automating the work flow and determining whether customer is eligible for credit or not based on various parameters taken into account. There are eight workflow in it : 
+Create, Add subsidiary, increase credit, decrease credit, increase credit, cash customer, renew process and revoke process. The system interacts with various external system such as SAP ECC and catalyst. 
+Project is developed in SAP PO. 
+Key Responsibilities: 
+Understand the complete workflow and interact with the client for business requirement gathering Develop web services using Java interacting with the SQL developer using hibernate. 
+Develop rest services to be used by UI 
+Develop web services from WSDL given by the external system and Post web services by interaction with the external systems. 
+Engaged in calls with the clients and external system contact points to understand the working of external system. 
+Helped skill up the fresher and make them understand the project requirement. 
+Guided and mentored Juniors in development. 
+Develop Servlet class to interact with the external system. 
+INFOSYS LIMITED, BANGALORE June 2014 June 2016 
+System Engineer 
+Key Projects Undertaken: 
+PROJECT 1 DURATION : 6 MONTHS TEAM SIZE: 6 
+Project Name: 
+Triumph UI 
+Environment: 
+Spring MVC 
+Detail: Triumph UI is an application which works on Spring MVC framework. Many functionalities are modified and created in the application according to the requirement of the client. 
+Key Responsibilities: 
+Develop new UI screen with the help of JSP pages and according to the client requirement. 
+Add new controllers to the existing application to support the JSP pages. 
+Make changes in the properties class and utility class according to the requirement of new added 
+JSP pages and UI screen. 
+Make call to the web services to populate data in the new added UI screen. 
+Develop web services and rest services Interact with the data base with help of JPA. 
+PROJECT 2 
+DURATION: 6 MONTHS TEAM SIZE: 2 
+Project Name: 
+Admin Interface 
+Environment: Eclipse, JDBC, JSP, JSF, HTML, CSS 
+Detail:Admin Interface is admin prototype for making changes and addition of various data. It also helps in deletion of data. Various other activities like updating and adding data using excel sheet can be done. 
+Key Responsibilities: 
+Develop J2EE enterprise Application. 
+Create JSP pages using HTML, CSS and JSF. 
+Connect JSP pages with database using JDBC. 
+Perform CRUD operations. 
+PROJECT 3 DURATION: 2 MONTHS TEAM SIZE: 6 
+Project Name: 
+API Management 
+Environment: 
+Apigee, Restful API 
+Detail: API management is used to develop API Proxies according to the business requirement. 
+Key Responsibilities: 
+Develop API proxies with the help of Apigee tool. 
+Develop various policies in the proxies. 
+Call backend service using Rest. 
+Test the API Proxies with given request and response. 
+PROJECT 4 
+DURATION: 5 MONTHS TEAM SIZE: 5 
+Project Name: 
+Virtualization of power Card 
+Environment: HTML, CSS, JQuery, Bootstrap, JavaScript, son 
+Detail:Power cards are Knowledge management best practices which enables teams to implement various activities in their projects. It helps team to develop and engage themselves to learn more and get to know each other well. It leads to innovation and productiveness in team. 
+Key Responsibilities: 
+Design the web pages with HTML, CSS, JavaScript, JQuery and Bootstrap. 
+Design and implement the navigation from one page to another. 
+EDUCATION 
+B.E in Electronics and Communication from Visvesvaraya Technology University, Belgaum with 75.6% (2014). 
+10+2 (PUC) from Silver Hills Higher Secondary School, Calicut with 94.04% (2010). 
+SSLC (10th) from Sri Gujarati Vidhyalaya Higher Secondary School, Calicut with 94.0% (2008). 
+PERSONAL DETAILS 
+DOB: 
+18th NOV 1991 
+Languages Known: Hindi, English, Malayalam and Marwari 
+HOBBIES 
+Playing Cricket 
+Watching TV 
+Traveling 
+I hereby declare that the Information above given are true and to best of my knowledge and belief. 
+Date: Place: [Shreyas Kumar Mehta] 

@@ -1,0 +1,46 @@
+Yash Gupta 
+Contact No.: (+91)9953516067 E-Mail: gupta22.yashh@gmail.com 
+PROFILE SUMMARY 
+A result-oriented professional with over 7 months experience in application development and enhancement, in E-commerce domain application. 
+Working with Gohelper Services as Android Developer from September 2016 to till date. 
+Experience inapplication development, enhancement and bug fixing. 
+KEY RESPONSIBILITIES 
+Developing code as per requirements of analyst for application. 
+Working on gohelper-an E-commerce application for household services. 
+Brainstorming with analyst of company to determine specific requirements and expectations; deliver the build as per expectation of analyst. 
+PROJECTS 
+1. Project Title: gohelper 
+Description: gohelper is an e-commerce application on android operating system by which we provide household services to the end users. In this application, we created four modules Customer Management System(CMS), Cart , Payment (only COD) and Orders. 
+Responsibilities:- 
+- Requirement gathering and analysis. 
+- Functional and technical specifications development. - Project Designing and Implementation of source code. 
+- Perform unit and integration testing as required. 
+2. Project Title: Campus@Hand 
+Description: To automate all handling of college, related to students' information and activities. This web application is divided in two modules one is student access(user) and faculty access(admin). Both the users have different privileges with different interface. 
+Environment: Java Server Pages(JSP), MYSQL with Glassfish server. 
+Responsibilities: 
+- Functional and technical specifications development. 
+TECHNICAL SKILLS 
+Tools & Technologies 
+Languages: Android, Core Java, REST API's, JSON. 
+Tools: Android Studio, Postman . 
+DataBase: MYSQL. 
+Web Technologies : XML, HTML, CSS, Bootstrap. 
+Other Technologies: Retrofit for JSON Parsing and Picasso for load images. 
+EDUCATION 
+B.Tech. (Information Technology) from Dr. APJ Abdul Kalam Technical University 
+Lucknow, in 2016 with Percentage: 70.68. 
+Intermediate from U.P. Board Allahabad, in 2012 with percentage: 74.6. 
+Matriculation from U.P. Board Allahabad, in 2010 with percentage: 44.5. 
+PERSONAL STRENGTH 
+Can work under pressure to meetdeadlines. 
+Dedication and Willingness to walk extra mile toachieve excellence. 
+Feel comfortable with teamplayers. 
+PERSONAL DETAILS 
+Father Name Mohan Lal Gupta 
+Date of Birth 22-MAR-1995 
+Language Hindi, English 
+Address: 74-A , Regal ,Shipra Suncity, Indrapuram., Ghaziabad. 
+DECLARATION 
+I here by declared all above information is true as per my knowledge. 
+Yash Gupta 

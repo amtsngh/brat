@@ -1,0 +1,117 @@
+SUDEEP DINKAR PAWAR 
+Flat No 11, Pancharatna Apartment, Near Sonai School, Bhekrainagar Jakat Naka, Phursungi, Pune 
+Pin code 412308, Maharashtra (India) 
+Contact: +919595909044; 
+E-mail: pawarsudeep@rediffmail.com (mailto:pawarsudeep@rediffmail.com), mr.sudeepetc@rediffmail.com (mailto:mr.sudeepetc@rediffmail.com) EMBEDDED SYSTEM PROFESSIONAL EMBEDDED SOFTWARE/HARDWARE 
+Seeking challenging assignments in field of Electronics/Embedded System/IT/Optoelectronic Devices & Instrumentation/auto ancillary for a career encompassing personal & professional Enhancement. 
+PROFILE 
+Competent, diligent & result oriented professional with 2 years 8 month of experience in the areas of end-to-end Project 
+Implementation, Embedded Systems, Product Design & Development. 
+Extensive experience of working on schematics & layout of industrial products. Well exposed to Embedded C programming, Digital Electronics & Microprocessors & Microcontrollers. 
+Acquire good knowledge of Firmware Programming development, Project experience on protocols I2C, SPI, UART-RS232 and RS485, Linux, Hardware Testing for Microcontroller based systems. Expertise in identify and testing components and troubleshooting and debugging of analog and digital circuits. 
+Experience in PCB design and Development of both single and double sided. Good experience in handling electronic circuit testing equipment such as C.R.O., Frequency analyzer, etc. 
+Good Knowledge of firmware programming on microcontroller like MCU51 family, AVR family, ARM7, ARM Cortex M0 and Having experience of peripherals interfacing like ADC, DAC, EPROM, RTC, KEYPAD, RF Modules, LCD, Seven Segment and sensors. 
+Proven Project management and Team management skills coupled with professional competencies in mobilizing and judiciously managing resources with structured inputs in the domains of project planning, scheduling, designing, development and implementation while ensure project accomplishment within defined time/ cost parameters. 
+Core Competencies 
+Strategic Planning 
+Embedded System Process Improvement 
+Design and Development Implementation & Support 
+Team Management 
+Technical Proficiency 
+Programming Languages C 
+Operating Systems Windows 2000/XP/Vista/7, Linux Fedora/Centos/Ubantu 
+Software Emacs, Vi Editor, GCC Compiler, Keil IDE, Coocox IDE, SPI Flash Programming & Flash Magic, Topwin, AVR Studio, Proteus circuit Simulation, Orcad and Diptrace Professional PCB design tool. 
+PROFESSIONAL EXPERIENCE 
+Wide Bridge Consulting Pvt. Ltd., Pune since Feb 2015 
+Jr. Engineer- Embedded Software. 
+Planning of Entire Project, Handling Embedded Hardware and Software Development. Managed project management initiatives right from the inception stage to finally delivering the project. 
+Initiating, planning, execution, tracking / monitoring, controlling and completing the project as scheduled and in implementing operational processes for increased efficiency. 
+Collaborating with the team members, Vendors to improve Process of Development. 
+Have got good experience in Embedded C Development and Linux 
+Have got good experience in AVR Atmega32 and AT89s52 Programming, Firmware Development. 
+Projects Undertaken 
+Project #1 : 
+Pick To Light System for Production Line. 
+Software used : 
+Keil IDE, AVR Studio, Visual Studio. 
+Hardware Used : Seven Segment, PIR Motion Sensor, LCD, Microcontroller ATmega32 and AT89s52, Keypad, etc. 
+Protocol Used : UART, UDP, Ethernet 
+Job Role 
+: Software Coding and Hardware design for Light Unit which is Slave Device Used in Pick to Light System 
+This is working Based on UART Protocol. 
+Digital System, Ambernath, Mumbai 4 Month 
+Project Engineer 
+Have got good experience in Embedded C Development 
+Interacting with the Clients to facilitate smooth communication to understand and analyze the business requirements and also to identify appropriate solutions for the Clients. 
+Projects Undertaken 
+Project #1 : Load Cell Indicator for Batching Plants. 
+Software used : Keil IDE. 
+Hardware Used : ADC, Instrumental Amplifier, Microcontroller etc. 
+Job Role 
+: Firmware developer. 
+Project #2 : 
+Railway coupon vending Machine for Mumbai local trains 
+Software used : Keil IDE. 
+Hardware Used : Portable printer communicate with MCU, LCD 
+Job Role 
+: Troubleshooting and maintenance and Debugging. 
+Self Employed under Angel Soft Solutions 1 Year 5month 
+Got good experience in Electronic Hardware Assembly for Atomatic Emergency Light. Also Got experience in selling this product. 
+Handled individual small scale project development in Embedded System. 
+Projects Handled 
+Project #1 : Auto Fair meter for Auto Rickshaw Hardware 
+: ARM Cortex M0- STM32F042C6 Controller, Seven Segments. 
+Software : Coocox IDE. 
+Job Role : Firmware Developer. 
+Project #2 : Micro mouse using MCU89s52 Hardware : 
+89s52 controller& IR Sensors 
+Software : 
+Keil IDE, SPI flash 
+Job Role : Design circuit and its layout for PCB. 
+Project #3 : Prepaid Energy Meter. 
+Hardware used : Microcontroller 89s52, 89c2051, EPROM, I2C communication protocol, Opto-coupler, LCD, Relay, 
+Tactile switches etc. 
+Software used : 
+Keil IDE, Flash Magic 
+Job Role : Hardware Developer 
+Project #4 : 
+RF Based Remote Control for Home Appliances. 
+Hardware : 89S52 micro-controller, RF Module, Encoder and Decoder, Relays etc. 
+Software : Keil IDE, SPI flash 
+Code : Written in Embedded C Programming. 
+Job Role : Software and Hardware Developer. 
+Kanaad Electromation and Solution 6 Months 
+Trainee/Internship 
+Had got good experience on Project board development and Microcontroller Development Board, Testing of RF Module and Sensors. 
+Got Trainee Experience on Embedded C programming, Trouble shooting and maintenance experience on industrial projects. 
+Demo Projects Handled 
+Project #1 : 
+Speed Control of DC Motor using AVR ATmega32 
+Software used : AVR Studio 
+Hardware Used : Atmega32 controller, White paper sensor, DC motor, LCD, Control switches, DAC. 
+Job Role : Software code Developer. 
+Project #2 : Wireless Robot using RF Module 
+Hardware used : Microcontroller, DC motors, and RF modules. 
+Software used : Keil IDE 
+Code : 
+Written in Embedded C programming. 
+Job Role : Software & Hardware Developer. 
+Certified Technical Training: 
+Kanaad Technical Training Institute 
+Training on Microcontroller and Peripheral Interfacing. 
+Firmware Programming. 
+The Benchmates, Bangalore Training on Essentials of Linux Os and Linux System 
+Advance C Programming using GCC Compiler and Emacs Editor. 
+EDUCATIONAL CREDENTIALS 
+Pursuing External Degree AMIE in Electronics & Communication, IE India. 
+Pursuing PGDPM (Post Graduate Diploma in Project Management), MIT Distance Education Pune. 
+D.E. in Electronics and Communication Engineering 2005; Board of Technical Education Bangalore, Second Class 
+H.S.C 2002, Maharashtra State Board, Kolhapur Division in Dr. Bapuji Salunkhe College, Miraj 
+S.S.C 2000, Maharashtra State Board, Kolhapur Division, 60% Academic Accolades 
+Microprocessor 8085 competition in Modern College of Engineering, Pune and Robot Race competition in JJMCOE, Jaysingpur. Chessboard competition in JJMCOE, Jaysingpur. 
+Silver medal in National Level Personality General Knowledge Exam of Parabhani. 
+Second prize in Hardware Design on OP-AMP 741 & IC555 in RIT Islampur. 
+Date of Birth: 13th July 1985 
+Permanent Address: A/P: Arag, Station Road, Near Chintamani Math, Tal: Miraj, Dist: Sangli, Pin:-416 401. Maharashtra (India) 
+Languages Known: English, Hindi & Marathi 
+References: Available on request 

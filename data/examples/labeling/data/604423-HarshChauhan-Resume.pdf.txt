@@ -1,0 +1,155 @@
+HARSH H CHAUHAN Information Technologies and Services (+91) 9033441188 
+harsh.h.chauhan@gmail.com 
++ 
+P OIN T S / P A SSION s : 
+Can make Android & Javascript Applications using Kotlin Programming Language. 
+Implemented a project based on Artificial Intelligence and Natural Language Processing (NLP) which can access/control Software (Android, Laptop) + Hardware (Home Automation) by giving voice commands. 
+Worked on OpenNLP and Stanford NLP libraries for building POS, Tokenizer, etc for NLP. 
+Completed a course of Technology Entrepreneurship offered by Stanford University on NovoEd. 
+Learning and researching TensorFlow with Python, Deep Neural Networks and Google ML APIs. 
+Doing Research on Sanskrit and NLP for implementing AI based systems which can understands commands, internally better and more effectively, by using the concept of translation between English and Sanskrit, making proper meaningful sentences interpreted by Computer. 
+LEA RN IN G S : Gujarat Technological 
+University 2014 2017 BACHELOR OF ENGINEERING 
+( In Information Technology ) Ahmedabad Institute of Technology, Gujarat 
+CGPA 8.10 
+(Till 7th Semester) Ganpat University 2011 2014 DIPLOMA ENGINEERING 
+( In Information Technology ) B. S. Patel Polytechnic, Mehsana, Gujarat 
+CGPA 
+7.73 G.S.E.B. 
+2002 2003 S.S.C. 
+Nutan Vidhya Vihar 
+Ahmedabad, Gujarat 
+Percentage 75% 
+P ROF ESSION A L CA P A BILIT IES : PROGRAMMING LANGUAGES 
+C/C++ 
+Java 
+Kotlin 
+Android 
+Python 
+ASP.Net C# PROGRAMMING APPLICATIONS 
+Eclipse/NetBeans Android Studio 
+Arduino IDE 
+Visual Studio 
+Brackets 
+Git 
+SCRIPTING LANGUAGES 
+Javascript VBScript DATABASE MANAGEMENT SYSTEMS MySQL CoachDB 
+MongoDB SQLite SQL Server 
+Oracle 
+MS Access 
+SOFTWARES/OTHERS 
+Adobe Photoshop CC 
+Adobe Illustrator CC 
+Adobe After Effects CC PuTTY Cygwin FileZilla FTP 
+Camtasia Studio 
+FL Studio 11 (Music) 
+Vmware Workstation 
+Sound Forge Pro 11 WEB TECHNOLOGIES: 
+HTML5/CSS3 
+Foundation Framework jQuery AJAX ExpressJS Electron (NodeJS) AngularJS XML WEB SERVERS 
+Tomcat 
+Apache (XAMP) 
+NodeJS PLATFORMS 
+Windows NT/7/8/10 
+Linux (Ubuntu/Fedora) Mac OS X Mavericks 
+Rasbian 
+Ja v a 
+Te c hnol og ie s JSP 
+Servlets 
+Spring Framework 
+Spring Security 
+JDBC 
+Native JSON 
+Jackson JSON 
+Hibernate 
+Struts 
+JPA 
+Design Patterns 
+EJB (Beginner) Maven 
+Gradle 
+HARDWARE 
+Arduino 
+ESP8266 Wi-Fi Module 
+Raspberry PI 
+Android Sensor Programming 
+OTHERS 
+Internet of Things (IoT) 
+Machine Learning 
+Search Engine Optimization (SEO) 
+A CA D EMIC/RESEA RCH 
+P IECES OF WORK : B.E.I.T. 
+Final Year Project 2016 2017 MINNIE 
+A Confront AI 
+Minnie is a very intelligent AI, which responds to user's commands and controls connected things with her, whether it's near or far. She can automate anything which is IoT based things. Minnie is connected to global information networks. 
+This project is the combination of Software + Hardware, including Raspberry PI 
+3 Model B, ESP8266 WiFi Module, Android App, Desktop Application, NodeJS CLI 
+App and also live Dashboard build on PHP. It also uses API.AI s APIs for some features. 
+Technology Stack 
+Android 
+Arduino 
+Java 
+PHP NodeJS Python MySQL 
+CouchDB 
+API.AI 
+B.E.I.T. 
+Design Engineering 
+Project 2014 2016 
+DeliverIt DeliverIt is an Express Online Delivery Service, which can deliver anything whether it's from near or far. We will try every possible thing to be delivered by any strategy, or way possible. We will also intend to do social activities for Hospitals, old-age homes, orphanages by delivering fruits, cloths, etc. We will also deliver smiles, in form of chocolates, flowers, surprise. 
+Technology Stack 
+PHP 
+Magento 
+Android MySQL Diploma Engineering 
+Final Year Project 2013 2014 PRoject 33 :. 
+PRoject 33 is social network, with touch of real things. Users can do lot more here, like Jobs, Initiatives, Connecting to true world around you, managing your careers easily, etc., all under one roof. 
+It's not just social network, but it is a social project focuses more on real life things, activities, and persons. 
+Technology Stack 
+Java 
+JSP/Servlet WebSocket NodeJS Spring Security 
+Java Beans MySQL Personal Project I m 33 
+Android App 
+It is Android App built for Project 33, which works like WhatsApp app. In this users can create account, login, send and receive messages. Users also receives push notifications for messages. 
+Technology Stack 
+Java 
+Android 
+PHP MySQL Async 
+Self-Learning 
+TopCoder SEO 
+Basic To Advance Guide 
+This is guide I made for learning the concepts of Search Engine Optimization (SEO) and for making easier to understand those concepts for anyone. It includes Basic guide which describes principals of SEO at Design level and also includes Advance guide, which describes principals of better SEO at Developer level. 
+ZeroChaos s Product Logo Design 
+I designed and built Brand Identity for ZeroChaos s Vendor Management 
+System product, and also given a name to this product as 
+ZeroInfinity , which itself describes a product that gives perfect solution to vendors from 0 to infinity features. 
+Technology Stack 
+HTML CSS jQuery AJAX 
+Technology Stack 
+Adobe Illustrator 
+Adobe Photoshop MyGov.in Accessible India Campaign Logo Design 
+It s my honor and proud moment for contributing little to Differently-abled people by designing a Logo for government campaign Accessible India . It was organized at MyGov.in by Government of India, for making our environment more accessible for Differently-abled people. 
+Technology Stack 
+Adobe Illustrator 
+Adobe Photoshop 
+Self-Learning Numerology App 
+This is an android app which works on the concept of Numerology and shows lucky numbers, colors, etc. by given Date of birth. 
+Technology Stack 
+Android SQLite Personal Project LENS (Local Email Network System) 
+A mail system in which you can send and receive mails to users of its network. 
+It has capability to handle large size of database. A fully local area network supported, medium level security, compose and check mails like your normal email account. 
+Technology Stack 
+ASP 
+Flash MX 
+MS Access 
+PWS 
+Self-Note: I also worked on Logo Designing, Brand Identity, Business Card Designing, Full stack Web Development, as Freelancer on various websites, TopCoder, 99Designs, Elance, DesignCrowd, DesignContest, etc. 
+A CH IEVEMEN T S : Participated and successfully competed in Qualifying Round in SnackDown 2016 programming competition, hosted by CodeChef. 
+Honored by Government of India to attend the Nation-wide Launch of Accessible India Campaign (for establishing better accessibility for differently-abled people) by Honorable PM on 3rd December 2015, for creating its Logo. 
+Won first prize in Poster Presentation and Project Expo organized by Ahmedabad Institute of Technology, for the project Minnie A Confront AI. 
+Participated and selected as Runner-up in Ganpat University Website Competition in Ganpat University. 
+SOCIA L H A N D LES : LinkedIn: linkedin.com/in/harshchauhan11 TopCoder: topcoder.com/members/harshchauhan 
+CodeChef: codechef.com/users/harshchauhan 
+GitHub: github.com/harshchauhan11 DesignCrowd: designers.designcrowd.com/designer/488857/harsh-c 
+OT H ER ROA D S : Painting, Music Composition, Reading, Dancing, Social Activities, Spiritual Talks, Travelling 
+SOCIA L L I T T L E RESP ON SIBILIT Y : Mera Jahan Dance To Express. Act To Aware. React To Revolt. 
+It is a social movement, working towards various issues of society, by expressing anger, pain, happiness, etc. by Dance, Act or React. We not just visit places for spreading awareness of various problems, but we also try to give spotlight on those problems by making Real situations in Dance or act. 
+THANK YOU FOR CONSIDERATION ! 
+:) 

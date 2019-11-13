@@ -1,0 +1,31 @@
+ YUVANSH GARG 
+Bachelors in Technology Information Technology 
+Email- yuvansh.16@gmail.com 
+Contact- 8860250008 
+Address- 474 Nimri Colony Ashok Vihar Phase IV Delhi - 110052 OBJECTIVE 
+To work for an organisation that provides me the opportunity to improve my skills and knowledge to grow along with organization s objective. 
+EDUCATION 
+YEAR DEGREE INSITUTION AFFLIATION MARKS OBTAINED 
+2017 B.TECH (I.T) MAHARAJA SURAJMAL INSTITUTE OF TECHNOLOGY GGSIPU 78.91% 
+2013 CLASS XII J. D. TYTLER SCHOOL CBSE 82.2% 
+2011 CLASS X J. D. TYTLER SCHOOL CBSE 9.8 CGPA PROJECTS AND INTERNSHIPS 
+Project Title: Opinion Mining and Sentiment Analysis (2017) 
+Description: The purpose of the project was to build a system which would be able to analyse the sentiments of a user through Natural 
+Language Processing. 
+Project Title: Survey on 
+Ontology Merging Operations (2016) 
+Description: The purpose of the survey was to determine which technique and tools used for merging ontologies is the most efficient and accurate. 
+Intern at Centre for Development of Telematics, Mehrauli, Delhi (2016) 
+Project Title: SNMP Manager and Network Topology 
+Description: The purpose of the project was to test types of Network topologies for different SNMP Methods and to get the response from the agent. 
+Project Title: Online Examination System (2015) 
+Description: The purpose of the project was to build a website where companies can conduct their tests and candidates would be able to take tests of different companies on a single platform. 
+Project Title: Sudoku Solver (2014) 
+Description: The purpose of the project was to build a software which takes initial numbers of a Sudoku as input from user and generates the complete solution of the Sudoku. 
+TECHNICAL SKILLS 
+Programming Language C, C++, Java 
+Database Management System - MySQL 
+Web Technologies HTML,CSS HOBBIES 
+Playing Cricket 
+Watching Football 
+Playing Chess 

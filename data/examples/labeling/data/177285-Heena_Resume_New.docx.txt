@@ -1,0 +1,47 @@
+RESUME
+ 
+Heena Tabassum Email-heenatabu9@gmail.com Date of Birth 09-JUN-1994 
+Contact No - +91-7411129879 
+LinkedIn Profile-https://in.linkedin.com/in/heena-tabassum-85828a131 
+CAREER OBJECTIVE 
+To secure a positioning reputed organization where outstanding technical knowledge and coding skills could be utilized to Perk up the companys Profitability and personal growths. 
+ACADEMIC DETAILS Year 
+Degree/Exam Institute Performance (CGPA or %) 2016 B.E.(CSE) 
+All Saints College of Technology, Bhopal 8.19 2011 12th +2
+Girls High School,Japla,Palamau,Jharkhand 64.3% 2009 10th H.S.V High School,Japla,Palamu,Jharkhand 76.7% SOFTWARE AND PROGRAMMING SKILLS Programming with C/C++ 
+Programming with HTML/CSS 
+Programming with Java 
+MS Office Networking Basics 
+PROJECTS AND TRAINING Industrial Training: 
+Training Centre: - HCL CDC (A Subsidiary of HCL INFOSYSTEMS LTD.), BHOPAL Title: - Industrial Training on Managing LAN and WAN Infrastructure using CISCO Devices. 
+Networking Basics 
+The OSI Reference Model 
+The TCP/IP Protocol Stack 
+IP addressing and subnetting Resource Sharing and Remote Access Services 
+Introduction to the Cisco Router 
+Cisco Router Basic Commands 
+Implementing static routing Implementing Network Address Translation [NAT] 
+Implementing Ipv6 addressing and Routing. 
+Minor Project: 
+Title: Campus Recruitment Application 
+Description: In the minor Project, An application in JAVA as CRA. It is developed in JAVA SE using OOPs & Database concepts. This project is an abstract of Online Campus, and able to implement the Major Operations of Existing system Like Login of Student, Login of Recruiter, Querying for incoming campuses in the college etc. 
+My Role: Database Developer 
+Major Project : 
+Title: Online Virtual Machine 
+Description: In this project, we made just a site to open a virtual terminal which provides every user a new shell and their commands should be taken as arguements which runs on our server.We used JSP,MySQL,Dockers/containers .We just connect the Dockers/container to our website to provide a virtual terminal. 
+My Role: Server(Apache Tomcat and Mariadb) and Dockers&Containers installation and configuration. 
+SUBJECTS OF INTEREST 
+Data Structure 
+Operating System 
+Compiler 
+HOBBIES AND INTERESTS Hobbies: 
+Listening Music, Singing. 
+Interests: Coding and Learning. 
+INTER-PERSONAL SKILLS 
+Ambitious, Articulate and Adaptable 
+Enterprising and innovative 
+EXTRA-CURRICULAR ACTIVITIES Attended a one day workshop on Android and Ethical Hacking By All Saints Institute. 
+Contributed as a Participant in Group Dance at All Saints institute. 
+Appeared in the Quiz competition (CS) in Visiontech- 2k15 stands Runner-Up. 
+Wnner in the Project competition (CS) in Visiontech- 2k16. Completed a 6 months Course in C and C++ Programming by Sharma Computer Academy, Bhopal. 
+PLACE:-BANGLORE HEENA TABASSUM 

@@ -1,0 +1,48 @@
+ 1 Anjali Asawa 
+Profile 1.6 years of IT industry experience encompassing a wide range of skill set, roles. 
+Worked in EFMS Team as Developer and provided quick solution on high priority issues. 
+Relative experience with development, customizations and implementation of software applications. 
+Proficient in analyzing and translating business requirements to technical requirements and architecture. 
+Strong database skills, Web service knowledge, Object Oriented Programming and development knowledge 
+Executed software projects for Tele communications Ability to handle multiple tasks and assignments concurrently in cross-functional teams and a flexible team player able to communicate with all levels of personal . 
+Worked extensively on developing persistent layer using JDBC Good Experience in solving High priority issues. 
+Comprehensive Problem Solving Abilities. 
+Good communication skills, interpersonal skills, self-motivated, quick learner, team player. 
+Enthusiastic in learning new things. 
+Skill Set 
+Technologies : 
+CoreJava, Servlet, JSP, Webservices,JavaScript,HTML,ASP.net 
+Tools : 
+SQL Developer, Eclipse, Soap UI, RAD, Putty,XML Marker,QC RDBMS : 
+Oracle 9i, Oracle 10g,MySQL 
+Languages : Java, Oracle SQL 
+O/S : Windows2000/98/XP, LINUX 
+Frameworks : TIBCO Inconcert, Spring, JUnit 
+Servers : 
+WebLogic 
+Education: Master of Technology in Computer Sciences of Engineering - 2015, Amity University, Rajasthan. 
+Bachelor of Engineering in Information Technology - 2013, Poornima institute of Engineering and Technology, Jaipur. 
+Near sr. sec. school, chechani mohalla,pur, bhilwara, 
+rajasthan 311802. 
+Email: anjali15893@gmail.com 
+Phone: +91-9929005550 2 Professional Experience 
+NOV 30,2015 
+Til l date, Associate Software Engineer /AT&T- EFMS 
+IBM India Pvt. Ltd. 
+India Started the carrier in EFMS-MIS(AT&T Application) as a developer. Worked under many seniors in the team. Gained the knowledge and way of perception on how to code from Seniors. Worked on many projects and production issues as well. 
+As a Development team member, worked on many code projects and requirement changes for our IBM US customer AT&T 
+Responsible for Developing code on each release in delivering solutions to our customer. 
+Deliver new and complex high quality solutions to clients in response to varying business requirements. 
+Responsible for handling GUI related requirements for the other projects as well. 
+Responsible for managing scope, planning, tracking, change control, aspects of the project. 
+Responsible for making the project members to test all the code before ST handoff. 
+One of the three SPOCs for the post production support. 
+Utilize in-depth knowledge of functional and Technical experience in ECOM framework to deliver projects in the new framework which reduced much of interface issues. 
+Extensively supported production issues after the deployment. 
+Key projects handled so far include MOW, Porting 
+Supporting the production releases. 
+Environment: Java, J2EE, Linux, Oracle , Weblogic Server, Inconcert 
+Team Size : 5 - 10 Professional Achievements Awarded for Manager Choice Award twice in Augest 2016 and January 2017 in recognition of successfully handling complex projects. 
+Appreciations from both client side and team management after every high priority production issues will be resolves immediately. 
+I, Anjali Asawa, do hereby confirm that the information provided above is true to the best of my knowledge. 
+Place : Bangalore 

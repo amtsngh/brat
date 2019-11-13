@@ -1,0 +1,52 @@
+GUNJAN LOKWANI 
+Digital Marketing Manager gunjanlokwani@hotmail.com +91 8094683701 PROFESSIONAL SUMMARY 
+Expertise leading strategic, web based marketing initiatives Proven commercial acumen as well as practical experience of planning and implementing marketing campaigns 
+In-depth, hands-on knowledge of all components comprising web marketing and development Able to develop targeted web marketing plans that achieve and exceed goals 
+Managed customer acquisition across the digital channels. 
+Ensuring the right platforms is used to deliver the right messages to the right audience at the right time. 
+AREAS OF EXPERTISE 
+Email Campaigns Customer acquisition Google Analytics 
+Google Ad words Interactive Marketing 
+PPC campaigns 
+Marketing Analytics 
+Affiliate Marketing 
+Social Media Optimization 
+TECHNICAL SKILLS 
+Analytic Tools Google Analytics, Omniture, Web Trends 
+SEO Tools Google Web Master 
+Programing Languages Java, PHP 
+Database SQL Server, MySQL Web HTML, CSS, JSP, ASP PROFESSIONAL EXPERIENCE 
+Icronex Ltd (India) 
+Digital Marketing Manager October 2009 - Present 
+Responsible for working with sales and marketing team to maximize activation and retention metrics. 
+Developing and implementing digital customer acquisition campaigns. 
+Ensuring the every campaign is communicated and understood by staff and across the business. 
+Establishing and growing various marketing channels. 
+Optimizing landing pages, websites and page content. 
+Building and nurturing relationships with PR agencies. 
+Silver Arrow Marketing (Costa Rica) 
+Senior Marketing Manager June 2005 - October 2009 Managing Campaign Activity, PPC and affiliate networks Ability to quickly and efficiently solve problems. 
+Experience in the manipulation analysis and use of customer data. 
+Integrating marketing campaigns. 
+Managing budgets to ensure the best use of finances and resources. 
+Experience working with Google Ad-words, Facebook and LinkedIn. 
+Data Infosys Ltd (India) Application Developer June 2000 
+May 2005 
+Projects: 
+XGEN 
+Xgen Plus is a Enterprise class email server software. 
+Technologies: 
+Java Beans, JSP, SQL Server, sendmail, qmail and Postfix 
+Developed email server application using Java beans and JSP forms and SQL Server using sendmail, qmail and Postfix. 
+Data SMS DATASMS is high speed SMS delivery service via your email, enabling you to deploy your messages to (GSM) mobile phones. 
+Technologies: 
+Java Beans, JSP, SQL Server and Postfix 
+Developed SMS application using Java beans, JSP forms, SQL Server and Postfix that can send messages to (GSM) mobile phones. 
+TGS Tours & Travels Pvt. Ltd 
+Online tours and travel booking application 
+Technologies : ASP forms, HTML, CSS, and MySQL Designed and developed online tours and travel ticket booking application using ASP forms and MySQL where user can submit their booking details and get booking confirmations through email. 
+Application was capable to handle large number of traffic on IIS server. 
+EDUCATIONAL QUALIFICATIONS 
+Master s of Science in Information Technology (MSC IT) - Jai Narayan Vyas University 
+Bachelor of Commerce (B.com) - Rajasthan University. 
+Diploma in System Management (DISM) - Aptech Computer Education. 

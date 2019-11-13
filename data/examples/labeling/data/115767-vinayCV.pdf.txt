@@ -1,0 +1,64 @@
+ RESUME 
+VINAY KUMAR B.G Cell: +91 9482295725 
+#93, 1st main road , matadahalli, 
+Email: vinay26791@gmail.com RT nagar post, Bangalore-560032 
+CARREER OBJECTIVE AND VISION 
+To pursue a challenging career in a progressive organization that give me scope to enhance my knowledge towards advanced technology and doing research in the field 
+I also understand the importance of creating highly readable and easily maintainable source code. I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry . 
+TECHNICAL SKILL SET 
+Completed Advanced Diploma in Embedded System Engineering at Vector Institute. 
+Covered Linux Internals, Linux Device Drivers and RTOS. (6Months). 
+Good knowledge of System Programming with C and good understanding of Embedded Linux System Design. 
+Good knowledge of Micro controller (8051) and basic Knowledge of ARM. 
+Basic knowledge of IPC mechanism (using FIFO, Message Queue, Semaphore, Sockets) to achieve synchronization between the processes. 
+Basic knowledge on UART (RS-232), CAN communication protocols. 
+Good knowledge on Xcode and integration of objective c and swift Programming Language : 
+C and assembly language, Objective-C, 
+JSON, SWIFT IDE's : 
+Keil C, Tornado, Xcode. 
+Development Platform 
+: Linux Fedora 2.4.20-8, Linux Ubuntu 2.6.10-8, Mac OSX (10+), WORK EXPERIENCE: 
+iOS Developer, Optime Technologies 
+Dates Employed: 12/08/2015 11/08/2016 
+Performed in a Lead developer role on an enterprise iOS app for VT RADIO, VT, SafeFlash, Fuego . VT Radio App allows to stream through the radio, and download the shows. 
+Featured remote device configuration by subscribing and unsubscribe shows and web services and login with Facebook and google in app settings. 
+VT ,Helping with app redesign. Addressed performance in multiple areas. Added image caching, and tuned calls to Parse. App is built upon Parse backend, and integrating it VT Radio. 
+SafeFlash is to protect and save personal data with password protection with cloud storage Fuego Helping with app redesign. Addressed performance in multiple areas. Added image caching picVidCollage is for making collages of videos and images with music and many options to edit and crop and can share to different social media sites 
+HireCab Passenger and HireCabDriver is for making cab booking for travelling purpose which uses google map and payment facility provided with cash, card and paypal method All Public Art 
+Helping with app redesign. Addressed performance in multiple areas. Added image caching and search artist and there arts in google map 
+Successfully submitted 6 apps to Appstore i.e. HireCab Passenger, HireCab Driver, VT RAdio , VT -veterans news, PicVidCollage, SwingWithUs ACADEMIC PROJECT: 
+Project title : ELECTRIC POLE SHORT CIRCUIT DETECTOR (ESCID) 
+Description: 
+The ESCID explores automatic identification technologies as a way to improve the safety of mass from the current leakage during short circuit conditions. 
+An embedded system is designed to address the problem originated due to short circuit in electric pole. A constant monitoring is done and corrective measures are brought in automatically. LCD panel and buzzer is used to alert the people in vicinity. GSM is used to send messages to electricity board. So the respective department comes to know about the problem that take places in a particular location and take some corrective action against that problem. This circuit could be of wonderful help to our society and can eliminate situation of electric shocks and accidents happening in everyday life. This is cost effective method and easy to install device at almost all location without changing any further circuit of existing electric poles. 
+ACHIEVEMENTS 
+State level koko 
+player Won the zonal level competition of robotics Under Robotic Techno workshop 
+Won the BEST PARER entitled 
+Electric Pole Short Circuit Detection and Rectification in a National Conference on ETVDES 2013 (ISBN No : 978- 81-928203-1-6), Bangalore 
+EDUCATIONAL DETAILS 
+Bachelor of Engineering (B.E): Stream: Electronics and Communications Engineering 
+Institution: BMS Institute of Technology, Bangalore 
+University: Visvesvaraya Technological University 
+Date of Graduation: 
+6TH July 2013 10+2 (2nd PUC): 
+Stream: Physics, Chemistry, Mathematics & Computer Science 
+Institution: 
+Sindhi College, Bangalore 
+Board: Department Of Pre-University Education 
+Date of Graduation: 10TH May 2009 10th (SSLC): 
+Institution: Govt. High School, Bangalore 
+Board: Karnataka Secondary Education Examination Board 
+Date of Graduation: 25TH April 2007 PERSONAL DETAILS 
+Name : Vinay Kumar B.G 
+Father s Name : Bhaskar G 
+Date of Birth : 26th 
+July 1991 
+Nationality : Indian 
+Sex/ Marital Status : Male/ Single 
+Traits : Adaptability, friendly, enthusiastic. 
+Linguistic abilities : English,Hindi,Kanadda,Telugu 
+I hereby declare that the information furnished above is true to the best of my knowledge and belief 
+Place: Bangalore. 
+Date : 
+Vinay Kumar B.G 

@@ -1,0 +1,126 @@
+ Intend to build a career with leading corporate of hi-tech environment with committed & dedicated people, which will help me to explore myself fully and realize my potential. 
+To take a challenging role an automation engineer in a highly technical company where I could utilize my skills in Automation, Functionality testing, Performance testing, Scripting Languages, Server Technologies etc. and use these skills to produce the most advanced solutions. 
+1. Working as Automation engineer in Satmetrix Systems India Pvt. Ltd, Bangalore from November 2015 to till date. 
+2. Worked as Software engineer in ARS Traffic and Transport Technology 
+India Pvt. Ltd, Trivandrum from March 2014 to October 2015. 
+COURSE YEAR INSTITUTION / UNIVERSITY % OF MARK 
+10th Standard 2006 
+Jayasree higher secondary school, Pulpally 90 
+Plus Two 2008 Vijaya higher secondary school, Pulpally 88 B.Tech 
+ECE 
+2013 CUSAT 72 
+Core Experience Automation Testing, Performance Testing, Load testing, Manual Testing, API(JSON) Testing and Software Development 
+Operating Systems Windows XP, Windows 7, Windows 8 Development Tools JMeter, Test Complete 
+Visual Studio, Eclipse 
+SQL Server Management Studio SQLyog 
+Bug Tracking Tools Yodiz, Test Link, Bugzilla, Spira 
+Languages known C#, ASP .NET, HTML, CSS & JavaScript, Java, VB 
+Script 
+Databases SQL Server, MySQL Business Domains Customer Experience Management 
+DON MATHEW 
+Muthirakkalayil 
+Chettapalam PO 
+Pulpally 
+Wayanad, Kerala 
+Cell : +91 9947449589 : +91 7259890893 
+Email: donjosephmathew@gmail.com 
+Date of Birth 
+: 9th June1991 
+Sex 
+: Male 
+Father s Name : Mathew M J 
+Marital Status : Unmarried 
+Nationality : Indian 
+Languages Known : English, Malayalam and Tamil 
+My Strengths 
+Strong leadership skills with an ability to motivate teams in achieving targets and goals. 
+Good communicational and Interpersonal skills 
+Quick learner Personal Interests 
+Driving 
+Music 
+Movies 
+Sports 
+Career Objectives 
+Professional Experience 
+Technical Expertise and Proficiency 
+Core Experience Automation Testing, Performance Testing, Load testing, Manual Testing and Software Development 
+Operating Systems Windows XP, Windows 7, Windows 8 Development Tools JMeter, Test Complete 
+Visual Studio, Eclipse 
+SQL Server Management Studio SQLyog 
+Bug Tracking Tools Yodiz, Test Link, Bugzilla, Spira 
+Languages known C#, ASP .NET, HTML, CSS & JavaScript, Java, VB Script 
+Databases SQL Server ,MySQL Business Domains Customer Experience Management 
+Technical Expertise and Proficiency 
+Educational Qualification 
+Educational Qualification 
+Educational Qualification 
+Educational Qualification 
+Rich work experience in the domain of manual (web and mobile) and automated software testing 
+Excellent in Automation testing using Test Complete(VB Script) and JMeter(Java) 
+Acquainted with Software Test Life cycle (STLC) &Software Development Life Cycle (SDLC) 
+Well versed with all testing concepts and methodologies and good experience in preparation, review, execution of test cases and generate test reports Coordinating smooth implementation of test plans with the development team Conducted testing manually and generated automated test scripts using TC on Web Based Applications and windows applications 
+Generated automated test scripts on JMeter for API testing, performance testing and load testing Experience in various types of testing such as Functional, Regression, Scenario, Client-server based, Web based in environments like Win XP, Vista, Win7 etc. 
+Performed end-to-end testing and manual functionality of Satmetrix customer experience management software and to automate all the functions using Test Complete 
+Analyzed requirements, detailed design and formulated test plan for the functional testing of the application. 
+Performed system, functional, black box, UAT (user acceptance testing), and regression testing Actively involved in reviewing of Test Plan 
+Defining and managing the Quality Assurance program in the organization 
+Well acquainted with Software Testing Life Cycle (STLC), emerging software disciplines like AGILE software development and Extreme Programming 
+Steep knowledge of test case management tools, software testing methodologies, programming, automated functional regression code and stress testing tools Knowledge of Testing Java applications, application development and quality assurance procedures Have 1.9 year of experience in development field (C#, ASP .NET, CSS, JavaScript & OOPS concept) 3 years of experience in software field 
+Satmetrix Systems India Pvt. Ltd 
+Currently working as Automation Engineer PROJECTS: 
+1. NPX (Satmetrix CEM) 
+We re doing CEM when you are systematically and comprehensively collecting feedback from our customers, marrying that feedback to customer data, analyzing it to produce insights, and then using those insights to improve the customer experience in ways that increase loyalty. CEM is More than just a survey tool. Customer feedback is just one piece of CEM, and customer surveys are just one piece of customer feedback. Bring in operational data, unstructured feedback (like social media), and insights captured during conversations to build a complete view of the customer journey. Take the next step by analyzing the data, and follow that with action. CEM empowers us and our employees to create (and sustain) customer delight. 
+Roles: QA automation Work Experience 
+Educational Qualification 
+Work Experience 
+Educational Qualification 
+Functional Skills Set 
+Educational Qualification 
+Functional Skills Set 
+Educational Qualification 
+Automation Tool: Test Complete(VB Script) 
+Responsibilities: Functionality testing, Regression testing and Automation. Preparation of test cases, test plans and their execution 2. Salesforce Connector 
+The Salesforce Connector integrates Satmetrix NPX with Salesforce.com, so Salesforce users can use up-to-date 
+NPX contact and account survey information and charts within their existing Salesforce pages. With Single Sign-on, Salesforce users can also send surveys from and complete survey follow-up from within Salesforce. The integration supports both manual and automated survey nomination in Salesforce. It automatically transfers the contact data to the Satmetrix NPX application and triggers the survey invitations. And the integration also pushes data to Salesforce automatically transferring the survey status and feedback from Satmetrix NPX. Salesforce users can also track and maintain Satmetrix NPX follow-up alerts in their usual workflow. All these are done by different APIs of Satmetrix NPX. 
+Roles: Testing and Automation of APIs. 
+Languages: JMeter(Java) 
+Responsibilities: Functionality testing, Performance testing, Load testing and Automation of all the APIs. 
+Preparation of test cases, test plans and their execution. 
+3. DRIS BOA 
+The aim of DRIS project is to display the bus traffic details such as bus time, bus number, bus route etc. in each bus stop in Netherlands. This project also displays the train timing also in one railway station only. The third party gives the information to us in xml format and we process it and display them in each display. There are two xml formats one is kv7 xml which contains bus details which may sends once in a month or when any changes made in bus number, bus route, bus corporation etc. and the other is kv8 xml which includes the bus timings and any deviations if yes and that sends each day or more than one in a day. 
+a) BOA Website: 
+The Back Office Application (BOA) is a web application on IIS. BOA is used for configuration and maintenance of DHPs and the DS. BOA provides a web interface to display the system s status to the client/operator. BOA maintains displays and provides information on display performance and failure. It also create/provide log files accessible via internet browser to the client/operator. 
+Languages: ASP.NET, C#, JavaScript and MySql 
+Roles: Designer, Developer 
+Responsibilities: Designed the module and implemented the functionality. 
+a) Feed Processor: 
+It is a windows service used to receive the xml files from third party and processor it. It continuously listening for the xml files. If any xml files found, it identify the xml file whether it is kv7 or kv8. It saves one copy and processes it. After processing it update the information in database and this data from database is used to display. 
+Languages: C# and MySql Roles: Developer 
+Responsibilities: Designed the module and implemented the functionality. 
+4. WorkTrax 
+This project was developed for authorizing work agreements between two companies. Users can see and sign work agreements assigned to them. There will be an admin user who will create a work agreement. This work agreement will then be signed by set of stakeholders from both companies in a predefined order. 
+Chairman of Electronics Students Association (ESA) and designed a logo for it Chairman of Robotics Club 
+Organized various programs for ESA and Robotics Club 
+Member of IEEE and ISTE 
+Played a crucial role in the inter college Technical Fest ONYX 4.0 conducted in our college 
+I hereby declare that the above information given by me is correct and true to the best of my knowledge. If I were placed in your esteemed concern I will discharge my duties with at the most sincerity and to your full satisfaction. October 1, 2016 
+Don Mathew a) 
+WorkTrax Website: 
+Website is the main component of this project and is developed in 
+ASP .Net . It is used for creating work agreements, signing work agreements, managing projects and managing stakeholders. 
+Languages: ASP.NET, C#, JavaScript and MSSql 
+Roles: Designer, Developer, Tester 
+Responsibilities: Designed the UI. Developed the pages (Home, Login, Work agreement, manage projects, manage stakeholders and Change Password). Implemented functionalities for the above specified pages. Created stored procedure for all DB operations. 
+b) Reminder Service: 
+It is a windows service used to send reminder mails to all the stakeholders to inform about their pending work agreements. Mail sending will happen once in a day and it will be triggered on a configured time. 
+Languages: C# and MSSql 
+Roles: Designer, Developer, Tester 
+Responsibilities: Designed the module and implemented the functionality. 
+Extra-Curricular Activities 
+Educational Qualification 
+Extra-Curricular Activities 
+Educational Qualification 
+Declaration 
+Educational Qualification 
+Declaration 
+Educational Qualification 

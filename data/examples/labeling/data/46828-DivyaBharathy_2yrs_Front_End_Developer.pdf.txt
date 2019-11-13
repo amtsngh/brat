@@ -1,0 +1,110 @@
+DIVYA BHARATHY. J Mobile +91 950 067 1157 
+E mail 
+divyabharathy1991.db@gmail.com 
+Site No.51,Balu garden,BK Pudur,Coimbatore 641008,Tamil Nadu, India 
+PROFESSIONAL SUMMARY 
+I am a passionate 
+Front End Developer always wanting to learn and experiment new technologies. I have 1.10 yrs industry experience in UI Development and seek challenging assignments in User Interface oriented Projects. 
+WORKING EXPERIENCE 
+Payoda 
+Technologies,Coimbatore July 2014 to present Network Virtualization AngularJS 
+Network Virtualization is a web based application for decoupling physical topology from the logical topology, to allow connectivity between compute and network services regardless of where they may reside within the data center. 
+It has provision to push software images into the device and group them logically for improved and controlled administration of devices in a network. 
+It lets the user view all the devices/ switches in the network using a hierarchical tree structure (D3.js) . Group them logically into several containers , MOVE them between containers, REMOVE switches from the network , RESET the switch configurations. etc 
+We can also push Configurations (Set of CLI commands) known as "Configlets" into any device. Configlets are created and maintained under Configlet Management. 
+Operating System known as "Images" are created and maintained under Image 
+Management.Supported image formats include .swi, .swix etc . Created images are assigned to compatible devices. 
+Devices in a network are maintained in Inventory management. Tasks can be executed or scheduled for later in Task Management.User details ,their Roles and access Privileges are maintained under User and Role Management respectively. 
+Roles & Responsibilities : 
+Worked on all the above modules and significantly contributed from the starting of the project. 
+Developed the front end web page and web forms by using HTML5, CSS3, and JavaScript, taking advantage of the framework AngularJS. 
+Responsible for creating a color code based difference editor for the application to differentiate between the Configurations to be pushed and the existing Configurations. 
+Estimated time to develop approved prototypes and implement the same ,as well as showing to project leads and receiving and implementing any changes or implementation updates Developed AngularJS grids, worked on JSON data , paginations, AngularJS form validations,etc. 
+Made heavy use of Chrome Developer Tools + Firebug to ensure high quality of UI. 
+Performed testing , bug fixing and also worked on browsers compatibility issues. 
+Mentored junior team members. 
+Collaborated with team on implementing new features and UX in an Agile environment 
+IDE Used Eclipse 
+Framework 
+HTML, CSS, JavaScript, jQuery, AngularJs, D3 Js , Underscore Js, 
+Bootstrap etc. 
+Awards & Accomplishments: 
+Won 
+Above & Beyond Award for my excellence in developing a unique color code based difference editor. 
+Won the Best Team Annual Award for maintaining quality of the product by adhering to the process. 
+INDUSTRY BASED WORK EXPERIENCE 
+Intel Technology, Bangalore 6 months academic internship Description 
+Multifunction Wellness System (MWS) 
+Java 
+Multifunction Wellness Accessory is wireless device that fetches health parameters (Eg. ECG) from its sensors which is uploaded using a mobile application. Users can register themselves with the web portal of the product and keep monitoring the measurements and get expert advices on the same. 
+Software/ 
+Technology used Technology 
+Used 
+Servlets, JSP, JavaScript, Spring, Struts , Hibernate, Tiles 
+IDE Used Eclipse Indigo , JMeter Software Used 
+Apache Tomcat 7,jdk1.7,JerseyREST,Protobuf2.3.1 
+Database 
+SQL Yog Community 
+Oracle Retail, Bangalore 6 months academic internship Description 
+Automation Testing of Oracle Retail products VB Script 
+Identify test cases & perform automated tests suits on Oracle Retail products like Store Inventory Management and Warehouse Management to ensure the stability of the products. 
+Software/ 
+Technology used 
+IDE Used 
+Quick Test Professional 
+Framework 
+Mokey 
+OTHER CERTIFICATIONS/ COURSES 
+Passed 1Z0 007 Introduction to Oracle9i: SQL with a score of 98% Passed 1Z0 147 Oracle 9i: Program with PL/SQL with a score of 98% TECHNICAL SKILLS 
+Web Technologies 
+HTML/HTML5, CSS2/CSS3 ,Java script, jQuery, AngularJs, Underscore Js, D3 Js, Jasmine,JSP 
+Responsive Web Designs 
+Bootstrap & Media Queries. 
+RDBMS 
+MySQL, Oracle 11g,SQL 
+Operating System 
+Windows 98/NT/XP/7/8, Linux Mint 
+Software/Tools 
+Net Beans , Eclipse , Microsoft Visual Studio 2010 , MS Office , Libre Office, HP QTP ,SQL Yog, Keil microVision, Multisim 
+EDUCATIONAL QUALIFICATION 
+Graduation (2009 2014) 
+Pursued 5 years integrated MSc. Software Engineering at Department of Computer Technology in Coimbatore Institute of Technology (CIT) , Coimbatore, Tamil Nadu, India. 
+Semest er 
+I II 
+III 
+IV 
+V VI 
+VII VIII 
+IX 
+X CGPA GPA / 10 8.17 8.30 7.79 7.95 8.23 7.90 10 8.62 8.48 9 8.44 
+High School & Higher Secondary School (1997 2009) 
+Course 
+Institution Board 
+Completion 
+By 
+Marks (%) X 
+St. Francis Anglo Indian Girls 
+High School, Coimbatore 
+Anglo Indian 2007 91% XII 
+Stanes Anglo Indian 
+Higher Secondary School, Coimbatore 
+State Board 
+2009 90% EXTRA CURRICULAR ACTIVITIES 
+Runners Up in 
+Payoda Table Tennis Tournament in Mixed Doubles category. 
+Won Third Place in 
+Payoda Rally 
+(Adventure Ride with Treassure Hunt). 
+Chess and Shuttle Badminton Player. PERSONAL DOSSIER 
+Name 
+Divya Bharathy. J 
+Gender Female 
+Date of Birth 31 ST 
+December ,1991 Languages known 
+English, Tamil, Malayalam, Telugu 
+Email 
+divyabharathy1991.db@gmail.com Mobile +91 950 067 1157 DECLARATION 
+I, Divya Bharathy. J, do hereby confirm that the information given above is true to the best of my knowledge. 
+Place: Coimbatore 
+Date: 30 05 2016 
+(Divya Bharathy .J) 

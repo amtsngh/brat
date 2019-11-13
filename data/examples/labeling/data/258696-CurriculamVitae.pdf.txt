@@ -1,0 +1,123 @@
+ CURRICULAM VITAE 
+Declaration: 
+I hereby declare that the above information is correct to the best of my knowledge. 
+OBJECTIVE: To work in a challenging and competitive environment, thus making strong contributions to organizational goals, through continued development of my technical and professional skills. 
+AKANKSHA JOSHI 
+Father 
+: Mr. Kailash Joshi 
+Mother : Mrs. Kamlesh Joshi 
+Address: 
+7/3, Adarsh Nagar, Haldwani, Dist-Nainital, Uttarakhand. 
+PIN-263139 
+Phone: 
+8979590688 e-mail: ajnituk@yahoo.com 
+Personal Data: 
+DOB : 27 MAY 1993 
+Sex : Female 
+Category : General 
+Nationality 
+: Indian 
+Marital Status 
+: Single 
+Language 
+: Hindi, English, Known Hobbies: 
+Listening music, Playing badminton, Swimming, Net surfing. 
+Experience: 
+Working in Ramco Systems, Chennai Office since July 2015. I am working in core RND 
+Department of Aviation (BAVN). I have developed many screens end- to-end starting from scratch. 
+Ramco Systems is a growing company that helped me to learn a lot in such a short span of time. 
+Please find attached the details for the same in next page. 
+Education : 
+B.tech : In Electronics and communication with 
+CGPA 8.92 from NIT Uttarakhand. 
+Senior Secondary : 
+From C.B.S.E. with 78.2% marks. 
+Secondary : From C.B.S.E. with 85.0% marks. 
+Technical Skills : 
+Platforms : Windows (XP, Vista, 7, 8). 
+Languages : SQL Server, Assembly programming - 8085 & 8051 microcontroller, Verilog 
+HDL, Basics of C. 
+Simulators : SQL Profiler, Ansoft HFSS, Quartus II, MATLAB, 8085 Simulator, Protius, Kiel. 
+Achievements : 
+Awarded with 
+Green Horn Award in 
+Pat On Back 
+Ceremony in 2015. 
+Awarded with 
+Sprint 
+Award in 
+Sprint Award 
+Ceremony in 2016. 
+Elected as Head Girl of D.A.V. Centenary Public School, Haldwani. 
+Elected as Cultural Secretary (Council of Student Activities) of the National 
+Institute of Technology, Uttarakhand. 
+Became Champion twice in Uttarakhand State Swimming Championship. 
+Represented Uttarakhand State in National Swimming Championship 
+organized by Swimming Federation of India (2004-2009). 
+Became Champion twice in East Zone Swimming Championship organized by Central Board of Secondary Education (Achieved 23 medals - 10 Gold, 8 Silver & 5 Bronze). 
+Became Champion in Nainital District Swimming Championship (2004- 2010). 
+Stood First in Group Dance, Badminton Women Singles & Mixed Doubles in Sparks 2013, Sparks 2014, Sports Meet 2013 and Sports meet 2014. 
+Projects: 
+Self-programmed Evaluation Board using 8085 microcontroller. 
+Simulation model for Dispersion Control using Fiber Bragg Grating. 
+Clubs-like shaped CPW-fed UWB Antenna. 
+Strength: 
+Systematic, Organized, Hardworking and Dedicated Team Player. 
+Hardware awareness. 
+Zeal to learn new things and work innovatively. 
+Excellent Leadership. 
+Place: HALDWANI AKANKSHA JOSHI 
+Work History: 
+Ramco Systems Limited 
+July2015-Present 
+Working on Finance & Sales module of Aviation product: Includes Book Keeping, Fixed Asset Management, Payables Management, Receivables Management and Sales Management components. 
+Working on Ramco Virtual Works (RVW): Software based on Dot Net platform to be used to change the Front End that can be used to viewed into reporting tools to improve the Usability of the Product features. 
+Projects for Customers: 
+AIR INDIA 
+GOAIR 
+COBHAM 
+BABCOCK 
+CHI RAH PATRIA ADAC CONAIR MALAYSIAN AIRLINES 
+Responsibilities as Developer: 
+Front End Development Ramco Virtual Works (RVW) Software; Back End Development SQL Server 2012. 
+Developed many features in Base Aviation Product requested by different customers as per the Feature Implementation Document provided by the Requirement Engineer and also handled the accounting impact of all the features. 
+Automatic Invoice Generation: The feature has been developed to generate/create Invoice automatically using scanners (e.g. Optical Character Recognition - OCR). 
+Maintain Overhead Rates for Labor Costing: The new feature is developed under Payables Management component. 
+Data Replication: The feature was developed to replicate the data from main or parent company (or company head office) to all other child companies (or branch of company) but the same has been restricted from child companies to parent companies. 
+Debit Documents from another group company for Customer Balance Adjustment: 
+The existing feature was modified and new controls were added to introduce inter- company customer balance adjustment; developed under Receivables Management component. 
+Warranty Evaluation & Disposition: The new feature was developed under Sales 
+Management component. 
+Fight Billing: The new feature was developed under Sales Management component. 
+Bill to Customer in Customer Service & Prepayment Invoice: The new feature was developed under Receivables Management component.. 
+Delivery Charges: The new feature was developed under Payables Management component. 
+Invoice Price Variance: The new feature was developed under Payables 
+Management component. 
+Prepayment Voucher: The existing feature was modified and new controls were added to enable prepayment voucher creation in currency other than Pay Currency and Base Currency and the exchange rate was also calculated accordingly; developed under Payables Management component. 
+CME Depreciation: The existing feature was modified and cumulative depreciation was calculated for the defined fixed assets; developed under Fixed Asset 
+Management component. 
+Match Invoice: The existing feature of matching the invoice with defined tolerance percentage was modified and the tolerance for matching the invoice based on value was also introduced; developed under Payables Management component. 
+Maintain Sundry Payment: The existing screens of Create Sundry Payment 
+Voucher, Edit Sundry Payment Voucher, Authorize Sundry Payment Voucher and View Sundry Payment Voucher were merged and combined under Maintain Sundry 
+Payment Voucher Screen. Also, the Tax information was introduced as part of this feature; developed under Payables Management component. 
+Responsibilities as Support Programmer: 
+Resolved critical customer issues before the due date. 
+Provided data patch/data update to the customers. 
+Additional Responsibilities: 
+Developed a new feature 
+Sale Contract for Project Team (Delivery Team) which was covered as part of Maintenance module. Since, the project had to be delivered to the Customer in a very short span of time, project team asked for resource from Base Development and thus, this critical project was allocated to me. 
+Used Virtual Source Safe (VSS) for storing all the Front End and Back End 
+Objects developed for various enhancements. 
+Provided support in Release Activities based on the objects stored in VSS. 
+Monitored critical customer issues in Rtrack and tracked them till closure. 
+Responsibilities as SQL Developer: 
+Create/Alter stored procedures. 
+Create/Alter table scripts. 
+Create/Alter view scripts. 
+Create/Alter metadata. 
+Create/Alter index. 
+Create/Alter triggers. 
+Used Cursors in Stored Procedures. 
+Trainings: 
+Undergone MS SQL Server training. 
+Undergone RVW software training. 

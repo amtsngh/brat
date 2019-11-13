@@ -1,0 +1,122 @@
+ Kavya Saravagi 
+E-Mail: kavya.saravagi@gmail.com 
+Phone: +91-9902616311, 8871977055. 
+Industry Preference: IT 
+Location Preference: Pune, Mumbai and Bangalore 
+P R O F I L E 
+S U M M A R Y 
+A professional who seek in revamping skills, experience, comprehensive capabilities across all functions, to showcase self as an important asset contributing towards the profitability of the organization. 
+understanding of the basic functional requirements of developing applications and also business knowledge to develop & improve the software accordingly. 
+Programming knowledge of C++, J2SE, iOS, Android, SQL, and XML with skills in using Xcode, Eclipse, Netbeans, Android studio, MySQL connector, Visual Studio 2015 and other tools. 
+Accomplished 
+Software engineering specialization 
+in object oriented 
+approaches and worked upon software development life cycle and agile methodology. 
+Self-motivated person with strong interpersonal skills, leadership skills, analytical, management, and technical skills with the capability to grasp new concepts quickly and utilize the same in a productive manner. 
+C O R E 
+C O M P E T E N C I E S 
+Enterprise Architecture Application Designing Application Development 
+Testing Multi-threaded programing Database development 
+K E Y 
+S T R E N G T H 
+Communication Optimistic Committed with work Amiable 
+Resilient 
+Management and Leadership 
+O R G A N I S A T I O N A L 
+E X P E R I E N C E 
+Mphasis Pvt. Ltd. Nov 15 till now 
+Clients: AIG, JPMC (Banking & Capital Markets & Insurance) and FedEx. 
+Current Role: Associate Software Engineer. 
+Current Location: Mphasis-Bagmane Parin, Banglore India. 
+Project Experience Highlights: Project Name : 
+FastLane 
+Duration : 3 months 
+Technology : iOS-Objective C 
+Role : Worked as a developer. 
+1 
+From the 1 year 4 months experience in organization and previous projects achieved the 
+Description : This is a mobile application for tablets which allows the customer to come to the station and ship with FedEx (without having to fill in a manual airway bill). 
+It includes localization of the application in different languages of Europe. This application allows users to create shipment, select a fedEx courier services from multiple options, place order, payment for created shipment and print thermal receipt. This application uses 
+FedEx RestFul and 
+Soap webservices for the backend. 
+Responsibilities : Performed coding using Xcode, fixed defects and also completed testing and analysis whenever needed. 
+Project Name : 
+DOL Genie 
+Duration : 2 months 
+Technology : iOS-Objective C & JSON. 
+Role : Worked as a developer. 
+Description : 
+This is a mobile application for tablets device. DOL Genie helps you diagnose your organization and pinpoint the areas in your business that you need to be making changes to become compliant to the DOL 
+Fiduciary reform. DOL highlights the changes that an organization has undergone and helps to track each of them. The organization experts can view the area of business by logging with their organization profile information and further view the LOB. 
+Responsibilities : Performed coding using Xcode. 
+Project Name : 
+Automotive Claims Submission and Management 
+Duration : 2 months 
+Technology : iOS-Objective C & Core Data. 
+Role : Worked as a developer. 
+Description : This mobile application to be used by an AIG automotive policy holder to file a damage claim using their mobile device by submitting images of the damaged vehicle captured in a guided manner, and get an estimate of the claim amount covered by their vehicle insurance. 
+The app also allows the user to look up the details of their policies and claims, contact nearby repair shops and emergency services. 
+Responsibilities : Performed coding using Xcode and designed the database by using internal core database. 
+Project Name : BookMyMovie 
+Duration : 1 month 
+Technology : iOS-Objective C & Core Data. 
+Role : Worked as a developer. 
+Description : With BookMyMovie application you can now book tickets for movies in your city. You can book and buy movie tickets online. App also lets you check movie show timings, theatre lists, movie information read reviews & news. Also it provides list of suggested movie by tracking your selections. 
+Responsibilities : Performed coding using Xcode. 2 
+Highlights: 
+Completed the process automation task for the organization. 
+Designed a application with given requirements and fixed defects. 
+Successfully launched the application. 
+Worked on development & improvement of existing domain. 
+I T 
+S K I L L S 
+Operating Systems : iOS,Microsoft Windows & Android. 
+Languages : C/C++, XML, Objective C, Swift, JSON & Core Java. 
+Databases : MySQL, MS Access, Core Data & SQLite. 
+CRM Tools : Nil 
+Products Tools : Xcode, Android studio, Eclipse, Netbeans, CodeBlocks & Visual studio. 
+Application Servers : TCP/IP, UDP, Apache & Tomcat. 
+Software : Microsoft Office, Visual Basic, Photoshop CS6, Team viewer, Dia, GoToMeeting, Edraw Max and Enterprise architect. 
+A C A D E M I C 
+D E T A I L S 
+2015 B.E. (Information Technology - honours) from Rajiv Gandhi Prodyogiki University, Bhopal, Madhya Pradesh with 84.10%. 
+A C A D E M I C 
+P R O J E C T 
+Project Name : CLUE-TO-CLASS APP 
+Duration : 2 month 
+Technology : Android, SQLite 
+Role : Worked as a Team Leader and developer. 
+Description : In this project working as a team; designed an android application for reminding about lectures in schools, colleges and institutes, which can be effectively used, by students as well as teachers. As a Class reminder & scheduler application it generates time-to-time notification for each class based on the stored schedule for particular faculty and its batch of students. 
+Responsibilities : Performed coding using android development kit (android studio) 
+I was responsible for the coding and database work 
+Project Name : 
+AEONICS- A PRO SCHEDULAR 
+Duration : 3 Months 
+Technology : Java and MySql 
+Role : Business Annylst and Developer 
+Description : In this project working as a team; we designed simple, easily Understandable, efficient and portable application to allow any college to generate good quality time tables within seconds taking care of both strong and weak constraints effectively. 
+Responsibilities : Reviewed the customer requirement document Designed software requirement specification document Performed coding using Netbeans 3 
+C E R T I F I C A T E S 
+Sr. 
+No. 
+Certification Area Certification Name Institute / Authority 
+1 Java and J2EE technologies Java/J2EE Profound Edutech 
+Pvt Ltd. Pune 2 iOS App development in objective C iOS app development Mphasis Internal 
+3 C/C++ C/C++ Profound Edutech 
+Pvt Ltd. Pune 4 Software Engineering and software architecture development Software Engineering & Enterprise Architect. 
+Mphasis Internal 5 Android Application Development Android app development Google Developers 
+Group, Ahmedabad. 
+6 TCS-iON Zero Defect Delivery 
+Certificate for IT Manager. 
+TCS-iON Zero Defect 
+Delivery Certificate 
+Tata Consultancy 
+Service- Jabalpur, M.P 
+P E R S O N A L 
+D E T A I L S 
+Passport Details : 
+Passport Number : L5163956 
+Passport Issue date : 25th Sept 2013 
+Passport End Date : 24th Sept 2023 Place of issue : Bhopal 
+Date of Birth: 8 March 1993 
+Languages Known: English and Hindi 4 

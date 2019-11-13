@@ -1,0 +1,69 @@
+Mayur Kalambkar 
+Sr.No. 3/1, Sai Nagar, Behind Avinash Sankul, Himgne KH,Sinhgad Road,Pune-51 
+Mail Id: 
+mayur.kalambkar@gmail.com 
+Mobile: 8806791837 
+CAREER OBJECTIVE: 
+I want to be part of an organization where I can utilize my potential while contributing my best to the organization. 
+SUMMARY 1.5 yrs of experience in analysis, Object Oriented Design, development, implementation and maintenance of software applications using java. 
+Expertise in Object Oriented Programming using Java and J2SE related technologies. 
+Ability to learn and adapt new Technologies in short time. 
+WORK HISTORY 
+Software Engineer Aug 2015 till now Suyash Systems 
+TECHNICAL SKILLS 
+Languages : Java (J2SE), Javascript, SQL 
+Framework : 
+Hibernate 
+Web Technologies : HTML CSS 
+Operating Systems : Windows, 
+Databases : 
+Oracle, MySQL Web/Application Servers : Tomcat,Servlet,JSP IDE / Tools : 
+Eclipse, Net beans, HiediSQL 
+PROFESSIONAL EXPERIENCE 
+Project-I Name : Take It Easy...Make It Easy 
+Client : Suyash Systems 
+Domain : Education 
+Technology : Swing, MySQL, 
+Duration : From Aug 2015 till now 
+Role : Software Engineer 
+Description: 
+Take It Easy..Make IT Easy... this e-learning application. This application makes awareness in the student of rural & urban areas as well as Senior Citizen of rural & urban areas. This is pure desktop application. 
+Roles & Responsibilities: 
+Requirement gathering, Analysis and Implementation for the given problems/User Stories. 
+Analyzed designing, coding, building J2SE applications. 
+Troubleshot application and environment issues. 
+Involve in knowledge transfer from team. 
+Help determine development schedules working with team members. 
+Assist in development for various applications and maintain Quality for same and perform troubleshot to resolve all application issues. 
+Performed all development life cycle quality assurances. 
+Project-II Name : Vender App 
+Client : Suyash Systems 
+Domain : 
+Education 
+Technology : Swing, MySQL, 
+Duration : From Aug 2015 till now 
+Role : Software Engineer 
+Description: 
+This is pure desktop application. This application creates a password & store use information. 
+Roles & Responsibilities: 
+Requirement gathering, Analysis and Implementation for the given problems/User Stories. 
+Analyzed designing, coding, building J2SE applications. 
+Troubleshot application and environment issues. 
+Involve in knowledge transfer from team. 
+Help determine development schedules working with team members. 
+Performed all development life cycle quality assurances. 
+Assist in development for various applications and maintain Quality for same and perform troubleshot to resolve all application issues. 
+Academic Details:- 
+Course Institute/University Year Of Passing Percentage 
+MCA Pune University 2015 60.97 
+BCA Tilak Maharashtra University 2011 56.05 HSC Maharashtra Board 2007 50.16 SSC Maharashtra Board 2004 52.00 PERSONAL PROFILE: 
+Date of Birth : September 22, 1988 
+Nationality : Indian 
+Marital Status : 
+Single 
+Father s Name : Chandrakant 
+Mother s Name : Bharati 
+I hereby declare that the information provided above is true to best of my knowledge and belief. 
+Mayur Kalambkar 
+Date: 
+Name/Signature 

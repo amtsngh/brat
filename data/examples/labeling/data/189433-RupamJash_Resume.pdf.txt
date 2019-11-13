@@ -1,0 +1,49 @@
+SCHOLASTIC RECORD 
+Year Degree Institute CGPA/% Remarks 2016 PGDIE NITIE 8.73/10 1st div. with distinction 2012 B.E. 
+(Electrical Engineering) Bengal Engineering & Science University., Shibpur 80.25 1st Class Hons. 
+2007 12th 
+(WBCHSE) Bhedia High School 80.4 School Topper 
+2005 10th 
+(WBBSE) Bhedia High School 87.8 School Topper 
+WORK EXPERIENCE 
+BlueStone.com Operations Analyst Jun 2016 Present 
+Roles & Responsibilities 
+Analyse and summarise daily, weekly and monthly Supply Chain performance for higher management Introduce strategically fit new initiatives to enhance top-line and bottom-line by analysing past data Analyse historical data to implement kaizen to improve operational lead time and reduction of delivery cost Preparation of SOP and continuous monitoring the same to reduce inventory, control operational cost Monitor and update production TAT at SKU level and logistical TAT at pin code level by analysing past data Coordinate across various departments to deliver critical products on time to customer Achievements 
+Analysed and achieved 15.7% inventory holding cost reduction by implementation of EOQ using R software Achieved 0.3% bottom-line saving & 0.21% top-line increment by updating Diamond weight using GA 
+Analysed and obtained 18.9% packaging material cost reduction by introduction of Procurement Norms using R 
+Analysed Rs.2,65,000 14KT & 22KT stamping inventory reduction by melting of low selling SKU using MS Excel 
+Analysed reduction of Expected Delivery Date by 2 days in 18.2% pin codes & 1 day for Mumbai region using R 
+Using regression model in SPSS software forecasted diamond demand for festive season with 63% accuracy 
+WINTER INTERNSHIP (INDUSTRIAL PROJECT) (6 MONTHS) 
+BlueStone.com Operations Management Jan 2016 May 2016 Project 
+Title: Reduction of Delivery Lead Time in end to end Supply Chain 
+Methodology 
+As-Is analysis of existing production process flow along with number of manpower and their utilization Formulation of mathematical model to reduce overall processing time in job shop environment Formulation of ARENA simulation model to optimize manpower scheduling Achievements 14% reduction in delivery lead time and 6% increased output using ARENA simulation model Formulation of mathematical model to predict the available best resource as per SKU 
+Reduction of 8 hrs. wait time for each SKU along with 24% reduction in WIP SUMMER INTERNSHIP (8 WEEKS) 
+BlueStone.com Logistics Management Apr 2015 May 2015 Project 
+Title: 
+Analyse Expansion of Xtramile Delivery Hubs to Achieve Best Possible SL in Cost effective Manner Methodology 
+As-Is analysis of existing logistical network (focus on Demand, Govt. Tax, Cost and Transit Time) 
+Trade off analysis between Cost vs Lead Time to strategically locate delivery boy using CoG method Achievements 
+Proposed raising no. of delivery boy with optimum utilization, estimated to save 3.65 Lakh INR annually Estimated reduction in delivery lead time by 2 days with increased footprint in numerous pin codes Got Pre Placement Offer from Bluestone.com Project 
+Title: 
+Improvement of 3PL assignment resulting in decreased Turnaround Time and better vendor prioritization Methodology 
+Calculation of lead time for each COD and Prepaid shipments by segregation and sorting database Corroborating distribution of dataset pin code wise and foretelling aging for certain confidence level Achievements Developed excel model to do tradeoff between Cost and Lead Time with better vendor prioritization 
+WORK EXPERIENCE (23 MONTHS) 
+Jindal Stainless Limited Associate Manager, 2*125MW Thermal Power Plant Jul 2012 
+May 2014 Roles & Responsibilities 
+Responsible for uninterrupted operation & Total Productive Maintenance of HV Switchyard equipment Execution of Aggregate Production Plan consistent with Demand Forecast to enhance OEE 
+Enhanced Total Productivity in boiler-turbine area, Coal Handling Plant and MRSS as Shift-In-Charge 
+Reduced Mudas by ensuring the on time delivery of coal to CHP by negotiating with the transporter Site supervision, manpower allocation, 5S implementation and coal quality check Achievements 
+Achieved saving worth Rs.57.5 lakh per annum by eliminating bottlenecks in process 
+Engineered Lean process by trimming DMCCW blade and saving worth Rs.60 lakh per annum Lead a team for installation of 80 MVA transformer which achieved savings worth Rs.7 lakhs 
+Reduced power import by 15% and outgoing inadvertent power by 20% by implementing Kaizen 
+Implemented Just-in-Time (JIT) by reducing the Lead Time of feeding by 20% and frequency by 33% RESEARCH PAPER PUBLICATIONS (3RD International Conference on Industrial Engineering 2015, SVNIT Surat, Gujarat) 
+Paper Title: Hybrid Manufacturing: Production Plan, Cost Optimisation and Location Decisions 
+AWARDS & ACHIEVEMENTS Certifications 
+Certified Supply Chain Analyst by ISCEA Foundation of Data Analysis from edX Introduction of programming using Python from edX B School 
+Competitions 
+International Winners of Ptak Prize Global Case Competition by ISCEA & SCNext National Finalist in Opsneeti, IIMA National Finalist in FTGG, SIBM, Pune 
+National Finalist in Smooth Operator, SIMS, Pune Campus Finalist in Quest, Johnson & Johnson 
+Campus Finalist in Flipkart.com case study National Winners in Ptak Competition, ISCEA RUPAM JASH MALE, DOB: JAN 27TH, 1990 : +91 9930229289 
+rupam.jash.nitie@gmail.com 

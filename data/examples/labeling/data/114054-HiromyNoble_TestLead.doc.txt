@@ -1,0 +1,66 @@
+ HIROMY NOBLE(Software Test Lead)Phone: +91-9035861150Email: hiromy_george@yahoo.co.in 
+To seek a challenging position in a reputed organization, which will provide opportunities for me to apply and hone my technical and leadership skills. 
+Software Professional with 8+ Years of relevant experience in software Testing (Manual & Automation testing) 2+ years of automation testing using Selenium WebDriver & 2+ years in Rational Functional Tester. 
+Proficient in Java scripting using both these tools 
+3+ years of experience in leading test team of 5 members. 
+Test planning, monitoring and control of all testing related activities Extensive experience with Functional testing, Regression testing, System Integration testing, Web testing in an Agile Environment. 
+Proficient in test case analysis & design using different techniques like Boundary value analysis and equivalent partitioning, test case development and test execution 
+Strong in Database queries required for testing (IBM DB2) Excellent experience in different Testing tools like Selenium Web driver(Page Object model with TestNG framework), Rational Functional Tester(IBM ITCL framework), Rational Robot, Rational Quality manager, Rational Team concert Proven strength in Team management activities, Time management, problem solving, coordination and analysis 2007 Dec - Till Date Senior Software Engineer, IBM India, Bangalore 2006 Dec - 2007 Dec Software Engineer, Ness Technologies, Bangalore 2006 Jun - 2006 Dec Software Engineer, Wipro Technologies, Bangalore 2004 Sep 2006 Jun Software Engineer, Shift Four Software Services Pvt. Ltd, Bangalore 
+Automation tools Selenium2-web driver (Page Object model with TestNG framework), Rational Functional Tester 8.6, Rational Robot 
+Database / DB Tools IBM DB2, QMF 11 
+Other Tools Rational Quality Manager, Rational Team Concert, Rational ClearQuestTestManager, Bugzilla, Wiki TRAC, Change Synergy 
+Got QPERT award, as a recognition of Dedication, Commitment, and High Quality Deliverables in project Synergy, Wipro technologies, Bangalore 
+Got Managers choice award 2014 for the practice Expertise sharing and leadership quality, IBM India 
+Got Managers choice award 2015 for the practice Unite to Get it Done Now, IBM India 
+Got selected as Star performer of the project 2014, IBM India 
+Got Managers choice award 2016 for the practice Unite to Get it Done Now, IBM India 
+IBM QSE Symposium Abstract review panel member (2015 & 2016) IBM: e-Procurement - Contractor Sourcing Applications 
+Fixed Price (CSA-FP, CSA-TnM) 
+(Sep 2012 till date) Contractor Sourcing Application (CSA) is a strategic Web-based application used by IBM and pre-defined core suppliers for the procurement of external (supplier) resources to perform services. This project functions based on Agile Process 
+Tools Used: Rational Quality Manager for Test case management, Rational Team Concert (RTC) for Test task management, IBMs Query Management Facility (QMF) for database, IBM Lotus Notes DB and RTC for defect management, Rational Policy Tester to check this web application for compliance to IBM web standards Role in the Project: 
+Test Lead & Automation Test Analyst- Leading a test team of 5 members from different Geo 
+Involve in test planning, monitoring and control of all testing related activities Prepares Test estimation by analyzing the requirements and negotiates with management if required to acquire the necessary time 
+Took ownership and led Selenium implementation and automation for CSA T&M application using Selenium Web driver 
+Prepared detailed plan and effort estimation. Discussed with automation SMEs and agreed up on Selenium framework Used Page Object Model framework (POM) along with TestNG in selenium 
+Ensured proper training is provided to the team 
+Lead and guide the team on analysis, design, implementation and execution of the test cases, test procedures and Selenium test suites 
+Prepare and also peer review the Test Scripts and Manage the team activities by delegating tasks and tracking the same Execute automation scripts, Prepare script execution report and Report to management the hours saved every release Maintain selenium code using source control, GitsHub and upgrade the suite after each production release Test automation using Rational functional Tester for CSA FP using IBM ITCL framework Work in agile environment, Participate in daily scrum and other project related daily meetings 
+Communicate with onsite team and other different teams associated with the project during test execution and defect tracking Support UAT testing by facilitating uat calls with end users and decide on go-live Responsible for interviewing, hiring and placing candidates within the project 
+IBM: 
+Merlin.net Patient Care Network (PCN) for St. Jude Medicals (Mar 2010 
+Feb 2011) 
+Role: Sr. Tester / Test Lead back up Merlin.net is a secure, Internet-based remote care system for patients with implanted medical devices. The system provides a web application and supporting infrastructure to enable Electro-Physiologists and other healthcare clinicians to remotely monitor patients with implanted cardiac devices. 
+Tools Used: Rational Quality Manager for Test case management, Rational Team Concert )RTC) for task assignment & tracking, IBMs Query Management Facility (QMF) for database, IBM Lotus Notes DB for defect management, Ration Functional Tester for regression test suite 
+Responsibilities: 
+Understand application business area and application requirements 
+Responsible for the effort estimation of Test analysis, design & preparation Design & Develop Test cases using RQM, peer review and execute the same 
+Raise defect IBM clear Quest tool and track the same with developers as well as in the tool 
+Investigate the found defect and suggest the possible cause for the defect to developers Regression Testing by Understanding existing automation scripts and maintain/manage them as per changes in requirements or Change requests using Rational Functional Tester 
+Used IBM ITCL framework to implement automation Run test suite for Shakedown, Regression test phases and maintain the suite as and when Change request comes Communicate with onsite team and other different teams like Infra structure support team associated with the project during test execution and defect tracking 
+Participate in technical discussions within the team and with other groups within Business Units associated with the project 
+Provides guidance and mentoring to junior engineers 
+Proactively takes up addition tasks and responsibilities that contributes towards the Quality Process 
+Attend Weekly/monthly meetings for status update 
+Other projects: 
+IBM: Northface Qualex, US (Dec 2007 
+Sep 2008), Role: Sr. Software Tester/Automation tester Tester using IBM Rational Robot automation tool 
+Ness Technologies: Northface Qualex, US (Dec 2006 
+Dec 2007), Role: Software Tester/Automation Tester using IBM Rational Robot automation tool 
+Wipro Technologies: Synergy 
+eRecruitment System (Jun 2006 
+Dec 2006), Role: Software Tester 
+ShiftFour Software Services: Ware House Management System, Complete HealthCare System (Web Application), E-AccuClaim (Sep 2004 
+Jun 2006) 2001-2004 
+Mangalore University, Mangalore, Master of Computer Application (82 %) 1997-2000 Mahatma Gandhi University, Kerala, B.Sc. Computer Science (80 %) 
+1995-1997 Mahatma Gandhi University, Kerala, Pre- Degree Education (76 %) 1995 SSLC, Kerala (80 %) IBM Certified Database Associate - DB2 10.1 Fundamental 
+IBM Design Thinking Practitioner (https://www.youracclaim.com/badges/ac5adc68-ed29-46f7-b7ce-ef7fea87c03a/public_url) ISTQB certified test professional Training in Apache Hadoop, HIVE & PIG 
+Training in ETL development tool 
+Informatica 9 Training in Rational tools : Rational Clear Quest Test Manager, Rational Functional Tester 
+Selenium 2- web drivers, Combinatorial Test design tool for Test Case designing 
+Nationality : Indian 
+Location : Bangalore 
+Sex : Female 
+Marital Status : Married 
+OBJECTIVE SUMMARY 
+PROFESSIONAL EXPERIENCE TECHNICAL SKILLS ACHIEVEMENTS RECENT PROJECTS: 
+EDUCATION PROFESSIONAL TRAINING / CERTIFICATIONS PERSONAL DETAILS 

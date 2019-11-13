@@ -1,0 +1,80 @@
+JATIN GUPTA 
+Contact: +919833816653
+| Email: g.jatin@yahoo.com 
+INFRA MONITORING (EMS/NMS) PROFESSIONAL 
+Experience: Total 
+10 years | EMS Tools 8 years 
+Specialties: HP OML/OVO, NNM, OVPI, Ca Spectrum/eHealth, Nimsoft, Cisco Prime, Solarwind, Opnet, ITIL, EMS Tools 
+Tools Managed: HP OVO, Ca Nimsoft, Solarwinds Network Monitoring Tool, Ca Spectrum/eHealth, Ca SOI, Cisco Prime Monitoring, Riverbed OpNet Netmapper, Appdynamics 
+Core Competencies: Servers and Network Maintenance, Device Configuration, Client/ Vendor Management, Post Sale Project Management, Service Delivery Management, Resource Management, Budget Management, Delivery Assurance, Program Governance, Client Account Management, Cisco Call Management, Program Governance 
+PROFILE SUMMARY 
+Versatile manager with proven experience in managing complex projects and ensuring on time and budget delivery. Drove continuous process improvements to increase service delivery. 
+Skilled in handling multiple projects, project planning, phased deliverables, cost benefit, design and architecture, proposals, resource allocation, requirements definition. 
+Worked on complex end-to-end deliveries across multiple applications. Translated business needs into technology requirements for customers across diverse geographies. 
+ITIL Foundation Certified with deftness in monitoring delivery of high-quality customer experience, elevating customer satisfaction, while adhering to standards and ITIL best practices and methodologies. 
+In-depth understanding of various HP OpenView Tool (OV NNM, OVO/OML) and Ca Tool (Spectrum, eHealth and Nimsoft). 
+Flair for managing multi-cultural, multi-location and diversely skilled teams. 
+An effective communicator with ability to relate to people at any level of business and management. 
+Won Best Performer and Extraordinary Effort awards in the year 2011 and 2012 respectively 
+WORK EXPERIENCE HCL Technologies 
+Associate Consultant 
+Since Nov 2014 
+Significant Highlights: 
+Remains on the cutting edge to plan projects and conduct risk management review to ensure on-time delivery. 
+Led a team of multi-disciplinary professionals and liaised with clients at all stages of the project for securing approvals, finalization of specifications and reporting progress. 
+Displayed excellence in developing policies and procedures to support the achievement of the project objectives. 
+Managed infrastructure monitoring tools in my portfolio including Ca Nimsoft, SOI, Spectrum, eHealth, Solarwinds, Opnet, Cisco Prime Assurance/Infrastructure. 
+Managing team L1s, L2s & L3s (10-15 resources). 
+Key Responsibilities: 
+Delivery Management: Managing delivery of Managed services engagements. Creating project charter outlining scope, goals, deliverables, required resources, budget, and timelines. 
+Client Relationship Management: 
+Serving as the primary contact for assigned corporate clients throughout the implementation process, maintaining a client-focused, yet firm approach with regard to agreed contract. 
+Project Implementation: Guiding the project team using appropriate methods to ensure that they understand their deliverables and know the best practice for delivering them. 
+Stakeholder Management: Leading a team of multi-disciplinary professionals and liaising with the client at all stages of the project for securing approvals, finalization of specifications, reporting progress and final handover. 
+Team Management: Completing several programs and projects with proven track record of planning, strategizing and implementing leading edge delivery models. 
+Incident Management: Handling the service performance and effectively managed day-to-day incidents and problems to successful resolution. 
+Vodafone Shared Services India 
+Assistant Manager IT 
+May 2011 to Nov 2014 
+Key Responsibilities: 
+Played a key role as an active participant of Change Advisory Board(CAB) and Management Advisory Board 
+Identified as an independent member for Root Cause Analysis (Alarm Optimization) for HP OVO applications Managed the overall infrastructure monitoring tools in my portfolio including HP OVO, HP NNM, HP OVPI and BAC/BSM 
+Designed and deployed new applications and enhancements to existing applications, software, as well as operating systems. 
+Proposed and created system design models, specifications, diagrams, and charts to provide direction to system programmer and development teams. 
+Shouldered responsibility to define technical requirements and document plans for project lifecycle deployment including the scheduling of infrastructure deliverables 
+Monitored IT procedures with oversight for administration of user permissions, security levels & technical accountabilities. 
+Facilitated as primary POC for any new project, to understand the needs of the business and suggested the infrastructure needed for the applications/functionality. 
+Six Sigma Consultant, Pune 
+Tools Admin Oct 2010 to April 2011 
+Key Responsibilities: 
+Identified issues and challenges, facilitated improvement projects, measured and validated project results, and ensured successful implementation of all facets of process improvements or changes identified. Executed a data-driven, statistical approach to problem solving, including gathering, analyzing and reporting data. 
+Enabled stable operations by defining appropriate metrics to gage processes performance and by deriving actionable insights. Drove Lean Six Sigma quality culture in the organization through various lean six sigma trainings. 
+Presented project analysis and findings to senior leadership to obtain the approval, funding and other requirements Immunity Networks, Mumbai 
+Technical Consultant Oct 2009 to Jun 2010 
+Training Attended: RSA envision, RSA DLP 
+Projects Undertaken: Sunflag Iron & Steel, Reliance communication, Famy Care, Parekh Group 
+Key Responsibilities: 
+Created business requirement documents to ensure technical specifications can be developed. Documented specification, user manuals, procedures and other relevant information. 
+Developed strong working relationships with key customer contacts and served as their main point of contact for product knowledge and implementation efforts. 
+Provided technical expertise in developing solutions to complex software engineering problems, which require frequent use of ingenuity and creativity. 
+Developed technical Pre-Sales solutions and worked in close coordination with the Sales team in formulating and building up proposal knowledge. 
+Wipro InfoTech (contract) 
+Application Support Jan 2007 to Jan 2009 
+Client: Dena Bank / ICICI Bank/ HDFC Bank, Mumbai 
+Key Responsibilities: 
+Worked effectively with the application domain experts within the established process framework, and demonstrated a set of fundamental web development skills. Shouldered accountability to manage team of 5 to 10 members. 
+Engaged in handling activities entailing CA Spectrum 8.0, HP OpenView NNM 7, CA eHealth 6.0, HP OVPI 7, CA NSM 3.1, CA ServiceDesk r11, MS SQL and Backup Systems- Veritas Netbackup. 
+Designed detailed description of user needs. Worked with technical resources to develop, test, and document software. Provided technical assistance to other developers as needed. 
+Coordinated and collaborated with functional users and IT staff to find solutions to problems identified in testing, resolved issues during systems upgrades, ensured that requirements documentation is easily translated into UAT. 
+Inmac Computers, Mumbai 
+System / Network Administrator Jun 2006 to Jan 2007 
+Client: Indoco Remedies, Mumbai 
+Key Responsibilities: 
+Analyzed and researched industry tools and knowledge to discover ways to improve efficiency of IT applications and techniques. Handled network for 30-40 branches and maintained LAN for 150-200 System. 
+Interacted with clients for requirement gathering, system analysis and finalizing technical / functional specifications and high level design documents for the project. 
+Handled all kind of Network Printers, Active Directory and Program packages on Database Server. Engaged in installation and maintenance of SQL server. 
+Worked in Windows NT and 2003 Server, along with Database, Mail (Spear Mail) Server and Backup (with Ultrim drive Autoloader) Server with Veritas backup. 
+EDUCATION 
+2013 MBA, IGIMT, 70.33% || 2005 Bachelor in Commerce, DAVV, Indore 
+Courses: Cisco Certified Network Associate (CCNA ID# CSCO11153325), Cisco Certified Network Professional (CCNP), Microsoft Certified Professional (MCP ID# 3416242), ITIL Foundation Certified (ITIL ID: 4728394), MCSA 
+Personal Details: Date of Birth: 31st May, 1983 | Address: H-605 Prateek Laurel Sector 12, Noida, UP, 201301 

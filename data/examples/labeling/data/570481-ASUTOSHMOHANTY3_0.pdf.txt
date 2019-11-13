@@ -1,0 +1,117 @@
+Asutosh Mohanty 
+Mob: - 7077549517 / 9778388872 
+Email: - asutoshmohanty.kiit0409@gmail.com 
+PROFESSIONAL SUMMARY 
+3 years of experience in Information Technology with a well versed background in Informatica Developer + Manual Testing in ETL Tool Informatica Power Center Designer 9.0/8.6.1. 
+Extensively worked on Informatica Power Center Transformations such as Source Qualifier, Lookup, Filter, Expression, Router, Normalizer, Joiner, Update Strategy, Rank, Aggregator, Sorter, and Sequence Generator. 
+Proficiency in using Informatica PowerCenter tool to design data conversions from wide variety of sources Data warehousing concepts, dimensional Star Schema and Snowflakes Schema methodologies Extensively worked with Databases (SQL/SQL PLUS/SQL Oracle Developer) in various environments. 
+Proficient in using Informatica workflow manager, Workflow monitor to create, schedule and control workflows, tasks, and sessions Experience in Generating Reports with Crystal Reports and Business Objects. 
+Extensive work in ETL process consisting of data transformation, data sourcing, mapping, conversion and loading. 
+Extensively used SQL to write queries, functions. 
+Involved in Performance tuning of the informatica (with components for optimization). 
+Experience in complete life- cycle of test case design, test plans, test execution, defect management. 
+Experience in UNIX. 
+Proficient in understanding business processes / requirements and translating them into technical requirements. 
+Team Player with excellent communication, analytical, verbal, writing and interpersonal skills 
+EDUCATIONAL QUALIFICATIONS 
+ Bachelor of Engineering in Electronics and communications with 84.10% from KIIT University, India  Master in Technology in Communication Systems Engineering with 82.50% from KIIT University,India TECHNICAL SKIILS IN IT 
+Data Warehousing 
+ETL 
+Informatica PowerCenter 9.0/8.6.1 (Source Analyzer, Warehouse Designer, Transformation Developer, Mapplet Designer, Mapping Designer, Repository Manager, Workflow Manager, Workflow Monitor and Informatica Server) ETL, Repository, Metadata, DataMart, FACT & Dimensions tables. 
+DATA MODELING DIMENSIONAL MODELING (STAR SCHEMA, SNOW-FLAKE, FACT & DIMENSIONS tables) Databases Oracle 10g,OLTP 
+Programming SQL, PL/SQL,SQL Plus, Oracle SQL developer 
+Tools Test tools QTP,Test Case Design 
+Reporting Tools SAP BI Crystal report Environment 
+UNIX, Windows 2000/NT.Windows XP PROFESSIONAL EXPERIENCE CONTOURS 
+Project:-Orient Overseas Container Line Pvt Ltd. [May 2016 
+Till date] 
+[A division of Hapag-Llyod] Role: - Software Engineer Company: - Sunjray Infosystems Pvt Ltd 
+Orient Overseas Container Line (OOCL) is a Hong Kong-based container shipping and logistics service company.OOCL is one of the world's largest integrated international container transportation, logistics and terminal companies, including Grand Alliance member line vessels, feeder and OOCL-owned and operated vessels. OOCL has vessels of different classes with capacity varying from container standard dimensions 8ft, 10ft, 20ft and 40ft and ice-class vessels for extreme weather conditions. OOCL offers around 78 weekly services around the world Linking Asia, Europe, North America, the Mediterranean, the Indian sub-continent. It needs to find a better way to allocate empty containers that are transported from the Middle East to ports in the Far East, subject to vessel schedules and capacities. 
+A schema is envisaged with Informatica platform to design the whole architecture. Each container has specifications measured in ft/m likely Length, width, height, type, floor area cross section, weight, cubic capacity, and price in US dollars. 
+Responsibilities: 
+Responsible for definition, development and testing of processes/programs necessary to extract data from operational databases, Transform and cleanse data, and Load it into data warehouse using Informatica Power center. 
+Created the repository manager, users, user groups and their access profiles. 
+Extracted data from different sources like Sql server, flat files and loaded into DWH 
+Created complex mappings in Power Center Designer using Expression, Filter, Sequence Generator, Update 
+Strategy, Joiner and Router transformations. 
+Created connected and unconnected Lookup transformations to look up the data from the source and target tables. 
+Wrote SQL Quesries with GROUP BY, ORDER BY in sync with project for implementing business rules and transformations 
+Used the update strategy to effectively migrate data from source to target 
+Developed and documented Mappings/Transformations, Audit procedures and Informatica sessions. 
+Used Informatica Power Center Designer Workflow to create sessions and run the logic embedded in the mappings. 
+Created test cases and completed unit, integration and system tests for Data warehouse 
+Environment: Informatica PowerCenter 9.0/8.6.1 (Repository Manger, Designer, Workflow Monitor, Workflow 
+Manager), XML Files,CSV Files, Flat files, Sql server, sql, pl/sql, Win 2000. 
+Project:-CLDM7upgradation & BBCR 
+[April 2014 May 2016] 
+Nova Broadband (Irish ISP Provider) 
+Role: - Software Engineer 
+Company: - Sunjray Infosystems Pvt Ltd 
+Nova Broadband is a different kind of Internet Service Provider and is dedicated to providing really great internet services to residential and business customers in Ireland. Nova broadband has embarked on a transformation program to implement latest Communications Logical Data Model, CLDM12 and replacing the current ETL IBM Data Stage with Informatica and Ab Initio. The main objective of this transformation is near real time data loading into Enterprise Data 
+Warehouse, EDW in a effective fast way model. 
+Currently, EDW presents data in several broadband schema design plates, like My Wave 2M, My wave 5M, My wave 10M, My Wave 20M. All the data from various source systems will be captured and published to Application layer via Acquire & Publish layers using the Golden-Gate/Non Golden-Gated principles. The business rules are applied in the application layers using Informatica Flat files and DB files, AbInitio xfrs and data s are populated to the target tables. 
+My Wave Broadband plans are utilized for different internet plan schemes architecture in DW schema. 
+This project BBCR (BROAD BAND CUSTOMER REPORTING) is about implementing a centralized repository containing customer data, by consolidating discreet customer information from a large number of arrayed systems and to generate reports. Subsequently, this data is loaded into CRM systems and also fed to other systems, as requested. The project started around June 2014 and since then, I have been handling various developments and testing processes involved in this project. 
+Responsibilities: 
+Responsible for gathering suit of business requirements, Prepare Source to Target Mapping specifications and Transformation rules. 
+Created Source to Target Mapping Specification Document 
+Created complex mappings in Power Center Designer using Expression, Filter, Sequence Generator, Update 
+Strategy, Joiner and Router transformations. 
+Created connected and unconnected Lookup transformations to look up the data from the source and target tables Used the update strategy to effectively migrate data from source to target Created flat files with Header, Detail and Footer. 
+Involved in ETL Testing for sources, targets, mappings, sessions and server Developed and documented Mappings/Transformations, Audit procedures and Informatica sessions. 
+Used Informatica Power Center Workflow to create sessions and run the logic embedded in the mappings. 
+Used Command tasks in the session to merge flat files. 
+Created test cases and completed unit, integration and system tests for Data warehouse Actively Participated in Team meetings and discussions to propose the solutions to the problems 
+Environment: Informatica PowerCenter 8.6.1 (Repository Manger, Designer, Workflow Monitor, Workflow Manager), Abinitio 3.1,Oracle 10g, Flat files, sql, pl/sql, Win 2000 
+Adarsha College of Engineering [2012 2014] 
+Role: - Guest faculty in the ETC Dept. 
+Responsibilities: 
+Lecture in EMT, Antenna and Microwave Devices 
+Involved in lecturing various CAD Tools like ANSYS/ANSOFT 
+Subsidiary Classes for PSU/IES Entrance Exams 
+Kalinga Institute Of industrial Technology [2009 2011] 
+Role: - Co-ordinator in Microwave/DSP /Antenna wave propagation Lab 
+Responsibilities: 
+Responsible for Antenna Wave/ Microwave Test bench set up Involved in lecturing various CAD Tools like ANSYS/ANSOFT 
+Prototype modeling of different Antenna models in HFSS and MWS 
+Mindtree / Aztecsoft Pvt Ltd. [Jan 2009 Aug 2009] 
+Client: - Archway Communications 
+Product: - Safir Mail Role: - Test engineer 
+URL: -http://www.archway.net/ 
+Archway is an organization which provides satellite communication products. SEEDS is a webmail application which contains two versons Silver and Platinum. Silver version contains one mail server and Platinum contains two mail servers 
+SSE and SSX.User can send the signed and encrypted mails through Silver and Platinum versions. 
+Responsibilities: 
+Responsible for requirement analysis of the application Involved in the preparation of test scripts for the use cases Ensured timely deliveries of work requests 
+Involved coding and review of the system Responsible for preparation of user entry screens Designing test cases and test case execution 
+Involved in Functionality testing Installation Testing 
+Regression Testing 
+System testing 
+Compatibility Testing 
+UI testing 
+Automation tools : HP Load runner, Quick Test Professional (Induction Program Session) 
+Environment: 
+Server Testing, Windows XP, .NET Framework compatibility testing 
+COMPUTER AIDED DESIGN SKILLS  EADS (Electronics Automation Design Software) 
+HFSS (High Frequency Structure Simulator Ver.13) 
+Implementation with coaxial feed, symmetric and asymmetric stripline feed, microstrip patch antenna, UWB prototypes simulations, MIMO Antennas, Fractal Antenna  CAD Tools 
+Computer Simulation Technology Microwave Studio (2010) Implementation with Planar and Fractal designing of antenna, UWB prototypes simulations 
+ Mathematical Computing Tool 
+Mat lab (R2010a) 
+Implementation with numerical based and empirical formulae of mathematical modeling of equations and simulations  Graphical Analysis Tool 
+Origin Lab 
+ACADEMIA PROJECTS 
+Project 1:- Design of a UHF Rectangular patch Antenna implemented with Radio Frequency 
+Identification and Detection Technology (Thesis) 
+(Implementation Tool and Platform: - HFSS Ver. 10, Windows 7) Project 2:- Compact Square Microstrip patch Antenna coupled with center-fed Symmetrical T-Shaped Patch for 
+Wideband Applications (Support project) (Implementation Tool and Platform: - CST MWS Suite Ver.12, Windows 7) Project 3:- A Multiband E-Shaped Symmetrical rectangular Microstrip Patch Antenna loaded with symmetrical 
+U-Shaped Slots for WLAN applications (Support Project) 
+(Implementation Tool and Platform: - HFSS Ver.12, Windows 7) 
+A Compact Miniaturized Circular UWB Antenna with Slotted-Ground Structure (For IEEE Conference / Publications) (Implementation Tool and Platform: - HFSS Ver.12, Windows 7) 
+Hexagonal-fed Fractal UWB Antenna using Dodecagonal Geometry with bandwidth enhancement (For IEEE 
+Conference / Publications) 
+(Implementation Tool and Platform: - HFSS Ver.12, Windows 7) 
+ACADEMIA CONTOUR 
+Subjects taught:-  Analog Electronics  Electro Magnetic Theory 
+ Optical Fibre Communications  Basic Electronics  Microwave Communications  Antenna Wave Propagation 
+PERSONAL DETAILS 
+NAME: - ASUTOSH MOHANTY MARITAL STATUS: - SINGLE PERMANENT ADDRESS: - C/o.R.K.Mohanty,Plot-276, Nayapalli, Near Susila Apartment, Back side of Kalinga stadium, Bhubaneswar-751012, Dist-Khurda, Odisha,INDIA 

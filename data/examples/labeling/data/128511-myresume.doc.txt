@@ -1,0 +1,57 @@
+ RESUME Siva Sankari J Mobile:+8281229506 E-mail:chanki2819@gmail.com 
+Objective 
+Looking for 
+a challenging 
+career which demands the best of my professional ability in terms of technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge. 
+Work experience WordPress - 2month experience in Brandsource Technologies 
+Project 
+Title 
+A 
+Biometrics Approach Based On Finger Vein For Individual Personal Identification 
+Description 
+In the proposed system design the new approach in the biometrics, i.e., the finger-vein recognition system, which achieves significantly improved performance over previously proposed approaches such as finger texture and fingerprint recognition system.During training, the features are extracted for all the images present in the database. During testing, the features are extracted for single query input image.The test image feature has been compared with the trained features and thus the matching process was done. If the features are matched means, the corresponding person was recognized and result as genuine.If it was not matched means, it will result as fake. 
+Mini Project 
+Foreign trading system Passport automation system Area Of Interest 
+Data Base Management System(DBMS). 
+Object Oriented Programming Structure Concepts. 
+Web Designing Concepts Usings HTML,PHP. 
+Extracurricular activities Won the First Grade in State Level THULIR Scientific Awareness Talent Test 
+Conducted By Tamilnadu Science Forum. 
+Member of NSS. 
+Academic 
+Qualifications 
+Course Of Study Institute Board/University 
+Percentage/ Cgp Year Of Passing 
+B.E 
+(CSE) National college of Engineering,Tirunelveli. 
+Anna University 6.6% 2012-2016 HSC Amala convent Girls Hr.sec.school,Thuckalay. 
+StateBoard 76% 2011-2012 SSLC Amala convent Girls Hr.sec.school,Thuckalay. 
+StateBoard 88% 2009-2010 Technical Proficiency 
+Operating Systems 
+: Windows 
+Programming Languages : Java, C, C++ 
+Web Technologies : HTML,PHP,Wordpress, Microsoft Technologies 
+: VB Co-Curricular Activities 
+Attended one day Workshop in Mobile security at CMC Academy(CMC Ltd, A subsidiary of TCS Ltd)- Tirunelveli. 
+Undergone training about software development skills in LansA Informatics Pvt Ltd Coimbatore. Gained Knowledge about Mobile Security System in CMC Academy(CMC Ltd, A subsidiary of TCS Ltd)- Tirunelveli. 
+Participated Debugging in intra department technical symposium at national college of engineering-Tirunelveli. 
+Personal Strength 
+Easy understanding capability 
+Hardworking 
+Confident 
+Personal 
+Profile 
+Fathers Name 
+: Mr.Jaya Prakaash S 
+Date Of Birth & Age 
+: 14.06.1995 & 21 
+Gender : Female. Marital Status : Single 
+Nationality 
+: Indian. Languages Known 
+: English, Malayalam And Tamil. 
+Permanent Address : 14/83-1, Kasthoori Bai Grammam, 
+Theroor-629 704, Kanyakumari Dist. 
+Declaration 
+I hereby declare that all the above said facts are true to my knowledge. 
+Date: Yours sincerely, 
+Place : Nagercoil (J.Siva sankari) 

@@ -1,0 +1,66 @@
+Mr. Palash Dusane 
+Address: Flat No: 17, Shree Sai Villa Apt., Shree Ram Nagar, Narayan Bapu Nagar, Jail Road, Nasik Road, Nasik (422101). 
+Contact: +91 8308088975 
+Email: 
+palashdusane@gmail.com 
+OBJECTIVE: 
+To secure job in IT industry where i can utilize my knowledge for the organizations growth and my individual growth. 
+ACADEMIC CREDENTIAL: 
+Course College Board/University Aggregate (%) B.E. Computer Engg. (Pursuing) SITRC, Nasik 
+Savitribai Phule Pune University, Pune 
+69.92 H.S.C 
+K.T.H.M College, Nasik Maharashtra State Board 
+66.50 
+S.S.C Bhonsala Military School, Nasik. 
+Maharashtra State Board 76.60 
+SOFTWARE/ TECHNICAL SKILLS: 
+Proficient in C++, Python and its Framework Django. 
+Programming Languages: C, C++ and Python (Proficient). 
+Web Development Language: PHP, HTML and CSS. 
+Databases: MySQL and Mongo DB. 
+Framework: Django 1.8-1.9. 
+IDE: Eclipse. 
+CMS: WordPress. 
+Operating Systems: Windows 7-8, Kali Linux 2016 and Ubuntu 14.04. 
+TRAINING/ CONFERENCES/ EXPERIENCE/ CERTIFICATION: 
+Paper Accepted from REDSET 2016 Conference (Springer) on Enhancing Security of Hadoop Distributed Database System. 
+Paper Accepted from ICIS 2016 Conference (IEEE) on E-Penalty Charging and Alerts Sharing System for Violation of Traffic Rules. 
+Certified for Completion of Linux Training provided by the Talk To A Teacher Project at IIT Bombay (Spoken Tutorial Project). 
+Attended Workshop on Web Development held during Techfest 2015 at IIT Bombay. 
+Certified in Python 101 online course, Udemy (UC-REH4TYX7). 
+Certified in Django Tutorial: Build your first app fast and free online course, Udemy (UC-QY0VCBI2). 
+PROJECTS: 
+Enhancing Security of Hadoop Distributed Database System: 
+Objective: Implementation of Kerberos authentication protocol and Public Key Encryption together as authentication protocol to enhance security of Hadoop in terms of the data stored in HDFS and authentication of client. 
+Technology Used: Kerberos Protocol and PKC. 
+2) E-Penalty Charging and Alerts Sharing System for Violation of Traffic Rules: 
+Objective: The system aims to reduce manual work, increase smart work and transparency . in traffic police system. System makes process of charging penalties for RTO rule violation Computerized, thus making it easier for officers to maintain traffic discipline 
+Technology Used: Django 1.9 Framework (Python), SQLite, HTML. 
+3) EMC's CoprHD Open Source Project (Ongoing): 
+Objective: To contribute in EMC's ViPR open source software. 
+Role: Python Programmer. 4) FlyingScripts (flyingscripts.com): 
+Objective: FlyingScripts is Indian Online website which provide fascinating posts and short stories to its users. 
+Technology Used: PHP, HTML, CSS, WordPress (CMS). 5) Bookmark Application: 
+Objective: To provide college staff with login to share important bookmarks with students. 
+Technology Used: Django 1.8 Framework (Python), SQLite, HTML. 
+6) Doctor's Appointment Application: 
+Objective: To efficiently manage patient details and their appointments online/offline both. . 
+This makes appointment work easy for hospital staff. 
+Technology Used: Django 1.9 Framework (Python), SQLite, HTML. 
+7) Django Framework based Small Scale Application: 
+1. Static Blog Application. 
+2. Address Book Application. 
+OTHER INFORMATION: 
+Organization: 
+CSI Accredited Student (Computer Society of India). 
+Achievements: 1. Silver Medalist in State level Boxing Championship, four times district Boxing Champion (Government Authorized Tournaments). 
+2. Awarded for best performance in sports in 10th and 11th standard. 
+Extra Activities: 
+Attended Multi Adventure Course in outbound training organized by Bhonsala 
+Adventure Foundation (Nasik). 
+Hobbies: Horse Riding, Adventure Sports. 
+Strengths: 
+Honest, High grasping power, always ready to learn new things, Team player. 
+I hereby acknowledge you that the above details about me are precisely correct. 
+Place: 
+Date: PALASH DUSANE 

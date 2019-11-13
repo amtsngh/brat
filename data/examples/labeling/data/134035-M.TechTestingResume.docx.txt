@@ -1,0 +1,38 @@
+ PRIYA SINGH 
+M.Tech. (Computer Science) Email id: singhpriya2593@gmail.com 
+Contact No: +91-9450704361(M) 
+Father ::Mr. Rajendra Kumar Singh Mother: Mrs.Indravti Singh Address: 
+Sri Shiva Sai Balaji PG Accomodation, Madivala Bengaluru - 560068 
+shassshhhjkjaPersonal Profile: D.O.B. 
+: June 25, 1993 Gender :Female Nationality :Indian Marital Status :Single Languages known : Hindi, English Hobbies: >Reading >Digital Photography >Computer activities 
+>Do It Yourself >Listening Music Strengths: >Adaptibility >Positive attitude >Quick learner >Zeal to learn >High potential Subject of Interest: Test Cases Formation, Test Cases, Functional Testing, Black Box Testing, Data Flow Testing, Equivalence Class Testing, Debugging, Concept of C, C++, Computer network, Real time systems, pattern Recognition and Image Processing, Advanced Database Management system. 
+Objective: To work and grow with an organization where I can enhance my skills and make profits to the organization with my current abilities. 
+Education: CourseInstitute 
+University/BoardYear of passingScore M.Tech. 
+(CSE)Banasthali VidyapithBanasthali Vidyapith201666.22% 
+B.Tech 
+(CSE)Uma Nath Singh Institute of engineering and technologyVBSPU201371.3%Higher SecondaryMDJV, JaunpurCBSE200956%MatriculationMDJV, JaunpurCBSE200765% Training / Certification Attended Sl. NoType of TrainingArea of ExposureDuration1Lab assistant at Jawaharlal Nehru University under the guidance of Dr. Buddha Singh, (Assistant Professor, Jawaharlal Nehru University, New Delhi)Hand on experiences on Matlab software. Practical knowledge of different concepts of networking including OSI layers, routing, switching, wireless sensor network1 year2Teaching Assistant at 
+Jawaharlal Nehru University under the guidance of Dr. Buddha Singh, (Assistant Professor, Jawaharlal Nehru University, New Delhi)Contributing to the delivery of teaching and tutorials for subjects like Computer network, DBMS and Design and analysis of algorithm 1 year3Training at Trainedge Consulting Pvt. Ltd, LucknowSound knowledge of technology such as ASP. Net 3 , C#, Silverlight , Jquery, HTML, CSS and learned AJAX domain hosting and deployment 60 days4Ethical hacking workshop conducted by kyrion digital securityAn Introduction about hacking, and hacking tools.2 days 
+Academic project: 
+Institution Name: Jawaharlal Nehru University, New Delhi 
+Major Project: (M.TECH) 
+Title: Minimising the cost of Target Coverage and Network Connectivity in Mobile Wireless Sensor Network. 
+Tools: Matlab 2012a 
+Description: In this project we minimised the cost of mobile sensors in Mobile Wireless Sensor Network by applying Travelling Salesman optimisation and Firefly Optimisation to solve the NP Hardness of The Travelling Salesman Problem for the Target Coverage Problem in mobile sensor network. 
+Major Project: (B.TECH) 
+Title: Pratibimbh (An Image editing and enhancing software) 
+Front End: Dot net 
+Description: Pratibimbh is an image editing and image enhancing software generally used to remove noise from image and used to enhance image for particular field such as medical, geosensing etc. 
+Minor Project: (B.TECH) 
+Title: Online Meeting Scheduler 
+Front End: ASP.net 3.5, C# 
+Back End: SQL Server 
+Description: It is online web based online meeting and appointment scheduling software. 
+Achievements and participation: 
+Class representative in first 2 semesters in M. Tech. 
+Volunteer at annual function Sanskar in first semester in M. Tech. 
+Class representative in last 2 years in B. Tech. 
+Participated and won prizes in cultural events at school level. 
+Member of School Sports Committee. 
+I hereby declare that the above information is true and correct to the best of my knowledge. 
+PRIYA SINGH 

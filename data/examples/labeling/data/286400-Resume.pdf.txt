@@ -1,0 +1,46 @@
+SHAJO MATHEW VETTATHU VLSI Engineer and passionately curious +91 - 94955 70490, +91 
+88611 36939 shajo.mathew@gmail.com, shajo.mathew@outlook.com Bangalore, India. https://in.linkedin.com/in/shajo-mathew-0500b2b3 Vettathu House, Maramon P.O., Thiruvalla, Kerala, India. PIN: 689549. 
+DOB: 25 January 1992, Passport No.: N5745995 
+EXPERIENCE 
+Design Engineer, Entuple Technologies Pvt. Ltd., Bangalore, India. (January 2017 
+Till date) Power management unit (BandGap Voltage Reference, Low Drop Out regulator, DC-DC convertors) for an analog front-end IC. 
+Derive block level specification, select topology, top level integration on schematic as well as layout. 
+Field Application Engineer Cadence, Entuple Technologies Pvt. Ltd., Bangalore, India. (July 2016 January 2017) 6 months Advisor with clients at engineer and lower level management to solve their analysis challenges with Cadence tools. 
+Identifying client needs, then developing product, deliver the product presentations, demos and workshops and finally product deployment assistance to client. 
+Graduate Engineer Trainee, Entuple Technologies Pvt. Ltd., Bangalore, India. (January 2016 July 2016) 6 months 
+Full module (voltage reference) development for an analog front-end IC. 
+Assisting Application Engineers and Technical Trainers. 
+Engineering Intern, Entuple Technologies Pvt. Ltd., Bangalore, India. (May 2015 January 2016) 8 months Characterization of components, devices and modules designed for 180nm Technology node using the generic design kit on 
+CADENCE Virtuoso and SPECTRE and organize the data for designing circuits using gm/Id methodology. 
+Design and simulation of operational amplifiers with internal compensation and its characterization. 
+ACADEMICS 
+Master of Technology in VLSI and Embedded Systems., Government Engineering College Idukki, M. G. University, Kerala, India., Oct 2013 
+Nov 2015. 
+GPA 8.16/10.0 Bachelor of Technology in Electronics and Communication., University College of Engineering, University of Kerala, Kerala, India., Aug 2009 May 2013. 
+GPA 8.18/10.0 
+Senior School Certificate (Class XII)., Jawahar Navodaya Vidyalaya Vechoochira, C.B.S.E. 
+Jun 2008 Mar 2009. 
+Grade 81.2/100 
+Secondary School Certificate (Class X)., Jawahar Navodaya Vidyalaya Vechoochira, C.B.S.E. Jun 2006 Mar 2007. 
+Grade 88.6/100 AREAS OF EXPERTISE 
+Technical Skills: VHDL, SPICE, 8051 and 8086 programming Environments Worked on: Xilinx ISE, Cadence Custom IC Design Tools (Virtuoso Schematic Editor, Virtuoso ADE, Virtuoso 
+Layout Suite, Spectre, Assura Physical Verification), Cadence ASIC Design Tools (INCISIV, RC, Encounter), NGSpice, MATLAB 
+Operating Systems known: All windows environment, Red hat Linux 
+Documentations: MS-Word, MS-PowerPoint, MS-Excel, LaTeX 
+M.TECH PROJECTS 
+Design of 1.2V 10ppm/0C CMOS Bandgap Reference in 180nm CMOS process 
+First order compensated Bandgap Reference and its physical implementation, layout, DRC, Parasitic extraction, Post Layout simulations. 
+Curvature Compensated CMOS Bandgap Reference - Piecewise nonlinear curvature corrected current is generated to correct the nonlinear temperature dependency of a conventional first order current mode BGR to achieve lower TC. 
+B. TECH PROJECTS 
+Smart Chair Microcontroller (ATMEGA16) based wheelchair (ZIGBEE, RFID and Touch screen technologies) to help people with walking disabilities to control the movement of chair and other applications. 
+Mobile Bug Circuit to detect the presence of an activated mobile phone even if the mobile is in silent mode (555 IC). 
+SEMINARS 
+Li-Fi - A new paradigm in wireless communication - Li-Fi (Light Fidelity) is optical wireless technology for wireless data transfer through visible light produced by white LED s used for illumination. It has better speed, flexibility and usability than Wi-Fi. 
+A study on Hardware Supported Intrusion Detection Systems for Embedded Systems - Detection systems that will detect attacks in real-time. Processor operations are observed immediately, rather than waiting for the creation of an audit file. 
+A Security Layer for Smartphone-to-Vehicle Communication Over Bluetooth - An ad-hoc, end-to-end security layer to hierarchically distributed control system architecture which integrates a smartphone with classical embedded systems. 
+Smartphone can interact securely with a modern vehicle without requiring modifications to the existing in-vehicle network. 
+CO-CURRICULAR AND EXTRA CURRICULAR ACTIVITIES 
+Did foundation course in Networking Engineering (NS 130801) from Network Systems, Trivandrum. 
+Did a project, 
+VHDL Implementation of a Memory Controller for in-situ programming of Electrically Erasable Programmable 
+Memory at the Flight Computer Division of Vikram Sarabhai Space Centre (VSSC), Thiruvananthapuram. 

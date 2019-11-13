@@ -1,0 +1,62 @@
+MUHAMMAD IRFAN 7/71 Chiranjeev Vihar. 
+U.P.-201002 
+Ph :+919457617313,+918755668508 irfusheikh327@gmail.com 
+Objective 
+To get a growth oriented position in a reputed organization where my skills can be utilized for improvement and success of the organization. 
+PROJECT 1: 
+CRUD Operation: 
+I have made a CRUD (create, rename, update, delete) System which is a module of e-com site which can manage the products. You can find the project here. 
+Skills: Core Java. 
+PROJECT 2: 
+Task Manager: 
+I have made a Prototype called Task Manager, which can manage the task You can find the project here. 
+Skills: JavaScript, HTML5, CSS3, JQuery, AJAX, JSON. 
+PROJECT 3: 
+Hosting of Auto Scalable , Highly Available Two Tier web app on AWS : 
+Hosted a Auto Scalable, Highly Available Two Tier web-app with word press using AWS services: 
+Skills: IAM, EC2, RDS, and S3. 
+Training 
+I have done three month training in UI technology from ducat Ghaziabad. In which developed some Frontend pages and some responsive pages. Certification Local certification in User Interface by Ducat. 
+Technical Skills: 
+Languages C, Core Java. 
+Database MySql. 
+Operating System Windows, Linux. 
+Skillls UI, Javascript, HTML5, CSS3, Cloud Computing AWS(EC2, RDS, S3) Tools Eclipse, Webstorm, Balsamiq Mockup. 
+Non-Technical Skills: 
+Honest and hardworking. 
+Willingness to learn. 
+Good team player 
+Good communication skills, optimistic and positive attitude. 
+Education 
+B.Tech. (Computer Science & Engineering) 
+Institution: 
+Raj Kumar Goel Engineering college, pilkhuwa, Hapur. University: 
+Dr. A.P.J. Abdul 
+Kalam Technical University. 
+Year of passing: 2017 
+Percentage : 66.38% 
+12th U.P. BOARD 
+Institution: 
+Shiva Ji Inter college Khukhundoo , Deoria U.P. 
+Year of passing: 2012 
+Percentage: 60% 10th U.P. BOARD 
+Institution: Raj Kumari Devi H.S. School Noonkhar Deoria U.P . 
+Year of passing: 2009 
+Percentage: 66.34% Workshop and Co-Curricular activities Participated in Research Methodology Workshop conducted by College. 
+Attended one month industrial training at Ducat, Ghaziabad. 
+Participated in kabaddi and football in Annual Tech Fest (sport) of College. 
+Core Coordinator of Cultural events of Annual Tech Fest (cultural) of college. 
+Personal Details 
+Father s name 
+: Mr. Mustafa Ali 
+Mother s name 
+: Mrs. Nashibun Nisha 
+Date of Birth 
+: 14/01/1995 Sex/ Civil Status 
+: Male/ Single Nationality 
+: Indian 
+Hobbies : Watching movies and listening music Playing cricket and chess,. 
+Declaration 
+I hereby declare that all the information mentioned above is true to my knowledge and I bear the responsibility for the above mentioned particulars. 
+DATE: 
+PLACE: GHAZIABAD MUHAMMAD IRFAN 

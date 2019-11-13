@@ -1,0 +1,39 @@
+1 | P a g e Address: H-79/A, Harkesh Nagar, Okhla Phase-2, New Delhi, Pin-110020 
+Phone: 898 - 486 - 5485 | Email: aditpiya23@gmail.com 
+| Date of Birth: September 24, 1996 
+CAREER OBJECTIVE TECHNICAL SKILLS SOFT SKILLS EDUCATION LANGUAGE: Core Java, Servlet, JSP, HTML, CSS, SQL. 
+NETWORKING: TCP/IP, DHCP, DNS Server, Exchange Server, Active Directory, Firewall. 
+OTHER AREAS OF INTEREST: DBMS and Software Engineering. 
+Good written and verbal communication skills. 
+Quick learner and ability to motivate. 
+Ability to work independently or as part of a team. 
+Proven leadership skills and strategic planning. 
+Looking for an environment of learning, growth and excellence where I can develop my skills further, researching new technologies and challenges which provide me satisfaction, and help me to achieve personal as well as organization s goals. 
+Aditya Shankar Gupta 
+Master of Computer Applications (2017) 
+KIIT University. Total CGPA: 7.65 Bachelor of Science in IT (2015) 
+Sikkim Manipal University. Aggregate marks: 75.3% HSC Science (2012) Uttar Pradesh State Board. Aggregate marks: 66.5% SSC Science (2009) Uttar Pradesh State Board. Aggregate marks: 60.5% CERTIFICATIONS INTERNSHIPS 
+Holding an Internship experience with NTPC Limited Noida as a Software Intern Trainee in NTPC engineering department of IT. (2017) 
+Duration: 2 months. 
+Contributed on web development and design technology ie: HTML, CSS and Visual 
+Studio. 
+2 | P a g e EXTRA - CURRICULAR ACTIVITIES 
+Participated in NCC Training Camp (2008) 
+A Certificate (Ranked best in Drill and Firing.) 
+Participated in Read India Campaign, A program to training and skilling the students of Primary School. (2010) Active member of all the events at school and college. 
+HOBBIES AND INTERESTS 
+Sketch Arts 
+New Trends & Technology 
+Music & Cooking 
+Travelling 
+SEMINARS AND WORKSHOPS 
+Attended Two-Day Workshop on Internet of Things with Cloud and Big Data. (2015) Organized by School of Computer Application, KIIT University. 
+PROJECTS 
+Title: Company and Legal Service Aggregator (2017) 
+A platform for all the legal professionals as well as individuals who can meet up for a legal cause to get inquiry, advise, questions and queries, personal chat etc. 
+Technology Used: Java, JSP, HTML, MySQL and Spring MVC Framework. 
+Completed one-year training program from CMS Info Systems Pvt. Ltd. Including A+, N+, CCNA, MCITP and Virtualization. (2013) 0 CERTIFICATIONS 
+Title: 
+Google Search Engine (2015) 
+Idea was from GOOGLE , Aim to having my own search homepage instead of Google and searching all the user request through it and fetch data via Google. 
+Technology Used: HTML, JSP. 

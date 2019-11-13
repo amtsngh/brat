@@ -1,0 +1,87 @@
+ Vipin Vashistha 
+E-mail: - vipinvashistha123@gmail.com (mailto:vipinvashistha123@gmail.com) 
+Mob No: - +919672986833 
+JOB PROFILE: 
+Sr. System Administrator (Data center, Technical & Application Support) with over all 8.5+ Years experience. 
+Technical Skills 
+Good Knowledge of XP, Win 7, Win 8, Win server 2003, 2008, 2008R2, 2012, 2012R2 Servers. 
+Applications: Mostly worked on BPO/KPO and Banking Applications like as Ms office, Outlook, lotus notes, VMware client, Office communicator, Oracle, BO, Right Fax, E-matrix, Fidessa, Monarch, VPN, remote tools, Essbase, java, Hummingbird, desktop video, Avaya and 400+ banking applications. 
+Products Experience: - All type of systems, laptop and server hardwares, HP and IBM servers, EMC tape Library, Creston (Control System), Projectors, Polycom Sound station, Other AV Equipment, DATA/Video. 
+Good knowledge of ITIL process as Incident, Change and problem management, worked on ticketing tools like as cadre, remedy, DB symphony and service now. 
+Understanding Installation Configuration and Troubleshooting: - Windows OS and Server OS related troubleshooting, Applications L2 support, Active Directory, DNS, DHCP, Hyper-V, VSphere Clients, Symantec AV Server and Netback up server, tape library and tape management, Audio Video Conferencing Devices, Wireless Configuration and management, Good knowledge of banking Applications, BPO/KPO Applications. 
+Client Sites & Support Experience: - Deutsche Bank at Mahindra SEZ Jaipur, Genpact at Jaipur location, Vodafone India Services Private Limited (VISPL) at Ahmadabad location. 
+Current Employer: - IBM India Pvt. Ltd. 
+Duration: - Apr 2016 to till now 
+Role: - 
+Senior Operations Professional (Windows L2)Roles and Responsibilities: 
+Working with wintel team and providing support windows server related issues as per ticket received. 
+Installing, Configuring and administration of 2008, R2, 2012 servers with configuration as per the client request. 
+Server Health checkup, monitoring and review the logs of system behavior, Applying the required patches. 
+Creating or managing the user account with policy and profiles, User and group policy management. 
+Net-backup client installation and troubleshooting and involve the SAN team if required. 
+Managing the DHCP scope, reservation, change or deletion the scope and scope entries. 
+Managing the data-center asset CMDB on monthly basis and share with the process management. 
+Experience in Conducting the BCP/DR drills, AMC renewal management, capacity management. 
+Managing and maintaining the ITIL process and using the service now tool for Ticketing. 
+Previous Employer: - 
+Jaipuria Institute of Management, Jaipur (Rajasthan) 
+Duration: - Dec 2013 To Apr 2016 
+Role: - 
+Sr. Exe- IT 
+Project Summary: - Manage the entire IT related activities and team, manage day to day servers and network devices Health checkup, share drive and backup management, manage the email IDs and quota, Scheduling the backups and troubleshoot in case of frailer, Asset management, Manage the labs, Library, Hostel Wi-Fi connectivity and network.Roles and Responsibilities: 
+Manage the windows server and network operations, activities and weekend planned activities. 
+Working on spice work ticketing tool and maintain the monthly records according to tickets. 
+Maintains entire applications and troubleshooting, Internet, Wi-Fi connectivity and securities. 
+Manage the Symantec AV server and clients and set policies according the different departments. 
+Manage and troubleshooting the Symantec data backup and restoration in case of data lost. 
+Creating or managing the e-mail IDs and server quota for new joiners according their requirements. 
+Perform troubleshoot on servers, identify issues and assist in timely resolution of same. 
+Monitor all software and hardware products and ensure compliance to Data Center standards and systems. 
+Coordinate with various departments and perform integration of critical systems into infrastructure. 
+Maintain expert knowledge on all applications and its use on systems for various critical systems. 
+Coordinating and follow-up with different-2 Vendors as per our company requirements. 
+Previous Employer: - 
+Microland Limited 
+Duration: - Nov 2010 To Nov 2013 
+Role: - 
+Sr. System Administrator and Project lead (Win7) Client Site: Deutsche Bank Mahindra SEZ Jaipur. 
+Project Summary: - Manage Win 7 migrations as a Project Lead, All Desktop and Applications L2 support. VIP support, VMware Clients and thin client support, AV support. Manage escalations and major incidents and business critical. Provide the new Joiner training and other requirements, coordinate with product Vendors and business partner, implementing critical Changes and planning for restoration, and manage the BCM site.Roles and Responsibilities: Manage Win 7 migration Project, Coordination with clients and scheduled day to day migrations, responsible for application compatibility and project UATs before the migration. 
+Troubleshooting of banking applications and Delivered 2nd level technical support, VIP support within the SLA. 
+Good knowledge of VSphere clients, thin clients and troubleshoot the Virtual desktop as per Ticket request. 
+Creating and deletion of VM clients and providing the DR clients as per the process or client requirement. 
+Planning, scheduling and implementing critical emergency changes to restore the service immediately. 
+Working on ITIL process and IT ticketing tools like remedy and DB symphony. 
+Managed the Domain AC related issues, DHCP scope, print server, fileserver and SEP AV related issues. 
+Configure and Manage thin clients and troubleshoot the network or configuration related issues. 
+Coordinating with Diff. teams, vendors and other business partners and make sure that all areas of the release are properly managed and responsible for managing project UAT and risks. 
+Previous Employer: - ETSC Computer Pvt. Ltd. Jaipur (Wipro Partner) Duration: - Oct 2007 - Oct 2010. 
+Role: - Desktop Support L2 at Genpact Jaipur and Backup and Server Admin at Vodafone. 
+Client Site: Genpact Jaipur, Vodafone India Services Pvt. Ltd. 
+Project Summary: - Manage Data-center activities and implements, Manage DC operator team, Monitoring the server and network with the monitoring tools, Manage Servers and tape library, Application L2 support, VIP support, AV Support. Work on escalations and major incidents, Coordinate with Vendors. 
+Roles and Responsibilities:Windows 2003, 2008 server installation, implementation and administration. 
+Monitoring 365*24*7 on 170+ live servers and Network devices and preparing the checklist. 
+Manage the health checkup of server and providing the weekly report to L3/SME team. 
+Managed the configuration of the servers, maintained the server hardware and coordinating with Vendor if require. 
+Server implementation and administration of NetBackup server, SEP AV server, File server and print servers. 
+Manage Symantec VERITAS Net backup and Tape Library, managing the tape rotation 
+Good Knowledge to creating backup policy for enterprise environments such as VERITAS Netback up. 
+Ability to maintain backup and disaster recovery plans and restoration. 
+Developed and implemented Backup policies as per company records. 
+Reviewed the backup data regularly to ensure that it is successfully stored. 
+Coordinate and follow with all Vendors and Symantec for the technical relates issues. 
+Schedule the weekend activities and rebooting the server as per requirement. 
+Installation and troubleshooting of Database software like as Oracle. SQL, Business Objects, MS Access, Discoverer, Right Fax, E-matrix, Monarch, Web installation, Comverse, Cam Tracker, Simplicity, Avaya. 
+Education Qualification: M.Sc. in Information Technology from JNV Rajasthan Vidhyapeeth University, Udaipur (Raj.) in 2011 Post-Graduation with Political Sc. from Kota university, Kota (Raj.) in 2006 Graduation with Arts from Kota university, Kota (Raj.) in 2004 SSC from Rajasthan board, Ajmer (Raj.) in 2001 HSC from Rajasthan board, Ajmer (Raj.) in 1999 
+Technical Qualification: Advance Diploma in Computer Hardware and Networking (GT Computer Hardware Engineering College, Jaipur) Cisco certified network associate (CCNA) 
+Microsoft certified Professional Training (MCSE) Diploma in computer application (CompuCom) Personal Profile: 
+Fathers Name: - Rajendra Vashistha 
+Mothers Name: - Vijaya Vashistha 
+DOB & Age: - 31 Years (Born on 30th May 1984) 
+Gender: -Male 
+Marital Status: - Married 
+Nationality:-Indian 
+Languages Known: -English and Hindi 
+Hobby: - Music, Visiting New places, Driving 
+I, hereby declare that the information given above are true to the best of my and belief. 
+Date: Place: Jaipur Signature: 
+(Vipin Vashistha) DOCPROPERTY "aliashDocumentMarking" 

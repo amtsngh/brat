@@ -1,0 +1,66 @@
+Aarti Joshi aartijoshi1991@gmail.com 
++917774077962 
+Career Statement 
+To seek a challenging career in ERP as SAP professional where I can implement solutions that meet the customers requirements using software development skills and technical expertise. 
+Professional Summery 
+Hewlett-Packard Enterprise (HPE): (13thJan 2015 till date) as SAP ABAP Developer in Chennai. 
+Having around 1.6 years of experience inSAP-ABAP. 
+Experience in data dictionary objects such as Domain, Data Element, Table, Search help, Views. Developed various Classical, Interactive and ALV reports pertaining to SD, MM modules Worked on Sap-Script and Smart forms. Changing Standard SAP-Script, Modification of existing SAP- Script and Smart forms. 
+Experience in transferring data from legacy to SAP system using various data transfer techniques such as LSMW (using Batch Input and Direct input) and BDC. 
+Excellent knowledge on conversion techniques: BAPI, IDOC 
+Excellent knowledge in ABAP Object Orientated (ABAP OO) Good functional knowledge & experience in SAP Sale and Distribution (SD) Module. 
+Excellent knowledge on various documents of Sales and Distributions (Inquiries, Quotations, sales order, contracts, outbound Deliveries, Billing Documents, etc.) 
+Technical Skill 
+SAPR/3: ABAP,SD Module 
+ITIL Foundation (2011) Certified. 
+Other language: C language 
+MS-office: MS-Excel, MS Word, MS PowerPoint. 
+Strength 
+Adept ability to see both the technical-programs and understand detail of issues. 
+A dynamic go-getter and quick learner with ability to work under pressure and meet deadlines. Team player with strong ability to achieve quality results within support teams. 
+Strong interpersonal skills and excellent relationship with management. 
+Professional Projects 1. 
+Company Name: Hewlett-Packard Enterprise (HPE) 
+Project Name: SMO HP separation project 
+Role: SAP Technical consultant 
+Environment: SAP Version: ECC 6.0 
+Duration: 6 month 
+Responsibilities: 
+As an SAP ABAP/4 Technical Consultant to develop and programming for classical and interactive reports, ALV Reports writing for MM, SD modules, Batch Data Communications from legacy to SAP R/3 system 
+Preparing Technical & Code Review documents for the developments. 
+Developed classical and interactive reports using ALVs. 
+Data Migration from Legacy system to SAP R/3 using BDC methods. 
+Data Migration from Legacy system to SAP R/3 using BAPIs. 
+Developed BDC program for the Customer Master, Material Master and Vendor Master. 
+Developed BDC program to change Vendor details using XK02. 
+Added custom fields to the BAPI using Enhancements. 
+2. 
+Company Name: Hewlett-Packard Enterprise (HPE) Project Name: CSS (Customer service support) 
+Role: SAP Technical consultant 
+Environment: SAP Version: ECC 6.0 
+Duration: 6 month 
+Description: L3 Technical Support 
+Responsibilities: 
+The project responsibilities involved Application development and support. 
+Development of various objects as per Technical specs and Project standard. 
+Reviewing ABAP programs to ensure efficiency and fine-tuning where necessary. 
+The project responsibilities also involved the development of Reports, Forms, Script, Smart forms 
+Preparing technical design specification and test data preparation. 
+Analysis, coding and unit testing for various tasks as per the technical specification. 
+Permanent fixing of identified errors through change request. Unit testing of developed or modified program. 
+Educational Qualification 
+B.E. Mechanical from University of Pune, First class with distinction in 2014 H.S.C., First class from Maharashtra state Board in 2010. 
+S.S.C. with First class with distinction from Maharashtra State Board in 2008 Accolades & Extra-Curricular 
+Winner of model making Contraption national level event held in K.K.W.I.E.E.R. 
+Certified Training on Industrial Hydraulics & Pneumatics in TAACT 
+Certified for completion of SCILAB workshop offered by IIT BOMBAY 
+Management committee of technical event Mecheaven 2012 Member of Prayas Youth Forum in 2013 & 2014 held in Nasik 
+Member of I-MAD, a youth organization that works for the under-privileged kids Personal Details 
+Permanent Address: 
+D/8 Tulsi Appartment Sitagumfa road panchavati, Nashik-422003 
+Current Address: No. 11, near Xcellent care hospital, Velachery, Chennai, Tamil Nadu. 
+Languages known: English, Hindi, Marathi 
+Hobbies: Driving, listening to music, Badminton. 
+Declaration 
+The above information is true to the best of my knowledge and belief. 
+Aarti Joshi Place: Chennai 

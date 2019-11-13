@@ -1,0 +1,70 @@
+RESUME
+ 
+Manjushree I.Pattanshetti 
+Phone: +918095165259 
+E-mail: p.manjushree8@gmail.com 
+CAREER OBJECTIVE 
+To secure a position in the organization that offers challenge and opportunity for my career development .I would seek an opportunity in a place where I can utilize my potential to the fullest in a globally competitive environment to achieve my desired goals and to contribute to organization s success. 
+TECHNICAL SKILLS 
+Programming Languages: C, C++ and Core Java. 
+Familiar with: SQL, Data Structure, C#, PHP, Hadoop. 
+Worked on IDE s like Code blocks, Net Beans, Microsoft Visual studio, Oracle, Eclipse, MYSQL and Hortonworks . 
+ACADEMIC QUALIFICATION MCA from B.V.Bhoomaraddi College of Engineering &Technology, Hubli with CGPA 8.35% in 2016. 
+BCA from Sri Satya Sai Inst.Of Home Science, Dharwad with 69.28% in 2013. 
+INTERNSHIP DETAILS 
+Duration: 
+15th Jan 2016 to 2nd 
+Jun 2016 Company name: Inwhizz 
+IT Innovation Pvt Ltd,Dharwad 
+Worked as inter on Big Data Platform. 
+Project name: Behavioural Analysis of Data on Hortonworks. 
+PROFESSIONAL SKILLS 
+Underwent course called VIKAS, Innovations Unlimited Training Services, Bangalore at 
+B. V. Bhoomaraddi College of Engineering and Technology, Hubli. 
+Participated in Android Application Development workshop conducted by ARK Techno solutions. 
+PROJECT DETAILS 
+Project Title: Behavioural Analysis of Data on Hortonworks(6th sem project) Project Done At: B.V.Bhoomaraddi College of Engineering and Technology ,Hubli. 
+Platform Used: Java, php, WinScp, Hadoop 
+Mapreduce technique. 
+Contribution: Analysis and Coding. 
+Description: It is an application which helps the client towards their service and products. The system processes the large data sets using Hadoop s mapreduce technique to perform the data analysis and provides results in the form of graphs/dashboards. This helps the respective client in the purpose of decision making. 
+Project Title: Automatic Toll Management System (4thsem mini-project) 
+Project Done At: B.V.Bhoomaraddi College of Engineering and Technology, Hubli. 
+Platform Used: Java, CSS,HTML,XML. 
+Contribution: Designing and Coding. 
+Project Description: Automatic Toll Management System is an application, where it generates online toll so that it saves time of the traveler and avoids the maintenance of hard copies in toll. 
+Software used is Netbeans and it is easy to use and back end is MySQL. 
+Project Title: University Management System (3rdsem min-project) Project Done At: 
+B.V. Bhoomaraddi College of Engineering and Technology ,Hubli. 
+Platform Used: C++. 
+Contribution: Designing and Coding 
+Project Description: In University a large amount of data is processed and the results are used in running an organization. The University management system project maintains the list of colleges and their different streams. It also maintains the examination and the result department with a proper menu system. 
+Project Title: Online Telephone, Water, Current Billing and Payment System (BCA) 
+Project Done At: 
+B.S.S.S.Edu.Society s Sri SatyaSaiInst.Of Home Science, Dharwad. 
+Platform Used: ASP.NET, Backend is MyAccess. 
+Contribution: Designing and Coding 
+Project Description: The purpose of the project is to present the requirement of the Computerization of Telephone, Water and Current Billing System. New software reduces manual work, improves the work efficiency, saves time and provides greater flexibility and user- friendliness. 
+CO-CURRICULAR 
+Secured 102 Rank in PGCET. 
+Participated in National Service Scheme (NSS). 
+Participated in INTER COLLEGIATE YOUTH FESTIVAL 2012. 
+Active Participation in the Annual Sports. 
+PERSONAL TRAITS 
+Can contribute individually as well as in a team. 
+Determined and Hard-Working. 
+Adaptability, Knowledge and Focus on work. 
+PERSONAL DETAILS 
+Name : Manjushree I.Pattanshetti 
+Date of Birth : 15 Jan 1992 Father s Name 
+: Iranna C.Pattanshetti 
+Address 
+:D/O Iranna C.Pattanshetti , Chebbi cross, Belgaum Road, Bagalkot-587101, 
+Karnataka. 
+Nationality : Indian 
+Languages Known : English, Kannada, Hindi 
+Hobbies :Reading books, Listening music, Spending time with applications, playing carom and shuttle cock. 
+DECLARATION: 
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 
+Date : Manjushree I.Pattanshetti 
+Place : Bangalore 

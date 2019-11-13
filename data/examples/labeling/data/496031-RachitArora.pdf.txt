@@ -1,0 +1,50 @@
+ Rachit Arora rachit.arora@hotmail.com, +91-9971240630, DOB: 30th Oct 1983 
+Summary: 
+Academic Qualifications: 
+Professional Experience: Product Lead with 8.5 years of experience in managing web applications in BFS domain in agile environment. MBA from XLRI with focus on strategies in marketing, finance and product management. Passionate about creating value for users and firms via product management and business development. 
+Marketing research, Service and Digital Marketing 
+Brand and Product management and Design thinking Predictive, Descriptive analytics and Text mining, NLP via R and SAS SMAC, Big Data, Business intelligence, Data Mining 
+Capital Budgeting and Financial statements, modelling and ratio analysis Costing techniques, CVP analysis, and cost based decision making 
+MBA Projects: 
+Consulting/Digital Transformation: Enhanced resource planning, streamlined IT processes and introduced intuitive financial dashboards resulting in increased bottom-line. Improved topline by increasing customer footfalls by implementing customer loyalty program and market strategy for a product line for leading lifestyle retail chain. Built e- marketing plan for online launch and involved in conceptualizing mobile screen/website design & capital budgeting. 
+Analytics: Created customer churn rate model for an ecommerce firm. Used various machine language algorithms like 
+K- mean clustering, Decision tree and linear regression. Did a project on text mining to build insights on a recent political phenomenon. 
+B.Tech (Information 
+Technology) 
+2003-2007 M.B.A, PGDM (General 
+Management) 2016-2017 Associate/Product Lead, Royal Bank of Scotland, Gurgaon/London 
+Dec 2013 Jun 2016 Certified Scrum Master for a team of 12 members and managed 5 online products in all stages of software product lifecycle Responsible for maintaining yearly product roadmap for BAU deliveries and new development 
+SME on Corporate Performance Management and BI product Longview used for group s cost management, MI reporting, Cost variance reports and organizational restructuring activities Implemented FINREP, COREP and BASEL related regulatory changes in the products. 
+Proficient in managing customer engagement, stakeholder management, process workflow, root cause analysis, demand forecasting and estimation, monitoring, developing business cases, designing technical and functional specification documents and IT due diligence Utilized the insights gained on product s functionalities, design patterns and architecture in assisting client on adaptation of robust version control tools, build tools, and rich user interface, thereby enhancing user experience. 
+Implemented latest technologies in designing Proof of Concepts/Models for replacing incompatible frameworks; presented demos to clients and sought their approvals Revamped online reports, dashboards, product features saving roughly 8000+ man hours/year 
+Conceptualized automation framework saving 480+ man hours/year 
+Founding member of Cost MI reporting team for W&G bank, worked in start-up environment to establish delivery processes Rachit Arora rachit.arora@hotmail.com, +91-9971240630, DOB: 30th Oct 1983 Awards, Achievements and Certifications: 
+Technical Skills: 
+Co-curricular and Extracurricular activities: 
+Technical Consultant, Polaris Financial Technology, Gurgaon July 2010 
+Sept 2012 Gathered requirements from relationship managers and designed strategic solutions for major European Bank s online 
+CRM toolset SPOC for all database issues related to design and requirement gathering for 30 member team Generated SAS reports, worked on extracting data and created datasets from various sources such as Oracle and excel Improved efficiency of online reports, designed new pages, tuned transactional batches to improve overall customer journey satisfaction 
+Assisted Senior Consultants in preparation of RFP, RFQ and various presentations for pre-sales business proposals 
+RBS: Received Performer of the Month award for implementing critical business solution in less than 80% of the allocated budget 
+RBS: Represented RBS twice on international conferences in London and Brighton, first from India team to represent in prestige conference organized by Longview 
+RBS: Received Commitment and Determination 
+trophy for consistently maintaining RAG status green for year 
+Fiserv: Globally recognized for implementing ClearSQL, Industry standard quality control tool saving ~700+ man days of work yearly 
+Polaris: Received 
+GEM 
+Award for successful upgrading database, resulting in enriched user experience on application 
+CSM(Certified Scrum Master), Lean Six Sigma-Green Belt 
+OCA & OCP(Oracle Certified Associate & Professional) PLSQL, SQL, MS Office Advanced, JIRA, SVN, TFS, SharePoint, Rattle, Oracle 12c(Cloud), 
+Oracle Apex, ETL, Use Case, Wireframes, User Stories 
+Formed 
+Club Studio , official photography club in RBS, and organized classes on photography skills in organization 
+Started website: http://rachitarora.wixsite.com/photographers-dream to showcase my photography work Executive member of PGDM(GM) 2016-17,XLRI placement committee Executive member of Marketing and Fintech group in XLRI 
+Software Engineer, BNP Paribas and Xchanging, Chennai 
+Oct 2007 
+July 2010 Gathered requirements and designed ETL process for clients generating credit risk for Collateral Management 
+Worked closely with recruitment team to hire graduates from esteemed colleges Senior Software Engineer, Fiserv, Gurgaon 
+Sep 2012 
+Dec 2013 
+Refined transactional batch processes for digital core banking product suite DNA, saving ~ 40% of original run times Interacted with business users and designed various reports and algorithms as per US bankruptcy laws 
+Formed Oracle Centre Of Excellence to design standards for product deliveries and to innovate ideas 
+Introduced Agile practices/Metrics that improved team productivity by ~ 30% in a year 

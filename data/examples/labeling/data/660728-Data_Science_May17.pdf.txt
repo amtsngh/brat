@@ -1,0 +1,51 @@
+ASHISH KUMAR 
+kumar.ashish005@gmail.com +91 8197083666 
+B3/002, Aswani Aaeesha, Dodda Nagamangala, Near Veerabhadra Swami Temple, Electronics City Phase 2, Bangalore 560100 
+OBJECTIVE 
+MBA finance graduate with BE background and around 3 years of experience in Analytics domain as Data Analyst. Updated skills in Data Science with SAS. 
+Certified in Data Science with SAS from Jigsaw Academy. Certified in Analytics with Excel, Dimension Reduction Techniques & Fraud Analytics. 
+WORK EXPERIENCE 
+2 Years 10 Months of experience as Data Analyst & previous 3 Years 7 Months in Finance & Accounts domain as Accounts Executive. 
+Currently working as Data Analyst at Lateral Architectural Services Pvt Ltd (Bangalore) 
+Worked as Sr. Accounts Executive - Finance in Pantheon Project India LLP (Mumbai) 
+Started Working as Accounts Executive in Trubox Turnkey Projects (Bangalore) EDUCATIONAL QUALIFICATION MBA(Finance) 
+Manipal Institute of Management (MU) 6.07(CGPA) BE(Telecommunication) K S Institute of Technology (VTU) 61.73% ROLE DESCRIPTION 
+Organization : Lateral Architectural Services Pvt. Ltd., Bangalore 
+Duration : July 2014 till now (2 Years 10 Months) 
+Designation : Data Analyst (SAS, MySQL, Excel) 
+Job Responsibility: 
+Analyze data using statistical tools such as SAS, MySQL & Excel and provide conclusions from the data for decision making. 
+Monitor performance and quality control plans to identify improvements in profit making by reducing operational overhead cost and employees project allocation cost. 
+Thorough grounding in all phases of data analysis, including definition and analysis of questions with respect to available data and resources, overview of data and assessment of data quality, selection of appropriate models and statistical tests and presentation of results. 
+Import, clean, transform, validate and interpret data using trends and patterns with the purpose of understanding it. 
+Imported data from different sources in different formats such as Excel, CSV file using 
+PROC IMPORT. 
+Performed data cleansing by analyzing and eliminating invalid data along with missing value and outlier treatment using PROC MEANS, PROC FREQ, PROC UNIVARIATE, PROC RANK. 
+Modified existing datasets using SET, MERGE, APPEND, SORT and conditional statements. 
+Performed Correlation, Regression and Logistic Analysis, Anova and Chi Square. 
+Knowledge of Cluster Analysis, Decision Tree & Time Series Analysis. 
+Expertise in using various SAS report generating procedures like PROC TABULATE, PROC TRANSPOSE, PROC PRINT and produced various SAS Reports, Tables, Charts and Graphs using PROC REPORT and PROC GPLOT. 
+Organization : Pantheon Project India LLP, Mumbai 
+Duration : July 2011 Jun 2014 (3 Years) 
+Designation : Sr. Accounts Executive - Finance 
+Job Responsibility: 
+Raise Invoice on regular basis as per the work stage completion to clients. Issue purchase/work orders to vendors/consultants. 
+Maintain consistent follow up with the clients for update on payments against the invoices raised. Review, approve and process vendor/consultant invoices for payment to ensure timely settlement. 
+Maintain Operating Expenses/Petty Cash & Bank Statement on weekly basis and provide the same to the Management for review and approval. 
+Calculate, Prepare & Disburse Monthly Salary/Reimbursement and Prepare Salary Slips & Cumulative Salary Slips. 
+Statutory compliance. Monthly/Quarterly/Half Yearly/Yearly calculation, payment and filing returns of PF, PT, TDS, ST. Issue Form 16A to Vendors/Consultants on quarterly basis & Form 16 to Employees on yearly basis. 
+Tally for accounting invoices raised/received, amount receipts/payments & other journal entries. 
+Organization : Trubox Turnkey Projects, Bangalore 
+Duration : December 2010 June 2011 (7 Months) 
+Designation : Accounts Executive, Head - HR Admin 
+Job Responsibility: 
+Maintain consistent follow up with the clients for updates on payments against the invoices raised. Process consultants/vendors invoices for payment. 
+Enter employees punch correction into the payroll system & calculate payroll from timesheets and general payroll administration. 
+Calculation, Preparation and Disbursement of Monthly Salary/Reimbursement and Prepare 
+Salary Slips & Cumulative Salary Slips. Process Full & Final Settlement of resigned employees. 
+ANALYTICAL SKILLS & CERTIFICATIONS SAS (PROC SQL, Macros), WPS (World Programming System) 
+MySQL MS Office, Excel (Macros, VBA Macros) Predictive Modelling, Regression Analysis, Logistic Analysis, Decision Trees, Cluster 
+Analysis, Time series forecasting Certified in Fraud Analytics from Jigsaw Academy 
+Certified in Dimension Reduction Techniques from Jigsaw Academy 
+Certified in Data Science with SAS from Jigsaw Academy 
+Certified in Analytics with Excel from Jigsaw Academy 

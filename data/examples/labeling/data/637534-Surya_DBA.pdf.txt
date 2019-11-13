@@ -1,0 +1,59 @@
+Surya Prakash Tiwari Email: tsurya134@gmail.com 
+Mobile: (+91 9098113812) 
+I am seeking a competitive and challenging environment where I can serve your organization and establish a career for myself. 
+Academia 
+Degree University/School Percentage 
+BE [CS-2015] 
+Sushila Devi Bansal College Of Engineering, Indore 
+65.4 HSC [Maths] 
+Govt. Higher Secondary School, Rajnagar 
+76 SSC 
+Adarsh Higher Secondary School, Rajnagar 77 
+Work Experience 
+Employer: 
+First4Epos Private Limited 
+Designation: 
+Database Administrator 
+Duration: March-2016 to Present 
+Role: 
+Involved in designing, modeling, developing and support web based projects with responsibilities including analysis, design, development, implementation, and maintenance. 
+Experienced in Performance Tuning, Query Optimization, Client/Server Connectivity, and Database Consistency Checks using different Utilities. 
+Involved in client Production Support and Maintenance - Tasks including programming, debugging and testing of existing applications that run in a production environment for purposes of remediation system errors or to extend application lifespan. 
+Converted databases from MyISAM format to Innodb storage engine for databases that needed greater referential integrity. 
+Writing T-SQL code and creating views, indexes, complex query to short out the problem. 
+Recovering the databases from backup in disasters. 
+Expertise in Manual Testing/mobile application testing, Blackberry, Android, iOS Mobile 
+Applications 
+Involved in digital marketing for the promotion of products and application. 
+Experience in requirement analysis, coding and testing various modules in a software development life cycle. 
+Optimizing SQL Server performance. 
+Experienced in installing, creating Oracle databases in different platforms like Red Hat 
+Linux, Oracle Enterprise Linux, Windows 2000/2003/NT etc. 
+Projets 
+Big Joe's Pizza official (food ordering - pizza and burger) A online food ordering system in which user can order pizza s burgers etc. from various interfaces and store will get the notification of their order and deliver them with a secure tracking system. 
+Role: 
+Database Designing, and Testing. 
+Website Url: http://bigjoes.co.uk/ 
+Chicken Club (food Ordering) 
+A online food ordering system in which user can order pizza s burgers etc. from various interfaces and store will get the notification of their order and deliver them with a secure tracking system. 
+Role: Managed and Design database, UI Design and Testing. 
+Website Url: http://chicken-club.co.uk/ Order Management 
+A secure admin management system in which admin can view order details and send confirmation to user and also track their order whether it is delivered or not also can track the driver with GPS system. 
+Technical Skills 
+Languages: C, C++, J2SE, J2EE, PHP. 
+Database: 
+MySQL, Oracle, MS-Access, SQL Server. 
+Software Tool: 
+IBM Rational Rose, Net Beans IDE. 
+Web Designing: HTML5, CSS3, JavaScript. 
+Operating Systems: 
+Windows 7/8/10, UNIX/Linux. 
+Secondary Skill: 
+Visual Fox Pro, Wordpress, Photoshop. 
+Soft Skills: Persistent, Resilience, Self Confidence. 
+References 
+Mr. Asif Shaikh : HR Manager at first4epos (asif@first4epos.com). 
+Dr. Richa Gupta: HOD (CSE) at Sushila Devi Bansal College Of Engineering( hodcs@sdbce.ac.in). 
+Declaration 
+I, Surya Tiwari hereby declare that the all above particulars are true to the best of my Knowledge and belief. 
+Place Date Surya Prakash Tiwari 

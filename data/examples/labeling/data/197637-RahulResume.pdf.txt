@@ -1,0 +1,92 @@
+House
+No: 1-8-273, 
+Street No: 10, Chikkadapally, Hyderabad-500020 
+Mobile: (+91)9533247253 E-mail: rahulj.networks@gmail.com 
+J.Rahul Yadav 
+OBJECTIVE: 
+To strive for Excellence in the field of IT development with dedication, focus, proactive approach, positive attitude, passion and to utilize my knowledge and skills in the best possible way for the fulfillment of organizational goals. 
+SUMMARY: 
+2 years of professional Experience in Windows System Administration and Redhat 
+Linux. 
+PROFESSIONAL EXPERIENCE: 
+System administrator in prodigy system and services 
+Job Profile: 
+1 Windows 2003/2008 Linux (Redhat, Cent OS) server configurations 2 Installing, configuring and troubleshooting application servers like Apache and 
+LMS Server. 
+3 Configuring of Active Directory, Primary and Backup Domain Controller. 
+4 User accounts maintenance, managing resources with Security strategies using Active Directory Groups, Managing Group Policies. 
+5 Maintaining Internal Mail Server (Desknow) 
+6 Monitoring the entire setup with the help of Nagios monitoring tool. 
+7 General day to day trouble shooting (application and OS) 
+8 Dealing with the clients directly and escalating the issue if necessary. 
+9 Installation and configuration of LAN equipments like Hub, Switch, LAN cards, 10 Network printers etc. 
+11 Providing solutions for problems with network printers, network connectivity, and hardware and software problems 12 Coordinate with vendor, tech team, Enterprise management team to resolve user issues. 
+13 Hands of Experience on 
+Vm-ware ESXI 5.5. 
+14 Installed and configured Vm-ware ESXI 5.5. 
+15 Creating Virtual machines in ESXI server and also maintaining snapshots of each and every virtual machines. 
+16 Cloning the virtual machines with the help of Vm-ware vCentre server. 
+17 Converting physical machines to virtual machines through Vm-ware vCentre Converter Standalone. 
+18 Managing virtual machines with the help of Vm-ware vSphere Client. 
+19 Reporting daily, weekly and monthly server status. 
+20 Quota management and reporting. 
+21 Take over all ownership of all user calls logged and ensuring resolution of calls within SLA. 
+22 Remote Server Administration through VNC, Remote Desktop Connection etc. 
+23 Preparing documents on all the Servers including the major role of the Server, Hardware and Software Configuration etc. And updating reports to management. 
+24 Assigning rights and privileges to users to access files and folders 25 Implementing and Configuring the Active Directory on Windows server 2k3 and 2008 platform 26 Installed, Configured & troubleshooting Backup process for Windows 
+2003/2008 Servers. 
+27 Troubleshooting the event log on the servers. 
+28 All the new Software s / Hardware s / Upgrades / Patches / Service Packs are tested on the test environment to ensure that the production is not affected. 
+29 Installed and Configured Symantec Backup EXEC 2010. 
+30 Backup and Restoration of Server s / Workstations through Symantec Backup. 
+PROFESSIONAL SKILL SET: 
+Operating System: Red Hat 9,Red Hat Enterprise 6 Windows server 2003/2008. 
+Web Server: Apache Web Server, 
+Servers: SAMBA, NFS, Apache and FTP 
+Package administration: install, uninstalling, upgrading of packages and patches. 
+User administration: Adding and deleting users adding groups, setting user policies and automating the User administration. 
+Worked on: 
+HP SERVERS: HP ProLiant DL385, HP Proliant ML350 G6, IBM System X 3640 M4. 
+Windows ADMINISTRATION SKILLS: 
+Installation and configuration of Windows 2008 Server. 
+Implementation and configuration of DC and ADC s. Implementation and configuration of Group Policies. 
+Implementation and configuration of DHCP & DNS. 
+Implementation and configuration of FTP. 
+Installation and configuration of Software s in Windows /XP/7/8 Windows Server /2003/2008 
+Creating user accounts, configuring user profiles, creating local and global groups, managing accounts and Domain controller. 
+Sharing folders, planning and assigning NTFS permission. 
+Installed and configured WDS. 
+Linux ADMINISTRATION SKILLS: 
+Installing and configuring of Linux (Red Hat, CentOs) on servers and workstations. 
+Manage user accounts, groups, hosts, printers, file systems and security. 
+Configuring and NFS clients on LINUX. 
+Hands on experience on implementing Red Hat Linux in Software Development. 
+Experience of Kernel compilation on Red Hat Linux. 
+Experience of configuring Printers with CUPS to support IPP feature, maintenance of local and Network based Printers. 
+1 Attend day-to-day administration and maintenance operations on local and remote/client servers. 
+Backup & Restoration by using tar, and dump. 
+Installing and configuring of Samba for heterogeneous platform. 
+Hardware upgrades (CPU, Memory, CD-ROM, Network Interface Cards, Hard drives.) Installing & testing new systems and bring them into production. 
+Adding and configuring disks and creating new file systems. 
+System monitoring, maintaining logs. 
+File sharing from LINUX to windows environment using SAMBA. 
+Installing and configuring VNC server and client. 
+Monitoring the entire setup with the help of Nagios monitoring tool. 
+EDUCATION: 
+B.Tech. Younis Sultan College Of Engineering (2009-2012) INTER. Sri Chaitanya Junior College (2007-2009) 
+S.S.C. St. Adams High School, Hyderabad (2000-2006) 
+Computer Skills: 
+Operating System : Windows Xp, Vista, Win7 server 2003 & 2008, Linux. 
+Personal Details: 
+Date of Birth : 28-05-1991. 
+Sex : Male. 
+Father s Name 
+: J.Ganesh Yadav. 
+Marital Status : Single. Languages Known : English, Telugu and Hindi. 
+Permanent Address : HNO: 1-8-273, Chikkadapally 
+Hyderabad 500020, Andhra Pradesh. 
+Ph. +91-9533247253. 
+Declaration: 
+I here by declare that the information furnished above is true to the best of my knowledge. 
+DATE: 
+PLACE: Hyderabad (J.Rahul Yadav ) 

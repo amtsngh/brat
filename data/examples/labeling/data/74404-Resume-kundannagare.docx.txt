@@ -1,0 +1,113 @@
+KUNDAN SHANKAR NAGARE 
+Progressive classic, room no.23, 
+Plot no.80/81/82, sector no.19/20, 
+Email :- kundannagare@gmail.com 
+CBD Belapur, Navi Mumbai-400416. 
+Mobile No.:- +91-9022301989 
+QUALIFICATION: 
+B.E. (Electronics & Telecommunication Engineering) CAREER OBJECTIVE 
+To obtain the position in an organization where I can utilize my Professional, Educational knowledge and Experience towards the growth of the organization. 
+Certifications: 
+Certification Certification no. 
+Red hat certified system administrator 120-176-490 Cisco certified network associate CSCO12239176 
+Red hat certified engineer 120-176-490 SUMMARY OF PROFESSIONAL EXPERIENCE 
+1. Company: Ericsson Global India Ltd. 
+DOJ : 1st Jan 2015 Designation: Engineer, 2nd level Assurance 
+Status : Currently working here 
+Team: Network Management Group - Data (Data-OPS) 
+My core job responsibilities include Planning, Designing, Implementation, Maintenance and Administration of various System and Applications for the management and FCAPS of the Reliance Networks like RDN (Reliance Data Network), DCN (Data Communication Network), MEN (Metro Ethernet Network) and RIN (Reliance Internet Network), 
+Key Deliveries: 
+Assessment and Administration of various NMS applications used in reliance environment like: 
+Fault management Systems (HPOV NNM 7.53 & NNM9i, 5620 SAM) 
+Access management System (Radius AAA,LDAP) Configuration and Change Management System (Rancid) Ensure timely backup of system and application and restoration of the same whenever required. 
+Evaluating the New Vendor products like Network Devices, NMS, and Provisioning Tools and conducting testing for compatibility with existing products in multivendor Environment. 
+Responsible for integration of new Vendor devices with existing Network and Applications 
+Troubleshooting various Network system and NMS related issue. 
+Escalation of the various TAC issues to the Vendor like Cisco, HP, Juniper, Sun and Alcatel Lucent. 
+Implementation of New project and expansion of the current projects and timely upgrade of system and NMS. 
+Cisco ACS 5.6 application and server administration. 
+System Administrations: 
+Solaris Administration: 
+Hands on experience on Linux and Solaris System administration. 
+Troubleshooting of OS and Hardware related Issues. 
+Jumpstart, configured, updated Solaris servers with Solaris 8, 9, and 10. Support for Servers of Sun (V880, V440, V 480R, Netra 1290, Blade 6000, T2000, V120,V240) Dell (M1000E, Blade Server). 
+Implementation of Solaris Zones for Virtualization. 
+Managing System Administration Function, involving: 
+Installation, Patch up gradation, Application Installation on Sun Solaris Servers. 
+User Creation and Group Management. 
+System Performance Monitoring. 
+Regular disk space monitoring, working on alerts, log file monitoring. 
+Configuration and management of various products like SSH, SUDO, FTP, DNS, SAMBA, NFS. 
+Solaris volume manager (SVM): configuring mirroring. Maintenance of meta devices. 
+NNM9i (Network node manager): Installation, configuration, patch installation, up gradation. 
+LDOM Management 
+Cluster Management 
+Network Multipathing in solaris 
+Solaris server hardening. 
+Linux Administration: 
+Cent OS 5.5, 5.6 installation, RPM package installation, patch management, User access Management, Directory management. 
+Network installations ofKickstart& NFSconfigurationsandinstallation scripts. 
+Disk Management , partitioning toolslike fdisk, sfdisk etc. file system managementext3filesystem&utilities(mke2fs,e2fsck,tune2fs)LVM physical volumes and logical volumes & volume groupsextending filesystemson LVMmount, unmount offilesystems- /etc/fstabmount options disk quota. 
+RedHat Linux Startup process - init - /etc/inittab -/etc/init.d service scripts, runlevels, chkconfig etc. 
+RAID management 
+Installing & configuring file servers like NFS & FTP for remote sites. 
+Linux Server hardening. 
+Job role and responsibilities were same as previous, only employment has changed from Alcatel lucent to Essjay Ericsson. Then after currently on pay roll of Ericsson. 
+2. Company: Essjay Ericsson (P) LTD. 
+Duration: 
+1st Dec 2014 to 31th Dec 2014 Designation: Engineer 3. Company: Alcatel-Lucent managed solutions India PVT LTD. 
+Duration: 9th Dec 2013 to 
+30th Nov 2014 Designation: Executive 
+Team: Network Management Group - Data (Data-OPS) 4. Company: Stratinsol, 
+Location: Vashi, Navi Mumbai 
+From: 15th Dec 2012 to 9th Nov 2013 
+Designation: Network Administrator 
+Team: IT 
+Responsibilities included, but were not limited to, the development, administration, and support for company's network as well as the design, implementation, and maintenance of thenetwork. Good understanding of Red hat and Ubuntu Linux System, Support end users that use a wide variety of hardware and software Ubuntu 10.10/11.04/12.04 LTS. 
+Troubleshooting wide variety of Ubuntu desktops. Installation of Ubuntu with PXE server. Worked on ssh, VNC, Virtual 
+Machine. Networking fundamentals on Ubuntu system. Working on tools like VICIdial administration which is used as Asterisk. Having good knowledge of softphones like twinkle, x-lite. 
+Also having knowledge of PRI line, work on EPABX matrix. 
+Bash Shell, grep, VI/nano/gedit, netstat, iftop, ps, grub boot config & systems rescue, fstab, ext3/ext4,vmstat, run-levels, mtr, sudo. Yum, RPM, DHCP. 
+IT SKILLS 
+Red hat Certified System administrator and Engineer: 
+Cisco Certified Network Associate:- 
+Operating System:- 
+Windows XP\7 
+Red Hat Linux 5, 6.2 Ubuntu 10.10/11.04/12.04 LTS 
+Oracle Solaris 8/9/10/11 VMware workstation 
+NMS Applications: 
+HPOV NNM 7.53 and NNM9i, Syslog, Rancid, ALU 5620 SAM, DNS, 
+Network Security: Broadhop, Radius AAA+, SBR Radius AAA+ LDAP, TACACS 
+Network Devices: Juniper, Cisco (C34, C35,M38,C76), Huawei(W400,W200,W53), ALU SR 7750, Networking & Protocols: SNMP, Basic Routing Protocols 
+Languages & Scripting: 
+Basic of Shell, Awk, Expect 
+Hardware : Sun, Dell, HP 
+Office Productivity: MS Word, Excel, PowerPoint EDUCATIONAL QUALIFICATION DEGREE/ COURSE NAME OF INSTITUTION BOARD / UNIVERSITY YEAR OF passing % MARKS 
+B.E 
+S.S.P.M. College Of Engineering, Kankavli. 
+Mumbai 2013 
+54 XII TH 
+Bharati vidyapeeth jr. college of science, Mumbai 2007 
+63 
+X TH 
+Bharati vidyapeeth high school, Mumbai 2005 
+82 
+PERSONAL INFORMATION 
+Date of Birth : January 23, 1989 
+Fathers Name : Shankar Chimnaji Nagare. 
+Languages : English, Hindi, Marathi. 
+Hobbies : photography, Surfing Internet, Reading. 
+Watching and playing Cricket, football 
+Passport no. : 
+J9027672 
+Pan card no. 
+: AJBPN5024D 
+Nationality : 
+Indian STRENGHS 
+Sense of responsibility Toward Work 
+Ability to Independently Handle Projects 
+Hardworking 
+Creative Thinking 
+DECLARATION: 
+Do hereby declare that all the information given above is true to the best of my knowledge. 
+KUNDAN SHANKAR NAGARE 

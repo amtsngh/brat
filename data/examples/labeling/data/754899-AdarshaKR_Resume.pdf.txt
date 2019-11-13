@@ -1,0 +1,51 @@
+ Adarsha K R 
+Seeking assignments and opportunity in mobile application development with a growth oriented organisation. 
+Bangalore +91
+9611360344 adarsh.be2@gmail.com 
+EXPERIENCE 
+LAVA R&D Center, Bangalore Senior Android Developer 
+Oct 2014 - PRESENT - Boost 
+it is a device centric solution which Boosts phone performance from core. Worked as a part of development team of 4 - Aries (Launcher for Android) A custom launcher for lava devices. It caters for specific business and end user requirements. Worked as a part of development team of 6 KPIT Technologies, Bangalore Android Developer 
+Feb 2014 - Sept 2014 - Robot Tractor an app which is helpful to farmers to control their farm tractor by android tablet. Worked on UI and UI Test Automation. 
+Tycoon Software Tech., 
+Bangalore Android Developer 
+July 2011 - Jan 2014 - Sangrahana Banking Cash collection management software for small banks and cooperative sectors. Worked on presentation layer, developed mobile screens, bluetooth connectivity with thermal printers, integrated with AMDL, evaluate company thermal printers. Team size: 7 - Sangrahana Retail Offline solution for retailers or wholesalers to maintain their stock, sales, tax and billing information in mobile. Worked as a UI Designer and Developer, designed and developed backend & UI for app. Team size: 3 - Pointize an e-Commerce application, intention was to become all partners into one platform. Worked as a UI Designer and Developer. 
+EDUCATION 
+JNNCE, 
+Shimoga BE Telecommunication (69.97%) 
+June 2007 - May 2011 National Pre-University College, Shimoga PUC (78.50%) 
+July 
+2005 - July 2007 
+HOBBY PROJECTS 
+- Wake Me Up: Customized Ringer Modes 
+- SMS <-> Mail: 
+Backup your SMS via email - Text to Speech: 
+Speak out your massages - Location Based Alarm: 
+Wake me up at destination 
+SKILLS 
+Programming Languages: 
+JAVA, C, C++, RxAndroid 
+Scripting Languages: 
+HTML, XML, CSS 
+Operating System: 
+LINUX (Ubuntu), Win 
+DB : 
+SQLite 
+IDE : 
+Android Studio, Eclipse, Intellij, Visual studio Version control System : 
+Git,SVN ANDROID SKILLS 
+Device Layer/Services 
+Broadcast Listener 
+REST API 
+UI Layer ListView RecyclerView Fragments Custom UI 
+Animations 
+Storage 
+XML, JSON 
+Sqlite Android Preferences 
+Programming Knowledge (Android focus) 
+Object Oriented Programming 
+Activities 
+Intents and Intent Filters 
+Permissions 
+Device Compatibility 
+Rest API (Retrofit and OkHttp) RxAndroid ButterKnife Different features of Firebase usage in Application 

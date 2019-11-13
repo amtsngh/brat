@@ -1,0 +1,68 @@
+contact syambrij.maurya@gmail.com +91
+8826714342 skills proficient 
+Java 7/8 
+MySQL MongoDB Spring 
+Hibernate comfortable 
+Python 
+ETL- Talend JavaScript HTML/CSS GIT/SVN languages native HIndi advanced English beginner Sanskrit 
+Syambrij Maurya software developer and problem solver Selected projects tract | An Intelligent Billing Plateform for Smart Business https://my.tractbilling.com Subscription or usage based billing/revenue system for business with no manual effort required. 
+A complete solution for businesses by providing billing solution, invoicing, revenue management and reporting. 
+Integration with Invoicing tools, BI and reporting tools like pentaho. 
+Involved in developement of tools, bug fixing, refactoring and maintenance of project. 
+Used Java, Spring and Hibernate to develope data migration tool to move business data from one account to other. 
+TOOLS | XML generator/formatter tool as custom tools 
+A XML generator tool which parse a SALESFORCE error ressponse (a raw text data) and generates a formatted XML with indentation. 
+Used K-ary tree to generate, format and indent the XML. Embedded Javascript code editor ACE in the web page. Also developed two other tools- xml to json converter csv to json converter 
+COGNITA | A data analytics plateform for schools https://cognita.leantaas.com 
+A data 
+analytics 
+plateform to show the insights of business data. 
+Worked on data visualization layer and ETL layer. 
+Worked on complex ETL job to load the data in SQL generated in raw form. 
+Worked on Spring, complex core Java code and SQL queries. 
+SFDC connected app | 
+A connected app in Python to refresh access token. 
+Developed a connected app in Python to retrieve Access Token from salesforce API. 
+Wrote a background scheduler to refresh the access token. 
+Used RSA algorithm to encrypt the token information. 
+Used Flask for web app and requests module for REST API. 
+Experience 
+01-07/2015 Algoworks | 
+Software Engineer Trainee Noida, U.P 
+Writing support tools to help business running without interruption. 
+Involved in development, bug fixing, refactoring and maintenance of project. 
+Closely following the code standards 
+like SOLID principle and software design patterns for project level understanding. 
+Attending knowledge sessions actively to get more from different projects. 
+07 present Algoworks | 
+Assosiate Software Engineer Noida, U.P 
+Working on differnt modules of project at Individual level as well with the team. 
+Pair-programmed to implement many features in project at various level. 
+Intensive research to find 
+a simple and clean approach for 
+a given problem. 
+Peer code reviews and quality check using SONAR code quality check. 
+Knowledge trasnfer sessions on different topics 
+like- 
+Functional programming, Mutability and Design Patterns. 
+Awards and certifications MongoDB certified Java Developers(M101J) from MongoDB university.. MongoDB certified DBA(M102) from MongoDB university. 
+Finalist of India s biggest coding competetion- 
+https://www.techgig.com/codegladiators 
+Winner of multiple coding competition on Algorithms. 
+Web technologies certificates from codecademy. 
+Education 2014 
+B.Tech 
+Computer Science 
+UPTU 61.94% Studied computer science as major 
+e.g.- 
+Algorithms, Data Structures, Operating 
+System, Networking, Cryptography, Mathematics, Machine 
+Learning. 
+Worked on 
+Image encryption as final project. 
+One way function based chaotic Image Encryption. 
+Personal details 
+Full Name 
+Syambrij Maurya 
+DOB 26th April 1993 Email syambrj.maurya@outlook.com LinkedIn Url 
+https://in.linkedin.com/in/syambrij-maurya-b2491873 

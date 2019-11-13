@@ -1,0 +1,45 @@
++91
+8971556528| saras.arya@gmail.com |www.sarasarya.com 
+Saras Arya 
+A software lead with experience in Full Stack Development in a Backend heavy role. A Javascript developer by day and an avid learner by night. I eat, live and breathe scalable code. 
+E M P L O Y M E N T Dec 2015 - present SOFTWARE LEAD Metaiot Technologies Pvt. Ltd + Software Architecture and Design of the Application. 
++ People , Budget and Time Estimation according to milestones. 
++ Establishing Processes and strong ethics in terms of code quality. 
++ Coding the Application (backend, frontend and mobile). 
++ Establishing communication protocols for IoT Gateway. 
++ Evaluating new Frameworks and estimating the technical debts. 
++ Evaluating new tools for improved productivity/performance. 
++ Building the data analytics platform to perform real time Prediction queries using ML algorithms. 
+JULY 2015 - NOV 2015 SOFTWARE ENGINEER Cerner Healthcare IT + 
+Handling migration of Scheduling Software from C++ to Java. 
+S K I L L S 
+Languages JAVASCRIPT 
+PYTHON Framework NODEJS 
+ANGULAR JS 
+Database MONGODB REDIS 
+Extras GOOGLE MAPS API BASH SCRIPTING 
+DEVOPS IONIC APP DEVELOPEMENT 
+E D U C A T I O N 2011 - 2015 B.TECH COMPUTER SCIENCE Vellore Institute of Technology, Vellore (8.97) 
+2010 HIGHER SECONDARY EDU. 
+Rajhans Vidyalaya, Mumbai (86.5) 
+2008 SECONDARY EDU. - J.H. Ambani Petrochemicals English Medium School (85.6) 
++91
+8971556528| saras.arya@gmail.com |www.sarasarya.com 
+A C H I E V E M E N T S 
++ Taking an idea and converting it into a full fledged product with backend, frontend, mobile app and deployment done, single handedly(VEHICO). 
++ Ex-President and Technical Head at Technology and Gaming Club VIT 
+Vellore 
+W H A T ' S 
+S P E C I A L + Brainstormed and Generated Ideas. 
++ Clear mapping of business case : Technology 
++
+Based on current situation and variables, charting out a future roadmap of the team/company to best utilize the potential/resources. 
++ Sitting directly in customer's location and understanding the need of the customer and arriving at better product to market fit. 
++ Cross Pollination of ideas generated from working closely with multiple functions of product. 
++ Worked in resource constrained environment and the intent to do it as frugally as possible. 
++ Understanding of how a business works and how investors, finance, legal, technology all come together to shape a company. 
+P A S T I M E S 
++ Upskilling(Pluralsight, udacity, udemy) + Hackerrank + Avid Gamer (Uncharted 4, Skyrim, The Last of Us, CS, CoD) + Blogging https://blog.sarasarya.com/ 
+P R O F I L E S + GITHUB 
+https://github.com/SarasArya 
++ STACK OVERFLOW http://stackoverflow.com/users/3320962/saras- arya + LINKEDIN https://in.linkedin.com/in/sarasarya + TWITTER https://twitter.com/saras_arya 

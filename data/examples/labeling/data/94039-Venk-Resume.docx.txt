@@ -1,0 +1,90 @@
+ 
+Name:Venkatesh. S 
+E-Mail:Muntu_18@yahoo.co.in 
+Mobile: +919940637158 Aiming to become a good dynamic professional in the field of IT virtualization System Administration to provide positive solution for any given problem with a commitment for Companys excellence. 
+Areas of Expertise 
+VMware Technology (Vsphere- 5/6). 
+IT Trainings & Certifications 
+VMware Infrastructure v6 Training VMware Infrastructure v5 Training & Certified VMWare Cloud Automation & Deploy Training 
+ITIL Version 3 Certified 
+Education Qualification 
+Bachelor of Engineering in Electrical & Electronics Engineering, Aalim Muhammed Salegh College Of Engineering (passed out year 2008, Clearing year 2012) Diploma in Electrical & Electronics Engineering, Aalim Muhammed Salegh polytechnic, Chennai passing and clearing year 2005 Experience Summary 
+Over 8 years of enterprise-level technical experience as a systems engineer specializing in virtualization, server experience includes project development & management, enterprise-level virtualization, data center relocation, P2V & V2V migration, server performance management and deployment planning. 
+Implemented large scale deployment of 50+ ESXi hosts across, virtualizing 100+ servers in process to reduce operating expenses annually. 
+Managed corporate VMware virtual environment of 300 ESX hosts and 1000+ virtual machines. 
+Vmware 
+Organization :Vmware India 
+Designation : Technical Support engineer Environment : VMware 
+Duration : Oct -2015 to till date Major Role : Troubleshooting customer environment. 
+COGNIZANT EXPERIENCE 
+Organization :Cognizant Technologys 
+Designation : Technical Lead Environment : VMware 
+Duration : Aug -2014 to till date Major Role : Data Center Migration via (V2V/P2V) & ESX,VM Decommissioning 
+Migration of Virtual and Physical machines (Windows,Linux & Unix ) From one data center to another using sVmotion & Platspin technology. 
+Installing, configuring & managing ESX 5.1 & 5.5 using UCS V-Block Servers 
+Creating & managing virtual machines Installing VM Tools & Upgrading the Virtual Hardware of the VMs Assigining and upgrading DataNIC & BackUp NIC for Virtual Machines 
+Decommissioning of ESX I server and Virtual machines Upgrading of ESX from 5.1 to 5.5 versions Creating & managing ESX cluster. Enabling HA & DRS features in a cluster 
+P2V & V2V conversions by using Platespin Converter 
+Configurations of Virtual stander, distributed switches for network connections Performing Snapshots, Cloning, cold migrations & hot migrations of virtual machines 
+Creating templates from VMs & deploy VMs from templates & allocate resources Creating duplicate VMs using cloning technology Moving VMs from one LUN to another LUN using Storage vMotion Adding a New Virtual Disk, Extending & Shrinking existing vDisk. 
+Good understanding on HP SM for Change Requestes CSC EXPERIENCE 
+Organization :Computer Sciences Corporation India Pvt. Ltd. 
+Designation : Engineer- System Administration 
+Project : 
+United Technologies Corporation 
+Environment : VMware 
+Duration : Dec -2012 to July- 2014 Major Role : Installing new ESXi servers and Virtual Machines, Upgrading of ESX servers & Decommissioning process, ESX Audit-265 
+UTC serves customers in the commercial aerospace, defense and building industries and ranks amongthe worlds most respected and innovative companies. We were supporting the customers from The United Kingdom, France, Switzerland, Italy & Spain 
+Installing, configuring and managing VM Servers and ESXi. 
+Installing the ESXi Patches. 
+Up gradating ESXi from lower level version to next level version. 
+Doing the P2V and V2V using the VMware Convertor 
+Decommissioning of ESXI server and Virtual machines Security Compliance of ESXI servers for IT265 
+Trouble shooting and resolving the Vcenter and ESX / ESXi Issues. 
+Managing VCenter Server 5.0 and Providing access to the System admins. 
+VM Server build and configuration as per the Client requirement, Resolving VM issues and Monitoring the performance. 
+Hardware Raid Configuration, Firmware updatation and troubleshooting hardware devices. 
+Trouble shooting and resolving the servers issues. 
+Hands on working with BMC remedy for Change Orders Creations, Follow up and Incident Management change tickets 
+HCL EXPERIENCE 
+Organization : HCL Comnet Limited, Chennai. 
+Designation : Analyst, SYSTEMS 
+Project : 
+Constellation Bands Inc 
+Environment : VMware, Windows 
+Duration : Aug -2010 to Nov 2012 
+Constellation Brands have adapted VMware view technology to provide virtual Servers & desktop to end users to serve the infrastructure needs. About 50 ESX hosts are dedicated for virtual infrastructure. We were supporting the customers from the United States of America, Australia & Newzeland 
+VM Servers build & rebuild as per the client request through change management process Installing & configuring ESX & ESXi servers Managing ESX server through Venter 4.1, 5.1 and web client Installing, configuring & managing virtual infrastructure & virtual center Creating & managing resource pools & adding the VMs into resource pools Creating & managing virtual machines & installing VM Tools into VMs Manage VMs using VMware virtual center & through web client 
+Installation & configuration of virtual machines in an Enterprise SAN & NAS environment Security hardening & Monitoring of VMs & ESX servers (CPU, Memory, Disk, Network Utilization) for Security Compliance 
+Performing Snapshots, Cloning, cold migrations & hot migrations of virtual machines 
+Creating templates from VMs & deploy VMs from templates & allocate resources Creating duplicate VMs using cloning technology Moving VMs from one LUN to another LUN using Storage vMotion 
+Root Cause & System Log Analysis & reporting. 
+Troubleshooting problems with the help of Event Logs. 
+Troubleshooting virtual machine issues. 
+Manage users, groups, permissions & roles. 
+Adding a New Virtual Disk, Extending & Shrinking existing vDisk. 
+Hardware monitoring of IBM, HP & DELL systems through tools like HP SIM & IBM system manager. 
+Good understanding on BMC remedy and change tickets and the life cycle of incident to meet SLA 
+NETLINX EXPERIENCE 
+Organization : NETLINX SYSTEMS, Chennai. 
+Designation : System Administrator 
+Environment : 
+Windows 
+Duration 
+: Aug 2008 - August 2010 
+Job Profile: 
+Installation & configuration of File server Installation and configuration of OS, Installing Antivirus and updating it regularly. 
+Raising Vendor calls for defective Spare and coordinating with the vendors. 
+Installing, Configuring and Administering Windows servers Implementing, and Troubleshooting Hardware Devices and Drivers 
+Configuring, Managing and Troubleshooting the Server Environment, Managing and Maintaining Windows Server Environment 
+Personal Profile 
+Fathers name R. SathyaPrakash Date of Birth 18-Feb-1986 
+Sex Male 
+Nationality Indian 
+Marital Status Single 
+Languages known English, Hindi, Marathi, Tamil 
+Personal Address No 48/37, Arunachalamst Chepauk, Chennai - 600 005 
+Declaration 
+I hereby declare that above mentioned details are true and correct to the best of my knowledge. 
+With Regards 
+(S. Venkatesh) 

@@ -1,0 +1,89 @@
+SHEETAL SAVAGAONKAR 
+E-Mail: sheetaldes@yahoo.com (mailto:sheetaldes@yahoo.com) 
+Contact No: +91
+9986014245 ~ Software Professional ~ PROFESSIONAL SYNOPSIS 
+Software Professional with over 10 years of experience in application development & project coordination and mentoring juniors. 
+Extensive experience in Core Java development and frameworks like Swing, SWT, Multithreading, and Design patterns, XML, JDBC, JSP, J2EE,Data Structures, Hibernate, Algorithms. 
+Worked with Digital harbor, Bangalore as Senior Software Engineer in Health Care Domain. 
+Was associated with HSBC Software (CMMI Level), Pune as Software Engineer. 
+Adeptness in handling the complete SDLC and flair for adopting & keeping abreast the latest IT trends/ technologies and providing innovative and alternative solutions to the Customers. 
+An effective communicator with exceptional relationship management skills with the ability to relate to people at any level of business; hands on experience in developing Finance and Banking Applications using Microsoft Technologies like VB 6.0 and VB Script, Delphi 6, Health care applications using Core java and SQL Server 2008. 
+Expertise in Database transactions using SQL Server 2000, SQL Express 2005, and MS Access & designing complex reports using Crystal Reports. 
+Proven abilities in project co-ordination including collection and analysis of customer requirements, developing business logic, application development and implementation & client interaction. 
+ISTQB Foundation Level certified. (Major projects included in the Annexure) 
+Occupational Contour 
+Oct 10 to Apr15 
+Digital Harbor Pvt Ltd 
+Senior Software Engineer 
+Dec07 to Jan 2010 
+HSBC Software (CMMI Level), Pune Software Engineer 
+Apr06 to Nov07 Datavision Software (CMM 5), Pune Delphi Consultant. 
+(Deputed in NCR Corp India Ltd., Mumbai from Jun06-Jun07) Nov03 to Mar06 Creative Soft & Consultancy, Karad Programmer 
+Skills Set 
+Technical Skills 
+Operating Systems: Windows 2000 professional, Windows 95/98, Windows XP, MS-DOS, Windows 8 
+Languages: Core Java, Swing, SWT, VB 6.0, Delphi 6 Internet: HTML, JavaScript, VBScript 
+Databases: SQL Server 2000, SQL Express 2005, SQL Server 2008, SSIS, MS Access 
+Reports: 
+Crystal Reports 8.5 
+Tools: 
+Quality Center, JIRA, PCC Document Viewer 
+ORM: Hibernate 
+Functional Skills 
+Understanding and coordinating with clients needs / enhancements, customization, software-related issue of clients and consult with technical team to provide solutions in adherence to delivery schedules. 
+Working on project planning, scoping, estimation & tracking. 
+Implementing project plans within preset budgets and deadlines. 
+Serving as Point of Contact / interface for supporting Client. Meeting deadlines and UAT sign off without compromising quality norms and adhering to SLA. 
+Delivery Management & Post Implementation supports. 
+Noteworthy Milestones 
+Team Award for the Year 2009 for Successful Upgrade of Quality Center 9.2 Have been awarded as Star performer for two quarters. 
+Academic Credentials 2003 B.E. (Instrumentation & Control) Cummins College of Engineering, Pune University, Pune 2000 
+Diploma 
+G.P.K. Karad, Mumbai Board 1997 
+12th 
+Y.C. College, Karad, Kolhapur Board 1995 
+10th S.M.E.M.S., Kolhapur Board Personal Dossier 
+Permanent Address: 125, Guruwar Peth, Karad-415110, Maharashtra. 
+Local Address: E-408, Raheja Residency, 3rd Block, Koramangala, Bangalore, 560034, Karnataka. 
+MAJOR PROJECTS HANDLED 
+Project Details Tenure Details 
+Working as Senior Software Engineer in Digital Harbor PIIE stands for Professional Interactive Information Environment. PiiE is Digital Harbors platform for creating composite applications. 
+PiiE is an information-centric, portable platform that promotes the dynamic creation of integrated applications using context-driven, streamed appliances and managed resources as dictated by the user. It fuses portal, process, and integration technologies to dynamically change the way your business builds and uses internetworked applications. 
+Built on J2EE and XML, PiiE provides a semantic integration layer to fuse multiple applications and databases and deliver live, contextual applications to users. 
+Oct10-Apr 15 
+Major responsibilities handled were:Development and enhancement of PIIE platform built using Core Java, Swing, and SWT in multithreaded environment.Creating components using SWT and multithreading.Implementing searching and sorting using in built feature of Java (Collection framework).Integrating third party tools like PCC Document Viewer. Resolving issues involved in PlatformCreating Design documents.Reporting development as per User requirement. 
+UI designing. 
+Technology Used: Core Java, JBoss, Eclipse, SQL Server 2005, Swing, JSP, Servlet, EJB, KODO, Jackrabbit, Multithreading, Collection framework. 
+Provide Global Support for Mercury Quality Center Tool. 
+Worked as Customization Analyst & involved into development of utilities for Quality Center. 
+Dec07-Jan 2010 
+Major responsibilities handled were: 
+Dealing with the Customization requests of the clients for Quality Center. Responsible for developing Utilities for Quality Center Working as Configuration Manager. 
+Gathering and analyzing requirements, providing estimations & implementing solutions. 
+Reporting development as per User requirement. 
+Technology Used: VB6.0,VBscript , MS Access, Oracle 9i CTS system (Cheque Truncation System) for RBI. 
+April 06-Nov 2007 
+CTS replace physical cheque with electronic images on all four legs of clearing cycle. It is an online image-based cheque clearing system where the cheque images and MICR data are captured at collecting bank/branch and transmitted electronically to clearing house via a secure broadband data communication network(Deputed in NCR). 
+Major responsibilities handled were coding of modules like Super Balancing in Delphi 6. 
+Technology used: Delphi 6, SQL SERVER 2005 
+Financial Package 
+Nov03 
+Aug05 Developed Financial Package related to trading business. It has covered each and every aspect of accounting section related to Trading Business. System gives user interface of any regional language through single application as per users choice. 
+System supports single as well as double inventory. System is applicable not only for trading business but can easily update for other business related to account. Changes have been made for VAT. Major responsibilities handled were: Responsible for Requirement analysis and Designing the forms. 
+Interfacing GUI with record set and connection objects 
+Designing complex Reports using Crystal Reports. Reports were generated in Marathi as per the system requirement. 
+Writing Components like Activex control and Dlls 
+Responsible for On-Site problem debugging and checks on Live Data On-site development and changes in existing system as per Client requirement 
+Maintaining Data backup & transferring the Live Data to backup Data. 
+Getting the data from Remote clients in file format, finding the errors and ending the temporary solution for wrong data. 
+Responsible for documentation and Reporting. 
+Technology used: VB 6.0, MS Access, Crystal Report 8.5 Banking System Sep05 
+Mar06 
+This System is being developed for Co-Operative Banks. This System has been designed for day to day transactions of Savings A/c, Current A/c. It includes facilities for Loan transaction, Shares, pigmy, etc. Major responsibilities handled were: Responsible for designing the forms & interfacing GUI with recordset and connection objects 
+Designing complex Reports using Crystal Reports. 
+Responsible for assembling menu contents, Database designing includes Table and View Creation & On-Site problem debugging and checks on Live Data Maintaining the Data backup and transferring the Live Data to backup Data. Technology used: VB 6.0, MS Access, Crystal Report 8.5 Software for Computer Institute. 
+Software has been developed as a support tool to Automation of Arya Computers. With the help of this tool we can do enquiry, admission and installment of each student. The remaining installment of each student is reviewed with details of history of his previous installments. Major responsibilities handled were: Conducting requirement analysis and designing the forms. 
+Interfaced GUI with record set and connection objects 
+Responsible for database designing includes table and view creation & on-site problem debugging and checks on Live Data On-site development & changes in existing system as per Client requirement 
+Finding the errors and ending the temporary solution for wrong data. 
+Technology used: Core Java using Swing 

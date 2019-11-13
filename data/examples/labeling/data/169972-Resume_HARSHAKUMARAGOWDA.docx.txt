@@ -1,0 +1,57 @@
+ CURRICULUM VITEA 
+HARSHAKUMARAGOWDA M S 
+Emids Technologies 
+Associte Software Engineer 
+Contact No: +91 9019373838 
+Email Id: harsha.mg15@yahoo.in 
+_______________________________________________________________________________________________ 
+PROFESSIONAL SUMMARY 
+A Software Engineer graduated from VTU, Belgaum and having overall 1.5 years of experience in software design, analysis, development, testing and implementation of Web-based Applications. 
+Experience in technologies such as AngularJS, C#, SQL, and RESTfull web service. 
+Core expertise in AngularJS components such as Data-binding, basic templating directive, routing, reusable components, dependency injection. 
+Follow the Industries best practices and adhered and implemented processes, which enhanced the quality of technical delivery. Pledge to deliver the best technical solutions to the industry. 
+Good exposure to Software Development Life Cycle (SDLC) phases. 
+Result oriented, self driven, highly motivated and hungry to learn new technologies, methodologies, strategies and processes. 
+Received the Cause For Applause Award for excellent contribution towards a project for taking significant responsibilities as well as majority of development work and delivering the deliverables without compromising the quality at Emids Technologies. 
+ACADEMIC PROFILE 
+Master of Computer Application (MCA) from Sri Jayachamarajendra College of Engineering, Mysuru, affiliated to VTU Belgaum, Karnataka. 
+Bachelor of Science from Tumkur University. 
+EXPERIENCE 
+Overall experience of 1.5 years. 
+Working as Associate Software Engineer at Emids Technologies from July 2015 till date. 
+TECHNICAL SKILLS 
+Coding : AngularJS, JavaScript, C#, .Net MVC, Bootstrap, CSS , HTML5. 
+Testing Tools and Frameworks : Karma, Jasmine, MS Test. 
+Operating System : Windows, Linux 
+Database 
+: SQL. 
+Other Tools and Packages 
+: TFS. 
+PROFESSIONAL EXPERIENCE 
+Project 1 Client SYMPHONY PERFORMANCE HEALTH 
+Designation Associate Software Engineer 
+Duration July-2015 to present 
+SPH Analytics is a leader in healthcare solutions that empower healthcare transformation for health plans and healthcare providers. The formula ofmeasure,analyze, andtake actionis at the heart of healthcare transformation. Information gathered from our surveys, outreach, and analytic tools measureandanalyzecurrent performance. These metrics allow you totake action towards optimal care outcomes and improvement processes within your organization. 
+Roles/Responsibilities 
+Part of the grooming session with the client for the tasks. 
+Ensure the task completion as per plan. 
+Ensured delivery of quality code. 
+Ensured code coverage for unit test 
+STRENGTHS 
+Can execute a task within given time. 
+Can easily adept to any new implementation. 
+Learn fast from mistakes. 
+Can use available resources effectively 
+PERSONAL PROFILE 
+Fathers Name : Srinivas C 
+Date of Birth : 15th March 1992 Gender & Status : Male & Single 
+Nationality : Indian 
+Present Address : Sri Lakshmi Prasanna PG For Gents, Room No-101 #49/17, 4th cross, Opp. Prashanth Hospital, Begur Road, Bommanahhalli, Bangalore-560068. 
+Permanent Address : S/o Srinivas.C, D.T.Chikkanna Compound P.L.D Bank Road, K.R Extention, Madhugiri (T)-572132, Tumkur (D). 
+Languages Known : English, Kannada, Telugu. 
+Hobbies : Sports, Listening Music, Watching movies 
+DECLARATION 
+I declare that the above information provided by me is true to the best of my knowledge and belief. 
+Date: Signature 
+Place: Bangalore 
+(HARSHAKUMARAGOWDA M S) 

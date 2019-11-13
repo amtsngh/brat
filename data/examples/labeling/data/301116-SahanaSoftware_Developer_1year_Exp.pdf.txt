@@ -1,0 +1,80 @@
+ Ms. Sahana R 
+Contact number : 8197515433 Email ID : kalasasahana@gmail.com 
+Present address : #132, 3rd cross, 5th block, Banashankari 3rd stage, Bangalore - 560085 Objectives 
+Self-motivated, dedicated, hardworking software engineer seeking an opportunity to work in a challenging environment to prove my skills, utilize my knowledge and intelligence in the growth of the organization. 
+Organization Currently working at Nubesol Technologies Pvt Ltd, Bangalore(A Startup Company), as a Software 
+Developer from March 2016 to till date. 
+Technical Skills 
+Languages : Java, SQL, xml, JSON, SQLITE. 
+Software : Android Studio, Eclipse, My SQL. 
+Operating system : Windows, Linux. 
+Other : Manual Testing, Oracle 10g express edition, strong areas in Android including layout designing, basics of native Android application development, getting the data from server using JSON. 
+Academic Profile Completed B.E in Information Science & Engineering from Mangalore Institute of Technology and Engineering with an aggregate of 63.52% and last 4 semesters obtained an aggregate of 68.6% in 2015. 
+Completed 2nd PUC (PCMB) from MGM College Kunjibettu,Udupi and secured 60% in 2011. 
+Completed SSLC from Prabodhini Vidya Kendra, Kalasa (State Board) and secured 85.4% in 2009. 
+Experience Summary 
+Worked in an abstract environment and have 1 year of experience in IT industry including experience in Android application development as well as manual testing. 
+Android Development 
+Highly motivated and focused with 1 year of experience in Design and Development of Android applications. 
+Knowledge in Shared Preferences, SQLite database. 
+Excellent knowledge of Software Development Life Cycle (SDLC). 
+Worked with Web View and Android adapter views like Card View, Grid View, Gallery and Customized List Views. 
+Sound knowledge in Android Sdk, JSON, Eclipse IDE, Activities, Services, Broadcast Receivers, Google maps, connecting to web service, GCM notification and UI design in different layouts using design support library with verification and validation. 
+In Play Store there are 2 applications which I have worked on. 
+Proficient in object-oriented design, problem solving, complexity analysis, debugging and memory management. 
+Able to design applications from the requirements and known for writing efficient, maintainable and reusable code to preserve privacy and security. 
+Expert in writing codes which can interact between various devices and different versions of Android. 
+Quick learning and easy adaptation to new technologies. 
+Manual Testing 
+Excellent knowledge of Software Testing Life Cycle (STLC). 
+Proficient in writing test cases by using test case design technique. 
+Good knowledge in black box testing, unit testing on each and every component of an application. 
+Regression testing after fixing bugs and verifying that the fixes did not create the problems elsewhere. 
+Detecting bugs & classifying them based on severity and priority. 
+Project Details 1. KrishiSuchak (Android application) 
+Team Size: 3 Description: 
+This is an agricultural based application where farmers can send messages, images, and audios to the experts. 
+Farmer can also see the soil test report by scanning the QR code of the soil card. Fertilizer dosage will be recommended based on the soil report. They can also order the recommended fertilizers. This application is present in Google Play store. 
+Roles and Responsibilities: 
+Design and development of UI as per the requirements in different layouts using design support library with verification and validation. 
+Worked on FCM notifications. 
+Recording the audio for 15 seconds and sending it to web services. 
+Capturing the pictures of the pests or affected plants and storing it in web services. 
+Scanning the QR codes and fetching the soil report from web services, showing report in grid view. 
+Identifying the fertilizer needed including the required quantity based on standard value and soil report of the user. 
+Generating random ID for each device. 
+Involved in development of components of Android. 
+Performed black box as well as white box testing. 
+Detecting bugs & classifying them based on severity and priority. 
+Accessing RESTFull Web Services using JSON parsing. 
+Building multi-language supported application (For now this application supports two languages.) 2. StaffTracker Admin (Mobile application) 
+Team Size: 2 Description: 
+This is an application developed for an admin who handles the staff working in different locations. Using this application, admin can track his individual staff by searching his name or his mobile number. He can also see his entire staff in a given location through a command center module and send notifications to all of them. This app is present in Google Play store. 
+Roles and Responsibilities: 
+Design and development of UI as per the requirements in different layouts using design support library with verification and validation. 
+Included Google map interface in the application. 
+Worked on search functionality in list view. 
+Involved in development of components of Android. 
+Performed black box as well as white box testing. 
+Accessing RESTFull Web Services using JSON parsing. 
+Certification 
+I have done Core and Advanced Java with Frameworks certification course from Ascent 
+Software Training Institution Pvt Ltd, BTM Layout, Bangalore. 
+Strengths 
+Ability to grasp new skills quickly. 
+Hard and smart working. 
+Excellent problem solving skills. 
+Ability to meet deadlines and work under pressure. 
+Personal Details 
+Date of Birth 
+: 28th Feb 1994 
+Father s Name : 
+Mr. Ramanath T S 
+Mother s Name : 
+Mrs. Savithri K Permanent Address : 
+Deepa Complex, Mahaveera Road, Kalasa 577124 
+Chikmagalur District, Mudigere Tq 
+Languages known : English, Hindi and Kannada Hobbies : Practicing Karnatic music and Bharatanatyam, travelling. 
+Declaration 
+I hereby declare that the above mentioned information is correct to the best of my knowledge and I bear the responsibility for the correctness of the above mentioned particulars. 
+Date: Sahana R 

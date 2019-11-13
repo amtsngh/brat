@@ -1,0 +1,205 @@
+Murali Gurugubelli muralig9@yahoo.com +91-814 229 2333 MURALI GURUGUBELLI 
+Flat No: G-4, Sri Sai Residency 
+Manikonda, Hyderabad- 500089 
+Andhra Pradesh - India 
+muralig9@yahoo.com 
++91 8142292333 
+Summary: 
+13+ years of experience in developing enterprise applications (Windows & Web) using Microsoft technologies and Mobile apps (Windows, Android and iOS). 
+Handled multiple projects in parallel from conception to closure and different stages of SDLC with distributed teams. 
+Practicing agile project management methodologies for past 6 years (XP and SCRUM) and acted as a SCRUM master for 3+ years. 
+Managing global teams with key focus on improving efficiencies, motivating teams and creating environment for performance excellence and process improvements using agile methodologies such as SCRUM & KANBAN frameworks with TDD and ATDD approaches. 
+Expertise in various domains such as Banking, Finance, Retail, Manufacturing, Security systems, Training Management Systems and Referral programs. 
+Expertise in aligning business objectives with project objectives. 
+Track record of suggesting and implementing innovative solutions in the project, Process implementation & improvement; always willing to accept more responsibilities. 
+Communication (Status updates and schedule negotiations) with stake holders. Assistance to Product Owner for Product backlog prioritization and responsible to conduct all SCRUM ceremonies and maintaining artifacts. 
+Good exposure in preparing User Stories, Prototype, acceptance criterias and business requirement documents. 
+Good exposure in Short term & long term sprints and Co-located & highly distributed scrum teams Expertise in application designing, development, maintenance w.r.t usability, performance, scalability and maintainability. 
+Actively participated in tendering process (Clear analysis on RFP and providing business solutions by publishing the objectives, Features, defining the solution architectures, Project process and timelines, identifying the assumptions, Cost estimation for software & hardware) and given the technical evaluation sessions at client places. 
+Technically strong in OOPS concepts, Design principles & patterns, MVC, Data base designing & SQL, DB & Application fine-tuning, Mobile Apps. 
+Strong in Agile project management tools such as TFS, JIRA, IceSCRUM, MS Project, MS Visio, MS Power point, Axure Pro, Just-in-Mind, Balasamiq etc 
+CORE COMPETENCIES: 
+Product Management Client Relations Management Change Management 
+Key Account Management 
+Strong Interpersonal Skills 
+Cross-functional Coordination Technical savvy 
+Process Implementation & Improvement 
+Handling Multiple Teams Cloud, Azure and on-premise played a role as Scrum Master and Coach 
+Technical: 
+Languages : C#, VB.Net and VB 6.0 RDBMS : MS SQL Server 2005, 2008 R2 and My-SQL 5.1 OS : Microsoft Windows and Linux 
+Gateway and APIs : Payment gateway and Bank Feeds. 
+Middle Tier : Web services, WCF, REST API, COM and DCOM 
+Web and Configuration tool : HTML 5, ASP.Net 4.5, JavaScript, SVN, VSS and TFS. 
+Project Management tools : Zen desk, Kayako, JIRA, Icescrum, Loupe Desktop, TFS, MTM, 
+MS- Project, Axure RP Pro, Just-in-Mind, Balsamiq. Microsoft Visio etc Review expertise : DB- Design & Stored procedures, System design, Application 
+Design, Code, Estimations & Process, Artifacts, proposals, Schedules etc CERTIFICATIONs: Certified Scrum Master (Member ID: 000315821) 
+PMI - PMP Eligibility ID: 3243996E1 
+Professional Experience: 
+FUTURETECH Business Solutions & Consulting Services., Feb 2016 to till date 
+Role : Project Manager 
+Responsibilities : 
+Handled multiple projects from conception to closure and different stages of SDLC. 
+Maintenance of Scrum artifacts and removal of team impediments with cross team collaboration. 
+Ensuring the product backlog is visible and prioritizes the list to generate a higher business value. 
+Communicate with all stakeholders, Vendors and define the collaborative deliverables as per the agreed schedule. 
+Trained the team towards process adoption, Elicitation of requirements, team composition & collaborations. 
+Identifying the Features, User stories and Tasks updating the JIRA tool on regular basis. 
+Converting the business requirements to product backlog w.r.t to statement of work. 
+Co-ordination with pre-sales. SPOC for all project deliverables. 
+Bartronics India Ltd., June 2015 to Jan 2016 
+Role : Project Manager 
+Responsibilities : 
+Defined the configuration and release management for continuous integrations and consistent deliverables. 
+Handled multiple projects from conception to closure and different stages of SDLC with distributed teams. 
+Maintenance of Scrum artifacts and removal of team impediments with cross team collaboration. 
+Ensuring the product backlog is visible and prioritizes the list to generate a higher business value. 
+Communicate with all stakeholders, Vendors and define the collaborative deliverables as per the agreed schedule. 
+Trained the team towards process adoption, team composition & collaborations. 
+Set the guidelines for process implementation and improvement. 
+Identifying the Features, User stories and Tasks updating the ISCRUM tool on regular basis. 
+Actively participated in tendering process (Clear analysis on RFP and providing business solutions, publishing the timelines, defining the solution architectures, identifying the assumptions, Cost estimation for software, hardware and post production) and given the technical evaluation sessions at client places. 
+Effectively planned and get the UAT from client location and given user trainings and GoLive activities. 
+Effectively used the Microsoft Stack and Axure Pro for project management activities. 
+SPARSH Communications Pvt. Ltd., 
+Oct 2014 to June 2015 
+Role : Project Lead 
+Responsibilities : 
+Task Scheduling and run the sprints using SCRUM and KANBAN process. 
+ALM, SCRUM and KANBAN process implementation using TFS. 
+Architecture review and improvement towards agile principles (SOLID) for better maintenance and scalability. 
+Implemented the configuration and release management for continuous integrations. 
+Maintenance of Scrum artifacts and removal of team impediments with cross team collaboration. 
+Ensuring the product backlog is visible and prioritizes the list to generate a higher business value. 
+Communicate with all stakeholders for schedules and statuses updates. 
+Process implementation and continuous improvement Maintaining and ensuring all project related documents in share point servers. 
+Eliminating waste and improve the WIP and fasten the deliverables. 
+Trained the team towards process adoption, team composition & collaborations. 
+Set the guidelines for process implementation and improvement. 
+Majorly worked on Custom programming, Third party integrations, Ensures the critical and high priority bugs towards single digit. 
+Proper team compositions and ensuring the cross functional teams in all different teams. 
+Define the proper metrics to avoid the surprises between the sales support team, Development support team and Development team. 
+Effectively used the Microsoft Stack and Balasamiq for project management activities. 
+Hallmark Global Technologies Ltd., Mar 2008 to Oct 2014 
+Role : Project Lead 
+Responsibilities : 
+Guidance to cross functional team on Scrum Values, Practices ,Rules and essential adherence to Scrum methodologies; Facilitate various Scrum events such as Release Planning, Sprint Planning, Reviews and Retrospectives . Facilitate daily Scrum activities such as Stand-Up's, updates to Burn-Down charts, Backlog reviews, as well as collaboration meetings as and when required. 
+Maintenance of Scrum artifacts and removal of team impediments with cross team collaboration. 
+Ensuring the product backlog is visible and prioritizes the list to generate a higher business value. 
+Communicate with all stakeholders for schedules and statuses updates. 
+Process implementation and continuous improvement 
+Responsible for acquiring new software and hardware for the product team Mentoring team members (BA and QA) in their professional lives Responsible for assisting BPO-Head and customer support Active participation in conceptual DB and System designs. 
+Product Development (ASP.Net, C# and MSSQL 2008R2), Business analysis, Technical advice and mentoring, Resource Planning, Effort Estimation, Communicating with stakeholders, Preparing work-break-down structures , User Stories, Prototype etc Update sprint tracker with accurate information to identify the risk and issues proactively at the sprint level. 
+Constantly looking for ways to increase the teams velocity/productivity by eliminates the waste. 
+Target - Zero surprises; proactively react to the surprises with the detailed written explanation. 
+Conducting code reviews for the development team. 
+Defined road maps to improve the performance and concurrency. 
+Effectively used the Microsoft Stack and Axure Pro for project management. 
+Jain Info Tech 
+Oct 02 to Mar 08 
+Role : Sr. Software Engineer 
+Responsibilities : 
+(DB and Application) Design, develop and implement applications as per the client requirements. 
+Provided innovative solutions to complex business problems. 
+Interface with clients and gather business requirements and objectives. 
+Translate clients business requirements and objectives into technical solutions. 
+Execute system development and maintenance activities. 
+Develop solutions to improvise performance, scalability and concurrency of systems. 
+Contribution to technical design documentation. 
+Educational Qualification: 
+Master of Computer Applications (MCA) From Andhra University. Bachelor of Science (B. Sc) From Andhra University. 
+Projects Profile 
+Project Title 
+: 1) VMS [Visitor Management System] 2) 5-Star [Security Management System] 3) DARA [E-Commerce] 4) Smart Attendance 
+Organization : FUTURETECH 
+Client : SEC, MOCI and DARA (SAUDI) 
+Environment : MVC, C#, ASP.Net, Web API, SQL server 2012, Android Studio, Java, X-Code, Objective-C. 
+Project Management Activities: Product backlog prioritization and visibility, Ensuring that all scrum ceremonies are conducted on time, Weekly status updates to stake holders, requirement elicitation to team members, collaboration meetings to resolve team impediments and product backlogs prioritization, actively participated in process audits, Pre-sales support to prepare RFPs and BRDs, Close co-ordination with onsite team, requirement gathering, analysis, scheduling, Execution & reviews, UAT, User training and Go Live activities, Support to pre-sales team. 
+Project Management Tools: JIRA, MS-Stack and Just-in-Mind. 
+Team Size : 21 Project Title : Financial Inclusion Organization : Bartronics India Ltd., 
+Client : Andhra Bank, Bank of Maharashtra, UBI, GBA, AUPGB and MDMB (India) 
+Environment : MVC, C#, WCF, JMS, Telerik control, C and C++, SQL server 2008, My SQL, SQL server 2012 and SQL Lite. 
+Description 
+: Financial Inclusion is the process of ensuring access to appropriate financial products and services needed by all sections of the society in general and vulnerable groups such as weaker sections and low income groups in particular at an affordable cost in a fair and transparent manner by mainstream institutional players. 
+Salient features of the application are: 
+Smart cards: Each customer is given a smart card with his primary account number and other personal details such as address, nominee and biometric. The customer is authenticated using the biometric fingerprint of the customer stored in the smart card. 
+AePS Transactions: AePS is a bank commanded model which allows online interoperable financial inclusion transaction at POS (Micro ATM) through the Business correspondent of relevant bank using the Aadhaar authentication. 
+Rupay Transactions: Provide Rupay Debit Card based interfaces that allow customers to connect to Banks switch for conducting debit card based transactions. 
+Point of Sale (POS) Device: allow customers to perform basic financial transactions using their smart cards. Unlike an ATM, the cash-in / cash-out functions of the device are performed by BC, thus bringing down the cost of the device . 
+Website: All master screens, POS & Agent registration and mapping; Legacy files import, Network settings, configurations and MIS Reports and Schedulers. 
+Team Size : 12 Role Played : 
+Played a role as Project Manager 
+Ensuring the SCRUM process improvement and conducting the scrum ceremonies on time and effectively participated in sprint plannings for smooth running of sprints. 
+Writing user Features, Product backlog Items, User stories, and tasks. 
+Co-ordination with product owner and ensuring the business priories in the product backlog priorities and sprint planning. 
+Define and align the configuration management and release management process. 
+Status emails to stake holders Participated in Bug triage meetings and prioritize the bugs for the closure Co-coordinating with the technical support team and understanding the users expectations and grooming the features list by considering the end users value editions. 
+Close co-ordination with clients, requirement gathering, analysis, scheduling, Execution & reviews, UAT, User training and Go Live activities. 
+Technical proposals prepared and participated in tendering process 
+Organization : Bartronics India Ltd., Projects : Contact Management, Dubai Police, Bond Exchange System, Value added services (Mobile Recharge, Bill Payment, Online movie and bus tickets booking), World Vision India, APTDC. 
+Role Played : Clear understanding of requirements through RFP, participating in initial clarifications, Preparing the technical proposals (Scope, Business solution, Solution architecture, Implementation approaches, Timeline, Software and Hardware cost estimations, Participated in technical evaluations etc). 
+Project Title : AIMS360 Organization : SPARSH Communications Pvt. Ltd., 
+Client : AIMS360, USA 
+Environment : VB.NET, WPF, XAML, ASP.Net, SQL Server 2008 R2, LINQ, Crystal reports, Telerik controls and N-Hibernate 
+Description 
+: AIMS360 is a complete, fully integrated order and production processing system for fashion manufacturers, wholesalers, importers, and distributors. With AIMS360, apparel businesses of ALL sizes can leverage a full suite of management tools that automate and enhance critical operations. 
+This featured-rich system offers sophisticated tools to help manage all functions of Styles manufacturing business, such as our unique and customizable dashboards. 
+Salient features of the application are: 
+E-Commerce, Web-Link, Show Room 
+GL and POS Integration 
+Business Intelligence, Credit Card Integration and EDI Integration 
+Scan & Pack, Shipping Integration and Customer order and invoicing Purchase Orders and payments Multi-Warehousing 
+Mobile Apps etc Team Size : 35 Role Played : 
+Played a role as SCRUM Master 
+Scheduling, Scope Management, Time Management, Cost Estimation, Quality management, Risk Management and Integration management. Branching & Merging , Labeling and CI 
+Status emails to stake holders Weekly status updates to all stake holders Participated in Bug triage meetings and prioritize the bugs for the closure Clientele management activities. 
+Process improvement (SCRUM and KANBAN). 
+Project Title : Nimble Accounting Organization : Hallmark Global Technologies Ltd., 
+Client : Nimble Accounting Services LLC, USA 
+Environment : C#.NET 5, ASP.NET, SQL Server 2008 R2, LINQ, SSRS reports and Entity frame work 4.5 
+Description 
+: Nimble Accounting is an application software that records and processes accounting transactions within functional modules such as All payment & receipt types, Loan scheduling, Journal Entries, payroll, Sales, Reconciliation, Legacy files Import & Export (Excel and CSV), reports and many more. It functions as a complete accounting information package for Business Owner and Accounting firm. Accountants can manage their clients accounts from anywhere in the world with a single login. The system provides for a seamless switch between clients and their multiple businesses. 
+Salient features of the application are: 
+Payments, Receipts and Journal transactions Book Keeping. 
+Centralized Administrative Control and complete user management activities 
+Payroll Management. 
+Records daily sales, imports sales statements and historical data. 
+Import facility of records from legacy files (Excel and CSV) 
+Customized reports with sorting , filtering and drill down options Rich Dashboard with customization 
+Mobile Apps etc Team Size : 15 Role Played : 
+Played a role as SCRUM Master 
+Played a vital role in system & DB design and technical documentation preparation. 
+Technical mentoring and providing feasible solutions Scope Management, Time Management, Cost Estimation, Quality management, Risk Management and Integration management. 
+Functional elicitation and core logic explanation to team to deliver the tasks in the stipulated time as per the Product Owner & market expectation; in view of performance, concurrency and browser compatibility issues. 
+Branching & Merging , build preparation and Hosting (QA, Staging and Production server) and release emails to stake holder , Review meeting with PO and UAT with clients. 
+Participated in Bug triage meetings and prioritize the bugs for the closure and minimize the bugs for next iterations. 
+CRs controlling and impact study before taken consideration for development Participated in conceptual DB and System designs. 
+Analyzing and Identifying Complex or Heavy running Queries (that affects Physical Memory of DB) using Profilers/performance analyzers and tuning LINQ Queries as much as possible. 
+Did code reviews and suggested required changes in point of re-usability, performance and maintenance aspects. 
+Automated windows schedulers for emails and sending invoices to avoid the concurrency issues. 
+Project Title : Membership &Training Management System (MTMS) Organization : Hallmark Global Technologies Ltd., 
+Client : Singapore Logistics Association, Singapore 
+Environment : C#.NET 2.0, ASP.NET 2.0, SQL Server 2005, Crystal Reports 11i 
+Description 
+: TMS is a training management system developed for Singapore Logistics Association. This application helps the SLA admin staff, participants, and registered member companies to access the training management system as per their assigned privileges. Using this application SLA staff can create / manage different training courses they run, also they can schedule exams, assign lecturers, enroll students for different courses, publish marks and also they can collect course evaluation results also. Member companies can register and they can login and enroll participants on behalf their company for TMS scheduled courses 
+Salient features of the application are: 
+Course Management, Run Scheduling, Facility Management, Timetable 
+Student Registration, Participant Management, Attendance, Examination, Library Management 
+HR Management, Payment Management 
+Membership Registration, Member Company Visit, Membership Renewal 
+Course Evaluation, Administration, different kinds of Reports 
+Team Size : 15 Role Played : 
+Acted as a Team Lead and worked as Sr. Software Engineer 
+Design and developed the membership module, Payments, Receipts and student registration and administration modules Written stored procedures, functions and views 
+Extensively used ASPX Grid and its events Some page life cycle events are overridden to achieve the required functionality. 
+Involved in Requirements gathering and functional documents (HLDs and LLDs) preparation and review. 
+Play a vital role in system design and technical documentation preparation. 
+DB design and review Technical mentoring Prepared WBS and estimated the efforts with Tech Lead and team members involvement Task allocation and follow-up for the closure Participated in client calls for deliverables review and UAT signoff. 
+Project Title :Multilevel Marketing (MLM) 
+Organization : Jain Info Tech Client : GOLDENJUBLEE MARKETING (P) LTD, India {Customized for more than 75 + clients} 
+Environment : VB 6.0, C#.NET 2.0, ASP.NET-2.0, SQL Server 2000. 
+Description : The Complete MLM (Multilevel Marketing) is designed to automate all the manual functions of any networking companies as a stand-alone or a network based application. This software provides a unified approach in handling most of the features such as user registration, database maintenance, reports generation and administration section like payout generation, Id activation and profile modification. Three user types are supported operator, administrator and a user for data entry that shall enable the smooth running of the application. The data entry user shall only have the rights to add/modify/delete distributors, the applications members according to the orders from the administrator. 
+Salient features of the application are: 
+Administrator Create different users and provide different levels of authorizations. 
+Payout generation module have the flexibility for daily, weekly, fortnightly reports Distributors have the privileges to view their genealogies in tree view and list views. 
+Integration with third parties like Smart cards and readers Team Size : 6 Role Played : Worked as Sr. Software Engineer 
+Whole and s

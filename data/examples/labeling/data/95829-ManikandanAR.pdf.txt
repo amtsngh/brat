@@ -1,0 +1,77 @@
+ Manikandan AR 
+Mobile number : +91 9686023649 
+Email: mani.ramesh689@gmail.com Carrer Objective 
+Seeking an opportunities to utilize my skills, abilities and interests as on new technologies that enhance and gives me exposure and expertise. 
+Summary Currently working as an IMS Engineer in Mindtree Ltd., Bangalore, since 12th Nov 2014 to June 17 2016. 
+Extensive experience in Active Directory and Exchange related issue. 
+Extensive experience in SEP server and Microsoft Lync Server 2010 and 2013. 
+Flexible and Versatile in adapting to new environments and working on any tasks/projects assigned. 
+Well versed in client communication with excellent interpersonal communication skills with ability to work successfully as a Team Member and capable of taking Leadership roles when permitted. 
+Quick learning capabilities with ability to blend with the work environment Professional Experience 
+Working as an IMS Engineer in a Shared services model supporting multiple customers on different domains. Providing extensive support to the project by performing below tasks as part of day to day operations. 
+Responsibilities: 
+Handle designated L1 tickets Handle escalated tickets from L0 
+Ensure help is sought/escalation happens within stipulated time. 
+Ensure any event which could escalate into an issue from Customer is brought to the attention of his/her manager or shift in-charge in a timely manner Ensure SLA and productivity norms are met. 
+Identify and flag opportunities for additional SOP creation/modification of SOP s to Level 1 engineer/SME 
+Achieve a productivity of 12-15 L1 tickets in a shift. 
+Support escalations from L0. Convert escalations to SOP/revise existing SOP s, train L0 engineers periodically. 
+Ensure all tickets worked on has correct entries in the ticketing tool, including emails written to customer and other teams in the course of ticket resolution. 
+Ensure positive, proactive contribution towards meeting SLA and productivity norms 
+Project: Shared services 
+Client : Internal Mindtree Support Domain : Windows Server administration (Active Directory, Antivirus, Lync and Exchange management console) Role & Responsibilities: 
+AD Related Responsibilities: 
+User account creation 
+User account Deletion/Re-activation 
+Exit Clearance 
+WebEx Administration 
+DL/SL creations Service Account creation 
+SAM ID creation 
+Hostname Deletion / Stale Entries / OU Movement 
+NOMAD Access / BitLocker Encryption 
+EMC Responsibilities: 
+Email related issues. 
+Email tracing 
+O365 migration outlookconfiguration 
+AV Related Responsibilities: 
+Handling USB Port Unlock Request. 
+SEP AV related report. 
+Lync Server Responsibilities: 
+Creation of SID id. Modification of SIP id. 
+Project 2: Finn one and BRMF 
+Client: Fullerton India. 
+Domain: MySQL (L1 level tasks) 
+Tasks performed: 
+Performing backup tasks for MySQL DB. 
+Triggering the backups and monitoring the status for successful completion. 
+Backup tasks are performed by using the client tool through remote sessions. 
+Skills Summary 
+Tools 
+MWatch tool (Monitor, Measure, Manage) 
+Active Directory AD toolkit V 5.0 and AD Module for Windows PowerShell 
+Exchange Server 2010 Exchange Management Console and Exchange Management Shell 
+Lync Server Microsoft Lync Server 2010. 
+SEP Server Symantec Endpoint Protection Manager 
+Operating Systems Windows XP/7, Unix/Linux. 
+Database MySQL Other Technical Skills Html,Css,Javascript,Mysql 
+Achievements: 
+A Team Award for displaying exemplary team spirit in Mindtree Ltd. 
+Certifications and Trainings: 
+Advance Hardware and Networking Certification. 
+Java/Linux course done by CSC Computer Education. 
+Education: 
+B.E (CSE) May 2013, Anna University of Technology, K.L.N. College of Engineering, Sivagangai. 
+Polytechnic, March 2009, K.L.N. Polytechnic, Madurai. SSLC, April 2006, Matriculation, MNU Jayarajnadar Annapackiyam School, Madurai 
+Personal Profile: 
+Father s Name: Ramesh Warlal 
+Date of Birth: 8th June 1989 
+Gender: Male 
+Nationality: Indian 
+Languages known: English, Tamil, Sourashtra. 
+Other Activities: Playing 
+Cricket and Listening music 
+Declaration: 
+I hereby declare that all the details furnished above are true to the best of my knowledge and belief. 
+Place: 
+Signature 
+Date: 

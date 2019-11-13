@@ -1,0 +1,110 @@
+CURRICULUM VITAE VIJAYA MOGAVEER 
+D No. 505, 
+Our Lady of Fathima High School, Venkateshwara layout 19 th main, 
+Madiwala, Bangalore -560068 Karnataka 
+Email - vijayamogaveera1992@gmail.com 
+Ph.no - +919008082329
+ OBJECTIVE 
+To obtain a position with a progressive web development or software development company with a strong focus on creativity and problem solving. To find a position that is challenging, rewarding and provides an opportunity to expand my knowledge and abilities in creating client centric solutions. 
+PERSONAL SUMMARY 
+A highly resourceful, innovative, and competent PHP developer with experience over 2 Year in the layout, design and coding of websites specifically in PHP format. Possessing considerable knowledge of the development of web applications and scripts using PHP programming language and MySQL database. 
+Experience of project co-ordination in a multi-cultural environment. Enthusiastic about technology and its application to solve business problems. 
+Solid web development experience using C , C++ , CORE JAVA , Object Oriented 
+Programming, PHP, Wordpress, AJAX, MySQL, JavaScript, Jquery, XML, JSON, HTML and 
+CSS. 
+PROFESSIONAL EXPERIENCE 
+Demansol Technologies Pvt. Ltd. Bangalore 
+Software Engineer August 2015 Present 
+Responsibilities : 
+Going through SCRUM and other meetings. 
+Day to day coordination with project management staff and client to capture requirements for the functional elements of project. 
+Having discussion with senior developer for building database schema and project layouts. 
+Developing web applications using PHP, Wordpress, MySQL, Javascript , Ajax, Jquery. 
+Planning and conducting cross-browser usability testing against W3C. 
+Testing and validating work produced as part of the development process. 
+Back end development and maintenance of websites using PHP and MySQL. 
+Developing compatible User Interface functionality using jQuery & other libraries. 
+Carry out needs assessment, system integration and design support and general change management support Assist in the designing, planning, development, installation, operations and implementation of applications 
+Responding to user queries and problems and suggesting them proper measures. 
+TECHNICAL SKILLS 
+Expertise : C , C++ , Core Java , PHP5 , python basic knowledge. 
+DBMS : MySQL CMS : Wordpress, 
+Operating systems : Windows Family, Linux 
+Web Technology : HTML , Javascript, Ajax, jQuery, Angular js Prototype, CSS, Bootstrap, PHP (MVC Frameworks) 
+Server : Xamp, Lamp, Wamp 
+Web Hosting : Apche, Domain, FTP EDUCATIONAL QUALIFICATIONS 
+B-TECH : PES Institute of Technologies, South campus ,(Visvesvaraya Technological 
+University,2015 batch). 
+12 
+th 
+: Govt pre university collage Navunda, (Karantaka state board) , 2011 Batch 10 th : Govt pre university collage Navunda, (Karantaka state board) , 2009 Batch 
+SYNOPSIS OF PROJECTS 
+Project #1: 
+Title : Live Model of a Robot (OpenGL) 
+Role : Developer 
+Technologies Used : Computer Graphics using OpenGL in C++, Class 
+Project Description: 
+This project describes the design , operation and application of Robots. The project demonstrates how the robots can be used in dangerous environment like military, which can resemble a human. This illustrates graphical principals, OpenGL functions, features and applications. This is an interactive project which has user friendly interaction given through keyboard. 
+Project #2: 
+Title : Mobideos 
+Role : Developer 
+Technologies Used : PHP, MySql, HTML, CSS, JavaScript, JQuery , WordpressProject 
+Description: 
+This Project is developed for MobileCamViewer in USA. Videos work like Images, Paste a video URL Or YouTube URL into the designated new box on the post edit screen and the video will be displayed in place of a post image. Google-Ads add on the popup of the video and also website. Create contact form using PHP and MYSQL. 
+Project #3: 
+Title : Ingage 
+Role : Developer 
+Technologies Used : PHP, MySql, HTML, CSS, JavaScript, JQuery 
+Project Description: 
+This project is for Ingage resource management in Arabia. It social network website. It shows different category type post. This is developed with core php and MYSQL. 
+Project #4: 
+Title : Demansol 
+Role : Developer 
+Technologies Used : PHP, MySql, HTML, CSS, JavaScript, JQuery 
+Project Description: 
+This project is for demansol resource management in company. It covers the whole procedure of a company. Developing new type of slider (WOW slider). It contains contact pages , carriers page , Our work Section and also animated property is also there. This is developed with core php and mysql. 
+Project #5: 
+Title : CustomWillow 
+Role : Developer 
+Technologies Used : PHP, MySql, HTML, CSS, JavaScript, JQuery , Angular Js Wordpress 
+Project Description: 
+This project is for CustomWillow resource management in India. It is basically ecommerce website. The user can order bat . This is developed with core php and mysql and jquery ajax call.Based on the requirment customization. 
+Project #6: 
+Title : k12videos 
+Role : Developer 
+Technologies Used : PHP, MySql, HTML, CSS, JavaScript. 
+Project Description: 
+This project is for k12videos resource management in US. It fetch the fields youtube and stored the data base by using Mongodb. The user can login and also seach accroding to the user keywords.This is developed with core php and Mognodb and javascript. 
+Project #7: 
+Title : Ureview 
+Role : Developer 
+Technologies Used : PHP, MySql, HTML, CSS, JavaScript. 
+Project Description: 
+This project is for project for admin panel . It covers the whole procedure of a collage and university. It can be add the collages and also different type of post can be post to the collage group.This is developed with core php and mysql. 
+Project #8: 
+Title : The Irish sweater 
+Role : Developer 
+Technologies Used : PHP, MySql, HTML, CSS, JavaScript , wordpress. 
+Project Description: 
+This project is for The irish sweater resource management in Canada. It covers all the procedure of ecommerce. It contains all different categories. Te user can select the product and place into the cart and also checkout. The user can pay cash on delivery and online transaction. After the placing order you can track the order . This is developed with core php and mysql . 
+Project #9: 
+Title : Raivlizar 
+Role : Developer 
+Technologies Used : HTML , CSS , Javascript , PHP 
+Project Description: 
+It's a Professional Services company providing Management Consulting and Business Process services to clients who have affinity towards global trade and an international mindset. The purpose of the site is to become business partners of different clients' providing with a sound consulting and business process backbone so that one can concentrate on the core business proposition. 
+HOBBIES 
+Chess 
+Travelling 
+Playing cricket 
+PERSONAL DETAILS 
+Father s Name : Ganesh Mogaveera 
+Mothers Name : Bhavani 
+Date of Birth : 05 
+th October 1992 
+Languages : English, Hindi, Kannada 
+Marital status : Single 
+Nationality : Indian 
+DECLARATION 
+I hereby declare that all the above statements furnished are true to the best of my knowledge and belief. 
+PLACE - Bangalore Vijaya Mogaveera 

@@ -1,0 +1,22 @@
+JAGADEESH TV 
+Ph:+91 -7353565562 
+Thyagaturu (Post) Gubbi (Taluk) 
+Tumkur (District) Email:Jagadeeshv@campusuvce.in Education 
+BE | INFORMATION SCIENCE | university visvesvaraya college of engineering Year: 2012-2016 Percentage: 70.4 
+PUC | PCMB | SVC COLLEGE TUMKUR 
+Year: 2011-2012 Percentage: 83.16 Skills Python, C and C++ 
+HTML and XML 
+JavaScript s and CSS 
+Networking Linux 
+Experience 
+ANALYST / SOFTWARE ENGINEER, DS_STORAGE | CAPGEMINI INDIA PVT LTD.| SEPT 2016 
+LDCOM project: Currently I am working on storage and backup infrastructure management services. 
+We are using Netbackup and EMC Unisphere Application Deployed on SAN technology. Managing the interchange of data between the server and the user. Extract the data from the server useing rest api curl method and automated the daily work like health checkup , resource management , verifying the all backups and find the reason of job failure if required restart the failure jobs. 
+Python Skills 
+I have worked on the below python modules re, paramiko, file operations, xlrd , beautiful soup, csv, cetdate, config parser and os Python web scrapping, pycurl and Django 
+Personal Information: 
+. Father s Name: Virupakshaiah T M . Mother s Name: Prema HS . Date of Birth: 15 May 1995 . Nationality: Indian . Languages Known: English and Kannada 
+Declaration: I hereby declare that the above written particulars are true to the best of my knowledge and belief. 
+Any references if required will be furnished on request. 
+JAGADEESH TV 
+Page 2 

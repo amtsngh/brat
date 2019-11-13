@@ -1,0 +1,61 @@
+Pararth Mehta pararth@gmail.com 
++91 8238094488 
+Current location: Mumbai, Maharashtra, India SUMMARY 
+~5 years of experience in Android application development. 
+Used Android Studio, Eclipse with Git, SVN on OS X, Windows, Linux 
+Project Management Tools: Redmine, JIRA, Phabricator 
+Methodology followed: Agile;SCRUM Engineered development in VoIP, Bluetooth Low Energy, Ultrasonics; data transfer over sound, Camera & Scanners, Location Services, UI, Localisation, API; REST-JSON web-services, push notifications and app analytics. 
+My work experience includes being a part of teams and-or handling applications independently; working with clients, project managers or in coordination with other teams. 
+WORK EXPERIENCE 
+Senior Software Engineer, Novanet Ltd., Mumbai 
+March 2015 August 2016, 17 Months 
+Member of the core development team of a VoIP app named tlkn which includes custom SIP implementation in a multithreaded environment, with use of Android NDK-JNI and JAINSIP. 
+Google play Store: https://play.google.com/store/apps/details?id=com.tlkn (https://play.google.com/store/apps/details?id=com.tlkn) 
+Role: 
+Handling the application and architecture, with the telephony app module. 
+To implement the VoIP related features of the app with integration of UI, API and JAINSIP in the app module. 
+Software Engineer, ATON Advisors Pvt. Ltd., Vadodara 
+January 2014 - March 2015, 14 Months 
+TEXEL POINTS by Mintaton 
+Google play Store: https://play.google.com/store/apps/details?id=com.aton (https://play.google.com/store/apps/details?id=com.aton) Application provides a Loyalty Reward Point program, developed in collaboration with Texel Loyaal. Receive updates about discounts and special offers, view highlights, info of the island. 
+Role: Apart from responsibility of the app, architecture and development, Responsible for integrating the Beacon functionality, which enables to locate the customer through Bluetooth Low Energy hardware. The beacons placed in Merchants shop, restaurants would enable a user to receive updates on offers, welcome messages when he is around, inside their shops and help in identifying himself at the point of sale, automating the billing process. 
+Integrated ultrasonic technology in the app, with the help of NearBytes sdk, which enables the app to transfer data, points, user identification over a play button, through sound. Ensures integrity for transferring secure codes from the app and automates the process of filling in the details manually. 
+QR code scanner integrated in the application which allows users to scan codes and process an operation in the app accordingly. 
+TEXEL POINTS for merchants Google play Store: https://play.google.com/store/apps/details?id=com.atonmerchants (https://play.google.com/store/apps/details?id=com.atonmerchants) Enables one to carry out transactions with customers, give the merchant an overview of points exchanged with the customer using the app itself. Ultrasonic technology integrated for complementing Texel Points by Mintaton and ensuring consistent, accurate, secure communication between the two applications. 
+Home Automation System P-O-C 
+Proof of concept application which, using BluetoothLowEnergy, wrote a characteristic on customised BLE devices enabling the command from the app to switch on/off an LED where the mechanism could be implemented for electrical appliances, using BLE scans from the device. 
+Android Developer, Russmedia Tech Pvt. Ltd., Vadodara 
+September 2013 - January 2014, 4 Months 
+Kelet-Magyarorszg 
+Google play Store: https://play.google.com/store/apps/details?id=com.russmedia.kelet (https://play.google.com/store/apps/details?id=com.russmedia.kelet) 
+Digital newspaper application for Tablets and Mobile devices; a PDF-based digital-paged newspaper. Users can bookmark articles, tapping any article on a page opens up that article. User can share it on social media or email article details. It has an option of reading the E-paper for the day from http://www.kelet.hu/ (http://www.kelet.hu/). 
+Development on the app involved localisation, working with Gestures; pinch-zoom and coordinates on devices to navigate users and library projects to enable multiple replications of the same functional codebase with a different UI. 
+Software Professional, Extentia Information Technology Pvt. Ltd., Pune 
+November 2011 - September 2013, 22 Months 
+All Point Rewards 
+Google play Store: 
+https://play.google.com/store/apps/details?id=com.outsitenetworks.allpointsrewards&hl=en (https://play.google.com/store/apps/details?id=com.outsitenetworks.allpointsrewards&hl=en) All Points is an extension of hundreds of popular gas rewards programs all across North America. 
+Role: Remodelled and integrated new web services, from SOAP-XML to REST-JSON, resultant change in code, in the second phase of the application. Added Sidebar and Fragments with the UI re-vamp, functionality changes as requested by the client. 
+Introducing the navigation drawer, Android sliding menu in the application. Developing and implementing the control, flow and UI for sidebar and its navigation through the application. 
+Introducing slideshow in the app with a sliding drawer feature at the welcome screen. 
+Salah Timings 
+Google play Store: https://play.google.com/store/apps/details?id=com.extentia.salahtimings (https://play.google.com/store/apps/details?id=com.extentia.salahtimings) 
+The application has a Qibla compass, Prayer Timings, an in-app purchase feature: Zakat Calculator. User can select a country and city based on which prayer times are fetched, set alarms for his location. 
+Role: Programming/development with managing the web services involved and coordinating with a design team for UI components and layouts. 
+Menards 
+Google play Store: https://play.google.com/store/apps/details?id=com.menards.mobile&hl=en (https://play.google.com/store/apps/details?id=com.menards.mobile&hl=en) Extend the original application for new UI and features for Login, Shopping, Calculators and Converters, Email subscriptions, Order tracker screen, QR code scanner. App interacts with Menards web services. 
+PACK: Research Project Application for Calgary University, Canada 
+Developed the application where students entered their individual activity data like duration of activity, step count, type of activity on a Samsung 7 Tablet. The data, maintained would be used for analysis over a period of 30 to 60 days. Development included Sqlite database operations, web services for server sync and rich, interactive UI design for kids, with related functionality. 
+Area Plot via GPS location capture 
+Developed proof of concept and further implemented it according to client requirements. 
+Calculate an area of the land through real time inputs from locations and shade it on Google maps. Highlight the GPS co-ordinates and region. The application is a real time Android based Mobile system, designed primarily to further automate Cane Management System. Validating cane registration area through GPS based calculation, is the first of its kind in Sugar Industry. 
+Brickset 
+App interacts with Brickset web-services with XML parsing providing information of Minifigures, Bricksets. Features thousands of LEGO sets listed, browse by themes, search by name, manage favourite themes, includes barcode, QR code scanner, Facebook integration. 
+ACADEMICS 
+Smt. Kashibai Navale College of Engineering , Pune. 
+BE, I.T. 2011 58.9 University of Pune 
+Sou. Venutai Chavan Polytechnic, Pune. 
+Diploma in I.T. 2008 66.61 
+Maharashtra State Board Of Technical Education (M.S.B.T.E) Baroda High School, Jr. 2 
+10th 2002 71.14 
+Gujarat State Board 

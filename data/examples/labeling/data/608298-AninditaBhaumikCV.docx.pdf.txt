@@ -1,0 +1,59 @@
+ Anindita Bhaumik anindita.bhaumik22@gmail.com , +91-7855979644 
+6.9 years (incl. 1 year in USA) of proven track record in Data Warehousing and Business Intelligence (BI) in IT industry . Proficient in Data Architecture, Data Analysis, ETL process, Database development and Integration in Financial domain. Skilled in 
+FSLDM, Teradata, SQL, Informatica and Unix scripting. 
+ONSITE PROFESSIONAL EXPERIENCE CCAR IRIS Expansion GE Capital (Via Tech Mahindra Ltd), Danbury, USA 
+June 2014- May 2016 Data Architect 
+Collaborated with business users of leading BFSI clients to analyze and translate customer s analytical needs into data requirements and presented proof of concept activities to key decision makers. 
+Designed data warehouse logical and physical data models facilitating integrated reporting of 11 diverse data sets at various levels of granularity. 
+Managed stakeholder expectations in multicultural and cross disciplinary environment effectively. 
+Spearheaded complex Extract, Transform, Load (ETL) development from 14 data sources , integration of 8 subject areas and design of reporting layer architecture. 
+AAA GECA Risk Lending GE Capital (Via Tech Mahindra Ltd), Danbury, USA 
+April 2013- May 2014 Techno 
+Functional 
+Team Lead 
+Aligned operations of escalated project within 
+1 month through analytical problem-solving approaches and systematic root cause analysis and guided the project team to ensure zero defect delivery . 
+Identified and Analyzed top user concerns and published creative self-help content which led to a 17% reduction in tickets raised. 
+Performed root cause analysis for user issues by analysing data lineage and traversing entire data flow from reporting tables to stage tables. 
+Designed SIT test cases, created data flow diagrams and detailed documentation on the project architecture. 
+OFFSHORE PROFESSIONAL EXPERIENCE Wealth Management BIS & Data Visualization- Morgan Stanley (Via Capgemini), Pune, India 
+August 2016- Till date 
+BI Consultant 
+Create critical and confidential reports for Financial Advisors(FA) for financial portfolio risk assessment. 
+Analyze the business requirements provided by Financial Advisors/Field Facing Users and existing data in EDW to provide logic and specifications for how data will be stored in the reporting layer. 
+Designing and creating ETL processes to transform data into units consistent with analytical needs to create appropriate Reports to be used by FA. 
+Formulated comprehensive data cleansing and validation rules ensuring high data quality across the database. 
+ANZ Project RADAR GE Capital (Via Tech Mahindra Ltd), Bhubaneswar, India January 2013- April 2013 
+Team Lead 
+Involved in implementation of any enhancements in the ongoing project, modifications or corrections in an existing unit and removal of an existing unit which are related to the ANZ Business. 
+I nvolved in data collection, data analysis, data mapping from source systems to EDW. 
+Worked on Database enhancement and Integration. 
+Provide ETL logic and design to load attributes into the Database. 
+GECA Risk Monthly Reporting(RMR) 
+GE Capital (Via Tech Mahindra Ltd), Bhubaneswar, India 
+August 2011-December 2012 
+Team Member 
+Analyze the business logic, find placeholders i.e. tables and columns in EDW for attributes coming from Strategy DataMart. 
+Provide ETL logic and design to load attributes into the Database. 
+Data Validation and test case generation. 
+CFS SIMPLIFICATION PROJECT GE Capital (Via Tech Mahindra Ltd), Bhubaneswar, India 
+December 2010- July 2011 Team Member 
+Involved in high level migration of the existing functionality from CFS Data Mart to EDW for business reporting. 
+Analyze the business logic, find placeholders i.e. tables and columns in EDW for attributes coming from CFS Data Mart. 
+Design 
+ETL process ,performed UAT and Testing. 
+AWARDS & ACHIEVEMENTS 
+Achievements 
+Recipient of Spot Award in recognition of superior performance and outstanding contribution to Morgan Stanley account. 
+Received multiple Delivery Excellence awards 
+(Award Name: 
+Pat on the Back/Associate of the Month ). 
+Certifications 
+A Crash course in 
+Data Science John Hopkins University (via Coursera) 
+ADDITIONAL INFORMATION 
+Software 
+Packages 
+Teradata, Tableau, Informatica power Center, SQL, PL/SQL, UNIX scripting, Business Objects, UNIX, ER/Studio. ACADEMIC QUALIFICATIONS Rashtrasant Tukdojii Maharaj, Nagpur 2006-2010 Bachelor of Engineering (Electronics & Telecommunication Engineering) 
+Kendriya Vidyalaya, Nagpur 2004-2006 XII(Science): AISCCE, CBSE 
+Kendriya Vidyalaya, Nagpur 1992-2004 X: AISCCE, CBSE 

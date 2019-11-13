@@ -1,0 +1,126 @@
+Micheal Jayakumar mikee.jk@gmail.com (mailto:mikee.jk@gmail.com), 9940095713 Objective 
+To secure a position as a lead developer that will be challenging and offer opportunity for continued growth. 
+Key Skills HTML 4.01 / XHTML 1.0 / HTML 5 CSS 2.1 / CSS 3/Bootstrap 
+Dojo/JQuery/JavaScript/Design Patterns/ AJAX Angular.js 
+Visual Studio 2012/Tridion 
+ASP.NET MVC/C#, PHP, MySql, Netbeans, Toad For Mysql 
+Illustrator / Photoshop 
+Summary 
+Around 9 years of experience in Web Development and Design 
+Graceful Degradation / Progressive Enhancement 
+Responsive Web Design 
+Mobile Web Development 
+Cross Browser and Cross Platform Development 
+Version Control (cvs / github) 
+Agile Methodology 
+Excellent Communication Skills/Innovative/Self-directed/adaptable/quick learner Rewards and Recognition 
+The Summit Individual Award for September 2011 - Mphasis an HP Company 
+Professional Experience 
+Associate at Cognizant Technology Solutions from Feb 2013 
+August 2015 Software Engineer at 
+Mphasis an HP Company from April 2010 
+Feb 2013 Web Developer at Hotcourses India Pvt. Ltd. from may 2008 t - April 2010 
+Associate Developer at Joevin Gra Fx Art from march 2006 - April 2008 Education 
+Qualification Institute Year Percentage 
+MCA St. Josephs College 2006 71.58% 
+B.Sc Mathematics St. Josephs College 2003 72.89% HSC St. James Matric. school 2000 80.25% SSLC St. James Matric. school 1998 75.54% Selected Portfolios 
+Cognizant Technology Solutions 
+Project Name AHM Engagement in PCIQ/AETNA 
+Company Cognizant Technology Solutions 
+Duration 1.10 months Team size 20 
+Role UI Lead 
+Responsibility part of the Architecture TeamManage a UI Team of 3 MembersAssigning Tasks and coordinating Code Review and Analysis 
+Technology JQuery/JavaScript, Revealing Module Pattern,ASP.Net MVC, C#, Ajax, VS 2012 
+Description 
+Aetna, Inc. is an American managed health care companyPCIQ is a tool created for Doctors, Physician and Nurses to manage patient Health RecordsWe built the project from the scratch as a new development.Extensively worked in JQuery/JavaScript using the Revealing Module Pattern 
+We also had challenges in Making Sync/async Ajax calls which we handled successfully Also Implemented lazy loading and made extensive use of the JavaScript features such as namespace and design patterns 
+Cross Browser Compatible 
+Selected Portfolios - Mphasis an HP Company 
+Project Name VALIC 
+Company Mphasis an HP Company 
+Duration 6 months Team size 2 URL www.valic.com (http://www.valic.com) Technology HTML5, CSS 3, JS/jQuery, Tridion, Photoshop, Sublime Text 
+Description VALIC is a leading provider of Insurance plans in UK.VALIC redesigned their whole website and application to rich UI.We developed the HTML, CSS and JS for the site.We used HTML5 semantic/layout tags for the page structure jQuery is used extensively for DOM manipulation We used CSS3 and took advantage of supported properties in browsersIt is being maintained by a Web Content Management tool called TRIDIONThe architecture is to develop CSS/JS without modifying the HTMLHas to coordinate with multiple teams for change implementationCoordinated with clients and attended calls for requirements/updates gatheringThe main CSS developed is being used as the base CSS for building 100s of partner sites for VALICWe implemented HTML5 video formats such as Ogg/MP4/webMThe site is developed based on Progressive EnhancementWe also developed the UI for VALICs internal applications Project Name ChartisUK Company Mphasis an HP Company 
+Duration 4 months Team size 2 URL www.chartisinsurance.co.uk (http://www.chartisinsurance.co.uk) Technology HTML5, CSS 3, JS/jQuery, Tridion, Photoshop, Notepad++ 
+Description Chartis is a world leading property-casualty and general insurance organization serving more than 70 million clients around the world 
+We developed the complete UI for the site. 
+We used HTML5 layout tags for the page structure jQuery is used extensively for DOM manipulation 
+We used CSS3 and took advantage of supported properties in browsersChartis is being maintained by a Web Content Management tool called TRIDIONEvery component/Module is created and is added to TRIDION for reusabilityAccordions, Carousels and slideshows were created from the scratch by avoiding plug-insWe focused on code Reusability and Inheritance Coordinated with clients and gathered requirements/updates 
+The site is developed based on Progressive Enhancement 
+Project Name e-Business Technology 
+Company Mphasis an HP Company 
+Duration 19 months Team size 5 Technology HTML5, CSS 3, JS/jQuery, Tridion, Photoshop 
+Description e-Business Technology aims at providing the complete UI support to 
+AIG/CHARTISIt follows the AGILE Methodology where Tickets come in everyday and based on severity we Work and DeliverTasks are categorized into Site build, Enhancement, Project and Marketing, each having their own scheduleWe have managed a huge number of UI tasks in this duration for AIGWorked across multilingual sites All the Sites are Content Managed through TRIDION 
+Project Name Viterra 
+Company Mphasis an HP Company 
+Duration 10 months Team size 1 URL http://www.viterra.com (http://www.viterra.com) 
+Technology HTML, CSS ,JS, IBM Web sphere Portal (Themes and Skins) Description 
+Viterra Inc. is a global food Ingredients Company poised for future opportunities in Canada 
+We supported the UI for Viterra Global Site and CanadaIt is a portal which is being maintained in IBM Web sphere PortalWe created the themes and skins for the portalWorked in the Canadian Business Hours to support the UI work 
+Learned IBM Web sphere portal about creating Themes and Skins Selected Portfolios - Hotcourses India Pvt. Ltd 
+Project Name HotcoursesAbroad Company Hotcourses India Pvt. Ltd 
+Duration 6 Months 
+Team size 1 URL 
+www.hotcoursesabroad.com (http://www.hotcoursesabroad.com/) Technology HTML, CSS, JS, Photoshop 
+Description 
+Hotcoursesabroad is for international students who want to go abroad, read and search reviews, info on popular subjects, search, compare and enquire about courses.This project is developed for 16 different countries and available in their regional languagesDeveloped complete xhtml and css 
+Semantic html 
+With cross browser compatibility 
+Extensive use of sprites to reduce server requests Image Manipulation and Maintenance 
+One centralized css with common classes and another country specific css 
+Minimal css (25kb 27kb) Interactivity through javascript 
+Creative designs and user interfaces 
+Hand coded using notepad++ 
+Optimized thro pagespeed and yslow Project Name Uniguru 
+Company 
+Hotcourses India Pvt. Ltd 
+Duration 6 Months 
+Team size 1 URL www.uniguru.com (http://www.uniguru.com/) Technology HTML, CSS, JS, Photoshop 
+Description 
+Uniguru is for Indian students looking for an opportunity to study in abroad. It carries the list of courses and colleges/universities available in abroad. This project was designed and developed in Hotcourses India Pvt. Ltd. (www.hotcourses.com (http://www.hotcourses.com/)) 
+Developed complete xhtml and css 
+With cross browser compatibility 
+Used sprites to reduce server requests 
+Minimal css (35kb) Semantic html Interactivity through javascript 
+Creative designs and user interfaces 
+Hand coded using notepad++ 
+Optimized thro firebug and yslow 
+Project Name Whatuni 
+Company 
+Hotcourses India Pvt. Ltd 
+Duration 12 months Team size 1 URL www.whatuni.com (http://www.whatuni.com/) Technology HTML, CSS, JS, Photoshop 
+Description 
+Whatuni is for students/ providers in and around UK to find/list courses and universities. Whatuni is specific to UK 
+Developed xhtml and css 
+With cross browser compatibility 
+Semantic html 
+Interactivity through javascript 
+Creative designs and user interfaces 
+Hand coded using notepad++ 
+Optimized thro firebug and yslow 
+Project Name Coursemanager Tool 
+Company 
+Hotcourses India Pvt. Ltd 
+Duration 12 months Team size 1 Technology HTML, CSS, JS, Photoshop 
+Description Course manager shortly called as CM2 is an online tool to collect data about courses and colleges both domestic and international. This tool will be use by hundreds of people to collect data online and manage them. Managing data is a big concern as there should be 100% accuracy in data collected 
+A challenging project with lots of scenarios Flexible for any screens or resolutions Table based layout 
+Developed complete xhtml and css 
+With cross browser compatibility 
+Minimal css (45kb) Semantic html Interactivity through javascript designs and user interfaces 
+Hand coded using notepad++ 
+Optimized thro firebug and yslow 
+Personal Details 
+Fathers Name 
+: Thomas S 
+Date of Birth : 20 01 
+1982 
+Gender : Male 
+Marital Status : Married 
+Nationality : Indian 
+Passport Details : J8516984 
+29/09/2021 
+Permanent Address : 4/14, G4 Perumal Illam, 2nd Cross Street, 3rd Main Road, Venkateshwara Nagar, Velachery 
+Chennai 42 Declaration 
+I hereby declare that the above said information is true to the best of my knowledge. 
+Date: 12/11/2014 
+Place: Chennai MICHEAL JAYAKUMAR. T 

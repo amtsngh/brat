@@ -1,0 +1,39 @@
+ Curriculum Vitae 
+Rahul Kumar Roy Contact: +919074944780
+| E-mail: 77rahulroy@gmail.com 
+OBJECTIVE: 
+To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective. 
+STRENGTHS: 
+Positive attitude Leadership ability, Team player Plan and Organize Optimistic 
+BASIC ACADEMIC DETAILS: 
+Qualification Board/University Institute Year of Passing 
+Percentage 
+Bachelor of Engineering (Computer 
+Science) 
+R.G.P.V Bansal Institute of Science and Technology, Bhopal 2016 CGPA-7.25 
+12th B.S.E.B. Nirmali 
+College, Nirmali 
+2011 60% 
+10th B.S.E.B. Nirmali High 
+School, Nirmali 2009 63.6% 
+TECHNICAL SKILLS: Programming Skills: Basic JSE, Basic HTML, CSS, Java Script, C & C++. 
+Basic knowledge of SQL and C#. 
+AREAS OF INTEREST: 
+Object Oriented Technology 
+Software Engineering 
+ACADEMIC PROJECT: 
+Project Title: Client Server Architecture 
+Implementation: Java (JSE) 
+Operating System: Windows XP and later 
+Description: This project is for sending data from the client machine to the server machine and vice-versa without using internet. It required only a router for connection. It is implemented in java using Socket and InetAddress class of networking package. 
+PERSONAL DETAILS: 
+Father s Name: 
+Pradeep Kumar Roy 
+Mother s Name: 
+Gaura Parwati Devi 
+Date of Birth: 
+15 March 1994 
+Address: At.+Po.-Nirmali, Subhash Chowk, Ward No.-08, Nirmali, Supaul 
+Bihar , India 847452 
+DECLARATION: I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 
+Place: Bangalore, India Date: 05/05/2017 

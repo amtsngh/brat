@@ -1,0 +1,116 @@
+ RESUME S4,shivalaya regency 
+GOKULNATH.K , 11, Solampadu Street, Ambattur, Chennai=53. 
+PH:04442086845. 
+Mobile: 9538843964 EmailID:gokulkrishna334@gmail.com 
+CARRIER OBJECTIVE: - 
+To get a Challenging position in an organization that would provide me ample opportunities to enhance my knowledge coupled with my problem solving and analytical abilities and to prove my level best in conjugation with the companys goal and objective. 
+WORK EXPERIENCE : - 
+I Have 2.8 Years of Experience in Embedded C Programming and Linux Device Drivers and now currently Iam working in Bangalore . 
+EDUCATIONAL QUALIFICATION: - 
+S.No Course 
+Name of the Institution 
+Board/university % Marks Year of passing 1. 
+2. 
+3. 
+4. Advanced Diploma in Digital Design[VLSI and Embedded systems]. B.E [Electronics &Instrumentation] 
+Higher Secondary 10th Standard ICIT 
+VLSI Design & Research Center 
+Velammal 
+Engineering 
+College 
+LEO Matriculation 
+School 
+G.K. Shetty 
+Vivekananda Vidyalaya Pune University Anna University TamilNadu Board of Secondary Education Central Board of Secondary Education 64% 
+77 % (82% as Final yr aggr) 
+86.5% 70% 2007 2006 2002 2000 SKILLS and COMPETENCIES: 
+HDL : VHDL,Verilog HDL 
+Software Languages: C and C++ and Essentials of Data Structures. 
+Software Packages: Matlab6p5 
+Assembly Languages: 8085, 8051,PIC. 
+Operating System: LINUX, RTOS and OS Concepts. 
+RELAVANT COURSES DONE: 
+(1) Digital System Design (2) Microprocessor and Micro controllers (3) Process control 
+PROJECTS: 
+B.E 
+Final year Project: 
+SYSTEM IDENTIFICATION WITH AN ADAPTIVE CONTROLLER BY ZEIGLER- NICHOLS TUNING METHOD 
+(December 2005 to April 2006) 
+The adaptive controller proposed in this project is tuned automatically based on the results of frequency domain system identification for the plant. The controller first estimates the frequency response of the plant using fast Fourier transform. The controller gains are automatically tuned so as to minimize the error between the open loop frequency response of the reference model and that of the actual system at a few frequency points. For example the third order process, reference models are derived. The frequency responses of the reference models and that of the actual processes are obtained .The controller gains are determined by applying the least square algorithm. 
+WORK EXPERIENCE : 
+I have (2 Years and 8Months) of experience in Embedded C and Linux Device drivers Programming. 
+CURRENTLY WORKING IN NIRMITSU TECHNOLOGIES(1.2+ Year) PRESEVI INDUSTRIAL COMPANY (1 Year). 
+LOGICARE EMBEDDED SYSTEMS (6 Months). 
+DATA DISTRIBUTION UNIT FOR INDIAN NAVY(For WESEE Society) 
+This is a core Linux Device Drivers Project . 
+(1)I Wrote Linux Device Drivers for the following Hardware modules 1) MCP 23S17 : 
+This is an IO Expander . 
+I worked in 
+MCP Read , Write Functions . 
+2) DSC 11524 : 
+This is known as Syncho to Resolver Converter . 
+Input for this chip is Digital data ranges from 0000 to FFFF and Output ranges to 0 to 359 degrees . 
+3) SDC 14531 : 
+This is known as Resolver to Synchro Converter . 
+Input is digital equivalent angle data and output is digital data . 
+4) 
+KASU (Fire Control Chip) 
+This works on an unique communication protocol . This is input for fire control chip . (2)Development of Main Application File : 
+I did designing and testing for the entire Software Architecture including 1) Data reception , transmission and routing to hardware . 
+2) Run Time Device Checking known as BIST Test for 1)DSC and SDC 2)KASU 
+3) PC Simulation with respect to Ring Laser Gyroscope Simulator data sending mechanism for every 10ms,100ms and 1sec . 
+HARDWARE : Atmel ARM 
+AT91SAM9M10G45EK as main SYSTEM-ON-CHIP and all other IO Cards like DSC , SDC , RS422 , KASU. 
+BUILDING MANAGEMENT SYSTEM: (Team of 2) 
+(1) It has 8 Configurable Relays 
+Each Relay can be configured through GUI with respect to Rtc in the following ways a) Daily Entries . 
+b) Specific Date Entry 
+(2) It has 
+Wireless 
+Zig -Bee Coordinator-End device Scanning Functionality . 
+The Coordinator attached to Atmega 
+Uart , scans for two End devices Each End device has sensors temperature sensor and Killo-Watt-Hr Energy Meter . 
+(3) Gtk based GUI : 
+This GUI Scans the End devices and stores each End device data 
+I have used Advance Concepts like Thread Polling and Glist-a doubly linked list Apis for Device data structures and I have worked in displaying the current data in graph , history of data in Report . 
+PRESEVI INDUSTRIAL COMPANY,Chennai 
+HVAC CONTROLLERS: 
+(1) AHU Controllers Used in Panel Coolers. 
+(2) CHILLER Controllers. 
+(3) 
+ETA Standard Controllers (4) & other Temperature Controllers. 
+SOFTWARE USED: MPLAB C Compiler. 
+HARDWARE USED PIC 16F Microcontroller. 
+16 CHANNEL CONFIGURABLE DATA LOGGER. 
+Multiple and User parameter configurable Data Logger .It has 16 Configurable Digital channels and 16 Configurable Analog Channels . It works for several Linear Characteristic Sensors like Temperature, Pressure , Light intensity and with its corresponding Unit of measurement , Resolution, Base value and Range which Can also be configured. 
+SOFTWARE USED: 
+MPLAB 18F C-Compiler. 
+HARDWARE USED: PIC 18F Microcontroller , 18F ICD Debugger. 
+UV HOURCOUNTER: 
+Water purification system which counts hours of UV light consumption. With 
+User programmable options in set value for its Level count , Totalizes , Mode (hour/day) password protection for all settings. It stores in memory about the Lc, T , Modes, hours days of UV light Consumption and giving alarm and relay and led signal as per the specification. 
+SOFTWARE USED : MPLAB 18F C Compiler 
+HARDWARE USED: PIC 18F Microcontroller , 18F 
+ICD Debugger. 
+LIGHTNING CONTROLLER: 
+Controls Transmitter and Reciever based on PSoc touch sensor. 
+SOFTWARE USED: AVR Studio , PSoC Express. 
+HARDWARE USED: AVR Microcontroller and PSoC Microcontroller. 
+LOGICARE EMBEDDED SYSTEMS 
+Embedded Linux project: 
+1.PORTING LINUX KERNEL IN IMX PROCESSOR: 
+I have worked in porting Linux kernel in arm as target processor. 
+In this product development I have worked in kernel level programming and found the bugs in porting imx-linux with the help of boot loader commands, on-chip demon and kernel functions. 
+2.PORTING LINUX KERNEL IN MINI2440 Board: 
+We Used the Uboot bootloader , made bootarg parameters , cross compiled for arm target .Made the architecture specific changes , board specific changes in kernel and cross compiled for arm target .we used the wisdom of tftp client server and ported linux kernel and finally we used Root file system and busybox. 
+PERSONAL DETAILS: 
+Name: GOKULNATH .K 
+D .O .B: 13/08/84 Fathers Name & occupation: KASINATHAN .P [RETD. LECTURE] 
+Mothers Name & occupation: TAMILARASI .V [H.O.D] 
+Address of Communication: S4,Shivalaya regency, 11, solambedu st, Ambattur, Chennai-53. 
+Phone: 04442086845. 
+09841429862. 
+Declaration: 
+I declare that the information and facts stated herein above are true to the best of my knowledge. 
+Place: 
+Date: GOKULNATH .K 

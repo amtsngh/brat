@@ -1,0 +1,113 @@
+HARSHA N 
+Mobile: +91- 9008651146 
+Email: harshanarayanshetty@gmail.com 
+Notice Period: 30 days 
+CAREER OBJECTIVE 
+To be associated with progressive organization that gives me scope to update my skills according to latest trends, especially in the area of Software Development and be a part of the team that dynamically works towards the growth of organization. 
+Roles and Responsibilities Developing custom enhancements to the existing product. Writing Business rules for customer according to the desired logic. 
+Understanding and analyzing the API s and the framework developed by the R&D team and using them in implementing the desired custom functionality. 
+Designing, coding, Unit testing the developed extensions and working with the QA team. 
+Bug fixing for the customizations developed. Handling bugs on call with customer in case of emergency issues. 
+Receiving SOW from architects and implementing the same. 
+Upgrading the product to higher versions released for the customers. 
+Customer Interaction for flawless and smooth development as per the requirement. 
+Estimating the effort/time required for a given task/requirement from customer. 
+Knowledge Transition for new team members. 
+PROFESSIONAL EXPERIENCE 
+Currently working at Unilog content solutions Pvt Ltd as Software Engineer from December 2015 to till date. 
+Previously worked with Enspilog Software Solutions pvt ltd as Software Engineer from Apr 2013 to Nov 2015 (2 year(s) - 7 month(s)). 
+Worked for IGSLABS TECHNOLOGIES PVT LTD as an Internship Project Trainee from August 2011 to June 2012 and carried out M.Tech academic project. 
+Experience in development of ecommerce applications. 
+Hands-on experience on struts and spring. 
+Experienced in Java, MySQL, oracle, velocity, HTML, CSS, jquery, collections, springs, JavaScript, Ajax, Struts, spring (basics), solr, erp. 
+Skills Set 
+Programming Knowledge: Java 
+Technologies: struts2 ,JBOSS, SOAP,JSON, Oracle11G, HTML, CSS, javascript, Ajax, velocity, collections 
+Servers : Jboss, Apache tomcat, Wamp 
+IDE : Netbeans, Eclipse 
+Database Knowledge: Oracle and Mysql 
+Knowledge on standard widget toolkit (SWT), SOLR and ERP 
+Activities 
+Participated and presented papers in national and International conferences. 
+Actively participated in organizing workshops and national conferences. 
+Participated in workshops held at different colleges. 
+Participated and won prizes in sports activities. 
+PROJECT PROFILE 
+Unilog Content Solutions / Dec-2015 to Till Date 
+Project 1: NGlantz ecommerce application 
+Client: NGlantz & Sons 
+Environment: ecommerce 
+Technology: java, Struts2, collections, velocity, html, javascript, SOAP 
+Duration: 7 months 
+Description: NGlantz is a sign and graphics supply company. The NGlantz ecommerce application is implemented using CIMM2Touch. CIMM2Touch contains all the tools: PIM, Experience 
+Management, and Search. We make use of SOLR and SXV10 ERP for this project. 
+Roles and Responsibilities: 
+Implemented functionalities like don t forget section (top selling products), news and social media section, total warehouse availability and one day transit section, Implemented share cart feature, create/ view message feature. 
+Project 2: Weingartz ecommerce application 
+Client: Weingartz power Inc. 
+Environment: ecommerce 
+Technology: java, Struts2, collections, velocity, html, javascript, SOAP,JSON 
+Duration: 6 Months 
+Description: Weingartz is a power equipment supply company. The Weingartz ecommerce application is implemented using CIMM2Touch. CIMM2Touch contains all the tools: PIM, Experience 
+Management, and Search. We make use of SOLR and SX ERP for this project. 
+Roles and Responsibilities: 
+Implemented functionalities like Fraud Check score feature, Account pages feature, Create/view message feature, set up option for new equipment feature 
+Project 3: McNaughton and Mckay ecommerce application 
+Client: Mc-Mc Electrical Company 
+Environment: ecommerce 
+Technology: java, Struts2, collections, velocity, html, javascript 
+Duration: 6 Months 
+Roles and Responsibilities: 
+Implemented functionalities like Quick Order Pad/File Upload with Extended Catalog Items, Training Registration Links, and Added promotion code feature. 
+Project 4: Marks Supply ecommerce application 
+Client: Marks Supply Inc. 
+Environment: ecommerce 
+Technology: java, Struts2, collections, velocity, html, javascript, eclipse 
+Duration: 8 months 
+Description: Marks Supply is a plumbing, P.V.F, Hydronic, HVAC products supply company. We make use of SOLR and ECLIPSE ERP for this project. 
+Roles and Responsibilities: 
+Implemented functionalities like Persistent login feature, new Autocomplete feature, featured products section, ship to sync functionality, previously purchased and reorder products functionalities. 
+Project 5: HGH ecommerce application 
+Client: HGH Hardware. 
+Environment: ecommerce 
+Technology: java, Struts2, collections, velocity, html, javascript, eclipse 
+Duration: 4 Months 
+Roles and Responsibilities: 
+Implemented Clearance badge feature, Reorder pad feature, data overwrite in eclipse feature. 
+Enspilog Software solutions/ April-2013 to-Nov 2015 
+Project 1: Admin tool 
+Description: Admin tool is a web application, which maintains the app users list with their roles, service expiry date, their roles, and permissions to add, edit or delete the device. 
+Roles and Responsibilities: 
+Involved in system testing, HSIT and LL testing, Build development & Release. 
+Integration of HTML page with services. 
+Customizing the pages for admin, tenants and end users. 
+Implementation of required modules. 
+Project 2: SABANY 
+Client: Rain Enterprises LLC 
+Description: SABANY is a college web application. It is used to manage college database and activities. 
+Roles and Responsibilities: 
+Implemented all major modules. 
+Involved in con calls with the clients and in documentation of various requirements, scenarios of the project planning. 
+IGSLABS TECHNOLOGIES PVT.LTD / Aug-2011 to-June 2012 
+Title: IGS Health care 
+Environment : java, SWT 
+Duration : 08 months Carried out in IGS LABS TECHNOLOGIES, Bangalore. 
+Description: 
+IGS Health care is a java application, which tracks the patients and manages the prescription provided by the doctors. This application manages whole hospital functionalities. 
+Roles and Responsibility: Implemented major modules of the application. 
+Attended client s calls individually and with team. 
+ACADEMIC DETAILS DECLARATION 
+I hereby declare that the above information is true to the best of my knowledge. If given an opportunity in serving your esteemed Company, I will try my level best to keep up to your expectations. 
+Place: Bangalore 
+Harsha N 
+Qualification Name of the Institute 
+Year of passing Percentage 
+M.Tech 
+Computer Science and Engineering Sri Siddhartha Institute of Technology, Tumkur 2012 
+84% B E 
+Computer Science and Engineering 
+APS College of Engineering, Bangalore 2010 
+63% 
+12th/2nd PUC HKV PU College, Maddur 2006 
+63% 10th /SSLC 
+Vijaya High School, Maddur 2004 71% 

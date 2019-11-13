@@ -1,0 +1,145 @@
+ Vinayak Iyer 202 
+Siddh Shilp 
+Apts, Satellite, Ahmedabad , 
+Gujrat 380015 
+Email : 
+vinayakiyer07@gmail .com| Ph:9998039776 
+LinkedIn : www.linkedin.com/in/iyervinayak/ 
+| Website : h p://vinayakiyer07.weebly.com/ 
+SUMMARY 
+Mechanical Engineer with 2 years e[ perience in Automotive Engine Controls.. E[ cellent knowledge in On Board Diagnostics (OBD), Aftertreatment Systems, CAN Communications, SAE J1 
+3 
+, Diesel Gasoline Engine Controls. Proficient at using software likeCalterm( similar toETAS Inca,ATI), Insite, P CANView, P CANE[ plorer, MATLAB Simulink. Ihavegoodknowledgeofenginecooling systems,DataAcT uisitionand Data Analysis. Currently looking fornewopportunities as Controls Engineerwhere I can usemy analytical and problem solving skills to design and improve products, willing to relocate if reT uired. 
+EDUCATION 
+Master of Science in 
+Mechanical Engineering 
+(Aug 12 May 14) GPA : 3.47/4 University of Florida,Gainesville,FL, USA 
+Coursework : Conduction,Convection,Fluid Mechanics I II,Numerical Analysis,Computational Fluid Dynamics,Finite Element 
+Analysis,Gas Turbines 
+Jet Engines,Combustion,Design of Thermal Systems 
+B.Tech in 
+Mechanical Engineering (Aug 08 May 12): GPA : 7.54/10 Sardar 
+Vallabhbhai 
+National 
+Institute of Technology,Surat, GuM arat, India 
+Coursework : Fluid Mechanics,Heat and Mass Transfer,Thermodynamics, I.C. Engines,Computational Fluid Dynamics, 
+Strength of Materials 
+PROFESSIONAL 
+TRAINING 
+Gasoline Engine 
+Controls Course SAE 
+Certificate of Mastery course ,LHP|U 
+O ct 14 
+Engineering Process Training 
+CAN Communications 
+(J1 3 ) Code Generation Controls Theory and Application 
+Gasoline Engine and Controls (Speed Governing 
+Controls Model 
+System Diagrams, Wiring, and CAN) 
+Speed 
+Governing of Gasoline Engine using 
+Throttle control 
+Developed 
+a PID controller for 
+both throttle and engine using 
+MATLAB 
+Simulink 
+Developed different schemes like Anti Windup, Feed Forward and Gain Scheduling to improve the accuracy and response time of the 
+PID controller Conducted Model in Loop and Hardware in Loop simulation to optimise and calibrate the throttle and engine 
+control systems using NI 
+Veristand 
+Conducted FMEA 
+study of the throttle body for different failure 
+modes 
+TECHNICAL 
+SKILLS CAD/CAE 
+: SolidWorks,ProE,AbaT us,Nastran 
+Programming : Fortran,Matlab,Python 
+Software : Simulink,LabView,NI 
+VeriStand, NI 
+TestStand, Calterm ,Canape, 
+Canalyzer 
+Vinayak 
+Iyer 202 
+Siddh Shilp 
+Apts, Satellite, Ahmedabad , 
+Gujrat 380015 
+Email : 
+vinayakiyer07@gmail .com| Ph:9998039776 
+LinkedIn : www.linkedin.com/in/iyervinayak/ 
+| Website : 
+h p://vinayakiyer07.weebly.com/ 
+WORK 
+EXPERIENCE 
+Fuel 
+Bench 
+Support 
+Engineer (Caterpillar) May 16 Present 
+Responisble for the electronics setup and troubleshooting 
+support for diesel engine fuel system test benches. 
+Performed software and hardware validations on 
+bench top 
+test systems. 
+Verify fuel system production software on electronic benches and fuel system test benches. 
+Collaborate with customers to understand reT uirements, provide issue resolution for test benches via phone and at on site Develop fuel 
+bench 
+software per reT uirements in a model based environment and an embedded C environment. 
+Calibration 
+Engineer 
+(Cummins HMLD 
+On Highway 
+India 
+Brazil Liason) Aug 15 
+Feb 16 Specify, design, develop, validate and release 
+software 
+reT uired to support Engine 
+Controls and Electronics 
+Systems. 
+Lead development of Engine 
+Calibrations 
+Diagnosed and resolved 
+customer complaints involving engine 
+control systems using Matlab/Simulink 
+Performed software and hardware validations on 
+bench top 
+test systems using Calterm( similar to 
+ETAS 
+Inca , ATI), Insite, 
+P CAN E[ plorer 
+Developed standard 
+validation procedures to optimize control system performance. 
+Test and Validation 
+Engineer 
+( Cummins Fuel Systems) 
+Jan 15 July 15 Tested and validated Engine Control Software and Calibration forCummins OffHighway VPI Team using Matlab/Simulink 
+Validated diagnostics using 
+P CAN E[ plorer 
+to send/view 
+CAN messages Gained proficiency in 
+Cummins proprietary 
+software 
+Calterm , Insite Troubleshooted various tests and updated Standard Test Procedure (STP) and Test SeT uences to test additional features. 
+Gained familiarity with different sub systems like Aftertreatment System, Engine Protection,Inducements, Engine Derates, 
+On Board Diagnostics (OBD), CAN Communication 
+Gained proficiency in NI 
+Teststand to troubleshoot and modify 
+Test SeT uences. 
+Summer 
+Volunteer,Energy Systems and Gas Dynamics 
+Lab,UFL May 13 June 13 Developed a user interface fordata acT uisition foraNovel 4 uad generationGasTurbineSystemusing LabView at the Gas Dynamics and Energy 
+Systems 
+Lab. 
+Developed a MATLAB code to find theoptimumoperating point of the system foragivenset of input parameters. 
+Gained e[ perience in compressor turbine 
+matching Gained familiarity with the use of thermocouples, pressure transducers and flow meters. 
+Gained knowledge on measurement 
+techniT ues for pressure, temperature and fluid flow. 
+Gained in depth knowledge about the functioning ofa typical gas turbinesystemaswell asau[ iliaries like turbochargers and 
+heat e[ changers. 
+Engineering Internship, 
+Sumul Surat 
+Jan 12 May 12 Designed,fabricated and analysed theperformanceof a solarassisted biogasplant fordomesticuse,as part of a GuM arat 
+Government initiative, to provide cheap source of fuel for domestic purpose. 
+Proposed to use translucent fiberglass to trap solar energy and increase the temperature inside the digester. 
+Increased theyieldby 110 andmethanecontent inthebiogasby0.4 , by using translucent fiberglass instead of conventional plastic material. 
+Conducted material testing for yield strength of material and determined that the fibreglass is 2.57 times stronger than conventional plastic. 

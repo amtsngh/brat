@@ -1,0 +1,126 @@
+Resume 
+Jayateerth M. Hulgi 
+jayateerth.hulgi@gmail.com #1196, 7th Main D Block +91-9886560025 AECS Layout, 
+Kundalahalli Gate 
+Bangalore-37 
+Objective: 
+I would like to be a part of an organization where I could use and enhance my knowledge and experience for the development of both the organization and myself. 
+Educational Details: 
+Finished Bachelor of Engineering in Electronics and Communication branch in the year 2007 from Proudha Devaraya Institute of Technology, affiliated to Visweswaraiah Technological University, Belgaum. 
+Experience Summary: 
+Having total of 7.4 years, 4 years of experience in programming and in C on Linux environment and 3 years in testing. 
+Good knowledge of Cloud computing and virtualization concepts, OpenStack in particular. 
+Experience in working in virtualized environment. 
+Good understanding of the yaml scripts. 
+Experience in development, automation and testing. 
+Strong knowledge in C Programing, tcl(expect) scripting. Strong knowledge in Data structures. 
+Good knowledge of Python and C++ and OOP Concepts. 
+Well versed in using the tools like : gdb, tcpdump, wireshark. 
+Strong knowledge on TCP/IP protocol suite (UDP, TCP and SCTP), IPv4/IPv6. 
+Strong knowledge about the 3GPP Specs. 
+Strong functional and technical knowledge of LTE Domain in S1-AP, X2-AP, GTP protocols, QoS. Strong experience in Tunneling Protocols in LTE. 
+Experience in multiple interfaces of LTE, especially interfaces of MME. 
+Knowledge of MME testing and verification scenario for 3GPP Release-9 and release-10. 
+Well versed in the different LTE call processing scenarios of the MME. 
+Hands-on experience in Automation framework in TCL/iTCL and in RobotFramework. 
+Strong troubleshooting experience in C, LTE and TCP/IP. 
+Career Summary: 
+Employers Years of Service Duration 
+Nokia Networks 1 year & 7 Months March 2014 
+Oct 2015 Tech Mahindra 7 month June 2013 
+March2014 
+Larsen and Toubro Infotech 3 years 
+March 2010 
+May 2013 
+SpRec India Private Limited 2 Years 
+March 2008-March2010 
+Includes one year at clients location, Samsung Digital City, Suwon S.Korea from January 2012 to January 2013. 
+Projects Implemented, at Nokia: 
+Project Title: RACS 
+Radio Application Cloud Server 
+Technologies - Linux, Robot Framework 
+DUT - RACS 
+Duration - Mar-2014 till Oct-2015 
+Team Size - 60 
+Role - Tester 
+Project Description: 
+RACS provides the worlds first mobile-edge server platform within a macro base station, coupled with access to near-real time network data that is less exploited. The idea behind RACS is to change base stations into local hubs for service creation and delivery. The RACS enables localized processing: up to 400GB of storage and access to real-time radio and network information from the base station. 
+RACS enables the telecom operators and other third party vendors to develop and deploy the hardware independent applications. 
+The aim of this project is to verify the SUT (RACS) behavior for different features of RACS. The features included: Compatibility with LTE features, Security in RACS 
+The test cases for the features were developed in ROBOT framework and executed. 
+The test scenarios included: Attach, Detach, Attach Fail, S1 Handover, X2 Handover, Bearer Allocation/modification/deletion/rejection, QoS modification. 
+Role Description: 
+Identify and Refine the test cases for the features developed. 
+Execute the test cases, both manually and from the test scripts developed on Robot framework. 
+Verifying the behavior of the product for the feature implemented. 
+Projects Implemented, at Tech Mahindra: 
+Project Title: Spirent LTE UE Testing 
+Technologies - Spirent Test manager, QXDM, QCAT DUT - LTE UE (User Equipment) 
+Duration - Jun-2013 Mar 2013 
+Role - Scripting Test Manager 
+Team Size - 4 Client - Spirent, US. 
+Project Description: 
+The aim of this project is to verify the UE behavior. The Device Aggression Management (DAM) is the behavior of the UE that is tested and verified. The aggressive behavior of the LTE UE when the LTE/UMTS network rejects or ignores the Connection Requests from the UE is tested. 
+The purpose of DAM is to measure the aggressiveness of the UE under the negative situations, like Attach Fail, Attach Reject, TAU Fail, TAU Reject. 
+Spirent developed Test Manager is used to simulate the LTE/UMTS network and the LTE UE is the Device Under Test. 
+Role Description: 
+Developing the scripts for the DAM activities as per the standard provided by the client. 
+Verifying the DAM of the UE for various scenarios. 
+Developing and verification of the scripts for DT activities for different Bands and Bandwidths. 
+Projects Implemented, at LnT Infotech: 
+Project Title: Automation Framework for MME 
+Technologies - tcl 
+DUT - MME 
+Duration - Jan-2012 
+Jan-013 
+Role - MME Test automation engineer 
+Team Size - 3 Client - Samsung, South Korea 
+Project Description: 
+The purpose of this project is to automate the testing of the MME SUT for various scenarios of the MME. This automation framework is developed in itcl. The framework controls the messages to be triggered to the SUT, and collects the replies back from SUT. 
+The framework is generalized so that the same script can be used to test multiple scenarios for the different operator, each operator with different features. 
+The result is generated in html format and the result can be analyzed easily. 
+Role Description: 
+Developed the scripts in tcl within the framework for the MME scenarios Generalizing the Automation framework to be used for multiple operators and for different packages of the SUT. 
+Verifying the different LTE call processing scenarios of the SUT. 
+The scenarios included: Attach, Detach, Attach Fail, TAU, S1 Handover,X2 Handover, Dedicated Bearer Allocation/modification/deletion/rejection, CSFB. 
+Project Title : EPC Call Simulator 
+Technologies - LTE Activities - Simulator development Platform - C , Linux, Wireshark, tcpdump, gdb Duration - March 2010 to May 2013 Role - Developer 
+Client - Samsung, South Korea 
+Team Size - 4 
+Project Description: 
+EPC Call Simulator is a framework that allows simulating the behavior of the MME, SGW or PGW as SUT for their multiple LTE-interfaces. 
+The simulator is developed in C and C++ in the backend and using java for the GUI in the frontend. Multiple LTE call scenarios can be realized using the test cases created using the GUI. 
+Role Description: 
+As a developer, my responsibilities included: 
+Implementation and verification of the messages of LTE interfaces. 
+I was involved in the interfaces : SGsAP, GnGp, LCS-AP, S1AP, S11, S10 GnGp: 
+Gn/Gp interface allows the transfer of data from the old SGSN to the new SGSN during GPRS Attach and Inter SGSN Routing Update procedures. 
+This simulator is tested with MME as SUT. 
+Features Tested: 
+Implemented the GnGp messages. 
+Test Case Preparation for GnGp interface. 
+Tested the Mobility Management feature and handover between EUTRAN and UTRAN LCS-AP: 
+Location Services (LCS) may be considered as a network provided enabling technology consisting of standardized service capabilities, which enable the provision of location applications. 
+Features Tested: 
+Implemented the LCS, LPP and LPPa messages. 
+Test Case Preparation for SLs interface. 
+Tested the following features: 
+MT-LR, MO-LR, NI-LR. 
+eNB: 
+eNB simulator simulates the behavior of the eNB to send the S1-AP messages to MME. It includes the attach messages, default and dedicated bearer establishment and deletion. 
+Features Tested: 
+Test Case Preparation for S1-MME interface. 
+Tested the following features: 
+Attach, Detach, Attach Fail, TAU, and Service Request. 
+SGW: 
+SGW simulator simulates the behavior of SGW. It includes the exchange of the GTP-v2 messages between SGW (Simulator) and MME (DUT). 
+Features Tested: 
+Test Case Preparation for S11 interface. 
+Tested the following features: 
+Session establishment, dedicated bearer establishment/modification, Downlink Data Notification, session delete. 
+Personal Details: 
+Name : Jayateerth M. Hulgi 
+Date of Birth : 14th March 1985 
+Gender : Male 
+Passport : Valid till 2021, with Valid US B1 
+Thanks and Regards, Jayateerth M. Hulgi 

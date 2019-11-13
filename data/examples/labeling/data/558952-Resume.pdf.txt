@@ -1,0 +1,34 @@
+21/212
+Indira Nagar, Lucknow 226016. S H U B H A M 
+S R I V A S T A V A (+91) 9792720716 
+shubham025@gmail.com 
+EMPLOYMENT 
+Associate System Engineer Tata Consultancy Services November 2016 Current 
+SAP Trainee 
+Received training in Sap-ABAP, ABAP-OOPS, and WEBDYNPRO in ILP Ahmedabad for the duration of three months. 
+Mobile Application Developer 
+D.K. Info Solutions July 2016 October 2016 Developed a road safety application which provides emergency response to victims in case of road accidents. 
+Integrated Google maps in the application to help users navigate locations. 
+Implemented Google s direction API for showing travel time and routes between different locations. 
+Summer Trainee CETPA InfoTech Pvt. Ltd May 2015 July 2015 
+Course: Six weeks training in Android Application Development. 
+Developed an application for summoning aid in case of an emergency using the current location of the user. 
+Implemented location API for obtaining the current location of the user using network connection and global positioning system. 
+Implemented Java mail API for sending emails in a background service without using any third party application. 
+EDUCATION SRMGPC, Lucknow Uttar Pradesh Technical University August 2012 June 2016 B.Tech in Computer Science Engineering June 2016. 
+Aggregate: 63%. 
+Undergraduate Coursework: Mobile Application Development; Operating Systems; Database Management; Algorithms; Programming Languages; Entrepreneurship Development. 
+St. Dominic Savio College Council for Indian School Certificate 
+March 2012 Council for Indian School Certificate (Percentage: 81.00%) 
+St. Dominic Savio College 
+Indian Certificate of Secondary Education March 2010 Indian Certificate of Secondary Education (Percentage: 89.00%). 
+TECHNICAL EXPERIENCE 
+Projects Road Safety Application (2016). An initiative by Tamil Nadu government for providing emergency response to victims in case of accidents. The application aims at raising awareness and changing the behavior of young novice drivers. Java; XML; JSON; Android Studio; PhpMyAdmin. 
+Stock Market Analysis & Prediction (2015 2016). Stock Market Analysis & Prediction is a web application that analyses data of different companies with help of certain parameters that affect stock value. The analysis is used to determine whether the investment in the stock of a particular company will be fruitful or not. 
+C#.NET, SQL SERVER, Visual Studio. 
+Lifesaver - Android Application (2015). A women safety application which aims at providing a quick and easy method for summoning aid in case of an emergency. The application allows users to send emergency messages automatically to friends and family. Java; SQL; XML; 
+ADDITIONAL EXPERIENCE AND AWARDS 
+Event Coordinator: Worked as an Event Coordinator in Gantavya-2K14(College Fest). 
+Second Prize, Join Java Quiz: Won 2st Prize in Join Java in Gantavya-2K13(College Fest). 
+Languages and Technologies 
+Java; Android; C#.NET; SQL; Android Studio; Visual Studio; Microsoft SQL Server; Eclipse; PhpMyAdmin: 

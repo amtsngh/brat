@@ -1,0 +1,80 @@
+ Career Summary 10+ Years of Telecom experience handling various role 
+Worked with multiple vendors and operators across the globe Customer interaction across Europe, Asia, Africa, Middle-east and Latin 
+America 3+ years as project manager, handled development and delivery projects in different capacities with varying responsibilities 
+Worked with internal/external customers from business case validation to rollout and benefit realization as delivery manager 
+Good knowledge of telecom business line and BSS products 
+Specialist on handling telecom projects specialized on charging Platform 
+Worked on Prepaid charging (IN), postpaid billing, data charging & policy control and mobile money products 5+ years as solution architect, handling responsibility of collecting end to end business requirements from clients, solution design, writing HLDs and LLDs for the new requirements, defining new interfaces and assisting the dev team 
+Negotiating with customer and development teams, and reach agreement 
+3PP management for delivery and integrations 4+ years exposure to SDLC from requirement gathering to implementation and support 
+Managed product maintenance and operations in parallel to development Worked on multiple technologies like Java/J2EE, Struts, SQL, PL/SQL, Oracle, Linux, Unix, Solaris, Tomcat, Websphere, Weblogic 
+Handled pre-sales (SOC, RFI, RFP, RFQ) and negotiation 
+Awareness of Big data technologies Awards & achievements Cleared PMP with 
+Good standing Individual achievement award in charging domain at Vodafone India in 2013 
+Nearly 33% CAPEX saving on annual IN capacity ordering by proposing a new model Up-to 50% less TTM (time to market) by optimized planning Best new-comer award at Huawei in 2010 40% increase in team efficiency by automating the system monitoring process at Wipro 
+Ankit Singhal PMP ITIL Project management and service delivery 
+A meticulous telecom professional with over ten years of extensive experience in positions of increasing responsibility in charging products solution design & project management, handling diverse clients across globe; and proven experience in developing self-motivated teams and handling cross-functional communications. 
++91 9650763762 ankitsinghal.btsl@gmail.com Image 
+CORE COMPETENCIES 
+Project management Service delivery Solution design Business analysis 
+Pre-sales Product development Operations and support Capacity planning Annual budgeting 
+3PP management Telecom domain knowledge 
+Java/J2EE, SQL, PL/SQL, Oracle 
+EDUCATION 
+2005 
+B.tech from UP technical university 2000 12th from State Board 1998 10th from State Board 
+CERTIFICATIONS PMP (Nov 2015 to Nov2018) 
+ITIL (Oct 2015 onwards) Work Experience 
+Since Oct 14 Solution architect & project manager with Ericsson Global India, Noida for Data charging (MBC) 
+Key Result Areas: 
+Customer business (Telecom) process and requirements analysis 
+Collect and document customer functional/non-functional requirements 
+Gap analysis and customized solution design with identified components Write/Review system test specification and plan 
+Costs estimation for customer adaptations, implementations and/or operations Handle 3 rd Party Products to be used in the solution Quality solution delivery within agreed timelines Technical and functional coordination among stakeholders Jan 13 to Oct 14 
+Manager- Prepaid charging with Vodafone, Mumbai for Redknee Charge@Once (RECC), Ericsson, Redknee and Comverse INs 
+Key Result Areas: Project management and service delivery 
+System capacity planning, forecasting and platform optimization 
+System upgrade and capacity expansion planning 
+Handling business requirements from business case validation to benefit realization 
+Design & implement charging system solutions/products pan India 
+Cross functional interaction among marketing, IT, RA, CC etc. 
+Negotiation and solution acceptance by all stakeholders 
+Ensure regulatory compliance of charging systems Level 3 operations support and design issues resolution 
+SLA management and MS performance reviews 
+Vendor evaluation for new requirements 
+Clients: 
+Internal (Business/Marketing teams, Customer service team, Operations, Revenue assurance, finance, IT, circles etc) Apr 10 to Jan 13 Solution analyst with Huawei technologies, Bangalore for OCS, CBS, EVC, UVC, PCRF and Mobile-Money products Key Result Areas: 
+SOC (Statement of Compliance) preparation for RFP, RFQ & RFI s Technical proposal submission with supporting documents Customer demo and technical presentation Technical & business requirements investigation and documentation Solution architecture design and ecosystem integration Negotiation and solution acceptance by stakeholders Relationship building with clients/customers for referral and repeated sales 
+Clients: 
+KPN (Netherlands), tiGO (Ghana), Telkomcel (Indonesia), Etisalat (UAE), P4 (Poland), Aktel (Bangladesh) 
+Oct 09 to Apr 10 Associate technical consultant with Wipro Infotech, Gurgaon for Eload (Prepaid recharge system) by Utiba 
+Key Result Areas: 
+Integration and reconciliation of Eload with ecosystem (CRM, DMS and ERP) Reports generation for revenue assurance and fraud management 
+Issue resolution and ensure minimum service impact 
+Client: 
+Uninor 
+July 05 to Oct 09 
+Lead engineer with Comviva technologies, Gurgaon for PreTUPS (Postpaid & Prepaid recharge system) 
+Key Result Areas: 
+Complete hands-on experience on SDLC from requirement investigation to HLD, LLD, coding, testing, deployment and support. 
+Requirements investigation and impact analysis 
+Design & develop system/database objects and query optimization 
+Coding and technical consultation on programming matters Product road map design, development and implementation 
+Planning for version upgrade & migration strategy 
+Create quality support documents ensuring timely resolution 
+Database operational & maintenance activities planning 
+Technologies: 
+Linux, Sun Solaris (Advanced Server) 
+Apache Tomcat 5.x/ Apache Server, JAVA 1.5, J2EE, Java Servlet 2.3, Struts Frame Work 
+Oracle 9i, 10g, SQL, PL/SQL 
+Clients: 
+Aircel (India), Aktel (Bangladesh), Mobinil (Egypt), Sonatel (Senegal), OCM Cameroon and others. 
+Personal Details 
+Date of Birth 16th Jun 1983 
+Languages Known Hindi, English 
+Address 
+Noida, India 
+Nationality Indian 
+Passport 
+Sex 
+Valid till 2022 Male 

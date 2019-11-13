@@ -1,0 +1,83 @@
+ Mohan Raj.R Mobile : ,+91-7022385423, +91-9790383135 
+Senior Software Engineer E-mail : mohanrajr86@gmail.com mohanrajr18@gmail.com 
+Profile 
+Working as a Senior Software Engineer with 6.2 Years Experience in Analysis, Design and Development . 
+Professional Summary 
+Good experience in HTML5, CSS3, JQuery, JavaScript, Ajax and Nodejs. 
+Hands-on Experience in Mobile Application Development. 
+Application Development using HTML5, JQuery, JavaScript, CSS3 and Ratchet Framework for iOS device. 
+Responsive Web Design for desktop and mobile channels. 
+Debugging web applications using Developer Tools in browsers. 
+Good knowledge of PHP. 
+Good experience in CMS like Wordpress, Joomla, Magento and Moovweb 
+Good experience in SQL Server, PostGreSQL, MySQL databases and MongoDB. 
+Good experience in cleaning the Malware sites. 
+Excellent experience in GoogleWebToolkit and it's related technologies for end-to-end web application development. 
+Good experience customizing Responsive themes in wordpress, Joomla and Magento. Analyzed many issues and resolved them under high pressure situations. 
+Well organized, analytical, problem solving & leadership skills. 
+Good experience in handling clients & meeting their requirements. 
+Willing to adapt to new technologies and work environments. 
+Effective in working independently and collaboratively in teams. 
+Hands-on Experience in Enterprise Mobile Application Development. 
+Technical Skills 
+Languages : C, C++, VB.NET, ASP.NET, PHP, Ruby On Rails. 
+UI development : HTML5, CSS3, JQuery, JavaScript CMS-PHP : Wordpress, Studiopress, Joomla. (Responsive Theme) 
+Framework : Bootstrap, JQueryMobile, Ratchet , Express & Genesis. 
+Databases : SQL Server, PostGreSQL, MySQL and MongoDB. DBMS Packages : 
+Oracle 9i, Microsoft SQL Server 2005, Microsoft 
+Access. 
+Corporate Experience 
+Currently working as 
+Sr. Engineer at Mindtree Pvt Ltd, Bangalore. 
+From July 2015 to till date . 
+Worked as Sr. Engineer Tech Mahindra, Bangalore. 
+From April 2014 to June 2015. 
+Worked as Sr. Engineer in Velan Info Services India Pvt Ltd, Coimbatore. From July 2010 to April 2014. 
+Education 
+MCA in KGiSL-IIM, Coimbatore with 71% (2007-2010). 
+BCA in Dr. S.N.S Rajalakshmi College of Arts & Science, Coimbatore. With 66% (2004-2007). 
+Higher sec. in Sri Ramakrishna Matriculation Hr & Sec School, Coimbatore with a 59.6%. 
+S.S.L.C in Kovai Kalaimagal Matriculation Hr & Sec School, Coimbatore . School with a percentage of 74. 
+Projects 
+Mangements 1. EMSP: Enterprise Mobility Services Platform. 
+Company Tech Mahindra Limited 
+Description 
+The EMSP as Enterprise Mobility Services Platform, build mobile applications that grow your business using real-time data connected to the location and context of people and things. Accelerate and simplify your mobile application development, management, and integration with our Enterprise Mobility Services Platform. 
+Environment Windows, NodeJS, Mongo DB & BootstrapUI 
+Personal Role EMSP Admin Portal, Requirement Gathering, Analysis, Design, Development, Testing, deployment and production support activities. Client Interaction. 
+Clients CISCO 
+2. MOHAJJ iPhone App. 
+Company Tech Mahindra Limited 
+Description 
+The purpose of the application MOHAJJ is to provide all the information and instructions a pilgrim needs to know about preparing for the journey, and performing of Hajj. 
+The application has a simple layout which contains six major tabs and three minor tabs on the Table of Contents screen. A simple tap on every tab takes to the information screen which contains the detailed information about different aspects associated with Hajj. 
+Environment Windows, HTML5, CSS3, Ratchet. 
+Personal Role MOHAJJ, Requirement Gathering, Analysis, Design, Development, Testing, production support activities and Client Interaction. 
+Clients CISCO 
+3. Wordpress, Joomla & Magento 
+Company Velan Info Services India Pvt Ltd 
+Description Created more than 50 websites using wordpress, Joomla & Magento for normal and Ecommerce sites with Responsive. Also plugin creation in wordpress. 
+Environment HTML5, Wordpress, Magento, & Joomla. 
+Personal Role Requirement Gathering, Analysis, Design, Development, Testing, production support activities and Client Interaction. 
+List Of URLs 
+1) http://www.shoerevival.com 2) http://www.okdelivered.com 
+3) http://www.fasttwitchperformance.com 
+4) http://www.accesspropertiesne.com 
+5) http://www.shotznaturalenergy.com 
+6) http://www.vietnamorientalfood.com 
+7) http://www.myamreeka.com 
+8) http://www.achieversinlife.co.uk 9) http://www.solutions.birchman.com.au 10) http://www.newlifeministry.co.uk 11) http://dev.velanapps.com Personal Profile 
+Fathers name : Mr. R.Ramamurthy 
+Gender : Male 
+Marital Status : Single 
+Age & Date of birth : 28, 18-05-1986 
+Nationality : Indian 
+Languages Known : Tamil & English. 
+Hobbies : Music & Dance 
+Permanent address : No:9, Manickavasagar street, C.K.S Illam,3rd floor-No:8, Nalvarlay out,Rathinapuri, 
+Coimbatore- 641027. 
+Declaration 
+I hereby declare that the above information is true to best of my knowledge. 
+Place: Bangalore. 
+Yours Sincerely 
+Date : (MohanRaj.R) 

@@ -1,0 +1,96 @@
+1 Srilatha Pallakonda 
+Mobile Number-971554052803 
+Srriilatha@gmail.com 
+I have over all idea about all the important subjects( BTech Electronics and Communication 
+Engineering,Economy, political science, history, geography, current affairs,international relations, science and technology, Ecology and environment) so I am ready to do job with your organization. 
+My past experience was technical and the details of which are furnished below. 
+Professional Profile: 
+Result-oriented, Mixed signal circuit design and development/Embedded Hardware circuit design professional with 3+ years of experience at different stages of embedded system design, development, debugging and documenting. 
+I have good command over embedded hardware design and embedded programming (assembly and C). My past employment was with Bharat Electronics Limited, where I was responsible for design and development of navel solutions to Control Systems and I have worked with Robert Bosch 
+Engineering and Business Solutions limited, Coimbatore,India. 
+Motivated achiever with 3+ years of progressive experience in understanding client needs especially in embedded product design having interacted with different team members to arrive at a globally acceptable product solution. 
+Key Skills: 
+Domain expertise in Embedded Real time application development. 
+Excellent skills in MIL graded Analog and Digital Hardware Circuit design, Interfacing, Debugging and Board bring up. 
+Resolving EMI/EMC compatibility issues at design and post design stages. 
+Hands on Experience in Logic Analyzer and VME Analyzer. 
+Application Programming 
+Assembly Language, C. 
+Experience in using tools: Ascet, X-metal, Clear case/sdom Design and Development of the Project from the root level i.e. doing Binding Data, Power budget Calculations, Cable Scheduling, Reliability analysis etc. 
+Requirements Gathering and Project Planning. 
+Interacted with Vendors for the selection of Products. E.g. Connectors, Switches, IO Cards etc. 
+Doing the Documentation as part of the Design. 
+2 
+Technical Experience: Proficient in a vast array of programming languages, concepts and technologies, including, but not limited to High Level Languages: C. 
+ASM programming: 8085, 8051,C8051f34x. 
+IDDE: Keil uVision3, Workbench 3.1. Electronic Drafting/Simulation Software s: Simetrix, PSPICE (ORCAD). 
+ReliabilityAnalysis Tool: Relex Software. OS: WINDOWS XP, WINDOWS 98. 
+Communication Standards: RS232, RS485, I2C, SPI,CAN. 
+Inter system protocal: UART-universal asynchronous transmitter and receiver. 
+Transmission Protocols: IEC 60870-5-101,IEC 60870-5-104. 
+Proficient in using Microsoft Office Suite and AutoCAD 2007. 
+Education: 
+B.Tech in Electronics and Communication, June 2005 -61% Vaagdevi College of Engineering, Telangana,India. 
+Inter (MPC)-APRJC-69%,Telangana,India. 
+10th APRSC-73%,Telangana,India. 
+Overall Work Experience: 
+Worked as Embedded Systems Design Engineer in Bharat Electronics Ltd, Bangalore (April 2008 to April2011). 
+Worked as Embedded Systems Design Engineer in Robert Bosch, Coimbatore (June 2012 to November 2012). 
+Projects Profile: 
+Project #1 CUPF 
+Organization: Robert Bosch Engineering and Business Solutions Limited, India. 
+Customer 
+: Fiat off highway vehicle 
+Description: Water in fuel lamp indicator. 
+This module in Device Encapsulation and the functionality of the task is if the water in fuel is reached threshold switch ON the power stage to drive water in fuel lamp indicator before that diagnosis the power stage. if the power stage is not having any Diagnosis fault path (DFC) like short circuit to ground, short circuit to battery, open load, over temperature then switch ON power stage otherwise shutoff the power stage and provide tester interface. 
+Auto code generation using ASCET: 
+FIAT had a requirement of implementing Blow by detection of water in fuel. This task involved auto coding and the design was verified by FIAT. This task gave me hands on experience on design and auto coding. 
+3 
+Projects Profile: 
+Project #1- INDIGO 
+Organization: Bharat Electronics Ltd. 
+Customer : INDIAN NAVY Description: Project INDIGO consists of 5 Control Systems for the Submarine, of which I am undertaking one of the Control System Called as Electrical Control System. This system controls Turbo 
+Alternators (TA), Diesel Alternator (DA), Main Motor Generators (MMG), AC-AC Converters, AC-DC 
+Converter, Batteries and Shore supply of the Submarine. For this System and for other systems i have designed following PCB s and calculated Reliability and drawn RBD using Relex Software with minimum duration time. 
+PCB #1-Microcontroller based Auto change over switch (ACOS). 
+Team Size: 2. 
+Role: 
+Hardware Design and writing Codes. 
+Duration: 3 months 
+Tools: 
+Keil uVision3, Silicon Laboratories IDE. 
+Description: The main objective of Auto change over switch (ACOS) module is to analyze feeder response(3-phase, 220V 400Hz) and if the feeder response is not good then change over to alternate feeder (3-phase,220V 400Hz)within 10ms of time i.e. without human intervention. It is based on microcontroller 
+C8051F340, an advanced version of 8051having a clock frequency of 48MHz which has certain additional features like Analog, Digital I/O pins, 10 bit on chip ADC, Comparators etc. The module consists of power monitor for analyzing of feeder response and the response of the feeder is stored in microcontroller using 
+RS485 connectivity and the Controller controls solid state relays based on feeder response and programming. The solid state relays input is directly from feeders . 
+ULN2001 Darlington IC to drive the Relay etc. 
+Fault in feeder and Change over of feeder is indicated at human machine interface (HMI). 
+All EMI/EMC precautions have been taken care in the design. The components chosen are radiation hardened and MIL grade. 
+PCB #2-Telegraph Logic Module (TLM) AND CCCS Keyboard Logic. 
+Team Size: 2. 
+Role: 
+Hardware Design. 
+Duration: 3 months. 
+Description: The main objective of the PCBs is to control the Reserve propulsion Motors (RPM) of the submarine. The control of the RPMs is based on 7 different commands. 
+The PCBs consists of relays, staco swatches and power supply circuit. All EMI/EMC precautions have been taken care in the design. The components chosen are radiation hardened and MIL grade. 
+4 PCB #3 Line Driver/ Line Receiver. 
+Team Size: 2. 
+Role: 
+Requirement Gathering, Design & Development. 
+Duration: 2 months 
+Tools: 
+Simulation- Multisim, PSPICE. 
+Description: The PCB is designed basically to send Analog Signals over a larger distance without effected by EMI. Here Isolation amplifier (AD210) is used to isolate the sensor from the Line driver (SSM2142). 
+Line driver converts Analog signals to Differential and send it over the twisted shielded cable. 
+At the receiving end there is a Line Receiver (SSM2141) which converts Differential signal to Analog signal. A circuit is designed inside the PCB to indicate the fault status of the PCB. All EMI/EMC precautions have been taken care in the design. The components chosen are radiation hardened and MIL grade. 
+Extracurricular activities: NCC, Blood donation, Karate, Volleyball, Kabaddi, Chess, Easy writing, Paper presentation, Dance .etc 
+Personal Details: 
+Date of Birth - 01/05/1982. 
+Marital Status 
+- Single 
+Languages Known 
+-English,Telugu,Hindi, Kannada. Nationality - Indian 
+Permanent address 
+- Room No-312,Flat No-B6,Dunes Village,Dubai Investment Park - 2,Dubai. 
+Passport No. - P7373021 
+Date: Place: Dubai. 
+SRILATHA PALLAKONDA 

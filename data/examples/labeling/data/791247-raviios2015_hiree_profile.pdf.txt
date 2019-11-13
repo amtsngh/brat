@@ -1,0 +1,66 @@
+ Curriculum Vitae 
+Ravi Kumar 
+iOS Developer 07619117325 
+raviios2015@gmail.com 
+OBJECTIVE 
+Pursuing a challenging career and believes in smart work, able to adjust with people at all levels, creativity and positive attitude. 
+SUMMERY 
+Having 2 years of experience in iOS (iPhone/iPad) development. 
+Extensive Knowledge in Developing iPhone and iPad OS applications using Cocoa Touch and Objective-C from scratch to end. 
+Rich Knowledge of Cocoa s and iPhone-Software Development Kit (SDK), coding conventions, style and various frameworks. 
+Knowledge of End-to-end project execution which includes: Estimation, Requirement Analysis, Architecture, Design, Coding, Testing, Implementation and Support, etc. 
+Debugging and troubleshooting skills. 
+Knowledge on Instruments. 
+Working experience in version control tools (SVN) and Git Repository. 
+End to end Application Creation and Deployment on iTunes Connect and Apple Developer 
+Account Operations. 
+WORK EXPERIENCE 
+Currently working as iOS Developer at Cyble Solutions Pvt Ltd since July 2015 to present. 
+TECHNICAL SKILLS 
+Languages : Objective C, Swift 3.0 
+Frameworks : Sprite kit Framework , Google Framework , FacebookSDK Framework, AFNetworking , XMPP framework , Alamofire. 
+IDE : Xcode 8.3 
+Operating System: Mac OX , Windows . 
+Other Software : Photoshop Project Management Tools : Jira Code Management Tools : BitBucket , SourceTree 
+Web-Services : REST and SOAP Database : Sqlite , Core data 
+Payment Gateway : Stripe , Citrus Ios technology : Swift 3.0 , Location based services , Payment gateway integration , Push notification ,Media (audio/Video) Streaming , Barcode/QR code , iAD , 
+Live chat (XMPP framework) , Cocoa Pods 
+EDUCATIONAL BACKGROUND MCA from Visvesvaraya Technological University, Bangalore with 66% in session 2012 2015. 
+BCA from IGNOU with 61% in session 2007-2010. 
+12th from UPSEB with 66% in session 2005-2007. 
+10th from S.R.S.S.H/S Sharfuddinpur with 59.9% in 2003 PROJECT PROFILE 
+Jain Community 
+iphone : (Swift 3) 
+Company : WebNOffice Solutions. 
+Platform : iOS 9 10.3 Project Role : Design proposal & Development Team size: One 
+Development time: November 2016 to continue Description: 
+Jain Community is the app of Jain People. Login through the mobile Number and upload own profile and family details. If u want to search the person u can easily find the person upload the related news and events. 
+Pinch iphone : (Swift2.0) 
+Company : Infocrawlers Datahunt Pvt Ltd. 
+Platform : iOS 8.0 9.3 
+Team size: Two 
+Project Role : Design proposal & Development end to end Development time: 6 Month 
+Description: 
+It is Social application where user can see whose in your neighborhood, collaborate with friends & people on ideas, fun, social & civic issues, advice & recommendations, order from your favorite brick & mortar store nearby, order food or book a table at your favorite hotel around, sync with doctors & essentials or look for your favorite jobs & companies to work for, Hire the best talent around, Look for buyers around to sell, all these & more only on pinch. 
+HealthAbove60 iphone : (Swift 1.0) 
+Company : WebNOffice Solutions. 
+Platform : iOS 8.0 9.0 ItunesLink:https://itunes.apple.com/us/app/healthabove60/id1024928537?mt=8 Team size: Two 
+Development time: 6 Months Project Role : Design proposal & Development end to end Description: 
+Healthabove60 is an exclusive geriatric healthcare firm in Chennai, which caters to the healthcare requirements of the elderly. The services provided by Healthabove60 range from medical visits by doctors, nurses, physiotherapists and attendants to other medical services like blood tests, counseling and ambulance services. 
+Contus Messenger iphone : (Objective C) 
+Company : Infocrawlers Datahunt Pvt Ltd. 
+Platform : iOS 7.1 8.4 High Lights of project: XMPP, single chat, group chat, video streaming, audio streaming , image streaming . 
+Project Role : Design proposal & Development 
+Team size: Two 
+Development time: 5 months Description: Contus Messenger is a chat application for Contus. Contact synchronization with Contus hangout members. This application is used for chat with text, audio, video and images just like whatsapp. 
+PERSONAL DETAILS 
+Date of Birth 
+: 05 Nov 1987 Father's Name : Mr. Rup Narayan Singh 
+Mother s Name : Mrs. Shanti Devi 
+Marital Status : Single 
+Gender : Male 
+Nationality : Indian 
+Permanent Address : Pachgachhiya, Muzaffarpur, Bihar DECLARATION 
+I hereby declare that all the information supplied above is true to the best to my knowledge. 
+Date: Place: 
+Ravi Kumar 

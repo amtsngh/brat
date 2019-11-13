@@ -1,0 +1,80 @@
+BHAVYA SUHALKA 
+Contact details: +918890971844 
+Email ID: bhavya.suhalka93@gmail.com 
+LinkedIn: https://www.linkedin.com/in/bhavya-suhalka-9b112b82 
+Looking for an organization where I can enhance my knowledge and from my OBJECTIVE: 
+academic learning give my best to the organization. 
+ACADEMIC QUALIFICATIONS: 
+TECHNICAL SKILLS: Intern at CSIR-CSIO, Chandigarh (from 10/8/2015 to 30/4/2016) EXPERIENCE: 
+Project Detail: I have Developed Early warning system for grapes disease prediction. In which four sensors was interfaced with smart Embedded System and Programing did in modified c language. For software purpose Arduino IDE, Proteus simulation software and Matlab was used. 
+PROJECT: 
+Early warning System for grapes disease prediction 
+(M.Tech Final Year) Software and Tools used: Arduino UNO, Proteus simulation software, Arduino IDE 
+Description: 
+This project was develop for early forecasting of disease .in which basically focus on four parameters like temperature, humidity ,wind monitor , leaf wetness. According to risk alert will generate. 
+Keywords: Beta regression model, Severity index. 
+Maximum Power point Tracking (M.Tech. Pre Final Year) 
+Software and Tools used: Matlab. 
+Description: This project demonstrates the well-known problem of Maximum Power point tracking in real time system. In this the PV cell is modelled and its voltage-current characteristics and power- voltage characteristics are simulated and optimized. Perturb & Observe algorithm is used. 
+Keywords: DC-DC Converter, Solar PV System, Matlab, Perturb and Observer. 
+Course 
+Stream Institute Board/University Time Period Aggregate 
+M.Tech 
+Sensor System 
+Technology 
+VIT Vellore VIT University 
+Vellore 2014-2016 CGPA 8.03 
+B.Tech Electronics and Communication 
+Techno India 
+NJR Institute of Technology 
+Rajasthan 
+Technical 
+University 2010-2014 70.67% 12th PCM RMV Rajasthan State 
+Board 2010 72.15% 10th - RMV Rajasthan State 
+Board 2008 75.83% Programing Language Embedded C,C, Data Structure 
+Microprocessors and microcontroller 8085,8051,Ardiuno UNO 
+Simulation Software Keil uVision, LabVIEW, PSpice, MATLAB,MULTISIM,PSoC3,FECKO,Proteus 
+Smart AC Charging system for Electric Vehicle 
+(B.Tech final year) 
+Software and Tools used: 
+Microcontroller 
+Description: This project demonstrates the well-known problem of charging the batteries of an electric vehicle. The basic functions of the system are to record the usage of energy, Generate a bill for the energy consumed, store transaction details and store customer Information. 
+Keywords: 
+Master, salve. 
+Intelligent Transport System 
+(B.Tech Pre final year) 
+Software and Tools used: Microcontroller 8051 
+Description: This project demonstrates the well-known problem of transport. In which on off time of traffic light depends on no of vehicle. 
+Keywords: RF Sensor 
+(Presented this project For a City at Transport And Infrastructure Congress Expo (TICE) in 
+MNIT, Jaipur.) 
+TRAININGS: 
+Summer training by EITRA-eInfochip Training and Research Academy at Techno India NJR institute of Technology. 
+Description: During this training I learnt practical implementation of C language to solve real life problems as in case of solving electronics problems and designed assemble 8085 and Control Speed of dc motor using PSoC3 Board. 
+Underwent a 10 days Robotics workshop by KAIZEN at TECHNO India NJR. 
+Underwent a 4 days Aakash Android workshop organized by IIT-B. 
+Presented project on Intelligent Transport 
+System 
+For a City at Transport And Infrastructure Congress Expo (Tice) in MNIT, Jaipur. 
+Two days hands-on workshop on Lab View held by National Instruments at VIT University. 
+Participated in the 10th International SET (Science, Engineering and Technology) Conference with the project 
+Maximum Power point Tracking at VIT University. 
+Participated in the 9th International SET (Science, Engineering and Technology) Conference with the project 
+Real Time Implementation of an angular displacement of stepper motor using controller at VIT University. 
+ACHIEVEMENTS: 
+Was awarded the 
+Gargi award for academics in class-10th. 
+Played softball (under 19) at state level. 
+Participated in gaming activities such as chess, basketball and badminton. 
+Active member of Student's council during school. 
+Active Participation in Bulbul and Scout-Guide activities during school. 
+PERSONAL INFORMATION: 
+Permanent residential address: 29, Bhattiyani Chohata, Udaipur, Rajasthan, India- 313001. 
+Date of birth: 20th Jan 1993 
+Marital Status: Unmarried. 
+Languages known: English, Hindi 
+Interests: Adventure sports, Swimming and listening to music, Internet surfing, traveling. 
+Qualities: I am a quick learner, a team-player and also calm, diligent and optimistic. 
+DECLARATION: 
+I hereby state that all the information mentioned above is true to the best of my knowledge and I bear responsibility for the correctness of the same. 
+Date: Bhavya Suhalka 

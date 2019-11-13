@@ -1,0 +1,147 @@
+Dipankar Datta (BE) 
+datta198@gmail.com 
+Mobile: +91 
+988-655-3296 
+Location: 
+Bangalore, India 
+PROFILE. 
+4 years 7 months total experience in Core Java, J2EE applications. 
+Currently working as Software Developer for Emids Technologies. 
+Worked for Nalashaa Solutions for 1 year 9 months since November 1stth 2013 till July 14th 2015. 
+Worked for Mindset IT Solutions for 1 year 9 months since February 6th 2012 till October 25th 2013. 
+Qualification is Bachelor of Engineering in Electrical and Electronics Engineering. 
+Undergone Java/J2EE training after completing Engineering. 
+Responsibilities: 
+Analyzing requirement of the project Detail Design of components confirming to requirement. 
+Coding for the development of the application Testing the application for single and multiple systems Maintaining the application 
+Key Skills: 
+Core Java, J2EE, JDBC, SQL, Servlet, JSP, HTML, JavaScript, CSS, Spring, Hibernate, Agile Methodology 
+PROFESSIONAL EXPERIENCE 
+Emids 
+Technologies, Bangalore, INDIA as Software Engineer since July 2015st till ongoing Project Title Occupational Health Management (OHM) Duration July 2015 Ongoing 
+Client Underwriters Laboratories Role Developer 
+Location Bangalore ,India Team Size 5 
+Description 
+Occupational Health Management is designed for industrial healthcare where verious industries setup their own healthcare to provide health benefits to their employees. It is designed with United States healthcare standards for industrial healthcare facilities. 
+OHM is developed using Servlets, JSP, Maven, AngularJs, Spring, Hibernate, ExtJs etc. For batabase it used Microsoft SQL Server and it is deployed in Apache Tomcat 7 server. 
+Responsibilities Development 
+Bug Fixing Analyzing Support Tickets Daily status updates 
+Attending daily scrum meetings Updating work time sheet 
+Skills Used Java, 
+Servlet, JSP, HTML, CSS, Javascript, SQL, ExtJs, Spring, Hibernate 
+Tools JDK8, JDK7, Eclipse, Intellij, Apache Tomcat 7,Apache Tomcat 8, Internet Explorer, Microsoft SQL Server, Windows 8.1 OS, Microsoft Visual Studio 2010(TFS) 
+Nalashaa Solutions India Pvt Ltd, Bangalore, INDIA as Software Engineer since October 31st 2013 till July 2015 
+Project Title Essentia Duration November 2014 July 2015 
+Client Lavender and Wyatt Systems 
+Inc Role Developer 
+Location Bangalore ,India Team Size 14 
+Description 
+Essentia is a healthcare application designed to maintain patients data for hospice and healthcares. Essentia is a feature-rich application that provides all basic functionalities of healthcare/hospice and many more advanced features as well. 
+Essentia is developed using J2EE. The UI of the application can be configured using Apache Jetspeed portal tool. IBM DB2 has been used for database. The application is deployed on IBM AS400 server. 
+Essentia is an already developed application where our team had the responsibility to implement features of MU Stage 2 certification. The application has successfully passed MU Stage 2 certification in the month of March and currently we are working on added features, bug fixings and complete Quality analysis. 
+Responsibilities Development 
+Bug Fixing Running 
+Basic 
+Tests Daily status updates 
+Attending daily scrum meetings Updating work time sheet 
+Skills Used J2EE, Spring, SQL(DB2), Javascript, 
+DHTMLX(Grid, Calendar), Apache 
+JetSpeed, prototype.js, JQuery Tools JDK7, Eclipse, DB2, DbVisualizer, Internet Browser, Windows 8.1 OS. 
+Project Title Analytics Demo Duration March 2014 October 2014 
+Client Eigenrisk Role Developer 
+Location Bangalore ,India Team Size 3 
+Description 
+Analytics Demo is data analysis application that overlays companys Insurance holders worldwide using dots over Google Map and gives detailed data of a particular/set of customer/s. This application contains wide range of features to analyze and view data globally. 
+Analytics demo is developed using J2EE and C++. The front-end and server side is developed using J2EE and the backend is developed using C++ which also includes image processing and data analysis algorithms. The backend was developed by the Client. Our team worked in the middle-end and front-end. 
+Responsibilities Development 
+Bug Fixing Running 
+Smoke Tests 
+Daily status updates 
+Attending daily scrum meetings Updating work time sheet 
+Skills Used Servlet, JSP, HTML, CSS, Javascript, 
+Log4j, Apache POI, JSON Java 
+Tools JDK8, Eclipse, Jero MQ, Apache Tomcat 7, Internet Browser, Windows 7 OS. 
+Project Title Hummingbird Duration January 
+2014 April 2014 Client Mumms Software Role Developer 
+Location Bangalore ,India Team Size 11 Description 
+Hummingbird is a healthcare application designed to maintain patients data for hospice and healthcares. Hummingbird is a feature-rich application that provides all basic functionalities of healthcare/hospice and many more advanced features as well. 
+Hummingbird is developed on GWT technology which gives fast responsiveness experience on the client side. On the server side it uses Technologies like Hibernate, JUnit, GIN, JAX-B, Spring Security, ANT, IVY etc. 
+Responsibilities Development 
+Bug Fixing Running Basic Tests Daily status updates 
+Attend daily scrum meetings Updating work time sheet 
+Skills Used Core Java, GWT, Hibernate, SQL, JAX-B 
+Tools JDK7, 
+Eclipse, Postgres Server, PG Admin database, JUnit, ANT, IVY, Log4j, Internet Browser, Mountain Lion OS. 
+Mindset IT Solutions, Bangalore, INDIA as Software Engineer from February 6th 2012 to October 25th 2013 
+Project Title 
+To Lie or to Comply: Defending against Flood Attacks in Disruption Tolerant Networks Duration May 2013 
+August 2013 Client Final Year B.E/M.Tech Students Role Developer 
+Location Bangalore, India Team Size 2 
+Description Disruption Tolerant Networks (DTNs) utilize the mobility of nodes and the opportunistic contacts among nodes for data communications. Due to the limitation in network resources such as contact opportunity and buffer space, DTNs are vulnerable to flood attacks in which attackers send as many packets or packet replicas as possible to the network, in order to deplete or overuse the limited network resources. In this paper, we employ rate limiting to defend against flood attacks in DTNs, such that each node has a limit over the number of packets that it can generate in each time interval and a limit over the number of replicas that it can generate for each packet. We propose a distributed scheme to detect if a node has violated its rate limits. To address the challenge that it is difficult to count all the packets or replicas sent by a node due to lack of communication infrastructure, our detection adopts claim-carry-and check: each node itself counts the number of packets or replicas that it has sent and claims the count to other nodes; the receiving nodes carry the claims when they move, and cross-check if their carried claims are inconsistent when they contact. The claim structure uses the pigeonhole principle to guarantee that an attacker will make inconsistent claims which may lead to detection. We provide rigorous analysis on the probability of detection, and evaluate the effectiveness and efficiency of our scheme with extensive trace-driven simulations. 
+Responsibilities Development Preparing and Running Test Cases 
+Preparing Documentation Providing Training 
+Skills Used Core Java, AWT, Swing, Socket Program 
+Tools JDK7, Eclipse Juno 
+Project Title Bulk SMS Application Duration March 2013 April 2013 
+Client 
+Mindset IT Solutions Role Developer 
+Location Bangalore, India Team Size 2 
+Description 
+This application is used to send same message to large number of phone numbers at a time(sequentially). It keeps checking delivery status of every sent message. If any message is undelivered, then it adds the number in next sending list and asks the user whether it want to resend the messages to the failed numbers or not. It can handle large number of phone numbers for sending SMS. 
+Undelivered numbers can be loaded for next time sending. 
+Responsibilities Development Preparing and Running Test Cases 
+Preparing Documentation Providing Training 
+Skills used Core Java, AWT, Swing 
+Tools JDK7, Eclipse Juno, GSM Device 
+Project Title Providing End-to-end Secure Communications in Wireless Sensor Networks Duration January 2013 February 2013 Client Final Year B.E/M.Tech Students Role Developer 
+Location Bangalore, India Team Size 2 
+Description 
+In many Wireless Sensor Networks (WSNs), providing end to end secure communications between sensors and the sink is important for secure network management. While there have been many works devoted to hop by hop secure communications, the issue of end to end secure communications is largely ignored. In this paper, we design an end to end secure communication protocol in randomly deployed WSNs. Specifically our protocol is based on a methodology called differentiated key pre-distribution. The core idea is to distribute different number of keys to different sensors to enhance the resilience of certain links. This feature is leveraged during routing, where nodes route through those links with higher resilience. Using rigorous theoretical analysis, we derive an expression for the quality of end to end secure communications, and use it to determine optimum protocol parameters. Extensive performance evaluation illustrates that our solutions can provide highly secure communications between sensor nodes and the sink in randomly deployed WSNs. We also provide detailed discussion on a potential attack (i.e. biased node capturing attack) to our solutions, and propose several countermeasures to this attack Responsibilities Development Preparing and Running Test Cases Preparing Documentation Providing Training 
+Skills Used Core Java, AWT, Swing, Socket Program 
+Tools JDK7, Eclipse Juno 
+Project Title Frameworks for SQL Retrieval on Web Application Security Duration 
+August 2012 
+September 2012 Client Final Year B.E/M.Tech Students Role Developer 
+Location Bangalore, India Team Size 2 Description 
+A SQL injection attack targets interactive web applications that employ database services. Such application accept user input, such as form fields, and then include this input in database requests, typically SQL statements. In SQL injection, the attacker provides user input that results in a different database request than was intended by the application programmer. But, the existing network security techniques are completely inadequate to defend the web application attacks. This paper proposes an P-SQLIAD(Pattern based SQL Injection Attack Detection) to detect the SQL injection attacks using pattern. The P-SQLIAD consists of PCM(Pattern Create Module) and ADM(Attack Detection Module), and is designed to detect an SQL injection of the web application attacks. Using pattern of attacks, the detection time is faster than the existing web application security and reduces the positive false rates. 
+Responsibilities Development Preparing and Running Test Cases 
+Preparing Documentation Providing Training 
+Skills Used Core Java, J2EE, Servlet, JSP, JDBC, Struts 
+Tools JDK7, Eclipse Juno, 
+HeidiSQL7.0, 
+MySQL5.0, Apache Tomcat 7.0 Project Title Packet-Hiding Methods for Preventing Selective Jamming Attacks Duration June 2012 
+August 2012 Client Final Year B.E/M.Tech Students Role Developer 
+Location Bangalore ,India Team Size 2 
+Description 
+The open nature of the wireless medium leaves it vulnerable to intentional interference attacks, typically referred to as jamming. This intentional interference with wireless transmissions can be used as a launchpad for mounting Denial-of-Service attacks on wireless networks. Typically, jamming has been addressed under an external threat model. However, adversaries with internal knowledge of protocol specications and network secrets can launch low-effort jamming attacks that are difficult to detect and counter. In this work, we address the problem of selective jamming attacks in wireless networks. In these attacks, the adversary is active only for a short period of time, selectively targeting messages of high importance. We illustrate the advantages of selective jamming in terms of network performance degradation and adversary effort by presenting two case studies; a selective attack on TCP and one on routing. We show that selective jamming attacks can be launched by performing real-time packet classication at the physical layer. To mitigate these attacks, we develop three schemes that prevent real-time packet classication by combining cryptographic primitives with physical-layer attributes. We analyze the security of our methods and evaluate their computational and communication overhead Responsibilities Development Preparing and Running Test Cases Preparing Documentation 
+Providing Training 
+Skills Used Core Java, AWT, Swing, Socket Program 
+Tools JDK7, Eclipse Juno 
+Project Title Secure Intrusion detection system against DDOS attack in MANETs Duration May 2012 June 2012 Client Final Year B.E/M.Tech Students Role Developer 
+Location Bangalore, India Team Size 2 
+Description 
+Wireless Mobile ad-hoc network (MANET) is an emerging technology and have great strength to be applied in critical situations like battlefields and commercial applications such as building, traffic surveillance, MANET is infrastructure less, with no any centralized controller exist and also each node contain routing capability, Each device in a MANET is independently free to move in any direction, and will therefore change its connections to other devices frequently. So one of the major challenges wireless mobile ad-hoc networks face today is security, because no central controller exists. MANETs are a kind of wireless ad hoc networks that usually has a routable networking environment on top of a link layer ad hoc network. Ad hoc also contains wireless sensor network so the problems is facing by sensor network is also faced by MANET. While developing the sensor nodes in unattended environment increases the chances of various attacks. There are many security attacks in MANET and DDoS (Distributed denial of service) is one of them. Our main aim is seeing the effect of DDoS in routing load, packet drop rate, end to end delay, i.e. maximizing due to attack on network. And with these parameters and many more also we build secure IDS to detect this kind of attack and block it. In this paper we discussed some attacks on MANET and DDOS also and provide the security against the DDOS attack Responsibilities Development Preparing and Running Test Cases Preparing Documentation Providing Training 
+Skills Used Core Java, J2EE, AWT, Swing, JDBC, Socket Program 
+Tools JDK7, Eclipse Juno, 
+HeidiSQL7.0, MySQL5.0 
+Trainings and Certifications 
+Core Java and J2EE from Lara Technologies, Bangalore 
+Awards and Recognitions 
+Won best performer award for month November 2014 in Nalasha Solutions. 
+Won best performer award for month May 2016 in Emids Technologies. 
+Academia 
+Course Institute University / Board Year Percentage 
+BE in Electricals & Electronics AMC Engineering College, Bangalore Visveswaraiah Technological University, Belgaum 2012 55.29 
+Intermediate Degree (12th) 
+Darshan Shah 
+College, Katihar Bihar Intermediate Education Council, Patna 2003 49.25 Matriculation (10th) Rama Krishna Mission Vidyamandir, Katihar West Bengal Board of Secondary Education 2001 55.25 PERSONAL SNIPPETS 
+Nationality : Indian 
+Current Location : Bangalore 
+Date of Birth 
+: 21st May 1986 Languages Known : English, Hindi , Bengali 
+Marital Status : Married 
+Sex : Male 
+Mobile : +91 988-655-3296 
+Address : #9, Disha, 2nd House, 1st Floor, 2nd Main Road,Arekere, Bannerghatta Road, 
+Bangalore 560076,India 
+Dipankar Datta Page 1 of 7 

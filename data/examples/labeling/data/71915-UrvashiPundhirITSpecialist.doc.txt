@@ -1,0 +1,104 @@
+ Urvashi 
+IT Network Specialist 
+Mobile : +91- 9871173867 
+Email : urvashi.pundhir2008@gmail.com (mailto:urvashi.pundhir2008@gmail.com) Objective 
+Seeking technical assignments in IT Infrastructure Management / Service Management with a high technology oriented organisation Summary 
+Certified CCNP (Switching, Routing), CCNA, ITIL V3 
+4.5 years of experience in network monitoring, basic troubleshooting of DC to DC connectivity Hands on experience on Static Routing. 
+Extensive experience on Network monitoring and backup tools (Whats up Gold, Solar winds, MRTG, PRTG, Kiwi Cat tool and Monitoring Tool Entuity) Working on Planning, Designing, Implementation WAN and LAN, Network implementation Through Lease Line 
+BMC remedy tool, Service Now 
+An effective leader with proven abilities in leading teams during the project implementation and Operation, training & guiding team members and enabling knowledge sharing among the team 
+Now working as CIM (Critical incident Manger), taking care of major incident, involving all the groups related to incident and getting them to a resolution. Creating RCA for the incident to present in front of client. 
+Education: 
+Bachelor in Computer Application (BCA) from THE GLOBAL Open University NAGALAND 
+Bachelor in Arts (English HONS) from Delhi University 
+Professional Certification 
+CCNA CCNP (Switching, Routing) ITIL V3 Foundation 
+Pursuing ITIL Intermediate (Service Operation) Project Experience HCL 
+Tech LTD (Comnet), December 2013 
+Till date 
+A subsidiary of HCL Technologies, HCL ISD is an IT services company. Headquartered in Delhi, NCR, India, HCL ISD was instituted in 1993 with the objective to address the demand for cost-effective management of technology infrastructure across geographically dispersed locations. HCL ISD, also known as HCL Comnet Systems and Services Ltd. in India, diversified its portfolio to provide end-to-end enterprise IT infrastructure solutions globally in 1993 winning the first order to establish Indias first floorless stock exchange. HCL ISD pioneered in Remote Infrastructure Management (RIM) in 2002-2003The company has developed a unique model for remote IT infrastructure management that enables customer organizations to achieve superior infrastructure performance and significantly reduced costs. 
+Experience in HCL : 2.4 Years 
+Company : HCL Technologies 
+Period : 16 December 2013 to till date 
+Position 
+: Sr. Specialist (CIM) 
+Project : FedEx(Federal Express) 
+Responsibilities: 
+Working as CIM(Critical incident Manager). 
+Was working as Shift lead in NOC (network Operation centre ) team in FedEx account from last 2.2 year. 
+Providing remote technical support as Tier1engineer to client in troubleshooting. 
+Responsible for Monitoring Sev1, Sev2& Sev3 alarms and doing initial break fix of approx 40000 devices and approx 21000 circuits in scope for US, Canada, LATAM, EMEA regions. 
+Initiate and track Cisco/Motorola TAC & RMA cases for hardware failure to provide break fix. Escalate to Security group for Firewall related issues. 
+Tracking the individual engineer calls of various NOC Clients to ensure SLA is maintained. 
+Monitor the customer network by using the tool Netcure. 
+Sometime represent network Tier1 group in Bridge calls for technical and update sharing. 
+In SEV1 case Responsible for engaging other support groups in for troubleshooting the issue. 
+Monitoring and doing basic troubleshooting of DC to DC connectivity and escalate to required group for advance troubleshooting. Generating and analyzing the monthly report of inbound and outbound bandwidth utilization that are provided to customer for network performance of devices by using the tool Generate report from network performance tools as when required. 
+Collect utilization reports and share it with Tier2 for advance trouble shooting. 
+Providing process training for new joiner as Tier1 engineer in project. 
+Basic troubleshoot and reload wireless access point. 
+Coordinate and Escalate with Tier2 and Tier3 for any high critical issue impacting large number of users. 
+Below are the tools which are used in order to support FedEx corporation network. 
+Creation of reports from dumps for the ticket created by HCL NOC and onsite NOC. 
+RCA creation for any P1 issue/ business impacting issue. 
+OPCOS FedEx Ground FedEx Express 
+FedEx Office FedEx Freight 
+Incident/Problem Management tools Service Center Nexus Sales Force Peregrine 
+Asset Management tools NetDB NetDB 
+CRDB NetDB 
+Performance tools 
+Statseeker Webcon/Nagios NetQOS App Critical 
+MAHINDRA SATYAM, April 2012 
+December 2013. 
+Mahindra Satyam is an Indian IT services company based in Hyderabad, India. It was founded in 1987 by B Ramalinga Raju (http://en.wikipedia.org/wiki/Byrraju_Ramalinga_Raju" \o "Byrraju Ramalinga Raju). Mahindra Satyam is a part of the Mahindra Group (http://en.wikipedia.org/wiki/Mahindra_Group" \o "Mahindra Group) which is one of the top 10 industrial firms based in India. The company offers consulting (http://en.wikipedia.org/wiki/Consultant" \o "Consultant) and information technology (http://en.wikipedia.org/wiki/Information_technology" \o "Information technology) (IT) services spanning various sectors, and is listed on the Pink Sheets (http://en.wikipedia.org/wiki/OTC_Markets_Group" \o "OTC Markets Group), the National Stock Exchange (http://en.wikipedia.org/wiki/National_Stock_Exchange_of_India" \o "National Stock Exchange of India) (India) and Bombay Stock Exchange (http://en.wikipedia.org/wiki/Bombay_Stock_Exchange" \o "Bombay Stock Exchange) (India). In June 2009, the company unveiled its new brand identity Mahindra Satyam subsequent to its takeover by the Mahindra Groups IT arm, Tech Mahindra (http://en.wikipedia.org/wiki/Tech_Mahindra" \o "Tech Mahindra) on April 13, 2009. 
+Responsibilities 
+Part of NOC (Network Operation Centre). 
+Responsible for maintaining the Network. 
+Proactive Monitoring of Data centre Network Devices, LAN, VLANs, and Leased & VPN Links. 
+IOS Upgrade in Router & Switches. 
+LAN/WAN Troubleshooting, UTP/Copper/Fibres. 
+Link Utilization Monitoring, & making reports using MRTG. 
+Monitoring operations of all backbone links and network devices. 
+Ensuring continuous operation of servers and services. 
+Providing quality support for network users. 
+Troubleshooting of all network and system related problems. 
+Opening tickets to track and document resolution of problems. 
+Interaction with clients /Users for problems till call closer. 
+Implementation of New Branches and co-ordination with ISP. 
+Routing: Static Routing and Dynamic Routing. 
+Providing Telephonic Technical support to Out-location Engineers and Users. 
+Providing IT service & support to customers on a 24x7 basis. 
+Responsible for making monthly Bandwidth Utilization report. 
+Analyzing the bandwidth utilization of all the WAN Links and then sharing the analysis with Projects team for further steps to be taken. 
+Preparing RCA for escalated issues. 
+Prepare analysis of performance of team members on weekly and monthly basis. 
+RELIGARE TECHNOLOGIES LTD. Noida (U.P.), June 2011 
+March 2012 Network Engineer (Religare was taken over by Mahindra Satyam now known as Tech Mahindra) 
+Religare Technologies LTD: Religare Technologies is the IT arm of a multi-billion dollar diversified Indian transitional group, pursuing aggressive business interests in Health Care, Financial Services, Aviation & Travel and IT Services. The group companies include Fortis Hospital, SRL Ranbaxy, Religare Aviation, Religare Enterprises and Religare Technova. 
+Responsibilities: 
+Part of Network Monitoring Team. Taking care of quality of the Team. 
+Working on cases or tickets assigned to the team till the resolution is provided. 
+Educating the Team members on the new processes. 
+Troubleshooting of all network and system related problems. 
+Opening tickets to track and document resolution of problems. 
+Interaction with clients /Users for problems till call closer. 
+Implementation of New Branches and co-ordination with ISP. 
+Routing: Static Routing and Dynamic Routing. 
+Providing Telephonic Technical support to Out-location Engineers and Users. 
+Providing IT service & support to customers on a 24x7 basis. 
+Responsible for making monthly Bandwidth Utilization report. 
+Analyzing the bandwidth utilization of all the WAN Links and then sharing the analysis with Projects team for further steps to be taken. 
+Hobbies 
+Painting and reading novels. 
+Listening Music. Shopping. 
+STRENGTHS: 
+Sincere & Optimist person. 
+Cooperative and self-motivating. Capability of working in multi-cultural and multi- disciplinary environment Willingness to explore new learning opportunities Ability to handle multiple tasks Personal Information 
+Gender : 
+Female 
+Date of Birth : 2nd June 1988 
+Phone : +91 9871173867 
+Nationality : Indian 
+Languages Known : English & Hindi Martial Status : 
+Married -------- 

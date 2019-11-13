@@ -1,0 +1,82 @@
+JAYANTH G H 
+E-Mail: 
+ghjayanth@gmail.com (mailto:ghjayanth@gmail.com) 
+Phone: +91 9036159739 Summary 
+Overall 4 years and 9 months of experience in Software application design, development and support with good exposure to SDLC phases. 
+Strong Object oriented programming skills in Core Java and C++. 
+Experience in Android App Developing and Debugging. 
+Ability to Design and Develop using core Android framework APIs. 
+Android implementations of device interfaces. 
+Experience with data structures, algorithms and multi-threaded programming. 
+Open source contributor to Rho Mobile Suite (www.rhomobile.com). 
+Proven experience of handling the project individually and working closely with the team. 
+Having a good experience in the IT industry, specializing in Mobile and Banking Domain and have always provided the best quality output as a developer. 
+Possess exemplary records of working with worlds best browser (S-Browser). 
+Good understanding of Web Browser and Enterprise browser design and architecture. 
+Good experience in handling project using Agile process as a developer. 
+Technical abilities are complemented by effective communication and user interaction abilities. 
+Work Experience 
+January 2015 to till date: Symbol Technologies India Pvt. Ltd. (100% subsidiary of Zebra Technologies), Bangalore as Lead Engineer. 
+August 2013 to January 2015: Samsung R&D Institute India, Bangalore as Senior Software Engineer. 
+September 2012 to August 2013 and March 2010 to September 2010: Altisource Business Solutions Pvt. Ltd. as Junior Software Engineer. 
+Skill Sets 
+Programming Languages: C, C++, Core Java, JNI, JDBC, MySQL 
+Software Platforms: Windows 7/8, Linux 13.04, Android SDK 
+IDEs: Eclipse, Visual Studio 2010/13/15, Android Studio 
+Configuration Management Tool: Perforce, GitHub, Gerrit 
+Bug tracking tools: JIRA, CQCM (IBM), Pivotal tracker Project Details 
+Title : AppGallery 
+Company : Zebra Technologies India Pvt. Ltd., Bangalore 
+Environment : Core Java, Gerrit, Android Studio, Volley library, JIRA 
+Role : Implementation of AppGallery native android application (https://appgallery.zebra.com/) using material design and volley library. End to end transformation of web application to native android application with a team size of 3 members. 
+Title : RhoMobile 
+Company : Zebra Technologies India Pvt. Ltd., Bangalore 
+Environment : Java, Eclipse, Android, GitHub, CQCM 
+Role : Designing and developing APIs for various modules of RhoMobile suite (http://docs.rhomobile.com/en/5.4/guide/apisummary) and Enterprise Browser (https://www.zebra.com/us/en/products/software/mobile-computers/mobile-app-utilities/enterprise-browser.html) in Android platform. Analyzing, debugging and fixing the bugs reported by testers in CQCM tool. Addressing the customer queries via product launch pad. Coordinating with the testers for clarifications on project needs and bug fixes. Participating in sprint planning/Review, Retrospective and backlog grooming sessions under Agile methodology. 
+Title : Android S - Browser 
+Company : Samsung R&D Institute India, Bangalore 
+Environment : Java, C++, Eclipse, Android, JNI, Source Insight (version 3.5), Perforce 
+Role : Developing stylus related features for S-browser. Analyzing, debugging and fixing the bugs reported by testers. Crash analysis of content view module of the browser. Co-ordinating with the testers and HQ counter parts for clarifications on project needs. Analysis of RAM and ROM readings and HTML5 test results for the browser. 
+Title : Android Stock Browser 
+Company : Samsung R&D Institute India, Bangalore 
+Environment : Java, C++, Eclipse, Android, Source Insight (version 3.5), Perforce 
+Role : Developing new features for Stock browser. Analyzing, debugging and fixing the bugs reported by testers. Crash analysis of the webview component of the Android framework layer. Co-ordinating with the testers and HQ counter parts for clarifications on project needs. 
+Title : REALServicing 
+Company : Altisource Business Solutions Pvt. Ltd 
+Environment : Java, Eclipse, Windows 7, Spring, Hibernate 
+Role : Worked on the user stories of various modules like Escrow, Year End Processing, Billing, Fee/Expense, credit reporting and General Ledger. Fixing the bugs reported by business analysts in defect tracking tool JIRA. Participating in sprint planning/Review, Retrospective and backlog grooming sessions using Agile methodology. Reviewing the code fix done by colleagues before submitting to repository. 
+Academics 
+Qualification Institute & Place Year of Passing Aggregate Percentage 
+M.Tech (Information Technology) R V College of Engineering, Bangalore 2012 80.38 B.E.(Electronics & Communication Engineering) Yellamma Dasappa Institute of Technology, Bangalore 2009 
+76.82 12th National College, Bangalore 2005 
+83 10th Vijaya High School, Bangalore 2003 
+92.96 
+Under Graduate Project Details 
+Title : Vehicle tracking and safety system using GPS and GSM 
+Client : Hindustan Aeronautics Limited (HAL) 
+Environment : Windows 2003, Keil micro-vision as an IDE, Embedded C, ARM 7 processor 
+Description 
+: This project was developed to track the vehicle using GPS, enquire about the traffic using GSM and preventing of accidents using proximity sensors. Communication between various devices takes place using RS232. 
+Awards & Achievements 
+Certification in Data Structures and Algorithms from Advanced research and CTO department of Samsung R&D Institute India 
+Bangalore. 
+Research paper published in IFRSAs International journal of computing, Volume 2 issue 1 page 163-167. URL for the same is: http://ifrsa.org/images/iijcvol2issue1/26%20twenty%20six.pdf (http://ifrsa.org/images/iijcvol2issue1/26%20twenty%20six.pdf) Paper presentation in International Conference on Recent Trends in Computer Science and Engineering (ICRTCSE), held at Apollo Engineering College near Chennai on May 3rd and May 4th, 2012. 
+Goodie drawer awards of Level 2 for Discipline and Result orientation in INTEL. 
+Early bird award for submitting an innovative idea in Intel Innovation Premier League (IIPL), 2011. 
+Qualified in GATE-2010 with 89.91 percentile. 
+Certification in Web component Development using JAVA Technologies from NIIT. 
+Personal Details 
+Fathers Name: 
+Halagaiah 
+Date of Birth: 19th April 1987 
+Passport No.: H6919237 
+PAN No.: AMDPJ2810Q 
+Nationality: 
+Indian 
+Marital Status: 
+Single 
+Languages: 
+English, Kannada, Hindi 
+Current Address: #8, 10th Main, 5th D Cross, 3rd Phase Girinagar, Bangalore - 85 
+Permanent Address: #71, Ganganahalli, Honkere Hobli, Kantapura Post, Nagamangala Taluk, 
+Mandya Dist - 571432, Karnataka 

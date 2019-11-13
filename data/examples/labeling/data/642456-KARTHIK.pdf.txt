@@ -1,0 +1,51 @@
+KARTHIK M #44, 19th main 5th cross Vijayanagar 2nd stage, Mysore-570017 email:karthik.mahanand@gmail.com 
+Mobile: +91-9035907573 CAREER VISION 
+To secure a challenging position in a dynamic growth oriented organization where I can effectively contribute my skills as a software professional, possessing competent analytical, research and technical skills. 
+TECHNICAL COMPETENCY 
+Area of interest in Application Development and also in Analysis, Testing and support. 
+Good technical skills and always motivated to learn diverse and new technologies. 
+Excellent analytical skills with high proficiency in troubleshooting and problem solving. 
+Highly flexible and enthusiastic in taking new technical challenges. 
+Always willing to go above and beyond job responsibilities for seamless technical delivery. 
+SOFT SKILLS 
+Excellent communication skills in verbal and writing both. 
+Detail oriented and strong interpersonal skills. 
+Focus and committed towards the assignments and responsibilities. 
+Highly enthusiastic with positive attitude. 
+Ability to work individually as well as in group environment. 
+TECHNICAL SKILLS 
+Programming 
+Database Tools Operating Systems 
+Python, Java, J2EE, PHP, JavaScript, HTML, C, C++, Node JS, JSON, Swings, OpenGL, SQL, Stored 
+Procedure, shell script, XML, XSLT MongoDB, MySQL, Oracle 10g PyDrive, PyMongo, Wing IDE, Python 
+Shell, Rockmongo, Access, Excel, Powerpoint, word. 
+Red Hat Linux, Windows vista, 7, 8 and 10. 
+WORK EXPERIENCE 
+LogicHive Solutions Pvt Ltd 
+Dec 2016 Jan 2017 
+Worked on Internship which includes familiarizations to various concepts of programming, Scripting in JavaScript, Exposure to NoSQL database Mongodb and Basics of Python. I also had majorly involved in an activity of prototyping of modules. 
+EDUCATION 
+Bachelor of Engineering in Computer Science from ATME college (VTU), Mysore in the year 2016 with overall average of 50%. 
+Pre-University course from Marimallappa's college, Mysore. 
+Secondary schooling from Chinmaya Vidyalaya, Mysore. 
+PROJECTS IN UNIVERSITY 
+Title: Fault Node Recovery For Wireless Sensor Networks 
+Programming Background: Java, Swings, Applets, AWT, SQL, MySQL Server. 
+Description: The aim of this project is to send a data from source to destination by finding the nearest node, if that node fails due to low capacity or low battery life the failed node will be replaced by another node with a high capacity and also high battery life and using that node data will reach the destination. 
+Title: Flying A Ball 
+Programming Background: C, OpenGL 
+Description: 
+The aim of this project is to apply an air resistance force to the ball from downwards, so that the ball could reach a maximum height if the air resistance force is higher and automatically comes down if the air resistance force slows down. 
+PARTICIPATION 
+Participated in the workshop on Storage Area Network held at ATME college of engineering. 
+Participated in the two days workshop on Network Implementation at ATME college of Engineering. 
+Participated in the two days workshop on Cloud Computing at ATME college of Engineering. 
+PERSONAL DETAILS 
+Date of Birth : 02-07-1993 
+Nationality : 
+Indian 
+Languages known : English, Hindi, and Kannada 
+Hobbies 
+: Sports (cricket and volleyball), Listening to music. 
+Mysore, Karnataka 
+Date : 30-06-17 (Karthik.M) 

@@ -1,0 +1,70 @@
+Sheenu Yadav 
+Mobile: +91-7829166622 Email: sheenuyadav151@gmail.com 
+Professional Profile: 
+A detailed and result-oriented professional with 2 years of experience in all facets of software development with Samsung R&D Institute India, Bangalore. 
+Educational qualifications: 
+Qualification Year Board 
+Percentage 
+Bachelor of Technology in Computer Science & Engineering 
+2014 NIT, Hamirpur 7.64 CGPA 12th 2009 CBSE 87% 10th 2007 CBSE 82% 
+Technical Skills: 
+Expertise: Enlightenment Foundation Libraries(EFL) 
+C, C++ 
+Algorithms & Data structures Platforms used: Microsoft Windows(xp, vista, 7, 8, 10), Linux(Ubuntu) 
+Career Summary 
+Samsung R&D Institute India-Bangalore 
+(July 2014 July 2016) 
+Designation: Senior Software Engineer 
+Project: 
+Gear-Manager 
+April 2016 to July 2016 
+Role: Developer 
+Gear manager is an application in phone to handle the gear device which is connected through Bluetooth from the phone. Configure and manage the gear connected to the phone with the help of settings option. 
+Environment & Tools: Linux, Tizen-sdk. 
+Language: C, EFL 
+Responsibilities: 
+Owner of Settings option module for gear manager. 
+Project: 
+MyFiles Jan 2015 to March 2016 
+Role: Developer 
+This is a native reference application. This is a file explorer application which allows you to access and manipulate all the files (images/audios/videos/documents etc) in the phone or storage device. 
+Environment & Tools: Linux, Tizen-sdk. 
+Language: C, EFL 
+Responsibilities: 
+Awarded with Spot Award for Tizen 2.4 UX, implementation of MyFiles. 
+Implemented the entire UX for MyFiles. 
+Project: 
+MineSweeper Game 
+Feb 2015 to Mar 2015 
+Role: Developer 
+The objective of the game is to clear a rectangular board containing hidden "mines" without detonating any of them. It has 3 levels viz. different difficulty levels. It is available for download in Tizen Store. 
+Environment & Tools: Linux, Tizen-sdk. 
+Language: C, EFL, HTML, CSS 
+Responsibilities: 
+Developed UI for the game with HTML and CSS. 
+Suggested different design patterns. 
+Project: NumberPlay Game Feb 2015 to Mar 2015 
+Role: Developer 
+It s a puzzle game which helps improve your Number skill and Maths skill. It s objective is to get the sum of both, row and column zero, either by subtraction or addition. It has 3 levels viz. different difficulty levels. It is available for download in Tizen Store. 
+Environment & Tools: Linux, Tizen-sdk. 
+Language: C, EFL, HTML, CSS 
+Responsibilities: 
+Came up with this game. 
+Developed UI for it. 
+Extra-Curricular Activities: 
+Co-ordinator of In4mals Club of Hill ffair 2012 (Annual Cultural Fest of NIT Hamirpur). 
+Executive-member of In4mals Club of Hill ffair 2011(Annual Cultural Fest of NIT Hamirpur). 
+Volunteer of departmental team .exe 
+in NIMBUS-2010 (Annual Technical Festival of NIT Hamirpur). 
+Volunteer of Organisation Club and In4mals Club of Hill ffair 2010 (Annual Cultural Fest of NIT Hamirpur) 
+Captain of college girls Volleyball team. 
+Represented the College Volleyball Team at Malviya Sports Tournament in MNIT, Jaipur. 
+Winner of Inter Department Volleyball Tournament twice at NIT Hamirpur. 
+Personal Details: 
+Date of Birth: 
+24 March 1991 
+Hobbies: Music, Travelling, Volleyball, Badminton 
+Language Skills: Hindi, English 
+Declaration: 
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars. 
+Sheenu Yadav 

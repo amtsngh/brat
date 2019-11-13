@@ -1,0 +1,79 @@
+Name: 
+Mr. AkshayVivek Kale 
+Address: Flat No.3, Agrasen Apartments, Plot No. 96, Sec. No. 24, PCNTDA,Nigdi,Pune - 411044 Date of birth: 11th September 1993 
+Passport no: L5658919 
+Contact no: 8793859975 
+Email id: 
+akshay.kalle@yahoo.co.in 
+Career Objective: 
+To work with maximum potential in a challenging and dynamic environment, with an opportunity of working with diverse group of people and enhancing my professional skills with learning and experience with career growth. 
+Professional Experience: 
+Software Developer | Nimbrisk Technologies Pvt. Ltd (April 2016 
+Till 
+Date) CRM, Jain Vishwa 
+- Developing and maintaining various modules in CRM and developing entire Jain Vishwa website from scratch using Django and Flask. 
+Associate Software developer | CoReCo Technologies (Aug 2015 - April 2016) 
+Luftfotos.de, PixelTint.com - Responsible for design and architecture of the website. - Designed various prototypes for different modules. 
+TradeFairMarket.com -Responsible for developing Admin and Merchant modules. 
+BeingVolunter.org 
+-Responsible for designing and developing donate module and connecting the websites to the social networking sites. 
+Academic Qualifications: 
+Examination 
+Board/ 
+University 
+Institution 
+Year of Passing 
+Percentage 
+B. Tech (IT) 
+Final 
+Year Pune 
+University 
+VIT College of Engineering, Pune 2015 
+74.97 
+B. Tech (IT) 3rd Year 
+2014 
+76.32 
+B. Tech (IT) 2nd Year 2013 
+75.33 
+B. Tech (IT) 1st Year 2012 75.87 12th Maharashtra 
+State Board 
+S.N.B.P Jr. College 2011 
+69.67 10th VidyanandBhavan High School 2009 
+51.23 
+Technical Skills: 
+- Language: PHP, Python. 
+- Web Technologies: HTML, CSS, Javascript, Jquery, Angular JS. 
+- Tools Used: Eclipse, GCC, NetBeans, Visual Studio 2010. 
+- Database: MySQL. 
+- Content Management Systems / Framework: Wordpress, Django, Laravel. 
+Industrial Training: 
+- Packaging Exercise for IB CKD project using CATIA at TATA MOTORS. - 
+Basic SAP Netweaver at TATA Technologies. 
+- Internship at 
+Periwinkle Technologies Pvt Ltd , Pune 
+Projects and Seminar Undertaken: 
+PROJECT TITLE 
+Paint Application using Java (Mini-Project) PROJECT DESCRIPTION 
+An application similar to Microsoft paint 2000 which includes some additional features like wobble rectangle, zigzag rectangle and a snowflake. 
+Tools 
+Java Duration 
+One Semester 
+PROJECT TITLE 
+A working submarine model (Mini-Project First Year) Duration Two Semester 
+PROJECT TITLE 
+(Final Year) 
+Medical User Interface handled using gestures Tools 
+Java 
+(Open CV) Duration 
+Two Semester 
+SEMINAR TITLE 
+Goggle File System(GFS) Description 
+It describes about the GFS architecture and its working. 
+Co-Curricular Activities: 
+- Manufactured 2 Robots of 60 kg for ROBOWARS competition. - BEST DESIGN AWARD in M lange 2013(VIT), Acclivity 2013 (PVPIT) 
+- Event Head of ROBOWARS in M lange 2014. 
+- SECTION CO-ORDINATOR in M lange 2015. 
+- Participated for Robowars during Technovision and M lange in 2012. 
+Hobbies: 
+- Playing and watching cricket. 
+- Travelling to religious places. 

@@ -1,0 +1,98 @@
+Krishna " Software Engineer with MCA in Computers currently living in Bengaluru / Bangalore " cognos.rk1987@gmail.com 9620697625 
+Current Designation: Software Engineer 
+Current Company: Larsen And Toubro Infotech Ltd 
+Current Location: Bengaluru / Bangalore 
+Pref. Location: Anywhere in North India, Anywhere in South 
+India, Anywhere in West India 
+Functional Area: IT Software - DBA / Datawarehousing 
+Role: Datawarehousing Technician 
+Industry: IT-Software/Software Services 
+Key Skills: Cognos, Cognos BI, Cognos Report Studio, Cognos 
+Framework Manager, Cognos Connection 
+Total Experience: 3 Year(s) 6 Month(s) 
+Annual Salary: Rs 4.2 Lakhs 
+Expected CTC: Not Mentioned 
+Highest Degree: MCA 
+Notice period: 1 Months 
+Work Experience 
+Larsen And Toubro Infotech Ltd (Current Employer) 
+Software Engineer | May 2013 
+Krishna having total 3.6 years of IT experience with expertise in IBM Cognos Suite including IBM Cognos 8.4.1 & 10.2.2 BI Suite 
+Good experience in building reporting systems using IBM Cognos 10.2.2 BI Suite (Cognos connection, Framework Manager, Transformer, Report Studio, Query Studio, Event Studio & Analysis Studio) 
+Notice Period : 1 Months 
+Education 
+Post Graduates ( Full Time ) 
+MCA (Computers) 
+Jawaharlal Nehru Technological University (JNTU) | in 2012 IT Skills 
+Skill Name Version Last Used Experience 
+IBM Cognos BI 10.2.2 2017 2 Years 
+IBM Cognos BI 8.4.1 2015 2 Years 
+Language Known 
+Language Proficiency Read Write Speak 
+English Proficient 
+Telugu Expert 
+Hindi Proficient 
+Projects 
+No Projects Added 
+Other Details 
+Personal Detail 
+Date of Birth: 06 Mar 1987 
+Gender: Male 
+Marital Status: Single/unmarried 
+Address: 
+560005 
+Home Town: Bangalore 
+Desired Job Details 
+Job Type: Permanent /Temporary/Contractual 
+Employment Status: Full Time 
+Work Authorization 
+US Work Status: Not Mentioned 
+Countries: Not Mentioned 
+Affirmative Action 
+Category: Not Mentioned 
+Physically Challenged: No 
+Attached Resume 
+Krishna P cognos.rk1987@gmail.com +91-9620697625 
+Career Summary: 
+. Total 3.6 years of IT experience with expertise in IBM Cognos Suite including IBM Cognos 8.4.1 & 10.2.2 BI Suite . Implemented Data warehouse projects Analysis, designing, development, testing, deployment and support & maintenance. . Good experience in building reporting systems using IBM Cognos 10.2.2 BI Suite (Cognos connection, Framework Manager, Transformer, Report Studio, Query Studio, Event Studio & Analysis Studio) . Good Knowledge in developing business Metadata models(Physical/Presentation) including DMR models and star schema grouping using IBM Cognos 10 Framework Manager . Expertise in developing professional reports using Report Studio and Analysis Studio . Good Knowledge in IBM COGNOS 10.2.2 Business Intelligence Suite (Cognos Insight, Workspace and Workspace Advanced) . Excellent interpersonal and communication skills, technically competent and result-oriented with Strong problem solving skills. . Technically very strong on IBM Cognos products from version 8x to 10x including installation & Configuration 
+Education: 
+. MCA from Jawaharlal Nehru Technological University, Andhra Pradesh in 2012 Professional Experience . Working as Software Engineer with Larsen & Toubro InfoTech Pvt. Ltd, from Jun 2013 to Till Date. Technical Proficiency 
+|Technical Domain |Tools & Technologies | 
+|Operating Systems |Windows (2k, XP, 2003, 2008, 2008R2, 2012) | |Databases & Tools |Oracle 10g/11g, SQL Server 2005/2008, Sql Developer | |Languages |C, C++, SQL, Pl/SQL | 
+|BI & OLAP Tools |IBM Cognos 10.2.2 Suite (FM, RS, AS, QS, Workspace & Advanced) | | |IBM Cognos 8.4.1 Suite (RS, QS, AS) | | |IBM Cognos Transformer 10.2.2 | 
+Projects: 
+Project-1 : Johnson & Johnson 
+Client : Johnson & Johnson, USA 
+Duration : Oct 2015 to Till Date 
+Team Size : 4 
+Role : Cognos Developer 
+Environment : IBM Cognos 10.2.2 (Framework Manager, Transformer, Life Cycle Manager, Report Studio, Analysis Studio, Workspace & Advanced), SQL Server 2008 R2, Windows 2008 Server R2, IIS 7.5 web server 
+Description: 
+Johnson & Johnson medical Asia pacific is using a Regional Data Warehouse (RDW) as single source of truth for the regional Business Performance Management (BPM) solution. This solution is receiving data from multiple source system. One of the source systems is the OTW Live SAP ERP system. To extract the data from SAP ERP and transform it into the RDW structures a SAP BW system is used. Created reports and Cubes based RDW data. 
+This project is to maintain the track of Sales, Quantity, Inventory, Stock, Demand Forecast, Over 90 days AR due, Orders received, Customer Order Details, Capture Regional and Global fill rate metrics for Qty, Profit and Loss and complaints management etc. 
+Responsibilities: 
+. Creating packages using Framework Manager and publishing them to Cognos web portal. . Understanding the requirements for FM Modeling. . Generated various kinds of reports (List, crosstab, charts and Repeaters) with cascaded prompts, conditional reports. . Creating multidimensional report using Analysis studio. . Involved in creation of various Linked reports like, Drill-Through Reports and Master- Detail reports for better analysis. . Developing Prompt pages and Conditional Variables . Created Prompts, calculations, conditions & filters . Involved in formatting Reports. . Involved in Unit Testing and SIT . Involved in the Client Meetings Weekly and on-demand . Worked on Various Change Requests which is new report development, Existing Report Fixes 
+Raised by the users in Service Now ticketing tool . Developed the Dashboards on Various Subject Areas which includes Sales and Supply Chain 
+Project-2 : Procurement to Pay 
+Client : Lafarge, USA. 
+Duration : May 2014 to Aug 2015 
+Team Size : 3 
+Role : Cognos Developer 
+Environment : Cognos 8.4.1 BI (FM, RS, AS), Oracle 10g, Windows 2003 Server, IIS 7 web server, Cognos Transformer 8.4.1 
+Description: 
+The client is a leading Cement manufacturer. The project involves building a comprehensive BI solution for Purchase related analysis (PO, BO, PR, Receipts, and Invoice).The solution involves development of Reports in Cognos 8.4.1 with Oracle 10g as the source database. 
+Responsibilities: 
+. Created Reports Based on Various Multidimensional cube packages developed in Cognos transformer . Modify existing reports based upon the change request by the users . Developed Various Cross tab repots like Nested Crosstabs & Different type Chart reports like Line , Bar Charts . Applied conditional formatting and conditional blocks for the reports using conditional explorer . Applied various prompts like tree prompt and Value Prompts to filter the reports dynamically . Prepared Report design documents . Validated the Reports against analysis studio & prepared the Unit test Case documents . Created filters and applied sorting as per the requirement. . Developed Master-Details and Drill Through reports as per user requirement . Updating the report and model Specification document based on the user requirement . Maintained Issue Tracker Document to track the various support tickets and Change Requests . Documented all reporting issues and handed over to the team for future usage and support 
+Project-3 : SMART 
+Client : BELDEN, USA 
+Duration : July 2013 to Apr 2014 
+Team Size : 5 
+Role : Cognos Developer 
+Environment : Cognos 8.4.1 BI (FM, RS, QS, AS), SQL Server 2005, 
+Windows Server 2003, IIS 6 web server 
+Description: 
+Belden is one of the leading manufacturers of copper base cables. Belden has a very complex business structure that spans over multiple markets and countries. This complex structure creates a need for all business information to be consolidated in a manner where it is not only easily available but also provides the best decision making capability to the senior management team. 
+The main objective of this project is to create a Business Intelligence solution that satisfies all Belden reporting and analysis needs. 
+SMART, Sales & Marketing Analysis and Reporting Tool Project aims to create a BI solution that not only caters to the needs of the sales and marketing teams but as well provides analytical capabilities to senior business executives to publish monthly, quarterly and yearly reports 
+Responsibilities: 
+. Supported nearly 150 reports which were developed using Cognos BI . Handled various change request like new development, report issues, data issues, report enhancements and others while supporting the reporting application . Access the ticketing system to look into user tickets and respond accordingly to users . Resolve report issues and educate users on report functionality . Created nearly 20 new reports as per the business requirements using the technical specifications provided by business analyst. . Unit tested reports, prepared test cases for report and document the test results for verification . Deployed reports from development to production after UAT . Handled user management for business users to provide access to reporting portal 

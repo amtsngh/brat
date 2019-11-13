@@ -1,0 +1,29 @@
+GURMANJIT SINGH SAHNI 
+B-186 Fateh Nagar,New Delhi-18 gurmansahni95@gmail.com 
+Mobile:+919953222970 EDUCATION 
+Technical Skills 
+Programming Languages:C++,Java HTML5,CSS3,Javascript Oracle,MySQl NetBeans,Eclipse 
+Platform:Windows 
+Industrial Experience 
+Summer Training-CMC Pitampura 
+June 2016-Aug2016 
+J2EE 
+Summer Training-Baluja Institute,Uttam Nagar 
+Jul 2015-Sep-2015 
+J2SE AcademicProjects ADVANCE SECURE CLOUD 
+Feb 2017-Present 
+Develop a desktop application to upload files in cloud server. 
+In this large files are splitted and then merged by the server, 
+The secured key is attached with the files which the client sends to server with which splitted files can be merged 
+Language/Platform Used-Java/My SQL/Cloud Server 
+SOUND CLOUD 
+June 2016-Dec 2016 Implemented a system which fetch songs from database Plays according to user playlist and User can login and create its own playlist. 
+Language/Platform Used-J2EE/Oracle/HTML/CSS/Javascript HOTEL MANAGEMENT SYSTEM 
+Jul 2015-Sep-2015 
+This project was about the reduction of complexity of the Hotel Management Updating records in database , retrieving the database and use services like gym, laundry etc. 
+Language/Platform Used-Java/MY SQL 
+Extra Curricular Activities 
+Managed many technical events for IEEE Gtbit 
+Played cricket in college team 
+Degree Year Board/University Percentage 
+B.tech(CSE) 2017(expected) GGSIPU(GTBIT) 71.67 X 2011 CBSE(KR Mangalam World School) 77.9 XII 2013 CBSE(KR Mangalam World School) 82 

@@ -1,0 +1,58 @@
+Resume 
+Meghana Shastri 
+Email ID meghanashastri07@gmail.com 
+Contact No. +91-9632541103 
+Career Snapshot: 
+Worked as an Android Developer at Webonise Lab Pvt Ltd from June 2015 to February 2016. 
+Currently working as an Android Developer in Infin Communications Pvt Ltd. 
+Experiences: 
+Eight (8) months of experience in Android application development, bug fixing (Android 4.0 onwards). 
+Integrated the ActivityRecognitionApi to determine if the user is running, walking, in a vehicle or remaining still and to execute accordingly. 
+Integrated google maps to obtain the location of user. Used google maps for navigation as well. 
+Integrated Restful Web Services using the volley library. 
+Integrated runtime permissions released in Android M. 
+Good understanding of the Android components and worked extensively using activities, services, fragments and broadcast receivers. 
+Employment History: 
+Employer : M/s Webonise Lab Pvt. Ltd, Mulshi, Pune, Maharashtra 
+Type of Employment : Full Time 
+Period of Employment : June 2015 to February 2016 Project 1.0 : SeeNPick 
+Designation : Software Developer 
+Duration : One (1) Months 
+Duties and responsibilities: This project involved development of an Android application to showcase new style types to the user based on the occasion. The user can look through all the style types and reserve the products in the stores for trial. The aim of the application is to introduce the user to all the new looks available. I was responsible to change the UI of the application. A new functionality (MyList) was added that shows the user about the items which they have reserved in various stores and the items that are expired from the list. Technology used for this project was Android SDK, Git. Play Store link https://play.google.com/store/apps/details?id=in.webtechasia.seenpick Project 2.0 
+: GetIt 
+Designation 
+: Software Developer 
+Duration : Three (3) Months 
+Duties and responsibilities: This project involved development of an Android application to allow the user to select the deal types they wish to be notified about. The aim of the application is to send notifications to the user about the nearest deals based on the user location. I was responsible to get the location of the user when the user s location is changed and to send notifications accordingly. The notification of a particular deal is sent only once, and it contained dynamic images of deals. Developed a custom chip view required to show categories to the user. 
+Technology used for this project was Android SDK, Git. 
+Employer : M/s Infin Communications Lab Pvt. Ltd, Bangalore, Karnataka 
+Type of Employment : Full Time 
+Period of Employment : August 2016 to Present 
+Project 3.0 : PetFinder 
+Designation 
+: Software Developer 
+Duration : Two (2) Months 
+Duties and Responsibilities 
+: This project involved development of an Android application to allow the user to adopt pets or give pets for adoption. The aim of the application is to ensure that the user gets the ads posted by other users based on user location. The user can like the ads which he wishes to, and all these ads will be added to the user's Wishlist. All the ads posted by the user will be seen in My Account. The user can edit or delete the ad there. I was responsible to get the user location and show ads accordingly, Wishlist module and My Account module. 
+Academia: 
+2011-2015: Bachelors of Engineering in Computer Science Engineering from Vishveshwaraiah Technical University, Belgaum(Karnataka) and institute is Sri 
+Dharmasthala Manjunatheshwara College of Engineering and Technology, Dharwad (Karnataka). Secured 71.70% and CGPA 7.92. 2010-2011: Pre - University from Mount Carmel PU College, Bangalore (Karnataka) and Secured 69.33%. 2009: 10th from ICSE 
+Board and secured 87% 
+Personal Details: 
+Date of Birth : 16th Sept 1992 
+Gender : 
+Female 
+Nationality : 
+Indian 
+Languages Known 
+: 
+English, Hindi, Kannada 
+Passport : 
+No. N 1000711 Valid till 06/07/2025 
+Hobbies : Cooking and Reading 
+Alternate Phone Number : 09535997040 
+Address : 39, 'Sri Shaila Krupa', 2nd Floor, 4th Temple Street, 15th cross, 
+Malleshwaram, Bangalore-560003. 
+Declaration: 
+I hereby declare that all the statements made in above information are correct to the best of my knowledge & belief. 
+(Meghana Shastri) 

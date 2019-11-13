@@ -1,0 +1,39 @@
+Suchetha N K 
+F-102, Asha Regency #22, 5B Cross 
+1C Main, Kasturinagar 
+Bangalore (INDIA) - 560043 
+Email-id : suchetha.nk1988@gmail.com Mobile No.: 9108767986 SUMMARY 
+M.Tech in Cyber Security with deep understanding of Machine Learning and Natural Language Processing and experience in innovative research and development environments. 
+AREAS OF EXPERIENCE 
+Machine Learning, Natural Language Processing, Predictive Analytics, Text Analytics, Information Extrac- tion 
+PROFESSIONAL EXPERIENCE 
+(Jan 15 - Mar 16) Research Assistant at Amrita Centre for Cyber Security and Networks, Amrita University,Kerala. 
+Semantic Analysis Project A parallel and distributed big data framework for large scale text, image and video analysis. The framework is capable of applying natural language processing techniques over the data for information retrieval, sentiment analysis, topic modelling and pre- dictive analysis. The framework focuses on identifying trends and similar or correlated events, entity profiling, scoring and providing recommendations from the online data. The framework comprises of complex machine learning models trained using Bayesian networks, graph theory, deep learning and are scalable to provide big data analytics. 
+Detection of polarity of the social media text data using wordnet based sentiment analysis. 
+Classification of documents using Stanford CoreNLP multiclass logistic regression model. 
+Pre-processing of large text data sets including stopword removal, stemming, coreference res- olution etc. 
+Experience in NLP techniques like POS tagging, NER identification 
+Clustering of text documents using K-means, Suffix Tree algorithm. 
+Measuring the semantic relations of document/word using similarity metrics. 
+Evaluation of the developed model, calculating the quality metrics like precision, recall, F1- 
+Score, etc. 
+Responsible for writing client reports covering in - depth description of different analyses and their performance measures for the entire project. 
+Netflow Analysis Project Real time reporting of the statistics from a distributed network analyzer using Business Intelligence and reporting tools (BIRT). 
+RESEARCH PUBLICATIONS "Stylometry Detection Using Deep learning", In Computational Intelligence in Data Mining, pp. 749-757. 
+Springer, Singapore. 
+Author Profiling based on syntactic and sematic features using Convolutional Neural Networks. 
+ACADEMIC DETAILS 
+Degree Institute CGPA/% 
+M.Tech Cyber Security ( 11- 13) Amrita School Of Engineering, Coimbatore 7.3/10 
+B.Tech Computer Science and Engineering ( 07- 11) College Of Engineering, Vadakara 68.5% 12 th Standard Providence GHSS, Calicut 81.5% 10 th Standard St.Michael s GHSS, Calicut 92% TECHNICAL SKILLS 
+Languages (Java, C),Database (Hadoop, MySQL) Script (Python: Pandas, numpy), IDE (Eclipse), Tools 
+(LATEX, ipython, Stanford CoreNLP, Apache Mahout, Carrot2, GraphLab Create). 
+ACHIEVEMENTS 
+Participated in sCTF - a capture the flag contest- organised as part of SecurIT conference and finished as 8th among 160 teams from across the country. 
+Participated in the InCTF 
+11 National level Capture The flag Contest. 
+CONFERENCES AND WORKSHOPS ATTENDED 
+Selected for attending the Short Term Training Program on Data Mining: Research Challenges and Inno- vations from National Institute of Technology,Goa. 
+Attended SecurIT-first international conference on Security of Internet of Things held at Amrita Viswa 
+Vidyapeetham,Amritapuri. 
+Attended national level colloquium on Information Systems Security held at Amrita University. 

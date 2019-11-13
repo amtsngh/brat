@@ -1,0 +1,117 @@
+Eashwar Belde " 4.4 years of Experience in Middleware - Weblogic , Apache , JBoss , Tomcat Application servers.. " mail.eashwarbelde@gmail.com 9741996032 
+Current Designation: System Analyst 
+Current Company: Marlabs Software (P) Ltd 
+Current Location: Bengaluru / Bangalore 
+Pref. Location: Bengaluru / Bangalore, Hyderabad, Pune 
+Functional Area: IT Software - Middleware 
+Role: System Analyst 
+Industry: IT-Software/Software Services 
+Key Skills: Weblogic Administration, Weblogic, Apache, Jboss, Apache Tomcat, 
+Total Experience: 4 Year(s) 4 Month(s) 
+Annual Salary: Rs 4.7 Lakhs 
+Expected CTC: Not Mentioned 
+Highest Degree: B.Tech/B.E. 
+Notice period: Not Mentioned 
+Work Experience 
+Marlabs Software (P) Ltd (Current Employer) 
+System Analyst | Mar 2012 Day - to - day activities involving handling and resolving the tickets , Troubleshooting, Monitoring, Team Meetings, Documentations, Bridge calls, KT's. Installation of Weblogic , JBoss application servers. Deploying the applications. Performance 
+Tuning the parameters. 
+Education 
+Undergraduates 
+B.Tech/B.E. (Computers) 
+Jawaharlal Nehru Technological University (JNTU) | in 2011 
+IT Skills 
+Skill Name Version Last Used Experience 
+WebLogic 10g , 11g 2016 4 Years JBoss EAP 6.2 2016 2 Years 
+Apache Tomcat 7x 2016 1 Year 
+Apache Web Server 2.2 2016 4 Years 2 Months 
+Language Known 
+Language Proficiency Read Write Speak 
+English Proficient 
+Hindi Proficient 
+Telugu Proficient 
+Projects 
+No Projects Added 
+Other Details 
+Personal Detail 
+Date of Birth: 13 Aug 1989 
+Gender: 
+Marital Status: Single/unmarried 
+Address: 
+Road No -2, Bank Colony, West Venkatapuram , Lothkunta, Secunderabad, Telangana 500015 
+Home Town: hyderabad Desired Job Details 
+Job Type: Permanent 
+/Temporary/Contractual 
+Employment Status: Not 
+Mentioned 
+Work Authorization 
+US Work Status: Not 
+Mentioned 
+Countries: Not Mentioned 
+Affirmative Action 
+Category: General 
+Physically Challenged: No 
+Attached Resume 
+Eashwar Belde 
+Email: mail.eashwarbelde@gmail.com Mobile No: +91 - 9741996032 
+Profile Summary: 
+o 4.4 years of Middleware Administration experience on WebLogic 10.3.0 and 10.3.6 versions, JBoss EAP 6.2 and Tomcat 7.0.56 on Linux environment. 
+o 2 years of parallel Admin experience on JBoss and Tomcat. 
+o Able to handle Middleware Admin related activities like Installation, Configuration, Domain creation, Startup and Shutdown 
+Servers, Deployment, Clustering, Troubleshooting, Performance Tuning, Monitoring of WebLogic application server and JBoss application server. 
+WebLogic: 
+o Installed WebLogic on UNIX environment using GUI, Console and Silent-based. 
+o Proficient in creating and configuring domains using GUI, Console and Template based modes. 
+o Good experience in setting up Clusters in WebLogic, for achieving high availability, load balancing and fail over support. 
+o Proficient in deploying WAR and EAR files into domains using Console and Weblogic.Deployer. 
+o Knowledge in configuring JDBC connection pools, Data sources. 
+o Good in monitoring Logs and analyzing Thread dumps. 
+o Experience in tuning the server parameters, JVM parameters and garbage collection parameters to improve performance. 
+o Having Experience in Apache Webserver Installation, Configuration, Integration with WebLogic. 
+o Knowledge in Configuring SSL and Digital Certificates. 
+o Involved in handling the tasks based on the Priority & involved in proper documenting the tasks. 
+o Handling all aspects of administration such as day to day site monitoring and maintenance. 
+o Trouble shooting the issues related to the application slowness, Out of memory issues, Struck Threads. 
+o Having good experience on basic UNIX commands. 
+o Involved in providing 24x7 support by monitoring multiple applications at production and non-production. 
+JBoss: 
+o Responsible for installation of JBoss on UNIX environment. 
+o Deployed applications using Deployment Scanner, Console and CLI. 
+o Involved in creating Clusters in JBoss. 
+o Experience in integration of Apache with JBoss application server using mod_jk, mod_cluster plugins. 
+o Troubleshooting and performance tuning of JVM. 
+o On-call support (24x7), monitoring and supporting multiple JBoss instances across production, DR and other critical environments. 
+Tomcat: 
+o Experience in installation and setup of Tomcat servers. 
+o Have grip on server startup & shutdown. 
+o Creation of wrapper scripts for Tomcat servers. 
+o Deployment of applications into Tomcat servers. 
+Technical Skills: 
+|Application Servers/ |Web Logic 10g(10.3.0), 11g(10.3.6), Jboss EAP 6.2, Tomcat 7.0.56 | 
+|Web Servers |Apache 2.2 | 
+|Operating Systems |Linux | 
+|Database |Oracle10g,11g | |Tools |Putty, Winscp, GC Viewer, BMC Remedy, CA Wily Introscope | 
+Work Profile: 
+o Currently working as a System Analyst with Marlabs software (P) Ltd, Bangalore from March-2012 to till date. 
+Client : Burke Corporation - IOWA, US May 2014 to Till date 
+Responsibilities: 
+o Installation, Configuring and Administration of Web Logic servers on UNIX environments. 
+o Setting up of clusters in production and non-production. o Deployed the WAR & EAR application and targeted Managed Servers by using Admin console, Weblogic.Deployer utility. 
+o Monitoring and troubleshooting the WebLogic servers by tuning JVM heap size and garbage collection for performance. 
+o Involved in the deployment of applications in JBoss. 
+o Setting up high available clusters with JBoss instances to implement Failover. 
+o Configuration of Apache to JBoss using mod_jk and mod_cluster. 
+o Installation of Tomcat application server and responsible for server start-up and server shutdown. 
+o Involved in deploying applications to Tomcat server. 
+o Handling all aspects of administration such as day to day site monitoring and maintenance. o 24X7 production support and coordinated with developers and end-users to resolve critical issues 
+Client : IDW Publishing - California, US April 2012 - April 2014 
+Responsibilities: 
+o Installation, Configuring and Administration of WebLogic servers on UNIX environments. 
+o Setting up of clusters in production and non-production to achieve High Availability and implement Failover. 
+o Involved in the deployment of various types of applications including WAR and EAR files. 
+o Monitoring and troubleshooting the WebLogic servers by tuning JVM heap size and garbage collection for performance. 
+o Configuring JDBC Connection Pools and Data source. 
+o Client Interaction to make sure the high priority P1 tickets are taken care properly. 
+o Handling all aspects of administration such as day to day site monitoring and maintenance. o 24X7 production support and coordinated with developers, management and end-users to resolve critical issues. 
+Educational Qualifications: 
+o Graduated from Hyderabad Institute of Technology And Management (HITAM) - JNTUH in 2011.[pic] 

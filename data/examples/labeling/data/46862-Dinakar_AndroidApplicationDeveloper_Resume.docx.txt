@@ -1,0 +1,138 @@
+ Resume 
+Name : Dinakar M S 
+Mobile: +91 9066521763 
+Email: sm.dinakar@gmail.com 
+OBJECTIVE: 
+I seek opportunities that should challenge my talent and enable me to make significant contributions. I desire to work in stimulating team environments that promote the interchange of ideas. 
+PROFESSIONALSKILLS: 
+Highly motivated and focused with around 3 years experience in Design and Development of Android applications. 
+Involved in entire software development process for all assigned android application development: requirement specification, design, implementation, testing and maintenance. 
+Sound knowledge in Android SDK, REST communication (JSON), SQLite database, Activities, Services, Broadcast Receivers, UI Designing, problem solving, complexity analysis, and debugging. 
+Good knowledge in designing and developing adaptive UI components, Widget for Android applications. 
+Working knowledge on VollyJson and GSON libraries. 
+Extensively participated in client meetings when required and Implemented specifications and requirements as directed by clients. 
+Participating in self and peer code reviews and recommends necessary suggestions to the coordinate team members. 
+Able to design the applications from the requirement and Known for writing efficient, maintainable and reusable code that preserves privacy and security. 
+Good at resource utilization and task management and Agile development. 
+PROFESSIONAL EXPERIENCE: 
+Working as a Software Engineer in Data Template Infotech Pvt.Ltd, Bangalore from August 2014 to Till Date. 
+Worked as a Software Trainee in Spiders Software Solutions LLC, Hyderabad from July 2013 to May 2014. 
+Education: 
+Bachelor of Engineering (B.E) in Electronics And Communication from Saraswathi Velu College of Engineering with an aggregate of 71.2%. 
+TECHNICAL SKILLS: 
+Operating System : Windows xp/7. 
+Programming-Languages : Core-Java 
+Technologies : Android, J2SE. 
+Parsers 
+: JSON, XML 
+Web-Technologies 
+: Html and Css 
+Databases 
+: mySql, SQlite 
+Tools : eclipse, Android Studio. 
+PROJECT EXPERIENCE: 
+PROJECT#1: 
+Client : Public Health Foundation Of India. 
+Title 
+: Uday-Dss 
+Domain : Medical 
+Duration : Sep-2014 to Feb-2015 
+Role : Developer 
+Environment : Sqlite, JSON. 
+Description: 
+Uday, a five-year program of the Public Health Foundation of India (PHFI) in partnership with Eli Lilly to prevent spread of non-communicable diseases in Andhra Pradesh and Haryana. The initial focus of Uday is on the people having diabetes and high blood pressure. 
+The project mainly focusing on collecting information from android tablets and sending data to the Enterprise Server with unique identification number. The process mainly contains multiple set of questions with options, once after details are saved in the device those willl sync to the Server with Rest full client server communication. 
+Responsibilities: 
+Requirement gathering and analyzing the projects requirements. 
+Interaction with client for project clarifications. 
+Involved in different presentation layers using Android. 
+Involved in implementing logic functionalities and framework design using Core-Java. 
+Involved in the implementing Web services. 
+Involved in the unit testing. 
+Involved in the field validation in the application. 
+Involved in the maintenance of the project in the production time. 
+Involved in Database Management. 
+Involved in implementing algorithms using core-java. 
+PROJECT#2: 
+Client : SCTIMST,Trivandrum,Kerala. 
+Title : Pro-Kerala 
+Domain : Medical 
+Duration : Mar-2015 to Aug-2015 
+Role : Developer 
+Environment : Sqlite, JSON. 
+Description: 
+The main objective of this project is to improve the quality of data in the Pro-Kerala registry of pulmonary hypertension by using a Tablet based systems versus the conventional methods. Primary Objectives of the Pro-Kerala registry are to collect data regarding the aetiology and assess the practice patterns of PH and collect the 3 months and 6 months follow-up data of patients presenting to cardiologists in Kerala. This application consists of four different modules namely Demographic Data, Physical Examination, Medication Details,Followups each module has their specific implementations. This application provides the state wide survey regarding health care. 
+Responsibilities: 
+Requirement gathering and Analyzing the project requirements. 
+Interaction with client for project clarifications. 
+Extensively involved preparing the design level documents. 
+Involved in the implementing Web services. 
+Involved in the unit testing. 
+Involved in the field validation in the application. 
+Involved in android coding to develop app UI and functionality. 
+Involved in Database Management using sqlite. 
+PROJECT#3: 
+Client : MYEASYDOCS 
+Title : kYEASY 
+Role : Developer 
+Duration : Sep-2015 to Dec-2015 
+Environment : Sqlite, JSON. 
+Play Store Url : https://play.google.com/store/apps/details?id=com.dt.android.kyc&hl=en 
+Description: 
+KYEASY application is the process of a business verifying the identity of its clients for filling the customer details in KYEASY(know your customer) form. It is also used to refer the bank regulation which governs these activities. It involves by collecting the required identifying information on new clients and risk rating the clients based on occupation, product and reputational risk. Know your customer efforts vary greatly across banks, but they generally require obtaining additional documentation on the client and conducting more in-depth research through public and vendor databases into the clients background. 
+Responsibilities: 
+Requirement Analysis and project framework design. 
+Performing the manual testing on the application Involved in android coding to develop app UI and functionality. 
+Involved in the implementing Web services. 
+Involved in Database Management using sqlite. 
+Involved in the field validation in the application. 
+PROJECT#4: 
+Title : Neota Role : Developer 
+Duration : Jan-2016 to Till Date 
+Environment : Sqlite, JSON. 
+Description: 
+Neota application is a social networking application. The objective is for creating an event invitations from the mobile user can send it directly to any of their contacts, friends and family members through face book and whats App. User can share his images and video through the invitations. Three different types of events user can view in the application hosted events, upcoming events and attended events. 
+Responsibilities: 
+Requirement Analysis and project framework design. 
+Performing the manual testing on the application Involved in android coding to develop app UI and functionality. 
+Involved in the implementing Web services for storing the images and video in server. 
+Involved in Database Management using sqlite. 
+Involved in the field validation in the application. 
+Interaction with client for project clarifications. 
+PROJECT #5: 
+Client : Product (Spiders Software Solutions LLC) 
+Title : Employee Management System 
+Role 
+: Developer 
+Duration : Mar-2014 to May-2014 Environment : SQLITE,JSON. 
+Description: 
+The scope of the project is to develop a profile search facility to the employees. The Employee can update the details and change or delete the profile picture, if employee forget the password by existing username and hint employee can retrieve the password and it has facilities to arrange team meetings by sending message to the mails. 
+Responsibilities: 
+Requirement Analysis and project framework design. 
+Involved in different presentation layers using Android. 
+Involved in implementing web services. 
+Manual Testing of the entire application. 
+Assisted in the documentation of design document. 
+PROJECT #6: 
+Title : Daily Marketing Status Tracker. 
+Domain : Marketing 
+Role 
+: Developer 
+Duration : Oct-2013 to Feb-2014 Environment : SQLITE 
+Description: 
+The scope of the project is to allow a marketing executive to submit his daily marketing status to his manager using an Android base mobile device. The manager can view the location details and the status of the marketing executive after registering in the customer feedback form from the customer in the cutomerlocation and by using the GPS the manager can get the location details of the customer where the executive is submitting the status of the product from the customer and the manager can approve or reject the status report of the executive and it will be shown to the executive as a decision of the manager. 
+Responsibilities: 
+Requirement Analysis and project framework design. 
+Involved in different presentation layers using Android. 
+Understanding the project requirements and involved in testing the modules accordingly there by enhancing the functionalities of respective modules. 
+Manual Testing of the entire application. 
+Assisted in the documentation of design document. 
+PERSONALDETAILS: 
+Fathers Name : M.Sankar Narayana 
+Date of Birth : 03-01-1990 
+Marital Status 
+: Single 
+Nationality : Indian 
+Declaration 
+I hereby declare that the information furnished above is true to the best of my knowledge and belief. 
+m.s.DINAKAR 

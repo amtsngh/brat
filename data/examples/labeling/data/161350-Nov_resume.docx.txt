@@ -1,0 +1,58 @@
+ Rashmi Y Kolkar 
+Email ID:rashmi.kokar@gmail.com 
+Contact number: 8095209469 Objective 
+To work in an organization where culture of freedom and working for initiatives is ensured, facilitating my contribution through thoughts and action to the companys vision and thus achieve self-development by playing a significant role in building the organization. 
+Technical Skills 
+Languages and Technical knowledge : C, Core Java, Selenium, Agile, Manual Testing 
+Operating System: Windows 7,8/XP, Android. 
+Tools: MS Office, MS word, Wireshark ,Qualnet 
+Database: IBM SQ IDE: Eclipse, Net Beans, Android 
+NETWORKING, CCNA 
+Personal Qualities 
+Excellent verbal and personal communication skills. 
+Accuracy and Attention to details. 
+Passion for constant improvement. Ability to make sound decisions. 
+Academic Qualification 
+Bachelor of Computer Science from SDMCET, Dharwad with CGPA of 7.64 from 2010-2014. 
+PUC from Shree Guru Independent PU college of science, Gulbarga with 69.5% from 2008-2010 SSLC from St Josephs Convent School, Gulbarga with 80.96% 2008. 
+Internship 
+1.Successfully completed Internship from BSNL training Centre RTTC, Mysore in Digital Switching 
+Wireless Communication 
+Digital Communication and Networking 
+2.Successfully Completed Internship from SECO an Embedded Based Company in Bangalore worked on 
+UDOO Board 
+Different type of sensor like motion, temperature, humidity on UDOO Board. 
+3. Presently working on a project as a project trainee in Elint Labz Bangalore 
+Academic Project Undertaken 
+Project: Wi-Fi and GSM Based Efficient data collection from sensor network doing this project from Elint Labz Bangalore. 
+Duration: 9 months (January 2016- September 2016) 
+Description: 
+The system aims at monitoring the temperature and humidity of particular environment. 
+The sensor data is sent to person in charge through GSM wireless technology 
+The system make use of Wi-Fi module ESp8266 to transmit the from arduino uno to server 
+Project: Smart Parking Application 
+Duration: 4 months(August 2015-December 2015) 
+Description: 
+The system helps in finding the parking application on road side that is Government Parking places. 
+UDOO board is used for processing of sensor data. 
+The data will be stored on to the cloud 
+Project: Mobile Theft Detection 
+Duration: 11 Months (June 2013- May 2014) 
+Description: 
+Android Application to detect lost smart phone As soon as the cell the lost and change in SIM, the information like IMSI number, recent call log details and GPS is sent to the alternate number provided at the time of registration. 
+Project: Online Shopping System 
+Duration: 5 months (Feb 2013- June 2013) 
+Description: 
+Online shopping system for Furniture 
+Online Shopping System is an Interface between Customer and Internet which helps Customer to shop from the home which saves time and money. 
+Areas of Interest 
+Wireless Communication, Embedded, Networking, Big data. 
+Hobbies 
+Reading Novel, Listening Music 
+Strengths and Weakness 
+Strength: Dedicated, Honest towards work 
+Weakness: Straightforward 
+DECLARATION 
+I hereby declare that the above particulars are true and correct to the bestof my knowledge and belief and in the event of any information being found false or incorrect, my candidature willbe liable to be canceled. 
+Date: Signature 
+Place: BANGALORE 

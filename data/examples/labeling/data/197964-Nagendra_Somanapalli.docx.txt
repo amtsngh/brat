@@ -1,0 +1,58 @@
+NAGENDRA SOMANAPALLI 
+nagendrasomanapalli@gmail.com 
+Embedded Software Engineer 
++91-8978569483 Professional Summery 
+Working as Software Engineer 
+I in Planet Sigma from Jan 2013 to till date. 
+Having 3+ years of experience in C and Embedded C programming. 
+Worked in client location ECIL for 4 weeks. 
+Worked on various Micro controllers programming such as ARM, AVR, 8051. 
+Hands on experience on communication protocols I2C, UART and SPI. 
+Knowledge on Data Structures and Standard Template Libraries. 
+Have willingness to learn and adoptability and troubleshooting abilities. 
+PG Diploma in Embedded Systems from VECTOR-Hyderabad. 
+Masters Degree in Electronics from SKU University with Distinction. 
+Technical Skills 
+Domain : Embedded Systems. 
+Programming Languages : C, Embedded C, System Programming. 
+Micro Controllers : ARM, AVR, 8051. 
+IDE 
+: Keil, AVR-Studio, Visual Studio 2008. 
+Communication Protocols : I2C, SPI, UART. 
+Tools : 
+Proteous Simulator. 
+Operating Systems : Windows, Linux. 
+Project Experience 
+Project : Stack Gamma Activities Monitoring 
+Company : ECIL, Hyderabad 
+Languages : C, Embedded C. 
+Tools/Software : ARM7MCU. 
+Description: 
+The main aim of this project can be used to monitor gamma activities released through stack. There exists a provision in the equipment to monitor concentrations of Fission Product Noble Gas (FPNG) activities and Argon activities present in the air stream. 
+Here finally calculating ARGON & FPNG concentration, release rates and CMLV rate values. These values store in USB storage device and this can be sent to Ethernet and flash memory. 
+Responsibilities: 
+Implementing SPI, UART in ARM micro controller. 
+Writing firmware for Application Interface. 
+Project 
+: Automatic Weather Station 
+Company : ECIL-Hyderabad. 
+Language : C, Embedded C. 
+Tools 
+: Keil, ucos, gcc. 
+Description: 
+The system contains transmitting (ATmega128) and receiving (ATmega16) sections. Transmitter connected to data logger captures data from it and then transmits it to receiver through GSM link. The data is a string of AWS parameters each is separated by , and start with $ sign. Receiver connected with display unit it receives data through GSM link which will be transmitted from data logger section. Display unit consist of 20 characters Single line LED matrix display. 
+Responsibilities: 
+Interfacing GSM for AVR micro controller. 
+Writing firmware for Application Interface. 
+Academic Details 
+PG Diploma in Embedded Systems from VECTOR INDIA-Hyderabad in 2012. 
+Post Graduate in MSc Electronics from SKU University in 2011 with 75%. 
+B.Sc. (M.E.Cs) in SIR CV Raman Degree College in 2009 with 77%. 
+Personal Profile 
+Fathers name 
+: Erri Swamy 
+Date of Birth : 10th May, 1989 Marital Status : Unmarried 
+Address : LB Nagar, Hyderabad 
+Alternate mail id 
+: nagendrasomanapalli@yahoo.com 
+Place: Hyderabad Nagendra Somanapalli 

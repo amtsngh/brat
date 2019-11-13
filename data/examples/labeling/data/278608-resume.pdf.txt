@@ -1,0 +1,67 @@
+ Email: 
+Asthagaur3@gmail.com 
+Personal Details: 
+Sex: Female 
+Nationality: 
+Indian 
+Marital Status: Single 
+Languages: Hindi & English 
+DOB: 09/12/1995 
+Permanent Address: 
+108/1 GangaRamPura 
+Sarwat Road, MuzaffarNagar 251001, Uttar Pradesh 
+Current Address: 
+2a Block, 4 Tower, Park Avenue, Kandigai, Vandaluru- 
+Kelambakkam Road 600048, Chennai, Tamil Nadu 
+Contact. No: 
+Mo: +91-9808582800 
+Mo: +91-9790720810 
+Technical Background: 
+Operating Systems: - All 
+Windows, Linux (Ubuntu) 
+Languages: - C, JAVA 
+Tool: - Hadoop Map Reduce, Apache Pig, R-Studio, Eclipse, Rapid miner, Gridsim Toolkit, 
+MySQL, AWS Cloud Platform 
+Strength: 
+Friendly, Hardworking, Dedicated, Adjust in any environment. 
+Hobbies: 
+Cooking, Cleaning 
+Achievements and 
+Participation: 
+- Participated in 
+BIGDATA CONCLAVE. 
+- Participated in Cisco networking by AUZRE. 
+- Received certificate of Scout Guide at RAJPAL level. 
+ASTHA GAUR 
+Objective 
+To make learning a lifelong process, to improve my skills and to constantly keep upgrading myself for the benefit of the self and of those associated with me. 
+ACADEMIC QUALIFICATIONS 
+Course Year Board/University %/CGPA 
+M.Tech(CS) 2015 VIT University, Chennai 8.3 
+B.Tech(CS) 2011-15 Uttar Pradesh University 71.46 
+HSSC 2011 U.P.Board 71.6 
+SSC 2009 U.P. Board 68.83 PROJECT DETAILS 
+1. Project Title: Performance Enhancement of The ERC 
+Using 
+CLOUD 
+Duration: Jul 2016(ongoing) Tools: AWS Cloud Computing 
+Description: Refrigeration controller is not having capability to publish and store data into the cloud, so using DynamoDB service, data can be store and ElasticBeanStalk is used for visualization of the data. 
+2. Project Title: Recommendation System for Tourism 
+Duration: Jan 2016 May 2016 Tools: Apache Mahout 
+Description: There are three algorithms for recommendation system. For tourism recommendation system, here content and collaborative algorithm is used in MAHOUT O.S. MAHOUT is having some predefined functions for recommendation (filter and similarities). 
+3. Project Title: Remove Redundancy In BIGDATA 
+Framework 
+Duration: Jan 2016 May 2016 Tool: Apache Pig & Map 
+Reduce Description: In Bigdata data is repetitive. To solve this problem, map reduce algorithm is used in APACHE Pig. 
+In this algorithm, Pig is having predefined function for finding redundancy data into the nodes. 
+4. Project Title: Student Website 
+Duration: Dec 2014 Apr 2015 Tools: Net Beans 
+Description: This is java based project, where student and teacher can be interacted remotely. There are 3 main modules, Administrative, Teacher, Student and some sub modules. 
+TRAINING 
+Language: - JAVA 
+Duration: - Jun 2014 July 2014 
+Location: - CMC Sce-2 Noida 
+ACADEMIC INTERNSHIP 
+Company: - 
+Danfoss Industries Pvt. Ltd Duration: - 25 July 2016 
+May 2017 Location: - Chennai, Tamil Nadu 

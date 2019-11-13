@@ -1,0 +1,57 @@
+ CURRICULUM VITAE 
+Dhananjay shukla Email-ID: dhananjayshukla590@gmail.com 
+Mobile: +91.9557080208 OBEJECTIVE Seeking challenging assignments as Software Development (JAVA / ORACLE) in IT / Telecom sector. 
+SYNOPSIS 
+- An erudite professional with zeal to make a winning career in JAVA & ORACLE technologies. 
+-Completed B.Tech. (Computer Science) from HNB Garhwal University Srinagar (Garhwal), Uttarakhand 
+-Well versed with C, C++, JAVA, JDBC, Servlet, Jsp. Oracle 9i, SQL and JAVA Fundamentals. -Proficiency at grasping new technical concepts quickly & utilizing it in a productive manner. 
+-Believes in continuous learning and possesses an innovative approach. 
+-Possess analytical thinking and innovation & problem solving ability. 
+-A quick learner with the ability to work under pressure and meet deadlines. 
+EDUCATION 
+2015 B.Tech. (Computer Science) with Aggregate 71.8%, from HNB Garhwal University Srinagar, Uttarakhand. 
+2010 Intermediate (12th) with 67.4% from G.I.C Agastyamuni distt Rudraprayag (Uttarakhand). 
+2008 High School with 71% from G.I.C 
+Agastyamuni distt Rudraprayag (Uttarakhand). 
+Certifications And Training 
+Underwent 6 weeks Summer Industrial Training successfully for JAVA program at NTPC Limited New 
+Delhi. 
+Completed 6 month Training in CORE JAVA and J2ee from Lara Institute of Technology Bangalore. 
+Working in from Dec 20XX to till Date and current designation Programmer 
+Oracle SQL: 
+-Programming logic and Technique (data type and identification, decision flowcharts, operators) 
+-Implementing Database design using Oracle 9i (Query ,Retrieve DB, Functions And Joins, Sub Queries, Table Creation, Database Maintain, Indexes, Views, Transaction) JAVA fundamentals and Programming Language: 
+-Concept and features of OOPS, variables, arrays -Create classes, objects, reference and add/modify methods to a class -Encapsulation, inheritance, abstraction and polymorphism - All string types (mutable and immutable), method overloading / method overriding - Interface, Object class, Constructors, java lang package 
+- Inner classes, Exception Handling 
+-Implement error handling techniques using exception handling -Create event driven GUI using GUI components -Implement I/o functionality -Create TCP/IP client that communicates through sockets - Collection,HTML ,JAVASCRIPT. 
+J2EE: 
+-Knowledge on Spring, Session Management and JSP - jdbc, hibernate, servlets 
+IT SKILLS 
+Programming Languages : CORE JAVA , JDBC ,C,C++. 
+Framework : HIBERNATE,SPRING. 
+Web Application : Servlet,Jsp. 
+Data Base : SQL, Oracle9i 
+Software : MS Office Suite (Word, Excel, Power point), dev C++, eclipse. 
+Systems : Windows (All) PROJECTS 
+Project Title: Hotel Management System 
+Description: Application to keep record of check in, check out, order, bills. Its having two modules user & administrator. 
+Technology involved: Software Platform: eclipse, Language: java, framework: hibernate and 
+Database: SQL server 2005 
+Role: Team Member(Developer). 
+Team:5 Member. 
+Project Title: Airline Reservation System 
+Description: It is an application to maintain details about flight schedules, passenger reservations and ticket records, along with price and booking. Its having three modules Registration, administrative and Passenger module. 
+Architecture: The application follows three-tier architecture. In three-tier architecture application will run the traditional client/server model but from the web server. The client only displays the GUI and data but has no part in producing result. 
+Technology involved: Software Platform: eclipse, Language: java, framework: hibernate and 
+Database: SQL server 2005 
+Role: Team Member(Developer). 
+Team: 5 Member. 
+Personal Details 
+Date of Birth: 03-07-1993 
+Linguistic Proficiency: Hindi, English 
+Address: Flat-201,Sai Swapna heaven,Plot #5-116 Deepthi Srinagar MADINAGUDA ,HYDERABAD-500050 
+Declaration 
+I hereby declare that the above mentioned information is absolutely correct with best of my knowledge and I bear the responsibility for the correctness of the above mentioned particulars. 
+Place: HYDERABAD 
+___________________________________ 
+DHANANJAY SHUKLA 

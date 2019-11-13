@@ -1,0 +1,58 @@
+Mohammed Afraz 
+Amravati, Maharashtra 
+T +91 8861558993 B afraz.urfriend@gmail.com Education 
+May 2015 Master of Science in Computer Science and Engineering, Indian Institute of Science, Bangalore, Karnataka. 
+6.33/8 
+May 2011 Bachelor of Technology in Computer Science and Engineering, Government College of Engineering, Amravati, Maharashtra. 
+8.16/10 April 2007 Maharashtra Board HSC. 
+89.00% (PCM: 94.00%) April 2005 Maharashtra Board SSC. 83.86% Technical Expertise 
+Programming 
+Languages 
+C, C++, Java, Javascript, SQL, Scala 
+Web AngularJS, HTML, CSS, Servlet, JSP 
+Backend 
+Technologies 
+REST, SOAP, Dropwizard, Jersey, Jackson 
+Databases MySQL, Sybase ASE, PostgreSQL Platforms Linux (Ubuntu), Windows (7, XP) Misc SVN, CVS, Ant, Maven, GIT 
+Publication 
+Our research paper titled P3: Partitioned Path Profiling which was part of my masters thesis got published in European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering, 2015. 
+Work Experience 
+Goldman Sachs 
+Designation Analyst II, August 2015 - June 2017 
+Details Designed and developed Model Risk Platform which is currently being used across all the divisions of the firm. The application provided functionality for the complete lifecycle of a model, right from inventorizing the model to its validation, attestation, etc. The application development was mainly based upon AngularJS, Java, REST technologies and Sybase database. 
+Persistent Systems Limited 
+Designation Software Developer, June 2011-June 2012 
+Details Developed several new features for accounting software QuickBooks. The application managed the complete finances for the different businesses. Got exposure to different technologies like C, C++ and Java. 
+Masters Thesis 
+Title Partitioned Path Profiling 
+Mentors Dr. Aditya Kanade (CSA,IISc), Diptikalyan Saha (IBM IRL) 
+Technologies C, C++, LLVM infrastructure Description Path profiles are an abstraction of programs control path behavior at run-time. They are effectively used in the fields of compiler optimization, testing, debugging, and software maintenance. Path profiling is a frequency measurement of acyclic execution paths in a program. We have developed algorithms to minimize the intrumentation cost of path profiling. 
+Masters Course Projects 
+Title Analysing Null Dereference in Java Program 
+Technologies Java, Soot framework 
+Description Implemented scalable and precise intra-procedural data-flow analysis to identify the null derefer- ences in java programs. 
+Title Algorithms for Phase Change Memory (PCM) Database Operators 
+Description Phase Change Memory is a non-volatile memory which consumes very less idle power, has limited write endurance and consumes high energy in writes. For reducing the PCM writes, we designed database algorithms for group-by and having operators. 
+B.Tech. Projects 
+Major 
+Project 
+Database Interface Tool 
+Mentors Uday Bidkar(PSL), Abhay Deotare(PSL) 
+Technologies Adobe Flex Builder , XAMPP Server, PHP, MySQL and Postgres Server 
+Description The tool provided an interface for different database servers like Postgres and Mysql for carrying out basic functionalities. It is easily extensible for other database servers and was also deployed in the internal projects of Persistent Systems Limited. 
+Graduate Course 
+Credited Design and Analysis of Algorithms 
+Linear Algebra and Applications 
+Program Analysis and Verification 
+Audited Automated Verification 
+Database Management Systems 
+Topics in Automated Verification 
+Awards/Achievements 1st Prize in Project Exhibition organized by Persistent Systems Limited for my final year project in 2011. 
+1st Prize in Semicolons programming contest held at Persistent Systems Limited, thereby raising 3.65 lacs for donation purpose. 
+Scored 99.74 percentile in Graduate Aptitude Test in Engineering (GATE) - 2012. 
+Extra Curricular Activities 
+Associated with multiple NGOs for social causes. 
+Chief placement co-ordinator at GCOEA for the year 2010-2011. 
+Organized many events like Programming contest, Quiz & Computer game competitions etc. 
+Runner-up in the Snooker and Billiards tournament at IISc in Nov, 2013. 
+Winner in poetry recitation competition for Mudliar Trophy 2007 (College Fest). 

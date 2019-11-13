@@ -1,0 +1,90 @@
+ Karnataka, INDIA - 591102 (+91) 9449266206 shreyas.badas@hotmail.com www.linkedin.com/in/shreyasbadas 
+Continued 
+SHREYAS 
+BADAS 
+OBJECTIVE 
+Seeking a challenging career that utilizes my knowledge and interests in my area of competence that will enhance my career to achieve excellence & to keep up with the latest trends in a digital world AREA OF INTEREST Networking and Hardware 
+Cisco networking Cloud Computing AWS, Azure, Google Cloud, SAP HANA, etc. 
+System Administration 
+Linux OS 
+IT Infrastructure Development 
+Business Analytics, 
+Business Development Blockchain, Cryptocurrency EDUCATION Program Institution Percentage Year of Completion B.E [CSE] 
+Visvesvaraya Technological University 
+66.15% 2017 
+Pre-University College Chetan PU Science, 
+Hubli 55.3% 2013 
+ICSE 
+Board Sharada Residential School, Udupi 
+76.7% 2011 
+SCHOLASTIC ACHIEVEMENTS 
+Acquired 1st position in the class, secured 3rd state rank and 
+achieved 269 Olympiad rank in International Informatics 
+Olympiad 2010 by obtaining 78.125/100 in the exam 
+Came 1st in class, 18th in state in International Informatics Olympiad (2008) 
+organized by Computer Literacy Foundation, New Delhi 
+Participated and acquired 5th position in class, 
+51st state rank in International Olympiad of Science 2009 
+Was a district level finalist at TCS TechBytes Quiz competition (2015) Continued PROJECT PROFILE 
+Computer Graphics 
+(Mini Project) 
+Name : 
+Mouse Effects S/W Used : 
+Microsoft Visual Studio Description : 
+Developed and presented a computer graphics using MS Visual Studio with OpenGL fw. 
+The interaction of mouse particles to the input received from mouse buttons and movement by the user. 
+The project is based on OpenGL Framework. 
+Technical Seminar 
+Name : 
+Blockchains and Smart Contracts for the Internet of Things 
+Key Concepts 
+: Blockchain DB, Smart Contracts, IoT Description : 
+Researched about Blockchains & SmartContracts and current IoT Connectivity model. 
+Studied various white papers on the topic and 
+presented a technical seminar that described a way to improve the connectivity among the IoT devices by implementing blockchain technology and automate 
+the process using SmartContracts. 
+Final Year Project 
+Name : 
+Recognition of handwritten digits & characters using Neural Networks S/W Used : 
+MATLAB Description : 
+Designed, developed and presented a neural network 
+that is trained with certain datasets to recognize the handwritten digits and characters. 
+Developed and integrated an easy to use User Interface using GUIDE in MATLAB for providing the image, processing and fetching the result in required format (text, image, etc.) ACTIVITIES 
+Attended various workshops, 
+events, guest lectures at SHAASTRA 2015, an IIT- Madras technical fest Attended workshop on Internet of Things conducted by Frugal Labs 
+Participated in IoT Entrepreneur Challenge 2015 conducted by Frugal Labs 
+Participated in various technical games held during Delta 15.0, a technical fest conducted by GMIT Awarded 
+2nd place in LAN 
+Racing and 3rd place in 
+Engineer s Eye , tech competitions at Delta-16, GMIT 
+Hosted a coding competition event- 
+Code Chef for Delta NCETERM 2016, GMIT CERTIFICATIONS & COURSES 
+CERTIFICATIONS 
+Microsoft Digital Literacy Certificate, Microsoft AMCAT Certified Software 
+Engineer 
+IT Services, Aspiring Minds 
+AMCAT 
+Certified Proficiency in English, Aspiring Minds COURSES 
+COMPLETED 
+Linux System Administrator/Engineer - Entry level, 
+Linux Academy Linux Essential Certification, Linux Academy 
+CloudU Certificate, by Cloud University (sponsored by Rackspace) 
+Introduction to Cloud Computing, Udemy DevOps 
+Essentials, 
+Linux Academy Fundamentals of AWS, CloudAcademy COMMUNICATION AND LEADERSHIP 
+Was the Class Representative during my 2nd year 
+(3rd & 4th SEM) of CSE 
+Presented many class-room Seminars on various topics- Bluetooth Technology, Intel Microprocessors, etc. 
+Active participant of various referral programs 
+PERSONAL DETAILS Name 
+: SHREYAS M 
+BADAS 
+Date of Birth : 20 FEBRUARY 1995 
+Father s 
+Name 
+: MAHANTESH BADAS 
+Languages Known : 
+English, Hindi, Kannada, Marathi Address : Basavnagar, Murgod Road, Bailhongal 591102 
+DECLARATION 
+I hereby declare that all the above furnished details are true to best of my knowledge. 
+Shreyas Badas 

@@ -1,0 +1,49 @@
+PULYA KUMARI SURYA PRANEETA 
+# 2/68, Panditaraya Street, Munganda, P Gannavaram mandal, East Godavari district 533214. 
+E-mail: suryapraneeta@yahoo.in 
+Phone no: 09704271498 
+Career objective 
+To be a member of an organization where growth prospects are unlimited and individual is recognized by their performance, and to get excellence in my work. 
+Professional synopsis M.Tech (Robotics) from SRM University, Kattankulatur, Chennai. 
+Undergone a training program on Embedded Systems at Prolific Systems and Technologies Pvt Ltd for 6 months. 
+Undergone a training program on AutoCAD at Techno soft solutions, Visakhapatnam in May 2013. 
+Working experience Completed an Internship in Non-Ferrous Materials Technology Development 
+Center (Autonomous R&D), Hyderabad. 
+Worked as Embedded Engineer in MTS Technologies Ltd, Hyderabad from October 2014 to June 2015. 
+Educational Credentials 2017 M.Tech (Robotics) from SRM University, Kattankulathur, Chennai, 
+(Secured 8.5 CGPA) 2013 B.Tech (EEE) from Amrita sai institute of science and technology, Vijayawada. (Secured 80%) 2009 Intermediate from Narayana junior College, Visakhapatnam. (Secured 86.9%) 2007 Class 10th from Seventh day Adventist high school, Visakhapatnam. 
+(Secured 78%) 
+Technical skills 
+Micro-Controller: Atmel - AT89C51/52 (Proficient). 
+PIC - 16F877A (Proficient). 
+ARM - LPC2148 (Proficient). 
+Phillips - P89V51RD2 (Proficient). 
+Arduino (Proficient) and Raspberry Pi (Beginner). 
+Texas DSP controller 28335 (Beginner). 
+Communication Protocol: URAT, I2C, CAN, GSM, GPS. 
+Designing software: SolidWorks, Auto CAD, CATIA. 
+Software tools: Turbo C, Keil uvision, Protues Simulator and PIC simulator, LabVIEW, Matlab with Simulink, Simscape, Python Programming (Beginner). 
+Programming languages: C and Embedded C. 
+PCB design software: Ki cad. 
+Robot Programming Languages: VAL, RAPID. Practical hands-on experience on ABB 
+Robot (IRB1410 & IRB6600). 
+Projects 
+Academic: 
+Active and reactive power control of doubly fed induction generator driven by wind turbine which deals with the control the active and reactive power when the turbine is driven by the wind energy. 
+Company: Emergency door alarm panels in Syntel from Kakinada. 
+Fire alarm panels in Syntel (InfoTech) from Hyderabad. 
+Different projects for B.Tech and M.Tech students. 
+Internship: 
+Doing a project on Automatic gearbox with automated clutch which has to be controlled by PIC controller, which has to shift the gear automatically. 
+Also developed a LabVIEW GUI to realize the control from main ECU by using CAN communication protocol. 
+Personal Details 
+Father name : P V Kameswara Rao 
+Languages Known : English, Hindi and Telugu Date of Birth : 28th May, 1992. 
+Passport : Yes, L8865548. 
+Alternate number : 7358613532. 
+Declaration 
+I hereby declare that the information furnished above is true to the best of my knowledge. 
+Place: Hyderabad 
+P K S Praneeta 
+Date: 
+(Signature) 

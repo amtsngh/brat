@@ -1,0 +1,147 @@
+R E S U M E MONIKA A. GANPATE 
+E-Mail: 
+monikaganpate1991@gmail.com 
+Mobile: +91 970 270 6170 
+Career Objectives: 
+To pursue a career in a company of I.T, to be able to fulfill my goals and objectives in my life, which include professional excellence and value addition to my career through dedicated work, creativity, and teamwork. 
+To learn, educate & improve myself associated to what I m performing. 
+To work in a challenging environment that provides generous opportunities for learning. 
+Educational Qualification : 
+Qualification Name of College Board/University 
+Class / Grade 
+Year of Passing 
+M.C.A 
+IMCOST College, Wagale Estate, 
+Thane (West) 
+MUMBAI CGPA - 6.75 2015 B.sc (CS) Dnyanasadhana 
+College of Arts, Science & Commerce 
+Thane (West) MUMBAI 51.62 2012 H.S.C 
+Dnyanasadhana 
+College of Arts, Science & Commerce Thane (West) MAHARASHTRA 57.00 2009 S.S.C 
+Maharashtra 
+Vidyalaya, veer sawarkar road, thane 
+(West) MAHARASHTRA 74.92 2007 Technical Skill Set: 
+Skills: 
+C, C++, PHP5, MySQL, JavaScript, HTML5, CSS3, JSON, jquery 
+PHP Framework: Yii 
+Ecommerce Platform: Open Cart, Magento 
+CMS: 
+WordPress 
+Payment Gateways: PayPal 
+Operating Systems: Ubuntu, Windows XP, Windows 7, Windows 8, Windows 10 
+Databases: MS-ACCESS, MySQL, ORACLE 11g 
+Work Experience: 
+Infoz Software Solutions - Powai, Mumbai. (Internship) 
+Designation: PHP Developer 
+(6 Months Jan-June 2015) Infoz Software Solutions - Powai, Mumbai. 
+Designation: PHP Developer (from 2nd July 2015 to 24th Oct 2016) Task: Working on Web Development, Front End, Back End and Project Management to capture requirements for the functional elements of website projects. 
+Also responsible for liaising with clients and ensuring that all work carried out complies with standards and guidelines. 
+Role & Contribution: 
+Building PHP websites using PHP based frameworks. 
+Development of reusable code. 
+Development and implementation of Core functionality and support tools. 
+Understand the business and functional requirements. 
+Testing and validating work produced as part of the development Integration 
+Testing & debugging. 
+Developing advanced database driven websites & systems including Ecommerce 
+Back end development and maintenance of websites using PHP and MySQL. 
+Riverbridge Ventures - Worli, Mumbai. 
+Designation: PHP Developer (from 7th Nov 2016 to 31st March 2017) 
+Task: Working on Web Development, Front End, Back End Development. 
+Projects worked on: 
+Project 1: 
+Title: Gas Booking Management System (Internship Project) 
+Team Size: 2 
+Technology: PHP, HTML5, CSS, MYSQL 
+Description : 
+The project has been designed in order to provide a working overview of the Gas 
+Agency Booking System, through which transactions like customer gas booking, adding stock and customer account management can be made possible. All other online websites are centralized but our software will be used for a particular office. 
+Project 2: 
+Title: Global Cancer Mission 
+(WordPress CMS) 
+Team Size: 1 
+Technology: PHP, MYSQL 
+Description: 
+Objectives: CANCER & AIDS FREE BHARAT & THE WORLD . And to achieve this, make National Launch of Worldwide Peoples 
+Movement titled - CANCER MUST GO& VANISH AIDS - Because Both Are Curable. 
+Project 3: 
+Title: C4Chocolates (Magento E-commerce) 
+Team Size: 1 
+Technology: PHP, MYSQL 
+Description: 
+C4Chocolates is a handmade chocolates website which has created using Magneto. 
+Project 4: 
+Title: Platinum Spaces (WordPress CMS) 
+Team Size : 1 
+Technology: PHP, MYSQL 
+Description: 
+Platinum Spaces are a specialist property sales and Marketing Advisory with Project management services which has created using WordPress. 
+Project 5: 
+Title: Speak Well - Skills Academy (WordPress CMS + Customized + Job portal) 
+Backend: YII Framework 
+Team Size: 1 
+Technology: PHP, MYSQL 
+Description: 
+Speak well is one of India s largest Skill Training companies engaged in development of skills of the youth of the country. 
+Speak well is the leading brand of English language training in Mumbai and several cities in Western India. 
+Project 6: 
+Title: BalirajaTractor (Magento E-commerce) 
+Team Size: 1 
+Technology: PHP, MYSQL 
+Description: 
+BalirajaTractor is an Ecommerce website for buying or selling old tractor which has created using magento. 
+Project 7: 
+Title: SublimationPhoneCase (Magento E-commerce) 
+Team Size: 1 
+Technology: PHP, MYSQL 
+Description: 
+SublimationPhoneCase is a division of ZANEETA INDUSTRIAL LIMITED. Currently they are one of the largest manufacturers & suppliers of sublimation printable phone cases in the world. 
+Project 8: 
+Title: GlobalOcean - Job Portal 
+Backend: YII Framework 
+Team Size: 1 
+Technology: PHP, MYSQL 
+Description: 
+GLOBAL OCEAN which covers all aspect in manpower assistance globally and all across the oceans. In response to the growing need for qualified human resources, GLOBAL OCEAN with its expertise helps companies to facilitate any manpower requirements for their current or future projects. 
+GLOBAL OCEAN (GO) is one of the leading manpower consultant based in Mumbai, with offices all over INDIA, NEPAL, PHILIPPINES and THAILAND. Duly recognize by the respective Ministry of Labor. 
+Project 9: 
+Title : Metrika 
+Backend : YII Framework 
+Team Size : 1 
+Technology: PHP, MYSQL 
+Description: 
+METRIKA opens doors of untapped possibilities of leading international brands from all over the world. They offer a wide price range starting from functional, value for money kitchens to high end international kitchen brands. 
+Project 10: 
+Title: TouchDeal (Magento E-commerce) 
+Team Size: 1 
+Technology: PHP, MYSQL 
+Description: 
+Touchdeal is an Ecommerce website for buying products which has created using magento. 
+Project 11: 
+Title: PlanetEducate 
+Technology: PHP, MYSQL 
+Description: 
+Planet educate is a marketplace for all educational products and services making it a 'one stop shop' for all educational products and services. Planet Educate aspires to become India's largest marketplace for educational needs of Students, Parents, Teachers, Institutions, Education Businesses and Corporations. As a single destination platform for all your education needs, Planet Educate aims to enhance the reach of quality education to all parts of India. 
+Personal Information: 
+Name : 
+MONIKA A. GANPATE 
+Date of Birth 
+: 28th January, 1991 Gender 
+: 
+Female 
+Nationality : Indian 
+Native Residence : 
+Satara, Maharashtra 
+E-Mail : monikaganpate1991@gmail.com 
+Mobile No : +91 9702706170 Marital status : 
+Unmarried 
+Languages known 
+: English, Marathi and Hindi 
+Hobbies : Reading Books, listening music, Tennis. 
+Strengths : Hardworking, Deterministic, Ability to connect with people. 
+Correspondence/Permanent Address: 
+Ganesh Bhuvan Room No-408, Behind ST work shop, Hans Nagar 
+Khopat, Thane (West) 400602 
+Declaration: 
+I do hereby declare that the particulars of information and facts stated herein above are true, correct and complete to the best of my knowledge and belief. 
+Place: Thane (West) Monika A. Ganpate 

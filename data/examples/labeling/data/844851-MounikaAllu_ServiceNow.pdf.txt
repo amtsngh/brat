@@ -1,0 +1,125 @@
+ MOUNIKA ALLU 
+Email: mounica1202@gmail.com 
+Mobile: +91 9885923011 SUMMARY 
+2 years of experience in results driven ServiceNow Certified with strong development & design background on ServiceNow Platform. Software Development in areas of ServiceNow Implementation, Customization, and Development on a multi tenant platform projects. 
+Highly motivated & solution-oriented programmer with strong experience on ServiceNow Scripting 
+SKILLS SUMMARY 
+Framework : 
+ServiceNow, ITIL, ITSM 
+Programming 
+Language : Core Java, C, C++ 
+Web Technologies : HTML, CSS 
+Client Side Scripting 
+Language: Java Script 
+Operating 
+System : Windows XP/7 ServiceNow 
+Scripting : Business Rules, Notifications Scripting, Script 
+Includes, Workflow Scripting, Background Scripting, UI Actions, UI Policy, Client Scripts, Transform map scripts. 
+ServiceNow Configurations & 
+Customizations : Workflows, Notifications, SLAs, Reports, Update Sets, Cloning, Portal Designing on CMS, Home Pages, UI 
+Actions, UI Policies, Form Designing, Custom 
+Application Creation and View Designing. 
+SERVICENOW 
+FOCUS AREAS: 
+ServiceNow Catalog Management and Workflow Development. 
+Work experience on Incident, Problem and Change Management. 
+Knowledge in using Glide Scripting for creating UI Action and business rules. 
+Configuring of Import sets, Data sources and Transform maps Hands on experience on Transform scripts Hands on experience on Order Guide. 
+Hands on experience on ESS Portal. 
+Email Notification Set up. 
+Hands on Experience on inbound email actions and Events and Templates 
+Basic knowledge on CMDB and CI Relationships 
+EXPERIENCE 
+HIGHLIGHTS AbhraCloud Softwares India 
+Pvt. Ltd., Hyderabad, INDIA JUNE 2017 PRESENT 
+Project 1 : CMDB and Change Management 
+Role: ServiceNow Developer 
+Client: 
+Activision 
+Roles & Responsibilities: 
+Involved in Client Calls and Gathering the requirements from client Working as Developer for Service Catalog end to end forms development. 
+Worked on Email Templates and Events Registery 
+Created 
+Custom Applications, Workflows, UI Policies and UI Actions and Tables 
+Created 
+many Catalog forms and respective workflows and approval process. 
+Created 
+Order Guide for 
+all the catalog items. 
+Configured Emails notifications and Inbound Email actions Customizations on Change Management and defined workflows for Normal, Emergency and Standard Change Worked on CMDB and CI Relationships 
+Basic knowledge on CMDB 
+Hands on Experience on Transform map Scripts 
+Created inbound emails actions for inserting the CI s data. 
+Performed data operations using Import Sets. 
+Value Labs, Hyderabad, INDIA SEPTEMBER 2015 
+MAY 2017 
+Project 1 : Service Catalog and Order Guides for GroupO 
+Role: ServiceNow Developer 
+Client: Group O 
+Roles & Responsibilities: 
+Working as Developer for Service Catalog end to end forms development. 
+Gathering the requirements from customer in form designing. 
+Created 
+Custom Applications, Workflows, UI Policies and UI Actions and Tables. 
+Created many Catalog forms and respective workflows and approval process. 
+Created Users, Groups, Roles, Notifications, Choice Lists, Inbound Email configuration and SLA s. 
+Created Order Guide for 
+all the catalog items. 
+Knowledge on Script 
+Includes. 
+Created Pages, Navigation menus, Content blocks and I frames for Designing ESS Portal. 
+Ad-hoc 
+Reports generation and Scheduling 
+the Reports. 
+Configured Emails notifications and Inbound Email actions Customizations on Incident Management 
+Created inbound action to convert email to incidents Home Page customization based on Roles with Dashboards. 
+Performed data operations using Import Sets. 
+Project 2 : Service Catalog, UI Policies & Workflows 
+Role: ServiceNow Developer 
+Client: Ascender 
+Roles & Responsibilities: 
+Worked as service catalog end to end developer. 
+Configured Service Request, Incident and Problem as per customer requirements. 
+Created User, Groups and Roles using import sets and manually. 
+Configured many emails templates notifications Performed data operations using Import Sets. 
+Created 
+Custom Applications, Workflows, UI Policies, 
+I Actions and Tables. 
+Involved in writing 
+BR s, Client scripts and Catalog Client Scripts. 
+Customized Incident, Problem and Change Management as for ITIL best practices. 
+Ad-hoc 
+Reports generation and Scheduling 
+the Reports. 
+Did migration activities with the help of Update Sets. 
+Home Page customization based on Roles with Dashboards. 
+Project 3 : Value labs 
+Blue Print Design and Implementation 
+Role: ServiceNow Developer 
+Client: 
+Value Labs Roles and Responsibilities: 
+Involved in requirement gathering and freezing of client requirements 
+Majorly involved in designing of Blue Print to provision customer to Onboard on ServiceNow with ITIL process flows 
+Designed the forms for IM, CM, and PM with field validations. 
+Defined service requests for 
+the clients Enabled the Time worked field to capture the efforts. 
+Configured SLA's and notifications Created inbound action to convert email to incidents Worked on CLIENT SIDE SCRIPTING(Client Scripts, Catalog Client Scripts, UI scripts and UI Policies) Designed the process and procedural documents for IM, PM and CM 
+Configuring reports and schedule reports 
+Project 4 : 
+Benefit Focus Service Desk 
+Role: ServiceNow Administrator 
+Client: Benefit Focus 
+Roles & Responsibilities: 
+Worked as ServiceNow Administer for Service Request, Incident, Problem and Change Applications. 
+Created User, Group, Roles. 
+Inbound and Outbound emails configuration. 
+Loaded many data loads using Import Sets. 
+Created or updated existing UI policies, Server and Client side Scripts. 
+Created many UI policies and Catalog UI policies. 
+Involved in Writing Business Rules, Client scripts. 
+Form 
+Designing of Incident, Problem and Change Applications. 
+CERTIFICATIONS 
+Certified ServiceNow Admin. 
+EDUCATION 
+Bachelor of Technology from Vasireddy Venkatadri institute of Technology Guntur on Information Technology with 75%. 

@@ -1,0 +1,60 @@
+ Dhananjaya 
+Seeking opportunities in Image Processing 
+PROFILE SUMMARY 
+- 1 year of academic research experience in Content Based Image Retrieval, - Good programming skills in MATLAB, C, OpenCV - 
+2 months of internship at BSNL in Visakhapatnam, - Hardworking, positive attitude and flexible and staying auto motivated, Research interests 
+Content Based Image Retrieval, Image Forgery Detection 
+Project planning and Management 
+CORE COMPETENCIES 
+- I referred different types of Content Based Image Retrieval technique which are already existed within less span of time. 
+- Algorithm challenge on color feature extraction by Global 
+Correlation Vector (GCV) technique and shape feature extraction by Zernike Moments technique combination. 
+- Successfully completed project on Content Based Image 
+Retrieval using Global Correlation Vector and Zernike 
+Moments, with a publication in Indian Journal of Science and Technology. 
+- In my project time I done another project which is Image 
+Forgery Detection. 
+EDUCATION 
+2014 2016 
+M Tech in Digital Electronics and Communication Systems 
+GMR Institute of Technology (Autonomous), Rajam. 
+Percentage 75.5 2008 2012 
+B Tech in Electronics and Communication Engineering 
+Sri Prakash College of Engineering (JNTUK), Tuni. 
+Percentage 64.02 RELEVANT SKILLS 
+Programming Languages C, C++ 
+Scripting MATLAB, MATLAB Guide IDE 
+Microsoft Visual Studio, Xilinx. Documentation 
+Microsoft word 
+OS 
+Windows 
+EXPEREINCE 
+January 2016 August 2016 
+Research academic project at GMR Institute of Technology Project: CONTENT BASED IMAGE RETRIEVAL (CBIR) USING GLOBAL CORRELATION VECTOR AND ZERNIKE MOMENTS. 
+Contributions - Understand the basic model of CBIR. 
+- Topics explored: Color histogram and Structure Element 
+Correlation (SEC) for color feature extraction, HSV color space, Quantization, Zernike Moments for shape feature extraction with order and repetition values, Distance calculation between features of images, L1 distance, Euclidean distance, statistics distance, Canberra distance, Weighted L1 distance, Corel gallery dataset 1k, Precision and Recall. 
+- Corel gallery dataset is used for image retrieval in CBIR. - Performance of techniques used is checked by Precision and Recall. - Analysis the performance of technique with other existing methods. - Improvement in performance of algorithm in different in categories of images for comparison to other existing methods. 
+November 2015-January 2016 
+Project at GMR Institute of Technology, Rajam. 
+Project: IMAGE FORGERY DETECTION. 
+Contributions 
+- Understand different marpings are there, those are Copy-Move attack, image splicing, image retouching (enhance some features). 
+- Analysis the copy-move forgery images using block based approach by the technique Discrete Wavelet Transform (DWT). 
+- Understand the need of convert the image to overlapping blocks and compute the feature vector for every block. 
+- Improvement in performance of algorithm in comparison to the other existing algorithms. 
+Publications 
+Publications 
+IJST (2016) 
+Content Based Image Retrieval (CBIR) using Global Correlation Vector (GCV) and Zernike Moments. 
+Activities and Achievements - Presented a paper on 
+Content Based Image Retrieval using Global Correlation Vector and Zernike Moments in the 2nd International conference on Aerospace Electronics, Communications and Instrumentation (ASECI-2016). - Participated in Research Tools in Electronics and Communication Engineering , JNTUK. - Participated in many skirts and programs in our college. - Participated in many events occurred in my graduation and post graduation college. 
+Hobbies 
+Badminton, Running, Reading articles, Reading magazines, Reading inspirational novels, participating in innovative events. 
+PERSONAL DETAILS 
+Date of birth : june 11, 1991 
+Nationality : 
+Indian 
+Languages Known : English, Telugu 
+Contact number : 7569339300 
+Email : dhananjayap33@gmail.com 

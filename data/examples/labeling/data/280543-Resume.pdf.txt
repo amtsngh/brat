@@ -1,0 +1,66 @@
+ OJAL SETHI 
+Third Year B.Tech Student 
+Electronics and Communication Engineering 
+National Institute of Technology, Bhopal +91
+7354403085 ojalsethi30@gmail.com Academic Details 
+Year Degree Institute Percentage/GPA 2014- Present BTech in Electronics and Communications Engineering 
+National Institute of Technology, Bhopal 
+CGPA=8.3/10 
+2013 Class XII 
+CBSE -AISSCE 
+St. Joseph s Convent School, Sadar, Jabalpur 92.2% 95% in Mathematics 2011 Class X 
+CBSE-AISCE 
+St. Joseph s Convent School, Sadar, Jabalpur 
+CGPA 10 
+Relevant Coursework: Computer Networks, TCP/IP, Digital Image Processing, Matlab, Digital Logic, Digital and Analog 
+Communications, Signal and System Analysis, Analog Integrated Circuit Design, Fiber and Integrated Optics, VLSI Design, Microprocessor and Microcontroller, Telecommunications, Fuzzy logic, ASIC Design, Mathematics 
+Objective 
+To be chosen to deliver in hardworking, challenging and enriching projects and enhance skills that could lead to self as well as organizational development along with exposure to varied industries to understand the scope of these skill sets. 
+Professional Experience Research Intern at IIT Bombay,India Prof. Maryam Shojaei, EEE, IITB Summer 2016 
+Mr. Shreyans Gandhi, PhD, EEE , IITB 
+Worked on the Algorithm for Biomedical Application in Medical Acquisition System, Health ATM that is capable of conducting all the body tests. Specifically worked on Wired and Wireless version of Spirometer, a device that calculates the lung parameters, compares it against the standard and generate reports. Thus checks for any lung related disease. 
+Wired version was made using MS4525 sensor and Arduino, and the wireless using the CC2541 and IAR Workbench, with data processing done on Matlab. 
+The Health ATM is a product of YoloHealth India Pvt. Ltd. 
+The Indian Economist | Content Strategy and Marketing Internship 
+December 2016 
+January 2017 
+The Indian Economist is the digital magazine that publishes on different genres, by hosting authors from all over the world and inviting them only on the platform, to maintain equality. The task included figuring out right authors based on their credentials, and also preparing thesis on content and volume publishing benchmarks. 
+Projects 
+Border alert system for fisherman using GPS and GPRS 
+Prof. O.P. Meena 
+January 2017- Present ECE , NIT Bhopal 
+This system is an implication of security system for safe navigation of mariner s auto boat which describes about a system which helps the fishermen by notifying the country s nautical borders and international boundaries. Global 
+Positioning System (GPS) and Global system for mobile communication (GSM) are used for this purpose. 
+Checkers Game 
+August 2016-September 2016 Developed the popular board game checkers and implemented graphics using C++. Devised and implemented a layered artificial intelligence strategy with minimax algorithm (with different modes of difficulty) for one-player mode. 
+Water Equalizer 
+April 2015 May 2015 
+Built a physical equalizer to visualize input music using a linear array of dancing water jets. Used Fast Fourier Transform (FFT) algorithm on Processing software to analyze the audio input. Controlled the height of each water jet by using an Arduino board through Pulse Wave Modulation. 
+Autonomous Line Tracer Bot and Manual Bot 
+September 2014-October 2014 
+Line Tracer Autonomous Bot using Arduino Platform. The line follower is an autonomous robot that detects and follows a line, a black line on a white surface or may be reverse or invisible like a magnetic field. A close loop control system is used in the robot. The robot must sense a line and maneuvers accordingly to stay on course while correcting the wrong moves using feedback mechanism thus forming a simple but yet effective closed loop System. The robot is designed to follow very tight curves as the data from the sensors are continuous in nature. 
+Temperature and Humidity Detector using Arduino and DHT11, LM35 sensor 
+November 2014-December 2014 Temperature and Humidity Detector using Arduino and DHT11 sensor which have diverse Applications in food processing , HVAC environmental control ,medical and Automobiles etc. 
+Knowledge Purview 
+Energia IDE and software framework for MSP430. 
+Arduino platform. 
+Matlab 
+Bluetooth and IAR Workbench. 
+Well versed with the Concepts of Microcontrollers, Communication Systems, and Modulating techniques. 
+Proficient in Programming languages like C and C++ Algorithms and Data structures Microsoft Excel 
+Basic SQL 
+Basic Web Development, HTML, CSS, Javascript. 
+Position of Responsibilities 
+Student s Jt. Secretary and member in Indian Society for Technical Education (ISTE) Students Chapter, NIT-Bhopal, India 
+Responsibilities include co-ordination and content contribution during technical festival of college and in Chimera, annual national level fest organized by the chapter. 
+Literary Head, Intellect Browsers 
+Consortium (IBC), the Literary cum Management society of NIT- 
+Bhopal, India 
+Actively participated and led IBC team with the vision of augmenting literary and management skills of students and helping them improve their communication as well as time management skills. Work in the team that organize and manage weekly events that served the purpose. 
+Interests and Skills 
+Extracurricular: Reading, writing, trained in sports like swimming, badminton and basketball. 
+Interpersonal Skills: 
+Self-confident, punctual vivid reader 
+Hard working and determined. 
+Keen and quick learner. 
+Ability to handle stressful situation peacefully 

@@ -1,0 +1,42 @@
+DIVYA CHANDANA 
+Email: 
+divya.chandana@gmail.com Mobile no: +91 9030266165 
+Work Experience: 
+FINDAY INFORMATION TECHNOLOGIES Role: Software Engineer 1 year Professional experience in software developing, maintaining and supporting financial business system solutions. 
+Projects: 
+Cruscott 
+Provides simplified solutions to corporate financial systems by providing user friendly data analytics and real-time sales invoice, forecasting, quotes, procurement, credit notes management.BI reports integration with ERP systems. 
+Technologies used: 
+Angular JS, Python, HTML, SASS ADROITENT ITES PVT LTD Role: Software Engineer 1 year Professional experience in software development and maintenance with good knowledge in Health care domain and proven track record of good analyzing to troubleshoot issues efficiently Projects: 
+Clasp TV 
+Accelerates growth of streaming video to Connected TV s by converting short form of mobile viewership to long big screen viewership, ease of universal video discovery, navigation and consistent playback control on all connected TV s 
+Technologies used: JavaScript Ovid Today (Wolters Kluwer ) online-offline app, Lets fellows, members, Trainees, Associates, Affiliates from a hospital to read journals from work and track user activities 
+Technologies used: Cordova, JavaScript, HTML, CSS, Jquery, Omniture 
+Academic Projects: 
+Movie Rental Store Duration 1 MONTH 
+Developed an application used to store customer and movie details and their rentals 
+Technologies used: 
+Ruby on Rails 
+E-Book Reader Duration 1 MONTH 
+An e-book reader that enables users to have a one clock access to all the pages in the e-book such as navigating, highlighting the text 
+Technologies used: Java, Swings 
+Snakes and Ladders Duration 1 MONTH 
+It is interactive online web application where players can play with their opponents. 
+Technologies used: JAVA, HTML, CSS, JSP, JavaScript, Servlets, MYSQL 
+Performance Tracking Tool Duration 1 MONTH 
+This is a web application which allows a student to create a note book with features like adding Notes, Lessons, Deliverables and plan of actions. At any point of time student is allowed to download the created note book. Logs are maintained to monitor student s progress 
+Technologies used: JAVA, HTML, CSS, JSP, JavaScript, Servlets, MYSQL 
+Data Visualization (Group) Duration 2 MONTHS Extracting data from csv files and making the data into interactive graphical format known as Dashboards. 
+Technologies used: Python 
+Educational Profile: 
+Qualification Institution Name Year attended % marks obtained 
+MS in Information 
+Technology 
+International Institute Of Information Technology 
+Hyderabad 2012 2014 
+80 Bachelor Technology 
+(Computer Science) 
+NRI Institute Of Technology 2008 2012 70 
+Intermediate (MPC) 
+Sri Chaitanya Junior College 2006 2008 93 
+SSC Bhashyam Public School 2005 2006 90 

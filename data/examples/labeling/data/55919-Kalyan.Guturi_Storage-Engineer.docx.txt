@@ -1,0 +1,83 @@
+ Kalyan Chakravarthy Guturi Storage Administrator 
+EMAIL: kallu_chakri@yahoo.com PHONE: +91-95024-96786 
+Trained and Certified as EMC Proven Professional Associate 
+SNIA Certified Storage Professional 
+Educate, train, and mentor project team associates in SAN and Implementation Delivery 
+Hands-on experience in designing, implementing, and managing EMCs (CLARiiON/VNX/SYMMETRIX), and NetApp FAS Storage systems Extensive in-depth expertise of experience with implementing Enterprise storage solutions and EMC PPME migration solutions Experience with pre-sales proof-of-concept (POC) demonstrations Hands on training and experience in implementing EMC VNX, Symmetrix, NetApp and HDS in Enterprise environment Hands on training and experience in performing CLARiiON and VNX analysis to build performance-based solution recommendations incorporating optimal cache ratios, and LUN layout 
+Experience with configuring Cisco, McData, and Brocade Enterprise SAN switches 
+SKILLS 
+Certifications and Awards 
+EMC E20- 001 ( EMCISA) - Information Storage and Management EMC E20- 050 Technology Foundations CLARiiON 
+EMC E20- 331 - Symmetrix Business Continuity Implementation 
+EMC E20- 340 - EMC E20- 340 
+SNIA Certified Storage Professional Technical Skills 
+Systems Microsoft Windows, MS-DOS, UNIX, Linux 
+Storage Platform Hardware EMC VNX (File/Block) series, SYMMETRIX CLARiiON CX/CX3/CX4 series, Netapp, HDS, HP EVA, HP XP 
+Storage Platform Software Unisphere Manager and Management tools (File/Block), Navisphere Manager (CLARiiON), NAVICLI, Control Center (ECC), SYMCLI, Symmetrix Management Console (SMC), Power Path, Storage Navigator 
+Business Continuity Software SRDF and TimeFinder Solutions for SYMMETRIX Platform, Snapview, Mirrorview, SanCopy for CLARiiON Platform, Ture Copy, HUR, Shadow Copy 
+SAN Switches EMCs 
+Connectrix DS/MDS-series Dept. Switches and ED/MDS-series Directors (Brocade, McData, and Cisco Enterprise Director Switches) 
+CRM Applications REMEDY, HP OVSD, HP OVSC, ITSM 7 Desktop Publishing Microsoft Publisher, Microsoft Word, Visio, PowerPoint, Adobe Acrobat 
+Non-technical/Soft Skills 
+Technical Writing and Documentation, Strong Problem Solving and Presentation Skills, Communication and Phone Sales/Marketing, End-User Training 
+EDUCATION 
+Osmania University 
+Hyderabad 
+B.Com Computers 
+Degree Completed: March 2004 EXPERIENCE 
+Polarisft Hyderabad, Andhra Pradesh 
+Storage Engineering and Implementation Delivery 02-07-2012 - Present 
+Role: Work as part of the Delivery team to architect, configure, and implement solutions including EMCs Unified Storage Platform, NetApp Storage and data migrations for Enterprise customers. 
+Develop architecture for implementation of large-scale complex SAN migrations, including multi-protocol and tiered data, data center migrations including EMC-to-EMC and Netapp-to-EMC NAS and Unified storage platforms Being trusted advisor to the customer and account team Project planning for tasks of moderate to high complexity Requirements analysis and gathering technical details regarding a customers environment Communicate the overall account plan, and deliver regular service delivery results to the account's appropriate executive and management levels. 
+Perform installation and configuration of NAS software on Unified Storage (VNX/VNXe) and Celerra NS/NSX series platforms Architect and implement NAS solutions with SAN attached storage (CLARiiON, SYMMETRIX) or with integrated/captive CLARiiON/VNX back-end storage array Develop and Implement multi-tier NAS replication and DLm Replication across multiple data centers across geography Integration of EMC NAS with Active Directory, NIS, and LDAP for authentication and access permission during new implementation and migration for NAS data Configure zoning using vendor-specific tools (Fabric Mgr./Connectrix Mgr./Webtools/CLI tools) for SAN connectivity Perform administration tasks such setting up servers, CIFS/NFS shares on NAS device, extending file systems, and implementing business continuity solutions such as Snapsure 
+Allocate storage and configure host connectivity using Unisphere Manager/Navisphere Manager/NAVICLI tools for the CLARiiON/VNX (block) arrays Insure support delivery meets all of the committed support services levels to maximize Total Customer Experience 
+Perform storage administration tasks using Unisphere Manager/Navisphere Manager to monitor CLARiiON/VNX (block) storage array, perform storage allocation tasks, configure Snapview Snapshots/Clones, etc. 
+Provide hands-on training and custom documentation to customer as part of the knowledge transfer during project delivery Provide high-level of customer service while meeting the project delivery expectations 
+Unisys Global Service - India, Inc. Hyderabad, India 
+System Analyst 4/2010 4/2012 
+Role: Work as part of the Delivery team to Administrate, configure, and implement SAN/ Storage tasks. 
+Centre of expertise on storage management products and tools installed in storage environment Fully understand and support all storage administration and management policies and procedures Implement approved tested, regression planned changes to the storage infrastructure within agreed outage periods Monitor storage environment and suggest timely recommendations to prevent storage related operational problems Maintaining and updating the service delivery plans, Understanding functional/ business requirements from customers through actual interface with them. 
+Establish reporting, escalation, and resolution process, Manage solution implementation. Manage ongoing operations and support. 
+Participate in internal and external quality initiatives. Drive escalations or get involved upon request from Quality Managers or Delivery Managers. 
+Build strong cooperation throughout the overall delivery channel. From Incident, Problem, configuration & Change Management teams. 
+Prepare review reports and participate in service delivery review with Service Excellence Team and 
+Delivery Manager 
+Participate in Service Improvement plans and other quality initiatives to enhance customer satisfaction. 
+HEWLETT PACKARD 
+Bangalore, India 
+Team Leader - SAN 9/2007 4/2010 
+Role: 
+Lean storage L2 Team. Provide a remote on-site technical support, perform and track incidents, service calls for break-fix and maintenance of SAN environment Work on issues related to hardware and software of EMC and NetApp products Storage Efficiency Optimization activities such as upgrades, performance tuning, and system audit tasks Technical lead for the delivery team (Engineers/Administrators) throughout the engagement Interpreting enterprise class assessments (objectives, data collection, analysis, reporting against objectives) lead technical role in the Midrange and Midrange Storage Operations Transformation projects team Integration of NetApp solutions into the customers IT Service Management (ITSM) data center services Advising on best practices for improving operational processes within the IT Service Management (ITSM) Framework 
+Monitoring and fixing storage related issues Work on maintaining health of EMC, NetApp Arrays and Cisco fabric. 
+Patni Computer Systems Limited 
+Mumbai, India 
+System Engineer (Storage Engineer) 
+1/2007 9/2007 
+Role: Provide remote technical support for EMC Customers using WebEx Supporting CX600 and CX700 storage arrays. Responsible for troubleshooting and resolving EMC CLARiiON issues Remotely dial in into EMC Storage Arrays to resolve issues, maintenance and monitoring. 
+Collects logs and review them to check for issues on the array. 
+Provide support to EMC Customer Engineers on the site during installation and various maintenance activities. 
+Troubleshoot DU/DL situation on the Storage array within stipulated SLAs. This involves critical storage hardware, software and fabric Switch issues in EMC SAN environment. 
+Reviewed and prepared shift turn-over reports to track and prioritize chronic issues 
+Satyam (BPO) Hyderabad, India 
+System Engineer (Storage Engineer) 
+2/2005 
+1/2007 
+Role: Provide technical assistance L1 ISP support team 
+Provide Tier 2 technical support for customer calls from all ISP issues. 
+Work closely with internal engineers and technicians to ensure customer resolution and satisfaction. 
+Communicate plan, progress, and issues in a timely manner Verify with the customer that the issue has been resolved and update the ticketing system Able to upsell existing customers to upgraded packages. 
+HEWLETT PACKARD Bangalore, India 
+Technical Support Engineer 
+1/2004 2/2005 
+Role: Provide technical support for corporate customers for High-End printers. 
+L1 support for HP All-In-One Printers. (HP commercials) 
+Support US based customers for issues relating to High-End Printers, and other Consumer related Computer Issues. 
+Maintaining a high success rate of Problem Resolution and client satisfaction throughout the tenure. 
+Personal Details: 
+Name : Kalyan Chakravarthy Guturi 
+Qualification : B.com Computers, PGDCA 
+Date of Birth : 17-07-1980 
+Nationality : Indian. Languages Known : English Hindi and Telugu 
+Email : kallu_chakri@yahoo.com 
+Phone : +91-95024-96786 NTAC:2SE-18 
+3 Kalyan Chakravarthy Guturi Storage Solutions Architect and Implementation deliveryNTAC:2SE-18 

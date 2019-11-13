@@ -1,0 +1,47 @@
+ANKUR 
+OMAR 
+University : Birla Institute of Technology and Science-Pilani, Goa Course : B.E. (Hons.),Electronics and Instrumentation Email : f2012296@goa.bits-pilani.ac.in 
+Mobile : 8149141050 ACADEMIC DETAILS 
+COURSE SPECIALIZATION INSTITUTE/COLLEGE BOARD/UNIVERSITY % CGPA YEAR B.E.(Hons.) Electronics and Instrumentation 
+BITS Pilani - Goa BITS Pilani 6.6 2016 
+XII Science Kendriya Vidyalaya, Unnao CBSE 90.4 2012 
+X General Kendriya Vidyalaya, Unnao 
+CBSE 86.6 2010 
+ELECTIVES/TECHNICAL PROFICIENCY Electives 
+Computational Physics, Data Communication And Networks, Telecom Switching Systems And Networks, Wind Electrical System, Embedded System Design Technical Proficiency Simulink, C, Python, MATLAB, Verilog, Cadence Virtuoso SUMMER INTERNSHIP/WORK EXPERIENCE Hourglass Research Private Limited, Mumbai 
+June 2016 - Present Providing Intellectual Property (IP) end-to-end solutions majorly in the field of Semiconductors, telecommunications and electronics Helping organizations around the world secure, manage and monetize their IP assets. 
+Cadence Design Systems, Bangalore Jul 2015 - Dec 2015 Project 1 :Developed Simulink model of Integer-N and Fractional-N PLL for the analog design team to estimate reference spur. 
+Simulink model of Phase Locked Loops (PLL) reduced the simulation time by more than 10X within fair range of accuracy. 
+Project 2 : Tested yet to be introduced Perturbation Projection Vector analysis for its applicability in semiconductor industry for jitter estimation. 
+Jitter estimation from PPV were in close agreement with the existing procedure of transient analysis. Reduced simulation time by more than 25X. Bhilai Steel Plant 
+May 2014 - Jul 2014 Worked on the applications of Programmable Logic Controllers at power plant 2 of Bhilai Steel Plant. 
+Studied the implementation of variable frequency drive at power plant 2. 
+PROJECTS Dynamic resource allocation for media streaming applications in the cloud 
+Aug 2015 - Nov 2015 Developed a virtual resource allocation model for media streaming applications according to media traffic trends using cloud storage. 
+Cost minimization for the media vendor done by analysing user development rate from time to time. 
+Extending Game Theory for Open source mathematical software system SageMath Apr 2015 - Aug 2015 
+Developed python scripts for zero sum games (Fair cake cutting, Kuhn Poker etc.) for game theory repository of sagemath. 
+PROJECTS 
+Extending Game Theory for Open source mathematical software system SageMath Apr 2015 - Aug 2015 
+Developed python scripts for zero sum games (Fair cake cutting, Kuhn Poker etc.) for game theory repository of sagemath. 
+Developing Lab-on-chip system for blood analysis using COMSOL Jan 2016 - May 2016 Developed 2-D and 3-D models of lab-on-chip system for blood sampling. 
+System takes into account fluidic properties of the blood to detect abnormalities and potential health problems. 
+Home Automation System Using ARM LPC-2378 
+Jan 2016 May 2016 Developed an embedded system which provides user control (developed an android app) via Bluetooth communication and through manual keypad, monitoring of the home (burglar using IR sensors, fire and smoke using gas sensor). 
+Developed an android app to send instructions to the embedded system through bluetooth via UART. 
+System updates the count of people in the house, can open and close the gates if authentic entry using IR sensors, open and close the lights/AC/Gates using android app, detect fire and gas using Gas sensor and in case of burglar entry or fire can inform Police or fire department respectively using GSM module. 
+Scheduling Algorithms of various Real-Time Operating Systems 
+Jan 2016 - May 2016 Studied Various Real-Time scheduling algorithms for uni/multiprocessor systems. 
+Analyzed their applications in some popular RTOS including VxWorks, Mu-COS and Linux RTOS. 
+PUBLICATION DETAILS 
+Improving Data Extraction Efficiency of Cache Nodes in Cognitive Radio Networks Using Big Data Analsyis Jun 2015 Published Journal, IEEE Computer Society :NGMAST 2015, Emmanuel College, Cambridge University, Cambridge, UK Short Description, Distinguishing possible information sharing scenarios in cognitive radio network systems and possible Big Data 
+Solutions for efficient data extraction. 
+Cache Node Determination, Allocation and Distribution in Cognitive Radio Networks Using Game Theory 
+Nov 2014 Published Journal, IEEE Computer Society :Engineers Australia Convention 2014, ATNAC 2014, Melbourne, Australia Short Description, Game theoretic approach for smart distribution and allocation of cache nodes for unlicensed users in cognitive radio networks. 
+ACHIEVEMENTS AND AWARDS ATNAC Student Travel Grant (600 AUD ~ Rs. 30000/-) 
+BITSAA Research Scholarship Award, BITSAA International Travel Grant (Rs.25000/-), BITSAA Paper Publication Assistance (Rs.5000/-) 
+NGMAST Student Financial Assistance (150 GBP ~ Rs.15000/-) BITS Merit-Cum Need Scholarship (40% off on tution fees) EXTRA CURRICULAR ACTIVITIES Waves 2014 Coordinator Department of Arts and Decoration 
+Project Lead - Teach Zari (Nirmaan Organisation) 
+1.Charcoal Sketch for Prof. Walter Lewin MIT, USA on behalf of our campus 
+2.Painting for display in campus visitors guest house. 
+BITS Pilani Student Representative - IVEY Social Entrepreneurial Immersion 2013 (IVEY Business School, Canada) Piano Keyboard Audit Course (3 Semesters till level 3) 

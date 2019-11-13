@@ -1,0 +1,71 @@
+Naga Venkatesh Gavini 
+Email-id : nagavenkat9948@gmail.com 
+Phone : 9542310613 
+Career Objective : 
+Seeking a position with an organization where I can contribute my analytical and technical skills for organization s success and synchronize with new technology while being resourceful and innovative. 
+Technical Skills : 
+Programming : C and Java, JavaScript 
+Subjects : Data Structures 
+Technologies : Android App Development 
+Tools Used : NetBeans, Visual Studio 
+Academic Profile : Course 
+College 
+Board/University 
+Year of Passing 
+Percentage 
+B.Tech(I.T) 
+Bapatla Engineering 
+College, Bapatla 
+Acharya Nagarjuna 
+University 2017 
+74.7 
+Intermediate 
+Sri Chaitanya Junior 
+College, Guntur 
+Board of Intermediate 
+Education, AP 
+2013 
+93.6 
+SSC 
+The Central Public 
+School, Ponnur 
+Board of Secondary 
+Education, AP 
+2011 
+87 
+Academic Achievements : 
+Got M.V.A Certificate from Microsoft in Networking Fundamentals. 
+Achieved First Prize in Software Contest held at Bapatla Engineering College. 
+Achieved First Prize in Technical Quiz during Engineers Day. 
+Achieved First Prize in Debugging Contest held at N.V.R Engineering College, Tenali. 
+Extra Curricular Activities : 
+Conducted a workshop 
+Computer Mania 
+During College Fest BECTAGON 2K16 Attended a workshop on Android application development at Bapatla Engineering College. 
+Played a Key role in Knowledge Sharing Club in our department named as ELICIT. 
+Place : Date : 
+Naga Venkatesh.G 
+Project Details : 
+B.Tech Project : 
+Tittle : Employee Tracking Android Application For Field Workers. 
+Tool : Android Studio Description : The Project is mainly about location and image based tracking system and it is implemented as an Android application reducing the need of additional Biometric devices. Location can be tracked by using GPS. 
+HR/admin can be provided with Web application, where as Employee can be provided with Android application, through web app employee can tracked by the HR/Admin. 
+Team Size: 3 
+Known Technologies : Cyber Security 
+Android Application Development 
+Personal Strenghts : 
+Self Motivated 
+Quick Learner 
+Team Player 
+Hobbies : 
+Interacting with people Blogging 
+Writing Codes at Hackerrank Website 
+Personal Profile : 
+Father s name : Srinivasa Rao Gavini 
+Date of Birth 
+: 21/07/1995 
+Gender : Male 
+Marital Status : Unmarried 
+Address : Nethaji Nagar, D.no:14-06-18, Pin: 522124. 
+Declaration : 
+I hereby declare that all the above informatio is correct and true to the best of my knowledge. 

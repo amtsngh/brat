@@ -1,0 +1,98 @@
+Aarti Sharma 
+Swami Vivekananda Gate 
+Saraswati Vihar 
+MG Road Gurugram-122001 
+Mobile: (+91)-7895324618 E-mail: asaartisharma2@gmail.com 
+Objective 
+To seek a position where my qualities of a quick learner and the ability to take on new challenges can be used towards significant growth of the organization. 
+Profile Summary A Technocrat professional with 1 year of experience in IT and Telecom sector: 
+- Data Management - Report Analyst - IT Operations. 
+- Troubleshooting. 
+- Business Analysis. 
+- Business Development - Online Support - Client Coordination. 
+Professional Summary Work Experience:- 
+Worked with BlacknGreen Mobile Solutions from Oct 2015 till Oct 2016 in Manual Testing, Implementation, Operation and Maintenance as Engineer : 
+Operations 
+Understanding end to end application flow, associated systems, and contacts. 
+Experienced in authoring Test Cases, Regression Testing. 
+Good hold on test case authoring, functional and regression testing, testing techniques and methodology, bug tracking tool. 
+In-depth knowledge of analyzing the requirements, preparing and executing test cases, building test cases with test data, executing and evaluating tests Good knowledge of System Development Life Cycle (SDLC), System Testing Life 
+Cycle (STLC) Test planning, Defect Report and testing methodologies. 
+Good experience of Test Management tool SCP, EGL. 
+Ensuring the successful delivery of a solution according to Business requirements On Time, within Budget and to the appropriate Quality Bar. 
+Communicating effectively with onshore team members, Business Teams and client. 
+ORGANIZATION 
+- Black N Green Mobile Solutions Private Ltd. 
+Designation - Engineer - Business and Technical Operations. Duration 
+- Oct 2015 to Oct 2016. 
+Client - MTN. 
+Domain - TELECOM. 
+Title - Product Functional Testing. 
+Tool - SCP. 
+Synopsis - Handing various area of testing like new projects, Functional Testing, Regression, System Testing, Product Testing Sanity Testing, post production issues/ after release issues. Using SCP (System Control Program) as defect tracking tool. 
+Job Responsibilities:- 
+Functional Test Analyst, consultant, scope confirmation from Business 
+Review of Deliverables, generating daily reports on the project status, and delegating work among testers in the team. 
+Analyze the requirements, create the Test Plan, writing the Test Cases for different functionality, Execution of the Test-Scripts in Test Lab, Review of Test-Scripts. 
+Involved in Manual Testing in Telecom Domain application. 
+Interacting with Business users and clients to test according to their requirements Creating Test cases and executing the Test cases. 
+Doing Function Testing, Regression Testing, Integration Testing and System 
+Testing. 
+Preparing Bug Reports. 
+Well acquainted with Software Development Life Cycle(SDLC) and Software Test 
+Life Cycle(STLC) Doing Internal and Operator UAT of IVR, USSD, SMS , Subscription ,Billing and mobile applications 
+Overall Testing of the Products : 1. MAGIC VOICE 
+4. @Home 2. ADCOM 5. Learn English 3. RELIGIOUS (Islamic / Christianity) 
+Tools: Testing Tool SCP CCI 
+Active MQ 
+Database: 
+MYSQL 
+Qualification 
+B.Tech. (IT) Kurukshetra Institute of Technology & Management in 2015. 
+Senior Secondary Certificate (CBSE) Shivedale School, Haridwar in 2011. 
+Secondary Certificate (CBSE) Shivedale School, Haridwar in 2009. 
+Computer Skills 
+Platform 
+: C++, Python, HTML, Testing. 
+Database 
+: MySQL. 
+Operating System : Windows XP/7/8, LINUX. 
+Tool/Packages : 
+MS Office, Wireshark, TeamViewer, AMMY. 
+Industrial Training 
+1. Successfully completed 6 week summer training on PHP with Hewlett-Packard 
+Education Services, Noida. 
+2. Successfully completed 6 week summer training on LINUX with Hewlett-Packard Education Services, Noida. 
+Project Undertaken 1. Online Video Library Management System. 
+Description : Automation of video library. 
+Front-End : Servlets, HTML, Java script. 
+Back-End : Apache tomcat server, MS Access. 
+2. Windows & Linux Authentication and Centralization Login Profile. 
+Description : Establish connectivity between server & client. 
+Work-on : Linux. 
+Extra-Curricular Activities Received appreciation letter from my client (MTN GUINEA BISSAU) 
+Participated in workshop of Analytics. 
+Attended a workshop of Red Hat Linux. 
+Attended a workshop on Cyber Security. 
+Attended various seminars based Personality Development. 
+Hobbies 
+Travelling 
+Singing 
+Playing Badminton 
+Dancing 
+Strength 
+Punctual 
+Optimistic 
+Adaptable 
+Hard-Working 
+Leadership 
+Personal Details 
+Father s Name : Lt. Mr. Satya Prasad Sharma. 
+Mother s Name : Mrs. Manju Sharma. 
+Date of Birth 
+: 17th Dec 1992. 
+Language Known : English, Hindi. 
+Declaration 
+The information provided above is correct to the best of my knowledge and belief. 
+Ready to work in India and Abroad. 
+Date: Place: Aarti Sharma 

@@ -1,0 +1,40 @@
+ Email:nithinjames1991@gmail.com Contact Number 
+Res.: 04842468090Mob : +919495231780 Address for 
+CommunicationPallicka HouseMalayattoor P.O Malayattoor ErnakulamKeralaIndiaPIN-683587 
+NITHIN JAMES OBJECTIVE 
+A challenging growth oriented position, where my technical and research skills can be effectively utilised and improved eventually leading to the contribution in growth of organisation.EXPERIENCETCS INTERNSHIP Artificial intelligence LABWorked as an intern in TCS AI lab. 
+Providing solutions in Deep Learning.Worked in Predictive modeling, Image Classification, Reconciliation system and Intrusion Detection using Deep Learning. 
+Technologies used: Unix Shell Scripting, Python. 
+Familiar with python deep learning libraries such as theano and tensorflow.Hands on in CNN, RNN, LSTM networks of deep learning.Have experience in using GPUs.UBS 
+Americas wealth management 
+Advisory project-2011-2014More than 2+ years of experience. 
+Technologies used: C /C++ /Java/Perl, Python, UNIX Shell Scripting, SQL, Perl, Autosys(Tool).Extensive experience with Transaction and Performance processing with Checkfrees Global Investment Manager (GIM) system. Designed processes using the database programming (4gl), scripting and C programs to do various tasks in the system, including Account Conversion, Performance Scheduling, Sub-Accounting and Trading. 
+Scoping of enhancements. 
+Interaction with customers for the requirements and the changes to be made / needed. 
+Solving bugs, strategically providing solutions to their problems with the code enhancements.Find the root cause of the problem and fixing it.EDUCATIONAL BACKGROUNDM.Sc|2014(currently)| Indian institute of information technology and management kerala|9.6 GPACourse Title: Computer Science and Information Security.BSc |2008-2011|Naipunnya institute of management and information technology, thrissur,university of calicut |85.50%Course Title: Computer Scienceclass 12 |2006-2008|ST: thomas h.s.s malayattoor |88.33%class 10 |2006|ST: thomas h.s.s malayattoor |91.00% RELATED WORKS 
+SVM BASED SPAM FILTER 
+This project makes use of support vector machines (SVMs) to build a spam classifier. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that assigns new examples into one category or the other, making it a non-probabilisticbinarylinear classifier. 
+CYBER THREAT ANALYSIS AND PREDICTION 
+Organizations should be able to understand the ecosystem and predict attacks. We developed a server based cyber threat analysis and prediction system to provide them not to miss any small aspects that can make system more secure. For that we are considering topology analysis, domain analysis, log analysis, Root kit analysis mass storage analysis, software installation analysis, download analysis, system performance analysis etc. 
+WEBSITE VULNERABILITY ANALYSIS 
+Vulnerability testing is the process of discovering flaws in systems and applications which can be leveraged by an attacker. . The system is able to analyze SQL injection, Cross site scripting, Buffer overflow and Information leakage. 
+IMDB MOVIE GENRE CLASSIFIER 
+The classification of new movies to multiple genres based on synopsis or plot summary is a challenging task. The problem can also be considered as a topic modelling problem of identifying topics which can correspond to genres as opposed to a classification problem. 
+INTRUSION DETECTION USING DEEP LEARNING 
+We propose deep learning intrusion detection model with k-means clustering as a hybrid approach. Experiments on the KDD-99 dataset show that our approach obtains superior performance in comparison with other state-of-the-art detection methods, achieving low learning bias and improved generalization at an affordable computational cost. 
+RECONCILIATION SYSTEM 
+DEEP LEARNING MODEL 
+Reconciliationis used to ensure that the money leaving an account matches the actual money spent. We have created a reconciliation engine that checks for the match in statement and ledger using Siamese Network in Deep Learning. Research carried out in the Deep Learning models such as Deep Belief Network, Recurrent Neural Networks (RNN) and Convolutional Neural Networks. GRAPH CLASSIFIER USING CNN 
+Developed a deep learning classifier that can classify bar graph and line graph. The solution was in convnets. 
+Personal Data DOB : 18/06/1991 
+Sex : Male Nationality: Indian Marital Status: Single Languages known English, Hindi & Malayalam Hobbies 
+Blog writing and Reading books ACHIEVEMENTSGot Outstanding performer of the year-2012 award from HCL.D-Code winner - Data Analytics contest by Flytxt.Top 25% in all kaggle competitions that i have participated.TCS AI competition winner.Was appreciated by Clients and my Manager for my efforts.PERSONAL SKILLSGreat organizational, Mathematical skillsOutstanding analytical ,problem solving and decision making skillsWillingness to learn & update myself with new methodologies & Technologies.Worked on C, Python,C++,UNIX Shell Scripting,SQL and Perl.Familiar with pandas, sci-kit, skimage ,numpy libraries of python.Have a very good knowledge in HTML and Javascript. 
+Experience in Autosys Scheduling tool. 
+Experience in Kali, AIX, Centos and Debian systems.Hands on in SVM (Support vector machines) and LDA.Hands on in Machine Learning, Neural networks and Deep learning.Experience in using keras,neon,h20 and tensor flow librariesAbility to deal with people diplomatically. 
+Committed, energetic and self-motivated team player. 
+Willingness to learn, team facilitator and leadership qualities.AREA OF INTERESTSocial Network Analysis, Knowledge Management, Data analytics and Forecasting.IOT. Server Intrusion detections. 
+Webpage vulnerability assessment. 
+Machine Learning based Intrusion detection Models.Neural Networks and Deep Learning.Image Processing and Models based on Deep Learning.REFERENCESDr. Tony Thomas 
+Dr. Asharaf S. 
+Assistant Professor Associate Professor PhD (Indian Institute of Technology Kanpur) 
+PhD (IISc.Bangalore)Email:tony.thomas@iiitmk.ac.in Email:asharaf.s@iiitmk.ac.in 

@@ -1,0 +1,42 @@
+Anoop Kumar 949 Sec-5, Urban Estate, HUDA, Kurukshetra 
+Ph: +91-9711767076 anoopkanyan@gmail.com website: anoopkanyan.github.io. 
+INTERESTS 
+Android Development and Web Development. EDUCATION CAREER HISTORY 
+May 2016 Present: Software Engineer, Recode360 Llc 
+- Developed an ecommerce seller app. The app helps store owners to create and modify products, receive orders, create and track shipments and also create shipping labels. Also implemented a barcode scanner in the app. 
+- The backend employed Spreecommerce, which is an open source 
+ecommerce platform using Ruby on Rails. Used the Volley library in android to make networking requests to the backend. 
+- Carried out GoShippo integration, which helps store owners create shipping labels from their android devices, with the lowest possible shipping rate using different shipping carriers at one place. - Developed a POS android app which helps place Orders and generate an invoice using an android device. The payments can be made either through cash or through PayPal gateway. 
+- Worked on developing Ruby gems for the existing Spreecommerce platform. The gems enhance the functionality of existing store. 
+- Developed a Ruby gem to consume the API calls of GoShippo, which helps in creation of shipping labels using the admin panel on the Web in addition to android. 
+- Worked on gems which were needed for updating the platform to work with the android app i.e. worked on the missing API calls such as for login, label generation, POS etc. 
+INTERNSHIPS: 
+Sept 2015 May2016: Software Engineer Intern, Recode360 Llc 
+Developed extensions for the Sprecommerce platform. Also, worked on a chat based android app. The app allowed buyers and sellers to interact with each other using a real time chat. Used Sinch for implementing the real time chat. 
+Jaypee Institute of Information Technology NOIDA - Bachelor of Technology 
+Technology in Electronics and Communications Engineering (75%) 2012-2016 Delhi Public School, R.K. Puram - Twelfth (81%) 
+Springfields Public School, Yamunanagar - Tenth (93.4%) 2010-2011 2008-2009 Spreecommerce Android Admin App May 2016-Present 
+Point of Sale Android App Aug 2016-Sept 2016 
+Spreecommerce 
+Backend May 2016-Present 
+June 2014 July 2014: Summer/Industrial training in JAVA, CDAC Mohali 
+Six weeks of industrial training in JAVA. Developed an app named DLIGHTS published in Amazon 
+Appstore. 
+PROJECTS 
+Fishy Fish Android Game (May 2015 onwards) 
+Developed an arcade game using the libgdx framework. The game has been published in Google Play Store. 
+The game revolves around guiding a fish through various obstacles to score more. 
+DLIGHTS Android App (June 2014 onwards) 
+A simple android app that makes the flashlight of an android device to flash synchronously with music being played in the background. Uses consecutive 8-bit (unsigned) mono samples provided by the methods of the Visualizer class available in android. 
+Floppy Handheld Game(May 2014 onwards) 
+The project involved developing a 90 s style hand-held video game. Designed my own version of a classic shooting game space invaders, realized a complete embedded system. The main objective of this project revolved around designing, debugging, and testing a large C program written for an embedded system, the system being able to perform some useful task. The TM4C123GH6PM microcontroller, which has a 32 bit 
+ARM Cortex 80 MHz, processor core acted as the game engine, and development was carried out on Keil uVision4 software. 
+QUALIFICATIONS 
+CS50x: Introduction to Computer Science and Programming(online course) an edX course taught by Harvard University. 
+6.01x: Embedded Systems - Shape the World(online course) offered by University of Texas at Austin, through edX. PROGRAMMING SKILLS 
+C, JAVA, HTML, SQL, Data Structures, MatLab, Ruby on Rails and Spree Commerce and Git for Version Control. 
+Worked on Linux, Windows and Mac. 
+Worked on Vmware Workstaion, eclipse, phpMyAdmin, Keil, and ADT. 
+LANGUAGES KNOWN 
+English (SRW) , Hindi (SRW) EXTRA CURRICULARS Member Microcontroller Based Systems and Robotics Hub[uCR] and GDG at JIIT. 
+Participated in C.B.S.E. football cluster. 

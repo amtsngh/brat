@@ -1,0 +1,167 @@
+ 1 Curriculum Vitae 
+Mirza Taher Ali Khan 
+Name Mirza Taher Ali Khan 
+Designation ERP Oracle Financials Senior Consultant / Project Lead Residence #17 1 st Cross RA Road , Ejipura , Viveknagar , Bangalore-47 
+Nationality Indian 
+Marital Status Married 
+Gender Male 
+Mobile +91-8884127786 / 9959967387 
+ERP Oracle Apps Professional with over 13 years of experience. IT experience working as Project Team Lead in Oracle Applications for various companies like Capgemini, Dell IT services, IGATE Global Solution, Tesco and API Data Communication. 
+Functional experience Involved in Implementation, Rollout, Support , upgrade and Testing project on various financials modules like GL / AP /AR/ FA /CM / PC and Supply Chain Modules like Order Management (OM) & Purchasing (PO). 
+Strong knowledge of functional process design, application setups & implementation methodology and having Strong functional acquaintance on Oracle Financial 
+Applications R11i /R12i. 
+Well-versed in front-end functional setups in GL /AP /AR/ FA/ CM / PO/ /PC / PB /PM and OM modules. 
+Understand customer Business requirements and make documentation as per AIM methodology. 
+Interact with Technical team and explain business requirement and get it developed in time. 
+Experience in working with offshore team and ensuring a daily onsite-offshore interaction Conduct OWC (Oracle web conference) with oracle on Severity1 Issues. 
+Creating & Monitoring Service Requests with Oracle for Functional fixes 
+Excellent Hands on experience in P2P and O2C cycles 
+Coordinating with oracle Metalink for P1 Issues when required Support closing month end periods in AP / AR /FA / GL 
+User Acceptance Testing using full-scale data. 
+Worked extensively on manual testing. Proven skills in Test Case writing and different phases of Testing like Business Functionality Testing, Regression Testing & Integration 
+Testing. 
+Creative, analytical thinkers with demonstrated ability to troubleshoot problems, determine strategies to resolve issues and consistently implement effective solutions. 
+Personal Details . 
+Profile . 
+2 
+Mr. Mirza Taher Ali Khan 
+Curriculum Vitae 
+Achievements: Project Management Professional (PPM) Certified 2011 Star award as part of excellence in performance in Oracle Office Depot Project. 
+OCP Certified Oracle Fusion Receivables 
+OCP Certified Oracle Fusion General Ledger 
+Oracle Financials Cloud : General Ledger 2016 Implementation Essentials 
+Programming Language C and C++ 
+Scripting Languages Java Script, HTML and XML ERP Application ERP Financials module AP/AR/GL/FA/CM /PC /PB / PM) 
+Tools Toad 9.0, Clear Case, Quality Center(QTP),Kintana, ISMART , BMC Atrium 
+Database Oracle9i, SQL, PL/SQL MS Office Excel, Word, MS Project, PowerPoint Operating System MS-Dos , Linux , Unix , Windows , Windows 98 , Windows XP , Windows Vista 
+Speak Read Write 
+English Fluent Fluent Fluent 
+Hindi (Native Language) Fluent Fluent Fluent 
+Urdu (Native Language) Fluent Fluent Fluent 
+Modules Experience Projects Application 
+General Ledger (GL) Yes Support / Rollout / Upgrade R11i / R12i Account Payables (AP) Yes 
+Implementation / Support / Upgrade 
+R11i / R12i Accounts Receivables (AR) Yes 
+Implementation / Support / Upgrade R11i / R12i Cash Management (CM) Yes Support / Upgrade R11i / R12i Fixed Asset (FA) Yes 
+Implementation / Upgrade 
+Support R11i / R12i Project Costing (PC) Yes Implementation / Upgrade R11i / R12i Property Manager (PM) Yes Support R11i / R12i Completed training in Oracle Fusion Financials Cloud from Oracle 
+University in 2016. 
+Domain experience of 4 years with AOL as research Analyst and Psychiatry Hospital as Accountant. 
+Competencies . 
+Languages . 
+ERP Modules . 
+Training 
+Domain Experience 3 
+Mr. Mirza Taher Ali Khan 
+Curriculum Vitae 
+Nov 2010 
+Till date Company Capgemini 
+Project Name Heathrow & Stansted Airport / Echo / Tabcorp / GEL / Smith / Office Depot Project 
+Client Heathrow & Stansted 
+UK / Tabcorp & Echo Australia / GEL 
+Singapore / Smith UK / Office Depot USA 
+Role Project Team Lead (Senior Financial Functional Consultant) Project Type Upgrade / Support / Implementation Project 
+Environment R12i / R11i 
+Oracle Apps Modules ( AP/FA/AR/CM/GL/PC / PM) May 09 Oct10 Company DELL IT Services 
+Project Name ROTC / OTC Project 
+Client Dell India / USA 
+Project Type Support / Implementation / Testing 
+R11i/R12i Project 
+Role Project Team Lead 
+Environment Oracle Apps Modules ( GL/AR/OM) Feb 08 Mar09 Company IGATE Global Solution 
+Project Name GE Security Implementation / Rollout Project 
+Client GE Security UK / Poland / Italy 
+Role Consultant 
+Project Type Implementation / Rollout Project R11i Application 
+Environment R11i Oracle Apps Financials Modules ( GL/AP/AR/FA) Apr06 
+Feb 08 Company Tesco Project Name Tesco Projects (Implementation / Support / Development) 
+Client TESCO UK, Poland and Hungry 
+Role Consultant 
+Project Type Implementation / Support Project 
+R11i Application 
+Environment R11I Oracle Apps Financials Modules ( GL/AP/AR/FA/PC/PO) 
+Sep 03 Mar06 Company API Data Communication 
+Project Name Power Systems, Atlanta and European Equipment Financial, London, UK (Support) 
+Client GE Global Business Centre 
+Role Functional Consultant 
+Project Type Support Project 
+Environment R11i Oracle Apps Financials Modules ( GL/AP/AR) 
+Projects Implementation / Support Experience 4 
+Mr. Mirza Taher Ali Khan 
+Curriculum Vitae 
+Roles & Responsibilities 
+Upgrade Project 
+Task:- 
+Onsite offshore co-ordination on Financial module s Concluded Pre-Upgrade task process in Financial module s 
+Concluded Post-Upgrade task process in Financial module s 
+R12 Delta configuration in Financial module s Run and authenticate R11i Pre-Upgrade Critical reports Run and authenticate R12i Post-Upgrade Critical reports and evaluate with R11i Pre-Upgrade Critical reports Complete E2E Standard Business Scenarios testing like Interfaces / Reports / Form etc in Financials module s Complete E2E Custom Business Scenarios testing like Interfaces / Reports / Form Personalization etc in Financials module s Co-ordinate with DBA related issues like Patches etc to applying in instance ( DEV / SIT / UAT) 
+Co-ordinate with Technical team member s related issues like code change / Form Personalization or any related technical stuff etc to applying in the instance ( DEV / SIT / UAT) Co-ordinate with Discoverer team related issues like reports etc Pro-actively support UAT issue s in all Financial module s with zero defect s 
+Instantly handle all business queries and provided solution in time and satisfied business user Daily team meeting on issues raised by business user s on Financial module s Raised oracle SR on critical issues and follow-up as per severity and have OWC if required Resolved all critical issue s in time and taken approval and sign-off before moving to Production 
+Assist Financial team members whenever they required leadership and resolved issue s 
+Maintained and updated tickets in team forge tool on regularly basis Resolved business user issue within time frame and assigned back to business user via updating ticket / sending mail s / co-ordinate by phone with respective business team members. 
+Manage Financial team and monitor issue s assigned to team members as per criticality 
+Prepare Documents like BR100 / TE040 /MD050 /TE020 
+the Gap between R11i Verses R12i Application. 
+5 
+Mr. Mirza Taher Ali Khan 
+Curriculum Vitae 
+Implementation & Rollout Project 
+Task:- 
+Configured Oracle e-Business Suite modules like 
+GL/AP/AR/FA/CM/PC in R11i / R12i Oracle Application in Production Instance Prepare 
+BR100/RD20/MD050/TE040/TE020 /BP080/RD010 /BR030 documents as per client requirement 
+Analyze business requirements and plan application changes needed for future enhancements Maximize utilization of ERP applications core functionality and minimize customizations Oversee the creation of business requirements and functional specifications that development can work Create and support functional solutions that meet the business need Create, drive and implement projects from original concept through final implementation Gather business requirements and develop the same Conduct gap analysis between as-is and to-be process Set-up test scenarios and conducting pilots Manage the conversion of multiple legacy and bolt-on applications 
+Execute cut-over tasks and provide post go-live support Participate in analysis, requirements gathering, system design and applicability studies to create a world class 
+ERP application Participate in the evaluation/implementation of third party software solutions Identify and report any quality or compliance concerns and take immediate corrective action as required Ensures adherence to quality standards and review project deliverables Excellent Understanding of customer business processes and requirement Business requirements and analyzing the feasibility with respect to Oracle Apps feature &functionalities Successfully completed Business process at CRP1 / CRP2 / UAT stages and sign off the same requirement with Business user Prepare Data Loader for Legacy data to migrate to R11i/R12I application Hands on experience in WEBADI Inbound/Outbound business process in R11i/R12i application Full scale testing in Inbound/Outbound interfaces during upgrade from R11i to R12i Application 
+Complete E2E Testing Business scenarios before moving to Production Instance Documented all Approval before moving to production 6 
+Mr. Mirza Taher Ali Khan 
+Curriculum Vitae 
+Support/Testing 
+Project 
+Task: 
+Production Support for modules GL/AP/AR/FA/CM /PC for R11i 
+/ R12i Application 
+Worked on P1/P2/P3/P4 Issues in Production Instance as per time frame. 
+Interact with respective Business owner and Users to gather information on various modules. 
+Create and update defects in ISMART /ECHO / Remedy tool on regular basis. 
+Monitor defects and provide solution in production Instances as per Severity and Priority. 
+Apply and Tested Issues in DEV/UAT/Test Instance before moving to Production Instance. 
+Take Sign-off and Approval from user and high level before moving to Production Instance. 
+Complete P2P End to End testing cycle application in R11i. 
+Interact with oracle support whenever required and have 
+OWC on P1 Issues Daily status report sends to DM and Manager on Defects. 
+Weekly schedule calls on defects status with onsite guys. 
+Take Sign-off and Approval from user and high level before moving to Production Instance 
+Month end Support in all financials module s. Work directly with business partners to understand business processes, system functionality, and how systems are currently used by the business in its regular operations. 
+Identify opportunities that can improve efficiency of business processes, Investigate and resolve application functionality related issues and provide first level support and troubleshooting within the assigned Business System 
+Team (BST). Develop, document and perform Quality Assurance test cases and test results. 
+E2E Testing in P2P / O2C Cycle 
+Assists in developing user documentation and departmental policies and procedures that impact the use of application systems Develop and document User Acceptance test cases and test results Performs as a project lead and directs systems analysts. 
+Provides leadership and coordination on projects assigned to systems analysts Customized / Standard Interfaces and Report Testing Manage Approval and Sign-off from Business user and Stake holder s Interact with Business user over calls and schedule meetings to understand business requirement and Issues 7 
+Mr. Mirza Taher Ali Khan 
+Curriculum Vitae 
+Training 
+Oracle Financials Apps 11i / 12i Version 
+Oracle Fusion Cloud Financials Implementation Workshop 
+Oracle Property Manager & Project Costing Language C and C++ 
+Oracle SQL/PLSQL 
+Visual Basic 6.0 Oracle DBA 8.0 
+Certifications 
+OCP Certified Oracle Fusion Financials 11g Accounts 
+Receivable Certified Implementation specialist 
+OCP Certified Oracle Fusion Financials 11g General Ledger 
+Certified Implementation specialist Project Management Professional (PPM) Certified 
+Oracle Financials Cloud : General Ledger 2016 Implementation 
+Essentials 
+1. MBA IASE Deemed University , Hyderabad 2005 with 72% 2. PGDBM - P.G Diploma in Business Management 1999 with 70% 3. B.S.C Shahdan Degree College, Hyderabad 1997 with 65% 4. XIIth Madina Junior College ,Hyderabad -1992 with 62% 5. Xth 
+St Paul s High School ,Hyderabad -1990 with 70% 
+Permanent Address 16-2-741/D/43 , Near T.V Tower , Asman Garh , Malakpet , Hyderabad , Andhra Pradesh , India 500036 
+DOB 
+Mobile 
+15-Feb-1973 
++91-8884127786 / +91-9959967387 
+Personal 
+Email mirza786khan@yahoo.com 
+/ mirza786oracle@yahoo.com Training/Certification. 
+.. Education Details . 
+Contact Details . 

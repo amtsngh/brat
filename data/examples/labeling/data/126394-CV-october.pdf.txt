@@ -1,0 +1,42 @@
+ Date of Birth 13/07/1990 
+Tel: 00973-35037435 muneemhabib@gmail.com 
+Muneem Habib 
+Summary 4 years of experience in mobile/web development, interested in working fulltime for mobile/web application development. I love doing challenging tasks and I am an excellent problem solver. I am an expert in 
+HTML,CSS,Javascript,Jquery,Bootstrap and Android. I am always willing to learn on new tools anf technologies. I am member of Topcoder and continuously participate in their cahlleges. I also contribute to opensource community like github. 
+TopCoder Link: https://www.topcoder.com/members/Muneem/ 
+Github Link: https://github.com/Muneem Work Experience 
+Senior Software Developer at Biotite Trading Company 
+January,2016-Present 
+I am an ecommerce developer. I am responsible for creating and maintaining all features both in front and back end of website. I have design database schema and created architecture of full ecommerce application. I worked on Kohana framework. 
+Software Developer at IDtech 
+June,2013-December,2015 
+I am fullstack/Android engineer. I am responsible for designing, developing and maintaining software systems. I have worked on Android app and web apps which uses PHP as server side and Javascript,Jquery,Bootstrap,CSS for front end for web apps and android for mobile apps. 
+Internship at Elixir 20th June,2013-15th August,2013 
+Education and Qualification 
+BS (Computer Sciences) FAST-NU, Islamabad 
+May 2013 
+Cgpa: 3.42 Projects 1) Space Compass 
+This system will manage all trackers assigned to devices.It will show positions and tracks of all devices It will generate alerts if any device violate any fence and also generates reports 
+Platform: NuSphere Phped Language: php,Html,CSS,javascript Framework: Bootstrap, Jquery, Google Maps 2) Emallx (http://www.emallx.com) 
+This is an ecommerce website which allows user to choose products of their own choice, select available items in their surrounding Stores.User can search product, add product to cart,compare product. 
+Platform: Phped 
+Language: php,Html,CSS,javascript,Mysql Framework: Kohana,Bootstrap, Jquery, Google 
+Maps,PostgreSQL 3) The SoftPoint-Booking System 
+This site finds a place to eat,shop or stay for any locations. User can give orders and also keep track of their orders. 
+Platform: Phped Language: php,Html,CSS,javascript Framework: Bootstrap, Jquery, Google Maps,GIT,JIRA 
+4) EventCombo (http://www.eventcmbo.com) 
+This eventxombo is a website for managing events. Users can manage events, add articles, add more feature in events like parking,dinner prices. I am front end developer here and I have developed almost all of the screens in eventcombo. I am responsible to create and maintain all frontend issues of website. 
+Platform: Phped Language: php,Html,CSS,javascript Framework: Bootstrap, Jquery, Google Maps,GIT,JIRA 
+5) Android Mapper 
+This app is used for mapping different assets like poles,streets,parks,manhole. This app gathers mapping data and then sends that data to server and then from web app we can view and edit these mapping data. 
+Platform: Android Studio Language: Android Framework: Google Maps 
+Activities, Honors and Awards 
+General secretary, Designer and Developer club 2012 Organizer, Php workshop at FAST-NU 2011 
+Dean s Honor List 2009,2010,2011 Participated NASCON programming contest 
+2011 Won DBMS competition at FAST-NU, Islamabad 2011 
+Skills Php(Proficient),HTML(Proficient),CSS(Proficient),Javascript(Proficient), Jquery(Proficient), PostgreSQL(Proficient),Git(Proficient),JIRA(Proficient),RESTFULL API(Proficient),Bootstrap(Proficient),Android(Proficient), Reactjs(intermediate), Use Case writing, SQL(Proficient).,Software designing(intermediate). Business Reporting(intermediate) 
+Tools PhpED(Expert) 
+Intellij Idea(Expert) 
+Android Studio(Expert) 
+Interests 
+Reading articles(History), Coding. 

@@ -1,0 +1,76 @@
+Saket kumar Database Administrator 
+MOB: +91
+8587021247 /+91 8802824594 
+Email: saketk6@gmail.com Education Summary 
+Standard 
+Year College Percentage Board/University 
+B.Tech 2012 
+Anand Engineering College, Agra 
+62.74 G.B.T.U. 
+Intermediate 2008 
+Vivekananda Kendra Vidyalaya, Assam 74.40 C.B.S.E. 
+High School 2006 
+Vivekananda Kendra Vidyalaya, Assam 
+82.80 C.B.S.E. 
+Core Computer Skills 
+RDBMS: MS SQL Server 2000/2005/2008/2012 
+Operating Systems: 
+Windows(2003, 2008,2010) 
+Hardware: HP Servers,Dell Servers,IBM Servers 
+Languages/Scripting: SQL 
+Tools: 
+BMC Remedy, Website pulse ,NNM,Solarwinds,SCOM, IIS webserver Professional Experience 
+HCL TECHNOLOGIES LTD. (Oct -2013 
+till date) 
+Designation: ANALYST PROJECT :GLOBAL IT (HCL INTERNAL PROJECT 
+Duration :OCT-2013 to till date 
+DB Server : SQL SERVER 2005,2008,2012 Roles and Responsibilities: 
+Installation and management of several DB Servers and hundreds of databases. 
+Performing day-to-day support, performance tuning and architecture. 
+Responsible for installation and configuration of SQL server, Database Objects like Tables, Stored Procedures, Views, Triggers, Rules, Defaults, user defined data types and functions for this project. 
+Generating reports from the databases using SQL. 
+Knowledge of Log shipping, mirroring configuration for various databases. 
+Writing stored procedures and functions as per business requirements. 
+Web server (IIS) administration. 
+Installation and configuration of new DB servers. 
+Knowledge of Installation and Configuration of HA(LS,DB Mirroring and Cluster) Monitoring and troubleshooting of about 150 HCL applications. 
+Backup and recovery of databases. 
+Create scheduler from exe file, schedule it and troubleshoot. 
+Link server mapping. 
+Executing DML queries (insert, update, and delete, select) queries over production and development servers. 
+Separating and shrinking the Mdf. and Ldf. files of a database from space/memory point of view. 
+Scheduling XCopy to sync files between two locations in different servers. 
+Monitoring patching activity on servers. 
+Application movement from 32 Bit to 64 bit environment. Giving support in IIS basically to create Virtual directory, Pool creation and permission kind of activities in 64 bit environment. Troubleshoot application in new servers (both 32 Bit and 64 bit environment). 
+Application support as well as the Database support Related to the Microsoft Products and also debugging the Applications and the stored Procedures whenever the support is needed by the developers. Handled Slow Performance related issues on Reports in application. 
+Checking the Database Log and Managing the Log files, SSIS and DTS Package Creation. Database backup, Restoring, recovery .Troubleshoot and Resolve the issue Like Database and application related as soon as possible. 
+Scheduling Jobs and Configure linked server and providing access through link server. 
+Performs and monitors daily database operations and set-up backup schedules, SSD ticket resolving, check server performance activities in Server, Database and Query level. 
+DR Drill support for database and application for smooth applications test on DR. 
+Cluster management like Disk add/Remove from cluster and mount point creation. 
+Soft Skills 
+Communication Skills 
+My writing skills, both in Hindi and English, are very good and I certainly am a clear speaker. Being comfortable speaking in front of an audience I can easily facilitate meetings and brainstorming sessions. I simply enjoy communicating with others. 
+Interpersonal Skills 
+As a friendly, polite person with positive attitude I work well with others and in the past often have proven myself to deal with difficult situations in a careful and considerate manner. 
+Learning Skills 
+I have a high capacity for learning, pick up new skills and ideas quickly, and generally thrive on challenges. Enthusiasm and creativity gives me an edge on difficult projects. 
+Problem Solving Skills 
+My analytical skills help me troubleshoot problems and uncover root causes. I am creative and tenacious. 
+Achievements 
+Achievements 
+Coal India samaan award for scoring more than 80% in 10th standard. 
+Qualified RIMC written Exam in 2003. 
+Won 2nd prize in BIOBEES event in ABINITIO09 in Anand Engg College,agra Successfully completed training in COAL(india)ltd. 
+Extra-Curricular Activities Member of college and school publishing committee. 
+Member of Souvenir commitee . 
+Participated in Cultural event in SPARDHA. 
+Participated in various technical and non-technical competitions. 
+Represented school in district level quiz competition. 
+Languages 
+Hindi (Mother tongue) 
+English (Good skills) Personal 
+Citizenship: Indian 
+DOB: 15/02/1991 
+Hobbies: Travelling, Soft Music, Sports, Reading newspaper and Magazines. 
+Saket Kumar Page 3 of 3 

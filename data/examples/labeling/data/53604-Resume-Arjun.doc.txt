@@ -1,0 +1,64 @@
+ ARJUN DAS 
+E-mail:- arjuncherayildas@gmail.com (mailto:arjuncherayildas@gmail.com) 
+Mobile: - 91-9940340414 
+CAREEAR OBJECTIVE 
+A challenging position in a professional and dynamic organization, which encourages growth and excellence in the field of Linux Administration 
+SUMMARY 
+Linux systems administration is my primary interest. I have 4 years of relevant experience as a Linux Admin. 
+I have experience with server setup, security. I use Bash, on a regular basis for system administration and automation tasks. 
+I learn new concepts/technology and systems quickly and am receptive to new ideas. I work well alone or in a group and also have experience managing groups. 
+Total Experience -: 5 years 
+Relevant: 4 Years 
+Technical Skills 
+Operating Systems : 
+Windows 7 / XP, Red hat Linux, Linux Mint, Oracle Linux, Fedora, Solaris. 
+Virtualization : VMware, VMware Vsphere Client 
+Database : Mariadb 
+Storage : ISCSI ACHIEVEMENTS 
+Received appreciation award for the performance Red Hat Certified Engineer 
+PROFESSIONAL EXPERIENCE 
+Current Employer: Wipro Technologies Limited Working as Linux Admin/IM from April 2011 till Date 
+Project Name: CITI 
+Client Name : CITI 
+Working on Incident management and Change Management. 
+Installation and configuration of Solaris, Linux for new build environment. 
+Installation and configuration of Solaris Zones. 
+Adding Disks and File system Administration. 
+Expertise hands in troubleshooting of Computer hardware related problems 
+Managing all rebooting & part replacement activities. 
+User Management & Administration. 
+File system management. 
+Scheduling cronjob Monitored night-batch job process, documented errors, performed nightly backups and troubleshot issues. 
+Monitoring system logs and root's email for important messages such as errors and warnings or hardware failure errors. 
+Installing Applications & Applying patches. 
+Interacting with client for task update & Attending weekly call. 
+Working on the Quality Assurance of the Build servers 
+Interacting with the application Team and Client on the Change Review call. 
+Working as Capacity planning single point of contact. Knowledge and worked in the preparation of Service Delivery Report for Wipro as well as for Client. 
+Interacting with CITI Client and Wipro Managers in the Review Calls. Knowledge in the Service now ticketing tool, Aperture, ConfigDB and other admin related tools. 
+Single point of contact for Linux Patching on all the servers. 
+Working with the compliance team in Wipro in the Monthly Review. Knowledge in VERITAS Cluster. 
+Good knowledge in LVM 
+Has good understanding in NFS, samba and web server. 
+ACADEMIC QUALIFICATION 
+Qualification School/College Year of Passing 
+BE INFORMATION TECHNOLOGY AMIIE Indian Institute of Engineers 2015 Diploma in Information Technology 
+NTTF NEC Bangalore 2010 +2 
+SDPY PALLURUTHY 2007 
+10Th 
+OUR LADY OF MERCY Aroor 
+2005 STRENGHT 
+Believe in hard work and time management. 
+Polite, Friendly, and Assertive by nature. 
+Target Oriented. 
+PERSONAL INFORMATION FATHER NAME 
+* Surendradas C.V 
+DATE OF BIRTH * 05/09/1989 
+MARTIAL STATUS 
+* Unmarried 
+LANGUAGE KNOWN 
+* English, Malayalam, Hindi 
+DECLARATION 
+I hereby declare that all the details furnished above are true to my knowledge. 
+Place: Chennai 
+Date: Signature 

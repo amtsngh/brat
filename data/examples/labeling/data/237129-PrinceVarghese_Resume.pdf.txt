@@ -1,0 +1,46 @@
+ Prince Varghese V 
+Email: 
+princevarghesev@gmail.com 
+Phone : 9497382734 
+Permanent Address 
+Vakayil House , Thekkumkara P.O, Punnamparambu, Thrissur,Kerala 
+PIN 680589 
+Present Address 407/2172 S.T. Nagar 
+Pimpri, Pune 18/ -411018 
+Career Objective 
+To be part of an innovative organization, which plays an important role in revolutionizing the IT industry and to be able to develop my technical skills in smarter way along with the organizational growth. 
+Educational Qualification BTech in Information Technology from Govt. Engineering College Idukki with 76% , 2015 Poly Technic Diploma in Computer Engineering from Govt. Polytechnic College Chelakkara with 73% , 2011 SSLC from Nirmala High School Kundukadu, Thrissur with 82% , 2008 Technical Skills 
+Programming languages : 
+ColdFusion, PHP (Yii ) 
+Database 
+: MySQL Operating System : Windows, Linux 
+Version Control System : SVN 
+Others Skills : HTML, CSS, JQuery, Ajax, XML, JSON, ReST API, 
+Basic programming skills in C , C++ and Java 
+Work Experience Designation : 
+Junior Software Engineer 
+Company : LoreMine Technology Pvt. Ltd, Kakkanad, Ernakulam 
+City 
+: Ernakulam 
+Duration : 
+September - 2015 
+To November - 2016 Internship Details 
+Course : Diploma In PHP Technology 
+Company : Sabro Software Solutions Kadavanthra, Ernakulam 
+Duration : 3 Months 
+Details : HTML, CSS, Jquery, Ajax, Codeigniter MVC 
+Academic Project 
+Project : Image Fusion Using Guided Filtering 
+Domain : Image Processing 
+Technology : JAVA 
+Description : 
+In image fusion , different images of the same object or location from different angles can be combined into a single fused image. This fused image can provide more comprehensive information about the same scene which is more useful for human and machine perception with perfect quality. This image fusion technique uses guided filter algorithm for combining the captured multiple images into single one. The guided filtering algorithm provides better quality and lesser artifacts with no noise. Image fusion using guided filtering is an important technique for various image processing and computer vision applications. 
+Personal Details Date Of Birth : 23 10 1992 
+Father s Name : Mr. Varghese V C 
+Father Occupation 
+: FCI Labour 
+Mother s Name : Mrs. Alphonsa Varghese 
+Hobbies : Playing football, Hearing music 
+Declaration: 
+I hereby declare that the above information is true to the best of my knowledge and belief. 
+Prince Varghese V 

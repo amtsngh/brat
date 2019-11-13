@@ -1,0 +1,59 @@
+ACADEMIC PROJECTS/RESEARCH: 
+SOFTWARE PROFICIENCY AND SKILLS: 
+ACADEMIC QUALIFICATION: 
+JOB OBJECTIVE: 
+KRISHNA BAGARIA 
+Email ID: krishnabagaria1@gmail.com 
+https://www.linkedin.com/in/krishnabagaria 
+Phone: 9891148419 
+https://www.codechef.com/users/k_bagaria 
+Address: A-1603, Angel Mercury, Ahinsa Khand-2, 
+https://www.hackerrank.com/krishna_bagaria 
+Indirapuram, Ghaziabad (Delhi NCR), UP 
+Seeking an entry level position as software developer in a virtuous organization which caters various opportunities of learning and practicing skills. Looking forward to pursuing a challenging career in IT Industry and exploiting opportunities to seek excellence, thereby contributing to self as well as organizational growth. 
+Sl. 
+No. 
+Degree / Exam Board/Institution Year % / CGPA 
+1 B. Tech. (Computer 
+Science) University of Delhi 2013 - 2017 77.47 % 2 Class XII, CBSE Kendriya Vidyalaya Nagaon, Assam 2012 86.80 % 3 Class X, Assam Board Little Flower High School, Nagaon, Assam 2010 89.66 % Operating Systems : 
+Linux, Windows. Programming Languages : C, C++ 
+Databases 
+: MySQL Web Development : Html, CSS, JavaScript Enhancement of Binary Edge Maps 
+( June 2015 - July 2015 ) ( Summer Research Internship Programme 15, National Institute of Technology, Meghalaya ) 
+Successfully developed various algorithms for enhancement/refinement of binary edge maps (detected from random scene images) to a significant extent. Also implemented them in C without using any built-in functions of OpenCV/MATLAB and was size and type independent of binary edge maps. 
+The project was guided by Dr. Sanjoy Pratihar, CSE Department, NIT Meghalaya. 
+Designing and building a Compiler for COOL (Classroom Object Oriented 
+Language): The reference Cool compiler is written in C++, built fully on the public domain tools. It generates code for a MIPS (Microprocessor without Interlocked 
+Pipeline Stages) simulator, SPIM. 
+Image Steganography using Enhanced Least Significant Bit Embedding. 
+CERTIFICATIONS AND TRAINING: 
+ACADEMIC ACHIEVEMENTS: 
+DECLARATION: 
+EXTRA CURRICULAR ACTIVITIES: 
+Secured 95.03 percentile in Graduate Aptitude Test in Engineering (GATE CS & IT 2017) among 96,878 total candidates appeared. 
+1st position in event Scavengers of Tech Melange 15-16 organized by Shaheed 
+Rajguru College, DU. 
+Secured 9th rank in Mathematics Olympiad in the State of Assam. 
+Anundoram Borooah Award Certificate for excellent academic performance in 
+HSLC Examination 2010 conducted by SEBA, Assam. 
+Secured 1st position in 10th class in School. 
+AMCAT Certified Software Development Engineer Product and Proficiency in 
+English. 
+Verified Certificate for successfully completing a MOOC on Design and Analysis of Algorithms offered by Chennai Mathematical Institute with ELITE class on 
+NPTEL (http://nptel.ac.in/noc/) platform. 
+Verified Certificate for successfully completing a MOOC on 
+Programming, Data 
+Structures and Algorithms offered by IIT Madras with ELITE class on NPTEL (http://nptel.ac.in/noc/) platform. 
+Verified certificate for HTML, CSS and JavaScript by The Hong Kong 
+University of Science and Technology on Coursera platform. Grade achieved- 100% (https://www.coursera.org/account/accomplishments/records/SA77CYCVTE2E) Verified Certificate for successfully completing a MOOC on 
+Introduction to Programming in C offered by IIT Kanpur with ELITE class on NPTEL (http://nptel.ac.in/noc/) platform. 
+Verified Honor Code Certificate for successfully completing a MOOC on Introduction to Computer Programming in C++ by IIT Bombay on https://www.iitbombayx.in platform. (Grade achieved 100%). 
+Certified Cyber Security Expert by A & R Info Security Solutions Pvt. Ltd. 
+Successfully completed one week Workshop on 
+Linux Operating System by 
+DKOP Labs Pvt. Ltd. 
+Active member of online competitive programming platforms like Hackerrank and Codechef. 
+Event coordinator in various departmental activities of the college. 
+Actively participated in various conferences, symposiums and seminars and also presented posters, research papers in them. 
+I do hereby declare that the information given in this resume is true and correct to the best of my knowledge. 
+KRISHNA BAGARIA 

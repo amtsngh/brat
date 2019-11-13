@@ -1,0 +1,76 @@
+Ashwini Basavaradder E-mail: ashwinisb92@gmail.com +91 9742360868 Software Consultant(QA), CAST Software 
+Bangalore 
+CAREER OBJECTIVE: 
+Looking forward for a challenging career in Software Testing where I can positively contribute to the organization's growth, maintain long-term association and enhance my technical and interpersonal skills. 
+OVERVIEW: 
+2 years of experience in Software Testing. 
+Hands-on experience in the design and development methodologies, tools and processes contributing to the design of software applications. 
+Expertise in automation using Selenium WebDriver, JAVA, TestNG and Maven 
+Implemented Page Objects and Hybrid automation frameworks Expertise in writing Selenium WebDriver automation scripts and writing SQL Queries 
+Executed automation scripts on different environments & reported results to the team Proven ability in working individually or as a part of team, Problem solving, Process improvement activities, Analytical skills, Reporting and Assisting to Manage responsibilities. 
+Excellent negotiation, communication/ presentation skills, customer faced and project coordination experience. 
+Dynamic & passionate about the work, open-minded, well-organized, prioritize tasks, takes ownerships on deliverables. 
+IT SKILLS: 
+Automation Tools : Selenium WebDriver, JUnit, TestNG, Selenium IDE Plug-in for Firefox, Jenkins, AutoIT, Log4J, POM, Selenium Frameworks 
+Programming Languages : Java, HTML,SQL 
+Defect Tracking Tools : Bugzilla, Jira, Confluence, JIRA, Bridge Clarify, Zendesk Application Servers : Web and Application Testing, Apache Tomcat, Oracle WebLogic Server 10.3 RDBMS 
+: Oracle, SQL Server, Postgres 
+CAST Software versions : CAST AIP 7.0.9, 7.3.x and 8.0.x. CAST AIP Certified Professional. 
+WORK EXPERIENCE: 
+Software Consultant(QA) at CAST Software pvt ltd, Bangalore since September 2015 to till date. 
+EDUCATIONAL QUALIFICATION: 
+Master of Technology in Computer Science from Visveswaraya Technological University, Karnataka - 2015 Pass out Bachelor of Engineering in Computer Science from Visveswaraya Technological University, Karnataka - 2013 Pass out AWARDS AND CONFERENCES: 
+Certified by MICROSOFT (Microsoft Technology ASSOCIATE). Achievement Date March 20, 2012. 
+Appreciation of effort in developing the product idea (Electronic Progressive Braille Learning Kit.) into prototype that qualified for Finals in India s premier ICT Event held on October 19, 2012, BangaloreIT.biz. & one of the top 5 finalists in 
+State Level Proof of Concept IT Solution Contest at BangaloreIT.biz. 
+The above project has been shortlisted for Foundation for Advancement of Education and Research (Motorola contest), which is one of the top 30 projects from different states of India. Also Nominated for INGENIUM 2013 QUEST GLOBAL as one of top 10 projects from around the country. 
+Electronic Progressive Braille Learning Kit (any language) for all level of education with Travelling Aid for Blind selected for KSCST sponsorship and Nominated for JED-I as one of top 65 projects from different states of India. 
+Secured First place in National and International Level Paper Presentation at Gogte Institute of Technology Belgaum, DMCET Dharwad and KLEIT Hubli. 
+Technical paper on Braille Learning Device titled "Electronic Progressive Braille Learning Kit for Blind (Low Cost, All 
+Languages and Multiline Braille Screen)" which is published in research publishing journal called International Journal of Computer Applications (IJCA) on December 18th, 2013. The published paper can be viewed at www.ijcaonline.org/proceedings/icdcit2014/number1/14665-1304. 
+Secure and Energy Efficient Sensor Localization Scheme using Clustering mechanism which is published in research publishing journal International Journal of Research in Computer Applications and Robotics (IJRCAR) on May 2015. The published paper can be viewed at http://ijrcar.com/Volume_3_Issue_5/v3i530.pdf. 
+PROJECTS: 
+About the CAST product: 
+CAST is an independent software vendor that is a pioneer and world leader in Software Analysis and Measurement (SAM). CAST provides the most advanced technology in the world to capture and quantify the reliability, security, complexity and size of business applications. It introduces fact-based transparency into software asset management, application development, maintenance and sourcing to transform it into a management discipline. More than 250 companies across all industry sectors and geographies rely on CAST to prevent business disruption and build a transparent dialogue with their service providers. 
+CAST is also an integral part of software delivery and maintenance at the world's leading IT service providers and independent software vendors. 
+PROJECT 1: Project Title : Sunrise Migration Team Size 
+: 7-9 
+Client 
+: ATT & Broad ridge Duration : July 2016 to present Tools used 
+: CAST AIP 8.0, Apache Tomcat, PostgreSQL, Dashboard, Transaction configuration center 
+Dashboard Module: 
+Dashboard is for visualizing data in a single page with graphical structure. The dashboard makes data such a way that every user can understand without putting much effort on how application flows. Validation of CAST AIP dashboard shows accurate analysis results and metrics. This includes accurate and consistent variations in key metrics (business criteria, health factors application and enhanced Function Points) between releases. 
+Roles & Responsibilities: 
+Using a consultative approach, identify the actual client business and technical requirements, analyze the processes as-is and redesign the to-be, enabling the client to cope with its change management needs Design and roll-out the measurement Center of Excellence, in conjunction with the client or the preferred partners, granting the best scalability, integration and efficiency of the measurement environment Locally manage the delivery of Manager Services in coordination with CAST Global Delivery team granting the achievement of the expected results Build a trusted relationship with all the client s stakeholder to grant the value delivery Actively supporting knowledge sharing and communication with the local and global delivery team 
+Handled designs, debugging and maintenance of products and solutions to customer in the project. 
+Code Analysis and business understandings. 
+Worked on Software Analysis and Measurement providing visibility into root causes of cost and risk in the software product. 
+Issue fixes and Development of Product Backlog Items 
+Key Achievements: 
+CAST Certified Professional and Key User Certified. 
+Actively involved in the extensive migration of the results from a previous version of CAST to the latest one for a major US telecom. 
+Consultant of the quarter (twice), Team of the Year Award FY16 PROJECT 2: 
+Project Name : IHMS (Hospital management system) 
+Project Type : 
+Web Application. 
+Environment : Asp.Net, Ado.Net, C#, NET 4, Entity Framework 4.0, LINQ, Database MS SQL server. 
+Team Size : 5 Role and Responsibilities : Participated in preparing the test cases and plans and the Schedules. 
+Responsible to Test inpatient billing, Ward Mgmt, nurse modules. 
+Worked on Outpatient Billing, Operation theater module and Payment modules. 
+Worked on build related and publish the project and support to customers. 
+Worked on release the modules to existing projects. 
+Clients : Hospitals. 
+Description: 
+Package1: Hospital management System 
+The usage of this site is to maintain the hospital functional data and encountered patient data in the database as well as medication details. Patient module encounters details such as Patient History Follow up Examination, prescribed medication details, etc., Following components are used by this project. 
+Package2: Dashboard 
+Dashboard is for visualizing data in a single page with graphical structure. The dashboard makes data such a way that every user can understand without putting much effort on how application flows. It has been implemented for OP Bill, IPbill, Consultant collections, etc., 
+Package3: Pharmacy In order to provide more flexibility, the HMS project has been integrated with pharmacy where hospitals can use available materials in their pharmacy. 
+PERSONAL DETAIL: 
+Father s Name 
+: Suresh Basavaradder 
+Date of Birth 
+: 10th March 1992 Languages Known 
+: English, Kannada, Hindi. 
+Address : #302, SUBHADRA 
+24th cross, 27th main, HSR Layout 2nd sector Bangalore-560102 

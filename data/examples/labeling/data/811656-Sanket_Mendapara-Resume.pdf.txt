@@ -1,0 +1,25 @@
+ SANKET MENDAPARA E-mail: y14uc146@lnmiit.ac.in Phone: +91-9428634984, +91-9468818830 EDUCATIONAL QUALIFICATIONS Year Degree/Certificate Institute/School CGPA / % 2018 (expected) B.Tech (Communication & Computer Engineering) The LNM Institute of Information Technology, Jaipur 7.99/10 
+2014 CLASS XII (C.B.S.E.) Shiv Jyoti Convent School, Kota 85.60% 
+2012 CLASS X (G.S.E.B.) Shri N.P. Bhalodia High School, Junagadh 91.40% Hardware - Cisco Routers & Switches 
+Software - Cisco IOS 15.1/12.4/12.3, Windows Server 2012 R2, SecureCRT, PuTTY, Cisco Packet Tracer 
+Programming Languages - C, Java, Python 
+Microsystems Solutions 
+Jaipur, IN May 16-July 16 Implemented and configured 5 LAN and 3 WAN scenarios using Cisco Routers - 2500, 2800 series and Cisco 
+Switches - Catalyst 2950, 2960, 3550, 3560. 
+Used different protocols in LAN and WAN Configuration like Ethernet, Fast Ethernet, Gigabit Ethernet, Telnet, VTP, STP, PVST, RPVST, HSRP, VRRP, OSPF, OSPF V-3, RIP, RIP V-2, EIGRP, DHCP, DNS, Frame relay, PPP, HDLC, GRE and IPSec for efficient configuration of Network Connectivity 
+TURYST - Unified Service Platform Jaipur, IN 
+Sept 16-Nov 16 Developed web-app as one-stop solution to browse, search and book movie tickets and restaurant tables, using 
+SCRUM-development method in 3 Sprints 
+Employed HTML5, CSS3, Bootstrap, JavaScript, PHP & MongoDB and hosted on IBM Bluemix with Automatic 
+Recommendation feature as per user s previous choices of searching, booking or reserving 
+WAN Planning and Implementation of different ACLs 
+Jaipur, IN 
+Aug 16-Sept 16 Planned and configured different types of Access Control Lists for network scenario using Cisco Routers and Cisco IOS 15.1 Implemented NAT and Route Maps concepts on network for enhancing the security and usage restriction for users of different access privilege 
+File Transfer Portal Jaipur, IN Mar 16-Apr 16 Developed transfer portal using JAVA - JSP, HTML, CSS and MySQL providing user with transfer or share features of text, PDF, image files 
+Handled storage, manipulation and retrieval of the files from Database using MySQL and Java JSP CISCO CERTIFIED NETWORK ASSOCIATE (CCNA) - Routing and Switching 
+Teaching Assistant LNMIIT, Jaipur Jan 17-Apr 17 
+Served as Teaching Assistant of Computer Organization and Architecture Lab for 75 second year CSE students Event Organizing Committee 
+LNMIIT, Jaipur Jan 16/17 
+Organized and managed different events of LNMIIT Quiz Club in Plinth 16/17 (Technical Fest of LNMIIT) Secured 1st Place in district-level Freestyle Wrestling Competition in under-16 45kg category, 2010 
+Secured 2nd Place in Junagadh district in district-level Judo Competition in under-14 25kg category, 2005 SKILLS WORK EXPERIENCE 
+KEY PROJECTS TRAININGS ATTENDED POSITIONS OF RESPONSIBILITY EXTRA CURRICULAR ACTIVITIES & ACHIEVEMENTS 

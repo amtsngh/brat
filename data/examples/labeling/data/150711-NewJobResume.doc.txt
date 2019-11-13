@@ -1,0 +1,78 @@
+ SHASHI CHANDRA KUMAR 
+A-11, 19th CROSS, 7th main, BTM 2nd 
+STAGE, BANGALORE 
+Mob. No : 7411081925 
+E-mail : kumarshashi999@outlook.com 
+Objective 
+Seeking for a challenging role of a java developer in a company where my skills and experience can help in growth and success of the company and me as well. 
+Profile Summary 
+Working for NIIT on payroll of BIK TECHNOLOGIES from Oct 2014 to till date. 
+Technical Skills Platforms : 
+Windows 2k/XP/2007 
+Programming Tools : JAVA,SQL,HTML,CSS,JavaScript. 
+Database Packages : MYSQL,Oracle.P IDE 
+: Eclipse,MyEclipse,NetBeans Application Servers 
+: WebLogic,JBoss Web Server : 
+Apache Tomcat 
+J2EE Technologies : JDBC,Servlet,JSP,Web Services(SOAP) XML Technologies 
+: SAX,DOM 
+Frameworks : 
+Hibernate,Spring 
+Java Skills sja 
+JAVA Experience in Core Java J2EETechnologies & Design Patterns 
+Experience in JDBC,Servlet ,JSP,EJB 3.0,JMS,JPAKnowledge of Web Service (SOAP)Experince in 
+(FrontController,MVC,Singleton,DAO,TO,Factory,Template,ServiceLocator, Business Deligates,Session Facade) Persistence Framework Experience in HibernateKnowledge of JPA 
+Framework Experience in Spring Knowledge of Struts 1.x Knowledge of Struts 2.x Tools and Others Experience in 
+Log4J Knowledge of MAVEN ,JSON ,JUNIT 
+Educational Qualification B.TECH(Computer Science and Engineering) in year 2014 from Uttar Pradesh Technical University. 
+Project Sumary 1) Project: EVISA-SYSTEM 
+Role: Developer 
+Team Size: 14 
+Environment: Java,Jsp ,Spring MVC,Hibernate,DWR,GlassFish,SQL,JBoss,Eclipse 
+Duration: May 2015-Till Date 
+Responsibility : Design and development of work packages, Unit Testing 
+Project Description: 
+EVISA System is a web based application which is Used to issue all type of visa For OMAN GOVERNMENT 
+The e-visa is an integral system that contains different types of visas that allow the visitors to pick up their required visa from the comforts of their homes. 
+The application have the following modules: 
+Admin Functionality: 
+Admin has the whole wright in this application .admin can create a new user .can give a privileges to user ,can change the visa rule , and can set the show and action wright to particular user according to project owner 
+User Functionality : 
+Very first user will register in our website .and then can apply for 
+particular visa Can see the status other visa application which is applied by own in pending Queue .can apply for renew visa or can extend visa ,or can notify final dispatcher or can transfer visa and can see own profile or can modify also . 
+DGPR 
+Officer Functionality: 
+We divide verification process in four queue 1) CHECKDOCS QUEUE 
+Docsoff1 
+2) VERIFYPERSON QUEUE veroff1 3) 
+Immigeration queue 
+immisup1 4) Watchlist queue wlsup1 
+In this we have different type of officer to do different work 
+like for document check 
+we have 
+Docsoff1 for person identity 
+we have 
+Veroff1 
+,for immigration rule check we have immisup1 .and for watchlist 
+we have wlsup1. 
+All user have 5 level if any level any user can reject that particular application or can send for more info or can escalate to higher officer or deescalate or can hold that particular that application 2) Project: (BFS Domain) Online Banking System 
+Role: Developer 
+Team Size: 12 
+Environment:Java,Jsp,SpringMVC,Hibernate,Oracle,EJB,JPA,JMS,Web Services ,WebLogic,Eclipse 
+Duration: Oct 2014-Apr 2015 
+Responsibility : Design and development of work packages, Unit Testing 
+Project Description: 
+Online banking Application is providing various services online to its customers. This provides online access of accounts to their clients. New Customer can apply for new account.Customer can apply for education loan,car loan,home loan etc.Customer can View and Update account information, Transfer the Balances between accounts. Customer can also apply for Credit Card through online and get the Monthly Statements online. Also provides search options for the transactions. 
+Personal Information 
+Personal Information 
+Date of Birth 
+: 1st of Feb, 1992. 
+Gender : 
+Male. 
+Languages : English, Hindi. 
+Nationality : 
+Indian 
+DATE : PLACE : 
+Bangalore (SHASHI CHANDRA KUMAR) 
+PAGE 
+2 

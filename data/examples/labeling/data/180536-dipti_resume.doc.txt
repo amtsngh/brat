@@ -1,0 +1,66 @@
+ CURRICULUM 
+VITAE 
+Dipti R. Dhote 
+Mobile: +91-9970311128 E-Mail: 
+diptidhote.2009@rediffmail.com (mailto:diptidhote.2009@rediffmail.com), diptidhote.2014@gmail.com 
+Address: Wagholi, Pune 
+Programming Languages C, C++, Objective C, Swift 
+Operating Systems Windows XP, Windows 7, Macintosh 
+Employment Details 
+Artificial Machines, Pune (July 2015 Present) 
+SPSoft Technologies Pvt Ltd, Pune (December 2014 July 2015) 
+SRS Infosystems, Nagpur 
+(April 2013 April 2014) Lecturer at Revnath Choure College, Nagpur 
+(June 2011 February 2013) Educational Qualification 
+MCA : Amravati University (2008-11) with 75% BCS 
+: 
+Nagpur University (2005-08) with 64.59% HSC 
+: Nagpur Board in 2005 with 63% SSC : Pune Board in 2003 with 74% 
+Professional Experience 1. 
+Godrej 
+Refrigerator 
+(In Progress) 
+Description: Godrej smart refrigerator exactly works as a smart refrigerator because of it's features in the app. iPhone device connects with Refrigerator using Wi-Fi. By using this app you can manage your Fridge & Freezer temperature, also you can handle some features like StandBy & Child lock. Also using this app you can manage your Power Consumption data & Door opening data in Graph format in DAY, Month & WEEK format. Also you can manage your Food & recipes, like app will give you alert that which Food are going to be Expire & which food needs to be more chilling or less chilling. 
+2. 
+Prepaid RO - By Eureka Forbes (In Progress) 
+Description: Prepaid RO is just like a mini app for Water Purifier where you can do the Recharge for water of how much quantity that you wants in Liters. For that we used Airpay Gateway for Recharge facility. Also in Prepaid RO we maintain Auto Service & Self Service for water Purifiers. Also Maintains user profile data & maintains water purifier consumption data in Graph so that user will know how much of water he consumed in a one week or one month or one Year or in Average. 
+Also in this app user will know that which part of water purifier needs to replace or needs to be Servicing by Giving Real Time Errors to users via notification. Also this app tells About Eureka Forbes New products & new offers using their web url. Shows the current localion of water purifier on map. 
+3. Aryabot by Videocon 
+Description: Aryabot is an intelligent device with futuristic features that are based on the IOT phenomenon.A class apart from a modern day AC, Aryabot runs on HAZE that enables the device to align itself to ones usage patterns and preferences, surveillances home and office premises, talks out the commands to the AC, pairs up with smart watches like the Apple Watch, and keeps check on power consumption, besides various other intelligent features like auto-trouble shooting and auto call-logging to the nearest service center. 
+iTunes link: 
+HYPERLINK "https://itunes.apple.com/in/app/aryabot-by-videocon/id1101700970?mt=8" 4. 
+Mirchi Murga 
+Description: 
+You can follow RJ Naved as he pulls off his pranks on unsuspecting callers. Prank calls by RJ Naved are legendary, and now you can get full access to them through this App. You can even send Prank call requests directly to RJ Naved. Enjoy these crazy pranks by Rj Naved and share it with your friends. 
+iTunes link: HYPERLINK https://itunes.apple.com/in/app/mirchi-murga/id953959294?mt=8" 5. 
+Cooling Products - By Blue Star Limited 
+Description: "Cooling Products" is the official app of Blue Star Limited, Indias leading air conditioning and commercial refrigeration company. The app showcases Blue Stars wide range of products along with their technical specifications. The apps smart filter and one-tap search feature can promptly retrieve any information you desire from across various product lines. It also offers a tonnage calculator that determines the cooling capacity for your room and a dealer locator that helps you find and contact Blue Stars channel partners. For in-app enquiries and questions, you can tap on Write to us to get in touch with our sales team who will be delighted to assist you. 
+HYPERLINK: https://itunes.apple.com/in/app/cooling-products/id1071535182?mt=8 6. 
+Grill Alert Bluetooth Connected Thermometer Role: Team member 
+Responsibility: UIDesign of the project Connecting Hardware device using Bluetooth. 
+Parsing Byte Data. 
+iTunes link: 
+HYPERLINK "https://itunes.apple.com/in/app/grill-alert-bluetooth-connected/id1037648845?mt=8" 7. 
+Foodington 
+Description: In this app, Foodington allows you to order online your favorite food from Home Chefs in Oman along with an option of restaurants, caterers and coffee shops. 
+App Store Url: 
+"https://itunes.apple.com/gb/app/foodington/id977704101?mt=8" 8. Shareaflash 
+Description : Shareaflash is the app for any event. Collect and share photos in private albums where you and your friends can add photos, view, comment, and like each other's photos. 
+- Totally Private. Create albums and choose who you want to share them with. Invited friends can add photos, comment, and like photos. 
+- Full control of your albums. You have the option to allow friends to contribute their own photos or only view the photos you add. 
+- Unlimited storage of your photos. Albums can be viewed through the app or the web. Organize and explore your shared photos with ease. 
+- Share photos with family and friends who do not have a mobile device as Shareaflash is also available on the web. 
+- View all photos of an album but only download the photos you choose from family and friends to your device saving storage space. - Capture and organize all your photos in one place. 
+App Store Url : 
+HYPERLINK "https://itunes.apple.com/us/app/shareaflash/id793182730?mt=8" 9. ABC 
+The Learning App 
+Description : This iPhone+iPad app is for childeren. It is a learning App for babies. To learn alphabets A to Z and it has sound of pronounciation. Baby can make alphabets or drawings using this app. It is very interactive to learn alphabets. 
+App Store Url : 
+HYPERLINK "https://itunes.apple.com/us/app/abc-the-learning-app/id661577157?mt=8" PERSONAL PROFILE 
+Date of birth 
+20th December 1987 
+Gender Female 
+Marital Status Married 
+Languages known English ,Marathi and Hindi 
+Permanent Address 
+E-902, B A Vermont, Wagholi, Pune - 412207 

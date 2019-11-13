@@ -1,0 +1,58 @@
+THIRUMALRAO SURISETTY OBJECTIVE 
+To create value and recognition on work place by producing the best result for the organisation through synchronise and hard work. 
+SUMMARY 
+4 Years of experience in iOS (iPhone and iPad). 
+Major Job responsibilities include coding, reviewing, unit testing Good team player with strong ability to learn and adapt new skills, self-motivated, Innovative and Hardworking. 
+Experience writing rich GUI's for the iPhone and iPad Experience in Web Service Integration, XML/JSON parsing Excellent written and verbal communication skills Solid understanding of software design and patterns(singleton and MVC) 
+Had experience in versioning system like SVN, git. 
+Adopting new technologies like swift ,chatbots for facebook messenger,and wireless technologies like beacons. 
+Had Knowledge in handling android apps, mongodb. 
+PROFSESIONAL EXPERIENCE 
+TENURE 
+ORGANISATION DESIGNATION LOCATION 
+MARCH 16 
+PRESENT WEBENZA IOS DEVELOPER BANGALORE. JUNE 
+13 
+MARCH 16 MONDAZ IOS DEVELOPER BANGALORE. 
+EDUCATIONAL DETAILS TENURE PERCENTAGE INSTITUTION SSC 2007 80 % GOOD NEWS EM HIGH SCHOOL . 
+INTERMEDIATE 2007-2009 88 % SRI CHAITANYA JR COLLEGE BTECH 2009-2013 70 % USHA RAMA COLLEGE OF ENGG SOFTWARE KNOWLEDGE PROGRAMMING LANGUAGES : ObjC,Swift language,Basics of python 
+OPERATING SYSTEMS : Windows & Mac OSX EMAIL : thiru548@gmail.com 
+I PHONE : +91-9964114410 PROJECT MANAGEMENT 
+Involved in analysis, design ,development and testing of the application requirements Customer requirement understanding &amp; study, proposal preparation, project execution . 
+Ensured that coding functional elements finished by deadline. 
+Responsible for quality checks, quality assurance for customer deliverables and review meetings and issue resolutions. 
+Involved in testing the application using Adhoc distribution Managed approval process for App Store. 
+PROJECT ON IPHONE S.NO PROJECT TITLE APP STORE LINK LANGUAGE /IDE ABOUT 
+1 VSN (V.ALRT) https://itunes.apple.com/in/ app/v.alrt/id849843665? 
+mt=8 
+Objective C/Xcode 5 V.ALRT 
+is a wearable device for patients that communicates with app (Wireless communication) 2 EAMS https://itunes.apple.com/in/ app/eams/id714391406? 
+mt=8 Objective C/Xcode 6 EAMS application is targeted towards tracking and Recording the tasks done by the supplier crew that work for Ericsson for wireless customers. 
+3 AAJA https://itunes.apple.com/in/ app/aaja-here/ id1073010181?mt=8 
+Objective C/Xcode 7 Shows navigational points in map between two users of the app along with Estimated time 
+4 SMART WATCH Objective C/Xcode 7 
+App is related for patients who are In emergency Smart watch communicates with app. 
+(Wireless communication) 5 
+WHO CAME IN https://itunes.apple.com/in/ app/who-came-in/ id1064939370?mt=8 
+Swift/Xcode 7 Security fills the data about the visitor in mobile app and send notifications to the resident that visitor had came to meet.Resident give back reply as allow/block to the security. 
+6 FOCAL POINT https://itunes.apple.com/us/ app/focal-point-guard/ id1109659773?mt=8 Objective C/Xcode 7 Focal Point workforce manager will notify your workers of the location, events,start times and dates,events for their attendance. 
+7 SUBLIME HOUSE OF TEA https://itunes.apple.com/in/ app/sublime-house-of-tea/ id1099769745?mt=8 
+Objective C/Xcode 7 
+This project related to ecommerce application.Here user can buy tea bags and is promoted by the Prestige Group and Sublime 
+Galleria 
+PERSONAL DETAILS 
+Name : Thirumalrao Surisetty Father s name : S.Pitchaiah Date Of Birth : 16 th 
+NOVEMBER 1991 
+Languages Known : English and Telugu 
+Address : D.no- 2-269,Near Panchayat office, Undavalli, Tadepalli Mandal,Guntur 
+Dist Pin:522 501. 
+I hereby declare that all the information furnished above is right to the best of my knowledge. 
+Date: 
+Place: 
+(Thirumalrao S) 8 ONE CAST https://itunes.apple.com/in/ app/monday-one-cast/ id1173170682?mt=8 
+Swift /Xcode 8 Feature for the child pick up when the parents are not able to go to schools to pick their child they can send their neighbours to pick this application takes id ,photo and name 9 ART BENGALURU https://itunes.apple.com/in/ app/artbengaluru/ id1124834941?mt=8 Swift /Xcode 8 
+Art Bengaluru has been created to showcase a wide spectrum of art forms and provide a platform for artists (both Indian and International) to exhibit their works. 
+10 
+HEALTH LIBRARY CHAT BOT https:// www.messenger.com/t/ 
+HealthLib MICROSOFT LUIS,API.AI AND NODE JS 
+Gives automatic replies for the health related questions given by the user 

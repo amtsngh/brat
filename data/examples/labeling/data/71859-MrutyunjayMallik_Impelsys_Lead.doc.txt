@@ -1,0 +1,155 @@
+ Mrutyunjay Mallik 
+Mobile: 07848821195 ~ E-Mail: mrutyunjay.mallik@gmail.com Seeking assignments in Automated Software Testing / Test Management with a growth oriented organization. 
+Career Overview 
+An astute software professional with over 11 years of rich experience in Software Testing / Quality Assurance and Project Management. 
+Successfully completed the HP LoadRunner software (M18) certification. 
+Successfully completed the ISEB-ISTQB Certified Tester Foundation Level (2010 Syllabus). 
+Research done for the installation and how to go on, and provided the demo to Benchmark Education Group for the Codeception (BDD) with Selenium, which will be helpful for scripts execution with various browsers on Windows, Mac, iOS and Android environments on BrowserStack which supports Sequential execution. With support of the Robo framework parallel execution is possible. 
+Prepared the test framework for the Python with Selenium for Benchmark Education Group. This framework helps to execute the scripts on Chrome or Firefox on local machine. Prepared the Smoke test suite which is executing on daily basis and provide the report. 
+Analyzed the best suitability for functional automation between TFS, QTP, Selenium and Testing anywhere for the specific of Silverlight protocol. Prepared the test suite with Parameterize concept within stipulated time frame with Testing anywhere. Analyzed the best suitability of load test tools for backup service between WebLoadUIPro2, LoadRunner 9.5, LoadUI and TFS for the specific of Silverlight protocol. Performed the Load/Stress, Volume and Soak/Endurance testing within stipulated time with WebLoadUI 2. Analyzed the best suitability of load test tools for clustering implementation between LoadRunner 9.0, WAPT and JMeter. Have done the Load/Stress, testing with LoadRunner and provided report and suggestion to management. 
+Well versed with Testing methodologies, Agile concepts, Test planning and estimation. Hands on experience in integration, system testing, verification & validation of specifications, designing manual test case scripting / review / execution, test automation, functional & regression testing, performance testing, defect and issue reporting and follow up. Hands on experience in WCF web service testing through WCFTestClient. Experience in KT / reverse KT, automation test planning and estimating, managing the quality assurance / independent audit program in the organization, maintaining test environment and reporting. Expertise in test management of desktop / web application / mobile testing, content management testing, interface testing, installation testing (PC/MAC/iPhone/Android), defect management using Bugzilla, TFS, Jira & Rally. 
+Good knowledge in six sigma and lean methodologies. 
+Skill Set 
+TECHNICAL 
+o Tools (Functional): Codeception, Selenium, Testing Anywhere8.1, QTP 9.1. o Tools (Performance): WebLoadUI, LoadRunner, JMeter, LoadUI, TFS. 
+o Tools (Defect Tracking): Rally, Jira, TFS, Bugzilla (3.2.2), BugTracker 
+o 
+Others: Python, WCFTestClient, Eclipse, Epsilon, Perl, VBA, TeX, LaTeX 
+o 
+Repository: Alfresco, Confluence 
+o 
+Operating Systems: Windows (9X, NT, 2000, XP, 7, 10), MAC 10.X, iOS and Lollipop 
+o 
+DBMS/RDBMS: 
+MS Access, SQL Server 2008 
+o Markup Languages: SGML, HTML, XML, CSS FUNCTIONAL o 
+Interacting with users and on shore manager for system study, requirements gathering, analysis & testing. 
+o Undertaking development, testing, debugging and troubleshooting of application. 
+o Creating test plans, monitoring and documenting progress & test coverage. 
+o Overseeing smooth implementation of the application. 
+o 
+Interacting with team members to ensure progress of project work. 
+o Monitoring and ensuring customer delivery during the transition period. 
+o Managing activities like preparing / review / execution of test cases, execution and test report preparation. 
+o 
+Managing activities like preparation of automation framework and conducting automated test suite run for smoke testing. 
+o Conducting installation, functional, compatibility & regression testing & defects checking. 
+MANAGERIAL 
+o Assigning task to subordinates and monitoring their performance and project progress. 
+o Preparing the weekly status report and comparing estimated and actual efforts. 
+o 
+Implementing various methods like central repository, checklists, and SME club, etc. 
+o Organizing team meetings, attending client calls and project meetings. 
+Organizational Experience 
+Since Sep 2014 Impelsys, Bangalore Team Lead - QA 
+Jun 2012 - Sep 2014 CloudXtension, Gurgaon Team Lead - QA 
+Mar 2005 - Jun 2012 
+Aptara, New Delhi 
+Team Lead / QA Engineer 
+Growth Path: 
+Feb00-Feb05 Executive / Sr. Programmer / Programmer 
+Since Mar05 Test Lead / QA Engineer 
+Major Projects Handled 
+Project Title: Benchmark Universe 
+Client: Benchmark Education Company 
+Category: Learning Management System 
+Period: 
+Since February 2015 
+Till date 
+Environment: PHP, Java script, PyMongo, Rally 
+Overview: The Tech Admin and LMS application is to be used for the Benchmark Education Company. Currently those are used for California and next implementation will for Texas soon. The application to be used by the students and teachers for various schools in various districts. This application facilitates as the teacher assigns the assignments and assessments to students. The application has the ability to manage different schools with different districts have facilities like customizing the assignments with Pen, highlight, Youtube videos and many more. Creating notes for the interaction between teacher and students. Also various Reporting mechanism is there. 
+Role: Manual Testing: 
+In Sprint planning meeting the work is assigned for the next 15 days. There are user-stories and previously reported defects. Based on the task if test cases are not there, we have to create test cases. Then attach the related test cases in to test set and we execute those and report defects in Rally if found any. Then developer fix the defect and assign those as new task. After successful completion of testing we mark the task as complete. Then the story can be demoable. After demo success, it goes to implement in Production. 
+Automation Testing: 
+Creating and enhancing the automated test scripts for Codeception with Selenium which supports the BDD (Behavior Driven Development). There is the ability to run on the local environment (Chrome, Firefox & IE browser) and on BrowserStack. With BrowserStack able to run on various browsers like Chrome, Firefox, IE, Edge, Safari, with diff platforms like Windows, Mac, iPad and Android environments. Able to run the script with Sequential and Parallel method. For Parallel testing used the Robo framework. Implemented the Sanity test set which runs on daily basis and update the results. 
+Earlier Created and enhanced the automated test scripts for Selenium with Python. Prepared the nose test framework with Python3.4. This framework has the ability to run multiple test scripts at a time and can be used for Chrome and Firefox browser. The Assert methods are used for the backend validation with duper status codes. 
+Project Title: eCampus 
+Client: Apollo Education Group 
+Category: Education 
+Period: 
+Since September 2014 April 2015 
+Environment: C#.NET, ASP.NET, SQL Server 2008, Jira, HP ALM. 
+Overview: The eCampus application is to be used for the University of Phoenix, Western University College of Financial Planning. The application to be used by the students and faculty members. This application facilitates the students course curriculum, library. 
+Role: Manual Testing: 
+In Sprint planning meeting the work is assigned for the next 15 days. There are main story for the main CR. Each main CR contains the sub tasks for deployment purpose. The release engineer deploy the tasks in QA server. Then we start the real testing work. By that time we completed the test case preparation in HP ALM. This time we execute the test cases and report bugs in Jira if found any. Then developer fix the bug and go for another deployment as sub task. After successful completion of testing we sign-off the task for Production deployment. Again after production deployment we have to cross verify in the production environment and complete the task. 
+Project Title: AppMime 
+Client: Khaleej, Jaba, TecnoTree 
+Category: Mobile Analytics 
+Period: March 2013 
+September 2014 
+Environment: Windows Azure Cloud Computing, SQL Server 2008 R2, MVC, Loosely coupled entity framework, C#.NET, ASP.NET, TFS, Selenium. 
+Overview: The AppMime tool provides the details how the mobile application being used by end users and can helps AppOwners and their team to determine the positive and negative aspects of the application with respect to usage, business and marketing. 
+It can captures the details like installed applications, visitors, page views, frequency, geo-location etc. 
+The system also provides the feature to generate various reports based on the data collected. These reports are purely analytics based and help the AppOwners to visualize the data on events and properties based. 
+Role: Manual Testing: 
+As a Test Lead, delegating work to other team associates. Review test cases and scenarios. Involve in preparation of FS. Bug management through TFS. Perform Database testing. Result analysis and provide report & suggestions to management. 
+Automation Testing: Creating and enhancing the automated test scripts for Selenium. Preparing & executing the jar files for regression testing in various browsers. 
+Project Title: FLEXLINK (FL): Web Based Silverlight Application 
+Client: Flextronics Global Services (US) 
+Domain: Mobile 
+Period: June 2012 September 2014 
+Environment: Windows Azure Cloud Computing, SQL Server 2008 R2, Silverlight 5, WCF RIA Service, MVVM. 
+Overview: FLEXLINK and system is designed for Flextronics Global Services to manage authorized service center (ASC) business operations. The ultimate goals for this system is to handle multiple customers within multiple countries in multiple languages with centralize solutions. The system provides configurable business process flow to meet the business process flow requirement. The system consists of admin, super store, receptionist and technician role based usability. 
+Role Manual Testing: 
+As a Test Lead, assigning work to other team associates. Review test cases and scenarios, managing change request, reporting bugs and preparing checklist. Send the various reports to Client and upper management. Perform Database testing. 
+Automation Testing: 
+Analyzed the best suitability of automation tools: QTP 9.0, Test Anywhere 7.5 and Selenium. Finalize the Test Anywhere as Functional testing tool. Complete the Test suite within the stipulated time. Parametrize through excel made easy to execute the test suite. 
+Performance Testing: 
+Analyzed the best suitability of load test tools for backup service: TFS, LoadRunner 9.5, LoadUI and WebLoadUIPro 2. 
+Finalize the WebLoadUI 2 as Performance testing tool. 
+Performed the Load/Stress, Volume and Soak/Endurance testing within stipulated time. 
+Run the test with and without backup solution to gauge the application. 
+Provide the report(s) with data and suggestion(s) in Excel & MS Word Format to client. 
+Project Title: PowerXEditor (PXE): Web Based Application 
+Clients: Wiley, Worldbook, LWW, T&F, TFJ, Oxford University Press, Cambridge University Press, Mc-Graw Hill, AAP, 
+Role: Test Lead 
+Domain: Content Management System 
+Period: July 06 
+June 12 
+Platform: Front-end: ASP.Net 
+Back-end: XML / SQL 
+Overview: This is an online editing application, intended to abridge the collaborative writing and editing of prepared information in a simple and user-friendly manner. It also provides the protection and safety of a web-based application with regular backup and work-flow progression. 
+Export standard of ePub, PDF and XML / HTML. 
+Role: Manual Testing: 
+As a Test Lead, assigning work to other team associates. Review test cases and scenarios, managing change request, reporting bugs and preparing checklist. Verify the output XML. Send the various reports to Client and upper management. Bridge the gap between Quality and development team. Perform Database testing. 
+Performance Testing: 
+Analyze the best suitability of load test tools for clustering implementation: LoadRunner 9.0, WAPT and JMeter. Finalize the LoadRunner as Performance testing tool. Have done the Load/Stress, testing within stipulated time. Provide report and suggestion to management. 
+Earlier performed the Load test with JMeter and shared the report to the management. 
+Project Title: Bowne Compare Tool (BCT): Desktop application 
+Client: Bowne / RR Donnelly 
+Period: Sept 09 
+Mar 12 
+Platform: .Net / MS Word / Excel / PDF 
+Overview: Bowne Compare Tool is a desktop application used for comparison of Financial Documents. It supports 22 set of Source / Modified Documents which includes Word (2003, 2007, 2010), RTF, XLS (2003, 2007, 2010), HTM, PDF (8.0 & 9.0) and txt format. This application has the option to IgnorePreferences for comparison techniques. As compare to Microsoft Word or Acrobat PDF, it has the smoother compare and reporting structure. 
+Role: 
+As a Test Lead, assigning work to other team associates. SRS/Functional specification analysis, reviewing test cases, managing change request, bug report and preparing checklist. Attending client calls. Perform feasibility study for CR. 
+Project Title: The Chicago Manual of Style (CMS): Desktop application 
+Client: University of Chicago 
+Period: Jul05 
+May07 
+Platform: Visual C++ / HTML / PERL 
+Overview: This project is the Bible of Copy Editors through which they can track the suitable style of the book or journal. It also enables facilities like book marking the page and making notes. They can also perform advance search using this application. 
+Role: Involved in creating, executing, updating and reviewing of test case. Performed functional, integration, system testing. Bug tracking, reporting and managing defects. 
+Project Title: PowerEdit: Desktop application 
+Client: Production Dept of Aptara 
+Domain: Publishing 
+Period: Apr05 
+Oct07 
+Platform: VB.Net / XML / PERL / MS Word 
+Overview: This application provides a quick, precise and cost-effective device for the publishing media which saves efforts to develop conversion tools for each project needs. The tool uses INI model, allowing adequate litheness to present the data in any format depending upon preference. It is a powerful multi-format converter that takes Word files as an input and produces the subsequent XML file preparing a fully automated front-end XML for both Books and Journals. 
+Role: As a QA engineer, developing, reviewing and executing test cases based on Functional Specification. Involve in functional, integration, system and regression testing. Bug reporting, analyzing and tracking. Also taken the full responsibility to implement on Production. 
+Scholastics 
+MCA from IGNOU in 2009. 
+B.A. in Political Science from Utkal University, Orissa in 1996. 
+Professional Enhancements 
+Professional Diploma in Computer Applications from NIIT, New Delhi in 2000. Secured 74% marks. 
+CIC from IGNOU, New Delhi in 2003. Secured 74% marks. 
+Passed the ISTQB-ISEB Certified Tester Foundation Level (2010 Syllabus) in Jan 2011. Secured 75% marks Passed the LoadRunner software (M18) certification in Apr 2011. Secured 90% marks Achievements 
+Received Awards for Test, Run and Set-up of LWW Soft [Converter] for the client of LWW (TechBooks). 
+Received Awards for Quality Product and Scheduled Shipment. 
+Personal Dossier 
+Date of Birth: 
+26th January, 1977. 
+Address: 175, Narayanamma Lane, 6th Cross, Kodihalli, Bangalore, Karnataka. 
+Languages Known: English, Hindi and Oriya. 
+Passport Details: K7180840. 

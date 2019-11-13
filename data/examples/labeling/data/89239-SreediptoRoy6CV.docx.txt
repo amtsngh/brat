@@ -1,0 +1,34 @@
+CURRICULAM VITAE SREEDIPTO ROY #1280, Rajaram Nilaya, sreediptopray@gmail.com 3rd Cross,V.L.Colony, 91-9742451106 Kadugodi,White Field 
+Bengaluru-560067 
+Top of Form 
+Career Objective: 
+To secure a challenging position where I can effectively contribute my skills as software professional possessing competent technical skills and make professional growth while being resourceful, innovative and flexible.Bottom of Form Experience: 1 Year 11 Months as a Software Developer in eSpanning Life Technologies Pvt. Ltd 
+Technical Skills : Languages : Core Java, SQL, HTML5, JQUERY, CSS 3,Bootstrap,AngularJS 
+Technology: J2EE, JUNIT, Spring Core and MVC, Hibernate, JPA, Maven Server: Tomcat 8 
+Database : MySQL Tools : Eclipse, Netbeans , Adobe Edge 
+Job Experience: 
+Project NameeSpanningLife 
+A daily life ecosystem for people, professional and businessTeam Size3 Period (Duration)October 2014 
+Till dateEmployereSpanningLife Technologies Pvt. LtdWork LocationBangaloreOperating SystemWindowsProgramming Languages UsedCore Java, JQuery , J2EE , Spring Core &MVC, JPA, My SQL , HTML5, Junit, CSS, Tomcat 8, Maven, AngularJS, BootstrapToolsEclipse, Netbeans, Adobe EdgeProject DescriptionModules: Task Management, Health &Yoga, Personal Finance, Parenting, Fighting Cancer, Event Management and Surprise Giving. 
+Creating an enterprise web platform for managing daily life ecosystem for people, professional and business.ResponsibilitiesProgramming in ORM (Entity Layer in Object Relational Model). 
+Dao Layer, Manager Layer, Service Layer implementation using Business logic & Composite Layer, Controller Layer coding also. 
+Developing Junit Test Cases Programming to Java Script With HTML 
+Using "JQUERY" in Programming logic to display in a screen for various functionalities. 
+Programming and Debugging in JQuery 
+Implementing AJAX call in JQuery in Internal server method in J2EE controller Layer to create a Request Mapping in JSON format. 
+Creating Database Tables using MySQL Building software implementation of the Java Servlet and Java Server Pages technologies using maven project with apache-tomcat 8.0.9 Exposure to XML (setting paths in XML files in the Maven project) Educational Qualifications: DegreeBoard/ UniversityInstitutionYear of PassingAggregate (% or CGPA)B.Tech(Computer Science and Engineering)West Bengal University of TechnologyRegent Education & Research Foundation2013CGPA - 7.52Higher SecondaryWest Bengal Council of Higher Secondary EducationSinthee RamKrishna Sangha Vidyamandir200860%SecondaryWest Bengal Board of Secondary EducationSinthee RamKrishna Sangha Vidyamandir200666% 
+Professional Traits : Hard worker & quick learner. 
+Sincere & responsible towards work. 
+Good team player. 
+Extra-Curricular Activities: Helped in raising funds for STUDENTS HEALTH HOME. 
+Personal Interests : Playing & watching Cricket, Listening Music, Watching Movies & TV 
+Personal Profile : 
+Name: Sreedipto RoyFather's Name: Partha Sarathi RoyDate of Birth: 06-03-1991Gender: MaleMarital Status: SingleNationality: IndianPermanent Address: #1280,Rajaram Nilaya,, 
+3rd Cross,V.L.Colony,White Field, Kathgudi,Bangalore - 560067. 
+KarnatakaContact No. : 91-9742451106 
+Declaration : 
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars 
+Date: 
+_____________________ 
+Place: Bangalore 
+(Sreedipto Roy) 

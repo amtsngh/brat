@@ -1,0 +1,83 @@
+CURRICULUM VITAE 
+________________________________________________________________________ 
+Aswini Yeddula, Email: y.aswini94@gmail.com. 
+Mobile: +91-8546935783 
+________________________________________________________________________ 
+CAREER OBJECTIVE: 
+Seeking a challenging position where I can apply my knowledge, experience to work towards achieving the organizational goals with continuous mutual improvements. 
+WORK EXPERIENCE: 
+Presently working in Amber-TAG Analytics Private Limited Company From December 01st 2015 till date as a Software Test Engineer. SKILLSET: 
+Extensive work Experience in Manual Testing. 
+Having experience on Database Testing. 
+Experience in analyzing functional requirements and translate them to test cases. 
+Good in identifying Test scenarios and writing Test cases by applying Test case Design Techniques. 
+Strong knowledge of Software Development Life Cycle (SDLC) and Agile methodologies. 
+Strong knowledge of Software Testing Life Cycle (STLC) and Bug Life Cycle with experience in executing test cases and test scenarios. 
+Performed Smoke Testing, Component Testing, Integration Testing, System Testing, Regression Testing, Compatibility Testing and Ad hoc Testing. 
+Prepared Traceability Matrix to ensure the test case coverage for all requirements Reviewed test cases for peers and given valuable comments about test case coverage and functionality. 
+Involved in test plan and design. 
+Ability to identify and raise issues and resolve them in a constructive manner. 
+Good communication skills, hard worker, possess good interpersonal skills like team player and self starter. 
+Have a real time idea on oops concepts in java. 
+Have knowledge on Exception handling. 
+Have a idea on inbuilt classes like String, Wrapper and Object class. 
+Practical idea on collection framework. 
+Knowledge on file handling and threads. 
+Have basic knowledge on JAVA-Selenium. 
+Have basic knowledge on hybrid framework (Data driven & modular driven). 
+ACADEMIC PROFILE: 
+Course Institute/University Year of Passing 
+Percentage of Marks 
+B.Tech (ECE) JNTU ANANTHAPURAM 2015 75% INTER BOARD OF INTERMEDIATE EDUCATION 2011 79% 
+SSC BOARD OF SECONDARY EDUCATION 2009 85% 
+TECHNICAL SKILLS: 
+Operating Systems : 
+Windows 7, 8, XP, UNIX. 
+Programming Languages : 
+Core Java. 
+Defect Tracking Tools 
+: Bugzilla (Defect Tracking Tool) Automation Tools : Selenium Web Driver, Auto IT. 
+Database : SQL. PROJECT #1: 
+Role : Software Test Engineer. 
+Project Title : Enlighted. 
+Client : Enlighted, USA. 
+Team Size 
+: 6. 
+Description: Enlighted supplies energy saving devices to customers. They fix them in customer sites and monitor the power consumed at each device. The data from these devices (like: power consumed, Occupancy, Brightness percentage, motion bits, etc.) are captured by Energy Managers and stored in a database. This database is known as EM Replica DB. A web based application known as Self Service Portal is being developed to provide reporting services to customers. Customers will login to use this application. Using the EM Replica DB (also called as Transaction DB) for reporting purposes would slow down the system. Hence a separate DB instance (called Reporting DB) is proposed which will be the presentation database. All reporting queries will be answered by the Reporting DB. ETL scripts / code (running as cron jobs / background batch processes) will extract the required data from EM Replica DB / EM Cloud DB, transform it and load it to the Reporting DB. This document describes the data model for the proposed Reporting DB and its ETL tasks. 
+RESPONSIBILITIES: 
+Involved in System study and review of SRS. 
+Involved in test plan and design. 
+Involved in writing test cases. 
+Prepared Traceability Matrix to ensure the test case coverage for all requirements Reviewed test cases for peers and given valuable comments about test case coverage and functionality. 
+Proficient in Test Execution, analyzing the result. 
+Proficient in Bug Reporting and Bug tracking. 
+Testing of applications for performance, data integrity and validation issues. 
+Performed Smoke, Functional, System, Ad hoc and Regression testing. 
+Performed Compatibility testing in various environments for different software version. 
+Perform abnormal action intentionally on the application in order to check the stability of Solutions. 
+Tested database accurately whenever required. 
+Generating reports as per the client requirement. 
+Sending day to day project report to test lead and manager 
+Actively participated in discussions with Business Analyst & development teams. 
+Involved in Defect review meetings with the development team along with the testing team for the resolution of the defects. 
+Extensive knowledge of the full Software Testing Life-Cycle. 
+ACEDAMIC PROJECT: Title : Image Steganography. 
+Domain : Digital Image Processing. 
+Description 
+: The objective of the project is to propose a method and discuss about the properties which helps to transmit the data on a network without any modification and also to provide security to transmitting data. 
+ACHIEVEMENTS: 
+Participated in workshop on Embedded Systems Conducted by CRIT. 
+STRENGTHS: Ability to work well in a team as well as individual. 
+Positive attitude to take up the initiative at work and learn new technologies. 
+PERSONAL INFORMATION: 
+Name : Aswini Yeddula. 
+Date of Birth : 22-04-1994 Fathers name : Sri Siva Reddy. Y 
+Marital status : Single. 
+Nationality : Indian 
+Languages Know : Telugu, English, and Kannada. 
+DECLARATION: 
+I hereby declare that all the above mentioned information is true to the best of my knowledge. 
+Place: 
+Anantapuramu. 
+Date: 
+Aswini Y 

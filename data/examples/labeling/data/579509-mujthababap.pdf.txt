@@ -1,0 +1,97 @@
+MUJTHAB KK 
+Objective 
+Possessing knowledge in SAP-ABAP, Seeking assignments in which I can get more exposure to new dimensions of SAP in company repute. Also have 1+ year experience in IT industry in PHP platform. 
+Profile Summary 
+A Graduate in Computer Science & Engineering. 
+Trained in SAP ABAP from Radiant 
+TCO, Bangalore. 1+ year experience in web development in PHP at Global Software Ventures LLP. Ability to lead and work with people well as evidenced by my active participation in campus activities. 
+Academic Chronicle 
+B.E(C.S.E) from srinivas Institute Of Technology, Mangalore (VTU) in 2014. 
+TECHNICAL SKILLS Languages :ABAP/4, PHP, C,C++, JavaScript. 
+ERP : SAP R/3 in ECC 6.0. 
+Operating Systems :Windows family,ubuntu. 
+Data Base : SQL, MySQL Markup languages : CSS, HTML, HTML5. 
+Skills 
+Excellent Communication and Interpersonal 
+Skills. Ability to deal with people diplomatically. 
+Strong & Realistic belief in own capabilities and ideas. 
+Strong analytical and problem solving skills. 
+A tendency to give 100% to the company I am associated with. 
+Out of the box thinking ability. 
+Personal Information: 
+Email id: mujthab003@gmail.com 
+Mob: +91 8943 395 228 Alt mob:+91 8904 485 366 
+Date of birth: 30 May 
+1993 Nationality: Indian 
+Marital status: Single Passport no: P1501424 
+Father Name: Muhammed KK Mother Name: Jubairiya KA 
+Religion: Islam 
+Languages 
+English, Hindi, Malayalam 
+SOFT SKILLS 
+Ready to Accept Challenges. 
+Decision Making Capability. 
+Effective Planning and Team 
+Leading. 
+PERMANENT ADDRESS: 
+KORANKUNNAN (HO), KELLUR ( P .O) , MANANTHAVADY, WAYANAD- KERALA, INDIA. PIN :670645. 
+REFERENCES; Available On Request 
+SAP Expertise 
+Exposure in creating Data Dictionary objects (Domain, Data Elements, Structures and Views). 
+Conceptual knowledge in Dialog programs using Menu Painter/Screen Painter. 
+Worked on Simple List, Interactive List, ALV Reports, OOP ALV Reports. 
+Worked on Enhancements: User exits, Customer exits, BTE, BADI. 
+Worked on BAPI S. Worked on SAP scripts and Smart forms. 
+Familiar with SQL Trace, Run Time Analysis, Debugging tool. 
+Interfaces: Good Knowledge on ALE & IDOC, BAPI. 
+Specific technical experience applied within SD and MM Modules. 
+Project undertaken Academic Projects 
+Title: Track New Mobile Number 
+Track New Mobile Number is a project which has two partitions in it. One is a website and another is an android application. The aim of this project is to help people be in contact with their friends and family even if the number is being changed to another number. 
+Software used: Front end : Visual studio 2012 
+Back end : Microsoft SQL Server 2008 
+Languages : SQL 
+Frame work : .Net Frame work 4.0 
+Role: Team member 
+Team size: 4 members 
+Contributions: 
+Helped in database creation. 
+Code implementation. 
+Projects 
+Project 1 
+Title : Computronestore 
+Team Size : 8 Members 
+Environment : PHP with Zend Framework 
+Role : Admin site , Public site and database management Description : Computronestore is Your One Stop B2B Distributor/ 
+Computer, Consumer Electronics and Office Products www.computronestore.com Project 2 
+Title : Global Software Ventures 
+Environment : PHP with Laravel Framework 
+Team Size : 8 Members 
+Description : Global Software Ventures is a Software Development Company headquartered in the USA. Our programs are Web based, for lower investment, quicker implementation, tight security with familiar user interface (web browser) connecting your Business to more customers, partners, suppliers and geographical locations. 
+globalsoftwareventures.com 
+In-House Developed Objects in SAP 
+REPORTS: Created Classical, Interactive and ABAP List Viewer (ALV) reports in SD, MM 
+Modules. 
+OBJECTS WORKED ON Developed an ALV Report for annual salary details of employee. 
+Material Aging Report (MSEG, MKPF, MAKT, MARA). 
+Vendor Aging Report (LFA1). 
+Sales Register Report (VBRK, VBRP). 
+BDC: Worked extensively in BDC for data transfer from legacy systems to SAP system. 
+OBJECTS WORKED ON 
+Uploaded material Master Data using Call Transaction Method. 
+Create a BDC program for to change the vendor master data using Table control BDC. 
+SMARTFORMS: Designed and modified SAP scripts and Smart forms. 
+OBJECTS WORKED ON Designed and developed a smart form to display purchase order data. 
+Designed and developed a smart form to display Invoice data. 
+BADI: Implemented BADI S. 
+OBJECTS WORKED ON 
+Download the customer data into a file before the customer saved, and the file name is created dynamically. 
+Adding a plant name to the PO number at the time of creation. 
+BAPI OBJECTS WORKED ON 
+Uploading Material Master Data by using BAPI. 
+Uploading PO data using BAPI. 
+ALE/IDOCS OBJECTS WORKED ON Distributed Material Master Data using MATMAS. 
+Hobbies 
+Listening to Songs Badminton ,Cricket Declaration 
+I hereby declare that the particulars given above are true and correct to the best of my knowledge and belief. 
+MUJTHAB K K 

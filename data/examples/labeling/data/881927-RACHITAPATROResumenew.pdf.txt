@@ -1,0 +1,85 @@
+ 1 of 4 RACHITA PATRO Contact: +91-9337365743 
+E-mail: cladz.rich@gmail.com Trainee Software Developer PROFILE SUMMARY 
+A result oriented professional with 10 months of experience in application development and enhancement. 
+Insightful knowledge of Checkpoint firewall logs, PHP, Python, HADOOP File system (HDFS), CSS, HTML, JavaScript, jQuery, D3 JS, KAFKA Streaming, Logstash. 
+Fair knowledge of Angular JS 1.3, Node JS and Express. 
+EMPLOYMENT DETAILS 
+From November 16, 2015 till September 02, 2016 with QOS Technology 
+Projects handled: 
+1. POC for building a web service to provide the Checkpoint Firewall Log Analysis information to the clients using the Checkpoint Firewall 
+The project was aimed to build a POC model for building a UI for the SPLUNK users to analyze the Checkpoint firewall logs. The log file data were transferred to HDFS and SPARK was used to fetch the data from HDFS for filter and analysis using python. The analyzed data were then represented in form of charts and graphs in the UI for the user's view and interaction. This POC was aimed to provide complete user transparency during data fetch from HDFS and SPLUNK database. 
+Key result areas: 
+Was sole responsible for developing UI for the project 
+Was sole responsible for developing user interactive charts and graph presentation using D3 JS interactive library Used python libraries for data fetching, filtering and evaluation as per customer requirements Involved in application development and application maintenance 
+Providing overall coordination to the project 
+Technologies used: 
+Python, HDFS, SPARK streaming, Logstash 
+HTML, CSS, PHP, JS, D3 JS 
+Operating System used: 
+Linux: Ubuntu 14.04/ CentOS 6 2 of 4 Windows 10 2. Web based online application for SPLUNK users to convert the uploaded log text file to xml 
+The project was aimed for the integration with SPLUNK App users provided by QOS Technology for converting the uploaded text file containing the checkpoint raw logs to the required .xml file for checkpoint firewall logs analysis using splunk. Python was used for fetching, analyzing and converting to required xml file. PHP, JavaScript, and jQuery were integrated with python for developing the project UI. MYSQL was used for the user records and user transparency. The project was carefully designed to keep user transparency. 
+Key result areas: 
+Was a solo performer Involved in developing and testing the project 
+Technologies used: 
+Python, HTML, PHP, CSS, JavaScript, jQuery MYSQL, PL/SQL 
+Operating System used: 
+Linux: Ubuntu 14.04 3. Responsive and animated transitional charts and graphs for SPLUNK web app UI hosted by QOS 
+Technology 
+This project was aimed to represent the result of log analysis in UI through interactive charts and graphs. The charts and graphs were represented and build using highly developed and interactive D3 javascript library. 
+Key result areas: Build the responsive and charts and graphs using D3 javascript library Prepared pie, donut, table, bar etc graphs and charts using D3 javascript library 
+Was a solo performer Involved in developing and testing the project 
+Technologies used: 
+HTML, CSS, JavaScript, jQuery, D3 
+Operating System used: 
+Linux: Ubuntu 14.04 4. Live checkpoint file log transfer for analysis to HDFS using KAFKA, Logstash and SPARK 
+This project was a POC for live and automated log file transfer to HDFS for analyzing. Logstash was used to continuously feed the log file data to Kafka producer topic as output. The Kafka consumer topic being the input accepts the log file sent from the producer and behaves as output to HDFS. The SPARK model then reads the HDFS 
+3 of 4 to get the log file as input for analysis. Python API was used to build the spark model for reading the log files and analyzing. 
+Key result areas: 
+Was a solo performer Involved in developing and testing the project 
+Technologies used: 
+Logstash, Kafka, SPARK, Python 
+Operating System used: 
+Linux: Ubuntu 14.04 
+TECHNICAL SKILLS PHP, HTML, Python 2.7, CSS, JavaScript, jQuery JAVA, PL/SQL, MYSQL 
+Dynamic JavaScript charting libraries like D3, NVD3 
+Big Data technologies HADOOP, HDFS, KAFKA, Logstash, SPARK SOFTWARE AND TECHNOLOGIES 
+Development Tools: Sublime2 Text Editor, MyEclipse 
+Browsers: 
+Google Chromium, Mozilla Firefox 
+Platforms: Windows 8.1, Linux (Ubuntu 14.04), Linux (CentOS 6) EDUCATION 
+M.Tech (Master of Technology) in CSE (Computer Science Engineering) in 2015 with CGPA: 9.32 from KIIT 
+University 
+M.Tech Thesis Project 
+MPSO (Multiple Particle Swarm Optimization) based approach for IRIS flower classification 
+Technologies used: 
+Matlab, Weka 
+Operating System used: 
+Windows 8.1 
+B.Tech (Bachelor of Technology) in CSE (Computer Science Engineering) in 2011 with CGPA: 7.45 from BPUT 
+University 
+B.Tech Project 
+E-COPS 
+4 of 4 A JAVA based project for online complaint registration system. Three modules namely ADMIN, USER and COPS module were separately designed. Oracle 10g database was used for this project. 
+Technologies used: 
+JAVA, HTML, CSS templates, JavaScript, Oracle 10g, PL/SQL 
+Operating System used: 
+Windows 7 
+Higher Secondary in Science from Khallikote Junior College, Berhampur, Odisha under Council of Higher 
+Secondary Education (CHSE), Odisha in 2007 with Percentage: 68.66 
+Secondary in Science from D.A.V Public School, Berhampur, Odisha under Central Board of Secondary 
+Education (CBSE) in 2005 with Percentage: 82.80 CERTIFICATIONS 
+Android application developer training from Mindscripts Technologies, Pune in 2012 Certification in Java Programming Language with Sun Education Services Course from NIIT, Bhubaneswar on 25th August, 2009 
+ORACLE CERTIFIED ASSOCIATE (OCA) certification from ORACLE UNIVERSITY in year May 07, 2009 
+TRAININGS 
+Undergoing training of Angular JS 1.3 at Inventateq Training Institute 
+Undergoing training of Node JS and Express at Udemy online course 
+PERSONAL DETAILS 
+Address: 
+Bengaluru, Karnataka 
+Date of Birth: 25/09/1989 
+Marital status: 
+Single 
+Nationality/ Religion: 
+Indian/ Hindu 
+I hereby declare that all the information provided above is true to the best of my knowledge and belief. 
+Bengaluru Rachita Patro 

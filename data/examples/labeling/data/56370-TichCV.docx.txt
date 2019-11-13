@@ -1,0 +1,276 @@
+Professional Resume 
+Personal Details Profile 
+Full Names: 
+Tich Dzokesayi 
+I am a highly skilled & efficient Business and Process Analyst with 10 years industry experience over various softwares, predominantly on Microsoft Dynamics Great Plains, Oracle Systems like EBS, Primavera P6, Primavera Unifier, Prism G2 and SAP across different Sectors namely: 
+Mining 
+Harmony Gold Mines Transport and Freight- Transnet FMCG 
+Premier Foods Energy Eskom Oil and Gas 
+Sasol Water- 
+Rand Water IT Systems 
+Oracle South Africa Telecommunications 
+MTN Municipalities 
+Ekurhuleni Metropolitan Municipality Financial Services 
+- All Life Insurance 
+I have completed 8 successful projects in above corporates including 2 full implementation cycles & also have a good understanding of SDLC processes & methodologies. I have excellent communication skills which aid in better understanding business requirements & effectively relating these to software capabilities to maximize potential & if need be aid in designing a new solution to best fit the requirement. 
+Permit Status: Permanent Resident Gender: 
+Male Race: 
+African Nationality: 
+Zimbabwean Drivers Licence: 
+Code 8 
+Own Transport: Yes 
+Languages: 
+Contact Numbers: English Xhosa 
+Zulu Isindebele +27 83 573 3061 
+Computer Skills Education 
+Windows OS, Server 2003 and 2007, NT SQL Server Reporting Services 2008 (SSRS) 
+Oracle E-Business Suite 
+Billing System 
+Oracle Primavera P6 R8.3 
+Oracle Primavera Unifier 10.1 Oracle Primavera Risk Analytics 
+Oracle Primavera Portfolio Mgt Oracle Primavera Autovue - Visualization 
+Oracle Primavera Contracts Management Oracle Primavera Business Intelligence Oracle P6 ERD / BI / Reporting Oracle HCM 
+Oracle SCM Oracle ASCP Oracle EAM 
+Oracle EBS Oracle ODI Oracle Business Intelligence Publisher 
+11g PRISM G2 
+Smart Plant Enterprise (SPE/SPF/SPO) SAP SAP Finance SAP PS - Planning and Scheduling 
+SAP SRM 
+Supply Relationship Management 
+SAP MM - Materials Management SAP PM - Plant Maintenance SAP cProjects SAP PPM 
+Project Planning and Management 
+SAP IM 
+Investment Management 
+SAP RPM 
+Resource Planning and Management (PPM+PS+IM) 
+Aris Business Designer Version 9 Bizagi Process Modelling Suite BPM & BPMN 2.0 
+Business Analysis and Modelling skills ( Flow charts , Data Modelling) TOGAF Six Sigma PMBOK AGILE 
+Target Operating Model UML Nimbus Control Test Log 
+Application Testing Tool MS Office all versions to 2010 
+Unix & Linux Novell GroupWise MS VISIO 
+Microsoft Dynamics Great Plains (Ver.GP2010) 
+Billing System / Operations Support System Citrix SharePoint Flowcentric MASTER DATA ADMINISTRATION APPLICATION EPICOR 
+ITSM 2009 
+SYSTEMS - C R M 
+OSS (Operations Support System) High School: 
+Njube High School 
+Qualification: 
+Matric 
+Year completed : 1995 
+Tertiary Institution : 
+University of Zimbabwe Qualification : Bachelor of Education (Degree) 
+Year completed : 2002 Tertiary Institution : 
+Bulawayo Polytechnic Qualification : Diploma in Clerical Studies 
+Year completed : 1999 Tertiary Institution : 
+Open University of Zimbabwe Qualification : Bachelor of Business Administration(BBA) 
+Degree: Computer and Management 
+Information Systems 
+Year completed : 
+Current Additional Course: Microsoft Dynamics Great Plains 2010 
+ICDL Trainer (International Computer Drivers Licence 2002 Primavera Unifier Access Management - 2013 
+Primavera Unifier Configuration Management 2013 Primavera Unifier uDesigner - 2013 
+Work Experience 
+Company : Rand Water 
+Position 
+: SENIOR Process Analyst - ARIS Business Designer 9.1 
+Duration : May 2015 to date Reason for Leaving : 
+Short Term Engagements (5 months and project almost complete) 
+Duties: 
+Understanding Clients relevant business processes, functions and business requirements Aligning business processes, procedures and tasks that support Strategic objectives 
+Assisting with integrating processes with the organization's strategy that help with delivering value, and maintaining a minimum level of competency. 
+Assisting establishing a baseline for the organization to plan, implement and measure compliance to IT SLAs Ensuring that the processes used are in compliance with GRC and can be used to measure improvement. 
+Conducting business requirements elicitation and documentation Leading a team of process analysts & junior process analysts Monitoring the business sector, industry, technology, infrastructure, legal and regulatory environment trends. 
+Understanding emerging offerings, tools, processes and trends impacting the business. 
+Leading and Facilitating process workshops Reviewing documentation prepared by Level 1 and 2 Business Analysts 
+Documenting of business processes using Aris Business Designer Version 9.1 Running QA on processes for GRC compliance Mapping of business components to application components, under supervision Interaction with business users Identification of the possible impact of business triggers on the Business Architecture and communicate same to the relevant team 
+Business Requirements identification, elicitation, analysis and documentation Translate the user requirements into process requirements 
+Critically assessing information and data gathered from different sources Presenting findings and work to with stakeholders to identify and implement strategies that will address tactical and strategic goals Preparing routine reports Making appropriate recommendations that will positively impact the business Conducting research on solutions before recommending them. 
+Constructing business cases for initiations proposed by the business. 
+Preparing business analysis documentation (Requirement Definition Specification, Business Case, Request for Proposal) 
+Evaluating situations and determine the best methods to reach defined outcomes Provide information and knowledge as required to resolve problems Ensure that customer specifications are met and that the customer is satisfied with the end service Weigh up the pros and cons of each solution to provide the best service to customers Process Areas 
+Manage Planning and Management Accounting 
+Manage Revenue Accounting 
+Manage Fixed Asset Accounting 
+Manage General Accounting 
+Manage Financial Reporting 
+Manage Inventory Accounting 
+Manage Payroll 
+Manage Treasury Operations 
+Manage Internal Controls 
+Manage Taxes 
+Manage Accounts Payable and Expense Reimbursement 
+Manage Administration of Benefit Funds 
+Manage Capital Expenditure and Secondary Activities Accounting 
+Manage International Funds/Consolidation 
+Manage Accounts Payable 
+Manage Expense Administration 
+Manage Administration of Benefit Funds 
+Manage Provident Funds 
+Manage Medical Aid Funds 
+Manage Capital Expenditure and Secondary Activities Accounting 
+Manage Capital Expenditure Accounting 
+Manage Secondary Activities Accounting 
+Manage International Funds/Consolidation 
+Company : Accenture South Africa 
+Industry: 
+Information Technology 
+Duration 
+: January 2013 March 2015 Reason For Leaving : Project Complete 
+Project 1: EPMSP 
+Enterprise Project Management Systems Project (Ekurhuleni Municipality) 
+Role: Oracle Project Systems Management Consultant 
+Duties: 
+Responsible for the implementation of the Project Management Office Managing the IT Infrastructure Requirements Assessment Process 
+Configuration and support of Primavera Unifier 
+Implementation of Primavera Unifier 
+Configuration and support of Primavera P6 EPPM 
+Implementation of Primavera P6 EPPM 
+Provide input in RFP and RFQ 
+Providing consulting services to various clients Gather requirements Document business processes System design documentation Report to the Head of Project Controls, Develop, manage and maintain a Master Project Schedule that includes the development, engineering, procurement and construction phases Develop and manage OBS , WBC, activities and their relationships, Schedule, baselines, milestones and critical path Create and manage Risks, Issues and Thresholds 
+Define Roles and Resources and assign them to projects and activities Add activity details like, budget, expenses, cost accounts to activities and calculate earned value Update activities with actual progress to keep it update Create tracking layouts, Reflections, Report layouts for customized reports in Primavera as per requirements of stakeholders. 
+Import and export to and from MS Excel, MS Project and Contract Manager module Identify and analyse live reports to see Schedule, scope and budget deviation in project progress and recommend corrective and preventive actions. 
+Prepare daily, weekly and monthly reports and performance measurement calculations Ensuring that all schedules are maintained and updated in line with project requirements Review changes and track changes to the schedule on a regular basis 
+Ensuring that performance data reports are accurate and validated Document lessons learned from each project for future work 
+Project 2: 
+MTN SOUTH AFRICA - Project: MTN Next! 
+Role: Oracle Systems Data Migration Specialist for 
+Systems Integration 
+Duties: 
+Responsible for the definition and management of the master data strategy Provide expert input to the master data process development to address data domain needs in a manner that is integrated with business needs Responsible for reviewing the existing data management framework ensuring that data is managed as per GRC and SOX guidelines. 
+Understanding all data flows across Finance, HR, EAM and SCM between legacy systems and existing ERP solutions Identify all data requirements needed for the successful implementation Responsible the design of the IT data architecture and master data management architecture is aligned to target architecture, and makes effective use of existing solutions Responsible for establishing the specification including: 
+Provision of all data requirements to the IT enablement team to ensure requirements are incorporated into Oracle and related solution design Responsible for the quality of data and information in the IT solution: 
+Establish data standards, MDM Analysis and preparing data for migration into systems. 
+Develop configuration specification for related data requirements Perform end to end testing and data reconciliation of all migrated data 
+Completing 
+all go live checklist Providing post go live support as required and perform post go-live assessment Responsible for localising data management approach based on any specific tax, legal or regulatory requirements that may arise Responsible for end to end testing of data architecture across systems (Primavera P6, HCM, SCM and EAM) 
+Systems Integration: 
+Primavera P6, HCM SCM EAM 
+Hyperion 
+EBS 
+Project 3 : Insurance System configuration for All Life PTY Ltd 
+Position : Senior IT Business Analyst 
+Duties: 
+Business Process Analysis 
+To-be Business Process mapping Doing risk analysis Doing gap analysis Training end users on the new processes Requirements gathering from both the business and technical points of view. 
+Documenting and producing functional specifications, with an input into the technical specifications. 
+JAD session facilitator ensuring a holistic view of the problem is achieved, with a keen eye towards the various systems and integrations. 
+Attend requirements gathering sessions, in the absence of the Development Manager, where applicable. 
+Part of the Exco decision making arm on IT solutions 
+Company : Oracle South Africa PGBU EMEA Pre-Sales Enablement 
+Position : Application Support Consultant 
+Duration 
+: July 2010 to December 2012 Reason For Leaving : Career Growth 
+Duties: 
+Presales application support for Europe, Middle East and Africa- 
+Discussion with customers, VARs to validate customers pain points and requirements via meetings, phone calls, webinars and/or emails; Demonstration of Primavera solution based on clients requirements either derived from RFP or detailed requirement analysis; - Request for Proposal / RFQ Request for Quote or Quotation 
+Demonstrating to clients how Oracle ODI makes integration and data sharing with other Oracle platforms easy 
+RFP response from a functional and technical perspective; Creation and monitoring of customer evaluation, pilots and proof of concepts; Sourcing answers to technical questions regarding a defined sales opportunity; Running seminars and workshops for target accounts; Participating in EMEA Primavera Global Business Unit executive marketing events; -Europe, Middle East and Africa 
+Providing the sales team with client application demonstrations for the following Primavera solutions: 
+Providing Post implementation support: 
+Unifier Access Management 
+Admin Role 
+Unifier configuration Management configuration of Oracle workflows and Business Processes - Admin Role 
+Creating/Designing and managing Oracle Solution Designs (workflows and Business Processes 
+Oracle BPEL )using uDesigner tool - Admin Role 
+Providing post Primavera P6 implementation support Oralce Solutions used: 
+Oracle Primavera P6 R8.3 
+Oracle Primavera Unifier 9.12 Oracle Primavera Risk Analytics 
+Oracle Primavera Portfolio Mgt 
+Oracle Primavera Autovue - Visualization 
+Oracle Primavera Contracts Management 
+Oracle Primavera Business Intelligence 
+Oracle P6 ERD / BI / Reporting 
+Oracle ODI 
+Company : Modus BPS 
+Client: Eskom 
+Duration 
+: January 2008 to June 2010 Reason For Leaving : Projects Complete 
+Project 1 : Project Tools Implementation 
+Primavera and Prism G2 
+Business Analyst PRISM G2/Primavera System Support / Specialist 
+Duties: 
+Performing business process re-engineering. 
+Reviewing hardware sizing and capacity planning as required to support Primavera 
+Providing a consultative service to customers [project managers] Training users on the functionality of PRISM. 
+Documenting and create knowledge base for issues and resolutions Responsible for specialist investigations, configuration and testing of solutions of the Prism G2 application. 
+Maintaining and configuration of load-balancing technologies for applications on servers Providing user support for logged calls and user requests. 
+Providing system solution training. 
+Ensuring that our environments are correctly configured Document and advise on design documents relating to patches and upgrades Investigating and resolve issues relating to Primavera 
+Documenting and create knowledge base for issues and resolutions Provide consultative service to users Assisting with testing and setting up of test cases for technical architecture Building, and testing of all technical architecture components/ 
+Assist with disaster recovery plans, security compliance and change management, planning and execution Change Management, Incident Management and Problem Management 
+Maintaining technical infrastructure Monitoring the status of production environment daily. 
+Documenting processes and assisting in change document reviews. 
+Prism G2 installation and Database configuration 
+Managing of service oriented architecture [SOA], CITRIX servers, remote access, oracle databases, and administration of users on domains. 
+Prism G2 Project Cost management. 
+Perform business process re-engineering for their technical environment Managing of the processes within Eskom [ITIL understanding]. Supporting of Oracle products. 
+Initial setup and discovery; Data migration; Data clean-up; Develop Reports 
+Develop reports and additional functionality; System testing, UAT and Performance testing; Migration of existing schedules into P6 Production environment; and Training and handholding. 
+Project 2 : Eskom SAP Implementation Project 
+Role: Business Process Engineer 
+Duties: 
+Mapping business processes using Aris Business Designer v7.1 Aligning business processes to GRC 
+Business Process Gap analysis Training users on the mapped to-be processes Process Optimisation/Improvement 
+Training Users and management on the new SAP system to be implemented Creating Change Requests and updating existing processes Process and System configuration Scoping development and functional requirements. 
+Managing development of business process solutions. 
+Analysing and interpreting process control manuals and ensuring that the relevant business processes are modeled down to activity level (Level 6) in ARIS and in alignment to RACI chart. 
+Ensuring alignment and integration with other Business Processes and existing organisation with policies procedures and guidelines 
+Governance, Risk Management, and Compliance or GRC 
+Business Process Gap analysis Directing and guiding actual process development. 
+Ensuring conformance to change management process requirements Ensuring approval of business processes. 
+Modeling Business Processes accordingly to appropriate Eskom Modeling Methodology 
+Conducting quality assurance of model Monitoring and ensuring compliance with regards to change and development processes Conducting post implementation evaluation against set criteria, identifying problem areas and recommending corrective actions. 
+Conducting post implementation evaluations and regular reviews against set criteria to measure the actual effectiveness and efficiency of group processes, identify problem areas and recommend corrective actions Facilitation of iHPUM and Meta Model sessions Sitting and facilitating the JAD sessions with Subject Matter Experts 
+Creating normal FADs (Function Allocated Diagrams) for process flows Mapping RACIs Mapping Risks and Control Matrixes onto processes Creation of SAP FADS 
+Generation of Technical QA reports for developed processes Generation PCMs for processes Mapping KPIs onto Processes 
+Mapping Strategic Objectives onto processes Preparing Documentation for final sign-off on Processes 
+Generation of RACM reports Duties for Enterprise Asset Management Stream 
+Transfer knowledge & experience on Oracle E-Business Suite (Supply Chain) and Enterprise Asset Management/Tracking 
+Facilitate and actively participate in all phases of the Implementation cycle, to include Requirements 
+Gathering & Analysis, System Design & Development, Testing, and Implementation. 
+Suggest & execute solutions for the problem in hand and help mapping Oracle's best practices to business flows and requirements by implementing new modules and new system features Guide technical consultant for any required customization, Report Generation and data upload Consultancy and support of SC modules by resolving user issues, collecting and managing business requirements and update the system based on them creatively in developing innovative work-around solutions or new processes Participate in Reports and Forms customization Assist in other Oracle functional or duties as required Coordinate with Oracle DBAs and System administrators for resolving internal technical issues Implement and test suggestions/recommendations by Oracle in Test instance and test Custom solutions Train Key users and End users and prepare the documentation and user guides for the implemented solution Prepare and submit periodical activity reports beside the ability to build process flows Assist, coach, and mentor other engagement team members on issues they may encounter in the design and implementation of solutions. 
+Actively participate in the troubleshooting phase once the product has gone "live". 
+Develop and document, know-how, controls, and capabilities within the Oracle ERP. 
+Streams Worked: 
+Generation Outages 
+Distribution 
+Optimisation 
+Enterprise Asset Management 
+Supply Chain 
+Planning and Scheduling 
+Risk Management Quality Management 
+Finance 
+Project 3: Sasol Capital Excellence 
+Role: Senior Business Process Analyst 
+Duties: 
+Mapping business processes using Aris Business Designer 
+Scoping development and functional requirements. 
+Managing development of business process solutions. 
+Analysing and interpreting process control manuals and ensuring that the relevant business processes are modelled down to activity level in ARIS and in alignment to RACI chart. 
+Ensuring alignment and integration with other Business Processes and existing organisation with policies procedures and guidelines Ensuring conformance to change management process requirements Ensuring approval of business processes. 
+Modeling Business Processes accordingly to appropriate Sasol Modeling Methodology 
+Sitting and facilitating the JAD sessions with Subject Matter Experts 
+Creating normal FADs (Function Allocated Diagrams) for process flows Mapping Strategic Objectives onto processes 
+Company 
+: Sandbox Projects 
+Client: 
+Premier Foods 
+Project 1: Premier foods Mobile device project 
+Role: Business Systems Consultant 
+Industry: 
+FMCG 
+Duration 
+: Date: 
+August 2004 to December 2007 
+Duties: 
+Epicor Call Logging System/Incident Management System, Service Desk Centralization 
+Mobility Project 
+Time and Motion Project 
+Implementation of IT Governance structures to enhance Service Delivery. 
+IT Mobility project implementation for Premier foods/Blue Ribbon countrywide. 
+Training end users on the new system 
+IT Value Chain Management 
+VAMP sites System testing before the final rollout. 
+Checking Business System Requirements 
+Change management support; Change Request, Planning, Developing, Testing, approval and release New system implementation which was integrated with Great Plains (ERP System). 
+Ensuring Release Notes are available to users before and during changes to the system Using SLAs to manage calls logged 
+Project 2: Premier foods mobile

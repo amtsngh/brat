@@ -1,0 +1,64 @@
+Rashmi R 
+Mobile: +91-8892497051 
+Email: rashmirhsn@gmail.com 
+Career objective: 
+Looking for a challenging career as a Test engineer in a product or service based organization where I can enhance my skills and strengths in conjunction with companys goals and objectives. 
+PROFESSIONAL EXPERIENCE SUMMARY: 
+Having a year of IT Industry Experience as a Content Developer & Manual Test Engineer. 
+Organization Designation Location Date 
+Smart Solutions Content Developer Hassan February 2015 November 2015 
+Job Description: 
+A Smart class where we develop the educational related contents of C & C++ programming languages and upload to www.smartsoluntionz.in website this in turn helps registered users to easily take the reference contents. 
+Worked as a Manual Test Engineer and was responsible to test the softwaresdeveloped by Smart Solutions for Schools Software Development &Engineeringdegrees for the quality assurance and checking the softwaresto ensure that theprogramsor utilities are performing properly and also took part in uploading the contents to www.smartsolountionz.in and along with testing basic and critical features that are propagated as desired and performed functional testing by doing thorough and rigorous testing and also logging in to various modules and testing it with integration testing. Once the software is relatively working properly then an end to end testing are carried out post software is stable this is deployed to clients place. 
+TECHNOLOGY SUMMARY: 
+Programming Technologies: C, C++ & Java 
+Development Tools: Eclipse IDE 
+Testing tools: Selenium 2, QC, Bugzilla 
+Databases: Oracle, MySQL 
+Functional skills: 
+Manual Testing Concept Thorough knowledge on SDLC and STLC concepts. 
+Good understanding of Functional Testing, Integration testing, Smoke Testing, System Testing, Regression Testing, Exploratory Testing. 
+Good knowledge on STLC Concept, Defect life cycle. 
+Ability to write a test cases in test case template and to write a test scenarios. 
+Knowledge on reviewing Test Cases and Test Plans. 
+SQL Concept 
+Good knowledge on RDBMS Concepts like Constraints, Normalization, tables. 
+Thorough knowledge on Functions, Grouping & Subqueries. 
+Good knowledge on Joins (inner joins, left joins and right joins). 
+Proficient knowledge SQL Queries. 
+Core java Good knowledge on oops concept like Inheritance, abstraction, polymorphism, encapsulation. 
+Good knowledge on method overloading and method overriding. 
+Very good knowledge in abstract class and interface. 
+Good knowledge in string classes, exception handling and arrays. 
+Good understanding in up casting and down casting. 
+EDUCATIONAL QUALIFICATION: 
+B.E in Computer Science, 2014 Batch with an aggregate of 65%, RIT, VTU, Hassan, KA 
+Diploma in Information Science and Engineering, 2011 Batch with an aggregate of 74%, Board of Technical Education, Hassan, KA 
+S. S. L. C, April 2008, with an aggregate of 65%, GHS, Haranally, KA. 
+Academic Projects: 
+Diploma: 
+This Project was done as a part of my 6th semester curriculum 
+Team Size: 4 
+Environment: HTML, C++ 
+Name: Web design and online result analysis 
+Description: The software website design and online result analysis is basically used to know the details of the Hassan polytechnic colleges information and it helps student to see their examination results and supports and analyses various activities relating to all Hassan polytechnic colleges. 
+BE: 
+This Project was done as a part of my 8th semester curriculum 
+Team Size: 4 
+Environment: Java & HTML 
+Name: Log Based approach to make a digital forensic easier on cloud computing 
+Description: The main objective of this project is to develop log files that are maintained in the cloud. Using that files we can use to check the activities on cloud. The content are recorded in log file and is decided by CSPs, the log files should be operated by the module created by CSPs. The log module will use the information on the log record locally, so that if anyone tries to hack the password the account will be blocked and fake user can be identified easily. 
+STRENGTHS: 
+Comprehensive problem solving abilities Ability to deal with people diplomatically Committed, energetic and self-motivated team player 
+Willingness to learn, team facilitator and excellent leadership qualities 
+Personal Details: 
+Name : Rashmi R 
+Fathers Name 
+: Ramesh D C 
+D.O.B : 01 -05-1991 Marital status : Married 
+Languages Known : English, Kannada 
+Permanent Address : Ashwathnagar, Bangalore-94. 
+Declaration: 
+I hereby declare that the above information furnished is true to best of my knowledge and belief. 
+Place: Bangalore 
+SIGNATURE 

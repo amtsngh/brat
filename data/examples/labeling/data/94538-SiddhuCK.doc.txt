@@ -1,0 +1,216 @@
+ Siddhu C. Kolkur 
+Contact No: 99809-79065 Email Id: siddhuck@gmail.com (mailto:siddhuck@gmail.com) 
+siddhuck@rediffmail.com (mailto:siddhuck@rediffmail.com) 
+Total 12+ years of QA experience into SIP, WLAN, IPsec, L2TP and Home-Gateway domains. Conversant with protocol testing, functional testing, Regression testing, Stress testing and System testing and automation experience using TCL/Expect. 
+Skills: 
+Proficient in design of Test plan and writing test cases. 
+Good experience in product testing and exposure on reference platforms/tools. 
+Ability to lead a team of test engineers. 
+Ability to develop QA Run scripts for automating command line based applications using TCL/Expect scripting. 
+Quick Learner, self-motivated. 
+Experience in working under Agile Scrum team. 
+Professional Experience: 
+Qualcomm (India) Pvt. Ltd, Bangalore 
+Aug 2015-TillSr.Lead EngineerIkanos Communications (India) Pvt. Ltd, Bangalore Jan 2013-Aug 2015 
+Staff EngineerSymphony Teleca (India) Pvt. Ltd, Bangalore Sep 2010 
+Jan 2013 
+Lead Product EngineerMarvell India Pvt Ltd, Bangalore and Pune 
+Jan 2008 Aug 2010 
+Senior Software Engineer(QA) Picomobile Systems Pvt Ltd, Bangalore April 2007Jan 2008 
+SSEGlobalEdge Software Pvt Ltd, Bangalore Jan 2004Feb 2007 SSE SKILL SETS: 
+Testing Tools 
+IxExplorer, IxLoad, STC, Iperf, VQT, Sipp, PROTOS test suite, TestQuest, CETK, WLK1.4, Intel NAS tool, Ameritec BCG, CD-Router. 
+Scripting Language 
+TCL/Expect, TTL,Python Operating Systems Linux, Windows,WinMO. 
+Network Analysers 
+Wireshark,Omnipeek 802.11 Analyser. 
+Telecom Protocols SIP,SDP,RTP/RTCP, IMS. 
+WLAN Protocols 802.11abgn 
+Networking Protocols 
+TCP/IP,UDP,IPv4 ,IPv6,ICMP,IGMP,DHCP,DNS,IPSec,L2TP,L2TPoIPsec. 
+Defect Tracking Tools Bugzilla,JIRA Version Control SVN,CVS MAJOR PROJECTS 
+Project name : Vx183GigaByte-Collard 
+Duration : 
+Dec 2015-Till date 
+Environment : Vx183-GB Board with ADSL/VDSL WAN. 
+Role : 
+Senior QA Vx183-GB is scaled down version of Vx185 targeted for mid-tier retailers. It is a linux based home gateway and has support of L2, L3 features with DHCP, FTP, Telnet support and VoIP calls can be made using SLIC interface on DUT. QCA Besra and Kiwi cards are used as Dual WLAN APs for wireless connectivity. USB0 and USB1 are used for data storage. 
+Roles and Responsibilities: 
+Testing of VLAN, DHCP relay, L2TP, PPPoE relay, PPPoE pass-through, 6rd-Dslite, NTP functionalities on the gateway. 
+Dual stack stability testing. 
+Packet forward Performance on GIG and DSL. 
+Triple play testing. 
+Project name : 
+Vx585 Linux Router Gateway 
+Duration : 
+Feb 2013-Nov 2015 
+Environment : 
+Linux, Vx585 Reference Board with ADSL/VDSL WAN. 
+Role : 
+Senior QA 
+Ikanos LRG is a ADSL/VDSL home gateway which functions as bridge or a router. This LRG has support of L2, L3 features and network applications like DHCP, DNS, FTP, Telnet support and VoIP calls using SLIC interface on DUT. Dual WLAN APs are used on the DUT for wireless connectivity. USB and SATA interfaces are used for data storage. 
+Roles and Responsibilities: 
+Testing of VLAN, DHCP relay, PPPoE relay, PPPoE pass-through, EFM pre-emption, 6rd-Dslite, NTP, functionalities on the gateway. 
+IPsec, L2TP and L2TPoIPsec feature testing. 
+Triple play and stability testing. 
+Verifying WLAN security functions on AP. 
+Experience on WLAN(802.11a/b/g/n) Performance Testing. 
+Packet forward Performance on GIG and DSL. 
+Project name : IPSec-Ixload Automation (IKANOS Communication) 
+Duration : 
+May 2012-Jan 2013 
+Environment : 
+Linux, Vx185 Reference Board with ADSL/VDSL WAN. 
+Role : 
+Consultant 
+Ikanos LRG is a ADSL/VDSL home gateway which functions as bridge and a router. This LRG has support of Ipsec gateway/host and used to secure all traffic passing in and out of gateway. Strongswan implementation is used, plan is to automate authentication-encryption algorithm tests and functional tests against Ixload and verify DUT behavior. 
+Roles and Responsibilities: 
+Involved in creating the test scripts for DUT configurations, fastpath verification and Ixload scripts. 
+Automated algorithm combination tests both in ESP and IKE modes in both site-site and Road warrior scenarios and functional tests. 
+Project name : Ipsec Gateway (IKANOS Communication) 
+Duration : Dec 2011-April 2012 
+Environment : 
+Linux, Vx185 Reference Board with ADSL/VDSL WAN. 
+Role : 
+Consultant QA 
+Ikanos home gateway has support of Ipsec and used to secure all traffic passing in and out of gateway. Strongswan implementation is used. DUT can be used host or as a server or IPsec VPN passthrough can also be tested. Support for both IKEv1 and IKEv2. Both Tunnel and transport modes can be tested. 
+Roles and Responsibilities: 
+Involved in creating the test plan for functional, stability, performance and IOP. Testing of functional Ipsec rekey, ESP algorithms support on DUT. 
+Carried out IOP tests with Netgear Router. 
+Performed Ipsec performance for various packet sizes over ADSL/VDSL and GIG. 
+Project name : Vx185 Linux Router Gateway (IKANOS Communication) 
+Duration : Dec 2010-Nov 2011 
+Environment : 
+Linux, Vx185 Reference Board with ADSL/VDSL WAN. 
+Role : 
+QA 
+Ikanos LRG is a ADSL/VDSL home gateway which functions as bridge or a router. This LRG has support of L2, L3 features and network applications like DHCP, DNS, FTP, Telnet support and VoIP calls using SLIC interface on DUT. Dual WLAN APs are used on the DUT for wireless connectivity.USB and SATA interfaces are used for data storage. 
+Roles and Responsibilities: 
+Involved in creating the system test bed for triple play tests on GIG, ADSL and VDSL interfaces. 
+Verifying WLAN security functional on AP. 
+Testing of SIP, Routing, and NAT, Ethernet flow control, Port scan, Firewall and Bridging and WLAN and Ipsec functionalities on the gateway. 
+L2TP feature testing. 
+Execute USB & eSATA Storage performance tests. 
+Marvell Project : Micro-AP 
+Duration : 
+Nov 2009-Aug 2010 
+Environment : 
+Linux, WinMO, Omnipeek, Ixchariot, Iperf. 
+Role : Senior QA 
+Marvells WLAN Micro-AP is an embedded AP developed for WinMo/Linux platforms running on embedded hardware which has support for following features: 
+802.11 abgn 
+802.11 I (Security Protocols) 
+RTS/CTS, Fragmentation 
+Rate adaptation 
+IEEE PS 
+Short/Long preamble 
+WPS support Unicast/multicast/broadcast data tests. 
+ERP Protection. 
+Retry limit and STA Ageout. 
+Roles and Responsibilities: 
+Responsible for bringing up test setup, test execution, bug logging and bug verification for build. 
+Responsible for running the automation and validation of test results. 
+Responsible for sending BAT/Full cycle test reports. 
+Invovled in IOT and stability testing. 
+Marvell Project 
+: WLAN Client Driver 
+Duration : June 2009 Oct 2009 
+Platform : Win XP/WinMO 
+Role : 
+Team member Marvells wifi client driver runs on UMPCs or generic windows XP/vista. Task is to test and validate wlan client features on marvell driver which include: Basic Association/re-association/disassociation, de-auth, RTS/CTS, fragmentation, 802.11i security tests, WPS and adhoc tests. 
+Roles and Responsibilities: 
+Execution of BAT and fullcycle test plans. 
+Creation of WLK test setup and logo certification of the driver. 
+Bug reporting on bugzilla and test report generation. 
+Running of IOT and stability tests. 
+Responsible for running the automation and validation of test results. 
+Marvell Project : WLAN CETK Certification 
+Duration : April 2009 May 2009 
+Environment 
+: WinCE on Zylonite, Cisco/Linksys AP, Activesync. 
+Role : 
+Team member 
+WLAN CETK Certification is for marvells client driver running on WinCE OS on zylonite platform for windows CE logo certification. This involves the following tests: 
+One-card network card test. 
+Two-card network card test. 
+Winsock Performance test. 
+Wifi Authentication test. 
+Roles and Responsibilities: 
+Involved in bringing up the CETK test setup. 
+Execution of the test cases and bug reporting. 
+Generating test report and sending to the manager. 
+Marvell Project : Picophone-IMS 
+Duration : 
+Sep 2008-March 2010 
+Environment : 
+WinCE/WinMO, Actisync,Sipp,Ethereal. 
+Role : 
+Module Lead 
+Project Description: 
+Picophone-IMS is a softphone developed for WinCE/WinMO OS running on smartphone/PDAs.Project involved validation of the features against 3gpp Rel7 IMS compliance consisting of P-CSCF discovery,PDP context testcases,IMS reg/re-reg/de-reg,network initiated de-reg, CFU,videoshare,imageshare and fileshare etc. 
+Roles and Responsibilities: 
+Understanding and preparation of Rel7 IMS compliance test paln. 
+Bringing up of test servers(OpenIMSCore, SER) and execution of test cases. 
+Bug reporting on bugzilla and generation of test reports. 
+Tested videoshare/fieshare/imageshare features on 3G at Marvell-Israel. 
+Marvell Project 
+: Picophone-SIP 
+Duration : Jan 2008-Sep 2008 
+Environment : 
+WinCE/WinMO, Activesync,Sipp,PROTOS,Ethereal 
+Role : 
+Module Lead 
+Project Description: 
+Picophone-SIP is a softphone developed for WinCE/WinMO OS running on smartphone/PDAs.Project involved testing of basic SIP call features,RFC 3261 compliance,supplimentory services like Call forward,Call transfer,DND,Anonymous call block,Instant message,Subscribe-notify,Presence. 
+Roles and Responsibilities: 
+Responsible for preparation of test plan for call forward, call transfer and Image share features. 
+Invovled in setting up of the test lab servers. 
+Execution of PROTOS test suite and SIPP on Picophone. 
+Bug reporting and report generation. 
+Responsible for updating the Project manager with the daily and weekly status for all SIP/IMS activities. 
+Picomobile Project : 
+Picophone. 
+Client 
+: Asus, Samsung. 
+Platform : WinCE/MO. 
+Duration : April 2007-Jan 2008 
+Role : Team member 
+Project Description: 
+Picophone-SIP is a softphone developed for WinCE/WinMO OS running on smartphone/PDAs.Project involved testing of basic SIP call features, RFC 3261 compliance, supplementary services like Call forward,Call transfer,DND,Anonymous call block,Sec-agree,SigComp, Instant message, Subscribe-notify,Presence,VCC. 
+Roles and Responsibilities: 
+Responsible for preparation of test plan for FS, VS. 
+Bringing up test setup and execution of test cases. 
+Execution of PROTOS test suite on Picophone. 
+Bug reporting and report generation. 
+Centillium Project : Entropia III-VoIP 
+Platform : Centilliums Entropia DSP Platform. 
+Duration : 
+Feb 2007-April 2007 
+Role : Team member 
+Project Description: 
+This project involves validation of VoIP data communication across TDM and packet(IP)networks using the Centilliums VoIP DSP data processors. Involves voice quality testing and load testing of the chip using Abacus as the call generator tool.SIP is used as the signaling protocol. 
+Roles and Responsibilities: 
+Understanding and preparation of TestPlan. Bringing up of test setup and Execution of test cases. 
+Validation and Bug reporting during load and systemTesting. 
+Globaledge Project : Videophone 
+Platform : Netkernel and uClinux. 
+Duration : June 2004-Feb 2007 
+Role : Team member 
+Project Description: 
+Videophone is an extension to normal POTS phone along with video capability. Camera and LCD display are used to capture and display the two-way video alongwith audio in real time.SIP protocol is used for signaling and RTP for real time data transfer. Project involved testing of SIP applications developed on radvision sip stack for ADIs DSP platform. Testing involves of Basic SIP call features, call forward, call hold,call transfer,IM,OPTIONS,UPDATE,Presence-subscription,DTMF etc. 
+Roles and Responsibilities: 
+Involved in preparation of test plans for call hold, call forward, call transfer, IM, UPDATE features. 
+Guiding the junior team members on the product and test cycles. 
+Actively involved in the migration of the applications from netkernel to uclinux platforms. 
+Professional Achievements: 
+Received Outstanding Performance Award-GlobalEdge Software Ltd-2005-06 
+Received Extra Mile Award- 
+GlobalEdge Software Ltd-2005-06. 
+Academic Profile: 
+Degree 
+BE- Electronics & Communication, B.V.B C.E.T., Hubli - VTU Belgaum- Aggregate - 62%. 
+PUC 
+Sri Satya Sai P.U College, Alike (Karnataka State Board) 
+Aggregate 80%. SSLC 
+Sri Satya Sai Vidya Kendra, Alike (CBSE) 
+Aggregate 82%. 

@@ -1,0 +1,95 @@
+ Dipesh Gurbani 
+dipesh.gurbani@gmail.com 
+Dipesh Gurbani 
+dipesh.gurbani@gmail.com 
+Synopsis: 
+7.6 years of Experience in Business Analyst and IT Consultation with technical knowledge base on different domains. 
+Strong in Customer management, Requirement analysis, IT consulting , Business System analyst and Scrum master 
+Pursuing CBAP, attended 21 hours BA workshop endorsed by IIBA. 
+Exposure to working with multi-cultural and cross-cultural business environment. (Spent 2.6 years in UK) Excellent inter-personal communication, presentation & conceptualization skills. 
+Customer oriented, multitask professional with excellent analytical and logical skills, possesses rich experience as Business Analyst. 
+Expertise in driving business workshops and gathering, analyzing and documenting business requirements and developing Business Requirement Documents and Functional Requirement Specifications 
+Have experience to act as a bridge between customer and implementation team 
+Achievements: 
+3 times awarded for best deliverable within 10 months at Tangoe 
+Started BA role and Process at Tangoe R&D Center. 
+Employee of the month in Nov 2014 at Tangoe. Customer appreciation mail to delivery product on time. 
+Functional/Technology Environment: 
+Expertise Business Analyst, Quality Analyst, Scrum Master, Customer Management, Project Management, Customer relationship, Product Owner 
+Functional UML, Data Modeling, Wireframe prototype, Elicitation, JAD sessions, PRD, BRD, FRS, SRS, Use Cases, UAT, Test Scenarios 
+Technology 
+Database: SQL Server ,Microsoft Access 
+Reporting Tool: Crystal Reporting, Snap Reporter, SSRS, Ms-Access 
+Domains Telecom, GRC, Audit and HR 
+Documentation Tools Rational Requisite Pro, Visio, 
+MS Word, MS Excel, MS PowerPoint 
+* Open for new technologies and domain 
+Work Experience: 
+Organization Designation Duration 
+Tangoe, India www.tangoe.com (http://www.tangoe.com/) Business Analyst Mar 2014- Till Date 
+Tech Mahindra www.mahindrasatyam.com (http://www.mahindrasatyam.com/) Business Analyst 
+Aug 2012- Mar 2014 Free-rein, UK www.free-rein.net (http://www.free-rein.net/) 
+Senior IT consultant 
+Feb 2012 
+May 2012 LSA Studies, UK www.LSAStudies.com (http://www.LSAStudies.com/) Software Engineer(PT) Mar 2010 
+Jan 2012 OPI(KPMG GDC), India www.opiglobal.com (../AppData/Local/Microsoft/Windows/501200i533/Downloads/www.opiglobal.com) 
+IT Audit Advisory Associate Sep 2008 
+Dec 2009 
+Experience Summary: 
+Organization: Tangoe, Bangalore (Mar 2014- Till Date) 
+Role: Business Analyst 
+Product: Matrix (Telecom Expanse Management) 
+Domain: Telecom 
+Job Responsibilities: 
+Working on Agile Development model Handling Team of 10 BAs and involved in hiring process, being 1st BA at R&D Center 
+Working with Client to complete Product Requirement Document(PRD) Working closely with Product Managers to understand their business model, requirements and translate them into software requirements document (SRS), Use Cases, User Stories and Technical Documents. 
+Business Flow Design 
+Designing higher level of Database Model to help R&D team understand the product work Design Mock ups and Story board to show the flow of requirements. 
+Model Diagrams in UML for Stockholders to walk through the process. 
+Conduct weekly call with Product Managers (US Based) to define future work and monitor status of current sprint work. 
+Conduct meetings with development and QA team to walk through the SRS doc. 
+Conduct daily scrum meeting with Dev and QA team to update the work in progress status Coordinate between different teams(US dev team and Bangalore R&D team) to achieve integration work Review Test Scenarios created by QA team to verify the requirement coverage Review Development work throughout the Sprint cycle. 
+Work directly with the implementation team to ensure delivery and implementation of the software solution. 
+Stockholder Demo for Each Sprint. 
+Support UAT and User training. 
+Involved in End to End implementation 
+Organization: 
+Mahindra Satyam (Tech Mahindra), Bangalore (Aug 2012- Mar 2014) 
+Role: Business Analyst 
+Client: Thomson Reuters, UK 
+Domain: Governance Risk Compliance (GRC) 
+Job Responsibilities: 
+Worked closely with customers to understand their business model, requirements and translate them into software requirements document. 
+Worked directly with the implementation team to ensure delivery and implementation of the software solution. 
+Draft business requirement specification. 
+Involved in workshops / training / presentations related to projects. 
+Translating business requirement document to software requirement specifications. 
+Organization: 
+Free-rein, UK (Feb 2012 
+May 2012) 
+Role: Senior IT Consultant 
+Description: Worked as Senior IT consultant on various projects 
+Job Responsibilities: 
+Requirement gathering for change in the existing project and adding new functionality in Colchester MeetingFactory product.(http://www.free-rein.net/case-studies/the-meeting-factory-colchester (http://www.free-rein.net/case-studies/the-meeting-factory-colchester) and http://www.free-rein.net/case-studies/heritage-connect-lincoln (http://www.free-rein.net/case-studies/heritage-connect-lincoln)) 
+Organization: 
+LSA CONSULTING, UK (Mar 2010 
+Jan 2012) 
+Role: Software Engineer 
+Project: HRIS tool and Bellevue Dentistry Client Domain (Part Time while pursuing MBA) 
+Job Responsibilities: 
+Responsible for client interaction, understanding client need and part of designing team. 
+Analyzing the information gathered, documenting the function or business requirement. 
+Organization: Outsource Partners International, Bangalore (KPMG GDC) (Sep 2008 
+Dec 2009) 
+Role: Quality Assurance, IT Advisory Associate, and Developer for KPMG GDC. 
+Job Responsibilities: Collect business requirements from Clients and generate reports, Tools according to the requirements. 
+Educational Qualifications: 
+Personal Details: 
+Date of Birth 05/07/1984 
+Marital Status Single 
+Contact Number +91 9900774411 Hobbies Playing Cricket, Listening to Music, Watching movies and Reading books Location Bangalore , Open for new location 
+Name of Institution 
+Course Year Grade 
+University Of Salford, Manchester, UK Masters in Business Management 2011 
+2.1 Bharati Vidyapeeth College of Engineering, INDIA 
+B.Tech in IT 2008 65.43% Jawaharlal Nehru Institute of Technology, INDIA Diploma in IT 2005 65.10% 

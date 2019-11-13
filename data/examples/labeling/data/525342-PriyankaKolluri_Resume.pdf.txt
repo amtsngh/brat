@@ -1,0 +1,56 @@
+ K.V.K.PRIYANKA FF-101, Passion Elite 1,Vinayaka Layout 
+Mobile: 91-9620833113 Doddathogur, Electronic City Phase 1 
+E-Mail: priyankakolluri@gmail.com 
+Bangalore-560100 SUMMARY Results-Oriented iOS Developer with more than 4 years of experience in designing and developing iPhone and iPad Applications. Proven ability to work independently or as part of a team. Well-rounded generalist who can bring immediate value to an organization with an ability to quickly learn and contribute. 
+CORE QUALIFICATIONS Solid experience in developing Multithreading Applications on iOS using Objective C and Swift. 
+Good knowledge of iOS technologies (Core Foundation, Cocoa Touch, Core services like ARC, Core Data, multi threading, memory management) and Cloud technologies (Microsoft Azure with Node js backend) Excellent critical thinking and problem solving skills. 
+Exceptional ability to work in a fast-paced environment as a good team player. 
+Firm background in all phases of Software development life cycle and Agile development methodology. 
+Strong record of leading projects and mentoring new hires TECHNICAL SKILLS 
+iOS Technologies: Core Foundation, Cocoa Touch, Core services like ARC, Core Data, multithreading, memory management Programming Languages: Objective-C, Swift, C++, C. 
+Web related: HTML, Java scripting 
+Databases: SQLite, UltraLite Platforms: MAC OS, Windows Cloud Services: Microsoft Azure EDUCATION M.Tech, Computer Science and Engineering (75.7%) 
+Nov 2012 CMR Institute of Technology, Hyderabad B.Tech, Information Technology (76.54%) 
+May 2010 Gokaraju Rangaraju Institute of Engineering & Technology, Hyderabad Intermediate (94.8%) 
+Apr 2006 
+PROFESSIONAL EXPERIENCE 
+Software Engineer 
+(Apr 2016 - Jan 2017) 
+Xsysys Technologies Pvt. Ltd, Bangalore 
+Worked on an iOS app called iCatch used by Shell Organization mainly for incident registration. Includes all types of awareness Test programs for Employees. 
+o Responsibilities Research on synchronization. 
+Migration from existing Mobilink Synchronization to Microsoft Azure Cloud Services. o Modules: Synchronization, Mail (using Send Grid), SMS (using Twilio) and Encryption (keys are stored in Azure Key Vault). o Technologies: Objective-C, Swift, Microsoft Azure, Core Data (SQLite), Azure SQL DB 
+Software Engineer 
+(Dec 2012 - Apr 2016) 
+Xsysys Technologies Pvt. Ltd, Bangalore 
+Worked on a product called SFIpad that is used in supermarkets of the Fast Moving Consumer Goods market. 
+o Responsibilities Gathering requirements from Clients. 
+Creating technical documents Designing and implementing new features. 
+Thorough Unit Testing, Integration Testing. 
+Release to Customer (Complete cycle of SDLC) o Modules: 
+Employee Login, Employee Relation, Customer, Customer Basic Information, Visit Registration, Visit Report, Price Registration, Contact Module, KM Registration and Padlock. o Features Fast search and filter feature for the column based dynamic grid. 
+Edit Mask Feature for date and time input fields based on customer requirement. 
+Padlock Feature to customize rights for the user/user group. 
+iOS Maps in the application. o Technologies: Objective-C, Swift, Ultralite, GCD, Singleton Pattern Training and Mentoring new hires on products and iOS technologies Trainee Engineer 
+(Nov 2011 
+Nov 2012) 
+GE Medical Systems Private Limited, Bangalore 
+Worked on a product that is responsible for monitoring Cardio-Vascular systems in order to provide pro-active diagnosis. Medical systems at the customer sites generate log files in real time that contain information about the system and its activities. 
+This product is a complete software package that analyses logs, detects problems and provides diagnosis. o Internationalize the report generation application Developed a Java application that generates reports in the language as requested by the user via GUI. 
+Developed a shell scripts package to get the required log files from the back office in the form of e-mails as and when required. 
+ACADEMIC PROJECTS 
+Deriving Concept Based User Profiles from Search Engine Logs (Technologies: Struts, JSP, UML Team Size: 1) This project is focused on search engine personalization. Concept-based user profiling methods that are based on positive and negative preferences were developed. Personalized Agglomerative Clustering algorithm has been implemented using a Ranking SVM. 
+Virtual Classroom System -a web based application (Technologies: UML, ASP.Net Team Size: 3) Virtual Classroom System is a teaching and learning environment located within a computer mediated communication system. The objective of this project is to improve access to educational experiences by allowing students and instructors participate in remote learning communities using personal computers at home. 
+A Mobile Gaming Application Chacier (Technologies: J2ME, UML Team Size: 4) Design and Development of a mobile gaming application called Chacier. This application may be used on Java-enabled wireless devices and computing devices. 
+PAPER PRESENTATIONS & CERTIFICATIONS Presented a paper titled Implementation of Face Recognition Systems at the tech fests like APHISTERO by Bharath Institute of Engineering and Technology, QUBIT by Mahatma Gandhi Institute of Technology and TECHNOSWEC by Sridevi Women s Engineering College This paper talks about the significance of face recognition systems for some real-time applications. It discusses various techniques and algorithms used for face recognition, with a focus on Eigen-face algorithm. It also provides the details of an implementation prototype. 
+Presented a seminar titled Scalability of MANET routing protocols for Homogeneous and Heterogenous Networks 
+This talk reviews characteristics of different classes of routing protocols with extensive study and simulations for DSR, AODV, LAR1, FSR, and WRP in homogeneous and heterogeneous networks. 
+Presented a seminar titled Supporting Efficient and Scalable Multicasting over MANETs 
+This paper talks about the importance of group communications in MANETs. It discusses the efficiency of multicasting in group communications and proposes a protocol to achieve efficiency. 
+Participated in a Workshop on Linux conducted at Gokaraju Rangaraju Institute of Engineering & Technology. 
+CCNA (Cisco Certified Network Associate) training certificate from HCL. 
+ACHIEVEMENTS 
+Joined as a Trainee in Xsysys Technologies and got 2 promotions within a span of 3 years. 
+Elected as one of the trainers on Objective-C and Swift for the new hires. 
+Stood 5th in the college in M.Tech. 
+One of the top 10% students in college during Engineering One of the top 10% students in college during Intermediate Stood 1st in the school in the X standard board examinations 

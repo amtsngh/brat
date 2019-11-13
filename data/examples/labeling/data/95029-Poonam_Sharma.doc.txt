@@ -1,0 +1,95 @@
+ POONAM SHARMA Professional Summary 
+A dynamic software professional with 6 years of experience and expertise in Data warehouse, ETL and Database. 
+Worked in various ETL tools and databases: Informatica 9.0.1, Pentaho,Datastage, Oracle, Sql Server. 
+Extracted and transferred source data from different databases like Oracle, SQL Server, DB2, Excel files and flat file into different databases like Oracle, SQL Server and Flat files. 
+Worked on SQL, PL/SQL and Procedures in Oracle, SQL Server. Implemented SCD I & II through ETL in Data warehousing projects. 
+Excellent work ethics, self-motivated, quick learner, team player. 
+Have also worked as an Individual contributor and delivered the code on time. 
+Good communication skills, interpersonal skills and good team player. 
+Has good understanding of agile methodologies. 
+Have experience in support projects in Informatica. 
+Working Experience 
+Consultant in Deloitte Consulting India Pvt Ltd, Bangalore. (July 2013 Till date) Software Engineer in Hewlett Packard, Bangalore. (July 2010 - July 2013) Qualification 
+B.E. from Rajasthan University 
+Skill Set 
+Languages : SQL, PL/SQL 
+Tools : Informatica 9.0.1,Pentaho 5.0.1, DataStage 9.1,Toad,Sql Developer, Jira, Putty 
+Database : Oracle 9i, SQL Server 2012 
+Operating Systems 
+: Windows XP, Windows 7, Vista, Windows 8.1 Achievements 
+Awarded with Applause award for showing excellent commitment towards work to complete it on time. 
+Got rewarded as Star of the Team. 
+Trainings 
+Informatica 
+Kettle QlikView Agile 
+Project # 1 
+Title 
+: ConvergeHealth MINER 
+Duration : July 2013 - till date 
+Database : 
+SQL server, Oracle 
+Operating System : Windows 7, Windows 8.1 
+Role : ETL Developer 
+Tools used : 
+DataStage 9.1, Pentaho 
+Description 
+The Miner suite is comprised of three key solutions for improving clinical and translational research capabilities and enabling comparative effectiveness research that leverages real-world evidence: 
+PrecisionMiner: (http://www.converge-health.com/applied-analytics/miner/precisionminer)for querying, analyzing, and visualizing translational research data to support true precision medicine initiatives. 
+OutcomesMiner: (http://www.converge-health.com/applied-analytics/miner/outcomesminer-and-populationminer)for greater understanding of cohort level relationships and comparisons between outcomes associated with drugs, disease, and systems of care. 
+PopulationMiner: (http://www.converge-health.com/applied-analytics/miner/outcomesminer-and-populationminer)for visualizing an epidemiological view of your population mix. It is the Real World Evidence analytics tool that provides descriptive views of entire populations in the context of outcomes of interest, helping life sciences manufacturers develop greater insight into relationships between drugs, disease, and treatments and physiological states of patient cohorts spanning multiple therapy areas and across more than a decade. 
+Responsibilities 
+Worked on designing and developing the ETL jobs by using DataStage and Kettle and prepared the data mart design for clinical data elements. 
+Translating the functional requirement into technical specifications and building the codes. 
+Worked on PL/SQL and procedures. 
+Implemented error handling of the jobs. 
+Understanding and gaining knowledge on clinical terminologies. 
+Unit Testing and Quality Assurance Testing 
+Update JIRA regularly with the proper status and work with QA team closely to fix bugs. 
+Collaborate with QA team in facilitating QA cycle for one complete product development life cycle Peer code reviews. 
+Participate ininternal meetings to report the daily status on assignments. 
+Project # 2 
+Title : CIGNA 
+Company : Hewlett Packard 
+Database : Oracle 9i 
+Role : ETL developer and production support. 
+Tools used : Informatica 9.0.1 
+Description CIGNA is a Payer, an insurance company which provides insurance/claims/Benefit plans to the member/patients. The primary purpose is to collect and make data available for reporting on the overall health and state. This project involves loading data from different systems ( BAM, HTM, BPM etc) and loading into data warehouse/ODS and generates BO reports. 
+Project includes support for the existing modules, enhancement and development of new modules. Exposure to real time Jobs. 
+Responsibilities 
+Involved in development of new ETL projects using Informatica. 
+Worked on ETL defects. 
+Responsible for fixing the issues and to make sure the data is loaded successfully. 
+To provide Support to existing Informatica etl process. 
+Unit testing of the developed codes. 
+Preparing Relevant Documents like Release tracker, Build Doc. 
+Project # 3 
+Title : CAREMARK 
+Company : Hewlett Packard 
+Database : Oracle, Teradata 
+Role : ETL Developer 
+Tools used : Informatica 9.0.1 Description 
+The project involves building end to end data warehouse for CVS Caremark on subject areas like: Claims, member, product, provider etc. 
+Responsibilities Played a role of Team Member. 
+Developing the mappings, sessions, workflows using Informatica 8.6.1 FTPing and SFTPing of files to the server. 
+Worked on UNIX scripts Unit Testing and Quality Assurance Testing 
+Preparing Relevant Documents like Release tracker, Build Doc etc. 
+Project # 4 
+Title : HDFC (EDW) 
+Company : Hewlett Packard 
+Database : Sql Server 
+Role : ETL Developer 
+Tools used : Informatica 8.6.1 
+Description 
+The HDFC EDW is a complete end to end data warehouse project which HP took over and involves in replicating the monthly loaded data warehouse to Daily load in HP Neoview database. 
+Responsibilities 
+Understanding the mapping specifications, development of mappings and testing those using ABC scripts on UNIX. 
+Developing the mappings, sessions, worklets, workflows using Informatica 8.6.1 right from Staging to EDW (Dimension and Fact Tables) involving mappings like Source to Flat File, Flat File to Stage, Type 1, Type 2 etc. 
+Preparing relevant documents like STMs, Release tracker, Build doc Fixing FIR and peer reviewing mappings developed by other developers 
+UT with data on Unix platform. 
+Personal Profile 
+Name : Poonam Sharma 
+Sex : Female 
+Marital Status : Married 
+Phone Number : 8147764163 
+Nationality : Indian 
+Languages Known : English and Hindi 

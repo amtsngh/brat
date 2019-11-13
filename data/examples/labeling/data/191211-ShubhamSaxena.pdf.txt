@@ -1,0 +1,86 @@
+SHUBHAM SAXENA 
+EMAIL: shubh2506@gmail.com 
+MOBILE: +91-7846859754 
+EXPERIENCE: 
+4+ Years of IT experience in Python, PL/SQL development and support, NoSQL, Search Based Servers, Big Data Technologies and RDBMS Implementation industries. Currently working as Product Solution Engineer II at Flipkart Internet Pvt Ltd, Bangalore. 
+WORK EXPERIENCE: 
+1. Wipro Technologies, Bangalore (10 December 2012 29 May 2015) 2. Flipkart Internet Private Limited, Bangalore (11 June 2015 
+Till Date) 
+TECHNICAL PROFICIENCY: 
+Programming Languages: Python, Oracle PL/SQL, Oracle SQL, Java, C 
+Big Data Technologies: HBase, Hive, HDFS 
+NoSQL Databases: Redis, Aerospike 
+RDBMS: Oracle 11g, MySQL Search Based Server: Elastic Search 
+Message Broker: Apache Kafka, RabbitMQ 
+Version Control System: Git, SVN, PVCS ERP Technologies : Oracle EBS 11i & R12 (Oracle Projects, Oracle Time & Labor Modules, Core HRMS) 
+Web Technologies : Node.js, Angular JS, PHP, JSON 
+Operating Systems : Mac OS, Linux, Windows 7, Windows XP 
+Development Tools : PyCharm, IntelliJ IDEA, Toad, Sequel Pro, WebStorm, iTerm, , SSH Tectia, PL/SQL Developer 
+PROJECT DETAILS: 
+Santa 2.0 Implementation & Maintenance [June 2015 - Till Date] 
+Company: Flipkart Internet Private Limited 
+Project Description: Implementing solutions to maintain the sanity of Flipkart's offer world system, it includes creation of offers, products mapping, offer visibility and real time offer consumptions to provide best shopping experience for consumers. 
+Tools & Technologies: Python, Java, Node.js, Angular JS, Apache Storm, Apache Kafka, Redis, Aerospike, Elastic 
+Search, MySQL, HBase, Hive, Linux, Mac OS 
+Contribution: 
+Build solutions for offer creation, products mapping, offers visibility, offers consumption in Python (Flask), Java to provide Flipkart consumers a seamless shopping experience. 
+Build capabilities to restore our key value stores (Redis, Aerospike) from the scratch. Developed Storm topologies in Java to rebuild entire data from Kafka in minimum time possible. 
+Developed solutions to monitor Elastic Search statistics and publish them on Grafana dashboards to provide visibility of key metrics of real time search server. Used Python to achieve the same and done Debian packaging so that the solution can be used across Flipkart. 
+Developed dashboards in Node.js, PHP, AngularJS to broadcast any relevant updates regarding offers data for business and analytics purpose. 
+Set up test environments, involves installing persisted stores (ES, Hbase, Redis, Aerospike, MySQL etc), internal stateless web services exactly as a replica of prod environment with minimal hardware to test any change and determine issues upfront. 
+Configured alerts using python, unix shell scripts, cron jobs in production environment to notify any system failure upfront. 
+Handing on-call support, providing any sort of assistance during any sale events. 
+Mentoring new recruits, summer interns joining the team. 
+Cisco AS Support [October 2014 May 2015] 
+Company: Wipro Technologies Limited 
+Client: Cisco System Inc. 
+Project Description: It involves production support of Oracle EBS (Oracle Projects & Oracle Time and Labor) modules in R12 environment. 
+Tools & Technologies: Oracle EBS (Oracle Projects and Oracle Time & Labor), SQL, PL/SQL, Python, BMC Remedy, Toad, PL/SQL Developer, Unix Shell Scripting Contribution: Played the role of key technical person for OP track and mentored the new campus recruits in the team. 
+Provide estimations and impact analysis for the new change requests and enhancements covering all the aspects of solution design, implementation, unit testing and code review. 
+Provide solution to the service requests/service restoration we receive from end customers on a daily basis. 
+Interacted with clients and onsite leads on a daily basis for solution discussion. 
+Provide Knowledge Transfer to the new team members about the Oracle applications. 
+CITS AS R12 Implementation Project [May 2013 - Sep 2014] Company: Wipro Technologies Limited 
+Customer Name: Cisco System Inc. 
+Project Description: It was re-implementation of Oracle Projects and Oracle Time & Labor modules from Oracle 11.5.9 to Oracle R12.1.3 which involved data migration of over 250 millions records of data. 
+Tools & Technologies: Oracle EBS (Oracle Projects & Oracle Time and Labor), SQL, PL/SQL, Python, Unix Shell 
+Scripting, Toad, PL/SQL Developer, SVN Contribution: Key technical person in the project which involves successful data migration of over 250 million records, done almost 80% coding of data migration codes. 
+Created from scratch data migration codes using standard API in Oracle PL/SQL for most of the entities of Oracle Projects and 
+Oracle Time & Labor modules single handedly. 
+Used shell scripting and python scripts to run parallel threads to complete the entire data migration in time. 
+Interacted with clients and onsite leads on a daily basis for solution discussion. 
+Prepared Technical Design Documents for most of the entities of Oracle projects & Oracle time and labor modules. 
+ACHIEVEMENTS: 
+Best Individual Contributor Award for outstanding contribution in JFM at Flipkart Internet Pvt Limited. 
+Promoted in first 6 months to Product Solution Engineer II at Flipkart Internet Pvt Limited. 
+GSQS Star Excellence Award for outstanding contribution in Cisco AS Support Project. 
+Prodigy Award for Best Campus Recruit for Q4FY14 in Cisco BU at Wipro Technologies. 
+Excellence Award for outstanding contribution in transformational project in Q2FY14 at Wipro Technologies. 
+Top Performer of my batch in the Wipro training program December 2012 batch. 
+12th Rank in State in civil engineering at University Level. 
+Second Topper of the branch CE in the college in 2008-09 and 2010-11 sessions. 
+Mentored new campus recruits in the projects for multiple batches. 
+EDUCATION DETAILS: DEGREE 
+YEAR OF PASSING 
+COLLEGE/UNIVERSITY 
+PERCENTAGE Bachelor of Technology (CE) 2012 
+Krishna Institute of Engineering and Technology, Ghaziabad / GBTU(formerly UPTU) 81.72 % XII 2008 
+Spring Dale College , Lucknow (ISC) 
+85.50% X 2006 
+Spring Dale College , Lucknow (ICSE) 81.33% TRAININGS & CERTIFICATIONS : 
+In First 20 to get a White Belt for network and security training at Flipkart Internet Pvt Limited, Bangalore. Android Development and Mobile Engineering Training at Flipkart Internet Pvt Limited, Bangalore. 
+Have cleared Wipro UCF Level 1.1 and Level 2.1 certification in Oracle Apps. 
+3 Months training on Oracle EBS, SQL, PL/SQL, C, Java, Unix from Wipro Technologies, Bangalore (Dec 2012- Feb 2013) 4 weeks training from Indian Oil Corporation Limited, Noida (June-July 2011) 4 weeks training on AutoCAD from Cetpa Infotech , Lucknow ( June-July 2010) 
+STRENGTHS : 
+Flexible, quickly adapt to new working environments and technologies. 
+Keen Learner & Consistent Performer. 
+Good communication, interpersonal & analytical skills. 
+Efficient Leadership Traits. 
+PERSONAL DETAILS : 
+Date of Birth : 25th June, 1990 Father's Name : Mr. Sanjeev Kumar Saxena 
+Nationality : Indian 
+Languages Known : English, Hindi 
+Permanent Address : 7/4 A, Sector 7, Vikas Nagar, Lucknow 226022 (U.P.) 
+Postal Address : #11, 10th Cross, 16th Main, Tavarekere Main Road, BTM 1st Stage, Bangalore 560029 DECLARATION : 
+I hereby declare that all the above information is true and correct to the best of my knowledge and belief. 
+PLACE: Bangalore NAME: Shubham Saxena 

@@ -1,0 +1,86 @@
+G.Gourayya 
+" B.TECH in manual testing with 3+ experience in test engineer,Banking application,insurance.Health care application " gunnamsetty.gourayya99@gmail.com 917816855734 
+Current Designation: Test Engineer 
+Current Company: GOURAYYA G 
+Current Location: Bengaluru / Bangalore 
+Pref. Location: Bengaluru / Bangalore 
+Functional Area: IT Software - QA & Testing 
+Role: Testing Engnr 
+Industry: IT-Software/Software Services 
+Key Skills: Manual Testing, Functional Testing, Black Box 
+Testing, Regression Testing, Functionality Testing, Defect Life 
+Cycle, Software Testing, Database Testing, GUI Testing, Sanity 
+Testing 
+Total Experience: 3 Year(s) 0 Month(s) 
+Annual Salary: Rs 4.05 Lakhs 
+Expected CTC: Not Mentioned 
+Highest Degree: B.Tech/B.E. 
+Notice period: Not Mentioned 
+Work Experience 
+GOURAYYA G (Current Employer) 
+Test Engineer | Jul 2013 ? Identified and prepared Test Scenarios. ? Involved in Test Scenario reviews. ? Prepared various test specifications such as Testcases, Test data and Traceability Matrix etc. ? Involved in Functional Testing, Re-Testing, Regression Testing and End-to-End testing. ? Executing test cases as per system requirements. ? Conducted GUI Testing and Database Testing. ? Executed Testcases from QC and logged defects. ? Interacting with development team for bug s closure. Education 
+Undergraduates 
+B.Tech/B.E. (Computers) 
+jntu kkd | in 2013 
+IT Skills 
+Skill Name Version Last Used Experience 
+C C++ 
+Database 
+MS Project 
+Language Known 
+Language Proficiency Read Write Speak telugu Proficient english Proficient hindi Beginner 
+Projects 
+No Projects Added 
+Other Details 
+Personal Detail 
+Date of Birth: 13 Mar 1991 
+Gender: 
+Marital Status: Single/unmarried 
+Address: 
+GUDIVADA 
+521343 
+Home Town: Mudinepalli 
+Desired Job Details 
+Job Type: Permanent 
+Employment Status: Not Mentioned 
+Work Authorization 
+US Work Status: Not Mentioned 
+Countries: India 
+Affirmative Action 
+Category: OBC- Non-Creamy 
+Physically Challenged: No 
+Attached Resume 
+GOURAYYA GUNNAMSETTY 
+Email:gunnamsetty.gourayya99@gmail.com 
+Mobile: 07816855734 
+Professional Summary: 
+. Around 3+ Years of Experience on Manual Testing. . Good Knowledge in SDLC, STLC &Bug Life Cycle. . Understanding Software Requirement Specifications,FRS. . Expertise in identifying requirement as per business document. . Hands on experience in designing, creating and reviewing the test cases. . Experience in Executing Test Cases and Tracking Defects. . Experience in preparing various Test Specifications like Test Scenarios, Test Cases, Test Data, Defect Reports, Test Reports and RTM etc., . Hands on experience in Implementing Test Process in Quality Center. . Good at Database Knowledge and SQL Scripts . Experience in identifying the challenges ahead and analyzing the possible solutions. . Ability to work under dead lines, worked as an active team member and willingness to accept responsibilities. 
+Professional Experience: 
+. Working as a Test Engineer for Streamline Health care Solution.Pvt.Ltd. Bangalore since July 2013 to till date. 
+Educational Qualification: 
+. B.TECH in EEE from Sarojini Institute of Technology from JNTK University, 2013 
+Technical Skills: 
+> Operating System : Windows XP/7,Window Server 2008 
+> Test Management tool : QC/ALM, EXCEL. 
+> Database : SQL Server 2008. 
+> Testing tool : load Runner(12.5v) 
+Projects Details: 
+Project 1 # 
+Project name : Behavioral HealthCare application. 
+Client : Health care application, USA. 
+Duration : July 2014 to Present. 
+Role : Test Engineer. 
+Environment : SQL Server 2008. 
+Description: 'Streamline Healthcare solutions' is a product based company having more than 160 clients. Basically I worked on the behavioral healthcare to tester and implementing the product. I worked on the environment issues of different clients like Network180, CEI Smart Care, Valley Streamline, and Pathway Streamline. Every day I fixed the environment issues of my product and as well as the new implementations or enhancements according to the product requirements. We have Core and Custom modules for all respective clients. We followed the 'Extreme Programming' process model to develop the product. So 
+that, we build the product for week and monthly releases/builds to the respective environments. 
+Responsibilities: 
+. Identified and prepared Test Scenarios. . Involved in Test Scenario reviews. . Prepared various test specifications such as Testcases, Test data and Traceability Matrix etc. . Involved in Functional Testing, Re-Testing, Regression Testing and End-to-End testing. . Executing test cases as per system requirements. . Conducted GUI Testing and Database Testing. . Executed Testcases from QC and logged defects. . Interacting with development team for bug's closure. . Good at Roadrunner knowledge and Test plan, Test scenario, for performance testing based on work load characterization. . Develop performance test plan, strategy. Project 2 # 
+Project name : OberBank Applications. 
+Client : OberBank, Singapore. 
+Duration : Nov 2013 to June 2014. 
+Role : Test Engineer. 
+Description: 
+This is the Online Banking system to provide security and comfort ability for the users who are opening this website. It is the internet banking to provide a customer to view, modify, and transfer his account Online by entering his identification number and password. It also includes Intranet banking to provide simplicity for bank employees to modify the customer information and to create new customer into the database etc. The enhancements include applying loan online and if a customer having more than one account he can view all at a time instead of opening more sessions. 
+Responsibilities: 
+. Identified and prepared Test Scenarios. . Executing Test cases as per Requirements . Involved in Test Scenario reviews. . Prepared various test specifications such as Testcases, Test data and Traceability Matrix etc. . Involved in Functional Testing, Re-Testing, Regression Testing and End-to-End testing. . Conducted GUI Testing and Database Testing. . Executed Test cases from QC and logged defects. . Interacting with development team for bug's closure. 
+GOURAYYA G 

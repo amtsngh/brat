@@ -1,0 +1,58 @@
+VinaySammangi D-219, Patel Hall of Residence, Indian Institute of Technology, Kharagpur,India (+91) 9800116761 | sammangi.vinay@gmail.com Education 
+Indian Institute of Technology (I.I.T) Kharagpur India 
+BTECH IN MECHANICAL ENGINEERING 2013 - PRESENT CGPA - 7.64 on a scale of 10 PROJECTS & TRAINING BTECH Project(Prof. Jhareswar Maiti) IIT Kharagpur, India 
+UNDERGRADUATE RESEARCHER, IIT KHARAGPUR July. 2016 - Exp. Apr. 2017 
+Project Title: Development of an early dynamic RPE (Rating of Perceived Exertion) detection system in hot and humid environment. 
+Developed an android application that takes static inputs from the worker and predicts their health index. 
+Working on getting the dynamic data from worker and surroundings with the help of ICT based data capture system. 
+Research Project(Prof. Jhareswar Maiti) IIT Kharagpur, India 
+PREDICTIVE ANALYTICS USING OPTIMIZED SVM Jul. 2016 - Sep. 2016 
+The main objective was to build a model which could predict the occupational incidents using support vector machine (SVM). 
+Performed optimization of SVM by using Grid Search (GS), Genetic Algorithm (GA), and BAT algorithm to obtain better accuracy. 
+Conference paper titled Study of Optimized SVM for Incident Prediction is accepted by INDICON-2016, Bangalore. 
+Results: Grid search-based SVM outperformed other optimized SVM approaches with 88.0 % accuracy Industrial Experience Pune, India 
+DATA SCIENTIST AT INNOPLEXUS, INDIA May. 2016 - Jul. 2016 
+Project Title : Ontology- Data Crawling, Analysis and Aggregation 
+Crawled 30 different websites in python using libraries BeautifulSoup4 and Selenium. 
+Programmed a python class for parsing different file formats into JSON format and dumping them into Mongo Database. 
+Project Title : Accuracy enhancement of document classifier by leveraging Ontology 
+Developed binary classifier models using supervised learning techniques like Naive Bayes, nu-SVM, linear classifier-SVM, KNN. 
+Keywords(unigrams), Keyphrases(multigrams) are extracted using a phrase extraction technique after noise elimination (NLTK). 
+Calculated TF-IDF vectorizer for each feature on different corpus for improving model accuracy. 
+Constructed classification class decider by leveraging wordnet ontology and unifying synonymous features. 
+Received a Pre-Placement Offer in recognition of my contribution to the projects Research Project(Prof. Jhareswar Maiti) IIT Kharagpur, India 
+ACCIDENT MODELING AND ANALYSIS Nov. 2015 - Apr. 2016 Employed Text Mining approach to find the root causes that could lead to the occurrences of faults. 
+The root causeswere thenutilized inbuilding theFault tree transformedBayesianNetworkdiagrams that couldpredict theoccurrence of incidents. 
+Finally, rule-cause extraction was done for better understanding of the causes of incidents in the steel plant. 
+Journal paper titled An Investigation from Text and Categorical Data of Incident Reports in a Steel Plant Using Data Mining 
+Techniques -completed and is under review. 
+Results: Achieved an accuracy of 87.5%, 71.4%, and 87.5% for injury, near miss, and property damage related incidents. 
+Industrial Experience Chennai, India 
+INTERNAL COMBUSTION ENGINES Dec-2014 
+Submitted a technical project report on Variable Valve Timing in Automotive IC Engine Design & Development under the aegis of Expertshub facilitators. 
+Was awarded certificate of excellence for the project prepared. 
+Course Project IIT Kharagpur, India 
+KINEMATICS OF MACHINES Mar-2015 
+Designed a Peaucellier Straight-line Mechanism with Kinematic Synthesis and Analysis. 
+Developed a planar linkage capable of transforming rotary motion into perfect straight-line motion, and vice versa. 
+VINAY SAMMANGI 
+RESUME 1 
+Position of Responsibilities 
+TeamHead IIT Kharagpur 
+CHILD RIGHTS AND YOU (CRY) Jul. 2015- Apr. 2016 
+Led a team of 15 andmonitored year-long activities of the Kharagpur Volunteer Chapter 
+Enrolled 5 school dropouts by conducting Drop out enrollment drive in Amlatoria and Arasini villages 
+Introduced an interactive audio visual course for primary school students to make classes more compelling 
+Piloted Right to Education and Health campaigns at over 200 households by conducting Community meetings in the village Hockey Secretary IIT Kharagpur 
+PATEL HALL OF RESIDENCE Aug. 2014- Apr. 2015 
+Managed a team of 20 players for the Inter Hall Hockey Competition 
+Represented Hall in subcommittee meetings and handled a Budget of INR 22682 to meet all type of materialistic demand Skills and Coursework 
+R, Python, C, HTML5, CSS, MongoDB, Android Studio, IBM SPSS Statistics 20, Rapid Miner, Weka, Age- naRisk, SolidWorks, Engineering Equation Solver(EES), Machine Learning, Probability and Statistics, Design and Analysis of Algorithms, Soft Computing 
+Publications 
+TEXT MINING BASED SAFETY RISK ASSESSMENT AND PREDICTION OF OCCUPATIONAL ACCIDENTS IN A STEEL PLANT 
+Sarkar, S., Vinay, S., & Maiti, J. (2016, March). Text mining based safety risk assessment and prediction of occupational accidents in a steel plant. In Computational Techniques in Information and Communication Technologies (ICCTICT), 2016 International Conference on (pp. 439-444). IEEE. 
+STUDY OF OPTIMIZED SVM FOR INCIDENT PREDICTION OF A STEEL PLANT IN INDIA Paper ID: 1163 S. Sarkar, S. Vinay, V. Pateshwari, & J. Maiti. (2016, December) Study of Optimized SVM for Incident Prediction of a Steel Plant in India . 
+Accepted in Proceedings of the IEEE INDICON - 2016, IEEE conference in IISC Bangalore. 
+Extra Curricular activities Member of Inter Hall Hockey Team for General Championship 2014-16 Volunteer of Child Rights and You, IIT Khargapur (Mar-Apr 15) Active member of National Sports Organization (NSO), IIT Kharagpur for duration of two years 
+VINAY SAMMANGI 
+RESUME 2 

@@ -1,0 +1,96 @@
+Rajkumar Yadav E-mail : raju.yadav.cs@gmail.com 
+Software Engineer Mobile : +91 9611085902, 9663434648 
+Professional Summary: 
+Having Exposure in developing various Software applications. 
+Good skills and highly adaptable to given situation. 
+Knowledge and experience in development of C#.NET (Win Forms), MS SQL Server 2008/2008 R2 and Crystal Report 2008. 
+Professional Experience: 
+Total 3.6 Years of Software Development experience in C#.NET (Win Forms) Development. 
+Previously worked as Software Engineer in QSI Healthcare Solutions, Bangalore for 1 year. 
+Previously worked as Software Engineer in KTWO Technology Solutions, Bangalore for 2.6 years. 
+Technical Expertise: 
+.NET Technologies C#.NET(Win Forms), ADO.NET 
+Database MS SQL Server 2008 / 2008 R2 
+Operating Systems Windows XP and Windows 7 Reporting Tools Crystal Reports 2008 
+Development IDE MS Visual Studio 2010 and 2013 
+Source control 
+Microsoft 
+Visual Source Safe (VSS), Perforce 
+Bug Tracking tool Quality Center (HP) 
+Educational Qualification: 
+Qualification Board Specialization Percentage Year 
+B.E. VTU Belgaum, Karnataka, India Computer Science & Engg 62 % 2010 PUC (12th) PU Board, Karnataka, India Science 77 % 2006 SSLC (10th) KSEE Board, Karnataka, India State Board 85 % 2004 
+Project Name: 
+Enterprise Practice Management (EPM) 
+Product Enterprise Practice Management (EPM) Technologies C#.NET(Win Forms), ADO.NET, MS SQL Server 2008 R2,MS Visual Studio 2013 and Crystal Report 2008. 
+Client 
+Community Healthcare, USA 
+Duration 
+Nov 2014 
+Nov 2015 Role Software Developer 
+Team Size 35 
+Role Coding, Designing and Unit Testing 
+Project Description: 
+Enterprise Practice Management is windows-based practice management system was initially developed to provide user-friendly technology for practices to manage appointments, billing and other administrative processes. Today, Enterprise Practice Management has helped hundreds of practices improve cash flow and productivity. 
+The main objectives of the project that can be achieve the following. 
+To maximize a practice's efficiency and workflow, Enterprise Practice Management includes many unique features and advanced functionality such as: 
+Work Log Manager, a feature that monitors and instantly responds to events occurring in the system by sending tasks in real time to designated staff members with instructions on what to do next; how to do it; and when to do it. 
+Instant productivity transparency by tracking completed and outstanding tasks to measure operations and performance. 
+Labor-intensive reports and business tasks can be scheduled to run automatically at a specified time. 
+Enterprise Practice Management system is pre-loaded with claims rules for Medicare and other payers, fee schedules, medications, and procedure and diagnosis codes. In addition to payer and clinical intelligence, Enterprise Practice Management incorporates automation features. 
+Project Name : Wayleaves Information System (WIS) 
+Product Wayleaves Information System (WIS) 
+Technologies C#.NET(Win Forms),ADO.NET, MS SQL Server 2008/R2,MS Visual Studio 2010 and Crystal Report 2008. 
+Client Uganda Electricity Transmission Company Ltd, Uganda. 
+Duration 
+Nov 2013 
+Oct 2014 Role Software Developer 
+Team Size 10 
+Role Coding, Designing and Unit Testing 
+Project Description: 
+Wayleaves Information System is a windows based solution for the various users of UETCL who are involved in the Wayleaves management. The various activities of the entire process are being captured in the application from route identification process till awarding the compensation and tracking the expenses. 
+The main objective of the project is to acquire a comprehensive system that can achieve the following. 
+Survey and Valuation, Public Consultation, Grievances and disputes, Resettlement and Relocation. 
+Route Identification, Social and Environmental Impact assessment. 
+Project Name : Kshema 
+Product Kshema Technologies C#.NET(Win Forms),ADO.NET, MS SQL Server 2008/R2,MS Visual Studio 2010 and Crystal Report 2008. 
+Client State Health Society, Bihar, India 
+Duration 
+Jan 2013 
+Oct 2013 Role Software Developer 
+Team Size 10 
+Role Coding, Designing and Unit Testing 
+Project Description: 
+Kshema is a window based application offers Medical diagnosis, ongoing patient care and has an ability to monitor patients remotely by using innovative applications. Kshema unifies diagnostic hardware like Microscope, Vital Signs Monitor and ECG machine with the diagnostic software. 
+The main objectives of the project that can be achieve the following. 
+The software consists of modules for Electronic Health Records, Pathology, Radiology and Vital Signs. 
+The software has the ability to automatically identify the vital parameters and transmit the parameters to the remote doctor through broadband or wireless connectivity. 
+The system has consisted all in one like ECG, Temperature, SPO2, BP and BMI etc. in one system. 
+It reduces the human effort in recording all Electronic Health Records. 
+4) Project Name : Metal Engineering Tools (MET) Product Metal Engineering Tools (MET) Technologies C#.NET(Win Forms),ADO.NET, MS SQL Server 2008/R2,MS Visual Studio 2010 and Crystal Report 2008. 
+Client ABB limited, India and China. 
+Duration Apr 2012 
+Dec 2012 Role Software Developer 
+Team Size 10 
+Role Coding, Designing and Unit Testing 
+Project Description: 
+Metal Engineering Tools(MET) is windows based Application will enable the team in ABB to generate excel based output. The output generated will act as an input to Eplan Metals API and for the 800xA extended control. The output generated from Metals Engineering Tool will enable Eplan Metals API to produce single line diagrams, circuit diagrams and general arrangement drawings. The Eplan macros required are out of Metals Engineering Tool development scope. 
+The objectives of MET has to reduce human effort in calculating fast and accurate result to perform the certain roles and responsible of work. Regardless of taking sample and complex works can be done using the Metal Engineering Tools. 
+The main objectives of the project that can be achieve the following. 
+The Excel based signal values can be stored in Database. 
+Input can be entered by user as per requirement. 
+Signal Value, Signal Strength, Signal Name is having unique in nature. 
+Personal Information: 
+Name Rajkumar 
+Yadav 
+DOB 1stJune 1988 
+Gender Male 
+Nationality 
+Indian 
+Marital Status 
+Married 
+Languages are known English, Hindi and Kannada 
+Contact Address 
+#24, 
+7th Cross, 19th Main Road, Muninarashimaha Garden,BTM 1st Stage,Tavarakere, 
+Bangalore 560040, Karnataka, India 

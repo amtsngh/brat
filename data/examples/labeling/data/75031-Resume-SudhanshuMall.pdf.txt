@@ -1,0 +1,79 @@
+ SUDHANSHU MALL 
+Email: mall.sudhanshu90@gmail.com 
+Mobile: +91-9901168729 
+Career Objective 
+B.Tech (IT) Graduate having keen interest in Linux and working as a DevOps Engineer with a startup company BlackBuck (Zinka Logistics Pvt. Ltd.). I would like to build career with leading corporate where I can use my knowledge & skills and work in a challenging environment for the growth of the organization Academic Qualification 
+Technical Proficiency 
+Scripting Language : 
+Shell Scripting, Awk 
+Operating System : 
+Linux (Centos, Fedora, Ubuntu, Redhat) Monitoring Tool : Nagios 
+Basic knowledge of : 
+Python Scripting 
+Database : 
+MySQL/Oracle 
+Development Tools : GoCD, GIT, Jira 
+Log Management 
+: Logentries, Log.io Work Experience 
+Current Company Name : Zinka Logistics Private Limited, Bangalore 
+(BlackBuck) 
+Designation : DevOps Engineer (15th March 2016 Till Present) 
+Previous Company Name : Flipkart Internet Private Limited, Bangalore 
+Designation : Product Solution Engineer I 
+(24th November 2015 To 11th March 2016) 
+Previous Company Name : Just Dial Limited, Bangalore 
+Designation 
+: Jr. Linux System Administrator (03rd February 2014 To 21st November 2014) Examination Board Of Examination 
+Institution Year of Passing 
+Scale Result (in %) 
+B.Tech 
+(Information Technology) Punjab Technical 
+University 
+Punjab College of Engg. 
+And Tech. 2013 100 73 
+XII (Mathematics, Physics and Chemistry) C.B.S.E Happy Model School, Varanasi 2008 100 59 
+X C.B.S.E Sunbeam Lahartara, Varanasi 2005 100 56 Roles and Responsibilities 
+Doing Production, Staging, Demo Deployments 
+Creating build and deployment pipelines 
+Provisioning servers for Staging and Production environments 
+Writing shell script to upload database backup/snapshots to AWS S3 
+Writing jobs to automate deployment process for staging and production environment using GoCD tool Writing jobs to collect system and application data Deployment of new hosts in Amazon cloud Setup monitoring for various components/hosts of BlackBuck 
+Debug server wide and application issues for production and staging environment Develop and maintain installation and configuration procedures Making customized bash scripts using AWK, Sed and maintaining existing scripts Identify root causes of technical issues in production and failures Interact with project teams for new products development giving insights from technical issues of previous products Monitoring of UNIX/Linux servers continuously and resolving the system related issues if any occurred Providing L2 support and identifying all issues and preparing appropriate documentation of all issues and solutions Providing support of incoming tickets, including extensive troubleshooting tasks Involved in writing MySQL queries Involved in setting MySQL master and slave replication Scheduling day to day tasks using cron jobs and GoCD Performing administrative tasks including MySQL data backups and restoration of databases using mysqldump utility Installing and upgrading software packages using rpm, yum or apt utilities 
+Troubleshooting issues with live production servers and ensuring that the live servers are up and running Documentation of server configurations, and scripts, and all other relevant information in a git repository to share information Other tasks and responsibilities as assigned Extracurricular 
+LINUX course from Indian Institute of Science, Bangalore in 2013 Participated in 1 day AWS Essential training program organized by Amazon in June 2014 Participated in various organized GD and seminars at college Participate in cultural Programs within College 
+Strengths 
+Willing and confident 
+Positive attitude Flexible, Dynamic and efficient Good Communication 
+Hard Working 
+Quick Learner 
+Hobbies 
+Listening music 
+Travelling 
+Net Surfing 
+Languages Known 
+English and Hindi 
+Personal Profile 
+Name 
+: Sudhanshu Mall 
+Father s Name 
+: Ravi Shankar Mall 
+Mother s Name 
+: 
+Shobha Mall 
+Date of Birth 
+: 05th July 1990 
+Age : 
+24 years 
+Gender 
+: Male 
+Marital Status 
+: Single 
+Nationality 
+: INDIAN 
+Present Address : 
+20/1 5th D Main Road 2nd Block, HRBR Layout, Kalyan Nagar, Bangalore 
+Permanent Address : 
+1305-B Tower 2 Panchsheel Wellington Crossings Republik, Ghaziabad 
+Declaration 
+I hereby declare that the information furnished above is true to the best of my knowledge. 
+Place: Bangalore 

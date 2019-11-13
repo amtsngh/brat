@@ -1,0 +1,76 @@
+Karthik Sekar 
+Address Mobile: 9940038617 Lalithalaya Flats, Email: karthiksekark@gmail.com 
+No: 5, Panchali Amman Koil Street, 
+Passport No: H 1140209 Arumbakkam, Chennai 600 106 Professional Synopsis 
+Have 4+ years of experience in web development and mobile application development. 
+Total Experience 4 years 5 Months 
+Experience Summary 
+Organization Designation From To 
+First Planet Technologies Software Engineer 20 Apr 2009 Till Date 
+CSS Slash Support Technical Support Executive 10 Jan 2007 20 Jun 2008 
+Skill Summary 
+Skill Type Skill Proficiency 
+Level 
+Technical Language Android Moderate 
+Software Development Kit Android SDK Moderate 
+Scripting Language HTML5, CSS3, JS, PHP, Twitter Bootstrap Moderate 
+Content Management Wordpress, Elgg, Buddypress, Question 2 Answer 
+Advanced 
+Tools Eclipse, SVN, Android Development Tool 
+Kit, Android Studio, Maven, ANT Build 
+Moderate 
+Operating System Windows (All Versions), Ubuntu (Linux) Advanced 
+Education 
+Degree /Certificate Discipline Institute / University 
+Year of passing Graduation B.E Computer Science Madha Engineering 
+College 
+Apr 2006 Senior Secondary Computer Science 
+Computer Science Vinod, Vijay, Vidhya 
+Matric. Hr.Sec.School 
+Apr 2002 Secondary General Vinod, Vijay, Vidhya 
+Matric. Hr.Sec.School 
+Apr 2000 Courses / Certifications 
+Course Discipline From To 
+Server 
+Administration 
+IBM AIX 
+Net masters Apr 2008 Sep 2008 Project Internship Project Internship 
+Hewlett Packard 
+Jan 2006 Apr 2006 Technical Training Java & J2EE SSI 
+Education 
+Jan 2005 Apr 2005 
+Project Details 
+Project / Domain Mobile Application 
+Duration 6 Months 
+Team Size 4 Role / Position Software Engineer 
+Project Description Native mobile application to transform specific web application. And to bring lot of traffic over the web site and towards its cause. 
+Technical Environment Android SDK, Java, Wordpress, PHP, MySQL, HTML5 and 
+CSS3 
+Responsibilities Project Management, Process Management, and Developing the mobile application using native SDK components. Maintaining the Source Code, Documentation for release document and branding documentation kit (Brochure, Pamphlet, and Banners). And monetizing the mobile application in Google Play Store. 
+Project / Domain Website for Businesses 
+Duration 6 Months 
+Team Size 5 Role / Position Software Engineer 
+Project Description Developing web site for business providers who are serving their customer with their products. 
+Technical Environment Android SDK, Java, Wordpress, PHP, MySQL, HTML5 and 
+CSS3, Bootstrap 
+Responsibilities Project Management, Process Management, and Developing the web application. Maintaining the Source 
+Code, Documentation for release document and branding documentation kit (Brochure, Pamphlet, and Banners). 
+Project / Domain Flex Venture 
+Duration Learning Cover 
+Team Size 1 Role / Position Software Engineer 
+Project Description Developing simple application and replicate some existing application in flex application. 
+Technical Environment Flex, Java 
+Responsibilities Project Management, Process Management, and Developing the web application. Maintaining the Source 
+Code. 
+Project / Domain 4D (Discovery, Design, Development and Deployment) 
+Duration 6 Months 
+Team Size 1 Role / Position Software Engineer 
+Project Description Learning the Software Development Life Cycle of project. 
+Before proceeding on to the project, start a discovery phase and gather all the requirements and then proceed with the mock up and get approve from the customer with the signoff and start proceeding with development, maintain the source code base and finally made the deployment available to the customer to get the final product or software. This helps understand the overall life cycle of any project that us developed by the IT Software 
+Company. 
+Technical Environment Project Management Tools (Document, Presentations) Responsibilities Project Management, Process Management, and Developing the web application. Maintaining the Source 
+Code. Preparing the documents for the each stage of the process and gather all the documents in each phase and maintain it for future purpose. 
+Other Details 
+Domain Expertise: Android, Web Development, Content Management System 
+Location: 
+Chennai / Bangalore 

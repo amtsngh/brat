@@ -1,0 +1,52 @@
+CURRICULUM VITAE 
+Shridhar Reddy 
+C/o Shri Durga Parameshwari PG. 
+#15,6th Cross, Chinnus Play Home, Shamanna Garden, Vijaynagar Pipeline Road,Bangalore Karnataka-560026 
+Mobile: +91-8904244337 
+E-mail: shridharreddy123@gmail.com 
+CAREER OBJECTIVE 
+To work in a challenging atmosphere and to seek responsible position utilizing my intellectual skills and knowledge, that will contribute to the development of the organization and enrich my professional skills. 
+ACADEMIC QUALIFICATION 
+Course Institution University/Board 
+Year of Passing 
+Percentage 
+BE (CSE) 
+ACHARYA INST.OF TECHNOLOGY 
+VTU 
+2015 
+58.02% DIPLOMA 
+(CSE) V.V.SANGHA S 
+POLYTECHNIC BELLARY. 
+BTE 
+2012 
+67.28% S.S.L.C 
+JSSE KSEEB 2006 61.12% 
+NETWORKING SKILL SET  Ability to explain technical issues clearly too non-technical colleagues. 
+ Handle daily technical support activities on desktop support and network management. 
+ Train end users on usage of computer hardware and software. 
+ Antivirus installation to all desktops and laptops. 
+ Diagnose and quickly resolve a wide range of Windows applications and networking problems to help minimize downtime. 
+ Troubleshooting network connectivity in a LAN/WAN environment. 
+ Knowledge of DNS, DHCP, TCP/IP and other networking concepts. 
+PROJECT DETAILS Academic. 
+Name: SMS Based File Sharing. 
+Aim: Remote Accessing of Files through SMS. 
+Tool Used: Java, Android SDK 1.5, Eclipse IDE, TOMCAT SERVER. 
+Description: 
+SMS based file sharing system helps the user to access, share, view files and retrieve contacts from any remote place. Since we have built our application on the android platform. File sharing and backup system which can be used for the large sized files sharing through SMS whomever in need of those files. In this scenario the same concept is taken, enhanced with SMS system. The most challenging part of this project is to provide the file stored as a link and retrieving the corresponding file while downloading, another is to secure the data using the user management and validating the user authentication. One more challenge is to design the project such that the uploading and downloading of the file is faster. 
+HOBBIES  Playing and Watching Cricket. 
+ Watching TV PERSONAL DETAILS 
+Father s name : 
+Narayana Reddy D. 
+Mother s name : Lakshmamma. 
+Date of birth : 05-03-1990. 
+Marital status : Single. 
+Nationality : Indian. 
+Gender : Male. 
+Languages known : English, Kannada, Hindi, and Telugu. 
+Permanent address : S/O Narayana Reddy D, 
+Near Chandrahas Theatre, Mahaveer Circle, Gangavathi 583227 
+Karnataka 
+DECLARATION 
+I hereby declare that the above written particulars are true to the best of my knowledge and belief. 
+Date: Place: Bengaluru (SHRIDHAR REDDY) 

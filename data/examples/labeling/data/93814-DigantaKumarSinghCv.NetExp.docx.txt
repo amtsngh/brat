@@ -1,0 +1,51 @@
+DIGANTA KUMAR 
+SINGH lucky.diganta@gmail.com digantasingh@outlook.com 
+Mob. 9035912994/9778507576 
+Experience Summary : 
+Around 
+1. 5 Year of IT experience in Developing, Designing web applications in Asp.Net with C#.Net. 
+Strong Knowledge on Object Oriented Programming Languages. 
+Driven to make a positive impact on a project in any role and to meet challenges and surpass expectations. 
+Good analytical, programming, troubleshooting and debugging skills 
+Good Communication skills 
+Professional Experience: 
+Working as Developer in EDUZEST SOFTWARE PVT. LTD.from 2015-2016 
+Educational Qualification: 
+B-TECH, 2011-2014, at College of Engineering Bhubaneswar, BPUT University, Odisha, and Scored 7.0 CGPA. 
+Diploma, 2008-20011, at C.V. Raman Polytechnic. SCTE&VT University, Odisha, and scored 70 %. 
+10th, 2008 at Narasinghpur High School, Odisha, and Scored 73%. 
+Awards/ Achievements: 
+Certified from EDUZEST SOFTWARE PVT. LTD. on completion of PHP Courses. 
+Certified from LAKSHYA on .NET. 
+Technical Skills: 
+Microsoft Technologies : ASP.Net, C#.Net, ADO. Net 
+Web Technologies : HTML, CSS 
+Scripting Languages 
+: JavaScript Operating Systems : Windows7/8 
+Database 
+: SQL Server 2012 Web Servers : Internet Information Server (MS-IIS 6.0,7.0) IDE 
+: Visual Studio 2012 Reporting Tool : RDLC 
+Project Profile : 
+Project #1 
+Title : Hotel 
+Management System 
+Duration : 2015 2016 
+Environment :C#.Net, ADO.NET, SQL Server 2012 
+Team Size : 6 
+Role : Team Member. 
+Description : Hotel Management System This is an offline portal to manage bookings, reservations, staffs supplies etc of a hotel. This project for keeping customers record and also calculate customer bill slip and employee salary. 
+Responsibilities: 
+1. Helping Software trainee employees to coding use cases. 2. Actively participated in writing SQL queries. 
+3. Gathering & Understanding the Client Requirement, Planning the task allocation & Developing & Testing. 4. Involved in Unit testing of self modules. 
+Strengths: 
+Self-confident 
+Able to work in a group as well as independently Faithful, adaptable, cooperative 
+Hardworking 
+Leadership 
+Resourceful 
+Innovative 
+Declaration 
+I hereby declare that all the information provided above is true to the best of my knowledge. 
+Diganta Kumar Singh 
+Place: Bangalore Signature 
+Date: 

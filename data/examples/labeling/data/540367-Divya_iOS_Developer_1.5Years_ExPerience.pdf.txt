@@ -1,0 +1,58 @@
+Divya Durga Yalamandala 
+divya.yalamandala05@gmail.com Mobile App Developer ,iOS 
++91- 9063438325 CompIndia InfoTech Pvt LTD, Chennai 
+October 2015 to present 
+Professional Summary: 
+1.6 years experience in iPhone & iPad application development and design Remarkable experience with iPhone application development using Xcode, Objective C, Swift in all phases- analysis, design, implementing and testing (TDD). 
+Have experienced in designing/developing applications with Interface 
+Builder/Story board and programatically. 
+Worked on all Controls, Controllers, Data Views, Bars and all Gestures. 
+Have experience in Size Classes and AutoLayout. 
+Experienced on working with different parsers like JSON and XML and Social integration like Facebook, Twitter.. 
+Experience on working with MVC pattern 
+Career Objective: 
+To obtain a full time role as an iOS Developer in a company that will utilise my skills in designing and developing the latest innovation in iOS applications Technical Skills: 
+Programming languages : 
+C, Objective-C, Swift 
+Environments worked : Windows, MAC OSX 
+Databases used : SQLite 
+Education: 
+Acquired Bachelor of Engineering in Electronics and Communications in 2014 from VJYA with an aggregate of 74.4% Acquired Intermediate in 2010 in Chaitanya Jr College with an aggregate of 80.1%. 
+Acquired Secondary schooling in 2008 in RTV with an aggregate of 81% 
+Technical aspects: 
+Optimising the code for ensuring maximum performance. 
+Having knowledge on developing of Apps from scratch. 
+Have commitment, result oriented and undertake challenging tasks. 
+Ability to work in groups as well as independently. 
+Work Experience: 
+CompIndia Infotech (October 2015 to Present) 
+Worked as Software Engineer in the client project for the apps TapRight and Carmel 
+Projects in detail: 
+TapRight 
+Environment: Xcode 8.0 
+Technologies: Objective -C 
+TapRight is a unique software platform that lets you create your own mobile app with just a click. Creating an app has never been this simple You can create courses, upload videos, conduct quizzes, review the performance of your clients and also become a tutor. No matter what your goal is, Video Trainer platform is what you need. It offers you all the features that you need to know and keep a track of all your clients improvements. 
+Role: Developed Total app from the scratch. 
+App Link: https://itunes.apple.com/us/app/king-innovation/id1141483598?mt=8 Carmel 
+Environment :Xcode 8.0 
+Technologies: Objective -C 
+The purpose of this app to 
+Book a car On-Demand, your car is around the corner,Reserve a car for later like no other app on the market and Quick access airport buttons displaying the three airports closest to you and Watch your car as it approaches.to use this app Use your credit card or your business account with Carmel to pay for your ride. and you can Select if and how much you want to tip the drive. 
+Role: Developed Total app from the scratch. 
+App Link: https://itunes.apple.com/in/app/carmel-car-taxi-limo/id573578466? 
+mt=8 Personal Profile: 
+Name 
+: Divya Durga Yalamandala 
+Father s name 
+: Y. Kondaiah 
+Date of birth 
+: 05 Aug1993 
+Languages known : 
+English, Telugu, Tamil 
+Blood group 
+: B+ve 
+Declaration: 
+I hereby declare that the information given above is true to the best of my knowledge. 
+Place: 
+Date: 
+Divya Durga Y 

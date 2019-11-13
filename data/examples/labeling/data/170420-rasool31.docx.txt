@@ -1,0 +1,79 @@
+ SHEIK RASOOL 
+Email:signin.rasul@gmail.com Mobile: +918523862980 
+Objective: 
+To work in a challenging environment : 
+Where Database Administration is valued as the most critical by the organization Where I can contribute my knowledge and skills towards the growth of the organization Which encourages continuous learning that would be helpful for both my personal and professional success. 
+Professional Summary : 
+Currently working with POLARIS as Oracle Database Administratorin Hyderabad 
+Overall 3.4 years of Oracle Database Administrator 
+Working as a part of team and providing 24x7 support on a Production database and System support environment. 
+Installation and configuration of Oracle11g on Linux environment. 
+Experience in managing databases under various environments. 
+Space management & Storage management. 
+Implementation and maintaining Database Security (create and maintain users and roles, assign privileges). 
+Well verse with recovery procedures in archive and no archive database log mode. 
+Good knowledge on Oracle Networking (configuring listener.ora and tnsnames.ora) 
+Database backup and recovery. 
+Experience in RMAN backup and recovery. 
+Experience in Cloning of a database (RMAN cloning/hot backup cloning). 
+Worked on Automatic Storage Management (ASM). 
+Worked in configuration Datagaurd (Standby). 
+Applied Patches andupgraded the databases. 
+Knowledge on performance tuning. 
+Knowledge on Real Application Cluster(RAC) 
+Education: 
+B.Tech (Information & Technology) from A.S.R College ofEngineering, TANUKU affiliated to JNTUK, with 64.93%-AP in 2012. 
+Professional Experience: 
+Currently working in POLARISas Oracle Database Administratorin Hyderabadsince 20thmay, 2013 to till date. 
+Project #1 
+Organization: POLARIS 
+Project: Scottrade 
+Role: Database Administrator 
+Environment : Oracle 11g , OEL 
+Duration: April2014 to till date 
+Description: Scottrade is a leading online investing firm offering a full line of investment products, online trading services and market research tools to help investors take control of their financial future. 
+Roles & Responsibilities: 
+Managing data file objects including tablespaces and datafiles as well as monitoring database usage and growth. 
+Performing status checks by monitoring the Alert log, Trace files of the database. 
+Looking into action requests (tickets) and resolving issues, providing the root cause, providing the permanent fix. 
+Monitoring and Reorganizing Database objects Tables & Indexes to minimize fragmentation in the database using logical backup and restoration (Export and Import). 
+Performed Cloning activity for Databases from Production to Testing Environment. 
+Configuring a listener/Shared server configuration. 
+Responsible for creating user logons and managing user accounts. 
+Monitor the instance and plan for future availability of storage on users tablespaces. 
+Adding space to the data files according to table space growth. 
+Backup and Recovery strategies for Oracle database using RMAN, exp/imp, Expdp/Impdp,Cold and Hot backups. 
+Maintaining Standby databases (Datagaurd). Installation and Configuration of Automatic Storage Management (ASM). 
+Project #2 
+Organization :POLARIS 
+Project : Hanes Brands INC 
+Role: Associate Database Administrator 
+Environment : Oracle 11g, SQL, Red Hat Linux 
+Duration:May 2013 toMarch 2014 
+Description: This Project is mainly for maintaining the databases of Hanes Brands employees information,their payroll and Hanes Brands products and online shopping database information. 
+Roles & Responsibilities: 
+Performing all the Database Administration activities like space management, users, and roles and checking alert log of the database. 
+Installed and supported Oracle 10g on Red Hat Linux. 
+Provided regular DBA support for the database servers Creating and Managing Table spaces, Data files, Control files and Redo Log files. 
+Creating roles, profiles and attaching them with users. 
+Maintenance and monitoring of Database and Listener. 
+Performing Cold and Hot backups. 
+Logical backup using expdp and impdp. 
+Performed database backup using RMAN. 
+Performed Database Cloning from Production to Test environment Creating DB links upon requests. 
+Adding or resizing Data files to tablespaces as requirement Monitoring System Global Area (SGA) and managing when it requires. 
+Backing up the control file to trace. 
+Monitoring Alert log files. 
+Personal Details: 
+Name : Sheik Rasool 
+Date of Birth :30-08-1991 
+Fathers Name : Sheik Sayyad 
+Nationality : Indian 
+Languages : English, Telugu 
+Phone : 8523862980 
+Email :signin.rasul@gmail.com 
+Address :Murthy press Bulding, Anand Nagar, Erragadda, Hyderabad-500018. 
+Permanent Address :Juvvalapalem,Tadepalligudem,W.G 
+Declaration: 
+I hereby declare that the above information is true to the best of my Knowledge and belief. 
+SHEIK RASOOL. 

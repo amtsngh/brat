@@ -1,0 +1,120 @@
+ Neha UI Developer 
+Phone: +91-7404333191 
+Address: S-30 ,Vijay Vihar, Uttam 
+Nagar, New Delhi , Pin code:- 110059. 
+Email:- nehasachdeva0708@gmail.com 
+Professional Summary:- 
+Having 2.3 years of experience as UI Developer . 
+Managing the full spectrum of UI, & Front End Development with strong skills in Code Integration. 
+Works on UI to make the application more usable for End User in Web and Mobile 
+Knowledge on 
+Scripting Language ( JavaScript ,AngularJS, Jquery ). 
+Works in visualization and implementation of high end web graphics including Web development using 
+HTML5, CSS 3.0, Bootstrap , Jquery UI Framework, Responsive Web. 
+Expert in writing W3C valid html and css & good skills in working with Jquery. 
+Good understanding of designing Cross Browser compatible web applications. 
+Strong in problem solving for Design Integration 
+Well-organized, efficient, quick learner and self-motivated with ability to plan and prioritize work to meet deadlines on time. 
+Educational qualification:- Bachelor of Technology 
+(B.Tech.) in Computer Science Engineering from 
+Doon Valley Institute of Engineering and Technology, Karnal in the year 2014 with a score of 74% Career Profile:- 
+Working as UI Developer in 
+IL&FS Technologies Pvt. Ltd, Gurgaon from August, 2014 to till. 
+Technical skills:- 
+Image-Editor : Photoshop CC HTML Editors : Dreamweaver CC, Notepad++ 
+HTML : HTML 5.0 CSS : CSS 3.0 , LESS 
+Scripting Language : Javascript, AngularJS , Jquery Front-End Framework : Bootstrap 
+Platform : Java, Python, Asp.Net 
+Technologies : Ajax , Json 
+Defect Tracking Tool : Redmine 
+IDE : Eclipse , Visual Studio 2010, QT Designer 4.8.7 
+CVS Tool : SVN Tortoise Project Summary:- 1# Current Project : 
+Digital Land Management System , 
+Bangladesh 
+Technologies : AngularJS, Bootstrap 3.0, HTML, CSS, Photoshop, Ajax, Jsp, Javascript, SVN Tortoise 
+Environment : Windows 
+Role Played : Software Designer /Developer. 
+Domain : e-governance. 
+Platform : Web 
+Team Size : 14 
+Duration : April, 2015 to till 
+Description: 
+It is a Land Management system which can generate the map of the land and do mutation of the land. System can also generate the copy of the land. 
+It is a web-based application integrated with GIS maps(Spatial Data) for carrying out all land records processes. 
+The application enables a user to view their land details and carry out related activities online such request printing of records and other similar activities. 
+Responsibilities : 
+Design and develop the all pages of application. 
+Developed JSP code for whole Web Application. 
+Develop the calendar used in application. 
+Developed the popup alert box used in application. 
+Responsible for developing the application more usable and interactive for end user. 
+Performing unit testing and bug fixing. 
+Design the loader for the application 
+Few module that I working are listed below :- 1. Copy of land (Khatian): 
+It is module that used to generate the copy of land .User can fill the details in it and can also generate the certified copy of land and deliver to Requested User . 
+2. Copy of land (Map): 
+It is module that used to generate the copy of land Map . User can fill the details in it and can also generate the certified copy of the Map and deliver to Requested User . 
+3. Administrator : 
+There is a admin module which provides the facility to change the user, add user, delete user, assigning role to user, managing the user and other modules. 
+4. Mutation: User can make the request for mutation online, in this module user request to change the ownership of land online. 
+5. GIS(Design): Show the spatial data of lands.Authorised users can view, update plot data in the form of spatial data . 
+2# Bhamashah Financial Empowerment Scheme for Rajasthan 
+Govt 
+Technologies 
+: Photoshop, XHTML, CSS, Jquery, Ajax, Jsp 
+Environment : Window 
+Role Played : Software Developer/ Designer 
+Platform : Desktop 
+Platform : Web 
+Team Size : 14 
+Public Url : http://bhamashah.rajasthan.gov.in 
+Description: 
+BFES is different from other schemes as it is focused on providing independent financial powers to women to facilitate them to march ahead and exercise their due right of financial & economic independence. 
+It is a huge application with various Modules for internal and external peoples. 
+Few module that I working are listed below :- 1. Verification based on registration 2. Document and Smart Card generation 3. Content Approval by Admin (Acceptance, Rejection of application) 4. User Management (specify roles to various users as per guidance using Admin section). 
+Responsibilities : 
+Develop the Home Page of application Design and develop the all pages of application. 
+Responsible for developing the application more usable and interactive for end user. 
+Performing unit testing and bug fixing. 
+3# Project: MPWebGIS 
+Client : 
+Commissioner of Land Records & Settlement, Govt. of Madhya Pradesh Technologies 
+: HTML 4.0, CSS 2.0, Javascript, Jsp 
+Environment : Linux 
+Role Played : Software Designer 
+Domain : e-governance. 
+Platform : Web 
+Team Size : 10 
+Duration : Dec, 2014 to April, 2015 
+Public Url : http://www.mpbhulekh.gov.in 
+Description: 
+MP WebGIS is a Geo-location based project focused on Land Records and Settlements for the State of Madhya Pradesh. It is a web-based application integrated with GIS maps for carrying out all land records processes. 
+The project is being implemented across all Tehsil Offices where digitization of land records Khasra) and cadastral maps (village maps) are being carried out. 
+The application is integrated with SMS and Payment gateways for facilitating such services 
+The application is integrated with smart card printers, smart card scanners, finger print authentication devices under Linux environments. 
+Responsibilities: 
+Develop the forms for application. 
+Develop the code for print receipt. 
+Maintain the design of whole application good. 
+Performing unit testing and bug fixing. 
+4# Project: Inspire Web Application 
+Technologies 
+: Photoshop, XHTML, CSS, Jquery, Microsoft Visual studio 2008 
+Environment : Window 
+Role Played : Software Designer 
+Platform : Desktop 
+Platform : Web 
+Team Size : 4 
+Public Url : www.inspireawards-dst.gov.in 
+Description: 
+Innovation in Science Pursuit for Inspired Research (INSPIRE)' is an innovative program sponsored and managed by the Department of Science & Technology for attraction of talent to Science. 
+Main objective was to make the manual off line process available online. 
+Personal Details 
+Name : Neha 
+Sex : Female 
+Date of Birth : August 07, 1992 
+Nationality : Indian Languages Known : English ,Hindi and Punjabi 
+Pan Card No : AWUPN8184C 
+Permanent address : H No. 505, VPO Kachhwa, Karnal, Haryana (132001) 
+I, the undersigned, hereby declare that all the information furnished above is true and correct to the best of my knowledge. 
+Neha 

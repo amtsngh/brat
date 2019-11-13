@@ -1,0 +1,310 @@
+ RESUME CHAKRAVARTHI RAMA BANDREDDI 
+Email: 
+bandreddyrama@yahoo.com (mailto:bandreddyrama@yahoo.com) 
+Ph# +91-7032819079 (M) +91-4040061145 I. Professional Summary 
+ITIL Certified, Senior Mainframe (TPM) IT Professional, technically Hands-on, well versed with Technical Project Execution & Delivery, Team Handling, Process adherence, Risk Mitigation, Problem & Incident Management, Issue Handling, Dependencies Mgmt., Conflict resolution, Relationship building and Stakeholder Management. Chak has both Technical Programming (Analyze, Design, Code, Test & Deploy) background as well as Project/People Management experience in Lead roles. Chak has extensively worked at Onsite in a Customer Facing roles in USA UK,BELGIUM, NETHERLANDS & INDIA regions on multiple different project assignments. 
+Chak is quite comfortable working technically with IBM Mainframe skills such as COBOL,VS-COBOL II, PL/1,(PL/I), CA-IDEAL, DB2, IMS DB/DC, CA-DATACOM, CICS, JCL, VSAM, EZTRIEVE, IBM MVS/ESA, OS/390, TSO/ISPF, IBM z/OS, skills. Thoroughly worked on M/F job scheduling tools, configuration, debugging tools, Manual testing & File management toolset like Control-M, CA-7, Librarian, Endeavor, Changeman, Xpeditor, Intertest, Test Director, Quality Center, File Aid, Panvalet, File Age, BMC Remedy Problem & Incident management tools respectively. Worked extensively with both Batch programming as well as Online real time M/F applications. 
+Chak has worked on different types of IT projects such as New Development, Production Support, Maintenance and Enhancements, Testing(Functional, Regression and Manual Testing) and Re-engineering/Reverse Engineering projects as well as good at preparing Technical Documentation for legacy M/F based Applications after thorough analysis of code modules involving Business Applications covering Manufacturing, Automobile, Property & Casualty Insurance, US Healthcare, Banking & Finance specifically Cards (Prepaid/Debit/Credit), Telecom Billing and Government domains. 
+Chak has a valid B1/B2(Business visa) to USA & H1B (work visa) to USA which can be extended/re-instated under CAP-Exempted category. 
+II. Employment Summary 
+Organization 
+Band-Sub band/ Designation Duration 
+HELIX INTERNATIONAL (ASG-ECM Software Solutions) Hyderabad,India 
+Sr. Mainframe Developer Mar/2016July/2016 
+Elite IT Solutions Inc., Springfield, IL,USA Programmer Analyst Sept/2014---Mar/2015 InfosysTechnologies, Hyderabad Project Manager Apr/2011---Sept/2012 
+FIS Global Business Solutions India, Chennai Technical Architect Jan/2010---May/2010 
+MAHINDRA SATYAM, Hyderabad(formerly Satyam Computers) 
+Team Leader (Band-T2) Oct/2007---Dec/2009 
+Wipro Technologies, Hyderabad Project Engineer 
+Apr/2004---Sept/2007 
+GE India Business Center, Hyderabad Sr. Engineer July/2003---Mar/2004 
+Computer Sciences Corporation India Pvt Ltd, Indore 
+Senior Software Engineer Dec/2001---Jan/2003 
+VisualSoft(India)Ltd. &VisualSoft Information Solutions Inc.,Hyderabad/Dallas Software Engineer/Software Consultant Sept/1997---Nov/2000 
+III. Skills 
+Primary Skill category Technical IT skills : IBM Mainframes Core/Vanilla SkillsNon-Technical skills: Project, People & Process Management. 
+Project Acquired skills COBOL, PL/1, PL/I, CA-IDEAL, DB2, IMS-DB/DC,CA-DATACOM, VSAM, JCL, CICS, EZTRIEVE, XPEDITOR, INTERTEST, ENDEVOR, FILE AID, FILE AGE, CA-7, CONTROL-M, TEST DIRECTOR, QUALITY CENTER, CHANGEMAN, LIBRARIAN, MVS, TSO, ISPF, QMF, SPUFI, SQL, OS/390, z/OS 
+Domain Skills Banking & Financial Services (CARDS) , Government, Public Services,P&C-Insurance(Auto),US-HealthCare, Manufacturing, SCM / Order Management, Automotive, Telecom, Testing-Manual & Functional, Technical Documentation 
+Linguistic Skills ENGLISH, Telugu, Hindi 
+IV. Trainings 
+Title Location Organized by Duration 
+Advanced Training on S/390 MAINFRAME HYDERABAD,INDIA Pragma Infotech&VisualSoft (India) PVT.LTD. 
+AUG,97-SEP97JUL97-AUG97 
+V. Project Details 
+Project Name: Report Migration/Document Management(ECM) 
+Client Multiple end Clients of Helix International Thru IBM(USA) such as VSP(Vision Service Plan),PROGRESSIVE Insurance ,HCA(Hospital Corporation of America) etc. for their CMOD Migration projects. 
+Role Sr. MAINFRAME DEVELOPER 
+Organization USA-HELIX INTERNATIONAL(Premier Business Partner of IBM) Offshore-India office(ASG-ECM Software) at #301,Venkoti Buildings, Ayyappa Society, Madhapur, HYDERABAD. 
+Duration Mar/2016Jul/2016 
+Team Size 10 Environment 
+With-skill versions 
+Languages : COBOL,CICS,JCL 
+Softwares : IBM MAINFRAME 
+Database : DB2,VSAM 
+Tools : ENDEVOR,CA-7,MARS,CMOD 
+Project Description 
+Worked with HELIX-International/ASG-ECM Software from Offshore(Hyderabad) on the Report Data Migration / Enterprise Content (Document) Management on Demand as Subcontractor for IBMs Clients in USA, for ECM projects involving MARS server & IBM CMOD-Server & IBMs-ContentNavigator(ICN) tool; Responsible for the extraction / migration work on the M/F host side work for running the necessary jobs on MAINFRAME that migrate/extract the TAPE data of various report files to disk and decompress the archived data onto disk and send the .daf files to Windows which will use Open Cobol/GNU Cobol to generate the I,O,P,R files which in turn will be sent to MARS Server system to generate the Generic Indexer (GI) files or ACIF Indexer (AFP Conversion and Indexing Facility) files which will ultimately be loaded into IBM CMOD Server. 
+For some clients such as VSP & HCA, the mainframe jobs itself directly creates the I,O,P,R Files by running specific JCL Procs & source programs (alternative to using .daf files & open cobol) and the generated output files will be directly FTP ed to the designated directories on respective MARS server folders using the JCL Script. I am Responsible for the backend / host MAINFRAME part of the project working from Offshore(24X7 On Call) interacting with onsite MAINFRAME senior resource on day to basis who works directly with end customers from Onsite. 
+Project Name: 
+ICD-10 Program (Migration from ICD-9.0 TO ICD-10.0) Client DHS,IL USA 
+Role Programmer Analyst 
+Organization Elite IT Solutions Inc., Springfield, IL 
+Duration Sep/2014Mar/2015 
+Team Size 14 Environment 
+With-skill versions 
+Languages : COBOL,CICS,JCL 
+Softwares : IBM MAINFRAME 
+Database : DB2,VSAM 
+Tools : ENDEVOR,CA-7,TELON,PANVALET,FILE MANAGER 
+Project Description 
+As part of regulatory changes required for conversion from ICD-9 to ICD-10 compliance the source code has been analyzed, changed, debugged and tested in Unit, System & UAT regions for Clinical Inpatient(CI) Master, MMIS(Medicaid Management Information System) & MED-B (Medicare-Part B) Applications running on Batch and Online. The ICD-10 migration is applicable for both Diagnosis Codes and Procedure Codes and necessary VSAM files, DB2 Tables, Source code changes and Online Screen Field Changes and JCL Changes have been implemented and tested for all the three Mainframe applications, which has some TELON application generator component. 
+Project Name: Multiple Projects/Non-Claims Portfolio 
+Client BCBS of Eagan, Minnesota USA 
+Role Offshore Project Manager 
+Organization Infosys Technologies, Hyderabad, India 
+Duration Apr/2011 Sept/2012 
+Team Size (40-50) 
+Environment 
+With-skill versions 
+Languages : COBOL,IMS-DC,JCL,CICS 
+Softwares : IBM MAINFRAME 
+Database : DB2,IMS DB,VSAM 
+Tools : ENDEVOR,CONTROL-M,CA-7 
+O/s : OS/390 
+Project Description 
+Responsible for handling/managing of multiple simultaneous tracks/projectsof Non-Claims Portfolio ofBCBS,MN account in HLTIVS Unit of Infosys, right from project SOW preparation stage, Opportunity/Proposal creation, project code creation, resourcing, allocation, project planning, scoping, scheduling, defining the project milestones/deliverables, conducting review of deliverables, minimizing the rework required, metrics reporting, milestones tracking & reporting, getting the sign-off for the milestones achieved; Project budgeting, maintain and tracking the project profit margins, invoicing, billing, handling/managing project execution and day to day delivery issues, problems, dependencies, assumptions, risks, conflicts and mitigation and resolution of the sameand escalation to senior & client management where warranted, regular communication and necessary coordination with onsite leads/managers of the respective tracks, conducting weekly/monthly status calls with offshore/onsite project teams, tracking and controlling the project/ people issues till closure. 
+Responsible for managing multiple concurrent projects/tracks of Govt.Provider, Private Exchange, CATS, HCRSBC, ICMS, Oracle UCM 11G Upgrade, DPM 5.0 Portal, DPM-SGE, DPM P&R Change, IRAPS,HP Rationalization, HP Exstream Enterprise Correspondence, Clinical Data Registry(CDR), Benefit Viewer, CE&O Transactional Steady State, Service Regression(SR) Testing etc. a bunch of projects and their corresponding CRs/Extension Opportunities and Amendments from Offshore DC. 
+Project Name: REG-E CMS Changes 
+Client Metavante Corporation 
+Role Offshore Lead for Development Team 
+Organization FIS India, Chennai 
+Duration Jan/2010May/2010 
+Team Size Project : 15 Module : 8 Environment (with skill versions) 
+Languages : COBOL,IMS-DC,JCL 
+Softwares : IBM MAINFRAME 
+Database : DB2,IMS DB 
+Tools : ENDEVOR,CONTROL M 
+O/s : OS/390 
+Project Description 
+This is a Govt. Regulatory compliance project for Metavantes Cardbase (CMS) Product (Cardbase Management System), Regulation E rules as laid down by Federal Reserve System for implementing Electronic Funds Transfer Act (EFTA) requires the limitation on the ability of a Financial Institution to assess/charge an Overdraft Fee for paying ATM & POS one-time debit transactions that overdraw a consumers account unless the consumer affirmatively consents or Opts In, to the FIs payment of Overdrafts for these transactions. This regulatory rules are effective Jan 19th ,2010 with a mandatory compliance date of July 1st ,2010. 
+Historically, if a consumer tried to make a payment using a check thatwould overdraw his or her depositaccount, the consumers financialinstitution used its discretion on an ad-hoc basis to determine whether to paythe overdraft. If an overdraft was paid,the institution usually imposed a fee onthe consumers account. In recent years,many institutions have automated theoverdraft payment process, whichreduces costs and ensures consistenttreatment of consumers.Automation isused to apply specific criteria fordetermining whether to honoroverdrafts and to set limits on theamount of coverage provided. 
+Contribution 
+As the Offshore Dev. Team Lead for the project, involved in analyzing & understanding of the Business Requirements, Scope; Assisting the Project Tech. Lead in preparation of design documents, implementing the code changes and unit testing of screens, programs, JCLs; Where everCMSe web part is involved testing of web-services and coding of necessary Mainframe programs; Regression testing of Reports, Files and other screen/web functionality. After the C&T phase, assisting the QA team in OPAC & OPIN testing, defect analysis, code fixes for defects raised and retesting and defect resolution, code movements thru different endeavor regions and post implementation support. 
+Project Name: FORD SWIFT Project 
+Client 
+FORDMOTORCO.,Dearborn-Detroit,MI,USA& Offshore Chennai,TN,India 
+Role Application Lead for ESPS & RPMS Applications 
+Organization Satyam Computers 
+Duration August/2008--Oct/2009 
+Team Size Project : 30 Module : 8 Environment (with skill versions) 
+Languages : COBOL,IMS-DC,JCL 
+Softwares : IBM MAINFRAME 
+Database : DB2 
+Tools : CHANGEMAN,CA-7 
+O/s : OS/390 
+Project Description 
+FORD SWIFT Project is the Application Porting and Cloning project for the JLR (Jaguar & Land Rover) and the IT applications migration from Ford Environment to JLR Environment, which is done by base lining the Appl.Code from FORD production region and using the FLASHCOPY technique copy and move the code from Baseline Envt to TestCycle1 envt within FORD envt and after performing the Data separation for JLR data and testing the applications in TC1 LPAR region, Copy and move the Appl. components from TC1 LPAR to TC2 LPAR on the JLR Envt (using high speed connection);Once the UAT testing is done in JLR TestCycle2 envt, the applications will be promoted to JLR PROD envt. The Mainframe Applications that I have worked on as part of the FORD SWIFT Project are the following: 
+ESPS (Extended Service Plan System) which is used for Registration, Maintenance, Cancellation of ESP Contracts. Establishment, Modification of new ESP Department Plans and/or Options; Conversion and administration of 3rd party Contract buyouts. 
+RPMS (Reengineered/Revised Parts Master System) which is used to maintain Warranty Parts info. to define the Parts that are covered by a coverage category for Claims Payment, to define CARB regulatory reporting requirements, to maintain WCC info., to maintain Claims Payment Coverage, to provide Part Master Information. Contribution ? 
+Responsible for the Prepare Phase deliverables for the two Mainframe applications ESPS & RPMS as part of the SWIFT Clone & GO process.Responsible for scheduling,conducting the SME KT Sessions for the respective applications with FORD IT SMEs.Responsible for preparing the day to day agenda for KT Sessions along with Application Cloning Team nd Data Separation teams based out of both at Onsite and Offshore.Responsible for filling in the information so gathered into the Prepare Phase deliverable documents. Responsible for coordination,communication and Review of the prepared documents and for getting the Gate Review done and final approval and signoff from the Business SMEs of both FORD & JLR and uploding the docs in TC site and common project shared drive and finally promoting the deliverable docs from Prepare WIP to Prepare Gateway. 
+Project Name: SEALIFE Project 
+Client Fiserv,Inc. USA 
+Role TEAM LEADER 
+Organization Satyam Computers,Hyderabad,India 
+Duration April/2008--July/2008 
+Team Size Project : 15 Module : 5 
+Environment (with skill versions) 
+Languages : COBOL,JCL,CICS 
+Softwares : IBM MAINFRAME 
+Database : DB2,VSAM 
+Tools : 
+CONTROL-M,ENDEVOR,FILE AID 
+O/s : Os/390 MVS 
+Project Description 
+SEALIFE Project(code named) encompasses the off-shoring of all the SDLC phases of SEALIFE Applications/Products across the multiple technology frameworks, across multiple Business Units to Satyam. 
+Contribution ? 
+As a team leader, I was responsible for DD & Transition Phases. 
+Preparation of Documents necessary for carrying of DD phase. 
+Participating in actual Due Diligence . 
+Preparation of Documents necessary for KT /KAP phase. Participating in actual KT phase. Getting Business Unit wise Transition to Offshore team on respective Products/Applications . 
+Project Name: WAD Project for C&W SSBS Billing system Client Cable&WirelessUK 
+Role Billing Team Leader 
+Organization WIPRO Technologies 
+Duration May/2007--September/2007 
+Team Size Project : 15 Module : 5 Environment (with skill versions) 
+Languages : COBOL,JCL,CICS 
+Softwares : IBM MAINFRAME 
+Database : DB2,VSAM 
+Tools : 
+CONTROL-M,ENDEVOR,FILE AID,FILE AID FOR DB2 
+O/s : OS/390 
+Project Description 
+This is a System Integration Testing project for Wholesale Access Delivery of Switched Services Billling System of Cable&Wireless,UK client. 
+Contribution ? 
+As a team leader ,I was responsible for SIT(System Integration Testing) of SSBS Billing Systems and Team Handling; Analysis of the specifications,requirements provided by the users; Batch execution for 3 logical days(cycles) of testing including the month-end functionality testing. ? 
+Responsible for regression testing of the financial reports using the production CDRs ? 
+Responsible for new functionality testing by executing the Batch Cycles covering 3500 batch jobs using the Control-M job scheduler tool ? 
+Responsible for upstream interfaces testing which are feeding data into SSBS ? 
+Responsible for downstream interfaces testing for the data/reports generated from SSBS ? 
+Responsible for User Interaction, Interaction with development team during Testing ? 
+Active involvement inpreparing/review process of DTP, Test cases, Test scripts, documenting of Test Results,facilitate resolution of Bugs/Defects raised in Test Director and coordination with respective stake holders in Defect Triage meetings and Re-testing of the code fixes till closure. ? 
+Responsible for overseeing the Quality procedures related to the project. ? 
+Acting as SPOC, for overall functioning of Billing Test Team and its day to day deliverables, issues, conflicts, problems, risks and dependencies, and necessary communication and coordination with internal and external teams and other stakeholders and senior management. 
+Project Name: Assessment & Remediation of ING Applications (ARIA) Client ING,Nederlands 
+Role SME 
+Organization WIPRO Technologies 
+Duration December/2006--April/2007 
+Team Size Project : 15 Module : 15 
+Environment (with skill versions) 
+Languages : COBOL,JCL,CICS 
+Softwares : IBM MAINFRAME 
+Database : DB2,VSAM, IMS-DB 
+Tools : ENDEVOR,FILE AID 
+O/s : z/OS 
+Project Description 
+ARIA is part of the IT Controls Programme for ING's Direct Insurance applications such as "HOMES, FRESCO, GI-JUICE, PROMISS, PROLONGATIE SCHADE" which is part of the Operations & IT Banking - IT Transformation Control Programme. Contribution ? 
+As an SME for Mainframe applications, I was responsible for Analysis of the IT Controls check list from MAINFRAMES perspectives Guiding and mentoring the assessors in the preparation of questions for different stake holders. 
+Being physically present at the time of interviewing the stake holders,help the assessment team with the MAINFRAME related questions and interpretation of the answers and incorporating the same in the check list and assessment reports. 
+Responsible for framing of SMART action points in the assessment reports. 
+Helping the remediation team with any questions related to the SMART action points and the possible solutions Help the assessment team in the re-assessment of IT Controls check list and determine the compliance of the same. 
+Project Name: CAPITALONE,UK 
+Client CapitalOne,UK 
+Role Project Lead 
+Organization WIPRO Technologies 
+Duration August/2006--November/2006 
+Team Size Project : 10 Module : 5 
+Environment (with skill versions) 
+Languages : COBOL,JCL,CICS 
+Softwares : IBM MAINFRAME 
+Database : DB2,VSAM, 
+Tools : CA-7,FILE AID 
+O/s : OS/390 
+Project Description 
+Worked on preparation of System Maintenace Technical documentation (SMTD) for CapitalOneUK's Mainframe applications like ARIES, FALCON, TCS&TBS. 
+ARIES is Capital Ones Authorization System that takes transaction authorisation requests from Card Associations (VISA, MasterCard and Amex) and decisions these requests based on a number of parameters and rules to return a Response for each transaction Request of either Approve, Refer, Decline or Pick up (Retain Card) FALCONis a fraud detection system that works in real time in conjunction with Aries system to Detect and Report any Suspicious credit or debit card Fraud and Exposing such Fraudulent card Transactions as Lost, Stolen, Intercepted, and Counterfeit cards by employing complex models of Fraudulent Behavior(Neural Network model) together with profiles of Individual card Use. 
+TCS: The Collections system of CapitalOne,Bank TCS, enables to manage the collection of outstanding payments from customers. 
+TBS, (The Bankcard System) is part of a mainframe software package BASS (British Accounts Servicing System) purchased from Certegy (Equifax) which acts as a credit card Account Processing system. TBS is the main credit card Account Maintenance system used by Capital One for handling the Daily Functioning of the Business. It is the Card Processing System handling Account, Customer and Card Information; TBS takes care of all the Daily Activities right from Account Creation to Managing Collections of the Accounts which have gone Bad or Dormant. The business functionality of TBS includes, Account Billing, Statement Production, Customer Inquiry support, and Letters. After the verification and validation of the New credit card Application is done, then the New Account is Set up in TBS system. TBS handles all the Bank Account related information like Interest-Calculations, Transaction Charging Fees, Statement Generation etc. 
+Contribution 
+As the lead resource for this documentation project ,I was responsible and accountable for the following: 
+Meeting and conducting technical discussions with the various SMEs and application owners and users for the specified MAINFRAME applications (Aries, Falcon,TBS& TCS). 
+In the absence of any written documentation, trying to understand the application functionality by going thru source code of Programs, JCLs and CICS Screen navigation, copybooks, Db2 Tables, Input and Output files, Reports generated; 
+Responsible for knowledge acquisition and knowledge sharing related to Incoming Interfaces(U/S) and Outgoing Interfaces(D/S) and Interfaces with the other External systems and documenting the same for each given application. 
+Responsible for proper communication within the team and knowledge sharing with the team, monitoring and controlling the day to day activities of the team Responsible for User interactions, discussions with the Developers, Testers and SMEs. 
+Taking Overall ownership and ultimate responsibility for the sign off of the delivered documents, by the respective stake holders. 
+Project Name: EUROMS II & EARS support for 3M BELGIUM 
+Client 3M,BELGIUM 
+Role Project Lead 
+Organization WIPRO Technologies 
+Duration April/2004--June/2006 
+Team Size Project : 6 Module : 6 Environment (with skill versions) 
+Languages : PL/1,JCL,CA-IDEAL,CICS 
+Softwares : IBM MAINFRAME 
+Database : CA-DATACOM,VSAM 
+Tools : REMEDY,LIBRARIAN,LOTUS NOTES,CA-7 
+O/s : OS/390 
+Project Description 
+EUROMS II is an European Order Management System managing Customers Order, Complaints, enquiries.EUROMSII deals with Supply Chain Management (SCM) for 3M BELGIUM. Contribution ? 
+As the lead resource for this production support and enhancements project ,I was responsible for Initial KAP and KT from other local vendors and contractors Interaction with Business Analyst and Super Users,for production related problems and problems related to change requests, remedy incidents. 
+Responsible for meeting all the SLAnorms,Remedy incident mangement,problems resolution and reporting the fixes made in the Remedy tool and interaction with Datacenter staff for production moves for fixes or new change requests. 
+Responsible for coordinating with the team regarding the week-end support,month-end support and critical year-end support and On-Call support. 
+Reporting the issues/risks,SLA deviations and on the job learnings to the wipro management and client management. 
+Conducting and coordinating the weekly/monthly project status meetings and escalation of any issues/risks identified and discussing for the resolution of the same with the senior management. 
+Project Name: GE-1-STOP 
+Client GE USA INDUSTRIAL SYSTEMS 
+Role SeniorEngineer Organization GE IBC 
+Duration July/2003--March/2004 
+Team Size Project : 10 Module : 10 
+Environment (with skill versions) 
+Languages : COBOL,JCL,CICS 
+Softwares : IBM MAINFRAME 
+Database : IMS-DB,VSAM 
+Tools : CA-INTERTEST,LOTUS NOTES 
+O/s : OS/390 
+Project Description 
+This Project is a Production Support cum Maintenance & Enhancement project for GE Global E&DC products Ordering, Customer, Products, Pricing, Inventory, Replenishment, Invoicing, Shipping and Billing system serving as a Single-(1)-Stop, application system for several other interfaces and subsystems Contribution ? 
+As the senior developer for this production support maintenance and enhancements project ,I was responsible for Analysis of Business requirements Interaction with Clients Project lead at USA, in preparing the High level design (HLD) document based on the user requirements. Responsible for preparation of detailed low level design (LLD) document in consultation with Project Lead and Project Manager. Responsible for Coding of the Programs,Screens and JCLs 
+Responsible for unit and integration testing of the new code changes and sign off of the HLD,LLD,Code changes, Test Results. 
+Project Name: Client Policy Connect for Personal Auto 
+Client Alfa Mutual Insurance Co. 
+Role Module Leader 
+Organization CSC 
+Duration February/2002--January/2003 
+Team Size Project : 20 Module : 6 Environment (with skill versions) 
+Languages : COBOL,JCL, 
+Softwares : IBM MAINFRAME 
+Database : DB2,VSAM,CICS 
+Tools : XPEDITER,CA-7,ENDEVOR 
+O/s : S/390 
+Project Description 
+The Client Policy Connect is a system,which allows the ordering,tracking and delivery of products like MVR(Motor Vehicle Report),CHR(Claims History Report)& CBR(Credit Bureau Report) to provide the Underwriters with the information needed to properly Select,Classify and Rate Underwriting Risks. 
+Contribution ? 
+Analysis of Business requirements Knowledge acquisition and documentation. 
+Assisting in the preparation of Business Specs. And Technical Specs. 
+Coding and Testing to find out the bugs/defects of the code changes Assisting the Users/Business Analysts in the UAT testing. 
+Fixing of the bugs and retesting and code promotion to the Prdoduction region by packaging the new code and assisting the data center staff in identifying the relevant new code to be promoted to production region thru Endevor. 
+Project Name: ArchivePurgeRetrieval(APR)for Personal Auto 
+Client Alfa Mutual Insurance Co. 
+Role Module Leader 
+Organization CSC 
+Duration December/2001--June/2002 
+Team Size Project : 4 Module : 4 Environment (with skill versions) Languages : COBOL,JCL, 
+Softwares : IBM MAINFRAME 
+Database : DB2,VSAM,CICS 
+Tools : XPEDITER,CA-7,ENDEVOR,FILE-AID 
+O/s : S/390 
+Project Description 
+To purge policy quotes based on a user defined date range and line of business.CSCs APR utility ,originally developed for Series III,was migrated as virtual development to S3+ Browser to meet this need. 
+Contribution 
+Analysis of Business requirements. Running of necessary Batch Cycles Coding and Testing of the code changes 
+Project Name: Lady Primrose 
+Client Lady Primrose 
+Role Developer 
+Organization VisualSoft,Inc 
+Duration June/2000--November/2000 
+Team Size Project : 5 Module : 5 Environment (with skill versions) 
+Languages : JAVA,JSP 
+Softwares : 
+IBM Web Sphere Commerce Suite 4.1 
+Database : DB2-UDB 
+Tools : 
+IBM Web Sphere Commerce Suite 4.1, IBM Web Sphere Studio 3.0,and Windows NT IBM HTTP WEBSERVER 
+O/s : 
+Windows 2000 Project Description 
+The prototype developed is for a B2B and B2C commerce site to sell Lady Primrose products 
+Developed e-commerce application using IBM Web Sphere Commerce Suite 4.1. 
+Customers (Retailers as well as Wholesalers) can shop & place orders online to Buy Lady Primrose products. 
+Contribution ? 
+Analysis of Business requirements. 
+Installed Web Sphere commerce suite for Windows NT, Configured and administered site. 
+The administrative tasks include creating new categories, products, shopper groups and adding discounts. 
+Project Name: Y2K Project for NassauCounty Client 
+NassauCounty,LongIsland,NY,USA 
+Role Module Leader 
+Organization VisualSoft,Inc 
+Duration December/1998--March/2000 
+Team Size Project : 25 Module : 5 
+Environment (with skill versions) 
+Languages : COBOL,JCL,CICS, 
+Softwares : IBM MAINFRAMES 
+Database : IMS/DB 
+Tools : FILE-AGE,XPEDITER,FILE-AID,PAN VALET,PAN EXEC,Easytrieve 
+O/s : OS/390,MVS/ESA 
+Project Description 
+Project at the Nassau County Courthouse in Long Island,NY working on conversion of various files, including Sequential, VSAM, IMS files and databases. 
+Expansion of date fields to include a century component wherever necessary using, Transcentury File Age Tool, and IMS Utility programs; Contribution ? 
+Analysis of Y2K impacted code. Responsible for remediation of VSAM Files & IMS DB data conversions using FILE AGE tool. 
+Running of necessary Batch jobs for Unload, Reload etc. of IMS VSAM files and IMS DB Control structures such as (DBD,PSB,PCB,ACBetc),using appropriate JCL utility programs. Interacted with Testing Team for code fixes for any bugs/defects during the code conversion and remediation. Responsible for transitioning the knowledge sharing of FILE-AGE tool knowledge with the designated user groups. 
+Project Name: Y2K Projects for Various Clients of Platinum Techs. 
+Client Hertz, Agora, Reliance, First-USA &McCrory Role Programmer 
+Organization VisualSoft(India)LTD &VisualSoft,Inc 
+Duration September/1997--November/1998 
+Team Size Project : 40 Module : 10 Environment (with skill versions) 
+Languages : COBOL,JCL,CICS, 
+Softwares : IBM MAINFRAMES 
+Database : VSAM,IMS/DB,DB2 
+Tools : XPEDITER,FILE-AID,PANVALET,PANEXEC, Easytrieve 
+O/s : OS/390,MVS/ESA 
+Project Description 
+Converted Year 2000 impacted programs using a fixed window technique.Used Platinum Tech.s Trans-Century toolset for the remediation and conversion.The programs were checked for Y2K impacted lines and appropriate date logic generators (Reformat, Concatenate, Leap Year, Quick Compare, etc.) were used. 
+Contribution 
+Analysis of Y2K impacted code.Responsible for code remediation and conversion. Interaction with Testing Team for fixingany bugs/defects raised during the code conversion and remediation. 

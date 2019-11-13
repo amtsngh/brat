@@ -1,0 +1,47 @@
+Nithin Ramanand 
+#506, 17th cross, 36th main, J.P.Nagar +91-998-628-1384 nithinramanand@gmail.com 6th phase, Bangalore -560078. 
+Objective Intend to build a career with an organization, with all my dedication which will help me to explore myself fully and realize my potential and contribute to the growth of organization. 
+Academics 
+B.E.Electronics and Communication Vivekanada college of Engineering 
+(Bangalore) 2013 57.5% Pre-University 
+Vijay Junior PU College 
+(Bangalore) 2009 72.66% ICSE 
+The Oxford English School 
+(Bangalore) 2007 65.42% Technical Skills 
+Hardware Skills 
+Micro Controller 
+Control Systems 
+Radar System 
+Software Skills 
+SQL:Writing queries Languages:C,Java, Core Java, J2EE 
+Languages:HTML, CSS,Java Script 
+Networking Embedded System 
+HDL DSP 
+Hardware Tools 
+Mat Lab,Xilinx 
+SDLC Agile Scrum Process 
+Software Tools 
+Edit Plus,Eclipse IDE 
+Operating Systems:Windows XP/Win 7 Strengths 
+Leadership capabilities 
+Good Interpersonal skills Always ready to learn new things 
+Problem solving ability 
+Excellent verbal and written communication skills 
+Good with computers 
+Project Details 
+Robert Bosch 
+Feb 2013 to May 2013 Robert Bosch is a German multinational engineering and electronics company and world s largest supplier of automotive components. 
+Title 1: 
+Generic PID Controller Team Size: 3 Technologies Used: Atmega 8L Microcontroller, Code Vision AVR 
+Project Objective: To use Generic PID as a control system to improve fuel efficiency in a vehicle. 
+Concepts Utilized: Duty Cycle, Timers, USART, ADC 
+Description: Completed a project on Generic PID controller. Applied different concepts of microcontroller. Developed a code for PID controller and performed testing on a system. Monitored the PID control action on a system. 
+Key findings: Proximity of sensor to motor impacts rotational speed. If applied to an automotive engine during idle position, air & fuel mixture can be optimized and therefore increase fuel efficiency. 
+Title2: 
+Benchmarking of ECU Extra Curricular 
+An article/illustration was published in Quest (The Hindu Newspaper in Educational Program) based on nature in July 2004. 
+Took part in Patrol leaders training/ Tritiya sopan camp for scouts & Guides held at Besant Park, Doddaballapur from 07-01-2005 to 09-01-2005. 
+Personal Profile 
+Name : Nithin Ramanand 
+Father s Name : S. Ramanand 
+Date of Birth : Feb, 8th 1991 

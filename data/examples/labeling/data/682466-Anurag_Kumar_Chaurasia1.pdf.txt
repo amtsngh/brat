@@ -1,0 +1,29 @@
+Anurag Kumar Chaurasia 
+Contact Information 
+61-D/3H/2 Om Gaytri Nagar, Teliarganj, Allahabad, UP-211004. 
++919559074857,+919910080457 email: anuragchaurasia.93@gmail.com 
+Education Journal National Institute Of Technology Patna, India B. Tech in Information Technology 
+CPI: 7.82 AISSCE 64% AISSE 
+86% 
+[1] Anurag Kumar Chaurasia; Ashish Karn; Dr. Prabhat Kumar, Optimized Machine Learning 
+Ensemble for Diagnosis of Type II Diabetes , Communicated to SCI Journal. 
+Paper [1] Pushkar Rajiv; Rohit Raj; Anurag Kumar Chaurasia; Ramakant Singh, 
+An Ultra Low Power 
+Internet Controlled Home Automation System, International Conference on Microelectronics, Computing & Communication Systems (MCCS-2015). 
+Course Projects 
+Optimized Ensemble Technique for Diabetes II Detection: This project is based on machine learning to optimize the diagnosis of Type II Diabetes for a person. We have built a model using ensemble technique to increase the AUC of ROC for the detection of a person having Type II Diabetes. 
+Software Development: In this project we have developed a software for Century Ventures (P) Ltd. for bookkeeping and accounts management. It is a GUI based software for report generation, automatic email response, managing hoardings, clients, and employees, and generate monthly/weekly backup of database. 
+Anveshanam (Crawler Based Search Engine Development): In this project we have developed a Search Engine based on a web crawler. The crawler used in this search engine is developed using Python and database and back end scripting is done through MySQL DB and 
+PHP. 
+Experience Sapient(Oct 2016 present): 
+Trained on data engineering tools and concepts in data engineering and analytics batch of Sapient GMI which include big data concepts, talend, and tableau. In the mock project of smart meter data analysis, implemented these concepts to provide reports and generate graphs showing comparison with the neighborhood on the basis of temperature, precipitation, pin etc. 
+Worked on PL/SQL and Teradata in a shadow project and continuing the role as Associate 
+Technology. 
+Skills 
+Programming Languages: C, C++, Python, Database, Big Data, Machine Learning. 
+Tools: Weka, Bootstrap, Dreamweaver, PyCharm, and XAMPP. 
+Achievements Got Gold Medal in International Informatics Olympiad-2008 with State rank-5 and International rank-94. 
+Secured good ranks in International Informatics Olympiad, National Cyber Olympiad, International Olympiad of Mathematics, and National Science Olympiad. 
+Hobbies Participating in programming contests (codechef.com, hackerrank.com etc). 
+Playing Age of Conquerors, Counter Strike and cricket. 
+Watching anime, cooking and singing. 

@@ -1,0 +1,45 @@
+ Pulkit Mehrotra 
+Phone: 91-9620566557 E-mail: pulkit.sco@gmail.com 
+ObjectivesTo work in highly professional environment that requires innovation & dedication leading to achievement of organization. 
+Experience OverviewHaving 3 years of experience in Reporting/Data Visualization - Tableau Desktop, Tableau ServerExperience with an emphasis on Dashboard /Reports development. 
+Hands on experience with Documentation and Implementation of Business Intelligence Applications. 
+Developed different type of charts, list box objects and current selection objects. 
+Experience in Tableau Report and Dashboard development Expertise in creating data visualizations like Bar charts, cross tab, Tree Maps, Line charts, Scatter plot, Mapping Visualization etc with Tableau desktop 8.X & 9.X. 
+Involved in admin activities like publishing, adding users, creation of subscriptions etc. 
+Good Knowledge on data base concepts and SQL Experience in creating Tableau Mobile dashboards. Gives training to the fresher batch for BI Tools.Educational QualificationBachelor of Technology in Computer Science and Engineering from IMS Engineering College, Ghaziabad (Affiliated to Uttar Pradesh Technical University) in 2013 with 74.4%.Technical SkillsBI Tools : Tableau Desktop, Tableau Server, Tableau Reader. OS. 
+: Windows, UNIX.DBMS : DB2, SQL.Languages : R, C, Core Java, HTMLOther Tools : JIRA, Quality Center, HP-ALM.Employment History Employer: Cognizant Technology Solution (March 2014 till date) Designation: Programmer Analyst Role: 
+Tableau Developer. 
+Employer: 
+Magic Software Pvt. Ltd (June 2013 
+March 2014) Designation: 
+Software Engineer Role: 
+DeveloperProject Details 
+Client: Comcast (USA)Project Name XPO Quality Dashboards Team Size04Start DateFeb 2015 
+End Date 
+Till PresentRole & ContributionBuilding Dashboards for the CTO and Director of the companyInvolved in developing reports and dashboards. 
+Involved in creating data visualizations like Bar charts, cross tab, Tree Maps, Line charts, Scatter plot, Mapping Visualization etc with Tableau desktop 8.3 & 9.0 
+Involved in Data Blending. 
+Involved in Tableauserver installation, configuration and administration. 
+Involved in admin activities like publishing, adding users, creation of subscriptions etc. 
+Accessed various data sources across the enterprise to pull data for reporting and analysis. 
+Managed reporting of the day-to-day activities based on the scope, budget, and schedule constraints. 
+Analyzed large volumes of data and develops medium to complex reports/dashboards, insights for clients. 
+Has an in-depth understanding of the tools used for analysis, reporting and developing business insights.Technical Platform Role : Tableau Developer Tools 
+: Tableau Desktop, Tableau Server & Tableau Reader Databases 
+: OracleLocation Bangalore Client: Banking client (UK)Project Name Mortgages 
+Team Size04Start DateDec 2013 
+End DateJan 2015Role & Contribution 
+Involved in developing reports and dashboards. 
+Involved in developing mobile reports using tableau and Big data 
+Involved in creating data visualizations like Bar charts, cross tab, Tree Maps, Line charts, Scatter plot, Mapping Visualization etc with Tableau desktop 8.1Involved in admin activities like publishing, adding users, creation of subscriptions etc. 
+Worked with vendors on troubleshooting product defects and customer issues related to the product(s). 
+Accessed various data sources across the enterprise to pull data for reporting and analysis.Technical Platform Role : Tableau Developer Tools 
+: Tableau Desktop, Tableau Server & Tableau Reader Databases : DB2Location 
+BangaloreAchievementsWon Cognizant AIM quarterly awards for Q2 2015. 
+I am part of Centre of excellence team and handle Training and POCs for upcoming projects. 
+Rewarded with Pillar of the Month Award for Best Team player and also for performing as an individual.Personal DetailsFathers Name 
+: Mr. Jainendra Kumar Mehrotra Date of Birth : 14 July 1990 
+Language Known 
+: English, Hindi Nationality 
+: Indian Place: Bengaluru 
+(Pulkit Mehrotra) 

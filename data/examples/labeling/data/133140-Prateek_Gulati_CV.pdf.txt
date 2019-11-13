@@ -1,0 +1,35 @@
+SEPTEMBER 30, 2016 PRATEEK GULATI R SUM 
+1 Prateek Gulati +91-9999183725 | 
+pg469@snu.edu.in | 
+in.linkedin.com/in/prateeksworld/en | https://github.com/prateekgulati/ Education 
+COMPUTER SCIENCE AND ENGINEERING: CGPA 8.32 2013 
+Present (2017 Expected) SHIV NADAR UNIVERSITY Gautam Budh Nagar 
+HIGH SCHOOL: 12th: 92.4% 2013 MATRICULATION: 10th: 10.0 CGPA 2011 
+Experience 
+DELL INTERNATIONAL SERVICES May July 2016 Undergrad Intern Associate Hyderabad 
+RUTILD, Resource Utilization Dashboard: A dashboard webapp that helps organization establish and sustain resource utilization excellence that drives profitability. 
+Technologies Used: Python, pandas, flask, jinja2, JavaScript, D3.js, nvD3.js, bootstrap, jquery, AJAX VIDEOCON D2H June July 2015 Intern Machine Learning Greater Noida Developed a Tele-Recommender System using Machine Learning techniques, to improve user experience for their customers. Applied Collaborative filter using content and user similarity algorithm. 
+Dataset used: Movielens, Technologies Used: Python, numpy, scikit for various calculations, and wxpython for GUI Projects 
+HOMEY BOT Apr 2016 Demonstrating IOT at a prototype level by controlling room devices using the Telegram app. Real time data access of the sensors and its graph and notifications of intruder on the app. Classification and recognition of unidentified objects. 
+Worked on: Python, API:-Telegram, opencv, cloudsight, thingspeak, Pyserial. 
+BTD: BREAST TUMOR DIAGNOSIS Oct 2015 
+Diagnosing malignant vs benign breast tumor via Machine Learning. 
+Dataset used: Wisconsin (Diagnostic). Applied Classification (Logistic Regression and SVM) 
+Worked on: Python, sklearn, scikit, numpy module, wxPython module for GUI. 
+AAM: AN AUTOMATED ATTENDANCE SYSTEM Nov 2014 Developed an automatic system that makes attendance faster and accurate with minimal human intervention by using photo-diodes and camera and an image recognition algorithm which uses histogram plotting database searching. 
+Worked on: MatLab, Arduino, Database Management, Image Processing. 
+DATABASE MANAGEMENT USING WEB CRAWLER Feb 
+Mar 2015 Developed a desktop app to search International Cricket Players by creating a database from from www.cricinfo.com. 
+Worked on: Python, wxPython module for GUI and MySQLdb module for Mysql database. 
+KBC: Kaun Banega Crorepati Nov-Jan 2011 
+An interactive KBC game in C++ with questions, lifelines and levels and full-fledged GUI using graphics library. 
+Research 
+Binary Number Sequence: Jan-May 2016 Finding patterns in number of possible combinations of binary number of sequence n with x number of zero and k consecutive zeros Honors & Awards 
+Intern-novation Finalist in Dell International Services 
+Silver merit in Technothlon 2010 by IIT Guwahati 
+Gold medalist in 8th National Science Olympiad 2005 and 4th National Cyber Olympiad 2004 
+Gold and Silver medalist in International Informatics Olympiad 2005 and 2006 
+Recipient of State prize (INR 1000/-) in 6th Bhaskara Maths Competition 2009 Appreciation certificate in Science Open Merit Test-2010 
+Five time consecutive scholar in school 2006-2011 
+Extracurricular activities/Hobbies 
+Founding Member of the SNU ACM Chapter PyCon India 2016 Reading Technology trends Travelling 

@@ -1,0 +1,42 @@
+HarjinderKaur E-mail:harjinderkaur.tu@gmail.com Phone:91-9872451692 
+Objective: 
+TosecureapositionwhereIcanefficientlycontributemyskilsandabilitiesto thegrowthoftheorganizationandbuildmyprofessionalcareer. 
+InternshipSummary: 
+6monthsinternshipinSalesforceTechnologyinTavant 
+Technologies,Bangalore. HavinggoodknowledgeofAdministrationPartofsalesforce. 
+Handsonexperienceinwritingapexclasses,visualforcepages,batch classesusingsalesforce. 
+Learnedcreationofworkflows,triggersinsalesforce. KnowledgeofHTML,CSS. 
+Goodteamplayerwithstronginterpersonalskils. 
+TechnicalSkilSet: 
+ProgrammingLanguages :C,Java,Apex DatabaseSystems :MySQL,Oracle10g 
+WebTechnologies :HTMLandCSS 
+OtherTechnologies :Salesforce 
+Academics: 
+MCAfromThaparUniversitywith9.88cgpain2017 BSCinComputerSciencewith70.7%underGuruNanakDevUniversityin 2014 SecondaryEducationfromSacredHeartSenSecSchoolwith82.8%marks 
+in2011 
+MatriculationfromPioneerSchoolwith88.6%marksin2009 AcademicsProject: 
+1.ProductRegistrationModule(Jan2017-May2017):ProductRegistrationisa modulewhichisusedtoregistertheproductmanufacturedbyOEM(Original 
+EquipmentManufacturer).Whenevercustomerwantstobuyaproduct,he caneasilyregisteritusingProductRegistrationModule.Endcustomerneeds toenteraserialnumberofproduct,itspurchasedateandhisowninformation. 
+Moreoverthecustomerwilgetanemailontheemailaddressheisproviding regardingtheconfirmationofproductregistration.Oncetheregistrationis done,WarrantyAdmincanfurtherassociatewarrantypolicieswithit. 
+Folowingisthetechstackused: 
+TechnologyUsed :Salesforce 
+Platform :Force.com 
+LanguageUsed :Apex TeamSize :1 
+Contribution:AnalyzeandDevelopment Creationofobjects,visualforce pages,apex class,workflowsandtriggersrequired.AppliedrequiredCSS. 
+2.DispensaryManagementSystem(Jan2016-May2016):Alowseaseof managingstock,reducespaperworkandtimetosearchthepreviousrecord ofpatientsisalsoreduced. 
+Folowingisthetechstackused: 
+ToolUsed :NetBeansIDE8.2 
+LanguageUsed :Java 
+Back-End :MySQL 
+TeamSize :2 
+Contribution:AnalyzeandDevelopment CreationofJavaclassesand JFrames. 
+3.ColegeDatabaseManagementSystem(Jan2016-March2016):Designed adatabaseinOracle10Gforaltheactivitiesthattakeplaceincolege. 
+DatabaseUsed :Oracle10G TeamSize :1 
+Contribution:DesignBackEnd Creationofdatabasetables,procedures, cursors,triggers. 
+PersonalDetails: 
+Father sName :NarinderPalSingh DateofBirth :19-Apr-1993 
+Gender :Female MaritalStatus :Single PermanentAddress :V.P.O.SohianKalan,Amritsar,Punjab-143001 
+Passport :Yes 
+Declaration: 
+Iherebydeclarethattheabovewritenparticularsaretruetothebestof my knowledgeandbrief. 
+Date:02-Aug-2017 Place:Bangalore 

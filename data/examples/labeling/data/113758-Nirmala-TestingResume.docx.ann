@@ -1,0 +1,46 @@
+T1	name 0 7	Nirmala
+T2	emailTag 65 70	Email
+T3	email 72 89	jsnimmi@yahoo.com
+T4	skill 597 630	Languages: Java, J2EE, VB, C, C++
+T5	skill 632 637	RDBMS
+T6	skill 640 684	Oracle, SQL Server, PL/SQL, MySQL, MS Access
+T7	skill 686 736	Web Technologies: HTML,HTML5, XML, CSS, JavaScript
+T8	skill 738 820	IDE: Eclipse, Testing tool (Selenium) OS: Windows 7/XP/2000/NT, MS-DOS, UNIX,LINUX
+T9	educationHeading 822 831	Education
+T10	educationClassStream 833 837	M.Sc
+T11	educationSchoolCollage 864 882	St. Joseph College
+T12	educationBoardUniversity 884 908	Bharathidasan University
+T13	educationYear 926 935	2001-2003
+T14	educationClassStream 938 943	PGDCA
+T15	educationSchoolCollage 999 1018	St. Josephs College
+T16	educationBoardUniversity 1020 1044	Bharathidasan University
+T17	educationYear 1062 1071	2000-2001
+T18	educationClassStream 1074 1078	B.Sc
+T19	educationSchoolCollage 1098 1116	Holy Cross College
+T20	educationBoardUniversity 1118 1142	Bharathidasan University
+T21	weHeading 1350 1368	Experience Summary
+T22	weCompany 1371 1386	Gemalto Co. Ltd
+T23	weDuration 1404 1408	2015
+T24	weDuration 1410 1418	Jan.2016
+T25	weCompany 1420 1445	Avatar Information System
+T26	weDuration 1464 1483	Jun. 2006 Jul. 2007
+T27	weCompany 1485 1517	Trec-Step Information Technology
+T28	weDuration 1535 1544	Jun. 2005
+T29	weDuration 1546 1554	May 2006
+T30	skill 2069 2105	Java, JSP, Servlets, XML and Eclipse
+T31	softSkill 2199 2283	Good interpersonal skills, committed, result oriented and learning new technologies.
+T32	projectCompany 2295 2311	Gemalto Pte. Ltd
+T33	projectRole 2354 2369	Admin Executive
+T34	skill 2835 2880	MS Office, Excel, Outlook Express, Windows XP
+T35	projectCompany 2896 2938	Avatar Information System, Chennai, India.
+T36	projectDuration 2940 2959	Dec. 2007 June 2007
+T37	projectCompany 3364 3389	Avatar Information System
+T39	projectRole 2962 2972	Programmer
+T38	projectRole 3397 3407	Programmer
+T40	projectDuration 3434 3454	June. 2006 Nov. 2006
+T41	skill 3586 3647	Java, XML, RMI, Servlet, JavaScript, CSS, Oracle & Windows XP
+T42	projectCompany 3649 3664	Virtual Library
+T43	projectDuration 3666 3685	Jan. 2006 may. 2006
+T44	skill 3311 3348	VB, SQL Server, PL/SQL and Windows XP
+T45	projectRole 3695 3717	Faculty cum Programmer
+T46	skill 4379 4415	Environment: C, graphics, Windows 98

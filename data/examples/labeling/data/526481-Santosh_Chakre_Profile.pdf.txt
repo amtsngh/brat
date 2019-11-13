@@ -1,0 +1,159 @@
+ Santosh Chakre has over 10+ years of experience in Global IT industry worked in US and India on various domains like Telecom, Retail and Automotive as Technical Lead. Worked in different technology like IBM Mainframe, Informatica, Pig/HIVE and Data Analysis/Text 
+Analysis - Predictive modeling using R. 
+Telecom, Retail, Automotive IBM Mainframes(COBOL, DB2, JCL, Endevor) , Big Data (Pig/HIVE), Text Mining and Predictive Analysis using - R, JDA CC, JDA EIA, JDA Demand and Fulfillment, JDA IKB, As400 Basics. 
+R language - Text mining and predictive analysis 
+Mainframe languages 
+COBOL, COBOL-DB2, JCL, Endevor 
+Big Data Languages PIG, HIVE 
+Knowledge on Other Languages - JAVA, C, Shell Script 
+Database like DB2, Oracle, IKB Database s Ability to produce realistic Software Schedules, Project Management, Business Analysis and Development, Data management, Data strategy, Data modeling Excellent proficiency and ability to coordinate and communicate with different team, Senior Management and Clients 
+Initiated Knowledge Management activities on Domain and Application Knowledge and Working on the Training Plan. 
+Project Planning, Scheduling, Management, Monitoring and Control 
+Collect and prepare metrics like Effort metrics, Schedule metrics and Defects metrics 
+Preparing various status reports and dashboards - WSR, DSR, Metrics, Resource allocation etc and presenting to the Senior Management and Client Stakeholder. 
+Completed BIG Data training from Capgemini Internal program - Basic and Advance 
+Trained 30 resources on Mainframe (Capgemini Internal Training) Completed training on Big-Data - Hadoop from Edureka. 
+Completed training on R -Analytics from Edureka. 
+Completed PEGA-CSA (Certified System Architect) training Completed Capgemini Internal Training on Diploma in JAVA 
+Completed Capgemini Internal training on Cassandra 
+Providing Big Data training to Internal resources Received Project star award in Manheim Auctions during Q2 2016. 
+Received Project Star award in LOWES - Q2 2011. 
+COLA Collection Online Access Project bagged Wall of Fame award in Qwest from onshore technical director. 
+COLA Collection Online Access project is recognized as one of the best project in Qwest Bangalore. Very much appreciated by the Client and Onshore team. 
+PROFESSIONAL SUMMARY 
+Technology 
+Languages and Database 
+Domain 
+Management and Leadership 
+Training and Certification 
+Awards and Recognition Santosh Chakre 
+EMAIL 
+sschakre@gmail.com 
+MOBILE +91 91489 91956 
+Current Company 
+Capgemini India Pvt Ltd. 
+Bangalore/ Capgemini US LLC, USA as Senior Consultant since July 2010 
+PRIOR EXPERIENCE 
+Qwest Telecom Software 
+Services (CenturyLink), Bangalore from March 2007 till July 2010 as Senior Software 
+Engineer. 
+Indian Institute of Science (IISC) as Project Assistance from Oct 2005 till Feb 2007 (Non IT) 
+EDUCATION 
+Master in Technology in Product 
+Design and Manufacturing in 2005 Bachelor in Mechanical 
+Engineering in 2003 CLIENT EXPERIENCE 
+Manheim/COX Automotive 
+LOWES QWEST (CenturyLink) ONSITE EXPERIENCE 
+Worked as Data Lead for 
+MANHEIM/COX Automotive 
+Title Management and CDT project at Atlanta (USA) from April 2015 till Sept 2016 
+Worked as Onsite lead for 
+LOWES Long term Inventory 
+Request (LIR) project at Mooresville(NC) from Dec 2014 till March 2015 Worked as Onsite Data 
+Coordinator for LOWES IPE-II (Demand and Fulfillment) at Mooresville (NC) from June 2012 till April 2013 
+Santosh Chakre +91 91489 91956 
+sschakre@gmail.com 
+Incident Ticket Analysis using R- PROJECT DETAILS 
+Currently working on Incident ticket analysis using Predictive modeling - R. 
+Project Duration: From Dec 2016 till date Software and tools used: 
+R Coding language with R 
+Studio 
+Incident Ticket analysis is part of Capgemini Analytical COE (Center Of Excellence) where different Incident tickets are analyzed and run against prediction model to classify tickets and predict the resolution of the ticket is similar issue arises in near future. Text mining and ggplot are used to come up with data analysis and visualization. 
+Roles and Responsibility: 
+o Loading the data, cleaning the data o Analyzing the data using ggplot2 o Creating TF-IDF for Text data o Training the model using Knn, Kmeans clustering, SVM (Support Vector 
+Machine), Na ve Bayes algorithm o Testing against test data o Analyzing which model provides the better accuracy. 
+o Proceeding further with Na ve Bayes and using different classifiers to predict the ticket classification. 
+o Providing detail report to higher management. 
+o Analyzing with different Incident Tickets to check the model accuracy. 
+MANHEIM (COX Automotive) Atlanta (Georgia- USA) - PROJECT DETAILS 
+One of the guiding principles of the G2G project is to retire AS/400 functionality with minimal scaffolding or backfill of information to the AS/400 while at the same time there will be no new capabilities added to the AS/400 platform. 
+Currently, the Client relies heavily on a decentralized AS/400 legacy system for its Customer Data 
+Transmission. There have been several customizations to the AS/400 systems, thus, it has become more complex to maintain these applications. Worked as Data lead and Analyst for different projects in Manheim like Customer Data Extract(CDT), Order Management, Invoicing, B2B (Old and New Process), NextGear Seller side processing, I Expense, Customer Portal(CP), Customer Service Application (CSA) and Title Management. Roles and Responsibility: 
+o Handled onshore team consisting of 4 Members and offshore 11 members o Worked as Onsite Data Lead and Analyst for different projects o Single point of contacts for I Expense, Global Payment, B2B Customers. 
+o Preparing Weekly dashboard, QC reports and communicating to higher management o Discussion with business on data for the project o Identifying the test data, understanding the business requirement o Preparing High Level Scenarios, low level test cases and executing the same in 
+ALM. 
+o Established processes to facilitate better execution of project o Encouraged and facilitated the knowledge building within the team o Worked closely with the client to discuss various ideas/solutions, issues and timelines o Encouraged the identification and implementation of innovative ideas to yield cost/effort savings o Participated in requirement gathering through various meetings and interactions with the client and onsite as required o Managing Project related artifacts in sharepoint 
+Project Duration: April 2015 till Nov 2016 
+Location : Atlanta (USA) Software s and Special Tools: 
+Oracle Apps (Order 
+Management, Invoicing, I- 
+Expense) AS400, Customer 
+Portal, Customer service applications, Vault 
+Applications, Manheim 
+Business Events (BEE), Title 
+Management Application. 
+Projects worked on: 
+Title Management 
+Customer Data Transmission(CDT) 
+Invoicing 
+Order management 
+B2B 
+I-Expense 
+Next gear seller side Customer Portal and Customer 
+Service Application 
+E s Mooresville - USA 
+Path to purchase is analyzing the data from different source systems and understand the purchase patterns of the customer/end user. Analysis was carried out using different tools like Cloudera, Hortonworks and come up with suggestion for LOWES Envt which tool is the best fit. 
+Roles and Responsibility: 
+o Data parsing, data analyzing using different third party tools like Cloudera, Hortonworks. 
+o Understanding the data structure, data types from different source system o Different methodology to pull the data from different sources using HIVE, PIG language. 
+o Methodology to connect to external source system and to get the data to Hadoop environment. 
+o Capture the time taken to pull data and analyze the same in different tools o Discussion with business on data for the project 
+JDA - Integrated Planning and Execution (IP&E) Supply Chain Planning and Execution project will implement a platform to support the strategic vision of a fully integrated planning and execution system for the Forecasting, Logistics Planning, and Replenishment (now called as Fulfillment) functional areas. 
+Develop an integrated merchandising, store planning and supply chain solution which provides the ability to plan the customer s demand for the entire LOWES network and optimize merchant, space and product flow plans and execution. 
+Performance measures needed from the Information Warehouse by Merchandising 
+SDG for Business Release 2 of the Integrated Planning and Execution CC-EIA 
+Integration Implementation Project. The project performance measures obtained will be used by the JDA Channel Clustering (CC), Efficient Item Assortment (EIA), JDA Intactix Knowledge Base (IKB). 
+Roles and Responsibility: 
+o Batch job/Workflows execution 
+o Table backup and load plan in test environment o Identifying the test data for testing team and preparing generic queries o Understanding the end to end flow and share the same with the team members o Preparing detail test cases for mainframe Batch Jobs and JCLs o Preparing High Level Scenarios for SIT Requirements 
+o Executing Mainframe related test cases in QC and raising defect in QC o Attending Defect triage call and explaining defects to different teams. 
+o Checking out the jobs from endeavor and point it back to different test environment and UAT environment o Provide support for SIT and UAT team to resolve the issues. 
+o Converting tape files to flat files and Converting non-readable files to readable files. 
+o Develop new Mainframe code in COBOL, JCL and DB2 as per business requirement. 
+o Modified existing JCL programs to fit into the environment and system requirements o Used SPUFI for DB2 to query DB2 database when creating SQL statements for use in the development and maintenance of programs. 
+Santosh Chakre +91 91489 91956 
+sschakre@gmail.com 
+LOWES Mooresville - USA - PROJECT DETAILS 
+Project duration 
+Aug 2010 till March 2015 
+Onshore: June 2012 to Mar 2013 Dec 2014 to Mar 2015 
+Offshore: Aug 2010 to May 2012 Apr 2013 to Nov 2014 Software and special tools: JDA Tools Channel Clustering(CCI), Efficient Item Assortment(EIA), Intactix 
+Knowledge Base(IKB), JDA Demand and Fulfillment Informatica, UNIX, Putty, IBM 
+Mainframes, SPUFI, Endevor, JCL, FILE-AID 
+Projects worked on: 
+JDA CCI JDA 
+EIA 
+JDA IKB, JDA Demand and Fulfillment 
+EIS Reporting 
+LIR Project Software and special tools: Big Data Tools Cloudera, Hortonworks. PIG/ HIVE 
+Project duration : 
+May 2013 
+Nov 2013 
+Project: 
+Path to Purchase 
+Recall Inventory is enhancement to the COLA project. Depending upon the clients request, fire an agency and redistribute the accounts among the other agency in the same placement or in to next placement. 
+COLA-Enhancement is some addition to the existing COLA (Collections On-Line 
+Access). In the enhancement there are more options given to the super user (Clients) to cancel, Uncancel, Post payment, Remove current placement, Change customer address info, Move to next placement and recalls process options were provided. 
+After implementing COLA-Enhancement, user saved 20 Hrs of mainframe developer s work every week. Got spot award for 
+Flaw less production release . 
+COLA (Collections On-Line Access) was developed as a prototype in 1997 to demonstrate the ability to present legacy data residing in the MVS environment dynamically via a web interface, as well as to satisfy the need to allow users real-time access to OCA(Outside Collection Agency) data. This one was completely rewritten in 
+JAVA with struts framework. 
+Maintenance OCA (Outside Collection Agency) and EDI (Electronic Data 
+Interchange) applications throughout the year along with the new projects Roles and Responsibility: 
+o Understanding the business requirement o Discussion with the Client and team member and provide the estimation. 
+o Develop code and review the code developed by team member. 
+o Participated in SQA activities. 
+o Configuration Coordinator for the project o Preparation Of Low level design and Program spec documents o Modified existing JCL programs to fit into the environment and system requirements o Used SPUFI for DB2 to query DB2 database when creating SQL statements for use in the development and maintenance of programs. 
+o Used ENDEVOR (change control tool) to move the members from Test environment to Production 
+o Analyzing the dependent jobs and scheduling the new jobs using Control-M. 
+o Resolve production issues/abends o Attend clients weekly call o Resolve the tickets assigned by the clients o Provide reports which are needed (monthly reports, weekly reports) o Participate in CMMi processes Santosh Chakre +91 91489 91956 
+sschakre@gmail.com 
+QWEST Telecom Software Services - PROJECT DETAILS 
+Project Duration: Mar 2007 to July 2010 Software and Tools used: 
+IBM Mainframes, JAVA Struts framework, UNIX, COBOL, COBOL-DB2, JCL, Endevor, SPUFI, QMF, INSYNC, FILE-AID, PST, DB2 
+Projects worked on: 
+Recall Inventory 
+EDI to DART COLA Enhancement 
+COLA Rewrite 
+Tertiary Placement 
+OCA and EDI application maintenance and support 

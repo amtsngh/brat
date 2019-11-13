@@ -1,0 +1,112 @@
+ CAREER OBJECTIVES 
+Looking forward for a responsible and rewarding position to sharpen my system technical skills where my abilities can be proved in the field of Virtual Technologies. 
+PERSONAL SKILLS 
+Comprehensive problem solving ability skills, able to work under high pressure, able to think creatively and do my project in time. Willingness to learn. 
+PROFESSIONAL EXPERIENCE: 
+ITO Service Delivery Consultant II (VMware) from Oct-2014 to till date in Hewlett Packard Global Soft Pvt. Ltd. at Bangalore 
+Virtualization Specialist (VMware) from July-2013 to Sept-2014 in Valuepoint Systems Pvt. Ltd. at Bangalore. 
+System Administrator from April-2011 to June-2013 in OptIT Technologies India Pvt. Ltd. at Bangalore. 
+KEY SKILLS VMware, MCSA, CCNA, A+ and N+ 
+CERTIFICATION 
+Microsoft Certification (Server 2003). 
+MCP Certification ID: 7516389 
+Certification No: C755-9932 
+VMware Certification 5.5. 
+Class ID: 
+193145 
+Candidate ID:VMW-01146079R-00386332 
+VCA5-DCV Verification Code: 11830937-8913-A94FF07C4A71 
+VCP550-DCV Verification Code: 11831566-B31C-229FA347CC43 EDUCATIONAL QUALIFICATIONS ACADEMICAL PROFILE 
+Doing PGDM + MBA (IT) from JAIPUR NATIONAL UNIVERSITY, JAIPUR. 
+Graduation in 2008 from North Orissa University, Orissa. 
+C.H.S.E. (+2 Arts) in 2005 from Bhimeswar College, Orissa. 
+H.S.C. in 2003 from Board of Secondary Education, Orissa. 
+PROFESSIONAL PROFILE 
+Completed VMware ESXI 5.1 from VMware Education at Bangalore. 
+Completed ACHNP from IIHT at Balasore in 2010. 
+MCSE, CCNA, A+ and N+ 
+JOB RESPONSIBILITIES 
+Hewlett Packard Global Soft Pvt Ltd at Bangalore 
+(From October-2014 to Till Now) Job Profile 
+ITO Service Delivery Consultant II (VMware) 
+Possess hands on experience with the VMware ESX Server, VMware Virtual Center, VMware HA, VMware DRS, VMware vMotion, VMware svMotion, VMware Converter, VMware Update manager. 
+Troubleshooting ESXi and vCenter server issues. 
+Performing Snapshots, Creating Template and cloning virtual machines in VMware environment using vSphere client, vSphere 5.5 and vCenter Server. 
+Conversion of Server (V2V & P2V). 
+Creating & managing VMware Cluster. Enabling HA & DRS feature in a cluster. 
+Exposure on vMotion, svMotion, High Availability feature, DRS feature Executions of change activities, client interaction, maintain SLA for the project, tasks & tickets as per client requirements. 
+Upgrading ESXi 5 to 5.5 & 5.5 update 3. 
+Apply patches to all the ESXi hosts in the environment whenever required. 
+Creating Datastore from assigned LUNs. 
+Checking & analyzing vCheck Report & RV Tools report for vCenter. 
+Monitoring vCenter from Operation Manager. 
+Working on Change, C-Task, Incident & request. 
+Troubleshooting on Physical Server H/W issues from ILO, VC & OA. (Loging call with Vendors) Valuepoint Systems Pvt. Ltd. at Bangalore (From July-2013 to September-2014) Job Profile 
+Virtualization Specialist (VMware) 
+Possess hands on experience with the VMware ESX Server, VMware Virtual Center, VMware HA, VMware DRS, VMware vMotion, VMware Converter, VMware Update manager. 
+Implementation of V-Sphere and VDI in Datacenter. 
+Using vCenter Operations Management Suite helps enable IT organizations to get better visibility and actionable intelligence to proactively ensure service levels, optimum resource usage and configuration compliance in dynamic virtual and cloud environments. 
+Using Capacity Planning Tools to collects comprehensive resource utilization data in heterogeneous IT environments. (to monitor CPU, memory and disk utilization) Maintenance and administration of Windows 2003 and 2008 with Active Directory. Configuration and implementation of Microsoft windows Server 2003/2008 Group policies for domain users. 
+Installation, Configuration and Troubleshooting DNS and DHCP SERVER. 
+Implementation & Troubleshooting of group policy security. 
+Implementation of AD, DNS DHCP, FTP server GPO, RAID creation, Blade server Configuration, Create documents for it infrastructure 
+Upgrading ESX 4.1 to ESXi 5.0 using VMware Update Manager. 
+Experience on Deploying and Manage Virtual Machines. 
+Have knowledge and experience in troubleshooting ESXi and vCenter server. 
+Performing Snapshots, Creating and cloning virtual machines in VMware environment using vSphere client, vSphere 5.0 and 5.1 Conversion of physical servers to virtual machines (i.e P2V, V2V) Exposure on vMotion, High Availability feature, DRS feature 
+Executions of change activities, client interaction, maintain SLA for the project, tasks & tickets as per client requirements. 
+Maintenance & Troubleshooting of Varies Software/Application. 
+Backup & Replication 5.0 Responsibilities 
+AMC /ASC Maintenance (VMware & vCenter, WINDOWS License) 
+System Asset: 
+Monitoring VMware ESX hosts and the virtual machines health status, performance and Responsible for building virtual machines and installing all required softwares based on business requirement under change requests. 
+OptIT Technologies (I) Pvt. Ltd. at Bangalore 
+(From April-2011 to Jun-2013) JobProfile System Administrator (VMware) 2+ years of experience as a System administrator in Windows server 2003/2008 and VM Ware ESXi 5.0 Managed Virtualization Environment using VM Ware ESXi 5.0, VCenter Server and vCenter Client. Installation, Configuration and Troubleshooting of ESXi 5.0, VCenter Server, VCenter Client, VMs. 
+Creating and Managing ESXi Host, Virtual Machines, Snapshot, Clone and Templates. 
+Creating Clusters for High Availability (HA), Distributive Resource Scheduling (DRS) and Distributed Power Management (DPM). 
+Migrating Physical Servers & Virtual Servers to VMware Server using VMware Converter (P2V & V2V Converter) 
+Migrating of using VMotion Performing Snapshots, Cloning, Cold Migrations and Hot Migrations. 
+Installation, Configuration and Troubleshooting Windows Server 2003 & 2008. 
+Designing, Configuring and maintaining Active Directory Services on Windows Server 2003 Domain Controller. 
+Installation, Configuration and Troubleshooting DNS and DHCP SERVER. 
+Implementation & Troubleshooting of group policy security. 
+Experience on configuring data store for ESXi server using NAS, iSCSI or LUN. 
+Managing & Troubleshooting of Network and security. (Like: Switch & Firewall) Configuring and maintaining Firewall. ( Creating Policy for user to access Internet) Managing E-mail Server. (Like: Google Apps with permission for users.) Maintenance and administration of Windows 2003 and 2008 with Active Directory. 
+Configuration and implementation of Microsoft windows Server 2003/2008 Group policies for domain users. 
+Configuration and troubleshooting of Microsoft outlook, outlook express email clients and Internet related problems. 
+Maintenance and troubleshooting of varies hardware components of PCs and Laptop. 
+Routine Work of Pre-production checklist for all Servers. 
+Handling Symantec backup NAS storage Devices. 
+Implementation of AD, DNS DHCP, FTP server GPO, RAID creation, Blade server Configuration, Create documents for it infrastructure. 
+Technical Skills 
+Virtualization: VMware ESXi 5.0, VCenter Server, VCenter Clint, P2V, V2V 
+Server OS: Windows 2003/2008 Server 
+Client OS: Windows 8, Windows 7, XP 
+Microsoft Services: AD, DNS, DHCP, IIS, GPO PROFESSIONAL & Technical SKILL SUMMARY 
+Major Expertise over Microsoft XP/WINDOWS7/2003/2008 
+VMware for Citrix servers (VMWARE ESXI 5.0 /5.1) 
+Backup & Replication 5.0 Familiar with Facility management and site support activities. 
+Familiar with Network connectivity device like Modem, WIFI and Routers. 
+Windows 7 and Windows 8 trouble shooting 
+SOFT SKILL 
+Honest 
+Committed to work Self-motivated Willing to Learn 
+Problem solving skill 
+PERSONAL STRENGTH 
+Single minded and also Positive minded. 
+Love to take initiatives and strong desire to achieve. 
+PERSONAL DETAILS 
+Fathers Name : 
+Pradeep Ku. Jena 
+Date of Birth : 
+10th Jan 1988 
+Sex : 
+Male 
+Linguistic Skills : English, Hindi and Oriya 
+Marital Status : 
+Single 
+Nationality : Indian 
+Religion : 
+Hindu 
+DECLARATION 
+I hereby declare that all statement made here in above are truly complete and correct and are not false or misleading. I understand that in the event of any information so furnished being found false or incorrect or in misleading dismiss me from its services (if I selected) besides proceeding against me for giving false and incorrect statements under the appropriate low. 

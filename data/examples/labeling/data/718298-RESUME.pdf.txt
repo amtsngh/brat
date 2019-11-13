@@ -1,0 +1,37 @@
+ RAHUL KUMAR DWIWEDI 
+B-Tech (IT) WZ-298C, Naraina Village, Ring Road, New Delhi -28 
+Mobile: +91-7503647631 
+Email ID: dwiwediaman@gmail.com 
+EXPERIENCE Art Culture Festival, New Delhi, IN 
+2016-Present 
+Web Developer 
+Working as a Web Developer at the startup Art Culture Festival (ACF). 
+Also Worked as Web Developer Intern for 2 months. 
+Responsible for maintaining the main website of ACF (artculturefestival.in) and for adding some new features according to the needs so as to make the experience of user better and to allow them to see various artists and paintings easily. 
+Developed another classifieds website for ACF (artdirectoryindia.in) using Wordpress & php to allow people to buy/sell artworks and paintings. 
+Also responsible for performing the SEO for both websites. 
+PROJECTS DBMS Application (Major Project) 
+2017 
+(https://github.com/RahulDwiwedi/CBPDBMS) Created a database management system using Java which is capable of executing some simple SQL queries and could read commands from a file to execute them. 
+It takes the database in the form of a text file and converts it into heap file format. 
+The catalog file stores all the databases.ZQL is implemented for the parser. 
+The DBMS can be run on any java enabled device through command terminal. 
+Vertical Search Engine (Team Project) 2016 (https://github.com/RahulDwiwedi/Vertical-Search-Engine) Built a vertical search engine using Python language & Django framework and used HTML & CSS to design the layout of the search and results page. 
+The search engine used a focused web crawler to crawl through some Amazon website pages related to mobile phones and then stored them into a sqlite database. 
+Snake Game Windows application (Individual Project) 2016 (https://github.com/RahulDwiwedi/Snakame ) 
+Implemented in PYTHON using PYGAME. 
+The Player has to control a long, thin creature, resembling a snake, which roams around on a bordered plane, picking up food (or some other item), trying to avoid hitting its own body or the "walls" that surround the playing area and Each time the snake eats a piece of food, its tail grows longer, making the game increasingly difficult. 
+ACADEMIC QUALIFICATIONS 
+DEGREE BOARD/ UNIVERSITY YEAR 
+B-TECH (Information 
+Technology) 
+Guru Gobind Singh 
+Indraprastha 
+University 2017 
+12th S.B.V. Naraina (C.B.S.E) 2013 
+10th S.B.V. Naraina (C.B.S.E) 2011 
+TECHNICAL SKILLS 
+Proficient in programming languages like C, C++, Java, Python, HTML, CSS. 
+Learning programming languages, JavaScript, PHP. 
+Familiar with android Development, Wordpress, Django, Git. 
+Work with operating systems like Windows XP/7/8/10, ubuntu. . 

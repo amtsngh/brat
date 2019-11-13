@@ -1,0 +1,35 @@
+Mayank Mittal 56/14, Gandhi Nagar, Bangalore 560037 +917354670095
+| mayank_mittal@outlook.com 
+PROFILE 
+Over the last couple of years while freelancing work as a Web 
+Developer I ve acquired new skills and improved some of my previous ones. And I ve also come across some really good and creative Designers which makes the job more fun and challenging. 
+EDUCATION 
+B.E. (Computer Science & Engineering) from Shri Vaishnav 
+Institute of Technology & Science, Indore, M.P. with CGPA 7.06/10 in 2016. 
+12th from M.P. board with 78.8% in 2012. 
+10th from M.P. board with 79.8% in 2010. 
+EXPERIENCE & ACTIVITIES 
+Comet Instruments Made a small python script to filter out the Emails from tons of text and to send Bulk emails to them. It also includes email validation. 
+Indore Youth Leadership Conclave 
+Help Developing the Front 
+End of IYLC 2016 (https://www.indoreylc.org) 
+Indore Model United Nations 
+As a Director of IT & Media, made the Website of Indore MUN 2015 (https://www.indoremun.com) and an Android App for the same with other things. 
+Skinny Lover 
+A 5 min animated clip using 16bit C++ Graphics. 
+JPEG in C++ - Created a program to print a JPEG in 16bit C++. 
+(Kind of a hack though.) KhandelwalCA Solely developed the Front End and Back End of a File sharing webpage for CAs in 2014. 
+And a couple of other websites, snippets, JavaScript libraries for fun and learning. 
+TECHNICAL SKILLS 
+Operating Systems : Linux, MS Windows 
+Programming Languages : C, C++, Python, PHP 
+Databases: Oracle, MySQL 
+Others : HTML, CSS, JavaScript, Java, Git, Batch Programming, PL/SQL, Front End Development, PERSONAL DETAILS 
+Hobbies: Bike Riding, YouTube, Watching TV Shows, Reading 
+Comics 
+Date of Birth: 15 June 1995 
+Current Address: 56/14, Gandhi Nagar, Spice Garden Layout, 
+Bangalore. 
+Address: 1038, Subhash Nagar, A.B. Road, S.P.A., Gwalior, M.P. 
+Passport: P0388279 
+Date: Mayank Mittal 

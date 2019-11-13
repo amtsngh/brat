@@ -1,0 +1,116 @@
+ Mohit Khanna 
+Mobile +91 9811374123 
+E-mail: mohit.khanna999@gmail.com 
+B- 1/17, 3rd Floor. Krishna Nagar. 
+Delhi - 51 IT - Consultant 
+__________________________________________________________________________________ 
+Career Objective: 
+I am a fast learner, progressive, hard-working & organized and have established a reputation for getting things done. 
+Seeking a Technical position to establish a challenging and responsible career where I can enhance my skills, knowledge, practical experience and their optimal blending which shall enrich the organization with creative and profitable returns. 
+Looking for a challenging profile in Mobile Device Management, Windows Server Administration, Active Directory. 
+Tools & Application: 
+I am eager to put these acquired skills to work for you: 
+Installation and Troubleshooting of Windows Server. 
+Installation and Troubleshooting of DNS, DHCP, File, SVN, FTP, Access Controller Server. Administration and troubleshooting of Active Directory Domain Controller. 
+Administration of Vmware Server, Creation and Troubleshooting of Virtual Machines 
+Creation and configuration of Active Directory Sites and Services. 
+Designing GCs, DCs and ADCs, Schedule replication between sites. 
+Configuration and Implementation of Group Policies for a Domain. 
+Create Primary, Secondary, Stub& Active Directory Integrated Zones on DNS & DC servers. 
+Create Local scopes & Super scopes on DHCP Servers. 
+Backup and restore of Active Directory. 
+Cisco Switches their Administration & Configuration. 
+Palo-Alto Firewall, Installation, Configuration & Administration. 
+Symantec Backup Exec Installation, Configuration & Administration. 
+Creation & management of users/groups accounts, nesting of groups, assigning rights, delegation of control, Fundamental understanding of network and Internet concepts (e.g., firewalls, load balancers, Web browsers, TCP/IP, SSL, HTTP, etc) Virtual Private Network (VPN) set-up Wireless network (Wi-Fi) set-up 
+Outstanding customer service skills as well as strong verbal and written communication Creation & management of users/groups accounts, nesting of groups, assigning rights, delegation of control, user profiles creation etc. 
+Administration and troubleshooting of client workstations. 
+Experience in a wide range of client/server application installing and configuring desktops. 
+Extensive experience in the field of laptops/desktops hard-core tech support. Excellent troubleshooting skills and good communication. 
+Troubleshoot hardware problems with network cards, video cards, sound cards, motherboards, modems etc. 
+Able to troubleshoot, research, & repair pc/network/ server hardware & software issues. 
+Operating Systems: Windows Server 2003 & Windows XP AD,Vmware Workstation, DHCP, DNS, DameWare Remote Control, Terminal services, Bomgar, LANDesk, Smart remote control & NetMeeting. 
+Technical Skills & Current Company Profile 
+Mannai (Aug 2014 till date) AirWatch mobile device management administrator at Amiri Flight\Qatar Airways. 
+Amiri Flight -private VVIP airline owned by the Amiri Diwan operates exclusively for the Royal Family and high ranked government staff of the State of Qatar. 
+Stryker (June 2010July 2014) Enterprise Device Administrator 
+Offering the ability to devise, implement and manage a mobile operations environment and MDM program, while juggling networking, security and systems administration duties. Experience crafting operating procedures, managing hundreds of employee-owned devices and overseeing third-party service providers, resulting in a highly scalable and secure mobile infrastructure. 
+Key Accomplishments 
+Planned, developed, installed, configured, supported and optimized a mobile infrastructure. 
+Reduced risk through the development and implementation of MDM policies including security and reporting. 
+Maintained 99 percent network uptime and increased mobile user satisfaction through the development and maintenance of daily/weekly/monthly operational checklists and reports and timely error resolution. 
+Achieving 24-hour global network surveillance through diligent contract negotiations with vendors such as AirWatch. 
+Key Skills and Competencies 
+Enterprise Mobility Associate 
+AirWatch Academy Certified by VmWare. Application deployment & App Store Administration (Deploy, Retire and versioning of Internal and public applications) 
+Profile creation and deployment to all mobile devices Creating and implementing device compliance policies for mobile devices. 
+Smart group creation for application distribution Custom application reporting as per the business requirements Fundamental understanding of network and Internet concepts (e.g., firewalls, load balancers, Web browsers, TCP/IP, SSL, HTTP, etc) Exchange ActiveSync and iOS devices Distributing enterprise applications for iOS devices Mobile Device Management (MDM) in iOS Virtual Private Network (VPN) set-up Wireless network (Wi-Fi) set-up 
+Outstanding customer service skills as well as strong verbal and written communication KeyResponsibilities: 
+Author, manage, maintain, support, troubleshoot and optimize MDM program. 
+Establish a list of approved devices, create an online registration system and process move/add/delete changes for 6000 employees and their mobile devices. 
+Create security and device management policies. 
+Recommend the types of data and apps accessed by employee-owned devices. 
+Assist end users via telephone, e-mail with a wide range of questions, problems and requests with their iOS and other mobile connectivity needs. 
+Work closely with developers to architect, develop and optimize the mobile infrastructure. 
+Report on status of development, quality, operations and system performance. 
+Professional Certifications: 
+Enterprise Mobility Associate 
+AirWatch Academy Certified by VmWare. 
+Microsoft Certified Systems Administrator (MCSA) Professional on Windows Server 2003 Certificate in Office Automaton C& C++, From STG. ````````````````````````````````EMPLOYMENT HISTORY```````````````````````````````` HCL COMNET(June2008June 2010) 
+Project: Johnson & Johnson. 
+Designation-Systems-Specialist 
+Providing Second level support on Active Directory Domain Controller (2003 servers) for a Global client Johnson & Johnson. 
+I was in RIM (Remote Infrastructure Management) support. 
+Administration and troubleshooting of Active Directory Domain Controller (2003 server). 
+Creating user accounts, providing then group membership and moving them to OUs. 
+Creating computer accounts & moving them to correct OUs and joining computers to domain. 
+Creating GCs, DCs and ADCs, scheduling replication between sites. 
+Configuration and Troubleshooting of DNS, DHCP. 
+Creating Primary, Secondary, Stub & Active Directory Integrated Zones on DNS & DC servers. 
+Creating Local scopes & Super scopes on DHCP Servers. 
+Group policy implementation for domain. 
+Providing support for any Outlook 2007 Client and Calendar issues only to Johnson & Johnson VIPs, Directorys and Managers worldwide. 
+Providing Virtual Machines to Software developers, scripters for software & applications testing. 
+Providing support for all kind of desktop issues to current site\office Location. 
+Operating Systems: Windows Server 2003 & Windows XP 
+Other Responsibilities: 
+Remote Management of all Desktops and Laptop machines for Johnson & Johnson using tools like Remote Desktop Connection (RDP),DameWare Remote Control, Terminal services, Bomgar, LANDesk, Smart remote control & NetMeeting. 
+Convergys (August 2007 to May 2008) 
+Project: Convergys Designation- Desktop support Engineer 
+Job Profile: 
+Providing outstanding customer experiencing by not only resolving customers hardware and software related queries but by going above and beyond in helping customers, deescalating customer dissatisfaction issues and leaving customers with world class customer service experience. 
+Job responsibilities include: 
+Remote Installation 
+Using remote tools like Net Meeting, LANDesk & Bomgar we take control of the PC and install open source software Through LANDesk Management Tool we deploy Convergys standard software/applications on the PC without the need of taking control of the PC. 
+Reimaging PC using LANDesk Management Tool 
+Deploy LANDesk server through LD Discover 
+Lotus Notes installation/Configuration 
+VPN installation/Configuration 
+Blackberry installation/Synchronization 
+Basic troubleshooting if there is any problem with the software installed. 
+vCustomer (December 2006 - June 2007) 
+Project: Linksys Designation - Technical Support Engineer 
+Troubleshooting Linksys Router, Modems, Hubs, Switch, Access Points, Range Expander, Print server, VIOP phones in Windows 95, 98, 2000, ME, NT, XP, Vista & MAC. 
+Providing hardware and software support assistance for resolving customer queries, related to specific Policies & Procedures of Consumer Technical Support, Linksys A division of Cisco Corporation. 
+Coordinating weekly Calibration, conference calls with the clients to discuss and resolve ongoing operational/strategic issues. 
+Update knowledge of customers product line and service offerings, current products and technologies Wipro (February 2005 November 2006) 
+Project: DELL DesignationSr. Technical Support Associate 
+Troubleshooting of Windows XP Pro, 2000 Pro, and Win 98, Managing desktops and Network Connections, Configuration of Network Printers & Outlook Express clients, Installation and configuration of client and server OS, Desktop level troubleshooting. 
+I was providing hardware and software support assistance for resolving customer queries, related to specific policies & procedures of consumer technical support, Dell Computer Corporation. 
+Technical support offerings include round-the-clock technical support and problem resolution for customers and computer hardware, software, peripherals and Internet infrastructure manufacturing companies. 
+Academic&Professional Qualification: 
+AISSCE: (CBSE), Siddharth International Pubic School Sahibabad.(1998 -1999). 
+AIISSE:(CBSE), Arwachin Bharti Bhawan, Vivek Vihar, Delhi.(2000-2001). 
+Bachelors in Computer Application (2001-2004)(BCA) from one of the premier Business schools of India ranked 25th all over India. The Institute of Management Education (Sahibabad), Affiliated to C.C.S. University, Meerut Cumulative performance Index 70%, Year of Passing 2004 June. 
+2004 2007 M.B.A. from Symbiosis, Pune. 
+Personal Details 
+Fathers Name : Mr. J N. Khanna 
+Dates Birth 
+: 29th May, 1984 
+Nationality : Indian 
+Gender : Male 
+Marital Status : Married 
+Passport Number : J5838203 
+I am confident enough of my ability to work in a team or independently. I hereby solemnly affirm that the information provided by me is true to the best of my knowledge. 
+Date: 
+(Mohit Khanna) 

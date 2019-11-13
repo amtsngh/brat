@@ -1,0 +1,106 @@
+DIVYA D B 
+Mobile: +91-9481065435(India) 
+E-Mail: divya.db2000@gmail.com 
+In quest of career enrichment opportunities in MSI Technology with an organization of repute Professional Synopsis 
+A dynamic professional with over 4.5 years of experience in Application Packaging, knowledge on Image management and server migration. 
+Currently associated with Infosys Ltd as a Technology Analyst. 
+Having good experience in Application Packaging (MSI technology) in Windows, Application Migration and Mac OSX packaging. 
+Having Good Knowledge on BMC Blade logic tool (BBCA), BMC Remedy, Installshield Image management, LANDesk,Avatier,Druva,SEP, Dell Change Base tool. 
+Having Knowledge on VB scripting. 
+Skilled in conceptualizing and effecting process initiatives to enhance efficiency and productivity. 
+An effective communicator with analytical, problem solving & organizational abilities. 
+Occupational Contour 
+Currently designated as a Technology Analyst at Infosys. 
+Technical Skill sets 
+Operating system: WINDOWS XP (XPVM Mode), WINDOWS 7 32 and 64,WINDOWS 8.1 and Mac OSX 
+Good knowledge on tools: Admin Studio v9.5 and v11.5, Installshield 2010, B-compare, Picture taker, Filemon, regmon and Package maker in Mac OSX ,BMC Software (BBCA),App0,ChangeBase,Assesment toolkit MAP Inmaculate. 
+Knowledge on other Tools: AppV, AppDNA, MDT and SCCM 2007,BMC remedy. 
+Knowledge on scripting: VB scripting and power shell scripting Basics. 
+Subject Matter Expert in Avery Dennison Project for Packaging team. 
+Got On the spot award from Euler Hermes and Avery Dennison Projects for the outstanding performance. 
+Having practical knowledge on Assesment,Inventory collection, Testing and remediation. 
+Educational Qualification 
+Bachelor of Engineering (Telecommunication) from MV Jayaram College of Engineering affiliated to VTU in 2011 with an aggregate of 75% EDUCATIONAL DETAILS 
+Qualifying Exam College University Board/Year Percentage 
+B.E. (Electronics & Communication ) MVJayaram college of engineering,Bangalore Visveswaraiah Technological University, 2011 75% 
+Pre-University Course Sri vidhyabharati PU college,Shimoga Higher Secondary Education Examination Board, 2007 86% Secondary School Leaving Certificate(SSLC) Sri Ramakrishna vidyaniketana,Shimoga Secondary Education Examination Board, 2005 92% Passport Details 
+Passport Number: K8818581 
+Date of Issue: 18-01-2013 Date of Expiry: 19-01-2023 Place of Issue: Bangalore, Karnataka 
+Projects Executed 
+At Infosys LTD, Bangalore (Mar 2016- till today) 
+Project : Reckitt Benckiser 
+Client : UK 
+Team Size 
+: 10 
+Role 
+: SME in Application packaging ( Build and Release Engineer ) 
+Environment : Windows 7 x86 and x64 
+Description : Applications are got through BMC remedy tool through SRM request. Packaging is followed by the analyzing. After which the application is sent to UAT. 
+Tools Used : BMC remedy,LANDesk,SEP,Avatier,Druva, 
+Job Responsibilities : 
+Handled the following tasks: 
+Analysis of business requirement 
+Once the request for an application is received we have categorized the applications Used VB Scripting, HTA scripts technique for customizing the applications. 
+Used LANDesk tool for deployment of packaged applications. 
+Used Druva in sync cloud app for end user data protection in Laptops and desktops. 
+Used Avatier application for password management and users self-service password resetting. 
+Used Symantec end protection tool is used for determining the communication ports and protocols. 
+Multi-Platform compatibility assessment 
+At Infosys LTD, Bangalore (Sep 2015- Mar 2016) 
+Project : Cable Vision 
+Client : US 
+Team Size 
+: 10 
+Role 
+: SME in Testing and compatibility check. 
+Environment 
+: Server windows 2008R2,Windows XP, 7, XPVMMODE ,Win 8.1. 
+Description : Collecting the inventory datas using the tool MAP (Microsoft Assessment and planning).App rationalization. Then the list of rationalized apps are tested and compiled using Dell ChangeBase v6.2.3. 
+Job Responsibilities: Handled the following tasks: 
+Analysis of business requirement Targeted 250 Applications for migrating, testing. 
+Application discovery and rationalization using Asset Manager-Discovery Edition 
+Application compatibility testing. 
+Multi-Platform compatibility assessment Automated bulk importing and auto-fix compatibility issues. 
+At TATA Consultancy Services, Bangalore (July 2013-Sep 2015) 
+Project : Avery Dennison (End User Services team). 
+Client : Avery Dennison (US, UK, Europe, Singapore and APAC regions) Team Size : 10 
+Role : Packaging Developer (Subject Matter Expert in the team) 
+Environment : Windows XP, 7, XPVMMODE ,Win 8.1 and Mac OSX 
+Description : Creating in-house and other Apps 
+(msis and msts) for this applications given by the local Its. We have created packages for windows 8.We have done a master BUB apps which is required by all the regions. Also as Microsoft is not supporting XP OS we created a XPVMMODE which installs in XP and those apps can be tested using Windows 7 or 8. Also packaged the applications for Mac OSX using BMC software and Package maker tool. Used BBCA tool for the maintenance of repeaters, Mirrors and Master transmitters. 
+Job Responsibilities: Handled the following tasks: 
+Analysis of business requirement 
+Once the request for an application is received we have categorized the applications to Simple, medium and complex and set SLAs and time required to package the applications. 
+Created msis for exe using snapshot method with Admin studio. 
+Created .pkg files for .dmg files in Mac OSX. Created msts for msis. 
+Packaged XPVM mode applications. 
+Used merge modules, custom actions and vbscripting for customization of applications to users. 
+Created packages for all the adobe products for win 7 32 and 64 bit and Mac OSX. 
+Also packaged driver applications. 
+Used BBCA tuner for packaging and deployment. Good Knowledge on Imaging and deployment. 
+Maintained Application Packaging report and Prepared SLA ppt daily and monthly basis. 
+Syspred the iso image for future image management. 
+Created images using MDT 2013. 
+Created answer files and unattended.xml files for customization. 
+Used the tools like picture taker, install monitor, regmon filemon which helped in Packaging applications. 
+At TATA Consultancy Services, Bangalore (Jan 2012-June 2013) 
+Project : Euler Hermes (Windows 7 Migration Project). 
+Client : Allianz (France) Team Size : 12 
+Role 
+: Developer 
+Environment : Windows XP, 7,XPVMMODE and 8 
+Description : Used AppDNA tool for testing the application whether it is compatible with windows 7.The application with green color status are packaged using Adminstudio and Installshield.Those with Amber category went with remediation and with red are incompatible. Also Used Adminstudio tool for converting exe to msi and Installshield 2012 for creating and editing mst.Used SCCM 2007 for deployment. 
+Job Responsibilities: Handled the following tasks: 
+Analysis of business requirement Created msis for exe Created msts for msis Created shim database files for remediation of applications. 
+Personal Dossier 
+Date of Birth : 22nd 
+September 1989 
+Address 
+: Kormangala 4th block,Bangalore. 
+Languages Known : Kannada,English and Telugu 
+Marital Status :Married 
+I declare the information furnished above are true and correct to best of my knowledge 
+Place : Bangalore 
+Yours sincerely 
+Date : 10/6/2016 
+(Divya D B) 

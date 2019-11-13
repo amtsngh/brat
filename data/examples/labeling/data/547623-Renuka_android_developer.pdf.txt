@@ -1,0 +1,72 @@
+Renuka M renu.sha19@gmail.com 
++91 9035596760 
+Objective: 
+To enhance my career up to the level in which I can get better opportunity and to apply my knowledge to achieve company goals & objectives. 
+Professional Summary: 
+Highly motivated and focused with 1.6 years experience in Design and Development of Android applications. 
+Proficient in object-oriented design, problem solving, complexity analysis, and debugging. 
+Sound knowledge in Android SDK, Web Services, JSON, Eclipse IDE. 
+SQLite database, Activities, Services, Broadcast Receivers, UI Designing. 
+Able to design the applications from the requirement and Known for writing efficient, maintainable and reusable code that preserves privacy and security. 
+Expert in the interaction between various devices and different versions of Android. 
+Quick learning, implementation and easy adoption to new technologies. 
+Technical Skills: 
+Operating System: Android, Windows 
+Programming Skills: Java, JSON, XML 
+Database: SQLite/SQL 
+Tools: Android studio, Eclipse IDE 
+Build Tool: Gradle 
+Emulators Used: Android SDK Emulator 
+Work Experience: 
+Worked as a Software Developer at Skilled Answers Info Solutions Private Limited 
+Bangalore from (Aug 2015 to March 2017) 
+Projects Details: 
+1. 
+Project Name : EasyGovt 
+Application 
+Platform & Skills: Android SDK, Java, XML 
+Description: 
+Android Application which is basically built for Student. Also, this application can be used by Students in their day to day activities. Apart from them, any common citizen who is interested in knowing the Government Jobs and News in detail can make use of this application. 
+Role: 
+Involved in coding and development of GU 
+2. 
+Project Name : Competopedia Application 
+Platform & Skills: Android SDK, Java, XML 
+Description: 
+The objective of this project is to build an android application to Competopedia.com. 
+Built a module which provides information about books and you can download the books using the payment gateway.Can play Quiz and get some reward.You can also see the latest news in this app. 
+Role: 
+Involved in coding and development of GUI. 
+3. 
+Project Name : TrustedStay Serviced Apartment Application 
+Platform & Skills: Android SDK, Java, XML 
+Link: 
+https://play.google.com/store/apps/details?id=com.trustedstay.consumer&hl=en 
+Description: 
+Application to rent a full apartment for your family rather than splitting them up into separate rooms. To find a service apartment that meets your requirement, use our advanced filters such as Price Filter: Filter properties based on your budget. 
+Role: 
+Involved in coding and development of GUI. 
+4. 
+Project Name : MyGadget Protection Application 
+Platform & Skills: Android SDK, Java, XML 
+Link: 
+https://play.google.com/store/apps/details?id=com.mygadgetprotection.androidapplication&hl= en 
+Description: 
+MyGadget Protection application provides you to protect your trusted devices. Unfortunately the more we use them and the more desirable they become, we cannot predict unfortunate situations that may take place this is where Protection comes into picture. This app provides Damage, Theft and Warranty care. 
+Role: 
+Involved in coding and development of GUI. 
+Educational Qualification: 
+B. Tech. in Computer Science from New Horizon College of Engineering in 2014 
+Diploma from SJES College, in 2011 10th from Lowry Memorial High School, in 2008 
+Personal Information: 
+Date of Birth : 19th December 1992 
+Gender 
+: Female 
+Marital Status : Single 
+Languages Known : English, Tamil, Kannada & Hindi 
+Address : No.6, 2nd main, 9th cross, Narasimiah street, Udayanagar 
+Doorvani nagar post, Bangalore, Karnataka-560016 
+Declaration: 
+I hereby declare that the information furnished above is true to best of my knowledge. 
+Place: Bangalore 
+(Renuka M) 

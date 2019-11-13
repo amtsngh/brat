@@ -1,0 +1,105 @@
+ Resume 
+Personal Information 
+Name: Sanghamitra Gadanayak 
+Years of Experience: 17 Years 8 Months 
+Date of Birth: 03/12/1975 
+Degree: BE (Electronics & Telecommunication), 1998 pass out. 
+Mobile: 9591921300 
+Email: sanghamitras@hotmail.com Executive Summary 
+Technical Management 
+Have around 17+ years, in Embedded and Mobile applications, frameworks and protocol stacks. Involved in Products Architecture & technology architecture, design and development on Android, Symbian OS, Brew, Windows 7 & 8, Windows CE and Smart Phone. 
+Worked on Remote Server Management firmware integrated Dell Remote Access Controller (iDRAC).Worked on the firmware features for server configuration profiles, Redfish interface, GUI interface storage and NIC, RAID, RDMA information, session activity, webserver Apache and Appweb. 
+Worked as a technology architect on Symbian OS for UPnP, UPnP AV, Bonjour, HTTP and WAP PUSH. 
+Worked on .NET and C# and JAVA. Some big data analysis also. Used a cloud server. 
+Worked with MNCs & reputed Organizations on domains of wireless mobile technology & security. Some of the work was in firmware on ARM7TDMI processor and assembly coding. Worked on protocols like WTLS, WIM, PKCS, PKI, Bluetooth, SyncML DM & DS, OTA Client provisioning, DRM, diagnostics software etc. Delivered and developed device driver frameworks developed as part of programs. 
+Delivery Management 
+The products delivered are server remote management firmware, handsets, Smart phones, mobile phones, handheld PC and Pocket PC. In the various above mentioned programs I have leveraged delivery with quality of the technology stacks that were ported/ integrated over multiple target devices as part of programs. I helped in getting more program work after we delivered the first set of deliverables. Also the technology stacks developed were integrated on multiple platforms. This also leveraged new multiple customers to buy our developed stack. 
+Product management 
+CTO interactions to understand the technology vision. Product management for future customers and technologies. Also interacted with customers to present the technology vision and understand their requirements. Presented to VPs to understand the need for investment into technology areas and the cost involved. 
+Customer Management 
+Worked on projects and handled Client interactions with American, European, Japanese, French and Korean clients. Involved in people management and team management. Mentored teams on the technical front. Handled Management & Technical (Architectural & platform) discussions with customers. 
+Project Management 
+Have handled various projects and done the project management of the tasks. Handled the risks and issue mitigations. Cross functional teams interactions with PMO office, VP, EM, CTA office, CTO, architects and team members. Have done people management also. 
+Quality Management 
+Followed process & Quality of 6-Sigma and faced ISO 9000 audits. My project won the best project award at an ISO 9000 audit. 
+Mentor 
+Trained people on domains like SyncML DM & DS, Provisioning, security and WIM, WTLS, TTCN-3, NFC and Linux device drivers. Helped them write papers. 
+International papers published and innovations Have presented a paper on TLS in IEEE. Part of the OMA DM suggestions in the OMA forum specifications. 
+Attended IEEE conference in 2005 Jan, and was chairperson for the Device Management session. Attended OMA teleconference for OMA Device Management for diagnostics and tracking. 
+A paper on Firmware update agent. 
+Attended Test fests at OMA for DM. 
+Internal patent on WIM and service discovery philosophy. 
+A published paper in TTCN-3 international conference on the topic Power management and testing infrastructure. 
+Published NFC and power management paper on the Sasken intranet. 
+Organizational Management 
+Exposure to various organization cultures, how they work, what makes them fail and what makes them succeed. 
+Employment History 
+Employer Name Designation Duration 
+Dell R & D Technologies Pvt. Ltd. 
+Senior Platform software Engineer Apr 2015 - Till Date 
+Sasken Communication Technologies Ltd Technical Architect 
+Aug 2011 
+Apr 2015 Tech Mahindra Project Manager Dec 2010 - Aug 2011 
+Kyocera Wireless Limited Technology Manager Wirelesss Sept 2008 - Dec 2010 Symbian Software Ltd Technology Architect 
+Nov 2006 - Aug 2008 Motive Communications Ltd Architect April 2006 - Sept 2006 
+Jataayu Software Pvt Ltd Project leader 
+May 2004 - March 2006 
+Samsung electronics Ltd -SISO Project leader Sept 2001 - May 2004 Patni Computer Systems Ltd Software Engineer 
+Dec 2000 - July 2001 Ibex Technology Ltd. 
+Software Engineer 
+Jan 2000 - Nov 2000 IPCell Technology (India) Pvt. Ltd Software Engineer April 1999 - Dec 1999 Education Details 
+College/University Degree Specialization Duration 
+Gulbarga University BE - Bachelor of Engineering Electronics & Communications June 1994 - June 1998 
+Project Details 
+1. 
+Integrated Dell Remote Access Controller firmware Worked on various components of the firmware for the remote server access controller. GUI, web server apache and appweb, Server configuration profile, RDMA, NIC, storage and session activity. 
+Managed team, lead the architecture, design and planning, work schedule, customer facing interactions, defects management, and development of modules. Remote server configuration for BIOS, NIC, RAID, iDRAC server. Support for the Server configuration export, import and preview operations from different storage locations like local on iDRAC, NFS, CIFS, HTTP and HTTPS. Reboot the system post the application of the configuration. Preview the configuration and check if they are ok to import to the server. Export would get the configuration profile from a server. The configuration can be for the storage, NIC, RAID, RDMA, BIOS and iDRAC or server. 
+This configuration can be applied to 100s of server and the configuration tasks can run over several hours. This was developed for both Redfish and GUI interfaces. All inputs and output to the interface were in JSON format. The configuration file was in XML or JSON format as user would select. Odatalite was used for the Redfish interface. 
+Manage server activity and storage and Lifecycle controller information gathering and setting, server reboot management etc. Get information on the storage like NIC, RDMA and RAIDs. Show the user the information and admin can change the settings etc. 
+Worked on webserver Apache FCGI technology to plug-in GUI, WSMAN and RACADM through the webserver. Here the commands were sent over HTTP to the interfaces. From there on the below instrumentation layer would handle all the commands getting information parameters and settings the parameters. Managed and planned all the activities for the program. Involved in design and architecture and leading the activity. 
+2. 
+OS and Drivers 
+OMAP L138 based SIP board was used for the development and testing of all drivers. The Linux device drivers framework has support for all drivers. The drivers for certain hardware can be written and plugged in into the framework. The device driver frameworks developed as part of a customer project are as follows: 
+1. Character driver framework has drivers like Smart card driver etc. 
+2. GPIO framework has GPIO driver 3. TTY framework for UARTs 4. Interrupt framework has the IRQ mapper 5. Direct Memory Access (DMA) driver is a block driver 6. Input framework has keyboard drivers and Rotary Quad and BCD drivers 7. 1-Wire framework has the Dallas 1-Wire driver 8. Pin muxing is a simple board file configuration or can be initialized as a module at boot up and kernel initialization. 
+9. User space CUSE drivers were developed. And user space integration with Netlink interfaces for applications Battery manager and ancillary manager was developed. The Netlink interfaces were integrated to Dallas 1-Wire driver under W1 framework. 
+10. Performance traces for all drivers using the Lttng were done. Ftrace was also used for this. 
+The PCIe driver was architected and developed for Windows 7 and 8. Under NDIS 6.2 and 6.3 framework. Under this miniport is called. This is the PCIe driver. It uses the shared memory MIPI protocol to send/receive data buffer. 
+3. 
+NFC Protocols 
+The NXP NFC PN65T Chipsets and P61 host were used for the NFC stack development. PN547 is controller. Initially an OS abstraction layer was used. Later the Java Card Open platform JCOP OS was used. The stack layers were SWP protocol layers HCI-LLC (ACT/SHDLC/CLT). Hardware layer HAL-MAC layers. There is one ISR in HAL Layer to receive interrupts through HW. 
+We developed the proximity NFC driver for card emulation, card reader and P2P support. The NFC stack could detect the raw tags and NDEF tags. There was support for the PC Smart card reader driver. 
+There was support for the Security element reader driver. The SE could be in APDU mode so that the tag is visible only to the proximity drive stack as an internal tag. Also the proximity stack can be a reader of the external tags. The SE in virtual mode could be visible as a tag to the external readers. 
+I contributed to the validation and added 2000 test cases and CUINT code of the test framework code and WHCK tests of the proximity, PCSC and embedded Security Element drivers. I implemented the test case automation of these test suites. 
+Developed solutions for Mobile Banking & Payment, mobile Wallet, POS device. 
+4. 
+Android, S40 and Brew applications and platform development and design. 
+Make roadmaps for the technology to evolve. Add on technology features, design them, and ensure them into project deliverables. Added features into BREW multimedia and designed it. 
+Responsible for Android platform architecture to support various application use cases like multi window, task bar and activity manager. Also involved in application prototype on Android like the tip calculator, themes etc. 
+Worked in Android PIM and tools group. Handled teams in this domain as technology manager. Worked on Contacts application and social networking application using cloud server on Android. 
+Developed the USP applications for the white labelled Android phone. Worked on APPOPS for China certification on Android. There was Big data analysis involved for the logs. Also Database operations on SQLite was used. 
+Development and porting of GAN client on Android platforms for different OEMs and service providers. The Kineto GAN client/ Smart Wi-Fi Application support CS and PS services over Wi-Fi using the GAN protocol and consist of a user interface portion, and JNI interface. 
+Responsible for the interaction with OEMs for the Kineto GANLite application over WiFi integration and - IOT, testing and fixing of issues for OEMs like Samsung and LG. 
+Responsible for Program management. 
+Power management aspects to avoid polls, optimized memory related calls, dynamic loading on user request to avoid power consumption when not required were handled. 
+S40 application framework analysis and messaging, email solution features to be implemented and given from Core layers to the user application layer through the SAPI interfaces. Core layers are in C and upper layers are in Java. 
+5. 
+Internet web services protocols technologies 
+UPnP, UPnP AV profiles, Bonjour, HTTP, and WAP PUSH. 
+Developed UPnP, UPnP AV and DLNA stacks for media server, media controller and media renderer. Future architectures for WebDAV, Web Services and streaming. 
+Architecture them on Symbian OS. Then review the detailed design to see it syncs with the architecture vision. 
+Make roadmaps for the technology to evolve. Add on technologies into the strategy. And ensure them into project deliverables. 
+Internal Patents on Service discovery concept and the architecture. 
+The implementations had to abide by the SMP support for power optimization usage by the CPU. The data paging and Demand paging were followed for the memory optimization. The code had optimized power usage and memory usage. 
+6. 
+OMA SyncML Data Synchronization,Device Management, OTA provisioning 
+The project was an OMA DS product development and platform agnostic. It could be ported to any platform. The data sync protocol is used to sync user data like email, contacts, calendars, tasks. All 7 types of sync were supported. And notification was also supported. OMA DM was used to provision it with settings. It was ported to Win SP and few other platforms. 
+The project was an OMA OTA provisioning product development and platform agnostic. It could be ported to any platform. The OTA provisioning was used to provision the applications like browser, MMS, email, DS, etc. The Bootstrap and continuous provisioning was supported. The application settings were also supported apart from specification specified settings. It was ported to Win SP and few other platforms. 
+The project was an OMA DM product development and platform agnostic. It could be ported to any platform. I Had been to OMA Test Fest for the OMA DM product with 100% results. And presented various specification and CRs at OMA forum. The OMA DM product supported application settings provisioning, diagnostics, firmware update, and application download. The DM had interfaces to read data and write data onto tree. The Bootstrap and notification were supported. It was ported to Win CE and Win SP and few other platforms. Code was in C and C++. 
+The project was for a diagnostics software development on Win SP with the aid of OMA DM. The diagnostics data is sent from the device to server using OMA DM. And data is processed by the diagnostics server from the DM server. The data is analysed and fix is sent using OMA DM to the device. And the device is rendered working. C# and .NET was used. SQLite database was used. Big data analysis was used at backend server. 
+7. WIM & PKCS, PKI 
+The project was a WIM product development and platform agnostic. It was integrated with WTLS protocol also. PKCS#15 was used as storage. The WTLS handshake made use of the certificates and PIN stored on WIM for Class 2 & 3 handshakes. The project was a PKCS#1 to 10 product development and platform agnostic. The RSA standards were used for digital signature and encryptions. 
+8. 
+Bluetooth 
+The project was a Bluetooth product development and platform agnostic. Could be ported to any platform.LMP, TCS, Baseband layers. We ported onto VXworks for testing the stack.There was power management and memory constraints. The code had optimized memory usage. 
+PAGE 2 

@@ -1,0 +1,28 @@
+ SAHIL TAGRA #14, Sec 27 A, Chandigarh, +91-9855145489 | sahil.tagra2010@gmail.com | https://in.linkedin.com/in/sahil-tagra-944b1a62 
+EDUCATION 
+B.E., Electronics and Communication, Panjab University, India 
+Jul 10 May 14 
+PROFESSIONAL EXPERIENCE AND INTERNSHIPS 
+Software Developer (iOS), Click Labs Pvt. Ltd , Chandigarh, India Aug 14 - Till Date 
+Click Labs is a young, enthusiastic team of mobile strategists, designers and developers, dedicated to help companies of all sizes leverage the exciting and dynamic world of application development and solution consultation. I worked as the part of the development team which was responsible for the design, development and implementation of the different mobile applications using Objective C/Swift. In addition to this solved bugs and developed live projects. Also, I have a very good experience in one to one communication with Client and leading the team. 
+Technologies used: Objective C, Swift, C, C++, JSON, Cocoa Pods, MySQL, CoreData, Third party Libraries, Core Location, Core Bluetooth, AVFoundation PROJECTS (12 Applications) 
+Get Angels Now 
+Business A service provider application for online booking of massage and therapy. 
+Developed and implemented complete functionality using Objective C language. 
+Worked on Core Location, Google Calendar, SQLite, CoreAnimations, JSON, AFNetwortking, GoogleMaps 
+OgaTaxi Designed and developed an on demand Taxi service Application. 
+It has a customer side and a driver side application. It lets you see the closest available cabs around you and book with one touch. 
+Technologies used: Objective C, Core Location, Cocoa Pods, Google Maps, PayPal, CoreAnimation, JSON, AFNetworking Bistro Offers Designed and developed a food service based application based out in Chandigarh/Mohali/Panchkula. 
+It provides top deals near your location and one can earn points by redeeming offers and earn more exciting deals. 
+Technologies used: Objective C, Core Location, Cocoa Pods, Google Maps, CoreAnimation, JSON, AFNetworking, AVFoundation, SQLite 
+FreeBoard Designed and developed an on demand Boat Service Application. 
+It efficiently connects Boaters with Marine Service Professionals, allowing the boater to focus more of their time on water and less time focused on repairs. 
+Technologies used: Swift 2.0,Core Location, Cocoa Pods, Google Maps, CoreAnimation, JSON, Alamofire, AVFoundation, AVPlayer Conweigh Designed and developed an On demand mobile Container Weighing application. 
+It has a customer side which helps you make a booking for a weighing your containers for shipment.Also, It has a technician side which receives the booking and weighs the container from the application connecting weight weighing equipments through Bluetooth. 
+Technologies used: Swift 2.2, Auto layout, Core Location, Cocoa Pods, Google 
+Maps,Stripe,CoreAnimation,JSON,Alamofire,CoreBluetooth,AVFoundation,Socket.IO TECHNICAL SKILLS 
+Languages & Technologies: C++, Java, C, Objective C, Swift Software: Xcode, MySQL, MS Office, MS Access 
+AWARDS 
+Got Letter of Appreciation for the extraordinary work as an iOS Developer. 
+Got 
+Star Performer of the Quarter award the all around hard work in the quarter of the year. 

@@ -1,0 +1,55 @@
+harmeetsingh8928@gmail.com, +91-9567631549 https://www.linkedin.com/in/harmeet-singh-20510847 
+HARMEET SINGH PRESENT STATUS Current Experience : 2 Years 9 Months 
+Company Name 
+: Infosys. 
+Working Address : Near Infosys SEZ, R.R District, Hyderabad - 500088 
+Designation : 
+Sr. Systems Engineer. 
+Joining Date : 03-Feb, 2014 
+Responsibilities 
+: Carry out requirements from the Client at Onsite. 
+Deal in development of web application, architecture framing of web application and database designing for web application. 
+Engaged in Sprints, developing code, Delivering Release. 
+Assisting in Business Analysis, under Manager. 
+Company Web Site : http://www.infosys.com/ 
+PROJECTS: 
+Project Name : 
+Wal-Mart 
+Release Management 
+Description Release management include the tasks in Operations team, where we test the required changes to Walmart stores throughout the world and deploy the approved changes to the production Environment. The code builds are very complex and needs quick fix, as direct clients are involved into this. 
+Technologies used Scripting Languages - Shell, Python File System 
+Unix, HDFS Tools - BMC Remedy 8.1, Anthillpro ,JIRA Hive Role & Responsibilities : Client conversation to analyse the requirement for a new change/request. 
+Provide proper build after the developed code module for a change. 
+Involved in release plans for the change/request. 
+Validating proper deployment of the build. 
+Closure of the client requests for the change. 
+Duration : 
+1.5 Year PROJECTS: 
+Project Name : DIRECTV 
+Description 
+Service Excellence is a portal to provide services for creation/Updating/View/Delete REST services for the Portal of DIRECTV Worldwide. 
+Technologies used Scripting Languages - Shell,Python File System 
+Unix,HDFS Tools - BMC Remedy 8.1, Anthillpro ,JIRA Hive Java 6.0 SOAP UI 5.1.3 Eclipse - Kepler 
+Role : Authentication algorithm designer for using services Developed new functionality in existing Restful services 
+Duration : 4 Months PROJECTS: 
+Project Name : NBN 
+Description 
+Service Excellence is a portal to provide services for creation/Updating/View/Delete REST services for the Portal of DIRECTV Worldwide. 
+Technologies used Scripting Languages - Shell,Python File System 
+Unix,HDFS Eclipse - Kepler MyQL Role & Responsibilities : Developed code changes for required modules. 
+Create test cases for changes in modules. 
+Integrate the modules to the application code. 
+Close the artifact for the change. 
+Duration : 2 Months EDUCATIONAL QUALIFICATION: 
+Graduation B.Tech in CSE. 
+Result: First Class (Honours Gandhi Degree), Board/University: PunjabTechnical University Passed in : First Division Year : 2012 
+Post Graduate Diploma 
+: Diploma In Computer Engineering Govt. Polytechnics, Amritsar,Punjab. 
+Year : 
+2009 
+PERSONAL INFORMATION: Name : Harmeet Singh 
+Fathers Name 
+: S. Ajit Singh 
+Mothers Name : Smt. Surjit Kaur 
+Permanent Address : L-6/999, Gali No:-3, New Shaheed Udham Singh Nagar, Amritsar-143001 Date of Birth : 28thMarch 1989 
+Hobbies : Cricket, Bike Riding and Talking to friends on current affairs 

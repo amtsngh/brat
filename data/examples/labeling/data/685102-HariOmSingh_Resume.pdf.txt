@@ -1,0 +1,161 @@
+Hari OM Singh 228, First Floor, Chandragiri Cross Road, Opp. Ganesha temple, Kamannahalli Main Road, Kamannahalli Bangalore-560084, Karnataka, India 
+Phone : (+91) 8296446082 
+Email : hariom_pimg@yahoo.co.in 
+Linkedin 
+: https://in.linkedin.com/in/singhhariom 
+Skype: hariom.singh385 
+OBJECTIVES 
+An enthusiastic, skilled, and reliable IT Infrastructure Technology and Managed IT Services Professional with 9 years of experience. Seeking a position that reflects my experience, skills, and personal attributes including dedication, meeting goals, creativity, and the ability to follow through. Experienced in a large IT infrastructure environment dealing with critical incidents & changes, understanding the importance of SLA. Well versed in ITIL processes and service deliveries based on ITIL. 
+PROFESSIONAL EXPERIENCE 
+IBM India Pvt. Ltd. 
+Designation: Sr. Technical Service Specialist 
+Duration Dec 2015- * 
+Tieto, Pune, India 
+Designation: Technical specialist 
+Duration - Dec 2011 Nov 2015 
+Seed Infotech, Pune (Deputed at Tech-mahindra, Pune) 
+Designation: Lotus Notes Administrator 
+Duration 
+May 2011 
+Nov 2011 
+Wipro Infotech, Mumbai 
+Designation: Engineer- Mail Management 
+Duration Apr 2010 May 2011 
+Tata Consultancy Services Pvt. Ltd. Mumbai 
+Designation: Programmer 
+Duration : Nov 2008 
+Apr 2010 
+WORK EXPERIENCE 
+IBM India Pvt. Ltd. | Sr. Technical service specialist 
+Primary duties are providing highest level of technical expertise/administration of one of largest USA based health-care customer's Messaging & Collaboration, SMTP/O365, Mobility (IBM Traveler/MobileIron), and Email Security and Encryption (Proofpoint Messaging Gateway) infrastructure across USA location. 
+Primary support is for 200000+ users and 600+ mail , Application/SMTP, Mobility/MDM, POP3/IMAP and Web /HTTP/SFTP servers on windows and AIX/UNIX platform and Maintained an SLA of 99.9% uptime. 
+Providing technical and Administration support for Proofpoint Messaging Gateway/Antispam System to secure customer emails infrastructure. 
+Intermediate Experience and Knowledge about Lotus Notes/O365 CoEx infrastructure, setup, administration and troubleshooting. 
+Technical/Administration support for blocking/white listing external mail domains, checking/updating spam scores, blocking spam emails and email address, DLP and mail encryption, adding domains in TLS, adding users access/block list, managing gateway firewall and creating rules, monitoring quarantine/spam emails, hold emails and released them as per instructions from Customer 's Technology Risk Office . 
+Upgrading Gateway system as per new releases/fixes. Installing certificates on Master and agent servers as per customer recommendation. 
+Troubleshooting 3rd level SMTP emails traffic incidents/problem cases, SMTP email delivery failure incidents, application generated emails delivery failure incidents using mail and filter logs. 
+Implemented SSL certificated on customer web based email servers. 
+Administration and technical support for VOLTAGE Secure Email gateway. Providing technical support and general/complex troubleshooting related to email Encryption, De-cryption rof customer's secure emails. 
+Providing consulting support to ongoing projects. 
+Following the Change Management process if doing any changes in production environment. 
+Resolving complex incidents maintaining minimum downtime, minimum user impact, ensuring high level of service availability. 
+Joining high bridges/major incident calls with customer/vendor and others support team if any major incident reported. providing status updates to customer till the incident resolved. 
+Leading and providing subject matter knowledge in lT governance, process and organizational improvement with respect to industry leading delivery frameworks (such as ITIL). 
+Daily management / monitoring, assignment of 3rd level incident tickets in Remedy and resolving them within SLA. 
+Working on PBIs (problem investigation), preparing the RCA, sharing with customer's problem management team, applying the permanent fix for major incidents and fix problems within minimum time limit. 
+Managing Security problems through to resolution and investigation, eliminate the root cause to ensure that the quality of service is maintained, the level of occurrence reduced and the customer receives maximum benefit from their investment in Information Technology/Messaging gateway to secure the transfer of the information. 
+Providing on call and after office hours support when required. 
+Sharing core knowledge and experience with other Service Managers, team members in the team. 
+Tieto, PUNE, India |Technical specialist 
+Primary duties were administration of 3 customers Lotus Notes Mail infrastructure for 60000+ users across 
+APAC, North and South America, EMEA and Nordic locations. 
+Installed/Upgraded Domino servers (version 8.5 and 9). 
+Provided technical support every time customer published their annual report. Stopped the replication of the DBS those are holding the information of annual report till new report published. pushed the new publish report to fail-over server too. 
+Part of change management process team, created infrastructure changes with risk plan and mitigation, joined CAB meetings and weekly change management meetings, performed changes, updated results in change result db etc. 
+Daily management / monitoring, assignment and resolution of 3rd level incident tickets on Servicedesk S/w, coordination with clients ITSDs & vendors. 
+Placed service calls with vendors, monitor open tickets and taking follow ups of IBM PMRs. 
+Created monthly server outage report and shared with Management and customer in review meetings. 
+joined major incident call with customer/vendor and other teams AND resolved major incidents, updated them in system book and shared the resolution in team meetings. 
+Created open incidents track sheet and shared with management/customer/team leads and updated it as per progress. 
+Successfully Installed ILMT tool on Domino servers and successfully implemented TLS fix on Domino server. 
+Build, configured, documented and deployed new servers from Win 2000 OS to Win 2008/2012 OS without any data loss and greatly increased total system capacity. 
+With the help of vendor, network team, internal firewall and network team and windows team involved and successfully migrated 100+ of Windows server from vendor DC to Tieto DC and migrated Domino servers and server data without minimum downtime/impact. 
+Implemented and tested password generation for Valmet File transfer site package sent to end users, tested and fixed log-in issues through customer AD Sync, Enabled SSL, encryption feature in file transfer and package which reduced end user interaction and insured higher level of user satisfection. 
+Worked with team and migrated 3000+
+application databases between two customer cross domain servers. 
+Performed successfully load balancing for Valmet Web application servers with Network team. 
+Created and implemented a mobile device solution using the IBM Traveler server to support users across the all locations. 
+Constructed and implemented training materials and procedures for customer IT Help-desk. 
+Seed Infotech, Pune (Deputed at Techmahindra, Pune) | Lotus Notes Administrator 
+Deputed at TechMahindra for 
+Lotus Notes infrastructure support project supporting USA & Canada users in onsite-offshore model. 
+Primary duties included Lotus Domino R8/R85 Administration for more than customer's 100+ Domino email and application servers in North & South America and Canada location. 
+Provided technical support for application/notes based web application hosted on domino servers. 
+Provided technical analysis and solutions of multiple issues for over 10,000 users. 
+Generated new Lotus Notes accounts, groups, archives databases along with created procedures and training documents applicable to the environment. 
+Installed and configured Lotus domino servers. Upgraded servers versions, applied fix packs. 
+Run off-line. maintenance on Domino servers on Windows OS platform to fix database corruption and accessibility. 
+Resolved Server Problems including Solving authentication and authorization issues, Troubleshooting connection problems. Prepared project related documents/report/Knowledge Base documents. 
+Developed additional lotus notes servers as part of the strategy planning and training initiative. 
+Provided infrastructure solutions and analysis based on monitoring of Disk I/O and memory server performance. 
+Managed, created and assigned Remedy tracking tickets Wipro Infotech, Mumbai | Engineer-Mail Management 
+Primary duties were Lotus Notes/Domino R8/R85 Administration support of banking sector customer for more than 80+ servers including branch and regional servers. 
+Blackberry server administration to Add / Activate / Delete users account and set activation Password. 
+Cluster Analysis on Mail servers and discovered missing replicas. 
+Followed the migration plan for 2000+ users/mailboxes from Lotus Notes branch servers to cluster servers and migrated the user s notes account and mail files. 
+Upgraded Domino servers to R85 version and applied fix packs. 
+Created monthly Domino server maintenance procedures, including automated batch file to run the maintenance on Domino server on Windows /AIX OS. 
+Prepared project related documents/report/Knowledge Base documents. 
+Planned and initiated implementation of long-term e-mail and groupware strategy as part of the Lotus Notes team. 
+Worked with IBM Support on escalated Notes issues, and RIM Support on escalated Blackberry issues. 
+Tata Consultancy Services Pvt. Ltd. Mumbai | Programmer 
+Lotus Notes/Domino R8/R85 Administration support for more than 50+ servers and 110000 users. 
+Provided 24*7 coverage of Lotus Notes/Domino infrastructure globally. 
+Worked on notes user Administration tasks such as Creating IDs, moving user's mail file, user's name change, Re-certification of notes IDs/notes accounts, Deleting user notes accounts, ACL issues. 
+Troubleshooting general lotus Notes client issues. 
+On Domino Admin client, daily monitored servers up status, configured running status, waiting & held message counts, free disk space etc. troubleshoot and fixed mail routing issues, including restarting router, fixup on mailboxes & re-creation of mailboxes. 
+Configured and monitored daily backups on Notes servers as a Backup Engineer using backup software Veritas Netbackup. 
+Prepared monthly backup report and shared with management. 
+Provided retrieval of historical and archival data which led to compliance with legal standards and communicated the status to senior management. 
+Processed various mail and database restores to end users upon requests daily. 
+PROFESSIONAL SKILLS 
+Experienced in physical/hybrid/cloud based IT infrastructure support, Data Center Operations and Service delivery, Production Processes (i.e., Production Operations, Incident & Problem Management, Change 
+Management, Escalation Management, RCA,Service Improvement). 
+Experienced in managing all aspects of IT infrastructure to meet client needs & to enable efficient and smooth operations covering 24/7 support. 
+Experienced in SOX, HIPPA/PHI and PCI regularities and compliance. 
+Expert in initiating, planning, executing, controlling, and closing the project work. 
+Experienced and involved in all stages of technical delivery, from feasibility through to support . 
+Experienced in to delivering multiple projects and initiatives on time by working with internal resources, external consulting & technology service providers. 
+Experienced in handling HADR and BCP activities. 
+Experienced in Banking/Financial, Health care/Health Insurance, Pulp & Paper, Automotive and Telecom industries. 
+Experienced in working onsite-offshore model projects 
+TECHNICAL 
+SKILLS 
+Expert in design, architect and administration of messaging and collaboration products(IBM Lotus 
+Notes/Domino), Outlook/O365, Web Services (HTTP/HTTPS), web based application servers using SSL/SSO and LDAP. 
+Expert in design, architect and administration of Mobility/MDM solutions like IBM Traveler, MobileIron & Blackberry 
+Expert in Design, architect and administration of Secure SMTP/Antispam Messaging gateway Solutions for Ex. Proofpoint, Symantec BrightMail Gateway and Ironport. 
+Experience in configuration, administration and upgrade of IPSwitch/ Moveit file Transfer including SSL. 
+Experience of networking, TCP/IP, DNS, POP3, IMAP, LAN, Firewall, VPN, SOCKS, IP addressing. 
+Intermediate experience of Unified Communications, MS SQL, and Vmware for server virtualization . 
+Technical experience on Servers/OS (Windows, Linux, UNIX, AIX), Storage, Backup (Netbackup/Tivoli/TDP), Security, Encryption. 
+Supporting technical understanding of SAN technologies. 
+Experienced with Load balancing technologies like F5 load Balancer with integration to existing infrastructure. 
+Experienced in working with Servicedesk s/w like Remedy and ServiceNow. 
+Microsoft Office Package, AD, Outlook, Windows 98/XP/Vista/Windows 7, Visio, WebEx. 
+Experienced in creation, modification, version update of technical documents. 
+Basic understanding of Agile and Cloud Technologies. 
+Expert in managing and maintaining capacity and performance of the existing infrastructure. 
+INTERPERSONAL SKILLS 
+Excellent planning, leadership, problem solving, analytical, operational & customer service skills. 
+Able to priorities and manage time effectively to meet deadlines. 
+Never miss an opportunity to learn something new. 
+Ability to multitasking in a fast-paced and Work within team focused environment. 
+Customer focused. 
+Experienced in working with onshore - off shore model in customer interfacing roles Experienced in delivering independently and through joint partnerships. 
+Highly Self Motivates, Goal Oriented and Self Directional. Strong analytical and problem solving skills. 
+Good communication skills. 
+PROFESSIONAL ACHIEVEMENTS 
+Recognized from Manager s choice award program for 2016 for the practice 
+Put the Client First and for 2017 for 
+Demonstrating the practice: Show Personal Interest 
+Multiple Client appreciations. 
+IBM certified Interviewer Tag Holder. 
+CERTIFICATIONS & TRAININGS 
+NO CERTIFICATION CERTIFICATION AUTHORITY YEAR 
+1 IBM Certified Associate System Administrator for Lotus Notes 8 IBM 2009 2 
+ITIL v3 Foundation Certificate by EXIN EXIN 2013 
+3 Proofpoint Certified Accredited Administrator (PAA) Information Protection (DLP/Content 
+Control/Encryption) Proofpoint 2015 4 Proofpoint Certified Accredited Administrator 
+(PAA) Email Protection 
+Proofpoint 2015 
+5 Cloud 2015 IBM 2016 6 Agile Project Management IBM 2016 7 Big Data & Analytics on Cloud IBM 2016 
+8 Becoming Agile IBM 2016 9 Infrastructure Matters IBM 2013 ACADEMIC CREDENTIALS 
+NO DEGREE COLLEGE/UNIVERSITY CGPA/PERCENT AGE YEAR 
+1 Bachelor of Computer Application Prestige Institute of Management, Gwalior Madhya pradesh 75 2005-2008 PERSONAL DETAILS 
+Name : 
+Hari Om Singh 
+Date of Birth : 20/08/1987 
+Languages known : English, Hindi 
+I hereby declare the above mentioned is true to my knowledge. 
+Bangalore Hari OM Singh 

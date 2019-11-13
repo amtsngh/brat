@@ -1,0 +1,129 @@
+ PARTHA MANDAYAM 
+RH!7, Planet Millennium, Pimple Saudagar, Pune 411027, India 
+E-mail mcp111@gmail.com 
+Home: +912027404147 Cell: +919552742723 Date of birth : 27/09/1965 
+PROFESSIONAL SUMMARY 
+Results-oriented IT professional with over 20 years experience in managing projects, collaborating with project teams, interfacing with clients, and deploying technology to build successful solutions Dynamic Project Manager for GE(Corp) and Business Solutions Group Corp and Lead Developer for Kaiser Permanente, Regence Blue Cross Blue Shield and Allied Signal Aerospace. 
+Developed cutting-edge AJAX-enabled websites for Summacare and Kaiser Permanente which improved application performance by over 200%. 
+Represented Unisys Corporation as Sr. 
+Business Intelligence and Reporting Expert on the proposal team for New Hampshire MMIS ( Medicaid Management Information System ) 
+Created data warehouse for Vesta Inc which improved ASP web reporting efficiency by 250% Distinguished member of Cambridge Whos Who (http://www.cambridgewhoswho.com/MainSite/AboutUs/MembershipTour.aspx), an executive registry of elite global professionals, nominated for outstanding professional achievement. 
+Member of top technical associations like IEEE Computer Society (http://www.computer.org/), ACM (http://www.acm.org/) ( Association for Computing Machinery ) and AMA (http://www.amanet.org/) ( American Management Association ) 
+Member of PASS (http://www.sqlpass.org/) ( Professional Association for SQL Server ) and SSWUG (http://www.sswug.org/) ( SQL Server Worldwide Users Group ) 
+Consulting expert at Zintro (http://www.zintro.com/), Experts-Exchange (http://www.experts-exchange.com/M_747139.html), Guidepoint Global Advisors (http://www.guidepointglobal.com/), Liveperson (http://www.liveperson.com/mcp111/), Expertjunction.net (http://mcp111.expertjunction.net/), , JustAnswer (http://www.justanswer.com/), ezDia (http://www.ezdia.com/profile/parthamandayam), GLGCouncils (http://www.glgroup.com/councils.html), and Allexperts (http://www.allexperts.com/). 
+Certified VB, SQL Server and ASP Programmer; Official Microsoft beta tester for SQL Server 2008 , Visual Studio 2008, Windows Vista, Office 2007 and Microsoft Virtual PC 2007. 10 years experience in C#/VB.NET/ASP.NET. Extensive experience in system design and development of large scale multi-billion dollar enterprise applications. Business expertise in diverse industries such as healthcare ( 6 years ) , finance, real-estate, retail, power utilities, materials handling, engineering & law. 
+Learning the cool features of SQL Server 2016 
+Online course in Big Data with Python and R statistical programming from prestigious Duke University 
+Learning asp.net web api, node.js, angular.js, HTML5 and CSS3 
+Online course in Project Management from University of California, Irvine 
+Working on MCSD Web applications Microsoft certification 
+Online course on C# Design Patterns by developer training leader Innerworkings http://www.innerworkings.com (http://www.innerworkings.com/) Online course on Enterprise Architecture TOGAF methodology 
+Online course in SSIS ( SQL Server Integration Services ) at SSWUG.ORG ( SQL Server Worldwide Users Group 
+Online course in SSAS ( SQL Server Analysis Services ) at SSWUG.ORG ( SQL Server Worldwide Users Group 
+Stay on the bleeding edge of technology by regularly attending presentations at the Cleveland .NET SIG (http://www.bennettadelson.com/netsig.aspx) ( Special Interest Group ), Cleveland SQL Server SIG (http://www.bennettadelson.com/Events.aspx), Cleveland C#/VB.NET Users Group (http://www.clevelanddotnet.info/), Cleveland Sharepoint SIG (http://www.sharepointcleveland.com/), Cleveland WPF SIG (http://www.clevelandwpf.info/) etc. 
+US Citizen 
+TECHNICAL SKILLS 
+10 years C#/ASP.NET/VB.NET 
+3 years Sharepoint 2 years AJAX, SSRS, SSIS, MS Project 1 year Web services, Silverlight, WPF, WCF, WF, MVC, LINQ,SSAS, NHibernate, NUnit, Java, Wordpress, Powerbuilder 1 year Dotnetnuke 1 year jQuery, HTML5 
+1 year Serena Teamtrack 6 years HTML/CSS/ASP/IIS; 2 years XML/XSLT/XAML 
+4 years VBScript/Javascript 15 years VB & SQL Server 6 years Crystal Reports and Crystal Enterprise 1 year VS2010, Sharepoint 2010 1 year Subversion 4 years Oracle 6 years MS Access 2 years Coldfusion and ERWIN 
+3 years Unix/INGRES/HIPAA/EDI 
+5 years Production Engineering. 
+PROFESSIONAL EXPERIENCE 
+Allstar Technology, Akron, OH 
+Apr 2014 to May 2014 Software Consultant 
+Developing ASP.NET applications for commercial auto insurance billing for RV's, Boats etc using C#, ASP.NET, Visual Studio 2013, SQL Server 2012 and Telerik UI Controls for AJAX. 
+Web application interacts with a web service to get file layout data for commercial auto insurance details to be sent to various clients like State of NC, Stonewood Insurance, etc 
+Created several C# classes to generate output data files as per client specifications to display insurance data Travel Centers of America, Westlake, OH 
+Jan 2014 to Feb 2014 Software Consultant TravelCenters of America is the largest full-service travel center company in the United States, serving professional drivers and motorists alike. 
+Development/maintenance of ASP.NET web applications using VS2010, Oracle11i, C#, ASP.NET for travel center billing 
+Creating Excel reports from web pages using Spreadsheetgear ( www.spreadsheetgear.com (http://www.spreadsheetgear.com/) ) 
+Development/maintenance of C# console applications to generate scheduled excel reports using Spreadsheetgear 
+Used Team Foundation Server for source code control. Branching and merging code between Development, QA and Production 
+Power and Signal, Solon, OH 
+Nov 2013 to Dec 2013 Software Consultant 
+Development/maintenance of cutting edge e-commerce website for order sampling using Visual Studio 2010, .net 4.0, C#, asp.net, LINQ, Javascript, Jquery, Jqueryui, Generic lists and collections, Rijndael encryption algorithms and MySQL, the world's most popular open source database. 
+MySQL was used like a Nosql database rather than a traditional RDBMS with just a key field and all the data was encrypted as a blob. There were functions to encrypt the data into a blob while saving from the web page and decrypting and displaying the data on the web pages 
+The actual table structures were defined in the C# classes. 
+Used Jquery FancyBox to display a cool popup to show order details when order number was clicked Used cool dropdown JqueryUI calendar control to show dropdown calendar when the associated textbox was clicked so user could select date ranges for order history report. 
+University Hospitals, Warrensville Heights, OH 
+Jan 2012 to Nov 2012 IT Clinical Application Developer 
+Development/maintenance of Caisis Cancer Care Management system using Visual Studio 2008, C#, .net, xml, xslt, asp.net and SQL Server 2008R2 ( www.caisis.org ) Modification of Caisis software based on user change requests. Used Subversion for source code control. 
+Used Telerik UI for ASP.NET AJAX controls to build dynamic websites 
+CVS/Caremark, Solon, OH 
+Aug 2011 to Dec 2011 Application Developer 
+Developed billing invoice extracts using SSIS, SQL Server 2008, Visual Studio 2008/2010, C#, .net and Business Intelligence Development Studio. Modified billing extract to conform to new CMS ( Centers for Medicare and Medicaid services ) 45 day rule which states that a member should be sent an invoice within 45 days of an adjustment. 
+Modified Varolii SSIS package to use different grouping for the 2012 year. Varolii is a company used by CVS for automating prior authorization calls. 
+Used Serena Teamtrack for change management and Visual Sourcesafe for source code control. Used BIDS Helper Add-on to improve SSIS package productivity in Business Intelligence Development Studio. Created cubes in SSAS2008 to analyze claims data. 
+Invacare, Akron, OH Mar 2011 to May 2011 IT Consultant 
+Invacare HCS provides patient management services to home health providers who have a desire to improve their cash collection operations, and recognize the benefits of having a third-party help them manage the increasing complexities of Medicare and health insurance reimbursement trends. 
+Developing asp.net applications using Visual Studio 2008, C#, MVC, WCF, SQL Server 2008R2, jquery for home medical care for elderly patients suffering from sleep apnea. The system automatically dials patients and helps them get their supplies. 
+Created business 
+intelligence dashboard for patient metrics using SQL Server Reporting Services 
+Automated chain mailing of patient letters using SQL Server Reporting Services 
+Developed 
+C# program to create patient data exports in Excel files which were placed in special network folders by provider from where the providers could access them. 
+Modified SSIS data transfer package to limit data file input to files from the past 7 days. Earlier it was processing all the data which was unnecessary. Used SSIS Script task and wrote VB.Net script to get the files from the past 7 days using date embedded in the file name. 
+Created cubes in SSAS2008 to analyze patient data. 
+Progressive Insurance 
+Dec 2010 to Feb 2011 Application Programmer 
+Development of BI Analytics dashboard for analyzing Policypro auto insurance system metrics using SSRS, SSIS, BIDS, VS2008 and SQL2008R2. 
+Developed SQL server data warehouse for reporting and created SSIS packages to move data from OLTP SQL Server and DB2 production databases to the data warehouse. 
+Created complex SSIS packages with multiple conditional dataflows. Found several bugs in SSRS and SSIS and reported to Microsoft via their connect portal http://connect.microsoft.com 
+The reports are developed at different levels of summarization Hourly - transaction breakdown based on hour of day - These reports help in understanding the transaction mix at different times and identifying the peak periods ( Time Horizon: A given day ) Daily - trend based on "Day of Week". This is important since there is a significant variation, especially for End of Day transactions ) ( Time horizon: 3 - 6 months ) Weekly - trends based on weekly summarized data ( Time horizon: 6 months to 1 year ) Monthly - trends based on monthly summarized data ( Time horizon: 1 - 3 years ) Progressive Insurance Feb 2010 
+Oct 2010 Application Programmer 
+Development/maintenance of ASP.NET web application for calculating insurance agent commission based on several business factors using VS2008, C#, MVC , SQL2008 and jquery. 
+Created web pages for adding, modifying, deleting and viewing agent commission data. 
+Modified complex stored procedure for determining agent commission to incorporate logic for retrieving commission data for agents in the states of IN and MN. This is part of Policypro, a multi-million dollar web based auto insurance system, built from the ground up on the .Net platform, which will replace the existing mainframe based system. 
+Cardinal Commerce, Mentor, OH 
+Nov 2009 
+Jan 2010 Software Developer 
+Developed mobile application for Networks in Motion ( www.networksinmotion.com ) to offer Gokivo Navigator navigation application ( www.gokivo.com ) on the latest Sony Ericsson mobile phone in USA, Canada, Eastern and Western Europe using VS2008, C#, ASP.NET, VB.NET and SQL Server 2005 and the aspdotnetstorefront e-commerce shopping cart components ( www.aspdotnetstorefront.com ). Achieved tremendous application performance improvement by tuning and optimizing SQL queries. 
+Kaiser Permanente, Brooklyn Heights, OH June 2007 
+Feb 2009 Lead Programmer Analyst 
+Development/Maintenance of BETS (Benefits Enhancement and Tracking System) for the largest U.S. HMO (8 million+ members) using Agile methodologies. 
+BETS tracks benefit details of Kaiser Permanente members. 
+Used Visual Studio 2005, Oracle 10g, SQL Server 2005, C#, VB.NET and ASP.NET. Converted several ASP pages to ASP.NET which improved efficiency by 200%. 
+Converted several VS2003 websites to VS2005 format which increased ease of development and reduced bugs. 
+Converted several VB6 applications to VB.NET to improve performance and scalability. 
+Created SSRS reports and SSIS packages in SQL Server 2005. BETS team is global involving frequent coordination with offshore team in India. 
+Developed Winforms application for insurance quotes. 
+Used web services to import payment data from other systems. 
+Mentored several junior programmers and assisted with technology vision, resource allocation, project planning and vendor evaluation. 
+Performance tuning of complex SQL Queries. Used AJAX controls like UpdatePanel, ScriptManager, UpdateProgress and AJAX Control Toolkit along with Infragistics Netadvantage and Telerik RADControls for Silverlight to build dynamic web pages which loaded 200% faster and resulted in an enhanced user experience. Custom web parts programming for MOSS2007 Sharepoint portal. Sharepoint database consolidation between several branch offices and migration from Sharepoint 2003 to MOSS 2007 using Metalogix. Built dynamic user interfaces with Expression Blend seamlessly integrating with Visual Studio 2008, WPF, WCF, WF, PRISM Silverlight toolkit and Silverlight Control Toolkit. Developed ASP.NET web application in VS2008 to track change requests for the BETS system using most modern ASP.NET 3.5 controls like Gridview, Detailsview, Listview and Datapager. This was a full life cycle implementation right from gathering requirements to final implementation. This replaced an unwieldy manual spreadsheet application with a slick and compact web interface and increased user productivity by 200%. Used latest C# 3.0 features like LINQ, object initializers, anonymous types, lambda expressions, extension methods, etc. to deliver a highly enhanced and productive user experience. 
+Used Borland Starteam for source control, Remedy for change management and HP Quality Center for testing Summacare, Akron, OH (states largest health plan) Dec 2006 
+Apr 2007 ASP.NET Developer 
+Developed complex EDI Dashboard claims reporting web based system using Visual Studio 2005, SQL Server 2005, C#, VB.NET and ASP.NET. Converted the existing ASP application to ASP.NET with dramatic performance improvement of up to 250%. 
+Extensive discussions with end users for gathering requirements. 
+New system shows details of various types of claims such as HCFA 1500, UB92, etc. 
+Provided additional enhancements to edit, add and copy claims. The web forms have the look and feel of the actual UB92 and HCFA paper forms. 
+Users can search data based on various criteria like claim or member number, provider ID, date of service etc. Partial wildcard searches on any field also possible. 
+Used Microsoft Enterprise Library functions for faster data access and all code is securely stored on Visual Studio 2005 Team Foundation server which provides seamless integration with the Visual Studio environment. 
+Wrote several complex stored procedures and tuned complex queries Used most modern AJAX techniques like XMLHTTPRequest for data access. Wrote complex Javascripts to manipulate web pages using the DOM architecture. 
+Unisys Corporation, Charleston, WV, 
+Nov 2003 - Nov 2006 Software Engineer III 
+Developed Medicaid management information system (MMIS) called HealthPAS for the state of WV. HealthPAS is based on SOA and produces over 800 reports using Crystal Reports 10 and SQL Server 2005. 
+The reports are scheduled in Crystal Enterprise and then stored in a document management system called Cypress. 
+System improves upon the QNXT Medical Claims Processing System from QCSI. QNXT is an award-winning, rules-driven, user-configurable open platform that helps payers adapt to market changes rapidly and efficiently. These reports, formerly on a legacy mainframe system in COBOL, were converted to Crystal Reports on the Windows platform, resulting in ease of data access and enhanced performance. Users access reports through a web portal developed using the Cypress API. 
+Acted as SQL Server DBA doing performance tuning of queries used in the reports. 
+Member of the Unisys Sharepoint user group and attended regular meetings on Sharepoint technology. Extensive programming using Sharepoint web parts and asp.net components. 
+Represented Unisys as Crystal Report expert on the Proposal team for the New Hampshire Medicaid Management system 
+Mentored junior developers in SQL Server and Crystal Reports. 
+Developed automated data extract program using VB and SQL Server DTS to extract claims data into flat files which were then automatically placed on a network drive where the client could access them. Fixed bugs in system, provided enhancements and an intuitive user interface which resulted in dramatic improvements in user productivity. The system was also ported to Vb.net and SQL Server 2005 for even greater performance benefits by utilizing the .Net framework. 
+Business Solutions Group Corporation, Portland, OR, Apr 2003 
+Nov 2003 Project Manager 
+Development/maintenance of several Visual Basic applications seamlessly integrating with Quickbooks 2002, 2003 and 2003 Canadian edition Financial Accounting Software. Managed a team of developers and also did some complex development while delegating simpler development tasks to junior developers. Used MS Project for project management and scheduling. 
+Mentored several junior programmers and was responsible for technology vision, resource allocation, project planning and vendor evaluation. 
+Automated Production Management (APM ) is an ERP software which allows companies to maintain customer, items and material data and seamlessly transfer items from and to Quickbooks. It also does material costing and keeps track of inventory and reorder levels. 
+Automated Food Production (AFP) system keeps track of ingredients and recipes for the food industry. You can also keep track of packaging costs for the various food items. 
+Membership Management system (MMS) enables trade unions to maintain membership details of their employees and also keep track of dues owed by the members. 
+Remote installations and troubleshooting using Webex internet conferencing tool. 
+Extensively used Windows XP, VB6, SQL Server 2000, Crystal Reports, Quickbooks SDK, Infragistics Ultrasuite. 
+For earlier projects please see my longer resume at http://partha.tripod.com/long_resume.doc (http://partha.tripod.com/long_resume.doc) (http://partha.tripod.com/long_resume.doc) (http://partha.tripod.com/long_resume.doc) EDUCATION 
+B.S, Engineering, College of Engineering, Pune, India 
+Advanced Certification in System Analysis, Symbiosis Institute, Pune, India 
+Training in AJAX, WCF, WPF, WF, ASP.NET MVC, Visual Studio 2008, SQL Server 2008, Silverlight 3.0, Expression Blend, Sketchflow, XAML Power Toys, ADO.NET Entity Framework, SSRS, SSIS, SSAS, VB.Net, XML Web Services, Interpersonal Communication, Leadership Skills. IIS Security, Active Directory, OLAP, Visual C++, Informatica 
+PROFESSIONAL MEMBERSHIPS 
+Member of Cleveland .Net SIG (Special Interest Group), Cleveland SQL Server SIG, 
+Cleveland Cloud Computing SIG, Cleveland C#/VB.Net user group , Cleveland Sharepoint user group, Cambridge Whos Who, International Webmasters Association, XML Web Services Special Interest Group, INETA, ACM ( Association for Computing Machinery ), American Management Association , SQL Server Worldwide Users Group, Google Technology Users Group, Oracle Technology Network, Oracle Development Tools User Group (ODTUG), Rational Developer Network, , International Whos Who Historical Society for Technical Professionals, International Association of Business Leaders, and Toastmasters International. 
+Page 5 

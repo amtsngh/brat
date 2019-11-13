@@ -1,0 +1,34 @@
+Kavitha Viswanathan Contact E-mail:kavi.viswanathan@gmail.com Tel: +919900571727
+Bangalore, India 
+I am a detail-focused and results-driven IT professional seeking to return to the workforce after a career break. I have personality traits that I believe would align well to roles that require providing structure and organization, helping others and providing superior service. Having been involved in different aspects of software design and development and having acquired advanced qualification in information systems during my break, I wish to marry these skills with my personality type into a role where I can help technology succeed. 
+Career History 
+Front End Web Application Developer, Cloud Interactive, Taiwan 
+Oct 2012-Jan 2013 Designed web pages from their wireframe counterparts for a Facebook-like application using front-end web technologies like HTML5, CSS, jQuery and JavaScript. 
+Handled change requests and UI bug fixing for an ongoing development project of a networking website. IT Developer, Tata Consultancy Services, India 
+Aug 2005-Jun 2009 Techno-functional role working for a leading product in the clearing, settlement and depository financial solution space. Key responsibilities included application design, development, and testing and product maintenance for clients across the globe. 
+Developed a comprehensive design document for a core product solution of a completely new market model in the exchange settlement space. 
+Led and managed multiple small teams (2-3 members) to deliver software solutions for parallel client implementations under aggressive timelines. Regularly presented high-level designs to project managers to update project status and attain go-ahead. 
+Interacted with various international customers and presented the value proposition of various product features. 
+Collaborated with business teams in various pre-sales and marketing activities. 
+Created and reviewed design approach documents and client user manuals. Performed internal and external quality assurance for different product releases. 
+Used internal quality tools to identify, rectify and manage defects in software code at the unit and integration testing level enabling improved software performance at the system testing level. Led and managed product migration from C++ to Java version. Process involved working with internal proprietary framework to create appropriate migration documents. 
+Academic Projects, MS CIS (Online) 
+Systems Analysis and Design 
+Performed information requirements analysis and software design using MS Visio. 
+Design included various UML and architecture-level diagrams for various case studies. 
+IT Project Management 
+Created various levels of project management documents for an e-shopping website including requirements management, stakeholder modeling, communications management, risk management, project cost estimation using models such as COCOMO, 4GT, WBS and 3-Point. 
+Rich Internet Web Application Development Developed a portfolio website using various front end web technologies like HTML5, CSS, JavaScript and jQuery. Features incorporated in the website include structuring and styling for cross-browser compatibility and accessibility, inclusion of multimedia elements, dynamic animation and AJAX capability. 
+Developed a website to simulate a tennis warehouse using features such as geo-location, web storage and Google maps API s, web sockets, JSON, HTML5 drag and drop, jQuery UI (mobile). 
+Advanced Database Management Systems 
+Utilized the relational and object-relational capabilities of MS Visio Professional to design a comprehensive, normalized healthcare database model. Created extensive document. 
+Created a theoretical paper based on extensive research of NoSQL databases with specific focus on their features, advantages over traditional database systems and the key factors behind their rising popularity. 
+Data Mining and Business Intelligence 
+Used WEKA and Microsoft SQL server business intelligence tools to perform statistical analysis for various data mining methodologies including classification, clustering, decision trees and association rule mining. 
+Education M.S. in Computer Information Systems (2011-2013), Boston University, USA. GPA: 4.0/4.0 Masters in Computer Applications (2002-2005), Anna University, Chennai, India. GPA: 9.7/10 B.S. in Computer Science (1999-2002), University of Madras, Chennai, India. 91/100 
+Awards and Honors 
+Obtained 
+Service and Commitment award for consistent performance at Tata Consultancy Services. 
+Awarded Star of the Month for managing on-time delivery of software at Tata Consultancy Services. 
+Awarded the Gold medal for attaining the highest GPA in a class of 140 students over three years of study in the master s program. 
+Awarded the Silver medal for outstanding academic performance in bachelor s program. 

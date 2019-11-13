@@ -1,0 +1,56 @@
+P.A Aslam 
+Ernakulam, Kerala 
+aslampuliyapilly@gmail.com - +91-8157846144 
+To utilize my skills in software development and to pursue a bright and enriching career in IT industry. 
+WORK EXPERIENCE 
+Java Trainee 
+Spectrum Soft Tech Solutions - Kochi, Kerala - April 2015 to July 2015 Software Developing 
+Company: Spectrum Soft Tech Solutions, Kochi 
+Website: http://www.spectrum.net.in 
+Role: Java Trainee 
+Development Tools: Eclipse 
+Project Time Management Tool: Redmine 
+TECHNICAL SKILLS: 
+Project Development Tool: Eclipse, NetBeans 
+Programming Languages: C, C++, Java 
+Web Technologies: HTML, VB Script, Java Script 
+Data Base: SQL Server 2005, MySQL 
+Operating Systems: Linux, Windows XP/7/8/8.1 
+Tools: MS Office 2010, Notepad++ 
+Multimedia Tools: Adobe Photoshop, Flash 
+Project #1 
+Project Title: Internet Cafe Management System. 
+Operating System: Windows XP 
+Front End Tool: Visual Basic 6.0 Back End Tool: MS SQL Server 2008 Project Summary 
+In this project an attempt is made to design a computer system for a Cyber Caf that makes the management of recording user details, internet usage and billing much easier. The objective of this software is to maintain the details of users, cabins and login history. It has the features like adding, viewing, editing of user details, cabin details, billing, tariff setting etc. 
+Responsibilities - Developing and Testing 
+Project # 2 
+Project Title: Efficient Ceremony Management System 
+Operating System: Linux or Windows 7 
+Application: Web Language used: JAVA, J2EE (JSP) & JDK Platform Technologies used: JSP, JDBC Designer 
+Tool: HTML 5, NetBeans 7.2 Database: MySQL Application Server: Apache Tomcat 5.5.9 Project Summary 
+A web application that makes an event organization simple and fast. The system provides all kind of services regarding any type of events. The benefits of this website can be achieved by simple registration. 
+Designing includes Modular Design based on the Role based-user categories and privileges, DFD, ER Diagram and UML. 
+The UI was developed using JSP pages. The database interactions are realized using JDBC. 
+Responsibilities - Developing and Testing 
+Project # 3 
+Project Title: A Hierarchical Attribute-Based Solution for Flexible and Scalable Access Control in Cloud 
+Computing (HASBE) 
+Operating System: Windows 8.1 
+Application: Web Language used: JAVA, J2EE (JSP) & JDK Platform Technologies used: JSP, JDBC Designer 
+Tool: HTML 5, Eclipse Database: MySQL Application Server: Apache Tomcat 5.5.9 Project Summary 
+The advantages of HASBE comprise decreased costs and capital expenses, scalability, increased operational, immediate time to promote, flexibility, and so on. The cloud service supplier directs a cloud to offer data storage service. Data owners encrypt their statistics files and store them in the cloud for sharing with data customers. 
+To contact the shared data files, data customers download encrypted data files of their interest from the cloud and then decrypt them. Each data owner/consumer is managed by a domain influence. A domain authority is directed by its parent domain authority or the believed authority. Data owners, domain authorities, data consumers, and the conditioned authority are prearranged in a hierarchical way. 
+Responsibilities - Developing and Testing 
+EDUCATION 
+B.C.A 
+Ilahia College Of Arts & Science - Muvattupuzha, Kerala 2012 to 2015 PLUS TWO 
+Govt.Boys Higher Secondary School - Aluva, Kerala 2012 
+ADDITIONAL INFORMATION SKILLS AND STRENGTHS: 
+Possess qualitative experience in Core Java and web based applications. 
+Good Knowledge on HTML, VB Script and Database Management. 
+Excellent Knowledge on Software Development Life Cycle (SDLC) Basic Knowledge on Requirement Traceability, Developing plan. 
+Adept in developing and handling projects efficiently. 
+Knowledge in OOPs concepts. 
+Sincerity and Commitment to work Optimistic and Enthusiastic 
+Passion for learning Strong interpersonal and communication skills 

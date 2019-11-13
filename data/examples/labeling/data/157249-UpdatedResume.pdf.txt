@@ -1,0 +1,70 @@
+ Profile Summary 
+Certified Analytics professional offering 2 years of experience 
+Last associated with Teradata India, Mumbai as an ETL Developer 
+Working on various major projects using technologies such as R & Python, Capstone, MYSQL, Fractal Analytics & Hadoop 
+Skillful in installation of Hadoop in Linux (CentOS), Design, Coding & Testing phases of SDLC and Creative Data Analysis, Algorithm Development & Modelling 
+Comprehensive knowledge of data step processing, data mining, data manipulation, macro creation, data transformation, variable construction & optimization 
+Possess knowledge of Hadoop Eco Systems HDFS, MapReduce, Pig, Sqoop, Hive, HBase and so on Immense understanding of Object Oriented Programming Concepts and Optimization, Simulation & Statistical (OSS) 
+A keen communicator with honed interpersonal, problem solving & analytical skills Core Competencies Personal Details 
+Date of Birth: 11th November 1989 
+Languages Known: English, Marathi & Hindi 
+Address: D-53, Aaram Society, Aaram 
+Lane, Vakola, Santa Cruz East, Mumbai- 055, Maharashtra 
+Academic Details 
+Big Data & Analytics Program from S P Jain School of Global Management, Mumbai in 2016 
+M.Sc. (IT) from Thakur College of Science and Commerce, Mumbai 
+University, Mumbai in 2015 
+B.Sc. (IT) from R.D. National College of Science and Commerce, Mumbai 
+University, Mumbai in 2010 
+Academic Projects 
+During Big Data & Analytics Program 
+Title: Customer Segmentation Analytics 
+Technology: R & Python, Capstone 
+Description: The project aimed to fashion an algorithm for segregation of retail customers into different segments on the basis of similarity. 
+Title: Relational database for a retail supply chain system 
+Technology: MYSQL 
+Description: The project was about developing a functional end-to-end relational database system for a supply chain company. 
+Title: Problem Solving for a retail supply chain entity 
+Technology: Fractal Analytics 
+Description: The aim of the project was to reduce the distribution cost of a leading American chain of discount super stores. 
+Title: Customer Segmentation Segregation 
+Tools : Hadoop 
+Description: The project was about making use of the HDFS for segmenting retail customers. 
+Technical Expertise 
+Data Science: R, Python, Machine Learning (Supervised and Unsupervised 
+Learning), Time Series Forecasting, Data Warehousing, Data Mining, Hadoop Essentials, MySQL, NoSQL, Tableau, Excel 
+Others: Teradata Architecture, Teradata SQL, ETL, Cloud Computing, Business Intelligence, PHP Basic 
+SIDDHARTH GUPTE 
+A result-oriented professional, accustomed with overall functioning of BIG DATA ANALYSIS preferably in Mumbai / Pune / Bengaluru siddharthgupte@hotmail.com 09930986107 Big Data Analytics 
+Project Management 
+SDLC 
+Data Mining 
+Information & Retrieval 
+Business Analytics 
+Software Development Requirement Gathering 
+Application Development 
+Certifications 
+Customer Analytics by University of Pennsylvania in Jan 16 Operational Analytics by University of Pennsylvania in Feb 16 Paper Presentation 
+Presented paper on Role of Artificial Intelligence in Games (BHAVISHYA-2016,Volume-9,Issue-1,ISSN:2231-1475), published at the Bhavishya International Conference in 2016 Organizational Experience 
+Jun 10 to Jul 12 Teradata India, Mumbai 
+Growth Path: 
+Jun 10 to Sep 10 Graduate Trainee 
+Sep 10 to Sep 11 Junior Staff Consultant 
+Sep 11 to Jul 12 Staff Technical Consultant 
+Key Result Areas: 
+Managed various technical aspects like software design, modules coding, monitored & resolved critical paths Conducted system study & coordinated with team members for system design & integration and application maintenance 
+Supervised smooth implementation of the projects and extended post-implementation, application maintenance & technical support Coordinated for entire project related activities to be in tune with the core business objectives Monitored business requirements gathering, system analysis & finalizing techno-functional specifications 
+Controlled the design, development, testing, troubleshooting & debugging of the software Observed set-up, maintenance process, documentation & quality standards for all phases of the SDLC 
+Major Projects: 
+Business Intelligence System (Social Media Analytics) for Persona Analysis for Electronic Arts Inc. 
+Testing for ETL Migration for JP Morgan Chase & Co. 
+ETL Migration Process for Rogers Communications 
+BO Maintenance for NBC Universal Inc. 
+Highlights: 
+Studied Teradata Data warehousing model complete with education, knowledge transfer, change management, disaster recovery and service level agreements 
+Operated on a delivery process based on Component based SDLC Ensured an on-going awareness of emerging developments and trends in the analytics landscape through measures such as Technical journals Soft Skills 
+Communication 
+Innovation 
+Team Player 
+Planner 
+Analytical 

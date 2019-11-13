@@ -1,0 +1,148 @@
+RESUME
+ 
+Satish S 
+69, Sabari F2 First floor, 5th cross Saraswathipuram, Nyappanahalli Main Road, Arekere, Bannerghatta Road, Bangalore 560076. 
+Mobile #: 9845427607 
+Email id: Satish_sm@yahoo.com 
+Summary : 
+Total IT Experience of 17 Years. 
+Project Management of 6 yrs 
+SAP WM, TM, OM / ABAP/4 / BW :- 12 years of Experience. 
+SAP 
+OM ,WM , TM Techno functional for 6 years 
+CSM 
+Certified SCRUM Master in Agile development 
+PMP Trained in Intel 
+Trained in ITIL process Good in SAP Solution manager for documentation and migration Escalation Manager in production support Environment. 
+Change Manager for production Support. 
+SAP Trained in various SAP Modules ( WM / TM / OM / PI / BW / SD ) SAP Trained HANA , CRM 4.0 / 5.0 / HTML 5 , SAP BOBJ 
+Good team Leader with strong initiative and ability to learn quickly. 
+Effective Communication, Organizing, Presentation and Leadership skills. 
+Education: 
+B.E (Electronics & Communication) from Bharathiar University, Tamil Nadu, P.G.D.C.A 
+From Annamalai University, Tamil Nadu, M.B.A (Systems) From Madurai Kamaraj University, 
+Technical Skills: 
+ERP Package ECC 6.0 , SAP Net weaver 7.0 , SAP BW , OM , WM , TM Language ABAP/4 
+Cross Application ALE, EDI, IDOC, LSMW, Workflow, BAPI , JAVA , Mainframe 
+Middle Ware SAP BW & SAP XI 
+Reports Crystal Report 8.0 / 8.5 
+Databases MS SQL Server 8.0, Oracle 8i, MS Access 
+Operating System MS-DOS, UNIX, Windows 95, 98, 2000 / NT 4.0 
+Experience Summary: 
+Working as a System Analyst for Intel Technology India Pvt Ltd, India. Jan 2008 to June 2016 
+Worked as a Project Manager for Caritor (I) Pvt Ltd, India. 
+Dec 2004 to Jan 2008 
+Worked as a Technical Consultant for AG Technologies Pvt Ltd., India June 2004 to Dec 2004 
+Worked as a Technical Consultant for Wipro Infotech, India Jan 2004 to May 2004 
+Project Details: 
+Project # 1 May 2014 to June 2016 Project 
+SAP WM Maintenance & Support Designation 
+Scrum Master / Analyst [Techno functional] Client Intel - CPLG Environment 
+SAP WM & ECC, JIRA 
+As a scrum master follow the agile scrum methodology and frame work followed on the below project / Support activities. Involved in the daily scrum meeting, resolving the impedances in the development team and guiding the team about the Scrum process and Facilitate sprint planning, retrospective and sprint demos , guiding the team with agile scrum practices. 
+Warehouse Management implementations / Support, Techno Functional consultant having involved in the Role out for a new warehouse in intel. Configuration of Storage type, storage bin. Involved in FS documentation creation and UAT testing with User and warehouse reps. Pick & Place strategy Worked on enhancement requirement for the pick place strategy. FS created for this enhancement and This is a user exit change to call and pick full box for full DN qty and partial box for partial DN qty. Tested the scenario and UAT done Work with Warehouse reps for the process improvement in various scenario. Provided user training whenever needed. 
+Project # 2 
+Oct 2013 to May 2014 Project SAP Maintenance & Support Designation Developer / Analyst [Techno Functional] 
+Client Intel - CPLG Environment SAP ECC 6.0 
+Involved in Order execution project implementation, as a Techno functional consultant in SD & WM are of configuring the Master Data for customers, Materials and Customer 
+Material Info Records pricing conditions and condition records as per the requirement. Created test data for testing. 
+Created order, delivery, billing documents for various scenarios for testing purposes. 
+Involved in conversions activity for the master data. Good in SD & WM integrations. 
+Creation of shipping point determination. Partner profile creations and cross function elements like Idoc and ALE configurations. 
+Provide end user training. 
+Project # 3 
+Nov 2012 to Sep 2013 Project SAP B2B Implementation & Support Designation Developer / Analyst [Techno Functional] 
+Client Intel - CPLG Environment SAP ECC 6.0 Involved in B2B implementation of getting the delivery note request and confirmation thru 3B12 outbound pip to 3Pl plants. Based on the output determination, delivery type is LF, NL, NLCC and ZSC and applicable to the output procedures ZV1000, SPEV10 & V10000. Determination is based on DN create, complete, issuing storage location RW* or FG*
+excluding FG03. 
+Configure the idoc type and the user exit ZXTRKU02 
+this will send the data to PI and then to EMS queue to open text to the 3PL system. 
+Project # 4 Dec 2011 to Oct 2012 Project 
+SAP BW / BI Implementation & Support Designation Developer / Analyst [ Techno Functional ] Client Intel - CPLG Environment 
+SAP BW 7.3 / 7.4 
+Involved in development and design and worked to created various extractors from ECC / WM source system. Created DSO / DTP / and created data type and fields in BW systems. Created process chain and schedule this process chain to run on scheduled time.Info spokes created to delta / full extractors From PM side monitor the objects development to ensure the meet the milestone and update to the senior management. 
+Project # 5 Jan 2011 to nov 2011 
+Project SAP BW / BI Implementation & Support 
+Designation Developer / Analyst [ Techno Functional ] 
+Client Intel - CPLG Environment 
+SAP BW 7.3 & 7.4 
+Involved in development and design of Archival data extract from EDDAR system to EDW and worked to created various extractors from ECC / WM source system. Created DSO / DTP / and created data type and fields in BW systems. Created process chain and schedule this process chain to run on scheduled time. Info spokes created to delta / full extractors. From PM side monitor the objects development to ensure the meet the milestone and update to the senior management. 
+Project # 6 Jan 2008 to Dec 2010 Project 
+SAP Maintenance / Support Designation 
+Developer / Project Manager 
+Client Intel - CPLG Environment SAP BW 7.3 & 7.4 
+Involved in the production support activity for order management and warehouse management systems. Track the incoming volume tickets and monitor the SLA / MTTR. Worked with stakeholder and various customer in ticket reduction effort. Did the escalation manager role to address the impacted shipment issues in production ASAP. 
+Project # 7 Aug 2007 to Dec 2007 Project SAP R/3 Maintenance & Support Designation 
+Project Manager 
+Client 
+Guoman Hotels ( Thistle hotels ) UK., Environment 4.7 Enterprise 
+Scope of the Project: 
+Guoman Hotels are having 50 hotels of which 17 of them are owned and 33 of them are managed. Each hotel is having a company code and on a daily basis the revenue of these hotels are posted into SAP 4.7 
+Responsibility: Analysis and Estimation, Review and Testing, Troubleshooting, Co-ordination with Onsite team member and Developments of complex objects with team of four members. 
+I am responsible for Complex developments and following daily activities. 
+Work Planning and Resource Allocation, Reviewing and Testing Deliverables. 
+Troubleshooting and Communication with On-site & Status Reporting 
+Monitoring the SLA and ticket Metrics 
+Providing solution of repeated and escalated issues. 
+Maintaining Process Compliance according to CMM and BMS 
+Worked on various Enhancements , interfaces and user exits 
+Worked on performance improvement of reports and interfaces . 
+Project # 8 
+Dec 2004 to Jul 2007 Project 
+SAP R/3 Development / Maintenance & Support Designation 
+Project Manager 
+Client 
+Honeywell AeroSpace, US 
+Environment 4.7 Enterprise MM, WM 
+Scope of the Project: 
+Honeywell Aerospace is a leading global Aerospace company with a range of Products and Services. Honeywell Aerospace is sub-divided into Strategic Business Units (SBU) i.e. Aero Trading, Military Repairing and Overhauling Center, Aerospace Landing Systems, Customer Service etc. These business units design, develop, deliver and support a wide variety of avionics systems to a broad spectrum of commercial and government customers. 
+This project involves servicing Maintenance Requests from these SBUs for SAP R/3 4.7. The maintenance requirements are received and tracked by Web-based Baseline Tool and Call Center. The types of requirements are New Report Development, Enhancements, Bug-Fixing, Change in Existing Object etc. 
+Responsibility: Analysis and Estimation, Review and Testing, Troubleshooting, Co-ordination with Onsite and Developments of complex objects 
+I am responsible for Complex developments and following daily activities. 
+Work Planning and Resource Allocation, Reviewing and Testing Deliverables. 
+Troubleshooting and Communication with On-site & Status Reporting 
+Monitoring the SLA and ticket Metrics 
+Maintaining Process Compliance according to CMM and BMS 
+Worked on various Enhancements , interfaces and user exits 
+Worked on performance improvement of reports and interfaces Project 9 June 2004 
+Nov 2004. 
+Project: CRM 4.0 Implementation Designation Consultant 
+Client 
+Philips Semiconductors, Netherlands (Onsite & OffShore) Environment WAS 620, SAP R/3 Ver 4.7 Enterprise Edition, Oracle 9i,HP Unix, 
+Scope of the Project : 
+Involved in the CRM Implementation of 2 Projects EAS and CPC. 
+As a CRM Technical Consultant involved in the Estimation of BluePrints of the Project and its Feasibility 
+Scope of the Project EAS [ E-Application Support ] : 
+E Application Support (EAS) creates the service Ticket and sends it to the Customer Automatically through email. 
+Involved in the IC Web client Screen Modifications of Fields in the Service Ticket and Enhancement that Customer Field in the IC Web client. 
+Adding additional Input Fields for Date which is a Customizing View created Separately . 
+changing the Activity Clipboard to the Service ticket Creation of Package , BSP Application, Design Time and Runtime Profile. 
+Splitting of the Agent Inbox for the User Status. 
+Scope of the Project CPC [ Customer Product Center] : 
+Developed an Application in R/3 System to get the changes made to Sales Order documents like Material availability date, Confirmed Quantity and apart from this Sold-To Party, Ship-To Party and Customer Service Representative. 
+Developed a Function Module Interface to capture the changes made to Sales order documents in R/3 which creates De commit alerts with details of changes in material availability dates, confirmed quantities. The alerts will then be displayed to Customer Service representative using the Interaction Centre (IC) Web-client of CRM system. 
+Adding the Customer Field R/3 sales order in the IC web client. 
+Planned & Actual Date filed are added in the IC Web client Search Functionality are added in the Account Identification 
+Project 10 Feb 2004 April 2004. 
+Project: Conversion Project 
+Designation Technical Consultant 
+Client 
+SAP LABS , Bangalore. 
+Environment SAP R/3 
+Ver 4.7 Enterprise Edition , Windows 2000, 
+Oracle 8i. 
+Scope of Project 
+Modified the Standard System Reports of SAP-HR/FI into ALV Format 
+Analysis of the report and convert it into ALV Format. 
+Debugging the Program 
+Created the DDIC Structure & Coding 
+Unit testing 
+Personal Details : 
+Permanent Address : 45 , EB Colony , TVS Nagar 
+Coimbatore 641025 
+Tamil Nadu. 
+Sex : Male 
+Date of Birth 
+: 05/02/1975 
+Marital Status : Married 
+Passport : 
+Valid Passport Holder 

@@ -1,0 +1,54 @@
+NAME:GOVIND MENON 
+Date of Birth :08-06-1991 Contact 
+Tel : 09539791559 e-mail : 
+govindpanampilly@gmail.com 
+ADDRESS 
+Panampilly house, p.o cheruvaloor, Koratty 680308, Thrissur. 
+OBJECTIVE 
+To use my skills in the best possible way for achieving the company s goals. EDUCATION 
+Degree Institute Board / University 
+Year % marks 
+B.E. SreeSakthi Engineering 
+College, Karamadai. 
+Anna University 2014 65% 
+XII Palissery higher Secondary school, annamanada. 
+General 
+Education 2009 60% 
+X MAMHS school, Koratty. 
+State Board 2007 65% SOFTWARE/COMPUTER PROFICIENCY 
+Languages : C, C ++, Java. 
+Packages : MS OFFICE, NETBEANS IDE. 
+Platforms Used : Windows-(XP, 7, 8). 
+EXTRA CURRICULAR ACTIVITIES 
+Undergone training in Java for 3 months. 
+AREA OF INTEREST 
+Computer Programming in java. 
+Computer Hardware. 
+PROJECTS TITLE :Web search result with incremental algorithm 
+DOMAIN: Data mining. 
+Front End: JSP. 
+Back End: MYSQL. 
+The query grouping is done in a dynamic fashion. Goal is ensured by good performance while avoiding disruption of existing user defined query groups. Clicks can be used together to determine the relevance among query groups. 
+1. By fusing the query reformulation graph and the query click graph in to a single graph that be refer as a query fusion graph 2. By expanding the queries set when computing relevance to also include other queries with similar clicked URLs. 
+Histories or queries are separately stored for individual user for getting the accurate results what particular user preferred. 
+Results for the second query are also displayed while giving the first query results. 
+User can get their expected query result as earlier and get accurate result what they needed. 
+The system will get what the user needed. 
+PROJECT:Also done in J2ee using html, css, Javascript, mysql. 
+CONFERENCE ATTENDED 
+Participated on a workshop based on ETHICAL HACKING AND INFORMATION SECURITY at SASURIE ACADEMY OF ENGINEERING, certified from IIT KHARAGPUR which held on 3 rd &4 th march 2011. 
+IN-PLANT TRAINING 
+10 days in POINT PERFECT TECHNOLOGY SOLUTIONS (PPTS), Coimbatore. 
+Computer Hardware Training in RAMBUS INSITUATION, CHALAKUDY, THRISSUR. 
+DECLARATION: 
+I GOVIND MENON, Hereby declare that the information given above is true to the best of my knowledge. 
+Place: 
+Date: Signature 
+PERSONAL DETAILS 
+Father s Name : Vijayachandran M. 
+Mother s Name : Mrs.Latha K. 
+Date of Birth : 08.06.1991. 
+Marital Status : Single. 
+Nationality : Indian. 
+Languages Known : Hindi(R/W), English (R/W/S), Tamil(S). 
+Interest : Listening to music, Playing computer games. 

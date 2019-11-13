@@ -1,0 +1,236 @@
+ CURRICULUM VITAE Prashant chaudhary 
+E-mail php.iitd@gmail.com 
+Mobile No. - +919602635800 
+Career Objective : 
+I believe in putting the best of my effort in whatever I do and come out with the best possible result. I am eager to take new challenges and responsibilities with attitude. I think my attitude towards hard work, sincerity and passion will result in a long lasting mutually beneficial relationship with this particular profession. 
+Personal Details : 
+FATHER S NAME - Shri Ramesh Chand Chaudhary 
+MOTHER S NAME - Shrimati Omvati Devi 
+PRESENT ADDRESS - 120/119, Vijay Path, Mansarover, Jaipur 
+PERMANENT ADDRESS - V.P.O:-Jharoti, Teh:-Weir, Dist. - Bharatpur, Rajasthan -321615 
+DATE OF BIRTH - 15 th 
+Oct 1991. 
+MARRIGE STATUS - Single 
+MOBILE NO. - +919602635800 
+Educational Details : SCHOOL/COLLEGE CLASS BOARD/UNIVERSITY % Age 
+A.V.M 
+Kherali (Bharatpur) 10 th 
+R.B.S.E. Board (2006) 62.00 
+A.P.S Nadbai (Bharatpur) 
+12 th 
+R.B.S.E. Board (2008) 61.00 Regional College For Education 
+Research & Technology (Jaipur) 
+B.TECH(I.T.) RTU KOTA 
+(2012) 62.00 
+Technical Details : 
+CURRENT COMPANY - Decipher Zone 
+ADDRESS 
+- Sipra path Mansarovar, Jaipur 
+POST - Sr. PHP Developer 
+CURRENT SALARY - Rs.25000/- P/M 
+JOINING DATE - 15-Jan-2015. 
+TOTAL EXPRENCE - 2+ 
+YEAR . Technical Skills: 
+Operating Systems 
+: Windows-98, Windows XP, Window-7, Windows -8, Vista, Ubuntu 
+Languages 
+: PHP, HTML,CSS, JAVA SCRIPT, JQUETY, MYSQL, AJAX, WORDPRESS(last work 1 year ago.), LARAVEL , WAP API Extra 
+: SVN Server, Github Server, Bitbucket Server Internship Training : 
+Project : Student Information system Duration : 45 days Organization : Shaperz, Noida 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL Project Description (1) 
+Project : Online Project Management System 
+Duration- : 3 Month 
+Organization : 
+Monsoon Consulting, Jaipur 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL Project Description (2) 
+Project 
+: Offline Library Management System 
+Duration- : 3 Month 
+Post 
+: Trainee 
+Organization : DAAC, Jaipur. 
+Description : 
+Frontend- HTML & PHP , Backend-MYSQL 
+Experience: 
+Project Description 
+(A) 
+Project : http://gemcodesigns.com Post : Developer. 
+Organization : 
+Acentriatech, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description (B) 
+Project 
+: http://gemcojewels.com Post : Developer. 
+Organization : 
+Acentriatech, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description (C) 
+Project : http://jaipurraga.com Post : Developer. 
+Organization : 
+Acentriatech, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(D) 
+Project : http://rajrang.com Post : Developer. 
+Organization : 
+Acentriatech, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(E) 
+Project : http://gemcowholesale.com Post : Developer. 
+Organization : 
+Acentriatech, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(F) 
+Project : http://catalograjrang.com Post : Developer. 
+Organization : 
+Acentriatech, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(G) 
+Project : 
+http://OfferNaija.com Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(H) 
+Project : 
+http://patrika.com/jaipur-online-propery-fair/ Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description (I) 
+Project : 
+http://104.131.10.242/clothstreat.com Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(J) 
+Project : 
+http://Ofstore.com Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(k) 
+Project 
+: http://104.131.10.242/Sow.com Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description 
+: mobile api Project Description 
+(L) 
+Project : 
+http://104.131.10.242/CIS.com Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(M) 
+Project : http://hardwaregsh.com/ Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(N) 
+Project : http://baagwalehanumanji.com/ Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(O) 
+Project : http://decipherzone.com/ Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(P) 
+Project : http://plantingprofit.com/ Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(Q) 
+Project : http://c4bsolutionsinc.com/ 
+Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(R) 
+Project 
+: http://104.131.10.242/music/band-manager/public/ Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP(laravel 5.2), Backend-MYSQL 
+Project Description (S) 
+Project 
+: http://eggdee.com Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Project Description 
+(T) 
+Project : http://applers.com Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Description : 
+Frontend- HTML & PHP, Backend-MYSQL 
+Wap API: 
+Project Description 
+(A) 
+Project : 
+http://OfferNaija.com Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Project Description (B) 
+Project : http://Sow.com Post : 
+Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Project Description 
+(A) 
+Project 
+: http://Eggdee.com Post : Developer. 
+Organization : 
+Decipher Zone, Jaipur. 
+Sports: 
+Participated in 
+Carom Tournament ( 2010-2011) Participated in Sudoku Tournament - 2011 
+Participated in 100m Race 
+In Annual Sports Week In 3 rd Year 
+Strength : 
+Enjoy working both individually & in a Team. 
+Strong Commitment to Quality & Efficiency. 
+Determination, Dedication, and Discipline . 
+Willing to Learn 
+Hobbies: 
+P.C. Games, Playing Sudoku Listening music, Traveling Confirmation: 
+I hereby confirm that all the information stated above are true to the best of my knowledge. 
+Place: 
+Jaipur 
+Thanking you Date: 
+Prashant Chaudhary 

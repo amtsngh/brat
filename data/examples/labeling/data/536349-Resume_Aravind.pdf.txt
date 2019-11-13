@@ -1,0 +1,39 @@
+ARVINDA KUMAR C. S. 
+Software Engineer-Trainee 
+Bengaluru, Karnataka 
+Ph. No.:+91-8867272240 
+Email: arvindakumar.cs@gmail.com Enthusiastically work for an organization for its development and enhance my own skills and knowledge. Willing to relocate: Anywhere 
+WORK EXPERIENCE 
+Data Science 
+CenturyLink India -Bengaluru, Karnataka,-December 2016 to April 2017 (Contractor) 4 months of professional experience as Data Science Engineer. 
+Worked as INTERN at Si2 Microsystems Pvt. Ltd. for 10 months during my final year 
+M. Tech 
+EDUCATION 
+M. Tech-Digital Communications R. V. College of Engineering 2016 
+B. E. Telecommunications 
+B. N. M. Institute of Technology 2013 S. S. L. C. 
+S. M. High School, Viduraswatha 2007 
+ADDITIONAL INFORMATION 
+Skill Set 
+Languages: Java (Collections and Strings), SQL, and HDL 
+Web Development Tools: Basics on JavaScript and AngularJS 
+Operating systems: Windows XP, Windows 7 
+Office Suites: MS Office 2007, 2010 RECENT PROJECT 
+Project: Damage Detection 
+Client: AIG 
+Environment: Damage Detection labelling Tool 
+Duration: December 2016 to April 2017 
+Description: American International Group, Inc., also known as AIG, is an American multinational insurance corporation with more than 88 million customers in 130 countries. As an industry leader, AIG car insurance is widely utilized and highly dependable. From cars and motorcycles to recreational vehicles, they service a wide array of customers with competitive rates. AIG remains a top insurance provider. In this project Damage Detection Labelling Tool is designed to allow people annotate each accident car image easily. The annotation will be used to develop learning models that automatically estimate the annotation. 
+Responsibilities 
+The claim images are loaded to Tool. 
+Label the images using tool to finish annotation of each image. 
+Verify the mat file (.mat) created in the target folder after annotation. 
+Coordinating with other teams working on the same project. 
+Coordinating with the team for correcting mismatch files. 
+Ensuring smooth delivery of the project 
+ACADEMIC PROJECT 
+Title: Design and Development of FPGA-based Data Acquisition System 
+Description: Designed FPGA-based data acquisition system to overcome from the dis-advantages of the Microprocessor and Microcontroller based acquisition systems. 
+Environment: Quartus II 
+Hardware: FPGA PUBLICATIONS 
+Paper titled Design and Development of the High-speed Data Acquisition System with Cyclone FPGA in the proceedings of 7th International Conference on Computing, Communication and Networking Technologies (ICCCNT), at Dallas, USA, 6th 8th May 2016. 

@@ -1,0 +1,70 @@
+CURRICULUM VITAE SANJIT VERMA 
+e-mail:- sanjitkumar.hcumca@gmail.com Flat # 302, House # 574 +91
+9441157627 KPHB phase 7, Hyderabad SUMMARY Sanjit Verma is a software consultant, working for the Enterprise Application Integration team, with 3 years of professional experience in Oracle Service Bus (OSB) and Service Oriented Architecture (SOA) 
+11g and 12c versions. He has proficient knowledge and work experience in XML technologies, Proxy service, Business service, BPEL, Mediator JCA/File/DB/JMS/Apps adapters, XQuery, XSLT and XSD. 
+Excellent understanding in Service-Oriented Architecture and its related technologies like BPEL, Web Services, WSDL, SOAP, XML, XSD, XSLT and Web Service Security, providing generic and reusable solution for SOAP and REST based services. Reading and writing data in 
+XML and JSON format. Sanjit has very good analytical and problem solving skills. He is very efficient and effective team player and been always appreciated for his positive attitude towards work. Always performed very well in the team and received many awards and recognitions for his excellent performance. 
+TECHNICAL SKILLS 
+Technologies: OSB 11g/12c- Proxy services, Business service, SOAP/REST web services, JCA/File/DB/Apps adapters, XQuery, XML, xpath and XSD. Oracle BPM, OSB/SOA 12c 
+BPEL, mediator, XSLT, SOAP and REST based services, JMS, JSON, WebLogic. 
+IDE's: Eclipse, JDeveloper, SOAP UI. 
+Languages: - C, Core Java, SQL, PHP. 
+Operating System: - Windows, Linux (Ubuntu). 
+PRESENT PROFILE & SKILLS 
+Software Consultant 2 at Hitachi Consulting Software Services India Pvt. Ltd. 
+OSB: 
+3 Years of extensive experience in developing OSB components including Proxy services, pipeline pairs, business services, etc. 
+Very handy in using OSB components like service callout, publish, dynamic publish, route, assign, java callout, transport header, etc. 
+Worked on complex xquery transformation and xpath. 
+Created proxy services with different protocols as per the requirement. 
+Worked on REST adapters for invocation of rest based services with dynamic parameters. 
+Worked on NXSD translation from JSON to XML format and the vice- versa. 
+Worked on Oracle Enterprise Patch for Eclipse (OEPE) for OSB 11g development. 
+MFL file transformation to convert data from CSV to xml and the vice-versa. 
+Error handling in OSB and SOA. 
+SOA: 
+3 years experience in large-scale SOA/EAI implementations using Oracle Fusion Middleware (Oracle JDeveloper, Oracle SOA Suite, Oracle OSB and Oracle Weblogic). 
+Very good understanding in Service-Oriented Architecture and its related technologies like BPEL, Web Services, WSDL, SOAP, XML, XSD, XSLT and Web Service Security. 
+Experienced in using the following SOA Suite technology adapters for integration with Oracle EBS and external/legacy systems: Database, JMS, FTP/File, Web 
+Service, APPS, REST and HTTP. 
+Experienced in designing and building robust and fault-tolerant Fusion Middleware components in BPEL and OSB. 
+Expertise in configuration of JCA adapters and data sources in Oracle Weblogic console. 
+Used DVM extensively to store the static domain data in the system. 
+Used MDS to share common assets like XSD, WSDL, DVM, etc. Replaced concrete 
+WSDL with Abstract WSDL stored in MDS to avoid dependency problems during code deployment across environments. 
+Created Notification BPEL Services for sending Notifications in the event of Exceptions. 
+Created end to end integration of EBS system with third party systems based on AIA architecture. 
+Worked on configuration plans to deploy composites in different environments. 
+Worked on deployment of code using ANT scripts. 
+Very good in understanding the business requirements, drill down the technical requirement from the functional document, provide best feasible solution and create technical design document. 
+Invocation of OSB service into SOA BPEL process. 
+Attended Integration cloud service training and worked on POC, have beginner level knowledge in Oracle Cloud Service. 
+Responsibilities: Understand the business requirement based on the provide function design document and interaction with function team and clients. 
+Propose feasible solution and prepare technical design document. 
+Create and test end to end integration process. 
+Provide knowledge transition to the client and client developers about the functionality of the integration. 
+CERTIFIACTION & AWARDS 
+Oracle Service Oriented Architecture Infrastructure Implementation Certified from Oracle 
+University. 
+Soft Skill and life skills training from Hitachi Consulting India Pvt. Ltd. 
+Best performer award in the team for commitment towards work and assisting team members in their deliverables. 
+Quarterly team award for before time delivery of the project. 
+PROFESSIONAL QUALIFICATIONS 
+1. Master Of Computer Application From University Of Hyderabad with 7.8 CGPA in 2014 2. Bachelor Of Computer Application From Bangalore University with 82 % in 2010 OTHER AREA OF INTEREST 
+Computer Networks, Data Structures, Operating System, Internet of things. 
+PERSONAL SKILLS 
+Calm and Confident very determined towards work. 
+An honest and sincere team player who enjoys teamwork. 
+Eager to learn new technologies and share learning and experience with others. 
+Excellent communication and interpersonal skills. 
+Positive attitude towards work, very enthusiastic and zeal to learn new things. 
+Grab opportunities and fulfill the responsibility with great attention. 
+Very optimistic and effective team player. 
+Good analytical and problem solving skills. 
+Skillful at understanding the business needs even for dynamic environments 
+DECLARATION 
+I hereby declare that the above mentioned information is true to the best of my knowledge. I bear full responsibility for the accuracy of the above-mentioned particulars. 
+Place: Hyderabad 
+Date 
+: 10/ 05/ 2017 
+(SANJIT VERMA) 

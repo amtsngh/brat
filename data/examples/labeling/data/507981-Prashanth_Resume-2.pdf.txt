@@ -1,0 +1,50 @@
+PRASHANTH 
+M email: prashanthm22@gmail.com 
+Phone: +91 9629661145 
+________________________________________________________________ Professional Summary 
+Exceptionally accomplished and skilled Embedded Software Developer with a zest for a challenging work environment with high degree of responsibility. Enthusiasm towards improvising myself on evolving technology and applying the knowledge on the project assigned to provide better quality software and enhance customer satisfaction. 
+Skills 
+Understanding on Systems level Advanced knowledge of C and C++ 
+CAPL Scripting 
+Graphic Design 
+AUTOSAR 
+Diagnostics(UDS Protocol) 
+Network Configuration 
+Language Encoding 
+Application Interfaces 
+Work Experience 
+Visteon Technical and Services Centre Software Engineer 
+(14,Sep, 2015 Present) Have proficiency on CAN Networks, Diagnostics(UDS Protocol) and Debugging(Lauterbach Trace 32) skills Strong Knowledge on C,C++,CAPL and Serial Communication Protocols(SPI,I2C, UART, USART and CAN) Key Member of Graphic Design and User Interaction 
+Development of HMI Interfaces and Language encoding for TFT displays Hands-on experience with RTC, Teamcenter for Systems Engineer 
+Performed regression and system-level testing to verify software quality and function before it was released. 
+Academic Profile 
+Course Institution 
+Year of Passing 
+Percentage/CGPA 
+B.E 
+(Electronics &Communication) MIT, Anna University, Chennai 2015 75 % HSC 
+S.R.K Matric. Hr. Sec 
+School, Salem 2011 95.83 % SSLC 
+Vasavi Hr. Sec. School, 
+Salem. 
+2009 94.4 % Personal Skills 
+Team spirit Dedication Logical thinking ability 
+Co-curricular Activities 
+Project Details: 
+Temperature detection and control using Arduino Atmega 328 Microcontroller 
+It makes use of a temperature sensor which continuously monitor the room temperature. If it is exceeded beyond a limit it provides warning by siren. 
+Line following robot using Microcontroller 
+Here the Infrared Sensors are placed appropriate place on the robot and is programmed according to these set of predetermined direction along their path. It is autonomous in nature and used in automation and aircrafts. 
+Touch Switch 
+It uses a darlington pair circuit in response to the resistivity provided by human body(obviously human body is a conductor) and indicate if short circuit is happened. 
+Extra-curricular Activities: 
+Been a Volunteer in conducting our technical symposium and volunteered myself in Rotofest and Sparish, a fest for socially challenged and differently abled children via Rotaract Club of MIT, Chennai. 
+Completed Type Writing English lower grade in first class with distinction Lead Member of Robotics Club Of MIT Personal Details 
+Permanent Address : 2/18, Parameshwaran Nagar 4 th Street, Balakrishnapuram, Adambakkam, Chennai 
+PIN: 600088. 
+Hobbies : Trekking, Biking, Yoga, Books, Carrom, Table Tennis, Carrom, Table Tennis, Playing Keyboard (Beginner). 
+Languages known : Tamil (Native Fluency) English (Native Fluency) Sourashtra (Speaking Fluency) 
+Declaration 
+I hereby declare that the particulars of information and facts stated herein above are true, correct and complete to the best of my knowledge. 
+Place: Chennai Name : 
+Prashanth M 

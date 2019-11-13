@@ -1,0 +1,126 @@
+Shrikar Kulkarni shrikar2112 @gmail.com +91-9880084420 
+Summary: 
+Having around 3 Years of IT experience in 
+Java / J2EE 
+Technologies. 
+Experience to work with frameworks such as Hibernate and Spring . 
+Experience in Object Oriented Analysis, Design, Development, Implementation, Maintenance. 
+Good Knowledge on Design Patterns. 
+Good Experience in Developing Applications using JAVA and 
+J2EE 
+( JSP , Servlets and JDBC ). 
+Experienced in Developing JAVA and 
+J2EE applications using Apache Tomcat , Spring Boot Application. 
+Having Knowledge on AngularJS, C, C++,C# 
+Well versed with problem solving, Analysis, troubleshooting and Unit Testing. 
+Good in Communication, Interpersonal Skills and ability to work in a team as well as independently. 
+Professional Qualification: 
+M.C.A (Master of Computer Applications) from Visvesvaraya Technological University . 
+Professional Experience: 
+Working as Software Engineer at Verse innovation Pvt Ltd , Bangalore Sept 2013 to Till Date. 
+Technical Skills: Languages : Java, C, C++, C#, VB,VB for apps 
+J2ee Technologies : Servlets, JSP, JDBC,Swings 
+Framework : Spring, Hibernate,Spring Boot 
+Scripting Languages : 
+JavaScript, HTML, XML 
+App/Web Servers : 
+Tomcat 6 and above. 
+Databases : 
+Oracle 9i, MySQL, Postgres 
+Version control : 
+SVN 
+Others : Log4j, Maven, Hudson, Nagios, Java Melody 
+Operating Systems : Windows, Linux 
+Project Details: 
+Project : Relaxation UI and Enhanced Query Generator Duration: Dec 2014 to May 2015 
+Solution Environment : 
+Spring Boot Application, Java (JDK 1.7), AngularJS, JPA Repository, Java Script, 
+Description: 
+Relaxation rules are created using Relaxation UI which are then saved into database. Enhanced Query 
+Generators service picks up these relaxation rules and forms a bq(boost queries) which are used to provide more user friendly alerts. 
+Role & Responsibilities: 
+Conceived and designed the idea of Relaxation UI. 
+Involved in development of front end using AngularJS. 
+Design and development of Entities and JPA repository to save selected rules to database. 
+A service layer in Enhanced Query Generator which picks relaxation rules from database and convert them to boost query. 
+1 
+Project : Dataimport Duration : 
+Sept 2013 to Till Date 
+Designation : Java Developer Solution Environment : 
+Java/J2EE, Spring, Hibernate Frameworks and Postgres, Apache solr API. 
+Operating Systems : 
+Unix Ubuntu 
+Description: 
+Dataimport is a tool grabbing data from different content partners .Content partners providing data in the form of either csv or xml.Field to field mapping has been done at dataimport side UI.Once mapping has been done dataimport server starts indexing process.Under this process it is identifies the file type and fetching data from each field and send it to apache solr search engine. 
+Role & Responsibilities: 
+Fixed defects found in production environment. 
+Involved in enhancements of the application Download and upload of dataimport configuration. 
+Backup feed files before processing. 
+Field mapping validation. 
+New content partners configurations and maintenance. 
+Configuring for new content partner in various countries. 
+Developed GUI using JSP, Javascript. 
+Providing the hibernate code to deal with Postgres. 
+Project : Contest Duration: 
+Sept 2013 to Jan2014 
+Teamsize : 2 
+Environment : 
+Java, Hibernate 
+Description: Maintains a questions repository across different categories. 
+Allows Contest to be created with various configuration parameters. 
+Enables Interfaces for calculating Contest Result to know Overall, Daily, Hourly & Weekly winners. 
+Supports level based & category based contest 
+Role & Responsibilities: 
+Understanding the Business Rules. 
+Design and implementation of HQL queries. 
+Added feature to read questions from Excel sheet. 
+Project : 
+Rich Content System Duration: 
+Sept 2013 to Jan2014 
+Teamsize : 2 
+Environment : 
+Java, Hibernate 
+Description: 1. Store Images with following extensions : PNG, JPG, JPEG & GIF. 
+2. Resize existing stored Image to any specific resolution. 
+3. Given an image name / image url, System can return byte[] representation for them. 
+4. Given an image url, Sytem could generate a tiny url. 
+5. Given a text message, it could generate an image out of the text content. 
+Role & Responsibilities: 
+Understanding the ImageMagick tool. 
+Writing scripts to resize, generate Images using ImageMagick. 
+API for create tiny URL. 
+2 
+Academic Details: 
+PROJECTS BCA 6 th Semester Project 1) Title : LAN EFFICACY 
+Worked on : Java 
+Technology node : 
+Network based project 
+Input : Selection of Particular IP Address 
+Goal : Surveillance of connected clients 
+computers Intermediate stages : Understanding basics of Java RMI, Implementing basic RMI program, Building of GUI using Java swing components. 
+Tools used : NetBeans 6.9, Winrar 
+Roles and Responsibilities in Project : Analysis of requirements, Designing, Coding. 
+MCA 5 th Semester Project 2) Title : Instant Messenger 
+Worked on : Java 
+Technology node : 
+Network based project 
+Input : Username. 
+Goal : To establish interactive communication link. 
+Intermediate stages : Understanding basics of Java Socket program, implementing basic Socket program, Building of GUI using Java swing components. 
+Tools used : NetBeans Roles and Responsibilities in Project : Analysis of requirements, Designing, Coding. 
+PROJECTS MCA 6 th Semester Project 3) Title : Data Conversion For Health Benefit System 
+Worked on : Oracle Apps/ Oracle Advanced Benefit 
+Goal : Convert client s data to Fidelity standard format Intermediate stages : Gain domain knowledge on Health benefit, understanding role of Fidelity as record keeper, Hands on with Fidelity s OAB 
+Roles and Responsibilities in Project :Data Analyst, Data developer Internship Details 
+Company : Fidelity Investments 
+Worked on : Oracle advanced Benefit system Project title 
+: Data conversion for Health Benefit system 
+PERSONAL PROFILE 
+Father s Name : Prakash B Kulkarni 
+Date of birth : 21-12-1989 
+Nationality : Indian 
+Languages Known 
+: Kannada (mother tongue), Hindi, Marathi and English 
+Permanent Address : Plot #28 
+BALBHIM KRUPA 
+Treasury colony, Takke Road Bijapur 586103 3 

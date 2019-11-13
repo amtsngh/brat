@@ -1,0 +1,114 @@
+Curriculum Vitae 
+Abhay Kumar Singh #G-1204, 12th Floor, OXY HOMEZ, New 
+Dilshad Extn, Near Koyal Enclave, Ghaziabad, UP-201102. 
+Email: abhaykrsingh08@gmail.com 
+Mobile: +91-9899645847 
+Phone: 0120-7132943 
+CAREER OBJECTIVE 
+To obtain a challenging position in Android Application development and to improve myself in a reputed organization with career opportunities conductive to both personal and professional growth. 
+PROFESSIONAL SUMMARY 2.5 years of overall work experience as Android Developer in Mobile Application development field. 
+Having some knowledge in iOS development. 
+Having good knowledge in IDE, SDK, JSON, XML, Http Connection, SOAP, Rest API 
+Integration of Social Apps, SQLite, Design/Layouts on XML, Async Task, Shared 
+Preferences, Web View. 
+Proficient on customizing User Interface (UI) components in android. 
+Having a great passion to work on cutting edge technologies of the software development and endeavoring to achieve this aim by working keenly on upcoming technology. 
+Has the motivation to take independent responsibility as well as ability to continue and be a productive team member. 
+Having good communication, interpersonal, intuitive and analytical skills facilitate the ability to thrive in both independent and collaborative work. 
+WORK EXPERIENCE 
+Working as a Android Developer in Corouter Solutions Pvt. Ltd. From December 2016 to Present. 
+Worked as a Android Developer in Efficacious Solutions Pvt. Ltd. From March 2016 to October 2016. 
+Worked as a Mobile Developer in Sunhill Systems Pvt. Ltd. From October 2015 to February 2016. 
+Worked as a Trainee Android Developer in Virtuzo Consultancy Services Pvt. 
+Ltd. from August 2014 to June 2015. 
+6 Month Project Training in Cetpa Infotech Pvt. Ltd. From January 2014 to June 2014. 
+ACADEMIC DETAILS: 
+MCA from Bundelkhand University Jhansi with 64.5% of Marks in 2014. 
+BCA from Chaudhary Charan Singh University Meerut with 59.4% of Marks in 2011. 
+Intermediate from U.P.Board Allahabad in 2006 with 79.6% of Marks in 2006. 
+High School from U.P.Board Allahabad in 2004 with 74% of Marks in 2004. 
+TECHNICAL SKILLS: 
+Operating System : Windows Server 2008/2003, Windows XP, Windows 7, Windows 8 / 8.1, Linux, iPhone OS. 
+Languages : Android, Core Java, Swift. 
+Utility Frameworks : JSON, VOLLY, XML, SOAP, REST. 
+Database : SQLITE, SQL Server 2008 & 2012. 
+Development Tools : Eclipse IDE , Android Studio, Xcode. 
+Office Tools : MS-Office (Access, Word, Excel) 
+Web Technology : Html, JavaScript. 
+PROJECT UNDERTAKEN: 
+1. Vtel & Vtel User App: 
+Organization: Virtuzo Consultancy Services Pvt. Ltd. 
+Duration : 3 month. 
+Team Size : 3 
+Technology : Android 4.4.2, Java 
+Role : UI Design, Development and Testing 
+Tools : 
+2. Sales App: 
+Eclipse Juno & ADT 
+Organization: Virtuzo Consultancy Services Pvt. Ltd. 
+Duration : 2 month. 
+Team Size : 3 
+Technology : Android 4.4.2, Java 
+Role : UI Design, Development and Testing 
+Tools : Eclipse Juno & ADT 
+3. Digital Marketing Calculator App: 
+Organization: SunHill Systems Pvt. Ltd. 
+Duration : 1 month. 
+Team Size : 1 
+Technology : Android 5.1.1, Java 
+Role : Developement and UI Design 
+Tools : Eclipse Kepler. 
+4. Idea Rewards Consumer & Merchant App: 
+Organization: Efficacious Solutions Pvt. Ltd. 
+Duration : 3 month. 
+Team Size : 1 
+Technology : Android 6.0, Java 
+Role : Developement and UI Design 
+Tools : 
+5. Vaanik App: 
+Android Studio. 
+Organization: Efficacious Solutions Pvt. Ltd. 
+Duration : 2 month. 
+Team Size : 1 
+Technology : Android 6.0, Java 
+Role : Development, UI Design & Testing 
+Tools : Android Studio. 
+6. Idea Rewards Consumer & Merchant App: 
+Organization: 
+Efficacious Solutions Pvt. Ltd. 
+Duration : 1 month. 
+Team Size : 1 
+Technology : 
+iOS, Swift 
+Role : Developement and UI Design 
+Tools : Xcode 7 & 8. 7. Corouter App: 
+Organization: 
+Corouter Solutions Pvt. Ltd. 
+Duration : 5 month. 
+Team Size : 2 
+Technology : 
+Android 6.0, Java 
+Role : Developement and UI Design 
+Tools : Android Studio. AREA OF INTEREST(S): 
+Mobile App Development / Application Development Area. AWARDS & ACHIEVENTS: 
+Participated in twaran-2007 , a national level basket-ball tournament in KNIT, Sultanpur (U.P.). 
+Winner of the Volleyball tournament 2016 in Oxy Homez. 
+Participated in indoor games in 2006, a inter hall competition in AMU, Aligarh. 
+Participated in cricket tournament at district level. 
+Participated in inter-college sport competition in sports (basketball, cricket, carrom & badminton). 
+Participated in modeling at college level. 
+Organized events in college. 
+PERSONAL DETAILS: 
+NAME : Abhay Kumar Singh 
+FATHER'S NAME : Mr. Shrikant Singh 
+DATE OF BIRTH : 10, July 1991 GENDER : Male 
+BLOOD GROUP : O+ 
+MARTIAL STATUS : Single 
+LANGUAGES KNOWN : English, Hindi. 
+HOBBIES : Listen to Music, Playing cricket, Volleyball & Basketball, Internet Surfing. 
+STRONG POINTS : Self-Confidence, Positive attitude, Target oriented, Quick Learner and Ability to work in a team. 
+PERMANENT ADDRESS: Village: Amawa, Post: Sohanaria, District: Deoria 
+Uttar Pradesh-274408. 
+I hereby certify that all the information provided above is true to the best of my knowledge. 
+Place: Ghaziabad 
+Date: (Abhay Kr. Singh) 

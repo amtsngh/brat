@@ -1,0 +1,63 @@
+Kannan E-Mail : akannanmsc@gmail.com 
+Mobile No: +91 8015262659 
+Seeking a position to utilize my skills, abilities and knowledge in an organization that offers professional growth and to obtain the challenging position. Excellent Technical 
+Communication, Presentation, Consulting, Analytical and Logical skills coupled with self- confidence. 
+Education Profile: 
+Course Specialization Institution Percentage 
+Msc (2011-2013) Information Technology. Kongu Engineering College 72% Bsc (2008-2011) Computer Technology. Ksr College of Technology 76% 12th (2007-2008) Maths, Computer. Spk Schools 60% 10th (2005-2006) Science. Ksr Schools 65% 
+Course Completed: 
+SAP Course: 
+Sap Basis & Sap Netweaver (Willsys infosystems Hyderabad) Technical Skill Set: 
+Operating System 
+: Linux, Windows 2000/2003/2008. ERP : SAP R/3 4.7, Ecc5.0/6.0, EHP, Netweaver 7.0/7.3/7.4. 
+Tools 
+: Service Manager 7, Solution Manager. 
+Database 
+: Oracle 9i/10g/11, MS Sql Server. 
+Programming language 
+: C, C++, Java, .Net. 
+Co-Curricular: 
+Active participation in GRID COMPUTING 
+National level technical symposium at SSM College of Engineering, Kumarapalayam. 
+Career Objective: 
+Sixth position in overall college QUIZ conducted by IEEE. 
+Extra-Curricular: 
+Won Gold medal in state level fencing tournament Participated in National level fencing held at Aurangabad, Maharastra. 
+Won first prize in department level Debate competition Sap Basis Strengths: 
+Proficient performance monitoring of ERP systems. 
+Scheduling, Monitoring and management of standard and user specific jobs. 
+Configuration of SAP help library through SR13. 
+Install various version of SAP components like ERP, SRM, and SCM. 
+Printer and spool administration. 
+Management of database standard jobs. 
+Profile parameter changes recommendations. 
+Troubleshooting of spool overflow, lock table overflow. 
+Kernel upgrade in Linux/oracle and windows/MSSQL Platforms. 
+Support pack upgrade in ECC 5.0/6.0. 
+SNOTE implementation and de-implementation. 
+Transport management system configuration. 
+CCMS alter configuration. 
+Troubleshooting OSS Connection issues. 
+Restart of Instances. 
+Checklist derivation using Central performance History. 
+SCOT Configuration. 
+Analyzed the database and hardware issues. 
+Strong interpersonal skills, self-motivated and very detail oriented with problem solving ability. 
+Worked on various database like oracle, Microsoft SQL Server. 
+Configured Backup/Perform the backup. 
+Restore and Recover the database. 
+Apply the Notes, Support packages, Languages and add-on s. Configured Operation modes. 
+Configured SLD and update CIM and CR. 
+Configured memory parameter using config tool. 
+Deploy the support packages using SDM and JSPM. 
+Bsc Project: 
+Rateless Forward Error Correction Topology for Transparent Scheduling: 
+In this project Topology-transparent scheduling for mobile wireless ad hoc networks has been treated as a theoretical curiosity. This paper makes two contributions towards its practical deployment. We generalize the combinatorial requirement on the schedules and show that the solution is a cover-free family. As a result, a much wider number and variety of constructions for schedules exist to match network conditions. In simulation, we closely match the theoretical bound on expected throughput. The bound was derived assuming acknowledgments are available immediately. We use rateless forward error correction (RFEC) as an acknowledgment scheme with minimal computational overhead. Since the wireless medium is inherently unreliable, RFEC also offers some measure of automatic adaptation to channel load. 
+These contributions renew interest in topology-transparent scheduling when delay is a principal objective. 
+Software used: Visual studio .Net 2005, SQL server 2000. 
+Msc Project: 
+DORMITORY CARE SYSTEM 
+This project sends the message to parents to intimate whether the students are inside or outside of the hostel campus. This care system also carries visitor registration, attendance, complaints from parents, guardian and student profiles. Still most of the school students are scribbling their names in a paper book regarding their entry and exit timing. Without parents or guardians, the student are allowed to go with unknown persons and dorm attendance also maintained manually. This care system will send the message to the parents about entry and exit timing of the student from dorm instead of scribbling their name in a paper book. After checking the parents and guardians database students are permitted to go with them and the overall attendance will be maintained. This care system is complete students care service to improve the administration and parent s satisfaction of the students staying in hostel. 
+Software used: Visual studio .Net 2010, SQL server 2005. 
+I hereby declare that all the above information is true to my knowledge. 
+Yours Truly, Kannan 

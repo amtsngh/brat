@@ -1,0 +1,46 @@
+ Shaheeda 
+Bangalore| Mob: +91 7795139796 
+| shahitabraz@gmail.com career objective An enthusiastic, self-motivated and initiator professional looking for a stable position in a growing organization to utilize my experience and knowledge. career summary 4+ years of experience in IT industry working as a DBA on SQL SERVER Environments. 
+Involved in Installation, Configuration and Maintenance of SQL Server 2005/2008/2008R2/2012. 
+Migrating the SQL Server databases and instances from lower to higher version. 
+Recovering the databases to point-in-time with respect to the customers requirement. 
+Experience on applying Service packs and hot fixes for SQL Server upgrades. 
+Fixing the orphan users and allow the users to access the database. 
+Moving the system and user databases from one location to the another location. 
+Creating Logins and assigning privileges like Roles / Securable to the users on databases. 
+Creating and Configuring the jobs through the SQL Agent schedules. 
+Configuring DB mails and creating Operators / Alerts for the SQL Agent job failures. 
+Creating and configuring linked servers from SQL to SQL instances and SQL to oracle instances. 
+Creating and maintaining the indexes on the tables and performing Re-build / Re-organize indexes to improve the performance. 
+Running the maintenance activities like update-statistics and DBCC CHECKDB at the time of performance issues. 
+Troubleshooting blockings / deadlocks and fixing them by adding permanent fixes. 
+Configuring Logshipping between two servers and troubleshooting at the time of synchronization issues. 
+Hands on experience on Log Shipping, Database Mirroring, Replication and Clustering. 
+Hands on experience on version upgrades i.e., from SQL 2005/2008 to SQL 2012 version in side by side method. 
+Experience on configuring and administering Clustering environment. 
+Involved with ITIL Process (Incident/Change Management). skills Databases : SQL SERVER 2005, 2008, 2008R2 and 2012 Operating Systems : Windows Server 2008 / 2008R2 / 2012 work experience 
+Client : Crucell Pharmaceuticals 
+Company : IQmen Data Solutions Pvt Ltd., 
+Oct 14 - Present 
+Role : DBA 
+Responsibilities 
+Installation, configuration and upgrading of SQL Server 2005 / SQL Server2008. 
+Backup scheduling and restoring of databases. 
+Applied patches and service packs to keep the database at current patch level. 
+Automating the dba tasks for monitoring the activities. 
+Supported production, QA and development databases. 
+Configuring Log Shipping and ensuring synchronization between Primary/Secondary server. 
+Configuring Mirroring and ensuring the synchronization between Principal and Mirror DBs. 
+Running database utilities (backup, recovery, creation of maintenance plans). 
+Ensuring high availability of the database exploiting the concepts of Clustering, Replication, Database Mirroring and log shipping etc. 
+Client : NOXXON Pharma 
+Company : IQmen Data Solutions Pvt Ltd., 
+July 12 - Oct 14 
+Role : DBA 
+Responsibilities 
+Verifying all database instances are up and Running. 
+Running database utilities (backup, recovery, creation of maintenance plans). Installation & Configuration of SQL Servers on Standalone & Cluster Environment 
+Applied patches and service packs to keep the database at current patch level. 
+Automating the dba tasks for monitoring the activities. 
+Ensuring high availability of the database exploiting the concepts of Clustering, Database Mirroring and log shipping etc. 
+Education Master of Science from S V University, Tirupati. Bachelor of Science from S V University, Tirupati. 

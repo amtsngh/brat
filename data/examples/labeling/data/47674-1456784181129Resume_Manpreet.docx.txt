@@ -1,0 +1,72 @@
+Manpreet Singh Anand 
+Phone: +91-9899272799 
+Email: manpreet.anand85@ymail.com Highly motivated Technical Support Professional. Strong verbal, listening and written skills. Comfortable in interacting with all levels of the organization and public. Able to negotiate and solve problem quickly, accurately, and efficiently. 
+Professional Experience 
+Convergys India Services 
+Designation: Office 365 Exchange Online Subject Matter Expert. 
+Experience: Feb 2014 
+Present, Gurgaon 
+Roles & Responsibilities: 
+Technical assistance to Microsoft Office365 Exchange Online and Microsoft Exchange Server Administrators only. 
+Managing mailboxes, groups and resources. 
+Supporting all types of migration to Exchange Online. 
+Implementing and managing Auditing, Data Loss Prevention and Journal Rules. 
+Establishing & troubleshooting Mail-Flow between Exchange Online & On-Premises Exchange Server. Setup and maintaining Hybrid Configuration. 
+Supporting Mail-Flow issues (Unable to send/receive emails, missing emails, email delays). 
+Setting up SMTP Relay for IIS virtual server, 3rd party applications and multifunction devices. 
+Providing Domain-Wide protection from Spam, malwares, viruses and spoof emails etc. 
+Helping in setup Transport Rules, Advanced Spam Filtering and Connection Filtering. 
+Setting up new domains on Office365 Exchange Online. 
+Running In-Place EDiscovery & Extended Message Traces. 
+Operating System: Win Server 2012 R2, Win Server 2008 R2, Windows 8.1, Windows 8, Windows 7. 
+Hands on Experience: Microsoft Exchange Server 2013, Microsoft Exchange Server 2010, Microsoft Exchange Server 2007, Hyper V. 
+Assistance provided via Phone and E-mail. 
+Ticketing tool: Customer Assistance Portal (CAP). 
+Arvato Bertelsmann Services 
+Designation: Technical Support Executive-Acronis Enterprise Support 
+Experience: Feb 2013 Feb 2014, Gurgaon 
+Roles & Responsibilities: 
+Backup of Windows Desktops, Servers and Virtual Machines. 
+Recovery of Windows Desktops, Servers and Virtual Machines. 
+Assisting Enterprise Customers with different Acronis products: Acronis Backup & Recovery Advanced 11.5, Acronis Snap Deploy, Acronis vmprotect 9.0. 
+Backup & Recovery of VMware ESX Hosts. 
+CRM tool: Salesforce 
+Quatrro Global Services 
+Designation: Solution Engineer 
+Experience: August 2011 Feb 2012,Gurgaon. 
+Roles & Responsibilities: 
+Troubleshooting Windows Desktops, Printers, Scanners, Webcams, Modems, routers etc. 
+Installing or uninstalling of different programs. 
+Assisting in fixing the issues with viruses, spywares, malwares etc. 
+Installing or reinstalling Windows. 
+Operating System: Windows XP, Windows Vista, Windows 7. 
+Cleaning up Desktop startup items, temp folder, internet cache etc. 
+Iyogi Technical Services 
+Designation: Technical Specialist 
+Experience: April 2010-April 2011 Roles & Responsibilities: 
+Technical Support on phone to Dell customers residing in USA & Canada. 
+Install, upgrade, and troubleshoot software. Setup and configure laptops, desktops & printers. 
+Setup email accounts through MS Outlook. 
+Installing Antivirus software for PC protection. 
+Ensure laptops and desktops computers are properly functioning. 
+Part of Dell Social Media & Community, helping customers on Social Websites & Forum. 
+Provide technical advice and sell software and services. 
+Operating System: Windows XP, Windows Vista, Windows 7. 
+Education 
+Top of Form 
+Bottom of Form 
+Vinayaka Mission University 
+M.B.A. (Information SYSTEMS) 2009-2011 Neptune Institute of Management & Technology 
+Bachelor of Computer Applications (BCA) 2003-2006 New Era Public School, New Delhi 10+2, Non-medical Stream (C.B.S.E.) 2003 
+Certifications 
+MCTS Windows Server 2008 R2: Active Directory 
+MCSA 
+Office 365 MCPCore Solutions of Microsoft Exchange Server 2013 MCP Windows Server XP Professional 
+Personal Details 
+Fathers Name : 
+Darshan Singh Anand 
+Date of Birth : 19th Sep 1985 Marital status : 
+Single 
+Languages known : English, Hindi & Punjabi 
+Nationality : Indian 
+Hobbies : Playing Football, Table Tennis, Listening to Music and Travelling. 

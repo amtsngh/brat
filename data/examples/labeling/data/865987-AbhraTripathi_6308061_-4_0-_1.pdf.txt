@@ -1,0 +1,72 @@
+Abhra Tripathi 
+80-D Regent, Shipra Suncity, Indrapuram, Ghaziabad. 
+Mobile No: 8587904072 E-Mail: abhra_tripathi@yahoo.co.in 
+In quest of assignments in software development as well as designing and to grow in a technology oriented organization of repute. 
+PROFESSIONAL ABRIDGEMENT 
+A dynamic professional with more than 4 years of rich experience in software development and currently associated with Sopra Group, India, Noida as Sr. Software Engineer. Involved in end to end development of software products and demonstrated abilities to analyse information system needs, evaluate end user requirement, custom designing solutions, troubleshooting for complex information systems management. A team player and a leader, as per project needs, with excellent communication and interpersonal skills. Good analytical abilities to solve programming problems. 
+SKILL SET 
+Technical Programming: C#, Dotnet, ASP.Net, MVC, Java Script, LINQ, WCF, JQuery, JSON, Ajax, HTML, CSS, XML 
+Databases: SQL Server, MS Access Data Access: Entity Framework, ADO.Net, Linq to SQL 
+Operating Systems: 
+Windows XP, Windows Server, Windows 7 Development Platforms/Tools: Visual Studio, Enterprise Library, .Net Framework, VSS, SVN, TFS, HTML Help workshop, MSTest Design and Management: n-tier architecture, Design Patterns, Agile (Scrum) Development, Test Driven Development, Behaviour Driven 
+Deployment, SOA, UML. 
+Others: Telerik, Crystal Reports 
+Functional  Participate in all phases of product development including assessment of base architecture, conceptualization, design, prototyping, final coding and testing. 
+ Applied knowledge of software architecture to perform software development tasks associated with developing, debugging and designing according to provided design specifications. 
+ Participates in project team activities and contributes to documentation requirements. 
+ Drive the installation of the application with Test and Production Support teams. 
+ Implementation of software solutions and providing training to the client. 
+ Ability to quick troubleshoot and provide suggestions on solutions. 
+ Provide post-implementation, enhancement & maintenance support to client. 
+ Ability to understand high-level architecture and design content, and how it relates to implementation and deployment. 
+ Good knowledge of and experience in using common design patterns. 
+EXPERIENCE SUMMARY 
+Since July 2010 Sopra Group India Pvt. Ltd, Noida 
+The Projects Handled (July 10 to October 12) 
+Title: B2B API 
+Client: Easy Jet Airline Company Limited 
+Technology Used: Visual Studio 2010, C#, SQL Server. 
+Team Size: 10 
+Role: - Develop the system in accordance to the inputs provided by client. 
+Write application code to meet expected quality standards by conforming to the steps of doneness defined by the project. 
+Travelled to London, Luton and Edinburgh UK for client side projects. 
+Scope: The webservice which act as middle layer between the easyJet s core and the third parties who access easyjet to book flights and ancillaries. 
+The Projects Handled (November 12 to January 13) 
+Title: e-Res configuration Utilities 
+Client: Easy Jet Airline Company Limited 
+Technology Used: Visual Studio 2010, C#, MVC, SQL Server. 
+Team Size: 6 
+Role: - Analysed and presented the understanding of existing system. 
+Gain knowledge of MVC3 framework and related technologies. 
+Adhere to the quick and quality development with UAT satisfaction 
+Scope: The system was a migration from existing desktop application developed in 
+VB6, to an intranet web application developed using VS2010. 
+The Projects Handled (January 13 to April'14) 
+Title: B2B Production Support 
+Client: Easy Jet Airline Company Limited 
+Technology Used: Visual Studio 2010, C#, SQL Server, Ethos portal. 
+Team Size: 2 
+Role: 
+- Impact analysis and fix of sever production issue. 
+- Prioritize and fix production defects. - Debug the tickets raised by B2B partners. 
+Scope: The production support of above mentioned B2B webservice. 
+The Projects Handled (May'14 to present) 
+Title: Oceane 
+Client: Orange Business services (OBS) 
+Technology Used: Visual Studio 2012, C#, SQL Server, MVC, Entity Framework. 
+Team Size: 25 
+Role: - Develop new requirement request from customer. 
+- Adhere to the strict timelines and surpass the quality. - Dynamic approach to incoming anomalies. - Proactive response to change requests or anomalies in existing system implementation. 
+Scope: The trouble ticketing platform used by OBS support group and users. 
+Academic Experience 
+College Major Project (Feb 10): Project was based on 
+Spy and anti-spry software , developed in Java technology, where my role was of a peer developer in a team of four. Design was materialised with the help of seniors, we were involved in coding, bug fixing and testing phase of the software. 
+College Minor Project (May 09): Project was to design the bottom-up parsing approach used by compiler using C++ language. I worked as an independent developer with end to end implementation of design, coding, debugging and testing, under the guidance of seniors and professor. 
+EDUCATION 
+B. Tech. 
+Vishveshwarya Institute of Engineering and Technology 2010 
+XII Dr. Virendra Swaroop Education Centre (ISC) 2006 
+X Dr. Virendra Swaroop Education Centre (ICSC) 2004 
+PERSONAL FORTE 
+Date of Birth: 23rd October, 1988 
+Passport Status: Available 

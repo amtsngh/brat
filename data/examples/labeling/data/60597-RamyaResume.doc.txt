@@ -1,0 +1,79 @@
+ 4+ Years of Exp on Tableau Developer 
+Alaparthi Ramya Email: alaparthiramya15@gmail.com 
+Phone: +91 9133101659 
+Professional Summary: 
+Having around 4+ years of Professional IT experience in Data Warehousing and Business Intelligence Tool Tableau and Sql developer 
+Having 3.2 years of Development experience on Business Intelligence Reporting Tool Tableau and 1.8 years on Sql developer. 
+Key Skills: 
+Hands on Experience in development of Dashboards and Storyboards in Tableau. 
+Experience in creating aggregates, formatting, sorting and grouping. 
+Experience in creating various views in Tableau. 
+Experience in creating Filters, Quick filters, Table calculations and Parameters. 
+Worked on Symbol Maps, Filled Maps, Sets, and Bins, Sorting and Grouping. 
+Working with Different types of Joins, Data blending, and Actions in tableau, Image Processing, Custom Geo Coding and WMS Server. 
+Working with Different Types of charts like Tree maps, Gantt View, Bubble Charts, Area Charts, Circle Charts and Pie Charts. 
+Knowledge on Tableau Server creating users, groups, projects, site roles, publishing workbooks into tableau servers. 
+Working With Clipboards, Pivot Transformation, What if Analysis. 
+Creating schedules, permissions, data security using tableau server. 
+Knowledge on Creating users, sites, projects, groups, assign roles to users in tableau server using Tabcmd. 
+Flexible and versatile to adapt to any new environment with a strong desire to keep pace with latest technologies. 
+Worked on SQL Commands and Joins and Constraints and Sub Queries. 
+Worked on Functions and Objects like Views, Synonym, Sequence, Index and Clusters. 
+Professional Experience: 
+Currently working as a Tableau Developer in Techno Sphere IT Solutions pvt ltd, Hyderabad from Mar 2012 to till date. 
+Educational Qualification: 
+B.Tech (IT) from JNTU Hyderabad University in 2011 
+Technical Skills: 
+Languages : SQL, PL/SQL 
+Tools : SQL*PLUS, TABLEAU 8.0 ,9.0,9.1. 
+Data Base : Oracle 10g Operating System : Windows2008, Windows 7. 
+Project Summary: 
+Project # 1 Project Name : Report analysis 
+Feb 2013 to till date 
+Client : Ericsson, Canada 
+Role : Tableau Developer 
+Team Size : 3 
+Environment :Tableau Desktop, Tableau server. 
+Description: 
+Ericsson is a Swedish multinational technology company that provides and operates telecommunications networks, television and video systems, and related services. The business objective of sales analysis is being invoice of customer for the usage of the network. Sales services and products offered by Ericsson as a result of the service agreement the customer has reached with Ericsson. As a Software Developer, I am involved in the following activities in the project. 
+Roles & Responsibilities: 
+Involved in gathering Requirements. 
+Creating excel based Reports, Tableau Reports and Dashboards. Configure and optimizeTableauServer per specified requirements and timelines. 
+Working on different types of reports like Bar, Line, Geographic, Pie and Text tables. 
+Involved in creating Calculations, Filters, Parameters, Sets, Actions and Formats..etc. 
+Involved in Blending the axis and Data blending from various data sources. Experience on KPI (key performance Indicators). 
+Creating Customized and Interactive dashboards using data sources and custom objects. 
+Attending the weakly Status call with onsite team. 
+Deployed reports in to the Tableau Server and Public. 
+Created various like Bar, Line, Pie, and Geographic visualizations. 
+Project # 2 Project Name : Altoonas Client : Walgreens USA 
+Role : Tableau Developer 
+Team Size : 3 
+Domain :Health Care 
+Description: 
+In Altoona Hospital they have planned for analyzing the general Healthcare Packages at various units of Altoona Group of Hospitals in USA to identify the people who are at risk, disease, rate of healing with past history and sets up a lifelong preventive and promotional healthcare program by using medical intervention like treatments and their periodical tests and lifestyle management, thereby improving their quality of life. Similarly the results of diagnostic procedures are stored to evaluate the patients health risk assessment and for analyzing the health risk areas. 
+Roles and Responsibilities: 
+Understanding Business, Functional and System Requirements. 
+Created universe objects like Dimensions, Details and Measures, Conditional Objects and Prompts Functions to meet the requirements. 
+Created charts to display summary of the data. 
+Used filters, quick filters, sets, parameters and calculated fields on Tableau reports Generated context filters and used performance actions while handling huge volume of data. 
+Expertise to create Dashboards and Interactive Dashboards. 
+Created relationship between two different Data Sources by using Data- blending. 
+Interact with Tableau-Server to publish the data-view and scheduling the reports. 
+Created various views in Tableau (Bar charts, Line charts, scatter plot, Heat Maps). 
+Developed set analysis to provide custom functionality in tableau application. 
+Expertise in creating Hierarchies for proving drill down option for the end user. 
+Project: #3 Project Name : European Employee Benefits Benchmark (EEBB) 
+Jan 2012 to Dec 2013 
+Client : Money Gram, U.S.A. 
+Role : Database Developer 
+Team Size : 5 
+Project Description: 
+European Employee Benefits Benchmark provides a lot of valuable benefits especially in the human resources section that organize and improve the efficiency of employees in organizations. It is one of the major benefits which is even one of the backbone reasons why the system became so popular. every organization in nowadays has the necessity of managing its staff on a really good level as the staff has definitely the greatest merit of building up a company as such as it is This system focus on non cash benefits including pensions and health care That Will play a key role to attract and retain a talented workforce. The system is designed to help hr section to improve the design and scope of benefits packages to make them more attractive to employee in a rapidly changing financial and economical landscape. 
+Roles and Responsibilities: 
+Created Oracle Tables, Views, Constrains, Synonyms, Sequences. 
+Interacted closely with Cursors, Stored Procedures, Functions, Packages and Triggers 
+Writing PL/SQL Blocks. Worked heavily with relationship database models, schemas & entity-relationship diagrams (ERMs) to create technical/system design documents. 
+Worked with team on customizing the abilities of Crystal Enterprise such as exporting, previewing, printing and emailing reports. 
+Managed performance and tuning of SQL queries and fixed the slow running queries in production with utilities like Explain, Trace, and Stored Outlines. 
+Providing support to client on 24*7 bases. 

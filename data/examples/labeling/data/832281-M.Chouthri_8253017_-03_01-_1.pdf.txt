@@ -1,0 +1,50 @@
+ CHOUTHRI.M 
+1/111A, Pillayar Kovil 2nd Street, Behind Pacifica Tech park, Navalur,Chennai-600 130. 
+Mobile: +91 95005 70677 ; E-mail: 
+chouthri91@gmail.com 
+Career Objective 
+To obtain a challenging and rewarding position in Linux Administrator with an organization that recognizes my true potential and provides me sufficient avenues for professional growth through nurturing my technical skills and competencies. 
+Employment History 
+Currently working as a Technical Engineer with Three Years of versatile experience in IT infrastructure Management, System Administration and Fault Management. 
+Presently working at Nokia Networks as a Network Operations Associate 
+/Technical Support Engineer Previously worked at Orange Sorting Machines as a Technical Support 
+Engineer. 
+Technical skills 
+Having knowledge in Networking Apache web-server configuration 
+Having knowledge in creation and deletion of Linux users 
+Having knowledge to assigning permissions for file To configuring SAMBA and NFS servers. 
+Having knowledge to create logical volumes(LVM) and resize the same Having knowledge in Maria DB and ISCSI configuration. 
+Having the Knowledge in Postfix configuration Having knowledge in troubleshooting for Bootable errors Having Knowledge in troubleshooting of file mounting related issue 
+Having knowledge in IPV4 & IPV6 configuration. 
+Area of Exposure: 
+Operating Systems: Linux -RHEL7, Windows7/8. 
+Certifications 
+RHCE -RHEL7 
+Certification Number: 160-085-973 
+Certified Date: May 31st 2016 Professional Experience: 
+Nokia Networks, Chennai (November-2014 to December-2015 & May-2017 to till date) 
+Position: Network Operations Associate Having a strong knowledge in 2G&3G Network To create and delete users account Enabling and Disabling the BSC (Base Station Controller) In EMS. 
+To checking BSC alarms and site logging and unlocking by using commands in Linux client system. 
+To provide authentication for various user application tools like Push Pull, Netact, EMS (Element Management System) 
+To create a Ticket to responsible teams for tools issues by using BMC remedy & GDC tool & AWE & RAS-Netact. 
+Co ordinating with circle team & Incident managers for team functioning related issues. 
+Co-ordinating with OSS team for the issue related with Netact Co-ordinating with tools team for the issue related with BMC Remedy 
+Co-ordinating with IT team for the LAN related issues 
+Perform PC activation and Termination and software upgradation through portal. 
+Troubleshooting the boot process problems To maintaining L1 issue tracker Orange Sorting Machines India Pvt. Ltd., (June-2009 to July-2011) Position: Technical Support Engineer-Trainee Operating Systems Installation and Termination. 
+Repairing the PCB (Printed Circuit Board) 
+Debugging the IC s malfunctioning and replace the IC s in PCB board. 
+To analyze the sensors operation by using oscilloscope Co-ordinating with tools& technical teams for issue related with sensors 
+Co-ordinating managers for issue related with customer requirements and engineers functioning. 
+To maintaining L1 issue tracker Achievements 
+I got appreciation mail from Operation Manager for my work at LAN connectivity issue occurred time. 
+Academia 
+Bachelor of Engineering in Electronics & Instrumentation Engineering - April 2014 - with 8.39 CGPA at Muthayammal Engineering College, Rasipuram Diploma in Electronics & Communication Engineering - April 2009 - with 81.7% at Sakthi Institute of Technology, Erode. 
+SSLC - April 2006 - with 87.2% at Govt. High School, Pandiampalayam, Erode. 
+Strengths 
+Excellent communication skills and work ethics. 
+Ability to provide technical support in a global environment. 
+Exceptional project management skills. 
+Quick learner, goal oriented and self-motivated. 
+Personal Information: 
+Permanent address :307 k, G.H. street, Kavindapadi, Erode(Dt)-638 455. Tamilnadu 

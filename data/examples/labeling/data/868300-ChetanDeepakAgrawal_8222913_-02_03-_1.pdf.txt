@@ -1,0 +1,49 @@
+ Agrawal Chetan Deepakkumar 
+Cognizant Technology Solutions 
+Pune 
+Career Objective 
+Professional software engineer and aspiring technical lead with close to two years of industry experience in Quality Engineering and Assurance, Functional and Automation Testing. 
+Work Experience 
+I am currently working with Cognizant Technology Solutions as a QE&A resource. My current project is with a major client in Investment Bank giving me an exposure to Banking and Finances domain. As a QE&A resource of an Agile project, I am involved in all stages of testing from requirement analysis to delivery and sign-off and I have been involved testing some complex and crucial trading applications single handedly. 
+1.3 years of experience in Automation testing using Selenium 1 years of experience in Functional Testing in Investment Banking domain Hands on experience in key-word driven framework in Selenium using java 
+Well versed with GIT and version control 
+Well versed with Software Development life cycle(SDLC) and Software Testing Life Cycle(STLC) Hands on experience in test designing, test execution, test scripts and test scenarios Good Experience in Test Management Tool HP ALM and JIRA 
+Extensive experience in Functionality, GUI and Regression testing 
+Good knowledge Software Testing Methodologies 
+Project co-ordination with onsite team and day to day Client interaction 
+Working closely with development team and production support to resolve quality issues Skillset and Strengths 
+Languages and Scripts: Python, C, C++, SQL, Java 
+Operating Systems: 
+Well versed with Ubuntu (LINUX) and Windows family. 
+Web: Django, HTML, CSS3, Javascript, AJAX, JSON. 
+Packages and tools: Selenium, HP ALM Quality Centre, GIT, JIRA, Eclipse. 
+Publication 
+Chetan Agrawal, Devesh Maru, Pranav Gadekar, Pooja Yedale and Dr. Debajyoti Mukhopadhyay, 
+Addressing 
+NameNode Scalability issue in HDFS using Cache concept , ICIT 2014, 13th International Conference on Information 
+Technology, Bhubneshwar, India. 
+Education 
+Bachelor of Engineering, I.T., Maharashtra Institute of Technology Pune, August 2010 - July 2014, 66.6% Higher Secondary (XII STD), Shri B. K. Jr. College, 2010, Maharashtra State Board, 86% Matriculation (X STD), Shri G. M. English School, 2008, Maharashtra State Board, 89.9 Company Projects 
+Global Positioning Services 
+Client: Credit Suisse Tools/Technologies Used: Sql/Dbx, Unix, HP ALM, Jira Team Size: 2 Snehdeep , Near Gadi, Shegaon - 444 203 Maharashtra, India 
+Mobile: (+91) 9766442575 
+Email: cagrawal11@gmail.com 
+Project Objective: GPS project aims at replacing existing aging systems while providing services required dealing with different relatively recent trading patterns. Consolidate trade and position management across cash and derivatives trading desks and provide single source of trade and position data to risk and other systems in FID Rates and throughout the CS as required. Project includes testing several in house applications for Rates Post Trade: - Fabrica, Broadway, Matrix Pricer that helps the Sales Representative to book the trade on behalf of the customers for different types of Fixed Income securities like Bills, Bond, Strips, Tips etc. 
+Roles and Responsibilities: 
+Test cases creation and Execution 
+Perform System testing Defect Management and Regression Testing. 
+Help in implementing the Priority/Risk Based testing Knowledge management and process documentation for establishing a mature and person independent knowledge model for the growing team. 
+Academic and Personal Projects ToDo List Web Application: 
+Build a simple ToDo list Web App using python and Django MVC web framework. It is a web application that can be used to make a list to tasks one needs to do and set reminders. Main intention behind it was to learn web development. The application uses HTML5, CSS, Javascript and AJAX for frontend and python as a backend language. 
+RentRambo.com: 
+Worked as a freelance resource for www.rentrambo.com which is ecommerce website developed using Python/Django web framework. My major role here involved frontend design and development, backend modules coding as well as end user testing. 
+Addressing NameNode Scalability issue in HDFS using Cache concept (B.E. Project) 
+Mentor: Dr. Debajyoti Mukhopadhyay, Head I.T. Department, MIT Pune 
+Language: Java Team: 4 members In this project, we are trying to solve the Hadoop cluster scalability issue by applying the very simple Cache memory concept. The Hadoop Distributed File System which the filesystem component of Hadoop, has a master node called NameNode which stores whole system metadata on the RAM. Thus, the amount of RAM available to it becomes the limiting factor for the Hadoop cluster to scale. In our project, we tried to remove this limitation imposed on hadoop cluster to scale by RAM size. 
+Seminar Information System (T.E. mini project): 
+Mentor: Mrs. Sheetal Girase, I.T. Department, MIT Pune 
+Language: VB 6.0, SQL Team: 3 people 
+In this project, we developed an application that intends to organize, manage and operate students seminar conducted in third year as a part of academics. The project aims at understanding and learning database management system, SQL and concept of front end and back end design for a system. 
+Declaration 
+I hereby declare that information given above is true and correct to the best of my knowledge 
+Place: Pune Chetan Agrawal 

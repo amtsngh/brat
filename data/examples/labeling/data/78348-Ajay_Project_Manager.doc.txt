@@ -1,0 +1,168 @@
+AJAY DESAI, Project Manager 
+Ahmedabad, Gujarat, India Email: ajaydesai85@yahoo.com Mobile: + 91-9428049020 SUMMARY 
+Competent IT professional with 9+ years of experience in Project Management, Implementation, Project Co-ordination, Quality Assurance, Support and Development and manage IT services. 
+Expertise to Implement TOS (Zodiac, SPARCS) across the globe. 
+Expertise to Manage Project Delivery schedule and quality. 
+Onsite experience at Hong Kong. 
+Implementation experience at Africa (Mozambique, Algeria) and Asia(India, Hong Kong). 
+Expertise in Project Co-ordination with Client & team. 
+Expertise in Resource & Team management. 
+Expertise in Requirement Study and Analysis. 
+Expertise in Key User Training. 
+Expertise for Onsite Offshore model. 
+Expertise to Establish, Monitor, Control and Review process for Software development. 
+Expertise in Software Development Life Cycle, Software Test Life Cycle and Bug Life Cycle. Expertise to prepare Test Plan, Test Strategy, Test Cases and Test Reports. 
+Expertise in Client Co-ordination & Communication with USA, U.K, Asia and Africa region. 
+Expertise in Monitoring & Managing Bug tracking tool. 
+Expertise in Logistic, Heath Care and Human Resource domain. 
+Experienced in Manual Testing, GUI Testing, Functional Testing, Performance Testing, Integrated Testing, System Testing, Database Testing, Baseline Testing, Regression Testing and User Acceptance Testing. Experience in Scrum Methodology. 
+Experience in Project Documentations. 
+Expertise in Data migration. 
+Provided offline and online Application Support to Europe, USA, ASIA, Middle East and Africa region clients. 
+Successfully Implemented ISO 20000:2012 at INTECH Creative Services Private Limited. 
+SKILLS SET 
+Operating Systems 
+Tools 
+Automation tool Windows Platform Java, .NET,VB,VSS,PB, XML, HTML and Altova Map QTP,Selenium 
+Testing Manual Testing, Automation Testing Functional Testing, GUI Testing, Performance Testing, Security Testing, Integration Testing, Regression Testing, System Testing ,Smoke Testing, Baseline Testing, Database Testing, Compatibility Testing, User Acceptance Testing. 
+Databases 
+Defect Tracking Tool Oracle, Sybase and SQL Server Redmine, Track Record, Bugnet and Excel. 
+PROFESSIONAL EXPERIENCE 
+Since Dec 14 CURRENT Project Manager 
+Cognisun LLP 
+Client: Project: Day Lewis PLC(UK) 
+CedaRx 
+Database: SQL Server2008 
+Tools/GUI/Other: Team Size ASP.net, Web Services, and XML. 
+20 Manage & Monitor Project Plan and Delivery schedule. 
+Client Communication. 
+Establish and Monitor process for software development. 
+Resource and team management. 
+Handling Change Control Process. 
+Manage and monitoring QA, Development and Support team. 
+Weekly conference call with client. 
+Weekly Project status meeting. 
+Co-ordination and troubleshooting Business solution. 
+Overview: 
+CedaRX is online Patient Rx ordering system to receive order across the globe through WCF or CSV format. Online order will be gone through physician singing process, Stock allocation, and pharmacy processing and shipping process. 
+PREVIOUS PROJECTS 
+Nov 09 Dec14 Assistant Manager, QA 
+INTECH Creative Services Pvt Ltd 
+Client: Project: 
+DP World 
+Zodiac 
+Database: Oracle, SQL Server 
+Tools/GUI/Other: 
+Team Size Java, ASP.net, VB.net, VB, SQL Reporting Server, Web Services, Altova map and XML. 
+45 
+Role: 
+Prepare Test strategy and Test plan. 
+Configure UAT environment. 
+Maintaining Bug Life Cycle on defect tracking tool e.g. Redmine. 
+Client co-ordination for UAT and PROD migration. 
+Provide Production Support. 
+Bi Weekly conference call with client. 
+Handling Change Control Process. 
+Team Management Activity. 
+Co-ordination and troubleshooting Business application interface e.g. SPARCS interface. 
+Overview: 
+Zodiac is Terminal operating system to manage and optimize PORT Business Operation flow for Marine industry. Zodiac software included Berth planning, Vessel planning, Vessel operation, Rail operation, Yard operation and monitoring, Container handling equipment, Expert Advice, Control Room Activity , VMT(Vehicle mounted Terminal), Custom inspection, CFS (container freight station), Gate Process , EDI (Electronic Data Interchange) ,SSR(Special Service Request) , ICS(Internet Customer Service), Booking, Manifest Process, Container Admin and Container History, Locking Manager, Tractor Registration, and Security Admin, System & User Setting, Inventory inspection, Reefer Work Monitoring and Activities, Enterprise Billing System and Reporting. 
+Zodiac is real time application for Terminal Operation, It also support the Interface with Finance System, Operation and planning system, Documentation System and Devices. 
+Zodiac Implemented in Asia, Africa, Europe, Middle East and Latin America. 
+Jul12 
+Oct 12 Project Lead INTECH Creative Service Pvt Ltd 
+Client: Project: INTECH Creative Service Pvt Ltd 
+Web Site(http://ics-global.in) 
+Tools/GUI/Other: 
+Team Size HTML, PHP. 5 
+Role: 
+Project planning and monitoring Resource allocation and team management. 
+Monitoring and handling project progress & delivery schedule Setup staging environment. 
+Monitor and manage QA process and release activity. 
+Release management 
+Overview: 
+INTECH Creative services Website is Static website designed in HTML and PHP. 
+INTECH website describes company Portfolio, Vision, Mission, Event & News, Work culture, History, Management Team and Technical expertise. 
+Since Dec 11 Nov12 MR INTECH Creative Services 
+Project: ISO 20000 Operation Platform INTECH Creative Services Pvt Ltd 
+Team Size 10 
+Role: 
+Define Processes for HR & Admin, Account, Network admin, Software Development and Services. 
+Initiate and Define Service Level Agreement (SLA) for Software Services. Initiate and Define OLA for HR & Admin, Network and Account Department. 
+Define Business Continuity and Availability Plan. 
+Initiate and conduct Internal audit and Management Review meeting Project Management and Team co-ordination. 
+Successfully Implemented ISO Certification processes. 
+Overview: 
+ISO 20000 is International Standard for Information Technology Service Management. Its including Design, Transition, Delivery and improvement of services that fulfil service requirements and provide value for Customer as well as Service provider. ISO aims to Establishes, Implements, Operates, Monitors, Reviews, Maintain and Improves service management system. 
+Nov 09 
+Jul 12 QA Lead INTECH Creative Services Pvt Ltd 
+Client: Project: 
+DP World 
+Zodiac 
+Database: Oracle, SQL Server 
+Tools/GUI/Other: 
+Team Size Java, ASP.net, VB.net, VB, SQL Reporting Server, Web Services, Altova map and XML. 
+45 
+Role: 
+Project Implementation and Project Co-ordination. 
+Key user and End user training. 
+Closely Worked with User for UAT. 
+Prepare Test strategy and Test plan. 
+Configure QA & UAT environment. 
+Maintaining Bug Life Cycle and monitoring Defect tracking tool e.g. Redmine. 
+Client co-ordination for UAT and PROD migration. 
+Provide Production Support. 
+Bi Weekly conference call with client. 
+Team Management Activity. Design and executed Test cases. 
+Preparing documents, e.g. User manual, Release note 
+Feb 07 
+Feb 09 
+Software Testing Engineer Meditab Software Inc. 
+Project: Intelligent Medical Software(IMS) 
+Operating System: Windows 
+Database: Sybase SQL Anywhere 9.0 
+Tools: 
+Team size: Power Builder 11.5 30 
+Role: Requirement Analysis, Preparing Test plan, Test Cases, Test Report, Executing Test cases, Defect Tracking and Weekly Status Meeting 
+Overview: 
+IMS is a Medical Software for doctor office which includes Patient Demographic, EMR, Billing, Scheduler, and Check In/ Out, Prescription, Document Management, Letter Writing, Fax Management, Reminder, and Drug. It includes inbuilt Scanner, Speech Recognition, Transcription, Image Editor, Photo capturing, IVR (Interactive Voice Reminder) and Fax. It possesses different utilities like Auto Backup, AutoText, and Extensive Search etc. to make users life easy. It has Report Builder and Report Designer to allow user to make their own reports. It is one of the best doctor systems in USA. It also invokes web services to verify licence and client validation with companys website. 
+Aug 07 - Dec 07 
+Software Testing Engineer Meditab Software Inc. 
+Project: Meditab Online Support(MOS) 
+Operating System: Windows 
+Database: MySQL 
+Tools: Team Size PHP 
+10 
+Role: Preparing Test Cases, Executing Test cases, Defect Tracking, Test Report and Weekly Status Meeting 
+Overview: MOS is portal developed for internal use for companys staff. It helps company to manage Client information, Keep track of all Support Cases, Schedule Client update, New Version Enhancement, Test cases, Client training, Instruction log. 
+Dec 07- Feb 08 
+Software Testing Engineer Meditab Software Inc. 
+Project: Meditab Employee Management (MEM) 
+Operating System: Windows 
+Database: MySQL 
+Tools/GUI/Other: 
+Team Size: 
+PHP 
+10 
+Role: Preparing Test Cases, Executing Test cases, Defect Tracking, Test Report and Weekly Status Meeting 
+Overview: 
+MEM is portal developed for internal use for companys staff; it helps company to manage Task Assignment, In/Out Log, Leaves, Daily Log, Weekly Report, Evaluation Report, Team Management, Implementation Management etc. 
+Feb 08- Feb 09 
+Software Testing Engineer Meditab Software Inc. 
+Project: Intelligent Database Conversion System (IDCS) 
+Operating System: Windows 
+Database: Oracle 9i/ SQL Anywhere 9.0 
+Tools: 
+Team Size: VB 6 5 
+Role: Requirement Analysis, Data Structure analysis, Test Cases, Executing Test Cases, Bug Tracking, Test Report and Status Meeting. 
+Overview: 
+IDCS is Data migration utility according the IMS database, this utility migrate data and Generate Inconsistency Report. Its included table mapping, rule mapping, and Default values etc. Its also providing import, export, functionality on Target Database as well as Source Database. 
+Award 
+Crown of the Year-2012 INTECH Creative Service Year 2012 EDUCATIONAL CREDENTIALS 
+Bachelor of Engineer 
+Information Technology Nirma Institute of Technology 
+Year 2002 2006 Higher Secondary School Certificate (HSC, Std. - 12) GHSEB Year 2000 2002 
+Secondary School Certificate (SSC, Std. 10) 
+GSEB 
+Year 2000 PERSONAL VITAE 
+Date of Birth: August, 8 

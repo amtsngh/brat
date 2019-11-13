@@ -1,0 +1,64 @@
+ TUSHAR KUKRETI Email tusharkukreti7@gmail.com 
+Mob: 8285439524 
+An MCA graduate having more than 1.5 years of experience in software development(Front end/ Back end) using Microsoft Technologies and open source tools. 
+Front End 
+- JavaScript/TypeScript, HTML5/ CSS3, AngularJS/Angular2/jQuery, XAML 
+Back End 
+- C# DBMS Technologies 
+- SQL, Entity Framework, Dapper 
+Methodologies - SDLC, Agile 
+Framework - .NET, MVC, WEB API, WPF, WCF, Workflow 
+Database - 
+SQL Server 2008 Domain Knowledge - Insurance 
+Company - Xceedance Infotech 
+Location - Gurugram 
+Domain - Insurance Designation - Analyst Programmer L1 (July 2016 - Present) 
+Job Responsibilities: 
+Creating dynamic Windows and Web Applications primarily using C# Analyzing requirements and changes on daily basis given by client. 
+Attending daily SCRUM meetings/calls 
+Worked under Agile methodology. 
+Company - NIIT Technologies 
+Location - Greater Noida 
+Domain - Insurance 
+Designation - Software Trainee Developer (Jan 2016 - July 2016) 
+Job Responsibilities: 
+Worked majorly on creating windows applications using WPF 
+Also, learned Automation testing using Selenium. 
+Worked under Agile methodology. 
+1. Project Name : Workflow Management System Description : 
+To create a web application which manages and records the incoming requests from the customer for policy underwriting and various data enrichment activities. 
+Technologies : Front End- HTML5, AngularJS, CSS3, BootStrap3. 
+Back End- C#, EntityFramework, LINQ. 
+Professional Summary 
+Technical Skills 
+Work Experience 
+Projects Undertaken 2. Project Name : Rating & Pricing Engine Description 
+: 
+It s an insurance rating and pricing engine that validates incoming ACORD compliant quote requests, applies a complex , built-in rating algorithm and responds back with a premium quote using REST APIs. 
+Technologies : Front End- HTML5, Angular2, TypeScipt, CSS3, BootStrap3. 
+Back End- C#, Dapper. 
+3. Project Name : AON referral application Description 
+: 
+It s a windows application designed using WPF for our client AON, which creates and maintains the records of every users, groups and their associated roles within the organization. 
+Technologies : Front End- XAML. 
+Back End- C#, SQL, ADO.NET. 
+Awarded with Nascent newcomer tag for being the best fresher at Xceedance on Sept 2016. 
+Successfully completed AGILE training given by NIIT Technologies during March 2016. 
+Degree Year Institute University/ Board Percentage 
+MCA 2016 JIMS, Rohini, New-Delhi GGSIPU 81 
+BCA 2013 Institute of Management Education, UP CCSU, Meerut 75.2 12th 2010 Kendriya Vidyalya Vigyan Vihar, Delhi CBSE 72 
+10th 2008 Kendriya Vidyalya Vigyan Vihar, Delhi CBSE 76 Father s Name - Mr. Pradeep Kukreti 
+Date of birth 
+- 13th Feb 1993 
+Gender 
+- Male 
+Marital Status 
+- Unmarried 
+Nationality 
+- Indian 
+Present 
+Adderss 
+- 94 Vivek Vihar Phase-2, Delhi 
+Recognitions and Achievements 
+Academic Qualifications 
+Personal Details 

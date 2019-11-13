@@ -1,0 +1,57 @@
+ Mailing and Permanent 
+MANISHIKA 
+Email ID : address 
+manishika_2006@yahoo.com WZ-721,Flat 1-B,Maruti Chowk, 
+B.Tech, Information Technology manishikasingh@gmail.com 
+Palam Colony,ND-77 
+Contact no. : +919582207992
+ EXPERIENCE 
+December 2015 June 2016 
+Worked as Android/Java Developer in Wizikey India 
+I was responsible for creating Wizikey app from scratch 
+Worked extensively with server interaction, BarGraph and PieChart implementation, LinkedIn SDK, used various Libraries, GCM 
+I was responsible for creating a database of useful news crawled from various publication websites in java.Worked extensively with Html, Jsoup, getting text from HtmlTags. 
+I was responsible for automated Linkedin people search using HtmlUnit, Jsoup in java for validating people details on daily basis. 
+August 2014 August 2015 Worked as Android Developer in Cube26 Software Pvt. Ltd. 
+Worked on Android Open Source Project (AOSP) - Modifying default mobile apps with more features for better user experience. 
+Modified various android framework Camera, Browser, Gallery, Launcher,Browser Developed GameHub as a marketplace for Games present in million devices as default system app Developed AppStore as a marketplace for apps Worked on analytics library 
+Synched up with various ODMs integrating and merging our source code into their custom Android ROMs March 2013 August 2014 
+Worked as an Android Developer in Rare Media Company Pvt. Ltd. 
+I was responsible for creating and maintaining various android applications. 
+Created modules to accelerate workflow that are used in many applications like saving images from server to sdcard ,showing checkin markers on google map,mapping json etc. 
+Involved in developing User Interface layouts for various applications Worked extensively with database, Sqlite and Google Map API. 
+Well versed in concepts like Layouts, Menus, Dialogs, Views , Services, AsyncTask, AlarmManager, LocationAPI, Adapters EDUCATION 
+B.Tech (Information Technology) at Ansal Institute of Technology (2008-2012) 65.93 % XII Standard(CBSE Board) at K.V Sector -8 R.k.puram New delhi-22 (2008) 64.40 % X Standard(CBSE Board) at K.V Sector -8 R.k.puram New delhi-22 69.80 % (2006) TTECHNICAL SKILLS 
+Languages Known: java, j2ee, C, C++ Mobile Application Development: Android application development 
+Database knowledge: Sqlite , SqlServer 
+Web Technology: HTML Software: Eclipse, NetBeans, Android Studio 
+Worked on Android open source project (AOSP) 
+PROJECTS 
+Wizikey India 
+Android Apps 
+Team size : 1 Wizikey app ( Duration : 4 weeks ) 
+o An android app which is aimed that makes managing PR efforts simple. Have features like track news coverage, analysis performance against competition and build your influencer list, all within seconds. Press releases from one platform. https://play.google.com/store/apps/details?id=com.wizikey.wizikeyapp&hl=en Website Crawling (Java) 
+Team Size : 1 
+News Crawling from various publication websites using Java, Jsoup. 
+Linkedin people search using htmlUnit to automate validation of people details in java. 
+Cube26 Software Pvt Ltd. 
+Android Apps 
+(Present in over a million devices) 
+GameHub(Team Size : 3 , Duration : 6 weeks) 
+o Marketplace of selected top games by different game providers. 
+AppStore(Team Size : 3 , Duration : 6 weeks) 
+o Marketplace of selected top apps , user can download and install directly from the app. 
+Android Open Source Project (Present in over a million devices) (Team size : 1, Duration : 4-6 weeks each) 
+Camera : Integrated code to take selfies with a blink feature. 
+Gallery : Integrated image editing code which allows user to make image background blur. 
+Phone : Integrated hover to silent code in default phone framework of AOSP. 
+Launcher : Added custom themes and transition in default google launcher in both app drawer and workspace. 
+Browser : Added features like Night mode and saving web articles for offline reading in default Browser app. 
+Analytics Library(Team size : 2, Duration : 2 weeks) Prepared analytics library for different apps. 
+Worked extensively with Services, BroadcastReceivers, AlarmManager, Server Client communication, Notifications,Fortumo SDK for operator payment, widgets etc. 
+RareMedia Company Location tracking android app (Team size : 4, Duration : 6 weeks) 
+Developed real time tracking android app in which one can see add their friends employees to track their location and also shows the route travelled by the person. 
+https://play.google.com/store/apps/details?id=com.RareMediaCompany.FindMyEmployee Real-time synced organization work summary android app (Team : 2, 6 weeks) 
+It consists of complete synced date and location based work summary of a security guard organization which is synced in real-time https://play.google.com/store/apps/details?id=com.RareMediaCompany.BlueDolphinForSuper visorsrGV56O Workflow and field force automation project for logistic company (Team : 2, 6 weeks) 
+It is used to show complete synced work(scanning QR codes, printing QR code labels, managing client alert SMSes, tracking, creation, transit, receipt and delivery of packages) summary of the organization along with location tracking. 
+https://play.google.com/store/apps/details?id=com.RareMediaCompany.MuditaBulkScanner 

@@ -1,0 +1,123 @@
+ SATISH PEDIREDLA 
+C: 9686741700 | satishped@gmail.com 
+Business Analyst with over 7 years of work experience in Market Risk/Risk Management/Capital Markets/CRM etc. 
+Professional Snapshot 
+Seasoned Business Analyst with diverse industry experience in Capital Markets, Market Risk and Risk Management in Investment Banking, HealthCare, Life Sciences and Enterprise & IT Architecture. 
+Professional expertise includes Business Analysis, Risk Management, Requirements Gathering, Requirements Analysis, BRD & FRD Creation, User Acceptance Testing, Agile, Scrum, Business Consulting etc. 
+Experience of requirement gathering and analysis process in a client facing role. 
+Experience of creating Functional Specification Documents (FSD/ISD), Business Requirement Documents. 
+Thorough knowledge of Software Development Life Cycle (SDLC). Have a practical understanding of various phases like Requirement Gathering, Analysis, Design, Development and Testing. 
+Good knowledge and experience in Business Analysis Techniques and Methodologies. 
+Possess good knowledge of Agile and Waterfall methodologies. 
+An effective communicator with excellent relationship building and interpersonal skills. 
+Core Competencies 
+Business Analysis: 
+Documentation:BRD (Business Requirement Document),FRD (Functional Requirement Document). 
+InterviewingBusiness users&SMEs. 
+Defining strategic solutions to business problems. 
+Software Development Life Cycle (SDLC) and Agile (SCRUM). 
+Acceptance Testing and Wireframe. Analysis & Design (Use Case, Sequence and Activity diagrams). 
+UML tools (MS Visio, Visual Paradigm). 
+Key Skills 
+Business Analysis 
+Requirements Gathering 
+Requirements Analysis 
+Business Requirements Document 
+Functional Requirements Document 
+Software Development Life Cycle 
+User Acceptance Testing 
+SQL 
+Agile (Scrum) Domain Knowledge 
+Investment Banking - Risk Management (Capital Markets): 
+Involved in Risk Management profile for Capital Markets specifically in Market Risk. 
+Well conversant with Risk management practices, VaR methodologies, Market Data, Time Series and various Risk calculations. 
+Thorough understanding and experience in calculating Default at Risk, Migration Risk, VaR, Incremental Risk Charge and Issuer Default Loss etc. 
+Good knowledge on financial market and products - Fixed Income, Equities and Derivatives. 
+Good understanding of regulatory needs in market risk. 
+Exposure to Regulatory Reporting space e.g. Capital Adequacy, Liquidity Reporting, Stress Testing, IHC/CCAR, LGD Calculation, Market Risk etc. 
+Good understanding of the changes in regulatory guidelines like BASEL III, Dodd-Frank Act etc. 
+HealthCare & Life Sciences: 
+Worked for more than two years in HealthCare and Life Sciences domain in Tech Mahindra. 
+Worked on a solution called "Clinical xPress" which is built on the foundation of Oracle Health Sciences (OHS) applications for effective Clinical Trials and Data Management, Hosted Services - Software As A Service (SaaS) and Platform BPO. 
+Clinical Data Management and Statistical Services - CRF Design and Study Setup, Clinical Data Management, Helpdesk Services, Site Assessment, RDC User Training, Statistical Analysis. 
+Have worked extensively in a service portfolio encompassing capabilities like Clinical Trial Management, Clinical Data Management, Pharmacovigilance, Adverse event management, Drug Safety, Regulatory submissions, Global Artwork and Pack Management (for Drug manufacturers) and Clinical IT Application Development etc. 
+WORK EXPERIENCE 
+Tata Consultancy Services, Bangalore (September 2015 
+Till date) (Contract Position, Payroll Company 
+Foray Software Pvt. Ltd) 
+Sr. Business Analyst 
+Key Deliverables: 
+Working in Market Risk, IT with a leading Swiss Bank. 
+Conduct the meeting with clients and key stakeholders to gather requirements, analyze, finalize and have formal sign-offs from approvers. 
+Communicate effectively between multiple stakeholders to drive clarity and solutions. 
+Translate the business requirements into the Requirement Document. 
+Facilitate meetings with the appropriate subject matter experts in both business and technology teams. 
+Give Knowledge Transfer to the development team on Functional Specifications. 
+Train developers on functional concepts and resolve functional problems faced. 
+Acts as SPOC for business requirements and represent the end user in the development team. 
+Develop a thorough understanding of data coming from various sources including front office and primary risk/finance data sources, limitations and gaps in attributes required for various regulatory and internal commitments. 
+Provide application demos to users, and answer user queries related to daily risk management/reporting if and when required. 
+Conduct functional testing of application during development. 
+Involved in the successful development and delivery of IT applications for calculating Risk Charges. 
+Currently working on CCAR (Comprehensive credit analysis and review) regulatory project in requirement gathering. 
+Involved in the following projects from initiation to delivery. 
+CCAR & Trading Issuer Default Loss (TIDL) 
+Incremental Risk Charge (IRC) CCAR & Trading Issuer Default Loss (TIDL): 
+Comprehensive Capital Analysis and Review (CCAR) is a regulatory framework introduced by Federal Reserve Bank in order to assess, regulate and supervise banks and other financial institutions collectively referred in framework as Bank Holding Companies & Intermediate Holding Companies. These companies are expected to estimate Trading Issuer Default Losses (IDL) among number of other losses. 
+These IDL losses are required to be calculated in line with currently devised multifactor IRC model for IHC legal entities with changes to parameters, component setting and calculation inputs. 
+Incremental Risk Charge (IRC): 
+Incremental Rick Charge (IRC) is a regulatory capital charge for default and migration risk arising from positions in the trading book. IRC is a requirement for banks that model specific risk to measure and hold capital against default risk that is incremental to any default risk captured in the banks Value-at-Risk (VaR) model hence the name Incremental Risk Charge. 
+IRC was incorporated into the trading book capital regime in response to increasing amount of exposure in banks trading books to credit risk related and often illiquid products whose risk is not reflected in VaR. IRC set forth intended to complement additional standards being applied to the Value-at-Risk modeling framework. Together, these changes address number of perceived shortcomings in the current 99%/10 day VaR framework. 
+Some calculation methods include: 
+List DAR Data 
+List DAR Data Extended 
+List Dar Data Netted 
+List IRC Nodes 
+DAR Values calculation 
+MDAR Values Calculation 
+Aggregate 0, Aggregate 100 iCMG (P) Ltd., Bangalore (January 2014 June 2015) Business Analyst/Business Development Manager 
+Key Deliverables: 
+Translate client objectives and requirements into solution concept for specific deals, based on offerings and capabilities Provide IT project and application support for sales and marketing teams Assist in the development of CRM application. 
+Conduct business process analysis and design for the sales and marketing business areas leading design discussions with senior management Develop and maintain configuration and functional design documentation Develop test cases, execute testing and coordinate testing with business representative Lead and coordinate marketing campaign and reporting processes and associated tasks such as requirements, functional specification and other client documentation. 
+Support production staff & client end users in the use of the overall client solution with a focus on marketing campaigns and reporting. 
+Practice customer advocacy and take charge of the account and work on get well plan in collaboration with delivery/ projects teams with minimal client escalations. 
+Compliance to systems & processes to ensure management reporting and analytics for informed decision making and productivity norms. 
+3i Infotech Ltd., Hyderabad (November 2012 
+July 2013) 
+Sr Associate/Market Analyst/Business Analyst 
+Key Deliverables: 
+Responsible for the design and build of marketing campaigns and reports based on business objectives. 
+Provides analysis of campaign results including trends, anomalies, testing results, key insights and recommendations. 
+Involved in creating new database according to customer specifications and business requirement. 
+Creates and maintains processes and procedures to assure accurate and timely analysis of marketing campaigns. 
+Work with Business Analysts to develop business requirements Building and maintaining healthy business relations with customer, enhancing customer satisfaction metrics by achieving delivery & service quality norms. 
+Dealing with clients from various verticals in providing services like IT infrastructure management, App Development, Testing etc. through various latest methodologies like Cloud Computing. 
+Tech Mahindra (Erstwhile Mahindra Satyam), Hyderabad (October 2009 November 2012) 
+Sr Executive 
+Key Deliverables: 
+Responsible for research and presales activities for consulting projects. 
+Involved in responding to RFIs related to all gamuts of IT services and handling sales support activities for different industries. 
+Analyzing latest market trends, tracking competitors activities and providing valuable inputs for fine tuning sales & marketing strategies. 
+Managing the campaigns for lead generation and brand awareness. 
+Building and maintaining healthy business relations with customer, enhancing customer satisfaction metrics by achieving delivery & service quality norms. 
+Dealing with clients in IT infrastructure segment including Cloud Computing and managed services. 
+Involving in research activities of ERP of SAP, Oracle and Microsoft along with specific vertical designed solutions. 
+Sutherland Global Services, Chennai (December 2007 January 2009) Executive 
+Key Deliverables: 
+Involved in Customer support activities for DELL Consumers. 
+Identifying and recommending appropriate solutions for the issues. 
+Using effective tools to diagnose the issues and provide correct resolution. 
+Involved in selling of various hardware and software related products. 
+Involved in providing value added services. 
+ACADEMICS 
+2006 Bachelor of Engineering (Electrical & Electronics) from Anna University. 
+2001 
+Intermediate (M.P.C) from Board of Intermediate Education, A.P. 
+1999 
+Secondary School Certificate from Board of Secondary Education, AP. 
+IT SKILLS 
+Packages: MS Visio, SQL, Visual Paradigm, MSOffice (Word, Excel, PowerPoint). 
+Business Analysis Certification: Winprotech IT Solutions India Pvt. Ltd., India EEP for IIBA. 
+PERSONAL DETAILS 
+Date of Birth : 24th January, 1984 
+Linguistic Abilities : English 

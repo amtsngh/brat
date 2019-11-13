@@ -1,0 +1,92 @@
+ RITWEEK RANJAN 
+Contact : +91-74068-23823 
+Email : ritweek@gmail.com 
+Alternate Email: ritweek@hotmail.com 
+Skype ID 
+: ritweek Summary 
+.NET professional with 2.6 years of experience involved in Development, Implementation & Maintenance of US Healthcare projects based on ASP.NET MVC3, C#, SQL SERVER, JQuery. 
+Around 2 years of experience in Electrical maintenance and SAP ABAP as Electrical Engineer. 
+An effective teammember having excellent inter-personal skills, dedication and professionalism, experience of working with cross-cultural and multi-lingual teams, seeks to enhance self-growth and contribute to the growth and development of the organization. 
+EXPERIENCE 
+Working as Software Engineer with LogixHealth Solution Private Limited, Bangalore from May 2014. 
+Worked as Trainee software Engineer with Pratian Technology, Bangalore from Jan 2014 
+May 2014 Worked as Electrical Engineer with Abhijeet Projects Limited, Chandwa (Jharkhand) from March 2012 
+Dec 2013. 
+Education 
+Bachelors in Engineering 
+Electrical and Electronics from Don Bosco Institute Of Technology, Bangalore. Affiliated to Visvesvaraya Technical University. 
+Technical Expertise 
+Programming Language : C# 
+Frameworks : .Net, MVC3, MVC4, Entity Framework 
+RDBMS : 
+SQL Server 2008 & 2012 
+Web Services 
+: WCF 
+Applications Servers : IIS 
+Tools : VS (2008, 2010 & 2013), Microsoft Office, ReSharper Version Control 
+: VSS, TFS, SVN, TeamCity 
+Web Services 
+: WCF 
+Others : LINQ, Entity Framework 
+Project Experience 
+Project #1 Connect & Callback 
+Client LogixHealth , Bangalore 
+Company LogixHealth Solution Private Limited, Bangalore 
+Environment 
+Web based, ASP.NET MVC3, Entity Framework, SQL, HTML, JQUERY, AJAX and WCF. 
+Duration May 2015 - Present 
+Role Software Developer 
+Internal Application: 
+This application is for all our clients to deliver a quality service and get the feedback from the customers. The patients who visits our client hospital will be asked to give the feedback which will help to make our services more streamline. The application will have all the news about new development and upcoming webinar and conferences. 
+Responsibilities: 
+Responsible for Production support, Design and Development 
+Good understanding & working exposure into Ticket handling on Remedy. 
+Follow the Development tools, system configuration and coding standards as part of design/build process. 
+Take ownership for problems, ability to work independently and get them resolved with effective follow through. 
+Communicate the daily progress of tasks and risks to Onsite team. 
+Ability to solve problems quickly and completely. 
+Project #2 
+CAF(Coding Application For Excellence) Client LogixHealth , Bangalore 
+Company LogixHealth Solution Private Limited, Bangalore 
+Environment 
+Web based, ASP.NET MVC4, ADO.Net, SQL, HTML, JQUERY, AJAX and WCF. 
+Duration April 2015 
+April 2015 
+Role Software Developer 
+Internal Application: 
+This Application was created for automating the workflow management throughout the team. This had an inbuilt Job Scheduler which allotted work to each and every member of the team of a particular Department of a Location below a client according to the Holidays fed to the system, production and quality the manager expects. 
+Responsibilities: 
+Working on Forms UI and connecting all the layers through Service in order to contact the database. 
+Creating all Stored Procedures. 
+Implementation of Architecture 
+Determined operational feasibility by evaluating analysis, problem definition, requirements, solution development and proposed solutions Project #3 Emergency Department - Platform for Assured coding excellence 
+(ED Pace) Client LogixHealth, Bangalore 
+Company LogixHealth Solution Private Limited, Bangalore 
+Environment WinForm Application, VB .Net, SQL, ADO.Net Duration May 2014 March 2015 
+Role Software Developer 
+ED Pace (Emergency Department - Platform for Assured coding excellence) is a product for medical coding for US health care providers which is designed to code emergency department data from various hospitals in every available format, including paper and electronic records. 
+The captured data (from hospitals) will bring to PACE application in the form of charts along with patient's information. The coders will do coding according to the information available in PACE application.PACE allows coders with rules-driven coding that optimizes revenue and compliance which restrict the coder to enter invalid procedure codes, Invalid diagnosis codes for the procedures. 
+PACE uses processes like chart conversions, Demo file conversions, Charge conversions, Reconciliation in RCM. 
+Responsibilities: 
+Maintained the pre-built application by developing User friendly screens. 
+Implementing and enhancing the new functionality. 
+Worked on bulk inserts for inserting client data. 
+Involved in requirement gathering and discussed about technical enhancement, performance efficiency for development, maintenance and promulgation of systems standards. 
+Project #4 Project Lazzan 
+Client Arbinger, USA 
+Company Pratian Technology , Bangalore 
+Environment SQL Server 2008, ASP.NET MVC 4.0, HTML ,CSS, JQuery Duration Jan 2014 - May 2014 Role Trainee Software Engineer Event Management System is intended to serve as a workshop for existing facilitators from around the world. A strategic event where sharing of the experiences and impact of strategies applied over the past year will help all of the other licensees. This event takes the learnings from the global operations of the previous year into consideration, the goals for the current year and helps the organization device a strategic director for the coming year in a collaborative manner. 
+Responsibilities: 
+Understanding the Requirements and Functional Specifications of the Project. 
+Designing the database and class diagram. 
+Developing the module, keeping various test cases in consideration. 
+Project #5 
+Abhijeet Projects Ltd, Latehar, Jharkhand (BHEL make 270 X 4 MW) Client Abhijeet Projects Limited, (270 X 4) MW Power plant Company Abhijeet Projects Limited, Chandwa, Latehar, Jharkhand 
+Environment Electrical Maintenance and Testing 
+Duration March 2012 To Dec 2013 Role Electrical Engineer Personal Particulars 
+Nationality 
+: Indian 
+Marital Status 
+: Single 
+Languages Spoken : English and Hindi 
+Date of Birth : 02-April-1988 

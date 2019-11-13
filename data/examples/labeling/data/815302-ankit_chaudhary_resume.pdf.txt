@@ -1,0 +1,60 @@
+ANKIT CHAUDHARY Mob: +91-9958615279 
+16-J Police Colony Model Town-II Delhi Email ID: ankitchaudhary015@gmail.com 
+OBJECTIVE 
+To be a consistent worker and a diligent learner in a professionally competitive ambience. 
+Accepting challenges in the work environment, targeting at enhancing my potentialities. 
+CAREER SNAPSHOT 
+6 years of industry experience with 4 years in Mobile Application development and 2 years in UMTS 
+Protocol Development. 
+Conversant in analyzing system requirements, evaluating end-user requirements, custom designing solutions, troubleshooting for complex information systems management. 
+Proficiency in technical documentation, design, development and troubleshooting for Mobile 
+Application Development (using Java, Android Applications, etc.) 
+Team player with excellent communication, negotiation and relationship building skills. 
+WORK EXPERIENCE 
+EMPLOYER : Health Cubed India Pvt Ltd 
+DESIGNATION : Android Developer 
+DURATION 
+: March 2017 
+Till Date 
+KEY SKILLS : Android, SQLite, JSON, RESTful APIs PROJECT DESCRIPTION: 
+Healthcubed Application 
+Healthcubed is an innovative patient management tool that helps clinics and doctors to improve patient care and data management. It is an android based application integrated with a diagnostic device called Healthcubed Pro via USB connection which incorporates a range of rapid diagnostics tests along with the diagnostic algorithms and application for patient registration, diagnostics, medical records, payments & referrals. 
+KEY RESPONSIBILITIES: 
+Design and build advanced applications for the Android platforms Translate designs and wireframes into high quality codes. 
+Work with outside data sources and API s Experience with offline storage and performance tuning. 
+Familiarity with RESTful APIs to connect backend services. 
+Understanding of code versioning tools such as Git. 
+Working on bug fixing and improving application performance. 
+Deliver across the entire app life cycle concept, design, build, deploy, test, release to app stores and support. 
+Gather requirements around functionality and translate those requirements into elegant functional solutions. 
+Build prototypes at tech scoping stage of projects. 
+Working along the web developers to create and maintain a robust framework to support the apps. 
+Create compelling device specific user interfaces and experiences. 
+Optimizing performance for the apps. 
+EMPLOYER : Public Health Foundation Of India, PHTT DESIGNATION : Android Developer 
+DURATION 
+: October 2013 Feb 2017 PROJECT DESCRIPTION: 
+APATS (AIDS Prevention and Treatment System) Application 
+APATS is a project by NACO currently being run in Thane, Maharashtra. It aims to develop an android based application that facilitates tracking of high risk population using biometric identification and form based questionnaires. The software is being used by frontline health-workers and is targeted to completely digitize the Government s existing tracking and monitoring system. 
+Swasthya Slate Application 
+Swasthya Slate is an end to end solution created to digitize NRHM s RMNCHA+. It comprises of a Bluetooth enabled diagnostic device which is controlled by an Android phone/Tab. All the data collected which includes personal as well medical information is uploaded on a remotely located server using GPRS/ 
+Wi-Fi. The project is currently running successfully in five different states of India and is catering to a population of about 1 lakh. 
+EMPLOYER : Nex-g Exuberant Solutions Pvt ltd 
+DESIGNATION 
+: Software Developer 
+DURATION : Aug 11 Sep 13 KEY SKILLS : C, Linux, UMTS/WCDMA 
+TECHNICAL SKILLS 
+Domain: Android Application Development 
+Languages: JAVA, C 
+Operating System: Windows 7,8,10, Linux 
+Development Environments: Android Studio, Eclipse IDE, Git, bit bucket 
+Tools: Android SDK, JSON, SQLite, RESTful APIs 
+Other: Mobile Health, Healthcare Information Technology, Healthcare Management 
+MBA (System) IMT-CDL Ghaziabad 2012-13 
+B.Tech (IT) IIMT Engg College 2007-11 
+XII th SVM Inter College 2007 X th 
+Adarsh Inter College 2005 
+PERSONAL DETAILS 
+DOB: 
+1TH JULY 1991 LANGUAGES KNOWN: 
+Hindi, English 
