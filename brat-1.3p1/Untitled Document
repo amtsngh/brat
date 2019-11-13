@@ -1,0 +1,23 @@
+try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+
+    // List to collect Person objects
+    List<Person> persons = new ArrayList<Person>();
+
+    // Read file line by line
+    String line = "";
+    while ((line = br.readLine()) != null) {
+       // Parse line to extract individual fields
+       String[] data = this.parseLine(line);
+
+       // Create new Person object
+       Person person = new Person();
+       person.id = Integer.valueOf(data[0]);
+       person.fName = data[1];
+       person.mName = data[2];
+
+       // Add object to list
+       persons.add(person);
+    }
+
+    // Further process your Person objects...
+}
